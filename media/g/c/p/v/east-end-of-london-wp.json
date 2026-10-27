@@ -3,19 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/p/v/east-end-of-london-wp/hero.jpg",
-        "filename": "Tower of London viewed from the River Thames.jpg",
-        "caption": "Tower of London viewed from the River Thames.",
-        "alt": "Tower of London viewed from the River Thames.",
-        "width": 3948,
-        "height": 2479,
+        "path": "_m/g/c/p/v/east-end-of-london-wp/canary-wharf-view-tham.jpg",
+        "filename": "London, Canary Wharf -- 2016 -- 4751.jpg",
+        "caption": "Canary Wharf (view from the Thames), London, England, United Kingdom",
+        "alt": "Canary Wharf (view from the Thames), London, England, United Kingdom",
+        "width": 5389,
+        "height": 3031,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Bob Collowan",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tower_of_London_viewed_from_the_River_Thames.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Dietmar Rabich",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:London,_Canary_Wharf_--_2016_--_4751.jpg",
         "sourceType": "core",
         "sourceArticleId": "east-end-of-london-wp",
-        "sourceGeohash4": "gcpv"
+        "sourceGeohash4": "gcpv",
+        "mediumPath": "_m/g/c/p/v/east-end-of-london-wp/canary-wharf-view-tham-medium.webp",
+        "smallPath": "_m/g/c/p/v/east-end-of-london-wp/canary-wharf-view-tham-small.webp"
       },
       "images": [
         {
@@ -110,7 +112,7 @@
           "smallPath": "_m/g/c/p/v/east-end-of-london-wp/royal-albert-dock-lond-small.webp"
         },
         {
-          "path": "_m/g/c/p/v/east-end-of-london-wp/1745-roque-historic-ma.jpg",
+          "path": "_m/g/c/p/v/brick-lane-wp/1745-roque-historic-ma.jpg",
           "filename": "1745 Roque Map.jpg",
           "caption": "1745 Roque\nHistoric map of the East End.\n\nSource Birkbeck History Dept., but not on web.",
           "alt": "1745 Roque\nHistoric map of the East End.\n\nSource Birkbeck History Dept., but not on web.",
@@ -122,7 +124,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1745_Roque_Map.jpg",
           "sourceType": "core",
           "sourceArticleId": "east-end-of-london-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/brick-lane-wp/1745-roque-historic-ma-medium.webp",
+          "smallPath": "_m/g/c/p/v/brick-lane-wp/1745-roque-historic-ma-small.webp"
         },
         {
           "path": "_m/g/c/p/v/east-end-of-london-wp/1882-reynolds-map-east.jpg",
@@ -659,7 +663,8 @@
             "Petticoat Lane Market",
             "Pictures by Solipsist",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/br/ic/k-/la/brick-lane/petticoat-lane-market-small.webp"
         },
         {
           "path": "_m/g/c/p/v/canary-wharf-wp/christ-church-spitalfields-02.jpg",
@@ -680,7 +685,8 @@
             "Christ Church, Spitalfields",
             "Files with coordinates missing SDC location of creation (51° N, 1° W)",
             "Flickr images reviewed by FlickreviewR"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/canary-wharf-wp/christ-church-spitalfields-02-small.webp"
         },
         {
           "path": "_m/tpc/br/ic/k-/la/brick-lane/standbeeld-robert-milligan-mus.jpg",
@@ -704,7 +710,9 @@
             "Self-published work",
             "Statue of Robert Milligan",
             "Taken with HP PhotoSmart M417"
-          ]
+          ],
+          "mediumPath": "_m/tpc/br/ic/k-/la/brick-lane/standbeeld-robert-milligan-mus-medium.webp",
+          "smallPath": "_m/tpc/br/ic/k-/la/brick-lane/standbeeld-robert-milligan-mus-small.webp"
         },
         {
           "path": "_m/tpc/br/ic/k-/la/brick-lane/prospect-of-whitby-street-view.jpg",
@@ -728,7 +736,9 @@
             "Prospect of Whitby",
             "Self-published work",
             "Taken with Nikon D50"
-          ]
+          ],
+          "mediumPath": "_m/tpc/br/ic/k-/la/brick-lane/prospect-of-whitby-street-view-medium.webp",
+          "smallPath": "_m/tpc/br/ic/k-/la/brick-lane/prospect-of-whitby-street-view-small.webp"
         },
         {
           "path": "_m/g/c/p/v/canary-wharf-wp/londonmarketscene1.jpg",
@@ -747,7 +757,9 @@
           "categories": [
             "Brick Lane Market",
             "CC-BY-SA-3.0"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/canary-wharf-wp/londonmarketscene1-medium.webp",
+          "smallPath": "_m/g/c/p/v/canary-wharf-wp/londonmarketscene1-small.webp"
         },
         {
           "path": "_m/tpc/br/ic/k-/la/brick-lane/regents-canal-london-england-i.jpg",
@@ -762,7 +774,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Regents_Canal,_London,_England_-Islington_tunnel-21March2010.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brick-lane",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/tpc/br/ic/k-/la/brick-lane/regents-canal-london-england-i-medium.webp",
+          "smallPath": "_m/tpc/br/ic/k-/la/brick-lane/regents-canal-london-england-i-small.webp"
         },
         {
           "path": "_m/tpc/br/ic/k-/la/brick-lane/veg-stall-2.jpg",
@@ -777,7 +791,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Veg_stall_2.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brick-lane",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/tpc/br/ic/k-/la/brick-lane/veg-stall-2-medium.webp",
+          "smallPath": "_m/tpc/br/ic/k-/la/brick-lane/veg-stall-2-small.webp"
         },
         {
           "path": "_m/tpc/br/ic/k-/la/brick-lane/tattydevinebricklane.jpg",
@@ -792,7 +808,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:TattyDevineBrickLane.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "brick-lane",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/tpc/br/ic/k-/la/brick-lane/tattydevinebricklane-medium.webp",
+          "smallPath": "_m/tpc/br/ic/k-/la/brick-lane/tattydevinebricklane-small.webp"
         },
         {
           "path": "_m/tpc/br/ic/k-/la/brick-lane/view-looking-east-northeast-do.jpg",
@@ -807,7 +825,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_looking_east-northeast_down_Wentworth_Street_-_geograph.org.uk_-_1703445.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brick-lane",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/tpc/br/ic/k-/la/brick-lane/view-looking-east-northeast-do-medium.webp",
+          "smallPath": "_m/tpc/br/ic/k-/la/brick-lane/view-looking-east-northeast-do-small.webp"
         },
         {
           "path": "_m/tpc/br/ic/k-/la/brick-lane/victoria-park-aerial.jpg",
@@ -822,7 +842,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Victoria_Park_aerial.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brick-lane",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/tpc/br/ic/k-/la/brick-lane/victoria-park-aerial-medium.webp",
+          "smallPath": "_m/tpc/br/ic/k-/la/brick-lane/victoria-park-aerial-small.webp"
         },
         {
           "path": "_m/g/c/p/v/canary-wharf-wp/four-seasons-hotel-london-cana.jpg",
@@ -837,7 +859,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Four_Seasons_Hotel_London_Canary_Wharf_2010.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "canary-wharf-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/canary-wharf-wp/four-seasons-hotel-london-cana-medium.webp",
+          "smallPath": "_m/g/c/p/v/canary-wharf-wp/four-seasons-hotel-london-cana-small.webp"
         },
         {
           "path": "_m/tpc/br/ic/k-/la/brick-lane/palm-tree-mile-end-e3-14699003.jpg",
@@ -852,7 +876,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palm_Tree,_Mile_End,_E3_(1469900334).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brick-lane",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "smallPath": "_m/tpc/br/ic/k-/la/brick-lane/palm-tree-mile-end-e3-14699003-small.webp"
         },
         {
           "path": "_m/tpc/br/ic/k-/la/brick-lane/old-ship-limehouse-e14-3679914.jpg",
@@ -867,7 +892,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Ship,_Limehouse,_E14_(3679914094).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brick-lane",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/tpc/br/ic/k-/la/brick-lane/old-ship-limehouse-e14-3679914-medium.webp",
+          "smallPath": "_m/tpc/br/ic/k-/la/brick-lane/old-ship-limehouse-e14-3679914-small.webp"
         },
         {
           "path": "_m/g/c/p/v/canary-wharf-wp/grapes-limehouse-e14-367909405.jpg",
@@ -882,7 +909,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grapes,_Limehouse,_E14_(3679094059).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "canary-wharf-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/canary-wharf-wp/grapes-limehouse-e14-367909405-medium.webp",
+          "smallPath": "_m/g/c/p/v/canary-wharf-wp/grapes-limehouse-e14-367909405-small.webp"
         },
         {
           "path": "_m/g/c/p/v/canary-wharf-wp/columbia-road-market-in-london.jpg",
@@ -897,7 +926,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Columbia_Road_market_in_London,_June_2013_(9).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "canary-wharf-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/canary-wharf-wp/columbia-road-market-in-london-medium.webp",
+          "smallPath": "_m/g/c/p/v/canary-wharf-wp/columbia-road-market-in-london-small.webp"
         },
         {
           "path": "_m/tpc/br/ic/k-/la/brick-lane/london-mmb-31-city-canal.jpg",
@@ -912,7 +943,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_MMB_%C2%AB31_City_Canal.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brick-lane",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/tpc/br/ic/k-/la/brick-lane/london-mmb-31-city-canal-medium.webp",
+          "smallPath": "_m/tpc/br/ic/k-/la/brick-lane/london-mmb-31-city-canal-small.webp"
         },
         {
           "path": "_m/tpc/br/ic/k-/la/brick-lane/mile-end-road-geograph-3787776.jpg",
@@ -927,7 +960,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mile_End_Road_geograph-3787776-by-Ben-Brooksbank.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brick-lane",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/tpc/br/ic/k-/la/brick-lane/mile-end-road-geograph-3787776-medium.webp",
+          "smallPath": "_m/tpc/br/ic/k-/la/brick-lane/mile-end-road-geograph-3787776-small.webp"
         },
         {
           "path": "_m/tpc/br/ic/k-/la/brick-lane/old-spitalfields-market-panora.jpg",
@@ -942,7 +977,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Spitalfields_Market_Panorama,_London,_UK_-_Diliff.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brick-lane",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/tpc/br/ic/k-/la/brick-lane/old-spitalfields-market-panora-medium.webp",
+          "smallPath": "_m/tpc/br/ic/k-/la/brick-lane/old-spitalfields-market-panora-small.webp"
         },
         {
           "path": "_m/g/c/p/v/london-city-of-london-wk/london-london-tower-bridge-140.jpg",
@@ -957,7 +994,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_-_London_Tower_Bridge_-_140806_171049.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "london-city-of-london-wk",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/london-city-of-london-wk/london-london-tower-bridge-140-medium.webp",
+          "smallPath": "_m/g/c/p/v/london-city-of-london-wk/london-london-tower-bridge-140-small.webp"
         },
         {
           "path": "_m/g/c/p/v/canary-wharf-wp/dennis-severs-house-1529069015.jpg",
@@ -972,7 +1011,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dennis_Severs_House_(15290690150).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "canary-wharf-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "smallPath": "_m/g/c/p/v/canary-wharf-wp/dennis-severs-house-1529069015-small.webp"
         },
         {
           "path": "_m/g/c/p/v/canary-wharf-wp/east-end-wikivoyage-banner.jpg",
@@ -987,7 +1027,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:East_End_Wikivoyage_banner.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "canary-wharf-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/canary-wharf-wp/east-end-wikivoyage-banner-medium.webp",
+          "smallPath": "_m/g/c/p/v/canary-wharf-wp/east-end-wikivoyage-banner-small.webp"
         },
         {
           "path": "_m/g/c/p/v/canary-wharf-wp/jack-the-ripper-museum.jpg",
@@ -1002,7 +1044,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jack_the_Ripper_Museum.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "canary-wharf-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "smallPath": "_m/g/c/p/v/canary-wharf-wp/jack-the-ripper-museum-small.webp"
         },
         {
           "path": "_m/tpc/br/ic/k-/la/brick-lane/london-boxpark-shoreditch-2.jpg",
@@ -1017,7 +1060,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_-_BOXPARK_Shoreditch_(2).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brick-lane",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/tpc/br/ic/k-/la/brick-lane/london-boxpark-shoreditch-2-medium.webp",
+          "smallPath": "_m/tpc/br/ic/k-/la/brick-lane/london-boxpark-shoreditch-2-small.webp"
         },
         {
           "path": "_m/g/c/p/v/canary-wharf-wp/canary-wharf-from-limehouse-lo.jpg",
@@ -1032,7 +1077,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canary_Wharf_from_Limehouse_London_June_2016_HDR.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "canary-wharf-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/canary-wharf-wp/canary-wharf-from-limehouse-lo-medium.webp",
+          "smallPath": "_m/g/c/p/v/canary-wharf-wp/canary-wharf-from-limehouse-lo-small.webp"
         }
       ],
       "narration": [

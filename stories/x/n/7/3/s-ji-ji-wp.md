@@ -32,7 +32,7 @@ Coordinates: 35.507°N, 139.671°E, in the Tsurumi Ward area of Yokohama. From t
 
 ## Sources
 
-- [Soji-ji - Wikipedia](https://en.wikipedia.org/wiki/S%C5%8Dji-ji)
+- [Soji-ji - Wikipedia](https://en.wikipedia.org/?curid=2848412)
 - [Head Temples - Soto Zen Buddhism Official Site](https://www.sotozen.com/eng/about/HeadTemples/index.html)
   - Soji-ji is one of only two head temples of Soto Zen Buddhism
   - The other head temple is Eihei-ji in Fukui Prefecture

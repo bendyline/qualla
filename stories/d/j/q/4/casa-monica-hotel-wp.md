@@ -28,7 +28,7 @@ The Casa Monica reopened as a hotel in December 1999 under its original name -- 
 
 ## Flight Context
 
-The Casa Monica Hotel is located in the heart of downtown St. Augustine at approximately 29.892N, 81.314W. From the air, its distinctive Moorish Revival towers and terracotta roofline stand out among the historic district buildings near the Plaza de la Constitucion. The hotel sits adjacent to the former Hotel Alcazar (now Lightner Museum) and near Flagler College (the former Ponce de Leon Hotel). The Matanzas River and Bridge of Lions are visible to the east. Nearest airports: St. Augustine Airport (KSGJ) approximately 4nm northwest, Northeast Florida Regional Airport to the north. The historic district's grid pattern and the bayfront are clearly visible at moderate altitudes.
+The Casa Monica Hotel is located in the heart of downtown St. Augustine at approximately 29.892N, 81.314W. From the air, its distinctive Moorish Revival towers and terracotta roofline stand out among the historic district buildings near the Plaza de la Constitucion. The hotel sits adjacent to the former Hotel Alcazar (now Lightner Museum) and near Flagler College (the former Ponce de Leon Hotel). The Matanzas River and Bridge of Lions are visible to the east. Nearest airports: Northeast Florida Regional Airport (KSGJ, formerly St. Augustine Airport) approximately 4nm northwest. The historic district's grid pattern and the bayfront are clearly visible at moderate altitudes.
 
 ## Sources
 

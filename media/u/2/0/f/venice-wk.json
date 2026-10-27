@@ -12,20 +12,26 @@
         "_m/u/2/0/f/venice-wk/u20f-venice-the-lagoons-gift.mp3"
       ],
       "hero": {
-        "path": "_m/u/2/0/f/venice-wp/panorama-of-venice-1870s.jpg",
-        "filename": "Panorama of Venice 1870s.jpg",
-        "caption": "Panorama of Venice, Italy",
-        "alt": "Panorama of Venice, Italy",
-        "width": 17952,
-        "height": 1280,
+        "path": "_m/u/2/0/f/venice-wk/hero.jpg",
+        "filename": "Bellini at Harry's Bar.jpg",
+        "caption": "Cocktail Bellini invented in the \"Harry's Bar\" in Venice Italy.",
+        "alt": "Cocktail Bellini invented in the \"Harry's Bar\" in Venice Italy.",
+        "width": 5134,
+        "height": 3422,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "unattributed",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_of_Venice_1870s.jpg",
-        "sourceType": "sibling",
-        "sourceArticleId": "venice-wp",
+        "license": "CC BY 2.0",
+        "artist": "crazybobbles from London, England",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bellini_at_Harry%27s_Bar.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "venice-wk",
         "sourceGeohash4": "u20f",
         "accessedAt": "2026-02-22T14:13:06.817Z",
+        "categories": [
+          "Bellini (cocktail)",
+          "CC-BY-2.0",
+          "Flickr images reviewed by FlickreviewR",
+          "Taken with Canon EOS 5D Mark II"
+        ],
         "mediumPath": "_m/u/2/0/f/venice-wk/hero-medium.webp",
         "smallPath": "_m/u/2/0/f/venice-wk/hero-small.webp"
       },
@@ -779,8 +785,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Taken with Canon EOS 5D Mark II"
           ],
-          "mediumPath": "_m/u/2/0/f/venice-wk/hero-medium.jpg",
-          "smallPath": "_m/u/2/0/f/venice-wk/hero-small.jpg"
+          "mediumPath": "_m/u/2/0/f/venice-wk/hero-medium.webp",
+          "smallPath": "_m/u/2/0/f/venice-wk/hero-small.webp"
         },
         {
           "path": "_m/u/2/0/f/venice-wp/paolo-monti-serie-fotografica-.jpg",
@@ -1250,7 +1256,8 @@
             "Horses of Saint Mark (facade replica)",
             "License migration completed",
             "Media missing infobox template"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/san-marco-horses-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ve/ni/ce/history-of-venice/villa-manin-passariano.jpg",
@@ -1274,7 +1281,9 @@
             "Self-published work",
             "Taken with Canon PowerShot A540",
             "Villa Manin (Codroipo)"
-          ]
+          ],
+          "mediumPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/villa-manin-passariano-medium.webp",
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/villa-manin-passariano-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ve/ni/ce/history-of-venice/map-of-venice-15th-century.jpg",
@@ -1307,7 +1316,9 @@
             "Panoramas of Venice",
             "Peregrinatio in terram sanctam",
             "Venice in the 15th century"
-          ]
+          ],
+          "mediumPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/map-of-venice-15th-century-medium.webp",
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/map-of-venice-15th-century-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ve/ni/ce/history-of-venice/venitian-ford-at-navlion.jpg",
@@ -1328,7 +1339,9 @@
             "CC-BY-2.5",
             "Taken with Canon EOS 300D",
             "Views of Palamidi from Nafplion"
-          ]
+          ],
+          "mediumPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/venitian-ford-at-navlion-medium.webp",
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/venitian-ford-at-navlion-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ve/ni/ce/history-of-venice/battle-of-lepanto-1571.jpg",
@@ -1352,7 +1365,9 @@
             "16th-century paintings, artist and year missing",
             "16th-century paintings of ships",
             "7 October"
-          ]
+          ],
+          "mediumPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/battle-of-lepanto-1571-medium.webp",
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/battle-of-lepanto-1571-small.webp"
         },
         {
           "path": "_m/s/y/0/p/varosha-wk/dominii-della-repubbli.png",
@@ -1368,7 +1383,8 @@
           "sourceType": "history",
           "sourceArticleId": "varosha-wk",
           "sourceGeohash4": "u20f",
-          "accessedAt": "2026-02-22T14:13:06.817Z"
+          "accessedAt": "2026-02-22T14:13:06.817Z",
+          "smallPath": "_m/s/y/0/p/varosha-wk/dominii-della-repubbli-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ve/ni/ce/history-of-venice/the-republic-of-venice-in-the-.jpg",
@@ -1384,7 +1400,8 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-venice",
           "sourceGeohash4": "tpc/_ho/ve/ni/ce",
-          "accessedAt": "2026-02-22T14:13:06.817Z"
+          "accessedAt": "2026-02-22T14:13:06.817Z",
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/the-republic-of-venice-in-the--small.webp"
         },
         {
           "path": "_m/tpc/_ho/ve/ni/ce/history-of-venice/mzk-001-nr-09-eine-ansicht-des.jpg",
@@ -1400,7 +1417,8 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-venice",
           "sourceGeohash4": "tpc/_ho/ve/ni/ce",
-          "accessedAt": "2026-02-22T14:13:06.817Z"
+          "accessedAt": "2026-02-22T14:13:06.817Z",
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/mzk-001-nr-09-eine-ansicht-des-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ve/ni/ce/history-of-venice/jacopo-de-barbari-view-of-veni.jpg",
@@ -1416,7 +1434,9 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-venice",
           "sourceGeohash4": "tpc/_ho/ve/ni/ce",
-          "accessedAt": "2026-02-22T14:13:06.817Z"
+          "accessedAt": "2026-02-22T14:13:06.817Z",
+          "mediumPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/jacopo-de-barbari-view-of-veni-medium.webp",
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/jacopo-de-barbari-view-of-veni-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ve/ni/ce/history-of-venice/piazzetta-riva-degli-schiavoni.jpg",
@@ -1431,7 +1451,9 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-venice",
           "sourceGeohash4": "tpc/_ho/ve/ni/ce",
-          "accessedAt": "2026-02-22T14:13:06.817Z"
+          "accessedAt": "2026-02-22T14:13:06.817Z",
+          "mediumPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/piazzetta-riva-degli-schiavoni-medium.webp",
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/piazzetta-riva-degli-schiavoni-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ve/ni/ce/history-of-venice/canaletto-reception-french-amb.jpg",
@@ -1446,7 +1468,9 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-venice",
           "sourceGeohash4": "tpc/_ho/ve/ni/ce",
-          "accessedAt": "2026-02-22T14:13:06.817Z"
+          "accessedAt": "2026-02-22T14:13:06.817Z",
+          "mediumPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/canaletto-reception-french-amb-medium.webp",
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/canaletto-reception-french-amb-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ve/ni/ce/history-of-venice/the-venetia-c-600-ad.jpg",
@@ -1462,7 +1486,9 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-venice",
           "sourceGeohash4": "tpc/_ho/ve/ni/ce",
-          "accessedAt": "2026-02-22T14:13:06.817Z"
+          "accessedAt": "2026-02-22T14:13:06.817Z",
+          "mediumPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/the-venetia-c-600-ad-medium.webp",
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/the-venetia-c-600-ad-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ve/ni/ce/history-of-venice/giambattista-tiepolo-venezia-r.jpg",
@@ -1478,7 +1504,9 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-venice",
           "sourceGeohash4": "tpc/_ho/ve/ni/ce",
-          "accessedAt": "2026-02-22T14:13:06.817Z"
+          "accessedAt": "2026-02-22T14:13:06.817Z",
+          "mediumPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/giambattista-tiepolo-venezia-r-medium.webp",
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/giambattista-tiepolo-venezia-r-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ve/ni/ce/history-of-venice/map-urban-development-venezia-.jpg",
@@ -1494,7 +1522,8 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-venice",
           "sourceGeohash4": "tpc/_ho/ve/ni/ce",
-          "accessedAt": "2026-02-22T14:13:06.817Z"
+          "accessedAt": "2026-02-22T14:13:06.817Z",
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/map-urban-development-venezia--small.webp"
         },
         {
           "path": "_m/tpc/_ho/ve/ni/ce/history-of-venice/map-urban-development-venezia-.jpg",
@@ -1510,7 +1539,8 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-venice",
           "sourceGeohash4": "tpc/_ho/ve/ni/ce",
-          "accessedAt": "2026-02-22T14:13:06.817Z"
+          "accessedAt": "2026-02-22T14:13:06.817Z",
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/map-urban-development-venezia--small.webp"
         },
         {
           "path": "_m/tpc/_ho/ve/ni/ce/history-of-venice/map-urban-development-venezia-.jpg",
@@ -1526,7 +1556,8 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-venice",
           "sourceGeohash4": "tpc/_ho/ve/ni/ce",
-          "accessedAt": "2026-02-22T14:13:06.817Z"
+          "accessedAt": "2026-02-22T14:13:06.817Z",
+          "smallPath": "_m/tpc/_ho/ve/ni/ce/history-of-venice/map-urban-development-venezia--small.webp"
         }
       ],
       "combinedNarration": "_m/u/2/0/f/venice-wk/u20f-venice-combined.mp3",

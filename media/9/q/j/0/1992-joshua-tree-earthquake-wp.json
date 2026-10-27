@@ -3,32 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/j/0/1992-joshua-tree-earthquake-wp/hero.png",
-        "filename": "Bullseye1.png",
-        "caption": "Bull's eye graphic for use with earthquake location maps",
-        "alt": "Bull's eye graphic for use with earthquake location maps",
-        "width": 1610,
-        "height": 1610,
-        "mimeType": "image/png",
+        "path": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero.png",
+        "filename": "Relief map of California.png",
+        "caption": "Relief map of California, USA.",
+        "alt": "Relief map of California, USA.",
+        "width": 681,
+        "height": 780,
         "license": "CC BY-SA 3.0",
-        "artist": "Mikenorton",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bullseye1.png",
-        "sourceType": "core",
-        "sourceArticleId": "1992-joshua-tree-earthquake-wp",
-        "sourceGeohash4": "9qj0",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Files with derivative versions",
-          "GFDL",
-          "License migration redundant",
-          "Map pointers",
-          "Self-published work",
-          "Vector version available"
-        ]
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Nzeemin",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Relief_map_of_California.png",
+        "smallPath": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/j/0/1992-joshua-tree-earthquake-wp/hero.png",
+          "path": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero.png",
           "filename": "Relief map of California.png",
           "caption": "Relief map of California, USA.",
           "alt": "Relief map of California, USA.",
@@ -53,7 +42,8 @@
             "Self-published work",
             "Topographic maps of California",
             "Vaca Mountains"
-          ]
+          ],
+          "smallPath": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero-small.webp"
         }
       ],
       "narration": [
@@ -65,8 +55,9 @@
         "_m/9/q/j/0/1992-joshua-tree-earthquake-wp/9qj0-1992-joshua-tree-earthquake-the-landscape-underneath.mp3"
       ],
       "combinedNarration": "_m/9/q/j/0/1992-joshua-tree-earthquake-wp/9qj0-1992-joshua-tree-earthquake-combined.mp3",
-      "combinedNarrationBytes": 3298569,
-      "combinedNarrationDuration": 274
+      "combinedNarrationBytes": 3386130,
+      "combinedNarrationDuration": 274,
+      "combinedCover": "_m/9/q/j/0/1992-joshua-tree-earthquake-wp/9qj0-1992-joshua-tree-earthquake-combined-cover.jpg"
     }
   }
 }

@@ -3,28 +3,34 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/t/w/loweswater-wp/hero.png",
-        "filename": "Walden Pond, Massachusetts on June 27, 2012.png",
-        "caption": "Walden Pond, Massachusetts on June 27, 2012.  This is a square crop of File:2012-06-27-Walden-Pond-02 33.jpg by User:Cbaile19.",
-        "alt": "Walden Pond, Massachusetts on June 27, 2012.  This is a square crop of File:2012-06-27-Walden-Pond-02 33.jpg by User:Cbaile19.",
-        "width": 1500,
-        "height": 1500,
-        "mimeType": "image/png",
-        "license": "CC BY-SA 4.0",
-        "artist": "Buaidh",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walden_Pond,_Massachusetts_on_June_27,_2012.png",
-        "sourceType": "core",
+        "path": "_m/g/c/t/w/loweswater-wp/herdwick-gale-fell-geograph-or.jpg",
+        "filename": "Herdwick Gale Fell - geograph.org.uk - 75035.jpg",
+        "caption": "Herdwick Gale Fell. Passing mutual interest between a Herdwick and myself whilst crossing Gale fell",
+        "alt": "Herdwick Gale Fell. Passing mutual interest between a Herdwick and myself whilst crossing Gale fell",
+        "width": 640,
+        "height": 369,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 2.0",
+        "artist": "Ron Shirt",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herdwick_Gale_Fell_-_geograph.org.uk_-_75035.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "loweswater-wp",
         "sourceGeohash4": "gctw",
         "categories": [
-          "CC-BY-SA-4.0",
-          "Self-published work",
-          "Walden Pond"
-        ]
+          "CC-BY-SA-2.0",
+          "England photographs taken on 2005-01-30",
+          "Herdwick",
+          "Images by Michael Graham",
+          "Images from Geograph Britain and Ireland",
+          "Images from Geograph Britain and Ireland missing SDC coordinates of the point of view",
+          "Loweswater",
+          "Sheep in Cumbria"
+        ],
+        "smallPath": "_m/g/c/t/w/loweswater-wp/herdwick-gale-fell-geograph-or-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/t/w/loweswater-wp/relief-map-lake-distri.png",
+          "path": "_m/g/c/t/s/black-combe-wp/relief-map-lake-distri.png",
           "filename": "Lake District National Park UK relief location map.png",
           "caption": "Relief map of the Lake District National Park, UK\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 3.65W\nEast: 2.60W\nNorth: 54.80N\nSouth: 54.05N",
           "alt": "Relief map of the Lake District National Park, UK\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 3.65W\nEast: 2.60W\nNorth: 54.80N\nSouth: 54.05N",
@@ -43,7 +49,9 @@
             "Maps of the Lake District",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of national parks of England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/s/black-combe-wp/relief-map-lake-distri-medium.webp",
+          "smallPath": "_m/g/c/t/s/black-combe-wp/relief-map-lake-distri-small.webp"
         },
         {
           "path": "_m/g/c/t/w/loweswater-wp/herdwick-gale-fell-geograph-or.jpg",
@@ -455,7 +463,8 @@
             "Self-published work",
             "Taken with Canon EOS 550D",
             "Wordsworth House"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/w/cockermouth-wp/wordsworth-house-cockermouth-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/coniston.jpg",
@@ -480,7 +489,8 @@
             "Photographs taken on 2007-02-18",
             "Self-published work",
             "Taken with Canon PowerShot A80"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/w/cumbria-wp/coniston-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/cartmell-village.jpg",
@@ -504,7 +514,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot A80"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/w/cumbria-wp/cartmell-village-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/cockermouth-church.jpg",
@@ -528,7 +539,8 @@
             "Gothic Revival church towers in Cumbria",
             "Gothic Revival spires in Cumbria",
             "Taken with Canon PowerShot S3 IS"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/w/cumbria-wp/cockermouth-church-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/cumberland-sausage.jpg",
@@ -550,7 +562,9 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Food named after places",
             "Food of Cumbria"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/w/cumbria-wp/cumberland-sausage-medium.webp",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/cumberland-sausage-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/bowness-on-windermere.jpg",
@@ -565,7 +579,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bowness_on_Windermere.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cumbria-wp",
-          "sourceGeohash4": "gctw"
+          "sourceGeohash4": "gctw",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/bowness-on-windermere-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/church-hill-grange-over-sands-.jpg",
@@ -580,7 +595,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_Hill,_Grange_over_Sands_-_geograph.org.uk_-_1835284.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cumbria-wp",
-          "sourceGeohash4": "gctw"
+          "sourceGeohash4": "gctw",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/church-hill-grange-over-sands--small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/barrow-montage2.jpg",
@@ -595,7 +611,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barrow_montage2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cumbria-wp",
-          "sourceGeohash4": "gctw"
+          "sourceGeohash4": "gctw",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/barrow-montage2-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/1326913-clock-tower-market-squ.jpg",
@@ -610,7 +627,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1326913_Clock_Tower,_Market_Square_Penrith_20240527_0058.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cumbria-wp",
-          "sourceGeohash4": "gctw"
+          "sourceGeohash4": "gctw",
+          "mediumPath": "_m/g/c/t/w/cumbria-wp/1326913-clock-tower-market-squ-medium.webp",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/1326913-clock-tower-market-squ-small.webp"
         }
       ],
       "narration": [

@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/b/y/r/tout-quarry-wp/hero.jpg",
-        "filename": "Isle of Portland Tout Quarry Landscape.jpg",
-        "caption": "Isle of Portland Tout Quarry Landscape",
-        "alt": "Isle of Portland Tout Quarry Landscape",
-        "width": 2312,
+        "path": "_m/g/b/y/r/tout-quarry-wp/the-green-man-by-valentine-qui.jpg",
+        "filename": "The Green Man by Valentine Quinn, Tout Quarry, Portland.JPG",
+        "caption": "The Green Man by Valentine Quinn, Tout Quarry, Portland",
+        "alt": "The Green Man by Valentine Quinn, Tout Quarry, Portland",
+        "width": 3072,
         "height": 2304,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
+        "license": "CC BY-SA 3.0",
         "artist": "Ajsmith141",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isle_of_Portland_Tout_Quarry_Landscape.jpg",
-        "sourceType": "core",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Green_Man_by_Valentine_Quinn,_Tout_Quarry,_Portland.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "tout-quarry-wp",
         "sourceGeohash4": "gbyr",
-        "categories": [
-          "CC-BY-3.0",
-          "GFDL",
-          "Isle of Portland",
-          "License migration redundant",
-          "Self-published work",
-          "Taken with Fujifilm FinePix Z10fd",
-          "Uploaded with en.wp upload wizard"
-        ]
+        "mediumPath": "_m/g/b/y/r/tout-quarry-wp/the-green-man-by-valentine-qui-medium.webp",
+        "smallPath": "_m/g/b/y/r/tout-quarry-wp/the-green-man-by-valentine-qui-small.webp"
       },
       "images": [
         {
@@ -446,7 +439,9 @@
             "Self-published work",
             "Taken with Nikon D50",
             "Weymouth and Portland National Sailing Academy"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/r/isle-of-portland-wp/uk-dor-sailingacademy-medium.webp",
+          "smallPath": "_m/g/b/y/r/isle-of-portland-wp/uk-dor-sailingacademy-small.webp"
         },
         {
           "path": "_m/g/b/y/r/isle-of-portland-wp/uk-dor-portcastle.jpg",
@@ -471,7 +466,9 @@
             "Portland Castle",
             "Self-published work",
             "Taken with Nikon D50"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/r/isle-of-portland-wp/uk-dor-portcastle-medium.webp",
+          "smallPath": "_m/g/b/y/r/isle-of-portland-wp/uk-dor-portcastle-small.webp"
         },
         {
           "path": "_m/g/b/y/r/hm-prison-portland-wp/hero.jpg",
@@ -494,7 +491,9 @@
             "Portland Prison, Dorset",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FX500"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/r/hm-prison-portland-wp/hero-medium.webp",
+          "smallPath": "_m/g/b/y/r/hm-prison-portland-wp/hero-small.webp"
         },
         {
           "path": "_m/g/b/y/r/isle-of-portland-wp/isle-of-portland-from-ringstea.jpg",
@@ -509,7 +508,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isle_of_Portland_from_Ringstead_Bay_with_Weymouth.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-portland-wp",
-          "sourceGeohash4": "gbyr"
+          "sourceGeohash4": "gbyr",
+          "mediumPath": "_m/g/b/y/r/isle-of-portland-wp/isle-of-portland-from-ringstea-medium.webp",
+          "smallPath": "_m/g/b/y/r/isle-of-portland-wp/isle-of-portland-from-ringstea-small.webp"
         },
         {
           "path": "_m/g/b/y/r/isle-of-portland-wp/royal-manor-theatre-portland-d.jpg",
@@ -524,7 +525,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Manor_Theatre,_Portland,_Dorset.JPG",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-portland-wp",
-          "sourceGeohash4": "gbyr"
+          "sourceGeohash4": "gbyr",
+          "smallPath": "_m/g/b/y/r/isle-of-portland-wp/royal-manor-theatre-portland-d-small.webp"
         },
         {
           "path": "_m/g/b/y/r/isle-of-portland-wp/chesil-beach-isle-of-portland-.jpg",
@@ -539,7 +541,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chesil_Beach,_Isle_of_Portland,_Dorset-9457.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-portland-wp",
-          "sourceGeohash4": "gbyr"
+          "sourceGeohash4": "gbyr",
+          "mediumPath": "_m/g/b/y/r/isle-of-portland-wp/chesil-beach-isle-of-portland--medium.webp",
+          "smallPath": "_m/g/b/y/r/isle-of-portland-wp/chesil-beach-isle-of-portland--small.webp"
         },
         {
           "path": "_m/g/b/y/p/chesil-beach-wp/dorset-abbotsbury-castle-earth.jpg",
@@ -565,7 +569,8 @@
             "Listed buildings in England with known IDs",
             "Media missing infobox template",
             "Taken with Fujifilm FinePix A310"
-          ]
+          ],
+          "smallPath": "_m/g/b/y/p/chesil-beach-wp/dorset-abbotsbury-castle-earth-small.webp"
         },
         {
           "path": "_m/g/b/y/p/chesil-beach-wp/chesilbeachpanorama.jpg",
@@ -585,7 +590,9 @@
             "Chesil Beach",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/p/chesil-beach-wp/chesilbeachpanorama-medium.webp",
+          "smallPath": "_m/g/b/y/p/chesil-beach-wp/chesilbeachpanorama-small.webp"
         },
         {
           "path": "_m/g/b/y/p/chesil-beach-wp/abbotsburyabbey.jpg",
@@ -607,7 +614,9 @@
             "Self-published work",
             "Taken with Sony DSC-W300",
             "The Pynion End"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/p/chesil-beach-wp/abbotsburyabbey-medium.webp",
+          "smallPath": "_m/g/b/y/p/chesil-beach-wp/abbotsburyabbey-small.webp"
         },
         {
           "path": "_m/g/b/y/p/chesil-beach-wp/chapel-at-abbotsbury-6.jpg",
@@ -634,7 +643,9 @@
             "Self-published work",
             "St Catherine's Chapel, Abbotsbury",
             "Taken with Sony DSLR-A350"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/p/chesil-beach-wp/chapel-at-abbotsbury-6-medium.webp",
+          "smallPath": "_m/g/b/y/p/chesil-beach-wp/chapel-at-abbotsbury-6-small.webp"
         },
         {
           "path": "_m/g/b/y/p/chesil-beach-wp/abbotsbury-swannery-6.jpg",
@@ -656,7 +667,8 @@
             "GFDL-en",
             "License migration completed",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/b/y/p/chesil-beach-wp/abbotsbury-swannery-6-small.webp"
         },
         {
           "path": "_m/g/b/y/p/chesil-beach-wp/manor-hotel-west-bexington-geo.jpg",
@@ -671,7 +683,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manor_Hotel,_West_Bexington_(geograph_6852848).jpg",
           "sourceType": "poi",
           "sourceArticleId": "chesil-beach-wp",
-          "sourceGeohash4": "gbyp"
+          "sourceGeohash4": "gbyp",
+          "mediumPath": "_m/g/b/y/p/chesil-beach-wp/manor-hotel-west-bexington-geo-medium.webp",
+          "smallPath": "_m/g/b/y/p/chesil-beach-wp/manor-hotel-west-bexington-geo-small.webp"
         },
         {
           "path": "_m/g/c/n/3/dorset-wp/corfe-castle-and-greyhound-inn.jpg",
@@ -697,7 +711,9 @@
             "Roads in Dorset",
             "Self-published work",
             "The Greyhound, Corfe Castle"
-          ]
+          ],
+          "mediumPath": "_m/g/c/n/3/dorset-wp/corfe-castle-and-greyhound-inn-medium.webp",
+          "smallPath": "_m/g/c/n/3/dorset-wp/corfe-castle-and-greyhound-inn-small.webp"
         },
         {
           "path": "_m/g/c/n/3/dorset-wp/lyme-regis-centre-arp.jpg",
@@ -721,7 +737,9 @@
             "Roads in Dorset",
             "Shops in Lyme Regis",
             "Street lights in Lyme Regis"
-          ]
+          ],
+          "mediumPath": "_m/g/c/n/3/dorset-wp/lyme-regis-centre-arp-medium.webp",
+          "smallPath": "_m/g/c/n/3/dorset-wp/lyme-regis-centre-arp-small.webp"
         },
         {
           "path": "_m/g/c/n/3/dorset-wp/newgrounds-viewpoint-chesil-be.jpg",
@@ -750,7 +768,9 @@
             "Self-published work",
             "South West Coast Path in Dorset",
             "Taken with Olympus SP-500UZ"
-          ]
+          ],
+          "mediumPath": "_m/g/c/n/3/dorset-wp/newgrounds-viewpoint-chesil-be-medium.webp",
+          "smallPath": "_m/g/c/n/3/dorset-wp/newgrounds-viewpoint-chesil-be-small.webp"
         },
         {
           "path": "_m/g/c/n/3/dorset-wp/market-place-blandford-forum-2.jpg",
@@ -765,7 +785,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Market_Place,_Blandford_Forum,_2015_(a).JPG",
           "sourceType": "poi",
           "sourceArticleId": "dorset-wp",
-          "sourceGeohash4": "gcn3"
+          "sourceGeohash4": "gcn3",
+          "mediumPath": "_m/g/c/n/3/dorset-wp/market-place-blandford-forum-2-medium.webp",
+          "smallPath": "_m/g/c/n/3/dorset-wp/market-place-blandford-forum-2-small.webp"
         },
         {
           "path": "_m/g/c/n/3/dorset-wp/8-10-and-12-long-street-cerne-.jpg",
@@ -780,7 +802,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:8,_10_and_12,_Long_Street,_Cerne_Abbas.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dorset-wp",
-          "sourceGeohash4": "gcn3"
+          "sourceGeohash4": "gcn3",
+          "mediumPath": "_m/g/c/n/3/dorset-wp/8-10-and-12-long-street-cerne--medium.webp",
+          "smallPath": "_m/g/c/n/3/dorset-wp/8-10-and-12-long-street-cerne--small.webp"
         },
         {
           "path": "_m/g/c/j/b/jurassic-coast-wp/sidmouthbeach.jpg",
@@ -802,7 +826,9 @@
             "Jurassic Coast",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/j/b/jurassic-coast-wp/sidmouthbeach-medium.webp",
+          "smallPath": "_m/g/c/j/b/jurassic-coast-wp/sidmouthbeach-small.webp"
         },
         {
           "path": "_m/g/c/j/b/jurassic-coast-wp/durdle-door-2003.jpg",
@@ -828,7 +854,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot S30"
-          ]
+          ],
+          "smallPath": "_m/g/c/j/b/jurassic-coast-wp/durdle-door-2003-small.webp"
         },
         {
           "path": "_m/g/c/j/b/jurassic-coast-wp/jurassic-coast-banner-durdle-d.jpg",
@@ -851,7 +878,9 @@
             "Files with coordinates missing SDC location of creation (50° N, 3° W)",
             "Self-published work",
             "Wikivoyage banners of England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/j/b/jurassic-coast-wp/jurassic-coast-banner-durdle-d-medium.webp",
+          "smallPath": "_m/g/c/j/b/jurassic-coast-wp/jurassic-coast-banner-durdle-d-small.webp"
         },
         {
           "path": "_m/g/c/j/b/jurassic-coast-wp/weymouth-harbour-dorset-englan.jpg",
@@ -870,7 +899,9 @@
           "categories": [
             "CC-BY-SA-4.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/j/b/jurassic-coast-wp/weymouth-harbour-dorset-englan-medium.webp",
+          "smallPath": "_m/g/c/j/b/jurassic-coast-wp/weymouth-harbour-dorset-englan-small.webp"
         }
       ],
       "narration": [

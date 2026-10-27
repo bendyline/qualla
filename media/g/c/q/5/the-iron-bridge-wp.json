@@ -3,33 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/q/5/the-iron-bridge-wp/hero.jpg",
-        "filename": "The Iron Bridge (Aerial).JPG",
-        "caption": "The Iron Bridge at Ironbridge, Shropshire, as seen from a Grob Tutor T1 of UBAS at RAF Cosford.",
-        "alt": "The Iron Bridge at Ironbridge, Shropshire, as seen from a Grob Tutor T1 of UBAS at RAF Cosford.",
-        "width": 4272,
-        "height": 2848,
+        "path": "_m/g/c/q/5/the-iron-bridge-wp/iron-bridge-tollhouse.jpg",
+        "filename": "Iron Bridge Toll House, February 2019.jpg",
+        "caption": "The Iron Bridge tollhouse from the east in February 2019.",
+        "alt": "The Iron Bridge tollhouse from the east in February 2019.",
+        "width": 5184,
+        "height": 3888,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Alice Humphreys - transatracurium",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Iron_Bridge_(Aerial).JPG",
+        "license": "CC BY-SA 4.0",
+        "artist": "Tk420",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iron_Bridge_Toll_House,_February_2019.jpg",
         "sourceType": "core",
         "sourceArticleId": "the-iron-bridge-wp",
         "sourceGeohash4": "gcq5",
-        "categories": [
-          "Aerial photographs of Shropshire",
-          "Aerial photographs of World Heritage Sites",
-          "Aerial photographs of bridges in the United Kingdom",
-          "Aerial photographs of rivers of the United Kingdom",
-          "CC-BY-SA-3.0",
-          "Files with coordinates missing SDC location of creation (52° N, 3° W)",
-          "GFDL",
-          "License migration redundant",
-          "River Severn in Shropshire",
-          "Self-published work",
-          "Taken with Canon EOS 450D",
-          "The Iron Bridge"
-        ]
+        "mediumPath": "_m/g/c/q/5/the-iron-bridge-wp/iron-bridge-tollhouse-medium.webp",
+        "smallPath": "_m/g/c/q/5/the-iron-bridge-wp/iron-bridge-tollhouse-small.webp"
       },
       "images": [
         {
@@ -127,7 +115,7 @@
           "smallPath": "_m/g/c/q/5/the-iron-bridge-wp/own-photo-taken-2004-small.webp"
         },
         {
-          "path": "_m/g/c/q/5/the-iron-bridge-wp/east-side-iron-bridge.jpg",
+          "path": "_m/g/c/q/5/ironbridge-gorge-wp/east-side-iron-bridge.jpg",
           "filename": "Iron Bridge east side in February 2019.jpg",
           "caption": "The east side of the Iron Bridge, Shropshire in February 2019 showing the dark red paint added in the 2018 restoration.",
           "alt": "The east side of the Iron Bridge, Shropshire in February 2019 showing the dark red paint added in the 2018 restoration.",
@@ -139,7 +127,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iron_Bridge_east_side_in_February_2019.jpg",
           "sourceType": "core",
           "sourceArticleId": "the-iron-bridge-wp",
-          "sourceGeohash4": "gcq5"
+          "sourceGeohash4": "gcq5",
+          "mediumPath": "_m/g/c/q/5/ironbridge-gorge-wp/east-side-iron-bridge-medium.webp",
+          "smallPath": "_m/g/c/q/5/ironbridge-gorge-wp/east-side-iron-bridge-small.webp"
         },
         {
           "path": "_m/g/c/q/5/the-iron-bridge-wp/details-north-end-iron.jpg",
@@ -286,7 +276,7 @@
           "smallPath": "_m/g/c/q/5/the-iron-bridge-wp/bridges-27-small.webp"
         },
         {
-          "path": "_m/g/c/q/5/the-iron-bridge-wp/downstream-from-the-ironbridge.jpg",
+          "path": "_m/g/c/q/5/ironbridge-gorge-wp/downstream-from-the-ironbridge.jpg",
           "filename": "Downstream from the ironbridge - geograph.org.uk - 267024.jpg",
           "caption": "Downstream from the ironbridge",
           "alt": "Downstream from the ironbridge",
@@ -309,7 +299,8 @@
             "Ironbridge Gorge",
             "The Iron Bridge",
             "United Kingdom photographs taken on 2002-05-11"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/5/ironbridge-gorge-wp/downstream-from-the-ironbridge-small.webp"
         },
         {
           "path": "_m/g/c/q/5/the-iron-bridge-wp/footpath-view-at-ironbridge-ge.jpg",
@@ -337,7 +328,7 @@
           "smallPath": "_m/g/c/q/5/the-iron-bridge-wp/footpath-view-at-ironbridge-ge-small.webp"
         },
         {
-          "path": "_m/g/c/q/5/the-iron-bridge-wp/bridge-and-town-ironbridge-geo.jpg",
+          "path": "_m/g/c/q/5/ironbridge-wp/bridge-and-town-ironbridge-geo.jpg",
           "filename": "Bridge and town, Ironbridge - geograph.org.uk - 1086094.jpg",
           "caption": "Bridge and town, Ironbridge Looking across at Ironbridge village centre from the disused railway line on the south side of the River Severn",
           "alt": "Bridge and town, Ironbridge Looking across at Ironbridge village centre from the disused railway line on the south side of the River Severn",
@@ -357,7 +348,8 @@
             "Information field template with formatting",
             "Ironbridge",
             "The Iron Bridge"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/5/ironbridge-wp/bridge-and-town-ironbridge-geo-small.webp"
         },
         {
           "path": "_m/g/c/q/5/the-iron-bridge-wp/iron-bridge-at-ironbridge-geog.jpg",
@@ -659,7 +651,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ir/on/br/id/ironbridge/buildwas-abbey-3-medium.webp",
+          "smallPath": "_m/tpc/ir/on/br/id/ironbridge/buildwas-abbey-3-small.webp"
         },
         {
           "path": "_m/tpc/ir/on/br/id/ironbridge/new-175.jpg",
@@ -679,7 +673,9 @@
             "Blists Hill Victorian town",
             "CC-BY-3.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ir/on/br/id/ironbridge/new-175-medium.webp",
+          "smallPath": "_m/tpc/ir/on/br/id/ironbridge/new-175-small.webp"
         },
         {
           "path": "_m/tpc/ir/on/br/id/ironbridge/madeley-court-car-park-view-ge.jpg",
@@ -694,7 +690,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madeley_Court_Car_Park_View_(geograph_3508213).jpg",
           "sourceType": "poi",
           "sourceArticleId": "ironbridge",
-          "sourceGeohash4": "gcq5"
+          "sourceGeohash4": "gcq5",
+          "smallPath": "_m/tpc/ir/on/br/id/ironbridge/madeley-court-car-park-view-ge-small.webp"
         },
         {
           "path": "_m/tpc/ir/on/br/id/ironbridge/kiln-at-coalport-china-museum.jpg",
@@ -709,7 +706,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kiln_at_Coalport_China_Museum.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ironbridge",
-          "sourceGeohash4": "gcq5"
+          "sourceGeohash4": "gcq5",
+          "mediumPath": "_m/tpc/ir/on/br/id/ironbridge/kiln-at-coalport-china-museum-medium.webp",
+          "smallPath": "_m/tpc/ir/on/br/id/ironbridge/kiln-at-coalport-china-museum-small.webp"
         },
         {
           "path": "_m/tpc/ir/on/br/id/ironbridge/enginuity-2.jpg",
@@ -724,7 +723,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enginuity_2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ironbridge",
-          "sourceGeohash4": "gcq5"
+          "sourceGeohash4": "gcq5",
+          "mediumPath": "_m/tpc/ir/on/br/id/ironbridge/enginuity-2-medium.webp",
+          "smallPath": "_m/tpc/ir/on/br/id/ironbridge/enginuity-2-small.webp"
         },
         {
           "path": "_m/g/c/q/5/ironbridge-wp/view-down-canal-street.jpg",
@@ -739,7 +740,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blists_Hill_Victorian_Town_Canal_Street_November_2021.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ironbridge-wp",
-          "sourceGeohash4": "gcq5"
+          "sourceGeohash4": "gcq5",
+          "mediumPath": "_m/g/c/q/5/ironbridge-wp/view-down-canal-street-medium.webp",
+          "smallPath": "_m/g/c/q/5/ironbridge-wp/view-down-canal-street-small.webp"
         },
         {
           "path": "_m/tpc/ir/on/br/id/ironbridge/jackfield-tile-museum-5.jpg",
@@ -754,7 +757,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jackfield_Tile_Museum_(5).jpg",
           "sourceType": "poi",
           "sourceArticleId": "ironbridge",
-          "sourceGeohash4": "gcq5"
+          "sourceGeohash4": "gcq5",
+          "mediumPath": "_m/tpc/ir/on/br/id/ironbridge/jackfield-tile-museum-5-medium.webp",
+          "smallPath": "_m/tpc/ir/on/br/id/ironbridge/jackfield-tile-museum-5-small.webp"
         },
         {
           "path": "_m/g/c/q/5/shropshire-wp/ironbridge002.jpg",
@@ -778,7 +783,9 @@
             "Self-published work",
             "Taken with Nikon D100",
             "The Iron Bridge"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/5/shropshire-wp/ironbridge002-medium.webp",
+          "smallPath": "_m/g/c/q/5/shropshire-wp/ironbridge002-small.webp"
         },
         {
           "path": "_m/g/c/q/5/shropshire-wp/clunbridge2c.jpg",
@@ -801,7 +808,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/5/shropshire-wp/clunbridge2c-small.webp"
         },
         {
           "path": "_m/g/c/q/5/shropshire-wp/church-stretton-ragleth-2010-1.jpg",
@@ -816,7 +824,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_Stretton_Ragleth_2010_1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "shropshire-wp",
-          "sourceGeohash4": "gcq5"
+          "sourceGeohash4": "gcq5",
+          "mediumPath": "_m/g/c/q/5/shropshire-wp/church-stretton-ragleth-2010-1-medium.webp",
+          "smallPath": "_m/g/c/q/5/shropshire-wp/church-stretton-ragleth-2010-1-small.webp"
         },
         {
           "path": "_m/g/c/q/5/shropshire-wp/newport-from-cheeny-hill.jpg",
@@ -831,7 +841,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newport_from_cheeny_hill.jpg",
           "sourceType": "poi",
           "sourceArticleId": "shropshire-wp",
-          "sourceGeohash4": "gcq5"
+          "sourceGeohash4": "gcq5",
+          "smallPath": "_m/g/c/q/5/shropshire-wp/newport-from-cheeny-hill-small.webp"
         },
         {
           "path": "_m/g/c/q/5/shropshire-wp/market-place-and-park-street-s.jpg",
@@ -845,7 +856,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Market_Place_and_Park_Street_Shifnal.jpg",
           "sourceType": "poi",
           "sourceArticleId": "shropshire-wp",
-          "sourceGeohash4": "gcq5"
+          "sourceGeohash4": "gcq5",
+          "mediumPath": "_m/g/c/q/5/shropshire-wp/market-place-and-park-street-s-medium.webp",
+          "smallPath": "_m/g/c/q/5/shropshire-wp/market-place-and-park-street-s-small.webp"
         },
         {
           "path": "_m/g/c/q/5/shropshire-wp/shropshire-banner.jpg",
@@ -860,7 +873,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shropshire_banner.jpg",
           "sourceType": "poi",
           "sourceArticleId": "shropshire-wp",
-          "sourceGeohash4": "gcq5"
+          "sourceGeohash4": "gcq5",
+          "mediumPath": "_m/g/c/q/5/shropshire-wp/shropshire-banner-medium.webp",
+          "smallPath": "_m/g/c/q/5/shropshire-wp/shropshire-banner-small.webp"
         }
       ],
       "narration": [

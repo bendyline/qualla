@@ -36,7 +36,7 @@ The Reichstag stands at 52.5186°N, 13.3761°E, on Platz der Republik in Tiergar
 
 ## Sources
 
-- [Reichstag building](https://en.wikipedia.org/wiki/Reichstag_building)
+- [Reichstag building](https://en.wikipedia.org/?curid=217577)
 - [Reichstag building - Wikipedia](https://en.wikipedia.org/?curid=217577)
   - 1872 contest drew 103 architects, won by Ludwig Bohnstedt (unbuilt)
   - 1882 contest drew 200 architects, won by Paul Wallot

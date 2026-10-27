@@ -41,7 +41,7 @@ Benicàssim lies at 40.055°N, 0.064°E on the Costa del Azahar, roughly 13 km n
   - Place name derives from Arabic 'Banu Qasim', a Kutama Berber group that settled the area during the 8th-century Arab conquest
   - Desert de les Palmes range and medieval castle ruins confirmed
   - 1824 painting of the bay by Edward Hawke Locker confirmed
-- [Benicàssim - Wikipedia (current revision)](https://en.wikipedia.org/wiki/Benic%C3%A0ssim)
+- [Benicàssim - Wikipedia (current revision)](https://en.wikipedia.org/?curid=1678423)
   - Corrected: current population is 20,539 (as of 2025-01-01), so 'roughly nineteen thousand' was updated to 'roughly twenty thousand'
 - [Festival Internacional de Benicàssim - Wikipedia (Spanish)](https://es.wikipedia.org/wiki/Festival_Internacional_de_Benic%C3%A0ssim)
   - FIB was founded in 1995, confirming the story's 'mid-1990s' launch claim

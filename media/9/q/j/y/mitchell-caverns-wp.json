@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/j/y/mitchell-caverns-wp/hero.jpg",
-        "filename": "Mitchell Caverns Entrance.jpg",
-        "caption": "Mitchell Caverns Entrance",
-        "alt": "Mitchell Caverns Entrance",
-        "width": 6000,
-        "height": 4000,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Socafalcon",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mitchell_Caverns_Entrance.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "mitchell-caverns-wp",
-        "sourceGeohash4": "9qjy",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Cross-wiki upload needing review",
-          "Mitchell Caverns",
-          "Self-published work"
-        ]
+        "path": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero.png",
+        "filename": "Relief map of California.png",
+        "caption": "Relief map of California, USA.",
+        "alt": "Relief map of California, USA.",
+        "width": 681,
+        "height": 780,
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Nzeemin",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Relief_map_of_California.png",
+        "smallPath": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/j/y/mitchell-caverns-wp/hero.png",
+          "path": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero.png",
           "filename": "Relief map of California.png",
           "caption": "Relief map of California, USA.",
           "alt": "Relief map of California, USA.",
@@ -50,7 +42,8 @@
             "Self-published work",
             "Topographic maps of California",
             "Vaca Mountains"
-          ]
+          ],
+          "smallPath": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero-small.webp"
         }
       ],
       "narration": [
@@ -62,8 +55,9 @@
         "_m/9/q/j/y/mitchell-caverns-wp/9qjy-mitchell-caverns-closure-reopening-and-state-management.mp3"
       ],
       "combinedNarration": "_m/9/q/j/y/mitchell-caverns-wp/9qjy-mitchell-caverns-combined.mp3",
-      "combinedNarrationBytes": 3360469,
-      "combinedNarrationDuration": 280
+      "combinedNarrationBytes": 3448008,
+      "combinedNarrationDuration": 280,
+      "combinedCover": "_m/9/q/j/y/mitchell-caverns-wp/9qjy-mitchell-caverns-combined-cover.jpg"
     }
   }
 }

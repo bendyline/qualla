@@ -3,25 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/7/p/6/f/tiangua-wk/hero.jpg",
-        "filename": "Catedral de Senhora Santana - Tianguá.JPG",
-        "caption": "Catedral de Senhora Santana, cartão-postal de Tianguá. Por Derbson Frota",
-        "alt": "Catedral de Senhora Santana, cartão-postal de Tianguá. Por Derbson Frota",
-        "width": 2048,
-        "height": 1536,
+        "path": "_m/7/p/6/f/tiangua-wk/br-222-serra-da-ibiapaba.jpg",
+        "filename": "BR 222 Serra da Ibiapaba.JPG",
+        "caption": "Trecho da BR 222 na Serra da Ibiapaba em Tianguá, Ceará.",
+        "alt": "Trecho da BR 222 na Serra da Ibiapaba em Tianguá, Ceará.",
+        "width": 4320,
+        "height": 3240,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Derbsonfrota",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral_de_Senhora_Santana_-_Tiangu%C3%A1.JPG",
-        "sourceType": "core",
+        "license": "CC BY 3.0 br",
+        "artist": "Almanaque Lusofonista",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BR_222_Serra_da_Ibiapaba.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "tiangua-wk",
         "sourceGeohash4": "7p6f",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Catedral de Tianguá",
-          "Self-published work",
-          "Taken with Sony DSC-HX1"
-        ]
+          "BR-222",
+          "CC-BY-3.0-BR",
+          "Tianguá"
+        ],
+        "mediumPath": "_m/7/p/6/f/tiangua-wk/br-222-serra-da-ibiapaba-medium.webp",
+        "smallPath": "_m/7/p/6/f/tiangua-wk/br-222-serra-da-ibiapaba-small.webp"
       },
       "images": [
         {
@@ -168,7 +169,7 @@
           "smallPath": "_m/7/p/6/f/tiangua-wk/br-222-serra-da-ibiapaba-small.webp"
         },
         {
-          "path": "_m/7/p/6/f/tiangua-wk/br-222-ladeira-serra-ipiapaba.jpg",
+          "path": "_m/7/p/6/8/serra-da-ibiapaba-environmental-protection-area-wp/br-222-ladeira-serra-ipiapaba.jpg",
           "filename": "BR 222 Ladeira Serra Ipiapaba.JPG",
           "caption": "Trecho da BR-222 na ladeira da Serra da Ibiapaba.",
           "alt": "Trecho da BR-222 na ladeira da Serra da Ibiapaba.",
@@ -186,7 +187,9 @@
             "CC-BY-3.0-BR",
             "Serra da Ibiapaba",
             "Tianguá"
-          ]
+          ],
+          "mediumPath": "_m/7/p/6/8/serra-da-ibiapaba-environmental-protection-area-wp/br-222-ladeira-serra-ipiapaba-medium.webp",
+          "smallPath": "_m/7/p/6/8/serra-da-ibiapaba-environmental-protection-area-wp/br-222-ladeira-serra-ipiapaba-small.webp"
         },
         {
           "path": "_m/7/p/6/f/tiangua-wk/uru-da-palmeira-babacu.jpg",
@@ -234,7 +237,7 @@
           "smallPath": "_m/7/p/6/f/tiangua-wk/bolo-manzapi-small.webp"
         },
         {
-          "path": "_m/7/p/6/f/tiangua-wk/hero.jpg",
+          "path": "_m/7/p/6/8/serra-da-ibiapaba-environmental-protection-area-wp/hero.jpg",
           "filename": "BR222 na Serra da Ibiapaba.JPG",
           "caption": "Unidade de Conservação Federal - Área de Proteção Ambiental da Serra da Ibiapaba. Município de Tianguá, Ceará",
           "alt": "Unidade de Conservação Federal - Área de Proteção Ambiental da Serra da Ibiapaba. Município de Tianguá, Ceará",
@@ -246,7 +249,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BR222_na_Serra_da_Ibiapaba.JPG",
           "sourceType": "commons-category",
           "sourceArticleId": "serra-da-ibiapaba-environmental-protection-area-wp",
-          "sourceGeohash4": "7p6f"
+          "sourceGeohash4": "7p6f",
+          "mediumPath": "_m/7/p/6/8/serra-da-ibiapaba-environmental-protection-area-wp/hero-medium.webp",
+          "smallPath": "_m/7/p/6/8/serra-da-ibiapaba-environmental-protection-area-wp/hero-small.webp"
         },
         {
           "path": "_m/7/p/6/f/tiangua-wk/palacete-te-tiangua.jpg",
@@ -368,7 +373,7 @@
           "smallPath": "_m/7/p/6/f/tiangua-wk/guanabara-na-serra-da-ibiapaba-small.webp"
         },
         {
-          "path": "_m/7/p/6/f/tiangua-wk/ladeira-tiangua.jpg",
+          "path": "_m/7/p/6/8/serra-da-ibiapaba-environmental-protection-area-wp/ladeira-tiangua.jpg",
           "filename": "Ladeira Tianguá.jpg",
           "caption": "Essa foto foi feita na região de Tianguá, cidade que fica na chapada Ibiapaba, Ceará. A famosa ladeira na BR 222",
           "alt": "Essa foto foi feita na região de Tianguá, cidade que fica na chapada Ibiapaba, Ceará. A famosa ladeira na BR 222",
@@ -380,10 +385,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ladeira_Tiangu%C3%A1.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "serra-da-ibiapaba-environmental-protection-area-wp",
-          "sourceGeohash4": "7p6f"
+          "sourceGeohash4": "7p6f",
+          "smallPath": "_m/7/p/6/8/serra-da-ibiapaba-environmental-protection-area-wp/ladeira-tiangua-small.webp"
         },
         {
-          "path": "_m/7/p/6/f/tiangua-wk/mirante-pampas.jpg",
+          "path": "_m/7/p/6/8/serra-da-ibiapaba-environmental-protection-area-wp/mirante-pampas.jpg",
           "filename": "Mirante Pampas.jpg",
           "caption": "Essa foto foi feita na região de Tianguá, cidade que fica na chapada Ibiapaba, Ceará. Uma Chuva com um lindo pôr do sol no horizonte.",
           "alt": "Essa foto foi feita na região de Tianguá, cidade que fica na chapada Ibiapaba, Ceará. Uma Chuva com um lindo pôr do sol no horizonte.",
@@ -395,7 +401,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirante_Pampas.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "serra-da-ibiapaba-environmental-protection-area-wp",
-          "sourceGeohash4": "7p6f"
+          "sourceGeohash4": "7p6f",
+          "smallPath": "_m/7/p/6/8/serra-da-ibiapaba-environmental-protection-area-wp/mirante-pampas-small.webp"
         },
         {
           "path": "_m/7/p/6/f/tiangua-wk/igreja-matriz-do-distrito-de-a.jpg",
@@ -432,7 +439,9 @@
             "Flickr images reviewed by FlickreviewR",
             "Gruta de Ubajara",
             "Photographs by Otávio Nogueira"
-          ]
+          ],
+          "mediumPath": "_m/7/p/6/f/ubajara-wk/parque-nacional-de-ubajara-cea-medium.webp",
+          "smallPath": "_m/7/p/6/f/ubajara-wk/parque-nacional-de-ubajara-cea-small.webp"
         },
         {
           "path": "_m/7/p/6/f/ubajara-wk/cachoeira-do-boi-morto-ubajara.jpg",
@@ -453,7 +462,9 @@
             "Extracted images",
             "Photographs by Otávio Nogueira",
             "Ubajara"
-          ]
+          ],
+          "mediumPath": "_m/7/p/6/f/ubajara-wk/cachoeira-do-boi-morto-ubajara-medium.webp",
+          "smallPath": "_m/7/p/6/f/ubajara-wk/cachoeira-do-boi-morto-ubajara-small.webp"
         }
       ],
       "narration": [

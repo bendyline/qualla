@@ -46,7 +46,7 @@ The crash site is at 52.87 degrees N, 7.35 degrees E, on the elevated Transrapid
 
 ## Sources
 
-- [Lathen train collision - Wikipedia](https://en.wikipedia.org/wiki/Lathen_train_collision)
+- [Lathen train collision - Wikipedia](https://en.wikipedia.org/?curid=7120592)
   - 22 September 2006; 23 killed, 11 injured (10 severely); first fatal maglev crash
   - Timeline: 09:43 departure, 09:52 track energised, 09:53 train moving, 09:53:57 emergency braking, impact ~0.5 s and 25 m later at 162 km/h
   - The train went under the 60-tonne maintenance vehicle, which ripped off the roof; wreckage travelled 300 m
@@ -62,7 +62,7 @@ The crash site is at 52.87 degrees N, 7.35 degrees E, on the elevated Transrapid
   - The facility operated until the end of 2011, when its operating licence expired and the track was closed
   - Demolition was approved in 2012 but the concrete guideway remained largely standing as of 2024
   - Shanghai's maglev is the only Transrapid system in commercial service
-- [Final review pass - independent web verification](https://en.wikipedia.org/wiki/Lathen_train_collision)
+- [Final review pass - independent web verification](https://en.wikipedia.org/?curid=7120592)
   - Re-confirmed date (22 September 2006), death toll (23 killed, 11 injured, 10 severely), and that this was the first fatal maglev accident
   - Re-confirmed timeline: 09:43 departure, 09:52 track energised, 09:53 train moving, emergency braking ~57 s later, impact ~25 m / 0.5 s after that at 162 km/h; 60-tonne maintenance vehicle; wreckage travelled ~300 m
   - Re-confirmed 31.8 km Lathen-Dörpen test track designed for speeds up to 450 km/h, operated by IABG

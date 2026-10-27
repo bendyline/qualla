@@ -1,0 +1,43 @@
+{
+  "id": "sylvia-hotel-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/c/2/b/2/sylvia-hotel-wp/hero.jpg",
+        "filename": "Sylvia hotel vancouver.jpg",
+        "caption": "Sylvia Hotel in Vancouver, Canada",
+        "alt": "Sylvia Hotel in Vancouver, Canada",
+        "width": 1200,
+        "height": 800,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 3.0",
+        "artist": "Usgnus",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sylvia_hotel_vancouver.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "sylvia-hotel-wp",
+        "sourceGeohash4": "c2b2",
+        "categories": [
+          "CC-BY-SA-2.5,2.0,1.0",
+          "CC-BY-SA-3.0-migrated",
+          "GFDL",
+          "Hotels in Vancouver",
+          "License migration redundant",
+          "Self-published work"
+        ],
+        "smallPath": "_m/c/2/b/2/sylvia-hotel-wp/hero-small.webp"
+      },
+      "narration": [
+        "_m/c/2/b/2/sylvia-hotel-wp/c2b2-sylvia-hotel-flight-context.mp3",
+        "_m/c/2/b/2/sylvia-hotel-wp/c2b2-sylvia-hotel-intro.mp3",
+        "_m/c/2/b/2/sylvia-hotel-wp/c2b2-sylvia-hotel-sylvia-court-apartments.mp3",
+        "_m/c/2/b/2/sylvia-hotel-wp/c2b2-sylvia-hotel-rooms-for-the-merchant-marine.mp3",
+        "_m/c/2/b/2/sylvia-hotel-wp/c2b2-sylvia-hotel-the-woman-in-the-name.mp3",
+        "_m/c/2/b/2/sylvia-hotel-wp/c2b2-sylvia-hotel-mr-got-to-go.mp3"
+      ],
+      "combinedNarration": "_m/c/2/b/2/sylvia-hotel-wp/c2b2-sylvia-hotel-combined.mp3",
+      "combinedNarrationBytes": 3237514,
+      "combinedNarrationDuration": 257,
+      "combinedCover": "_m/c/2/b/2/sylvia-hotel-wp/c2b2-sylvia-hotel-combined-cover.jpg"
+    }
+  }
+}

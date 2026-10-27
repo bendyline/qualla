@@ -383,7 +383,8 @@
           "sourceType": "core",
           "sourceArticleId": "inner-mongolia-wp",
           "sourceGeohash4": "wxb6",
-          "mediumPath": "_m/w/x/3/n/inner-mongolia-wp/photo-part-major-natio-medium.webp"
+          "mediumPath": "_m/w/x/3/n/inner-mongolia-wp/photo-part-major-natio-medium.webp",
+          "smallPath": "_m/w/x/3/n/inner-mongolia-wp/photo-part-major-natio-small.webp"
         },
         {
           "path": "_m/w/x/3/n/inner-mongolia-wp/temple-dedicated-gengh.jpg",
@@ -485,6 +486,22 @@
           "sourceGeohash4": "wxb6",
           "mediumPath": "_m/w/x/3/n/inner-mongolia-wp/ruins-shangdu-old-capi-medium.webp",
           "smallPath": "_m/w/x/3/n/inner-mongolia-wp/ruins-shangdu-old-capi-small.webp"
+        },
+        {
+          "path": "_m/w/x/3/n/inner-mongolia-wp/definitions-central-as.png",
+          "filename": "Central Asia definitions (orthographic).png",
+          "caption": "Definitions of \"Central Asia\"\nDark Green: Core definition that includes the 5 post-Soviet states.\nGreen: Afghanistan (the most common added country to \"Central Asia\"}\nLight Green: Regions that are sometimes considered part of \"Central Asia\"",
+          "alt": "Definitions of \"Central Asia\"\nDark Green: Core definition that includes the 5 post-Soviet states.\nGreen: Afghanistan (the most common added country to \"Central Asia\"}\nLight Green: Regions that are sometimes considered part of \"Central Asia\"",
+          "width": 800,
+          "height": 800,
+          "mimeType": "image/png",
+          "license": "CC BY-SA 4.0",
+          "artist": "Casperti",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Central_Asia_definitions_(orthographic).png",
+          "sourceType": "core",
+          "sourceArticleId": "inner-mongolia-wp",
+          "sourceGeohash4": "wxb6",
+          "smallPath": "_m/w/x/3/n/inner-mongolia-wp/definitions-central-as-small.webp"
         },
         {
           "path": "_m/w/x/3/n/inner-mongolia-wp/greater-khingan-range.jpg",
@@ -937,7 +954,7 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%B9%8C%E6%B5%B7%E4%B8%9C%E5%B1%B1%E9%B8%9F%E7%9E%B0.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "inner-mongolia",
-          "sourceGeohash4": "tpc/in/ne/r-/mo",
+          "sourceGeohash4": "wxb6",
           "categories": [
             "CC-BY-SA-3.0",
             "GFDL",
@@ -945,7 +962,9 @@
             "Self-published work",
             "Taken with Sony DSC-T20",
             "Wuhai"
-          ]
+          ],
+          "mediumPath": "_m/tpc/in/ne/r-/mo/inner-mongolia/image-1-medium.webp",
+          "smallPath": "_m/tpc/in/ne/r-/mo/inner-mongolia/image-1-small.webp"
         },
         {
           "path": "_m/tpc/in/ne/r-/mo/inner-mongolia/dinosaur-statue-erenhot.jpg",
@@ -960,7 +979,7 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dinosaur-statue-erenhot.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "inner-mongolia",
-          "sourceGeohash4": "tpc/in/ne/r-/mo",
+          "sourceGeohash4": "wxb6",
           "categories": [
             "CC-Zero",
             "Dinosaur models",
@@ -969,7 +988,9 @@
             "Self-published work",
             "Statues of reptiles in China",
             "Taken with Canon Digital IXUS 70"
-          ]
+          ],
+          "mediumPath": "_m/tpc/in/ne/r-/mo/inner-mongolia/dinosaur-statue-erenhot-medium.webp",
+          "smallPath": "_m/tpc/in/ne/r-/mo/inner-mongolia/dinosaur-statue-erenhot-small.webp"
         },
         {
           "path": "_m/tpc/in/ne/r-/mo/inner-mongolia/image-3.jpg",
@@ -984,13 +1005,14 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E8%B5%A4%E5%B3%B0%E7%81%AB%E8%BD%A6%E7%AB%99.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "inner-mongolia",
-          "sourceGeohash4": "tpc/in/ne/r-/mo",
+          "sourceGeohash4": "wxb6",
           "categories": [
             "CC-BY-SA-3.0",
             "Chifengnan Railway Station",
             "June 2012 in rail transport in China",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/in/ne/r-/mo/inner-mongolia/image-3-small.webp"
         },
         {
           "path": "_m/tpc/in/ne/r-/mo/inner-mongolia/century-square-manzhouli.jpg",
@@ -1005,13 +1027,15 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Century_square_Manzhouli.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "inner-mongolia",
-          "sourceGeohash4": "tpc/in/ne/r-/mo",
+          "sourceGeohash4": "wxb6",
           "categories": [
             "CC-BY-SA-3.0",
             "Self-published work",
             "Streets and squares in Manzhouli",
             "Taken with Canon PowerShot A3000 IS"
-          ]
+          ],
+          "mediumPath": "_m/tpc/in/ne/r-/mo/inner-mongolia/century-square-manzhouli-medium.webp",
+          "smallPath": "_m/tpc/in/ne/r-/mo/inner-mongolia/century-square-manzhouli-small.webp"
         },
         {
           "path": "_m/tpc/in/ne/r-/mo/inner-mongolia/hohhot-montage.png",
@@ -1026,13 +1050,14 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hohhot_Montage.png",
           "sourceType": "sibling",
           "sourceArticleId": "inner-mongolia",
-          "sourceGeohash4": "tpc/in/ne/r-/mo",
+          "sourceGeohash4": "wxb6",
           "categories": [
             "CC-BY-SA-3.0",
             "Hohhot",
             "Montages of cities in China",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/in/ne/r-/mo/inner-mongolia/hohhot-montage-small.webp"
         },
         {
           "path": "_m/tpc/in/ne/r-/mo/inner-mongolia/baotou-inner-mongolia.jpg",
@@ -1047,11 +1072,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baotou,_Inner_Mongolia.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "inner-mongolia",
-          "sourceGeohash4": "tpc/in/ne/r-/mo",
+          "sourceGeohash4": "wxb6",
           "categories": [
             "CC-BY-SA-4.0",
             "Files with coordinates missing SDC location of creation"
-          ]
+          ],
+          "mediumPath": "_m/tpc/in/ne/r-/mo/inner-mongolia/baotou-inner-mongolia-medium.webp",
+          "smallPath": "_m/tpc/in/ne/r-/mo/inner-mongolia/baotou-inner-mongolia-small.webp"
         },
         {
           "path": "_m/tpc/in/ne/r-/mo/inner-mongolia/dongsheng-district-2016.jpg",
@@ -1066,7 +1093,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongsheng_District_2016.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "inner-mongolia",
-          "sourceGeohash4": "tpc/in/ne/r-/mo"
+          "sourceGeohash4": "wxb6",
+          "mediumPath": "_m/tpc/in/ne/r-/mo/inner-mongolia/dongsheng-district-2016-medium.webp",
+          "smallPath": "_m/tpc/in/ne/r-/mo/inner-mongolia/dongsheng-district-2016-small.webp"
         }
       ],
       "narration": [
@@ -1077,7 +1106,10 @@
         "_m/w/x/3/n/inner-mongolia-wp/wxb6-inner-mongolia-grasslands-and-smokestacks.mp3",
         "_m/w/x/3/n/inner-mongolia-wp/wxb6-inner-mongolia-two-scripts-two-worlds.mp3"
       ],
-      "combinedNarration": "_m/w/x/3/n/inner-mongolia-wp/wxb6-inner-mongolia-combined.mp3"
+      "combinedNarration": "_m/w/x/3/n/inner-mongolia-wp/wx3n-inner-mongolia-combined.mp3",
+      "combinedNarrationBytes": 3888266,
+      "combinedNarrationDuration": 319,
+      "combinedCover": "_m/w/x/3/n/inner-mongolia-wp/wx3n-inner-mongolia-combined-cover.jpg"
     }
   }
 }

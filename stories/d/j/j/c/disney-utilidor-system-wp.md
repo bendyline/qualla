@@ -37,7 +37,7 @@ Located at 28.421N, 81.581W beneath the Magic Kingdom at Walt Disney World. The 
 ## Sources
 
 - [Disney utilidor system - Wikipedia](https://en.wikipedia.org/?curid=44676317)
-- [Disney utilidor system - Wikipedia](https://en.wikipedia.org/wiki/Disney_utilidor_system)
+- [Disney utilidor system - Wikipedia](https://en.wikipedia.org/?curid=44676317)
   - Utilidors built at ground level due to Florida water table
   - 9 acres of utilidors with color-coded walls
   - Seven Seas Lagoon excavation used to raise park

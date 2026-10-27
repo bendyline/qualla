@@ -2,31 +2,6 @@
   "articleId": "rio-branco-wk",
   "gallery": [
     {
-      "filename": "Riobranco aeroporto.jpg",
-      "title": "File:Riobranco aeroporto.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Riobranco_aeroporto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Riobranco_aeroporto.jpg",
-      "width": 2048,
-      "height": 1536,
-      "mime": "image/jpeg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "Original uploader was User:Filipux at pt.wikipedia",
-      "description": "Rio Branco International Airport.",
-      "dateCreated": "2006-07-18",
-      "categories": [
-        "CC-BY-SA-3.0-migrated",
-        "GFDL",
-        "License migration completed",
-        "Rio Branco International Airport"
-      ],
-      "sourceType": "sibling",
-      "sourceArticleId": "rio-branco-wk",
-      "sourceGeohash4": "6qpz",
-      "mediumPath": "_m/6/q/p/z/rio-branco-wk/riobranco-aeroporto-medium.webp",
-      "smallPath": "_m/6/q/p/z/rio-branco-wk/riobranco-aeroporto-small.webp"
-    },
-    {
       "filename": "Rio Branco banner.jpg",
       "title": "File:Rio Branco banner.jpg",
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Rio_Branco_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -37,6 +12,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Tojolo",
+      "credit": "Own work",
+      "source": "Rio Branco banner",
       "description": "Visão parcial do centro da cidade de Rio Branco, capital do estado do Acre, Brasil.",
       "dateCreated": "2008-11-08",
       "categories": [
@@ -50,15 +27,14 @@
         "Self-published work",
         "Wikivoyage banners of Acre"
       ],
-      "sourceType": "sibling",
+      "sourceType": "core",
       "sourceArticleId": "rio-branco-wk",
       "sourceGeohash4": "6qpz",
-      "mediumPath": "_m/6/q/p/z/rio-branco-wk/rio-branco-banner-medium.webp",
-      "smallPath": "_m/6/q/p/z/rio-branco-wk/rio-branco-banner-small.webp"
+      "smallPath": "_m/6/q/p/z/rio-branco-wk/rio-branco-banner-small.webp",
+      "mediumPath": "_m/6/q/p/z/rio-branco-wk/rio-branco-banner-medium.webp"
     }
   ],
   "galleryPaths": [
-    "_m/6/q/p/z/rio-branco-wk/riobranco-aeroporto.jpg",
     "_m/6/q/p/z/rio-branco-wk/rio-branco-banner.jpg"
   ],
   "updatedAt": "2026-05-08T22:56:45.800Z",
@@ -84,5 +60,55 @@
       "6qpz-rio-branco-the-next-town-over.mp3": 49.3562083
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Riobranco aeroporto.jpg",
+    "title": "File:Riobranco aeroporto.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Riobranco_aeroporto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Riobranco_aeroporto.jpg",
+    "width": 2048,
+    "height": 1536,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "Original uploader was User:Filipux at pt.wikipedia",
+    "credit": "Originally from pt.wikipedia; description page is/was here.",
+    "source": "Riobranco aeroporto",
+    "description": "Rio Branco International Airport.",
+    "dateCreated": "2006-07-18",
+    "categories": [
+      "CC-BY-SA-3.0-migrated",
+      "GFDL",
+      "License migration completed",
+      "Rio Branco International Airport"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "rio-branco-wk",
+    "sourceGeohash4": "6qpz"
+  },
+  "thumbnail": {
+    "filename": "Riobranco aeroporto.jpg",
+    "title": "File:Riobranco aeroporto.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Riobranco_aeroporto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Riobranco_aeroporto.jpg",
+    "width": 2048,
+    "height": 1536,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "Original uploader was User:Filipux at pt.wikipedia",
+    "credit": "Originally from pt.wikipedia; description page is/was here.",
+    "source": "Riobranco aeroporto",
+    "description": "Rio Branco International Airport.",
+    "dateCreated": "2006-07-18",
+    "categories": [
+      "CC-BY-SA-3.0-migrated",
+      "GFDL",
+      "License migration completed",
+      "Rio Branco International Airport"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "rio-branco-wk",
+    "sourceGeohash4": "6qpz"
   }
 }

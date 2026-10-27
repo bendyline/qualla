@@ -3,30 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/d/e/0/t/caja-de-muertos-island-wp/hero.png",
-        "filename": "Relief Map of Caribbean.png",
-        "caption": "Физическая карта Вест-Индии.",
-        "alt": "Физическая карта Вест-Индии.",
-        "width": 891,
-        "height": 561,
-        "mimeType": "image/png",
-        "license": "CC BY-SA 3.0",
-        "artist": "Nzeemin",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Relief_Map_of_Caribbean.png",
-        "sourceType": "core",
+        "path": "_m/d/e/0/t/caja-de-muertos-island-wp/caja-de-muerto-isla.jpg",
+        "filename": "Caja de muerto Isla.jpg",
+        "alt": "Caja de muerto Isla.jpg",
+        "width": 640,
+        "height": 480,
+        "mimeType": "image/jpeg",
+        "license": "CC BY 1.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caja_de_muerto_Isla.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "caja-de-muertos-island-wp",
         "sourceGeohash4": "de0t",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Location maps of Caribbean",
-          "Location maps of water bodies",
-          "Self-published work",
-          "Topographic maps of the Caribbean"
-        ]
+          "CC-BY-1.0",
+          "Files with no machine-readable author",
+          "Files with no machine-readable source",
+          "Isla Caja de Muertos",
+          "Media missing infobox template"
+        ],
+        "smallPath": "_m/d/e/0/t/caja-de-muertos-island-wp/caja-de-muerto-isla-small.webp"
       },
       "images": [
         {
-          "path": "_m/d/e/0/t/caja-de-muertos-island-wp/relief-map-lesser-anti.png",
+          "path": "_m/d/6/p/m/klein-bonaire-wp/relief-map-lesser-anti.png",
           "filename": "Relief map of Lesser Antilles.png",
           "caption": "Relief map of the Lesser Antilles",
           "alt": "Relief map of the Lesser Antilles",
@@ -45,7 +44,8 @@
             "Location maps of Caribbean",
             "PNG created with Inkscape",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/d/6/p/m/klein-bonaire-wp/relief-map-lesser-anti-small.webp"
         },
         {
           "path": "_m/d/e/0/t/caja-de-muertos-island-wp/cactus-caja-de-muerto.jpg",

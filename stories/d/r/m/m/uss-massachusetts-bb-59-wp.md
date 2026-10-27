@@ -37,7 +37,7 @@ Located at 41.706°N, 71.163°W in Fall River, Massachusetts, on the Taunton Riv
 ## Sources
 
 - [USS Massachusetts (BB-59) - Wikipedia](https://en.wikipedia.org/?curid=198179)
-- [USS Massachusetts (BB-59) - Wikipedia](https://en.wikipedia.org/wiki/USS_Massachusetts_(BB-59))
+- [USS Massachusetts (BB-59) - Wikipedia](https://en.wikipedia.org/?curid=198179)
   - Commissioned May 12 1942 Bethlehem Steel Fore River Shipyard confirmed
   - Operation Torch November 8 1942 confirmed
   - Jean Bart hit five times confirmed

@@ -33,7 +33,7 @@ The crash site sits at approximately 34.137°N, 118.692°W in the Santa Monica M
 ## Sources
 
 - [2020 Calabasas helicopter crash - Wikipedia](https://en.wikipedia.org/?curid=62938434)
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2020_Calabasas_helicopter_crash)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=62938434)
   - Replaced a graphic verbatim trial quote with a summary of the same testimony, out of consideration for the victims' living family.
 
 ## Review Notes

@@ -28,7 +28,7 @@ Standing on the bluff today, visitors look out over the same bend in the Missour
 
 ## Flight Context
 
-Located at 39.19N, 94.19W on a prominent bluff above the Missouri River in Jackson County, Missouri. The reconstructed fort site is visible from altitude as a cleared area on a high river bluff, northeast of Independence. Nearest airports include Kansas City Downtown Airport (KMKC, roughly 20nm west) and Lee's Summit Municipal Airport (KLXT, roughly 15nm southwest). Recommended viewing altitude: 2,000-4,000 ft AGL to appreciate the river bluff positioning. The Missouri River bend below the fort is a distinctive visual landmark.
+Located at 39.19N, 94.19W on a prominent bluff above the Missouri River in Jackson County, Missouri. The reconstructed fort site is visible from altitude as a cleared area on a high river bluff, northeast of Independence. Nearest airports include Kansas City Downtown Airport (KMKC, roughly 20nm west) and Kansas City - Lee's Summit Regional Airport (KLXT, formerly Lee's Summit Municipal, roughly 15nm southwest). Recommended viewing altitude: 2,000-4,000 ft AGL to appreciate the river bluff positioning. The Missouri River bend below the fort is a distinctive visual landmark.
 
 ## Sources
 

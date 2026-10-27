@@ -37,7 +37,7 @@ Located at 46.48°N, 81.20°W, the Sudbury Neutrino Observatory is 2,100 meters 
 ## Sources
 
 - [Sudbury Neutrino Observatory - Wikipedia](https://en.wikipedia.org/?curid=28462)
-- [Sudbury Neutrino Observatory - Wikipedia](https://en.wikipedia.org/wiki/Sudbury_Neutrino_Observatory)
+- [Sudbury Neutrino Observatory - Wikipedia](https://en.wikipedia.org/?curid=28462)
   - Located 2,100 meters underground in Vale's Creighton Mine
   - 1,000 tonnes of heavy water in 12-meter acrylic vessel
   - Approximately 9,600 photomultiplier tubes on geodesic sphere

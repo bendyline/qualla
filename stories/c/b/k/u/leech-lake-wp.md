@@ -51,7 +51,7 @@ Located at 47.156°N, 94.390°W at approximately 1,295 feet MSL in the Chippewa 
   - Festival ran 1980-2019 confirmed
   - Canceled after 2019 due to costs and safety - corrected present tense to past tense
   - Held in Walker on Leech Lake confirmed
-- [Wikipedia - Leech Lake size and hydrology](https://en.wikipedia.org/wiki/Leech_Lake)
+- [Wikipedia - Leech Lake size and hydrology](https://en.wikipedia.org/?curid=914074)
   - 102947 acres (roughly 102000) confirmed
   - 195 miles shoreline confirmed
   - Third largest lake in Minnesota confirmed

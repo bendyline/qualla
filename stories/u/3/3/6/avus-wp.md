@@ -36,10 +36,10 @@ The AVUS runs roughly north–south through the Grunewald at 52.481°N, 13.251°
 
 ## Sources
 
-- [AVUS - Wikipedia](https://en.wikipedia.org/wiki/AVUS)
+- [AVUS - Wikipedia](https://en.wikipedia.org/?curid=176958)
 - [The AVUS](https://www.stadtmuseum.de/en/article/the-avus)
 - [Avus](https://www.berlin.de/en/attractions-and-sights/5317411-3104052-avus.en.html)
-- [AVUS - Wikipedia](https://en.wikipedia.org/wiki/AVUS)
+- [AVUS - Wikipedia](https://en.wikipedia.org/?curid=176958)
   - Opened with a race on 24 September 1921; original circuit length 19.569 km; construction proposed 1907, development company 1909, delayed start spring 1913, halted by WWI (Russian POWs briefly employed), financed to completion from 1920 by Hugo Stinnes
   - North Curve banking at 43 degrees, no barrier, added 1937; Jean Behra killed when his Porsche RSK flew off the unguarded banking in 1959
   - 1926 first German Grand Prix: practice crash killed Italian driver Enrico Plate's riding mechanic; Adolf Rosenberger's race-day crash into the timekeeper's box killed two marshals outright and a third later in hospital, in heavy rain

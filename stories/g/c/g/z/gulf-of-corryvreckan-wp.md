@@ -43,7 +43,7 @@ The Gulf of Corryvreckan lies at 56.154N, 5.707W, between the northern tip of Ju
   - Standing waves up to 9 metres confirmed
   - Audible ten miles away on calm nights confirmed
   - I Know Where I'm Going filmed here 1945 confirmed
-- [George Orwell Corryvreckan 1947](https://en.wikipedia.org/wiki/Gulf_of_Corryvreckan)
+- [George Orwell Corryvreckan 1947](https://en.wikipedia.org/?curid=2467896)
   - Orwell boating accident August 1947 confirmed
   - Son Richard, niece, and nephew aboard confirmed
   - Rescued by passing lobster boat confirmed

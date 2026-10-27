@@ -37,7 +37,7 @@ Sint-Michielsgestel lies at 51.63°N, 5.35°E in North Brabant, just south of 's
 ## Sources
 
 - [Kamp Sint-Michielsgestel - Wikipedia](https://en.wikipedia.org/?curid=77414569)
-- [Kamp Sint-Michielsgestel - Wikipedia](https://en.wikipedia.org/wiki/Kamp_Sint-Michielsgestel)
+- [Kamp Sint-Michielsgestel - Wikipedia](https://en.wikipedia.org/?curid=77414569)
   - Camp opened 4 May 1942 with 460 prominent Dutch hostages at Beekvliet
   - Beekvliet minor seminary + Ruwenberg school, peak ~700 inmates
   - 'People's University' (volksuniversiteit) seminars

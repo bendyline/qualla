@@ -47,7 +47,7 @@ Coordinates: 33.705N, 116.726W. The Mountain Fire burn area is visible from alti
   - $1.56 million state court settlement
   - DOJ dropped federal lawsuit in July 2019
   - new evidence cited
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Mountain_Fire_(2013))
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=40022835)
   - Removed the unsupported "billionaire" label (source: "wealthy Saudi businessman") and softened cover-up-suggestive framing about a private individual.
 
 ## Review Notes

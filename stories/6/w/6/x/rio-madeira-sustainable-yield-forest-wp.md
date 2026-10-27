@@ -33,7 +33,7 @@ Located at approximately 8.52S, 63.85W, north of Porto Velho in the state of Ron
 ## Sources
 
 - [Rio Madeira Sustainable Yield Forest - Wikipedia](https://en.wikipedia.org/?curid=51518868)
-- [Rio Madeira Sustainable Yield Forest - Wikipedia](https://en.wikipedia.org/wiki/Rio_Madeira_Sustainable_Yield_Forest)
+- [Rio Madeira Sustainable Yield Forest - Wikipedia](https://en.wikipedia.org/?curid=51518868)
   - Created 1990 in Rondônia confirmed
   - Three sectors (A, B, C) combined 587,207 hectares confirmed
   - Planafloro loan from IBRD confirmed

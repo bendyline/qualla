@@ -28,7 +28,7 @@ Memphis barbecue is pork, slow-smoked, served dry-rubbed or wet with sauce. The 
 
 ## Visiting Memphis
 
-Memphis is served by Memphis International Airport. Graceland, Elvis's home, is the second-most-visited house in America after the White House; tours reveal shag carpeting and genuine weirdness. The National Civil Rights Museum occupies the Lorraine Motel, its exhibits powerful and necessary. Sun Studio offers tours of the room where rock and roll was recorded. Beale Street provides live music nightly, much of it excellent, some of it tourist-oriented. The barbecue requires choosing a side - the competition is genuine. Stax Museum on McLemore Avenue celebrates soul music's golden age. The experience confronts visitors with American musical genius and American tragedy, often in the same afternoon.
+Memphis is served by Frederick W. Smith International Airport (formerly Memphis International). Graceland, Elvis's home, is the second-most-visited house in America after the White House; tours reveal shag carpeting and genuine weirdness. The National Civil Rights Museum occupies the Lorraine Motel, its exhibits powerful and necessary. Sun Studio offers tours of the room where rock and roll was recorded. Beale Street provides live music nightly, much of it excellent, some of it tourist-oriented. The barbecue requires choosing a side - the competition is genuine. Stax Museum on McLemore Avenue celebrates soul music's golden age. The experience confronts visitors with American musical genius and American tragedy, often in the same afternoon.
 
 ## Flight Context
 

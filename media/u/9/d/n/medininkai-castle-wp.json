@@ -3,19 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/9/d/n/medininkai-castle-wp/hero.jpg",
-        "filename": "Trakai Island Castle, Lithuania - Diliff.jpg",
-        "caption": "The Trakai Island Castle as viewed from the south.",
-        "alt": "The Trakai Island Castle as viewed from the south.",
-        "width": 6850,
-        "height": 4245,
+        "path": "_m/u/9/d/n/medininkai-castle-wp/hansanova-medininkai.jpg",
+        "filename": "Hansanova medininkai.jpg",
+        "caption": "Hansanova performs at Medininkai Castle, Lithuania at September 23, 2023",
+        "alt": "Hansanova performs at Medininkai Castle, Lithuania at September 23, 2023",
+        "width": 7360,
+        "height": 4912,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Diliff",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trakai_Island_Castle,_Lithuania_-_Diliff.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Indraluna",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hansanova_medininkai.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "medininkai-castle-wp",
-        "sourceGeohash4": "u9dn"
+        "sourceGeohash4": "u9dn",
+        "mediumPath": "_m/u/9/d/n/medininkai-castle-wp/hansanova-medininkai-medium.webp",
+        "smallPath": "_m/u/9/d/n/medininkai-castle-wp/hansanova-medininkai-small.webp"
       },
       "images": [
         {
@@ -68,7 +70,7 @@
           "smallPath": "_m/u/9/d/n/medininkai-castle-wp/komentaras-photo-tomas-small.webp"
         },
         {
-          "path": "_m/u/9/d/n/medininkai-castle-wp/image-adjusted-usage-l.jpg",
+          "path": "_m/u/9/9/z/vilnius-wk/image-adjusted-usage-l.jpg",
           "filename": "Gediminas Tower in Vilnius (cropped).jpg",
           "caption": "Image was adjusted for usage in Lithuania-struct stub. Image shows Gediminas Tower in Vilnius, LIthuania",
           "alt": "Image was adjusted for usage in Lithuania-struct stub. Image shows Gediminas Tower in Vilnius, LIthuania",
@@ -88,7 +90,8 @@
             "Gediminas Tower",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/9/9/z/vilnius-wk/image-adjusted-usage-l-small.webp"
         },
         {
           "path": "_m/u/9/d/n/medininkai-castle-wp/medininkai-castle-reco.jpg",

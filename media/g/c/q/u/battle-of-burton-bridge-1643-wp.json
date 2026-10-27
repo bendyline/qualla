@@ -3,26 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/q/u/battle-of-burton-bridge-1643-wp/hero.jpg",
-        "filename": "Staffordshire UK relief location map.jpg",
-        "caption": "Relief map of Staffordshire, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 165%\nGeographic limits:\n\nWest: 2.50W\nEast: 1.40W\nNorth: 53.25N\nSouth: 52.40N",
-        "alt": "Relief map of Staffordshire, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 165%\nGeographic limits:\n\nWest: 2.50W\nEast: 1.40W\nNorth: 53.25N\nSouth: 52.40N",
-        "width": 2005,
-        "height": 2558,
+        "path": "_m/g/c/q/u/battle-of-burton-bridge-1643-wp/workshop-anthony-van-d.jpg",
+        "filename": "Workshop of Anthony van Dyck - Portrait of Henrietta Maria de Bourbon, Queen of England.jpg",
+        "alt": "Workshop of Anthony van Dyck - Portrait of Henrietta Maria de Bourbon, Queen of England.jpg",
+        "width": 798,
+        "height": 926,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Nilfanion, created using Ordnance Survey data",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Staffordshire_UK_relief_location_map.jpg",
+        "license": "Public domain",
+        "artist": "Workshop of Anthony van Dyck / Possibly Anthony van Dyck",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Workshop_of_Anthony_van_Dyck_-_Portrait_of_Henrietta_Maria_de_Bourbon,_Queen_of_England.jpg",
         "sourceType": "core",
         "sourceArticleId": "battle-of-burton-bridge-1643-wp",
         "sourceGeohash4": "gcqu",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Maps by Nilfanion",
-          "Maps of Staffordshire",
-          "Ordnance Survey Boundary Line maps",
-          "Topographic maps of England"
-        ]
+          "Artworks digital representation of 2D work",
+          "Artworks with Wikidata item",
+          "Artworks with accession number from Wikidata",
+          "Artworks with known accession number",
+          "CC-PD-Mark",
+          "Henrietta Maria of France (San Diego, Van Dyck)",
+          "PD-Art (PD-old-100)",
+          "PD-Art missing SDC copyright status",
+          "PD-old missing SDC copyright status"
+        ],
+        "smallPath": "_m/g/c/q/u/battle-of-burton-bridge-1643-wp/workshop-anthony-van-d-small.webp"
       },
       "images": [
         {
@@ -72,7 +76,8 @@
             "Files with coordinates missing SDC location of creation (52° N, 2° W)",
             "Flickr images reviewed by trusted users",
             "Taken with Fujifilm FinePix S9500"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/u/burton-upon-trent-wp/burton-upon-trent-railway-stat-small.webp"
         },
         {
           "path": "_m/g/c/q/u/burton-upon-trent-wp/brewer-s-signs-at-the-national.jpg",
@@ -96,7 +101,9 @@
             "Information field template with formatting",
             "Pub signs in Staffordshire",
             "Taken with Canon PowerShot A720 IS"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/u/burton-upon-trent-wp/brewer-s-signs-at-the-national-medium.webp",
+          "smallPath": "_m/g/c/q/u/burton-upon-trent-wp/brewer-s-signs-at-the-national-small.webp"
         },
         {
           "path": "_m/g/c/q/u/burton-upon-trent-wp/the-burton-cooper-statue-coope.jpg",
@@ -118,7 +125,9 @@
             "Flickr images reviewed by FlickreviewR",
             "Photographs by Elliott Brown",
             "The Burton Cooper statue, Burton upon Trent"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/u/burton-upon-trent-wp/the-burton-cooper-statue-coope-medium.webp",
+          "smallPath": "_m/g/c/q/u/burton-upon-trent-wp/the-burton-cooper-statue-coope-small.webp"
         },
         {
           "path": "_m/g/c/q/u/ashby-de-la-zouch-wp/ashby-de-la-zouch-castle-main-.jpg",
@@ -142,7 +151,9 @@
             "Listed buildings in England with known IDs",
             "Self-published work",
             "Taken with Canon Digital IXUS 90 IS"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/u/ashby-de-la-zouch-wp/ashby-de-la-zouch-castle-main--medium.webp",
+          "smallPath": "_m/g/c/q/u/ashby-de-la-zouch-wp/ashby-de-la-zouch-castle-main--small.webp"
         },
         {
           "path": "_m/g/c/q/u/ashby-de-la-zouch-wp/ashby-de-la-zouch-wv-banner.jpg",
@@ -164,7 +175,9 @@
             "Extracted images",
             "Wikivoyage banners by Missvain",
             "Wikivoyage banners of England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/u/ashby-de-la-zouch-wp/ashby-de-la-zouch-wv-banner-medium.webp",
+          "smallPath": "_m/g/c/q/u/ashby-de-la-zouch-wp/ashby-de-la-zouch-wv-banner-small.webp"
         },
         {
           "path": "_m/g/c/q/s/uttoxeter-wp/uttoxeter-railway-station-staf.jpg",
@@ -187,7 +200,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Uttoxeter railway station"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/s/uttoxeter-wp/uttoxeter-railway-station-staf-small.webp"
         },
         {
           "path": "_m/g/c/q/s/uttoxeter-wp/the-white-hart-hotel-uttoxeter.jpg",
@@ -211,7 +225,8 @@
             "Information field template with formatting",
             "The White Hart Hotel, Uttoxeter",
             "Uploaded with OpenRefine"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/s/uttoxeter-wp/the-white-hart-hotel-uttoxeter-small.webp"
         }
       ],
       "narration": [

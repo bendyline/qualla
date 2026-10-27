@@ -32,7 +32,7 @@ Located at 35.703°N, 140.788°E on the northeast coast of Chiba Prefecture, Jap
 
 ## Sources
 
-- [Byōbugaura - Wikipedia](https://en.wikipedia.org/wiki/By%C5%8Dbugaura)
+- [Byōbugaura - Wikipedia](https://en.wikipedia.org/?curid=35819386)
   - 10 kilometer length confirmed
   - four geological strata confirmed (Kanto Loam, Katori, Iioka, Naarai)
   - Kanto Loam from Fuji/Hakone eruptions confirmed

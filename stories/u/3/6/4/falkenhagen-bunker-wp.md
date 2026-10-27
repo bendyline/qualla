@@ -36,7 +36,7 @@ The Falkenhagen complex lies at 52.43 N, 14.36 E in Märkisch-Oderland, in flat,
 
 ## Sources
 
-- [Falkenhagen Bunker](https://en.wikipedia.org/wiki/Falkenhagen_Bunker)
+- [Falkenhagen Bunker](https://en.wikipedia.org/?curid=37464322)
   - Codename Seewerk; built 1939-1943 by Deutsche Sprengchemie GmbH for the Wehrmacht (de.wikipedia, Bunker Falkenhagen)
   - Four underground levels, central railway tunnel, two production halls, about 14,000 m² usable area, covered by 10-15 m of earth
   - Chlorine trifluoride investigated as N-Stoff by the Kaiser Wilhelm Institute; tested against Maginot Line mock-ups; effective as combined incendiary and poison gas
@@ -46,7 +46,7 @@ The Falkenhagen complex lies at 52.43 N, 14.36 E in Märkisch-Oderland, in flat,
   - Rebuilt 1958-1964 by the Group of Soviet Forces in Germany; Warsaw Pact command post from 1965; assessed by Western intelligence as the main Warsaw Pact bunker outside the USSR
   - Soviet garrison village above ground with theatre, shops, school, housing and medical facilities
   - Soviets stripped the site over three years and left in 1993; transferred to the federal property office 1990, administered until 2003, then sold to a Berlin investor; no reuse (de.wikipedia)
-- [Falkenhagen Bunker / Chlorine trifluoride - Wikipedia (round 2 fact check)](https://en.wikipedia.org/wiki/Falkenhagen_Bunker)
+- [Falkenhagen Bunker / Chlorine trifluoride - Wikipedia (round 2 fact check)](https://en.wikipedia.org/?curid=37464322)
   - Western intelligence assessed Falkenhagen as the main Warsaw Pact bunker outside the USSR
   - Warsaw Pact command post established 1965; Soviet forces stripped the site over three years, leaving in 1993
   - John Drury Clark quote on ClF3 hypergolicity confirmed (story quotes a shortened excerpt of the full line); 900 kg spill burned through 30 cm concrete and 90 cm gravel confirmed

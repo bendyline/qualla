@@ -37,7 +37,7 @@ Located at 36.06°N, 107.96°W in remote northwestern New Mexico, within the San
 ## Sources
 
 - [Chaco Culture National Historical Park - Wikipedia](https://en.wikipedia.org/?curid=925271)
-- [Chaco Culture National Historical Park - Wikipedia](https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park)
+- [Chaco Culture National Historical Park - Wikipedia](https://en.wikipedia.org/?curid=925271)
   - Pueblo Bonito at least 650 rooms four stories high
   - Built between AD 900 and 1150
   - Sun Dagger petroglyph tracks 18.6-year lunar cycle

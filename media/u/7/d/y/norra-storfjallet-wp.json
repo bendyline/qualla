@@ -3,32 +3,22 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/7/d/y/norra-storfjallet-wp/hero.jpg",
-        "filename": "Syterskalet.jpg",
-        "caption": "Dalgången Syterskalet i Norra Storfjället",
-        "alt": "Dalgången Syterskalet i Norra Storfjället",
+        "path": "_m/u/7/e/q/vindelfjallen-nature-reserve-wp/norra-sytertoppen.jpg",
+        "filename": "Norra Sytertoppen.jpg",
+        "caption": "Norra Sytertoppen i Vindelfjällen",
+        "alt": "Norra Sytertoppen i Vindelfjällen",
         "width": 2032,
         "height": 1354,
-        "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "artist": "Irreducibel",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Syterskalet.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "norra-storfjallet-wp",
-        "sourceGeohash4": "u7dy",
-        "categories": [
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "GFDL",
-          "License migration redundant",
-          "Self-published work",
-          "Storuman Municipality",
-          "Valleys of Sweden",
-          "Vindelfjällens naturreservat"
-        ]
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Norra_Sytertoppen.jpg",
+        "mediumPath": "_m/u/7/e/q/vindelfjallen-nature-reserve-wp/norra-sytertoppen-medium.webp",
+        "smallPath": "_m/u/7/e/q/vindelfjallen-nature-reserve-wp/norra-sytertoppen-small.webp"
       },
       "images": [
         {
-          "path": "_m/u/7/d/y/norra-storfjallet-wp/norra-sytertoppen.jpg",
+          "path": "_m/u/7/e/q/vindelfjallen-nature-reserve-wp/norra-sytertoppen.jpg",
           "filename": "Norra Sytertoppen.jpg",
           "caption": "Norra Sytertoppen i Vindelfjällen",
           "alt": "Norra Sytertoppen i Vindelfjällen",
@@ -50,7 +40,9 @@
             "Storuman Municipality",
             "Summits of Sweden",
             "Vindelfjällens naturreservat"
-          ]
+          ],
+          "mediumPath": "_m/u/7/e/q/vindelfjallen-nature-reserve-wp/norra-sytertoppen-medium.webp",
+          "smallPath": "_m/u/7/e/q/vindelfjallen-nature-reserve-wp/norra-sytertoppen-small.webp"
         }
       ],
       "narration": [
@@ -62,8 +54,9 @@
         "_m/u/7/d/y/norra-storfjallet-wp/u7dy-norra-storfj-llet-arctic-fox-country.mp3"
       ],
       "combinedNarration": "_m/u/7/d/y/norra-storfjallet-wp/u7dy-norra-storfjallet-combined.mp3",
-      "combinedNarrationBytes": 3881067,
-      "combinedNarrationDuration": 323
+      "combinedNarrationBytes": 3973901,
+      "combinedNarrationDuration": 323,
+      "combinedCover": "_m/u/7/d/y/norra-storfjallet-wp/u7dy-norra-storfjallet-combined-cover.jpg"
     }
   }
 }

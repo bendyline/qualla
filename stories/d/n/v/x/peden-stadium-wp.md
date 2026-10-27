@@ -51,7 +51,7 @@ Located at 39.32°N, 82.10°W on the southern edge of the Ohio University campus
 - [Football: Ohio pulls off upset against West Virginia - The Post](https://www.thepostathens.com/article/2025/09/ohio-university-football-recap-west-virginia-upset)
   - Corrected: 2025 attendance record set at 26,740 (original text said 'exceeded 25,000')
   - Ohio beat West Virginia in September 2025 confirmed
-- [College football 150th anniversary game - Peden Stadium 2019](https://en.wikipedia.org/wiki/Peden_Stadium)
+- [College football 150th anniversary game - Peden Stadium 2019](https://en.wikipedia.org/?curid=3854384)
   - November 6, 2019 game commemorating college football's 150th anniversary confirmed
   - Ohio won 24-21 over Miami confirmed
   - First intercollegiate football game played in 1869 confirmed

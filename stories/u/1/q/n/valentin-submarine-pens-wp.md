@@ -36,7 +36,7 @@ The bunker sits at approximately 53.2170N, 8.5063E, on the eastern bank of the W
 
 ## Sources
 
-- [Valentin submarine pens - Wikipedia](https://en.wikipedia.org/wiki/Valentin_submarine_pens)
+- [Valentin submarine pens - Wikipedia](https://en.wikipedia.org/?curid=10472940)
   - Dimensions 426 m x 97 m, walls 4.5 m, eastern roof section 7 m thick
   - Codename Valentin; intended for Type XXI final assembly, 3 boats April 1945 then 14+ monthly
   - 90% complete by March 1945 with machine tools installed

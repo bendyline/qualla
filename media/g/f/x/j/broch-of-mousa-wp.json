@@ -3,28 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/x/j/broch-of-mousa-wp/hero.jpg",
-        "filename": "Broch of Mousa - geograph.org.uk - 2079773.jpg",
-        "caption": "Broch of Mousa",
-        "alt": "Broch of Mousa",
-        "width": 2560,
-        "height": 1920,
+        "path": "_m/g/f/x/j/broch-of-mousa-wp/hebridean-sky-img-2503-2840764.jpg",
+        "filename": "Hebridean Sky IMG 2503 (28407648396).jpg",
+        "caption": "Enjoying a visit to Mousa with its famous Broch",
+        "alt": "Enjoying a visit to Mousa with its famous Broch",
+        "width": 4218,
+        "height": 2275,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 2.0",
-        "artist": "Colin Smith",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Broch_of_Mousa_-_geograph.org.uk_-_2079773.jpg",
-        "sourceType": "core",
+        "artist": "Ronnie Robertson",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hebridean_Sky_IMG_2503_(28407648396).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "broch-of-mousa-wp",
         "sourceGeohash4": "gfxj",
-        "categories": [
-          "CC-BY-SA-2.0",
-          "Images from Geograph Britain and Ireland",
-          "Mousa Broch"
-        ]
+        "mediumPath": "_m/g/f/x/j/broch-of-mousa-wp/hebridean-sky-img-2503-2840764-medium.webp",
+        "smallPath": "_m/g/f/x/j/broch-of-mousa-wp/hebridean-sky-img-2503-2840764-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/x/j/broch-of-mousa-wp/mousa-broch-shetland-s.jpg",
+          "path": "_m/g/f/m/x/skara-brae-wp/mousa-broch-shetland-s.jpg",
           "filename": "Mousa Broch 20080821 02.jpg",
           "caption": "Mousa Broch, Shetland, Scotland - entrance",
           "alt": "Mousa Broch, Shetland, Scotland - entrance",
@@ -43,7 +40,8 @@
             "License migration redundant",
             "Mousa Broch",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/m/x/skara-brae-wp/mousa-broch-shetland-s-small.webp"
         },
         {
           "path": "_m/g/f/x/j/broch-of-mousa-wp/mousa-broch-shetland-s-1.jpg",
@@ -69,7 +67,7 @@
           "smallPath": "_m/g/f/x/j/broch-of-mousa-wp/mousa-broch-shetland-s-1-small.webp"
         },
         {
-          "path": "_m/g/f/x/j/broch-of-mousa-wp/relief-map-shetland-is.jpg",
+          "path": "_m/g/f/w/f/fair-isle-wp/relief-map-shetland-is.jpg",
           "filename": "Shetland UK relief location map.jpg",
           "caption": "Relief map of the Shetland Islands, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 200%\nGeographic limits:\n\nWest: 2.15W\nEast: 0.70W\nNorth: 60.88N\nSouth: 59.50N",
           "alt": "Relief map of the Shetland Islands, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 200%\nGeographic limits:\n\nWest: 2.15W\nEast: 0.70W\nNorth: 60.88N\nSouth: 59.50N",
@@ -88,7 +86,9 @@
             "Maps of the Shetland Islands",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/w/f/fair-isle-wp/relief-map-shetland-is-medium.webp",
+          "smallPath": "_m/g/f/w/f/fair-isle-wp/relief-map-shetland-is-small.webp"
         },
         {
           "path": "_m/g/f/x/j/broch-of-mousa-wp/top-mousa-broch-shetla.jpg",
@@ -487,7 +487,9 @@
             "Self-published work",
             "Shetland Museum",
             "Taken with Pentax K10D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/x/n/lerwick-wp/shetlandmuseum-lerwick-medium.webp",
+          "smallPath": "_m/g/f/x/n/lerwick-wp/shetlandmuseum-lerwick-small.webp"
         },
         {
           "path": "_m/g/f/x/n/lerwick-wp/fort-charlotte-2005.jpg",
@@ -506,7 +508,9 @@
           "categories": [
             "CC-BY-SA-2.0-DE",
             "Fort Charlotte, Lerwick"
-          ]
+          ],
+          "mediumPath": "_m/g/f/x/n/lerwick-wp/fort-charlotte-2005-medium.webp",
+          "smallPath": "_m/g/f/x/n/lerwick-wp/fort-charlotte-2005-small.webp"
         },
         {
           "path": "_m/g/f/x/n/lerwick-wp/lerwick-banner-harbour.jpg",
@@ -525,7 +529,9 @@
           "categories": [
             "CC-BY-SA-4.0",
             "Lerwick"
-          ]
+          ],
+          "mediumPath": "_m/g/f/x/n/lerwick-wp/lerwick-banner-harbour-medium.webp",
+          "smallPath": "_m/g/f/x/n/lerwick-wp/lerwick-banner-harbour-small.webp"
         },
         {
           "path": "_m/tpc/sh/et/la/nd/shetland/fishing-vessel-leaving-the-nor.jpg",
@@ -540,7 +546,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fishing_vessel_leaving_the_north_mouth_of_Lerwick_harbour_-_geograph.org.uk_-_1705315.jpg",
           "sourceType": "poi",
           "sourceArticleId": "shetland",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/sh/et/la/nd/shetland/fishing-vessel-leaving-the-nor-small.webp"
         },
         {
           "path": "_m/tpc/sh/et/la/nd/shetland/atlantic-puffins-at-sumburgh-h.jpg",
@@ -555,7 +562,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Puffins_at_Sumburgh_Head,_Shetland,_UK.jpg",
           "sourceType": "poi",
           "sourceArticleId": "shetland",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/sh/et/la/nd/shetland/atlantic-puffins-at-sumburgh-h-small.webp"
         },
         {
           "path": "_m/tpc/sh/et/la/nd/shetland/eyshaness.jpg",
@@ -570,7 +578,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eyshaness.jpg",
           "sourceType": "poi",
           "sourceArticleId": "shetland",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/sh/et/la/nd/shetland/eyshaness-medium.webp",
+          "smallPath": "_m/tpc/sh/et/la/nd/shetland/eyshaness-small.webp"
         },
         {
           "path": "_m/tpc/sh/et/la/nd/shetland/hrossey-img-9127-32137475692.jpg",
@@ -585,7 +595,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hrossey_IMG_9127_(32137475692).jpg",
           "sourceType": "poi",
           "sourceArticleId": "shetland",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/sh/et/la/nd/shetland/hrossey-img-9127-32137475692-medium.webp",
+          "smallPath": "_m/tpc/sh/et/la/nd/shetland/hrossey-img-9127-32137475692-small.webp"
         },
         {
           "path": "_m/tpc/sh/et/la/nd/shetland/mousa-broch-from-the-north-geo.jpg",
@@ -600,7 +612,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mousa_Broch_from_the_North_-_geograph.org.uk_-_2081000.jpg",
           "sourceType": "poi",
           "sourceArticleId": "shetland",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/sh/et/la/nd/shetland/mousa-broch-from-the-north-geo-medium.webp",
+          "smallPath": "_m/tpc/sh/et/la/nd/shetland/mousa-broch-from-the-north-geo-small.webp"
         }
       ],
       "narration": [

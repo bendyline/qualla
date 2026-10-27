@@ -32,7 +32,7 @@ Located at 35.145N, 136.161E on the south side of Mount Kinugasa's summit (433m)
 
 ## Sources
 
-- [Kannonshō-ji - Wikipedia](https://en.wikipedia.org/wiki/Kannonsh%C5%8D-ji)
+- [Kannonshō-ji - Wikipedia](https://en.wikipedia.org/?curid=81074312)
   - Temple founding legend involving Prince Shotoku in year 605 (13th year of Empress Suiko)
   - Temple is 31st stop on Saigoku Kannon Pilgrimage (some sources say 32nd; 31st confirmed by multiple sources)
   - 1993 fire destroyed the main hall, the Senjū Kannon statue dated 1497, and the mermaid mummy

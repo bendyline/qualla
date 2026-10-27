@@ -3,29 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/6/1/z/pursat-province-wp/hero.jpg",
-        "filename": "Sompove Meas Island, Pursat province, Cambodia.jpg",
-        "caption": "Sompove Meas Island in Pursat Province of Cambodia",
-        "alt": "Sompove Meas Island in Pursat Province of Cambodia",
-        "width": 960,
-        "height": 717,
+        "path": "_m/w/6/1/z/pursat-province-wp/skyline-pursat-entranc.jpg",
+        "filename": "Pursat Skyline.jpg",
+        "caption": "This is the skyline of Pursat from its entrance on Highway 5, featuring the large Ptel that greats Pursat's visitors. The Ptel is a sign of hospitality.",
+        "alt": "This is the skyline of Pursat from its entrance on Highway 5, featuring the large Ptel that greats Pursat's visitors. The Ptel is a sign of hospitality.",
+        "width": 3968,
+        "height": 2976,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Sotheaboth",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sompove_Meas_Island,_Pursat_province,_Cambodia.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "LacanAndStockhausen",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pursat_Skyline.jpg",
         "sourceType": "core",
         "sourceArticleId": "pursat-province-wp",
         "sourceGeohash4": "w61z",
         "categories": [
-          "CC-BY-SA-3.0",
-          "GFDL",
-          "Images with extracted images",
-          "License migration redundant",
-          "Media needing category review as of 1 November 2013",
+          "CC-BY-SA-4.0",
+          "Files with coordinates missing SDC location of creation",
           "Pursat",
           "Self-published work",
-          "Uploaded with en.wp upload wizard"
-        ]
+          "Skylines in Pursat City"
+        ],
+        "mediumPath": "_m/w/6/1/z/pursat-province-wp/skyline-pursat-entranc-medium.webp",
+        "smallPath": "_m/w/6/1/z/pursat-province-wp/skyline-pursat-entranc-small.webp"
       },
       "images": [
         {
@@ -146,7 +145,7 @@
           "smallPath": "_m/w/6/1/z/pursat-province-wp/category-3-small.webp"
         },
         {
-          "path": "_m/w/6/1/z/pursat-province-wp/elephants-on-vertical-facing-w.jpg",
+          "path": "_m/w/6/1/k/cardamom-mountains-wp/elephants-on-vertical-facing-w.jpg",
           "filename": "Elephants on vertical facing wall copy.jpg",
           "caption": "Elephants with riders depicted on vertical walls and ceiling panels. Note some rides have possible tools and unique head gear or hairstyles. Upper images are unaltered. Lower images use decorrelation stretch software [DStretch; Jon Harman) do enhance subtle color differences. The results enahnce details and reveal otherwise hidden paintings.",
           "alt": "Elephants with riders depicted on vertical walls and ceiling panels. Note some rides have possible tools and unique head gear or hairstyles. Upper images are unaltered. Lower images use decorrelation stretch software [DStretch; Jon Harman) do enhance subtle color differences. The results enahnce details and reveal otherwise hidden paintings.",
@@ -158,10 +157,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephants_on_vertical_facing_wall_copy.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "cardamom-mountains-wp",
-          "sourceGeohash4": "w61z"
+          "sourceGeohash4": "w61z",
+          "mediumPath": "_m/w/6/1/k/cardamom-mountains-wp/elephants-on-vertical-facing-w-medium.webp",
+          "smallPath": "_m/w/6/1/k/cardamom-mountains-wp/elephants-on-vertical-facing-w-small.webp"
         },
         {
-          "path": "_m/w/6/1/z/pursat-province-wp/left-animal-scene-pane.jpg",
+          "path": "_m/w/6/1/k/cardamom-mountains-wp/left-animal-scene-pane.jpg",
           "filename": "Dancers Kanam.jpg",
           "caption": "Left: animal scene panels enhanced with DStretch software. Note the random placement of mammals. Right: original and DStretch enhanced images of humans holding objects. Some have interpreted this to represent ritual scenes, perhaps dancing with musical instruments.",
           "alt": "Left: animal scene panels enhanced with DStretch software. Note the random placement of mammals. Right: original and DStretch enhanced images of humans holding objects. Some have interpreted this to represent ritual scenes, perhaps dancing with musical instruments.",
@@ -173,7 +174,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dancers_Kanam.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "cardamom-mountains-wp",
-          "sourceGeohash4": "w61z"
+          "sourceGeohash4": "w61z",
+          "mediumPath": "_m/w/6/1/k/cardamom-mountains-wp/left-animal-scene-pane-medium.webp",
+          "smallPath": "_m/w/6/1/k/cardamom-mountains-wp/left-animal-scene-pane-small.webp"
         }
       ],
       "narration": [

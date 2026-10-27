@@ -43,7 +43,7 @@ Tete Province, Mozambique. Centered near 15.50°S, 32.50°E. Nearest airport: Ch
   - Corrected: '22 million metric tons per year at full capacity' was Vale's unachieved expansion target; Vale sold assets to Vulcan Minerals in 2022 before achieving this
   - 6.7 billion tons of coal reserves figure cited
   - 90 percent of Vale employees and contractors are Mozambicans confirmed
-- [Tete Fossil Forest - IUGS Geological Heritage Sites](https://en.wikipedia.org/wiki/Tete_Province)
+- [Tete Fossil Forest - IUGS Geological Heritage Sites](https://en.wikipedia.org/?curid=448229)
   - IUGS listing in October 2022 confirmed
   - 1,500 km² fossil forest area confirmed
   - Permian age ~252 million years ago confirmed

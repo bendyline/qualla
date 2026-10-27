@@ -3,32 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/z/e/1/seram-sea-wp/hero.jpg",
-        "filename": "Waves in pacifica 1.jpg",
-        "caption": "Sea Storm in Pacifica, w:California",
-        "alt": "Sea Storm in Pacifica, w:California",
-        "width": 2000,
-        "height": 1358,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Brocken Inaglory",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waves_in_pacifica_1.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "seram-sea-wp",
-        "sourceGeohash4": "qze1",
-        "categories": [
-          "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
-          "California Coast",
-          "GFDL",
-          "Images with extracted images",
-          "License migration redundant",
-          "Ocean surface waves",
-          "Self-published work"
-        ]
+        "path": "_m/q/x/c/p/naval-base-borneo-wp/map-maluku-islands.png",
+        "filename": "Maluku Islands en.png",
+        "caption": "Map of Maluku Islands",
+        "alt": "Map of Maluku Islands",
+        "width": 1489,
+        "height": 1640,
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Lencer",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maluku_Islands_en.png",
+        "smallPath": "_m/q/x/c/p/naval-base-borneo-wp/map-maluku-islands-small.webp"
       },
       "images": [
         {
-          "path": "_m/q/z/e/1/seram-sea-wp/map-maluku-islands.png",
+          "path": "_m/q/x/c/p/naval-base-borneo-wp/map-maluku-islands.png",
           "filename": "Maluku Islands en.png",
           "caption": "Map of Maluku Islands",
           "alt": "Map of Maluku Islands",
@@ -48,7 +37,8 @@
             "Maps of the Moluccas",
             "PNG that should use vector graphics",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/q/x/c/p/naval-base-borneo-wp/map-maluku-islands-small.webp"
         }
       ],
       "narration": [
@@ -60,8 +50,9 @@
         "_m/q/z/e/1/seram-sea-wp/qze1-where-the-spice-routes-converged-life-in-the-coral-triangle.mp3"
       ],
       "combinedNarration": "_m/q/z/e/1/seram-sea-wp/qze1-seram-sea-combined.mp3",
-      "combinedNarrationBytes": 4117505,
-      "combinedNarrationDuration": 343
+      "combinedNarrationBytes": 4210166,
+      "combinedNarrationDuration": 343,
+      "combinedCover": "_m/q/z/e/1/seram-sea-wp/qze1-seram-sea-combined-cover.jpg"
     }
   }
 }

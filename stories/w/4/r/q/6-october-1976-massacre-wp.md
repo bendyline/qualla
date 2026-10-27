@@ -50,7 +50,7 @@ Thammasat University at 13.756N, 100.491E sits on the banks of the Chao Phraya R
   - Amnesty law passed December 24 1976
   - Doct6.com archive managed by Puangthong Pawakapan
   - Jarupong Thongsin award created 2019
-- [6 October 1976 massacre - Wikipedia (verification)](https://en.wikipedia.org/wiki/6_October_1976_massacre)
+- [6 October 1976 massacre - Wikipedia (verification)](https://en.wikipedia.org/?curid=7156225)
   - Official death toll is 46 (story says forty-five; Wikipedia cites 46 killed on both sides)
   - Neal Ulevich 1977 Pulitzer Prize for spot news photography confirmed
   - Right-wing paramilitaries included Red Gaurs confirmed

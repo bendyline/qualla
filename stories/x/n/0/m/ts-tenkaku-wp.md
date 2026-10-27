@@ -36,8 +36,8 @@ Located at 34.652N, 135.506E in Osaka's Shinsekai district, south of the city ce
 
 ## Sources
 
-- [Tsutenkaku - Wikipedia](https://en.wikipedia.org/wiki/Ts%C5%ABtenkaku)
-- [Tsutenkaku - Wikipedia](https://en.wikipedia.org/wiki/Ts%C5%ABtenkaku)
+- [Tsutenkaku - Wikipedia](https://en.wikipedia.org/?curid=455161)
+- [Tsutenkaku - Wikipedia](https://en.wikipedia.org/?curid=455161)
   - Original built 1912 at 64 meters
   - Second-tallest structure in Asia at time
   - Fire January 1943 and dismantled for war steel

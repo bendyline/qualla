@@ -3,26 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/2/8/dunquin-wp/hero.jpg",
-        "filename": "Blasket Harbour.jpg",
-        "caption": "Harbour used to reach the Blasket Islands.",
-        "alt": "Harbour used to reach the Blasket Islands.",
-        "width": 2816,
-        "height": 2112,
+        "path": "_m/g/c/2/8/dunquin-wp/dunquin-2012.jpg",
+        "filename": "Dunquin (2012).jpg",
+        "caption": "Dunquin, Slea Head Drive, Co. Kerry.",
+        "alt": "Dunquin, Slea Head Drive, Co. Kerry.",
+        "width": 4500,
+        "height": 3000,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "Cargoking",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blasket_Harbour.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "JoachimKohler-HB",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dunquin_(2012).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "dunquin-wp",
         "sourceGeohash4": "gc28",
-        "categories": [
-          "Blasket Islands",
-          "CC-BY-3.0",
-          "Ports and harbours in the Republic of Ireland",
-          "Self-published work",
-          "Taken with Canon Digital IXUS 65"
-        ]
+        "mediumPath": "_m/g/c/2/8/dunquin-wp/dunquin-2012-medium.webp",
+        "smallPath": "_m/g/c/2/8/dunquin-wp/dunquin-2012-small.webp"
       },
       "images": [
         {
@@ -200,7 +195,7 @@
           "smallPath": "_m/g/c/2/8/dunquin-wp/an-blascaod-mor-great-blasket--small.webp"
         },
         {
-          "path": "_m/g/c/2/8/dunquin-wp/dunquin-harbour-1960-geograph-.jpg",
+          "path": "_m/g/c/2/2/blasket-islands-wp/dunquin-harbour-1960-geograph-.jpg",
           "filename": "Dunquin Harbour - 1960 - geograph.org.uk - 523373.jpg",
           "caption": "Dunquin Harbour - 1960 Gt Blasket Island in the background. The currachs were very light, covered with tarred fabric, and crewed by several men, and very manoeuvrable - a very exciting trip to the Great Blasket. Changed days now, I believe!",
           "alt": "Dunquin Harbour - 1960 Gt Blasket Island in the background. The currachs were very light, covered with tarred fabric, and crewed by several men, and very manoeuvrable - a very exciting trip to the Great Blasket. Changed days now, I believe!",
@@ -212,7 +207,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dunquin_Harbour_-_1960_-_geograph.org.uk_-_523373.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "blasket-islands-wp",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "smallPath": "_m/g/c/2/2/blasket-islands-wp/dunquin-harbour-1960-geograph--small.webp"
         },
         {
           "path": "_m/g/c/2/8/dunquin-wp/dunquin-harbour-1960-geograph--1.jpg",
@@ -295,7 +291,7 @@
           "smallPath": "_m/g/c/2/8/dunquin-wp/coast-near-ballyickeen-geograp-small.webp"
         },
         {
-          "path": "_m/g/c/2/8/dunquin-wp/blasket-sound-from-dunquin-har.jpg",
+          "path": "_m/g/c/2/2/blasket-islands-wp/blasket-sound-from-dunquin-har.jpg",
           "filename": "Blasket Sound from Dunquin Harbour - 1960 - geograph.org.uk - 1723525.jpg",
           "caption": "Blasket Sound from Dunquin Harbour - 1960 Dunmore Head is to the left, and a part of Great Blasket Island just visible to the right. To its left, 13 km away, is Inishvickillane",
           "alt": "Blasket Sound from Dunquin Harbour - 1960 Dunmore Head is to the left, and a part of Great Blasket Island just visible to the right. To its left, 13 km away, is Inishvickillane",
@@ -307,7 +303,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blasket_Sound_from_Dunquin_Harbour_-_1960_-_geograph.org.uk_-_1723525.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "blasket-islands-wp",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "smallPath": "_m/g/c/2/2/blasket-islands-wp/blasket-sound-from-dunquin-har-small.webp"
         },
         {
           "path": "_m/g/c/2/8/dunquin-wp/donkey-near-dunbeg-fort-dingle.jpg",
@@ -361,7 +358,7 @@
           "smallPath": "_m/g/c/2/8/dunquin-wp/dunquin-co-kerry-2012-small.webp"
         },
         {
-          "path": "_m/g/c/2/8/dunquin-wp/dunquin-dingle-ireland.jpg",
+          "path": "_m/g/c/2/b/dingle-peninsula-wp/dunquin-dingle-ireland.jpg",
           "filename": "Dunquin Dingle Ireland.jpg",
           "caption": "Dunquin, Dingle, Ireland",
           "alt": "Dunquin, Dingle, Ireland",
@@ -373,7 +370,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dunquin_Dingle_Ireland.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "dingle-peninsula-wp",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "mediumPath": "_m/g/c/2/b/dingle-peninsula-wp/dunquin-dingle-ireland-medium.webp",
+          "smallPath": "_m/g/c/2/b/dingle-peninsula-wp/dunquin-dingle-ireland-small.webp"
         },
         {
           "path": "_m/g/c/2/8/dunquin-wp/q3201-landscape-geograph-org-u.jpg",
@@ -426,7 +425,8 @@
             "Files with no machine-readable author",
             "Files with no machine-readable source",
             "Media missing infobox template"
-          ]
+          ],
+          "smallPath": "_m/g/c/2/2/blasket-islands-wp/blasket2-small.webp"
         },
         {
           "path": "_m/g/c/2/2/blasket-islands-wp/inishnabro.jpg",
@@ -448,7 +448,9 @@
             "GFDL",
             "License migration completed",
             "Media missing infobox template"
-          ]
+          ],
+          "mediumPath": "_m/g/c/2/2/blasket-islands-wp/inishnabro-medium.webp",
+          "smallPath": "_m/g/c/2/2/blasket-islands-wp/inishnabro-small.webp"
         },
         {
           "path": "_m/g/c/2/2/blasket-islands-wp/tearaght.jpg",
@@ -470,7 +472,8 @@
             "License migration completed",
             "Media missing infobox template",
             "Tearaght Island"
-          ]
+          ],
+          "smallPath": "_m/g/c/2/2/blasket-islands-wp/tearaght-small.webp"
         },
         {
           "path": "_m/g/c/2/2/blasket-islands-wk/view-over-beginish-island.jpg",
@@ -492,7 +495,9 @@
             "Flickr images reviewed by FlickreviewR",
             "Mountains of County Kerry",
             "Valentia Island"
-          ]
+          ],
+          "mediumPath": "_m/g/c/2/2/blasket-islands-wk/view-over-beginish-island-medium.webp",
+          "smallPath": "_m/g/c/2/2/blasket-islands-wk/view-over-beginish-island-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory.jpg",
@@ -520,7 +525,9 @@
             "Quality images of Ireland by Ingo Mehling",
             "Quality images of cultural heritage monuments in County Kerry",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory-medium.webp",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/dolphin-fungie-memorial-dingle.jpg",
@@ -540,7 +547,8 @@
             "CC-BY-SA-3.0",
             "Fungie",
             "Monuments and memorials in County Kerry"
-          ]
+          ],
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/dolphin-fungie-memorial-dingle-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/seal-in-dingle-last-year-58114.jpg",
@@ -555,7 +563,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seal_in_Dingle_last_Year_(5811421838).jpg",
           "sourceType": "poi",
           "sourceArticleId": "dingle-peninsula",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/seal-in-dingle-last-year-58114-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din.jpg",
@@ -569,7 +578,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strand_Street_-_Sr%C3%A1id_na_Tr%C3%A1,_Dingle_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "dingle-peninsula",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "mediumPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din-medium.webp",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut.jpg",
@@ -592,7 +603,9 @@
             "License migration completed",
             "Listowel",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe.jpg",
@@ -607,7 +620,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_slugs_-_forest_and_bog_phenotypes.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir.jpg",
@@ -622,7 +637,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_Airport_(KIR).jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory.jpg",
@@ -637,7 +654,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballinskelligs_Priory.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/portmagee.jpg",
@@ -652,7 +671,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portmagee.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/portmagee-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/portmagee-small.webp"
         }
       ],
       "narration": [

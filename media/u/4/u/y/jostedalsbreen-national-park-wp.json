@@ -3,30 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/4/u/y/jostedalsbreen-national-park-wp/hero.jpg",
-        "filename": "Repoveden Kansallispuisto Kesayonauringossa.jpg",
-        "caption": "Repovesi National Park in early morning summer sun, in Kouvola, Finland",
-        "alt": "Repovesi National Park in early morning summer sun, in Kouvola, Finland",
-        "width": 1024,
-        "height": 616,
+        "path": "_m/u/4/u/y/jostedalsbreen-national-park-wp/langedalen-panorama.jpg",
+        "filename": "Langedalen panorama.jpg",
+        "caption": "... in the background the Jostedalsbreen",
+        "alt": "... in the background the Jostedalsbreen",
+        "width": 5764,
+        "height": 2806,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "M. Passinen",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Repoveden_Kansallispuisto_Kesayonauringossa.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Siri Spjelkavik",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Langedalen_panorama.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "jostedalsbreen-national-park-wp",
         "sourceGeohash4": "u4uy",
-        "categories": [
-          "2000s photographs of Finland",
-          "CC-BY-SA-2.5,2.0,1.0",
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "License migration redundant",
-          "Repovesi National Park",
-          "Self-published work",
-          "Valkeala",
-          "Views from towers in Finland"
-        ]
+        "mediumPath": "_m/u/4/u/y/jostedalsbreen-national-park-wp/langedalen-panorama-medium.webp",
+        "smallPath": "_m/u/4/u/y/jostedalsbreen-national-park-wp/langedalen-panorama-small.webp"
       },
       "images": [
         {
@@ -242,7 +233,7 @@
           "smallPath": "_m/u/4/u/y/jostedalsbreen-national-park-wp/b-dalen-small.webp"
         },
         {
-          "path": "_m/u/4/u/y/jostedalsbreen-national-park-wp/mundal-fj-rlandsfjorden.jpg",
+          "path": "_m/tpc/so/gn/ef/jo/sognefjord/mundal-fj-rlandsfjorden.jpg",
           "filename": "Mundal Fjærlandsfjorden.jpg",
           "caption": "Mundal ved Fjærlandsfjorden",
           "alt": "Mundal ved Fjærlandsfjorden",
@@ -255,8 +246,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "sognefjord",
           "sourceGeohash4": "u4uy",
-          "mediumPath": "_m/u/4/u/y/jostedalsbreen-national-park-wp/mundal-fj-rlandsfjorden-medium.webp",
-          "smallPath": "_m/u/4/u/y/jostedalsbreen-national-park-wp/mundal-fj-rlandsfjorden-small.webp"
+          "mediumPath": "_m/tpc/so/gn/ef/jo/sognefjord/mundal-fj-rlandsfjorden-medium.webp",
+          "smallPath": "_m/tpc/so/gn/ef/jo/sognefjord/mundal-fj-rlandsfjorden-small.webp"
         },
         {
           "path": "_m/u/4/u/y/jostedalsbreen-national-park-wp/flatbrehytta.jpg",
@@ -448,7 +439,8 @@
             "Photographs by Leo-setä",
             "Taken with Canon PowerShot S30",
             "Urnes stavkirke"
-          ]
+          ],
+          "smallPath": "_m/tpc/so/gn/ef/jo/sognefjord/urnes-stave-church-1-small.webp"
         },
         {
           "path": "_m/tpc/jo/st/ed/al/jostedalen/la-pared-original-de-la-urnes-.jpg",
@@ -477,7 +469,8 @@
             "Urnes stavkirke",
             "Urnes style",
             "Wood carved building ornaments in Norway"
-          ]
+          ],
+          "smallPath": "_m/tpc/jo/st/ed/al/jostedalen/la-pared-original-de-la-urnes--small.webp"
         },
         {
           "path": "_m/tpc/jo/st/ed/al/jostedalen/solvorn3.jpg",
@@ -499,7 +492,9 @@
             "Norway photographs taken on 2005-08-16",
             "Solvorn",
             "Taken with Panasonic Lumix DMC-FZ20"
-          ]
+          ],
+          "mediumPath": "_m/tpc/jo/st/ed/al/jostedalen/solvorn3-medium.webp",
+          "smallPath": "_m/tpc/jo/st/ed/al/jostedalen/solvorn3-small.webp"
         },
         {
           "path": "_m/tpc/jo/st/ed/al/jostedalen/lustrafjorden.jpg",
@@ -521,7 +516,9 @@
             "Flickr images uploaded by Flickr upload bot",
             "Lustrafjorden",
             "Turquoise fjords"
-          ]
+          ],
+          "mediumPath": "_m/tpc/jo/st/ed/al/jostedalen/lustrafjorden-medium.webp",
+          "smallPath": "_m/tpc/jo/st/ed/al/jostedalen/lustrafjorden-small.webp"
         },
         {
           "path": "_m/tpc/jo/st/ed/al/jostedalen/feigefossen-2.jpg",
@@ -541,7 +538,8 @@
             "CC-BY-2.0",
             "Feigumfossen",
             "Flickr images uploaded by Flickr upload bot"
-          ]
+          ],
+          "smallPath": "_m/tpc/jo/st/ed/al/jostedalen/feigefossen-2-small.webp"
         },
         {
           "path": "_m/tpc/jo/st/ed/al/jostedalen/nigardsbreen-paa-avstand.jpg",
@@ -562,7 +560,9 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Nigardsbreen",
             "Taken with Nikon D40"
-          ]
+          ],
+          "mediumPath": "_m/tpc/jo/st/ed/al/jostedalen/nigardsbreen-paa-avstand-medium.webp",
+          "smallPath": "_m/tpc/jo/st/ed/al/jostedalen/nigardsbreen-paa-avstand-small.webp"
         },
         {
           "path": "_m/tpc/jo/st/ed/al/jostedalen/a-view-from-riksveg-55-at-sogn.jpg",
@@ -591,7 +591,9 @@
             "Smørstabbrean",
             "Smørstabbtindan",
             "Sognefjellet"
-          ]
+          ],
+          "mediumPath": "_m/tpc/jo/st/ed/al/jostedalen/a-view-from-riksveg-55-at-sogn-medium.webp",
+          "smallPath": "_m/tpc/jo/st/ed/al/jostedalen/a-view-from-riksveg-55-at-sogn-small.webp"
         },
         {
           "path": "_m/tpc/jo/st/ed/al/jostedalen/dale-kyrkje-luster-kleberstein.jpg",
@@ -606,7 +608,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dale_kyrkje_Luster_klebersteinsportal.JPG",
           "sourceType": "poi",
           "sourceArticleId": "jostedalen",
-          "sourceGeohash4": "tpc/jo/st/ed/al"
+          "sourceGeohash4": "tpc/jo/st/ed/al",
+          "mediumPath": "_m/tpc/jo/st/ed/al/jostedalen/dale-kyrkje-luster-kleberstein-medium.webp",
+          "smallPath": "_m/tpc/jo/st/ed/al/jostedalen/dale-kyrkje-luster-kleberstein-small.webp"
         },
         {
           "path": "_m/tpc/jo/st/ed/al/jostedalen/nigardsbreen-glacier.jpg",
@@ -621,7 +625,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nigardsbreen_glacier.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jostedalen",
-          "sourceGeohash4": "tpc/jo/st/ed/al"
+          "sourceGeohash4": "tpc/jo/st/ed/al",
+          "mediumPath": "_m/tpc/jo/st/ed/al/jostedalen/nigardsbreen-glacier-medium.webp",
+          "smallPath": "_m/tpc/jo/st/ed/al/jostedalen/nigardsbreen-glacier-small.webp"
         },
         {
           "path": "_m/tpc/jo/st/ed/al/jostedalen/view-from-the-storebj-rn-again.jpg",
@@ -636,7 +642,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_the_Storebj%C3%B8rn_against_Hurrungane.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jostedalen",
-          "sourceGeohash4": "tpc/jo/st/ed/al"
+          "sourceGeohash4": "tpc/jo/st/ed/al",
+          "mediumPath": "_m/tpc/jo/st/ed/al/jostedalen/view-from-the-storebj-rn-again-medium.webp",
+          "smallPath": "_m/tpc/jo/st/ed/al/jostedalen/view-from-the-storebj-rn-again-small.webp"
         },
         {
           "path": "_m/tpc/jo/st/ed/al/jostedalen/jov-0060.jpg",
@@ -651,7 +659,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:JOV_0060.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jostedalen",
-          "sourceGeohash4": "tpc/jo/st/ed/al"
+          "sourceGeohash4": "tpc/jo/st/ed/al",
+          "mediumPath": "_m/tpc/jo/st/ed/al/jostedalen/jov-0060-medium.webp",
+          "smallPath": "_m/tpc/jo/st/ed/al/jostedalen/jov-0060-small.webp"
         },
         {
           "path": "_m/tpc/jo/st/ed/al/jostedalen/norway-skjolden-march-2024-vad.jpg",
@@ -666,7 +676,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Norway_Skjolden_March_2024_Vadim_CHUPRINA.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jostedalen",
-          "sourceGeohash4": "tpc/jo/st/ed/al"
+          "sourceGeohash4": "tpc/jo/st/ed/al",
+          "mediumPath": "_m/tpc/jo/st/ed/al/jostedalen/norway-skjolden-march-2024-vad-medium.webp",
+          "smallPath": "_m/tpc/jo/st/ed/al/jostedalen/norway-skjolden-march-2024-vad-small.webp"
         }
       ],
       "narration": [

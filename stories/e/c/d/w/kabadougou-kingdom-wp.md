@@ -33,7 +33,7 @@ Centered at 9.50N, 7.56W near Odienne in northwestern Cote d'Ivoire. The terrain
 ## Sources
 
 - [Kabadougou Kingdom - Wikipedia](https://en.wikipedia.org/?curid=27742582)
-- [Kabadougou Kingdom - Wikipedia (detailed)](https://en.wikipedia.org/wiki/Kabadougou_Kingdom)
+- [Kabadougou Kingdom - Wikipedia (detailed)](https://en.wikipedia.org/?curid=27742582)
   - Vakaba Toure founded kingdom c. 1848 with Odienne as capital
   - Vakaba died 1858 from infected ant bite per local tradition
   - son Ibrahima died in battle at Korumba 1859

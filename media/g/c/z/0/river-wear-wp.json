@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/z/0/river-wear-wp/hero.jpg",
-        "filename": "Durham City 30c 20031207 Prebends Bridge 02a.jpg",
-        "caption": "Prebends Bridge over the River Wear in Durham City, taken by Peter Hughes on 7 December 2003.",
-        "alt": "Prebends Bridge over the River Wear in Durham City, taken by Peter Hughes on 7 December 2003.",
-        "width": 2272,
-        "height": 1704,
+        "path": "_m/g/c/z/0/river-wear-wp/bend-in-the-river-geograph-org.jpg",
+        "filename": "Bend in the river - geograph.org.uk - 2899347.jpg",
+        "caption": "Bend in the river",
+        "alt": "Bend in the river",
+        "width": 4608,
+        "height": 3456,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.5",
-        "artist": "PeterGHughes at English Wikipedia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Durham_City_30c_20031207_Prebends_Bridge_02a.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Robert Graham",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bend_in_the_river_-_geograph.org.uk_-_2899347.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "river-wear-wp",
         "sourceGeohash4": "gcz0",
-        "categories": [
-          "CC-BY-2.5",
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "License migration completed",
-          "Listed buildings in England with known IDs",
-          "Prebends Bridge",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/g/c/z/0/river-wear-wp/bend-in-the-river-geograph-org-medium.webp",
+        "smallPath": "_m/g/c/z/0/river-wear-wp/bend-in-the-river-geograph-org-small.webp"
       },
       "images": [
         {
@@ -53,7 +46,7 @@
           "smallPath": "_m/g/c/z/0/river-wear-wp/view-durham-cathedral-small.webp"
         },
         {
-          "path": "_m/g/c/z/0/river-wear-wp/wearmouth-bridge.jpg",
+          "path": "_m/g/c/y/b/tyne-and-wear-wp/wearmouth-bridge.jpg",
           "filename": "Wearmouth bridge.jpg",
           "caption": "Wearmouth Bridge, across the River Wear in Sunderland, England.\n\nPhotographed by John-Paul Stephenson on 8 September 2005.",
           "alt": "Wearmouth Bridge, across the River Wear in Sunderland, England.\n\nPhotographed by John-Paul Stephenson on 8 September 2005.",
@@ -77,10 +70,11 @@
             "Self-published work",
             "United Kingdom photographs taken on 2005-09-08",
             "Wearmouth Bridge"
-          ]
+          ],
+          "smallPath": "_m/g/c/y/b/tyne-and-wear-wp/wearmouth-bridge-small.webp"
         },
         {
-          "path": "_m/g/c/z/0/river-wear-wp/fichale.jpg",
+          "path": "_m/g/c/w/z/finchale-priory-wp/fichale.jpg",
           "filename": "Fichale.jpg",
           "alt": "Fichale.jpg",
           "width": 800,
@@ -100,7 +94,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon PowerShot S3 IS"
-          ]
+          ],
+          "smallPath": "_m/g/c/w/z/finchale-priory-wp/fichale-small.webp"
         },
         {
           "path": "_m/g/c/z/0/river-wear-wp/la-wear-durham.jpg",
@@ -729,7 +724,8 @@
             "Self-published work",
             "Towers of Durham Cathedral",
             "Weirs in County Durham"
-          ]
+          ],
+          "smallPath": "_m/g/c/w/w/county-durham-wp/durham-millburngate-bridge-small.webp"
         },
         {
           "path": "_m/g/c/w/w/county-durham-wp/bishop-auckland-town-hall.jpg",
@@ -762,7 +758,8 @@
             "Street trees in County Durham",
             "Traffic bollards in England",
             "United Kingdom photographs taken on 2006-09-10"
-          ]
+          ],
+          "smallPath": "_m/g/c/w/w/county-durham-wp/bishop-auckland-town-hall-small.webp"
         },
         {
           "path": "_m/g/c/y/b/beamish-museum-wp/beamish-museum-county-3.jpg",
@@ -792,7 +789,8 @@
             "Sunderland Corporation Tramways No. 16 at Beamish Museum",
             "Taken with Canon EOS 20D",
             "Town, Beamish Museum"
-          ]
+          ],
+          "smallPath": "_m/g/c/y/b/beamish-museum-wp/beamish-museum-county-3-small.webp"
         },
         {
           "path": "_m/g/c/q/x/pennine-way-wk/high-force-waterfall-t.jpg",
@@ -812,7 +810,8 @@
             "Files with coordinates missing SDC location of creation (54° N, 3° W)",
             "High Force",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/x/pennine-way-wk/high-force-waterfall-t-small.webp"
         },
         {
           "path": "_m/g/c/w/w/county-durham-wp/darlo-town-centre.jpg",
@@ -827,7 +826,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Darlo_town_centre.JPG",
           "sourceType": "poi",
           "sourceArticleId": "county-durham-wp",
-          "sourceGeohash4": "gcww"
+          "sourceGeohash4": "gcww",
+          "smallPath": "_m/g/c/w/w/county-durham-wp/darlo-town-centre-small.webp"
         },
         {
           "path": "_m/g/c/w/w/county-durham-wp/crookcentre01.jpg",
@@ -842,7 +842,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CrookCentre01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-durham-wp",
-          "sourceGeohash4": "gcww"
+          "sourceGeohash4": "gcww",
+          "mediumPath": "_m/g/c/w/w/county-durham-wp/crookcentre01-medium.webp",
+          "smallPath": "_m/g/c/w/w/county-durham-wp/crookcentre01-small.webp"
         },
         {
           "path": "_m/g/c/w/w/county-durham-wp/christ-church-consett-geograph.jpg",
@@ -857,7 +859,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christ_Church,_Consett_-_geograph.org.uk_-_1446497.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-durham-wp",
-          "sourceGeohash4": "gcww"
+          "sourceGeohash4": "gcww",
+          "smallPath": "_m/g/c/w/w/county-durham-wp/christ-church-consett-geograph-small.webp"
         },
         {
           "path": "_m/g/c/w/z/durham-cathedral-wp/hero.jpg",
@@ -872,7 +875,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Durham_MMB_02_Cathedral.jpg",
           "sourceType": "poi",
           "sourceArticleId": "durham-cathedral-wp",
-          "sourceGeohash4": "gcww"
+          "sourceGeohash4": "gcww",
+          "mediumPath": "_m/g/c/w/z/durham-cathedral-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/w/z/durham-cathedral-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/w/w/county-durham-wp/county-durham-banner-city-of-d.jpg",
@@ -887,7 +892,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:County_Durham_banner_City_of_Durham.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-durham-wp",
-          "sourceGeohash4": "gcww"
+          "sourceGeohash4": "gcww",
+          "mediumPath": "_m/g/c/w/w/county-durham-wp/county-durham-banner-city-of-d-medium.webp",
+          "smallPath": "_m/g/c/w/w/county-durham-wp/county-durham-banner-city-of-d-small.webp"
         }
       ],
       "narration": [

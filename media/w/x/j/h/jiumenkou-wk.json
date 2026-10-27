@@ -10,9 +10,58 @@
         "_m/w/x/j/h/jiumenkou-wk/wxjh-jiumenkou-great-wall-the-tunnel-beneath.mp3",
         "_m/w/x/j/h/jiumenkou-wk/wxjh-jiumenkou-great-wall-standing-at-the-crossroads.mp3"
       ],
+      "hero": {
+        "path": "_m/w/x/j/h/jiumenkou-wk/hero.jpg",
+        "filename": "Jiumenkou Great Wall.jpg",
+        "caption": "Jiumenkou Great Wall",
+        "alt": "Jiumenkou Great Wall",
+        "width": 2592,
+        "height": 1456,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Iyoo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jiumenkou_Great_Wall.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "jiumenkou-wk",
+        "sourceGeohash4": "wxjh",
+        "categories": [
+          "CC-BY-SA-4.0",
+          "Great Wall of China at Jiumenkou",
+          "Self-published work",
+          "Taken with Motorola Moto G (first generation)"
+        ],
+        "mediumPath": "_m/w/x/j/h/jiumenkou-wk/hero-medium.webp",
+        "smallPath": "_m/w/x/j/h/jiumenkou-wk/hero-small.webp"
+      },
+      "images": [
+        {
+          "path": "_m/w/x/j/h/jiumenkou-wk/great-wall-jiumenkou-n.jpg",
+          "filename": "ShanhaiguanGreatWall.jpg",
+          "caption": "The great wall at Jiumenkou (九門口). Note that the file name and the info in the source are erroneous.",
+          "alt": "The great wall at Jiumenkou (九門口). Note that the file name and the info in the source are erroneous.",
+          "width": 2000,
+          "height": 3008,
+          "mimeType": "image/jpeg",
+          "license": "CC BY 2.0",
+          "artist": "Daniel Ng from Beijing, China",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ShanhaiguanGreatWall.jpg",
+          "sourceType": "core",
+          "sourceArticleId": "jiumenkou-wk",
+          "sourceGeohash4": "wxjh",
+          "categories": [
+            "CC-BY-2.0",
+            "Flickr images reviewed by FlickreviewR",
+            "Great Wall of China at Jiumenkou",
+            "Taken with Nikon D70"
+          ],
+          "mediumPath": "_m/w/x/j/h/jiumenkou-wk/great-wall-jiumenkou-n-medium.webp",
+          "smallPath": "_m/w/x/j/h/jiumenkou-wk/great-wall-jiumenkou-n-small.webp"
+        }
+      ],
       "combinedNarration": "_m/w/x/j/h/jiumenkou-wk/wxjh-jiumenkou-combined.mp3",
-      "combinedNarrationBytes": 2846455,
-      "combinedNarrationDuration": 237
+      "combinedNarrationBytes": 2903498,
+      "combinedNarrationDuration": 237,
+      "combinedCover": "_m/w/x/j/h/jiumenkou-wk/wxjh-jiumenkou-combined-cover.jpg"
     }
   }
 }

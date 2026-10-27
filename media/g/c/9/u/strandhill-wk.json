@@ -3,33 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/9/u/strandhill-wk/hero.jpg",
-        "filename": "Panorama Strandhill (cropped).jpg",
-        "caption": "Panorama of Strandhill, taken near the camping site",
-        "alt": "Panorama of Strandhill, taken near the camping site",
-        "width": 4371,
-        "height": 639,
+        "path": "_m/g/c/9/u/strandhill-wk/beach-at-strandhill-geograph-o.jpg",
+        "filename": "Beach at Strandhill - geograph.org.uk - 1885.jpg",
+        "caption": "Beach at Strandhill. The EU funded coastal defences and slipway are rather intrusive.",
+        "alt": "Beach at Strandhill. The EU funded coastal defences and slipway are rather intrusive.",
+        "width": 640,
+        "height": 480,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "User:T0mt0m42",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_Strandhill_(cropped).jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Michael Parry",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beach_at_Strandhill_-_geograph.org.uk_-_1885.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "strandhill-wk",
         "sourceGeohash4": "gc9u",
         "categories": [
-          "CC-BY-SA-3.0-migrated",
-          "Extracted images",
-          "Files uploaded with For the Common Good",
-          "GFDL",
-          "License migration completed",
-          "Self-published work",
-          "Strandhill",
-          "User-created GFDL images"
-        ]
+          "Beaches of County Sligo",
+          "CC-BY-SA-2.0",
+          "Images by Michael Parry",
+          "Images from Geograph Britain and Ireland",
+          "Information field template with formatting",
+          "Republic of Ireland photographs taken on 2005-04-02",
+          "Strandhill"
+        ],
+        "smallPath": "_m/g/c/9/u/strandhill-wk/beach-at-strandhill-geograph-o-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/9/u/strandhill-wk/surf-strandhill.jpg",
+          "path": "_m/g/c/9/u/strandhill-wp/surf-strandhill.jpg",
           "filename": "Surf strandhill.jpg",
           "caption": "northwest coast of Ireland",
           "alt": "northwest coast of Ireland",
@@ -50,10 +50,10 @@
             "Strandhill",
             "Surfing in Ireland"
           ],
-          "smallPath": "_m/g/c/9/u/strandhill-wk/surf-strandhill-small.webp"
+          "smallPath": "_m/g/c/9/u/strandhill-wp/surf-strandhill-small.webp"
         },
         {
-          "path": "_m/g/c/9/u/strandhill-wk/county-sligo-metal-man-beacon.jpg",
+          "path": "_m/g/c/9/u/strandhill-wp/county-sligo-metal-man-beacon.jpg",
           "filename": "County Sligo - Metal Man Beacon - .jpeg",
           "caption": "County Sligo, Metal Man Beacon.",
           "alt": "County Sligo, Metal Man Beacon.",
@@ -78,8 +78,8 @@
             "Uploaded with Monumental",
             "Winners of Wiki Loves Monuments 2018 in Ireland"
           ],
-          "mediumPath": "_m/g/c/9/u/strandhill-wk/county-sligo-metal-man-beacon-medium.webp",
-          "smallPath": "_m/g/c/9/u/strandhill-wk/county-sligo-metal-man-beacon-small.webp"
+          "mediumPath": "_m/g/c/9/u/strandhill-wp/county-sligo-metal-man-beacon-medium.webp",
+          "smallPath": "_m/g/c/9/u/strandhill-wp/county-sligo-metal-man-beacon-small.webp"
         },
         {
           "path": "_m/g/c/9/u/strandhill-wk/beach-at-strandhill-geograph-o.jpg",
@@ -481,7 +481,8 @@
             "License migration completed",
             "Self-published work",
             "Strandhill"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/u/county-sligo-wp/strandhill2-small.webp"
         },
         {
           "path": "_m/g/c/9/u/rosses-point-wk/inishmurray-county-sli.jpg",
@@ -506,7 +507,9 @@
             "Self-published work",
             "Taken with Canon EOS 30D",
             "Tory Bhrennell, Inishmurray"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/rosses-point-wk/inishmurray-county-sli-medium.webp",
+          "smallPath": "_m/g/c/9/u/rosses-point-wk/inishmurray-county-sli-small.webp"
         },
         {
           "path": "_m/g/c/9/u/rosses-point-wk/hero.jpg",
@@ -526,7 +529,9 @@
             "CC-BY-SA-4.0",
             "Rosses Point",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/rosses-point-wk/hero-medium.webp",
+          "smallPath": "_m/g/c/9/u/rosses-point-wk/hero-small.webp"
         },
         {
           "path": "_m/g/c/9/u/county-sligo-wp/queen-maev-by-j-c-leyendecker-.jpg",
@@ -554,7 +559,9 @@
             "PD-old missing SDC copyright status",
             "Women with weapons",
             "Works by J. C. Leyendecker"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/county-sligo-wp/queen-maev-by-j-c-leyendecker--medium.webp",
+          "smallPath": "_m/g/c/9/u/county-sligo-wp/queen-maev-by-j-c-leyendecker--small.webp"
         },
         {
           "path": "_m/g/c/9/u/county-sligo-wp/yeats-statue.jpg",
@@ -579,7 +586,9 @@
             "June 2006 Ireland photographs",
             "Taken with Fujifilm FinePix S5100",
             "Yeats sculpture by Rowan Gillespie"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/county-sligo-wp/yeats-statue-medium.webp",
+          "smallPath": "_m/g/c/9/u/county-sligo-wp/yeats-statue-small.webp"
         },
         {
           "path": "_m/g/c/9/u/county-sligo-wp/sligo-03-garavogue-river-glass.jpg",
@@ -594,7 +603,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sligo-03-Garavogue_River-Glasshouse-2017-gje.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-sligo-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "mediumPath": "_m/g/c/9/u/county-sligo-wp/sligo-03-garavogue-river-glass-medium.webp",
+          "smallPath": "_m/g/c/9/u/county-sligo-wp/sligo-03-garavogue-river-glass-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/rockwood-parade-sligo.jpg",
@@ -618,7 +629,9 @@
             "Self-published work",
             "Sligo",
             "Taken with Fujifilm FinePix S5100"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/sligo-wp/rockwood-parade-sligo-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-wp/rockwood-parade-sligo-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/creevelea-friary-s-2007-08-16.jpg",
@@ -644,7 +657,9 @@
             "Photographs by Andreas F. Borchert",
             "Self-published work",
             "Taken with Canon EOS 30D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/sligo-wp/creevelea-friary-s-2007-08-16-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-wp/creevelea-friary-s-2007-08-16-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/parkes-castle-in-winter.jpg",
@@ -663,7 +678,9 @@
           "categories": [
             "PD-user",
             "Parke's Castle"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/sligo-wp/parkes-castle-in-winter-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-wp/parkes-castle-in-winter-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/lola-montez-caricature-departu.jpg",
@@ -685,7 +702,8 @@
             "PD-US missing SDC copyright status",
             "PD US",
             "Works by David Claypoole Johnston"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/u/sligo-wp/lola-montez-caricature-departu-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/glencar-waterfall.jpg",
@@ -707,7 +725,8 @@
             "Files from Wikivoyage wts",
             "Glencar Waterfall",
             "Taken with Fujifilm FinePix S5100"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/u/sligo-wp/glencar-waterfall-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/sligo-town-nite.jpg",
@@ -728,7 +747,8 @@
             "Self-published work",
             "Sligo",
             "Taken with Pentax K-r"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/u/sligo-wp/sligo-town-nite-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/the-glass-house.jpg",
@@ -743,7 +763,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Glass_House.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sligo-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "smallPath": "_m/g/c/9/u/sligo-wp/the-glass-house-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-abbey-wp/sligo-abbey-friary.jpg",
@@ -758,7 +779,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sligo_Abbey_Friary_-_Cloisters.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sligo-abbey-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "smallPath": "_m/g/c/9/u/sligo-abbey-wp/sligo-abbey-friary-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-abbey-wp/south-east-view-choir.jpg",
@@ -773,7 +795,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sligo_Priory_of_the_Holy_Cross_Choir_SE_2015_09_08.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sligo-abbey-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "mediumPath": "_m/g/c/9/u/sligo-abbey-wp/south-east-view-choir-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-abbey-wp/south-east-view-choir-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/grave-of-w-b-yeats.jpg",
@@ -788,7 +812,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grave_of_W.B._Yeats.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sligo-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "mediumPath": "_m/g/c/9/u/sligo-wp/grave-of-w-b-yeats-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-wp/grave-of-w-b-yeats-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/sean-mac-diarmada-42977572542.png",
@@ -803,7 +829,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sean_Mac_Diarmada_(42977572542).png",
           "sourceType": "poi",
           "sourceArticleId": "sligo-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "smallPath": "_m/g/c/9/u/sligo-wp/sean-mac-diarmada-42977572542-small.webp"
         },
         {
           "path": "_m/g/c/9/g/ballymote-castle-wp/ballymote-castle.jpg",
@@ -829,7 +856,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Fujifilm FinePix S5100"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/g/ballymote-castle-wp/ballymote-castle-medium.webp",
+          "smallPath": "_m/g/c/9/g/ballymote-castle-wp/ballymote-castle-small.webp"
         },
         {
           "path": "_m/g/c/9/g/ballymote-wk/corcoran-monument.jpg",
@@ -854,7 +883,9 @@
             "FoP-Ireland",
             "Michael Corcoran",
             "Taken with Fujifilm FinePix S5100"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/g/ballymote-wk/corcoran-monument-medium.webp",
+          "smallPath": "_m/g/c/9/g/ballymote-wk/corcoran-monument-small.webp"
         },
         {
           "path": "_m/g/c/9/g/ballymote-wk/ballymote-hertitage-trail-2017.jpg",
@@ -876,7 +907,9 @@
             "Extracted images",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/g/ballymote-wk/ballymote-hertitage-trail-2017-medium.webp",
+          "smallPath": "_m/g/c/9/g/ballymote-wk/ballymote-hertitage-trail-2017-small.webp"
         }
       ],
       "narration": [

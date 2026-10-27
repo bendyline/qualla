@@ -32,7 +32,7 @@ The Séminaire de Québec sits at 46.8147N, 71.2053W in the heart of Old Quebec,
 
 ## Sources
 
-- [Séminaire de Québec - Wikipedia](https://en.wikipedia.org/wiki/S%C3%A9minaire_de_Qu%C3%A9bec)
+- [Séminaire de Québec - Wikipedia](https://en.wikipedia.org/?curid=7934348)
   - Founded March 26, 1663 by Bishop François de Laval
   - Linked to Seminary of Foreign Missions of Paris in 1665
   - Petit Séminaire opened to Indigenous students in 1668 at urging of Colbert

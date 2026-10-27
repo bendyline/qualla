@@ -33,7 +33,7 @@ The article's geotag at 68.31N, 66.62E places it near the Polar Urals, close to 
 ## Sources
 
 - [Extreme points of Europe - Wikipedia](https://en.wikipedia.org/?curid=863532)
-- [Extreme points of Europe - Wikipedia](https://en.wikipedia.org/wiki/Extreme_points_of_Europe)
+- [Extreme points of Europe - Wikipedia](https://en.wikipedia.org/?curid=863532)
   - Cape Fligely on Rudolf Island at 81°48' N — confirmed northernmost with caveat about European/Asian classification
   - If Franz Josef Land excluded, Rossoya Norway takes northernmost — confirmed
   - Cape Nordkinn at 71°08' N — confirmed mainland northernmost

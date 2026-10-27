@@ -36,8 +36,8 @@ Located at 34.87°N, 135.49°E in the forested hills of Minoh, Osaka Prefecture,
 
 ## Sources
 
-- [Katsuō-ji - Wikipedia](https://en.wikipedia.org/wiki/Katsu%C5%8D-ji)
-- [Katsuō-ji - Wikipedia](https://en.wikipedia.org/wiki/Katsu%C5%8D-ji)
+- [Katsuō-ji - Wikipedia](https://en.wikipedia.org/?curid=7392648)
+- [Katsuō-ji - Wikipedia](https://en.wikipedia.org/?curid=7392648)
   - Founded 727 by brothers Zenchu and Zensan confirmed
   - Kaisei son of Emperor Konin and half-brother of Emperor Kanmu confirmed
   - Emperor Seiwa 880 name change from Shoo-ji to Katsuo-ji confirmed

@@ -1,0 +1,66 @@
+{
+  "id": "t2-laboratories-explosion-and-fire-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/d/j/m/v/t2-laboratories-explosion-and-fire-wp/hero.jpg",
+        "filename": "T2 explosion downtown jax.jpg",
+        "caption": "View from Downtown Jacksonville.",
+        "alt": "View from Downtown Jacksonville.",
+        "width": 1600,
+        "height": 1200,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Norman.benton",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:T2_explosion_downtown_jax.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "t2-laboratories-explosion-and-fire-wp",
+        "sourceGeohash4": "djmv",
+        "categories": [
+          "2007 in Jacksonville, Florida",
+          "CC-BY-SA-4.0",
+          "Self-published work"
+        ],
+        "smallPath": "_m/d/j/m/v/t2-laboratories-explosion-and-fire-wp/hero-small.webp"
+      },
+      "videos": [
+        {
+          "path": "_m/d/j/m/v/t2-laboratories-explosion-and-fire-wp/t2-explosion.mp4",
+          "posterPath": "_m/d/j/m/v/t2-laboratories-explosion-and-fire-wp/t2-explosion-poster.jpg",
+          "audioPath": "_m/d/j/m/v/t2-laboratories-explosion-and-fire-wp/t2-explosion-audio.mp3",
+          "filename": "T2 Explosion.webm",
+          "caption": "View of explosion from Blount Island",
+          "width": 450,
+          "height": 360,
+          "duration": 59.915,
+          "mimeType": "video/mp4",
+          "originalMimeType": "video/webm",
+          "license": "CC BY-SA 4.0",
+          "artist": "Cheeselog",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/T2_Explosion.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "accessedAt": "2026-10-17T17:25:39.384Z",
+          "sourceType": "core",
+          "sourceArticleId": "t2-laboratories-explosion-and-fire-wp",
+          "relevanceScore": 29,
+          "scoringFactors": {
+            "titleRelevance": 7,
+            "descriptionRelevance": 7,
+            "historicalBonus": 0,
+            "aerialBonus": 15
+          }
+        }
+      ],
+      "narration": [
+        "_m/d/j/m/v/t2-laboratories-explosion-and-fire-wp/djmv-t2-laboratories-explosion-and-fire-flight-context.mp3",
+        "_m/d/j/m/v/t2-laboratories-explosion-and-fire-wp/djmv-t2-laboratories-explosion-and-fire-intro.mp3",
+        "_m/d/j/m/v/t2-laboratories-explosion-and-fire-wp/djmv-t2-laboratories-explosion-and-fire-a-specialty-chemical-plant.mp3",
+        "_m/d/j/m/v/t2-laboratories-explosion-and-fire-wp/djmv-t2-laboratories-explosion-and-fire-anatomy-of-a-runaway.mp3",
+        "_m/d/j/m/v/t2-laboratories-explosion-and-fire-wp/djmv-t2-laboratories-explosion-and-fire-four-lives-and-a-hellish-fire.mp3"
+      ],
+      "combinedNarration": "_m/d/j/m/v/t2-laboratories-explosion-and-fire-wp/djmv-t2-laboratories-explosion-and-fire-combined.mp3",
+      "combinedNarrationBytes": 1983881,
+      "combinedNarrationDuration": 159,
+      "combinedCover": "_m/d/j/m/v/t2-laboratories-explosion-and-fire-wp/djmv-t2-laboratories-explosion-and-fire-combined-cover.jpg"
+    }
+  }
+}

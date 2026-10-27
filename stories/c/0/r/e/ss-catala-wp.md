@@ -37,7 +37,7 @@ Damon Point sits at 46.94°N, 124.12°W, at the southern tip of the Ocean Shores
 ## Sources
 
 - [SS Catala - Wikipedia](https://en.wikipedia.org/?curid=11099587)
-- [SS Catala - Wikipedia](https://en.wikipedia.org/wiki/SS_Catala)
+- [SS Catala - Wikipedia](https://en.wikipedia.org/?curid=11099587)
   - Built by Coaster Construction Company of Montrose, Scotland in 1925 confirmed
   - 229 feet long, beam of 37 feet confirmed
   - Licensed to carry 267 passengers (120 staterooms, 48 steerage) confirmed

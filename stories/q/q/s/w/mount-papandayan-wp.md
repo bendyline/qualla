@@ -33,7 +33,7 @@ Mount Papandayan is located at approximately 7.33S, 107.72E in Garut Regency, We
 ## Sources
 
 - [Mount Papandayan - Wikipedia](https://en.wikipedia.org/?curid=8543934)
-- [Mount Papandayan - Wikipedia](https://en.wikipedia.org/wiki/Mount_Papandayan)
+- [Mount Papandayan - Wikipedia](https://en.wikipedia.org/?curid=8543934)
   - 1772 eruption destroyed 40 villages and killed 2,957 people (nearly 3,000) confirmed
   - Summit at 2,665 meters confirmed
   - Four large craters confirmed

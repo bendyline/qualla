@@ -3,31 +3,18 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/d/n/v/t/point-pleasant-west-virginia-wk/hero.jpg",
-        "filename": "Point Pleasant monument.jpg",
-        "caption": "Photo by Brian M. Powell of Point Pleasant Battle Monument at Tu-Endie-Wei State Park.",
-        "alt": "Photo by Brian M. Powell of Point Pleasant Battle Monument at Tu-Endie-Wei State Park.",
-        "width": 1412,
-        "height": 2032,
-        "mimeType": "image/jpeg",
+        "path": "_m/d/n/v/s/fort-randolph-west-virginia-wp/hero.jpg",
+        "filename": "Fort Randolph.jpg",
+        "width": 1536,
+        "height": 1024,
         "license": "CC BY-SA 3.0",
-        "artist": "Brian M. Powell (user Bitmapped on en.wikipedia)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Point_Pleasant_monument.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "point-pleasant-west-virginia-wk",
-        "sourceGeohash4": "dnvt",
-        "categories": [
-          "Battle of Point Pleasant Monument",
-          "CC-BY-SA-3.0",
-          "Files uploaded but not created by User:Gridge",
-          "Files with derivative versions",
-          "Mason County, West Virginia in the 2000s",
-          "National Register of Historic Places with known IDs"
-        ]
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Randolph.jpg",
+        "smallPath": "_m/d/n/v/s/fort-randolph-west-virginia-wp/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/d/n/v/t/point-pleasant-west-virginia-wk/hero.jpg",
+          "path": "_m/d/n/v/s/fort-randolph-west-virginia-wp/hero.jpg",
           "filename": "Fort Randolph.jpg",
           "alt": "Fort Randolph.jpg",
           "width": 1536,
@@ -48,7 +35,8 @@
             "Mason County, West Virginia in the 2000s",
             "Media missing infobox template",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/d/n/v/s/fort-randolph-west-virginia-wp/hero-small.webp"
         },
         {
           "path": "_m/d/n/v/s/gallipolis-wk/front-our-house-histor.jpg",
@@ -75,7 +63,8 @@
             "Our House (Gallipolis, Ohio)",
             "PD US NPS",
             "Photographs taken on 1936-11-28"
-          ]
+          ],
+          "smallPath": "_m/d/n/v/s/gallipolis-wk/front-our-house-histor-small.webp"
         },
         {
           "path": "_m/d/n/v/s/gallipolis-wk/front-southeastern-end.jpg",
@@ -102,7 +91,9 @@
             "PD-self",
             "Self-published work",
             "United States photographs taken on 2015-07-23"
-          ]
+          ],
+          "mediumPath": "_m/d/n/v/s/gallipolis-wk/front-southeastern-end-medium.webp",
+          "smallPath": "_m/d/n/v/s/gallipolis-wk/front-southeastern-end-small.webp"
         },
         {
           "path": "_m/d/n/v/s/gallipolis-wk/hero.jpg",
@@ -125,7 +116,9 @@
             "Gallipolis, Ohio",
             "Wikivoyage banners by SelfieCity",
             "Wikivoyage banners of Ohio"
-          ]
+          ],
+          "mediumPath": "_m/d/n/v/s/gallipolis-wk/hero-medium.webp",
+          "smallPath": "_m/d/n/v/s/gallipolis-wk/hero-small.webp"
         }
       ],
       "narration": [

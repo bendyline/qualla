@@ -48,7 +48,7 @@ Located at 29.82S, 24.40E in the Northern Cape's Karoo interior, along the Orang
   - Founded in December 1990
   - Purchased for approximately R1.5 million
   - Population growth figures
-- [Orania - Wikipedia (additional fact check)](https://en.wikipedia.org/wiki/Orania)
+- [Orania - Wikipedia (additional fact check)](https://en.wikipedia.org/?curid=910154)
   - Carel Boshoff was son-in-law of Hendrik Verwoerd confirmed
   - Ora currency introduced April 2004 confirmed
   - Radio Orania on 95.5 MHz confirmed

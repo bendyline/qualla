@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/s/q/0/puli-wk/hero.jpg",
-        "filename": "Puli pano.jpg",
-        "caption": "Puli Township, Nantou",
-        "alt": "Puli Township, Nantou",
-        "width": 4501,
-        "height": 643,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "User:Fcuk1203",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puli_pano.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "puli-wk",
-        "sourceGeohash4": "wsq0",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Panoramics in Nantou",
-          "Puli Basin",
-          "Views from mountains in Nantou"
-        ]
+        "path": "_m/w/s/m/b/paper-dome-wp/paper-dome-morning.jpg",
+        "filename": "Paper dome morning.jpg",
+        "caption": "Frog 'Boss' with Paper Dome",
+        "alt": "Frog 'Boss' with Paper Dome",
+        "width": 720,
+        "height": 539,
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "artist": "Ho.siminn",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paper_dome_morning.jpg",
+        "smallPath": "_m/w/s/m/b/paper-dome-wp/paper-dome-morning-small.webp"
       },
       "images": [
         {
-          "path": "_m/w/s/q/0/puli-wk/paper-dome-morning.jpg",
+          "path": "_m/w/s/m/b/paper-dome-wp/paper-dome-morning.jpg",
           "filename": "Paper dome morning.jpg",
           "caption": "Frog 'Boss' with Paper Dome",
           "alt": "Frog 'Boss' with Paper Dome",
@@ -43,7 +35,8 @@
             "Files with coordinates missing SDC location of creation",
             "Paper Dome",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/s/m/b/paper-dome-wp/paper-dome-morning-small.webp"
         },
         {
           "path": "_m/w/s/q/0/puli-nantou-wp/puli-township-office-nantou-co.jpg",
@@ -68,7 +61,8 @@
             "Puli Township Office",
             "Self-published work",
             "Taken with Canon Digital IXUS 80 IS"
-          ]
+          ],
+          "smallPath": "_m/w/s/q/0/puli-nantou-wp/puli-township-office-nantou-co-small.webp"
         },
         {
           "path": "_m/w/s/q/0/puli-nantou-wp/image-2.jpg",
@@ -89,7 +83,9 @@
             "Puli Basin",
             "Self-published work",
             "Views from mountains in Nantou"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/0/puli-nantou-wp/image-2-medium.webp",
+          "smallPath": "_m/w/s/q/0/puli-nantou-wp/image-2-small.webp"
         },
         {
           "path": "_m/w/s/q/0/puli-nantou-wp/nationalchinanuniversity-06.jpg",
@@ -112,7 +108,9 @@
             "National Chi Nan University",
             "Self-published work",
             "Taken with Sony DSC-T10"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/0/puli-nantou-wp/nationalchinanuniversity-06-medium.webp",
+          "smallPath": "_m/w/s/q/0/puli-nantou-wp/nationalchinanuniversity-06-small.webp"
         },
         {
           "path": "_m/w/s/j/z/sun-moon-lake-wp/lalu-island-2015-02-10.jpg",
@@ -136,7 +134,9 @@
             "Photographs by S099001",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FX80"
-          ]
+          ],
+          "mediumPath": "_m/w/s/j/z/sun-moon-lake-wp/lalu-island-2015-02-10-medium.webp",
+          "smallPath": "_m/w/s/j/z/sun-moon-lake-wp/lalu-island-2015-02-10-small.webp"
         },
         {
           "path": "_m/w/s/j/z/sun-moon-lake-wp/culture-square-of-formosan-abo.jpg",
@@ -157,7 +157,9 @@
             "Files with coordinates missing SDC location of creation",
             "Formosan Aboriginal Culture Village",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/s/j/z/sun-moon-lake-wp/culture-square-of-formosan-abo-medium.webp",
+          "smallPath": "_m/w/s/j/z/sun-moon-lake-wp/culture-square-of-formosan-abo-small.webp"
         },
         {
           "path": "_m/w/s/n/j/yushan-national-park-wp/yushan-banner.jpg",
@@ -188,7 +190,9 @@
             "Views from Yushan Main Peak",
             "Wikivoyage banners by SelfieCity",
             "Wikivoyage banners of Taiwan"
-          ]
+          ],
+          "mediumPath": "_m/w/s/n/j/yushan-national-park-wp/yushan-banner-medium.webp",
+          "smallPath": "_m/w/s/n/j/yushan-national-park-wp/yushan-banner-small.webp"
         }
       ],
       "narration": [

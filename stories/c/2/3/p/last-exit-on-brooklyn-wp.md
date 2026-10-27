@@ -42,7 +42,7 @@ Located at 47.655N, 122.314W in Seattle's University District, near the Universi
   - Verified: Cisski died August 25, 1992 confirmed
   - Verified: University of Washington ended lease 1993 confirmed
   - Verified: Cafe relocated to upper University Way before eventual closure confirmed
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Last_Exit_on_Brooklyn)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=29937168)
   - Re-attributed a quotation from Peter Biyiasas to its actual author, Yasser Seirawan (Play Winning Chess, 2003).
 
 ## Review Notes

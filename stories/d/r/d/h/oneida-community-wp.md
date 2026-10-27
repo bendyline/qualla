@@ -37,7 +37,7 @@ Located at 43.06N, 75.61W in Madison County, central New York. The Oneida Commun
 ## Sources
 
 - [Oneida Community - Wikipedia](https://en.wikipedia.org/?curid=42064)
-- [Oneida Community - Wikipedia](https://en.wikipedia.org/wiki/Oneida_Community)
+- [Oneida Community - Wikipedia](https://en.wikipedia.org/?curid=42064)
   - Founded 1848 by John Humphrey Noyes
   - Started with 87 members, reached 306 by 1878
   - 27 standing committees and 48 administrative sections
@@ -49,7 +49,7 @@ Located at 43.06N, 75.61W in Madison County, central New York. The Oneida Commun
   - Charles Guiteau joined the Oneida Community in 1860 and left in 1865 (approximately five years)
   - Guiteau later assassinated President James Garfield
   - Members gave him the nickname 'Charles Gitout'
-- [Oneida Community Mansion House - Wikipedia](https://en.wikipedia.org/wiki/Oneida_Community_Mansion_House)
+- [Oneida Community Mansion House - Wikipedia](https://en.wikipedia.org/?curid=13122509)
   - Mansion House designated National Historic Landmark June 23 1965
   - 33-acre site near Oneida Creek continuously occupied since 1848
   - Operates as nonprofit museum with guided tours and residential apartments

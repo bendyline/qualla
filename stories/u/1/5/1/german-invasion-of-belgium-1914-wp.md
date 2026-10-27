@@ -51,7 +51,7 @@ The 1914 invasion swept across the entire eastern half of Belgium. Key sites vis
 - [KU Leuven founding history](https://stories.kuleuven.be/en/stories/the-story-behind-the-foundation-bull)
   - University of Leuven founded by papal bull December 9, 1425 (Pope Martin V) - confirmed
   - Corrected: 'university library, founded in 1425' → 'part of the institution founded in 1425' (the physical library building dated from 1636; the university was founded in 1425)
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/German_invasion_of_Belgium_(1914))
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=33568297)
   - Converted an unverifiable King Albert I quote to indirect speech (his documented reply is "Belgium is a country, not a road").
 
 ## Review Notes

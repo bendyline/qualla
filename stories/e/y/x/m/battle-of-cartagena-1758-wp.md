@@ -47,7 +47,7 @@ The action was fought at roughly 37.60°N, 0.98°W, in the coastal waters off Ca
   - Gardiner was struck by grapeshot and mortally wounded during the night engagement, dying of his wound
 - [Siege of Louisbourg (1758) - Wikipedia](https://en.wikipedia.org/wiki/Siege_of_Louisbourg_(1758))
   - Louisbourg, guarding the approach to the St. Lawrence, fell to British siege on 26 July 1758
-- [La Clue's fleet driven into Cartagena, November 1757 - search verification](https://en.wikipedia.org/wiki/Battle_of_Cartagena_(1758))
+- [La Clue's fleet driven into Cartagena, November 1757 - search verification](https://en.wikipedia.org/?curid=26059202)
   - La Clue sailed from Toulon in November 1757 with fifteen ships and was driven into neutral Cartagena by a storm on 30 November 1757
 
 ## Review Notes

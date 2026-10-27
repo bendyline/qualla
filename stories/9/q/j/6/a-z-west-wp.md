@@ -26,7 +26,7 @@ Art critics have placed Zittel's work in the lineage of Robert Rauschenberg — 
 
 ## Flight Context
 
-Located at 34.13°N, 116.29°W near Joshua Tree, California. The compound is identifiable from above by its distinctive structures on the desert floor north of the park. Joshua Tree National Park's western entrance lies a few miles southeast. Nearest airports: Desert Resorts Regional (PSP) ~30 miles south, Twentynine Palms (TNP) ~20 miles east.
+Located at 34.13°N, 116.29°W near Joshua Tree, California. The compound is identifiable from above by its distinctive structures on the desert floor north of the park. Joshua Tree National Park's western entrance lies a few miles southeast. Nearest airports: Palm Springs International (PSP) ~30 miles south, Twentynine Palms (TNP) ~20 miles east.
 
 ## Sources
 

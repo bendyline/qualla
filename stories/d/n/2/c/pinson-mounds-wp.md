@@ -28,7 +28,7 @@ The mounds occupy a plateau-like upland above the wetlands of the Forked Deer Ri
 
 ## Flight Context
 
-Located at 35.498N, 88.683W in Madison County, Tennessee, approximately 10 miles southeast of Jackson. The mound complex sits on a plateau above the South Fork of the Forked Deer River, with Sauls' Mound as the most prominent feature visible from altitude. Best viewed at 2,000-3,000 feet AGL in clear conditions. Nearest airports: McKellar-Sipes Regional Airport (KMKL) approximately 12nm northwest. The forested plateau and surrounding wetlands create distinct visual contrast.
+Located at 35.498N, 88.683W in Madison County, Tennessee, approximately 10 miles southeast of Jackson. The mound complex sits on a plateau above the South Fork of the Forked Deer River, with Sauls' Mound as the most prominent feature visible from altitude. Best viewed at 2,000-3,000 feet AGL in clear conditions. Nearest airports: Jackson Regional Airport (KMKL, formerly McKellar-Sipes Regional) approximately 12nm northwest. The forested plateau and surrounding wetlands create distinct visual contrast.
 
 ## Sources
 

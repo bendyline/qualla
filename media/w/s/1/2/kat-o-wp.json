@@ -3,27 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/s/1/2/kat-o-wp/hero.jpg",
-        "filename": "Tin Hau Temple, Kat O in May 2026.jpg",
-        "caption": "Tin Hau Temple, Kat O",
-        "alt": "Tin Hau Temple, Kat O",
-        "width": 3870,
-        "height": 2899,
+        "path": "_m/w/s/1/2/kat-o-wp/02.jpg",
+        "filename": "盐田 于黄金海岸望向香港吉澳岛 02.jpg",
+        "caption": "​深圳市盐田区于黄金海岸望向香港吉澳岛",
+        "alt": "​深圳市盐田区于黄金海岸望向香港吉澳岛",
+        "width": 6000,
+        "height": 4000,
         "mimeType": "image/jpeg",
-        "license": "CC BY 4.0",
-        "artist": "姒姓賢寧",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tin_Hau_Temple,_Kat_O_in_May_2026.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Liuxingy",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%9B%90%E7%94%B0_%E4%BA%8E%E9%BB%84%E9%87%91%E6%B5%B7%E5%B2%B8%E6%9C%9B%E5%90%91%E9%A6%99%E6%B8%AF%E5%90%89%E6%BE%B3%E5%B2%9B_02.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "kat-o-wp",
         "sourceGeohash4": "ws12",
-        "categories": [
-          "CC-BY-4.0",
-          "Creative Commons Attribution 4.0 missing SDC copyright license",
-          "Creative Commons Attribution missing SDC copyright status",
-          "Self-published work",
-          "Self-published work missing SDC copyright license",
-          "Tin Hau Temple, Kat O"
-        ]
+        "mediumPath": "_m/w/s/1/2/kat-o-wp/02-medium.webp",
+        "smallPath": "_m/w/s/1/2/kat-o-wp/02-small.webp"
       },
       "images": [
         {
@@ -204,7 +198,7 @@
           "smallPath": "_m/w/s/1/2/kat-o-wp/kat-o-pier-and-surroundings-small.webp"
         },
         {
-          "path": "_m/w/s/1/2/kat-o-wp/sing-way-1-ma-liu-shui-to-kat-.jpg",
+          "path": "_m/w/s/1/2/ap-chau-wp/sing-way-1-ma-liu-shui-to-kat-.jpg",
           "filename": "SING WAY 1 Ma Liu Shui to Kat O and Ap Chau 21-10-2018.jpg",
           "caption": "This photo is taken in Ma Liu Shui.",
           "alt": "This photo is taken in Ma Liu Shui.",
@@ -216,7 +210,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:SING_WAY_1_Ma_Liu_Shui_to_Kat_O_and_Ap_Chau_21-10-2018.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "ap-chau-wp",
-          "sourceGeohash4": "ws12"
+          "sourceGeohash4": "ws12",
+          "mediumPath": "_m/w/s/1/2/ap-chau-wp/sing-way-1-ma-liu-shui-to-kat--medium.webp",
+          "smallPath": "_m/w/s/1/2/ap-chau-wp/sing-way-1-ma-liu-shui-to-kat--small.webp"
         },
         {
           "path": "_m/w/s/1/2/kat-o-wp/a-silicified-hydrothermal-brec.png",
@@ -251,7 +247,7 @@
           "smallPath": "_m/w/s/1/2/kat-o-wp/kat-o-cropped-small.webp"
         },
         {
-          "path": "_m/w/s/1/2/kat-o-wp/sha-tau-kok-residents-lette-bo.jpg",
+          "path": "_m/w/s/1/0/kuk-po-wp/sha-tau-kok-residents-lette-bo.jpg",
           "filename": "Sha Tau Kok residents lette box 15-01-2024.jpg",
           "caption": "​這張照片在沙頭角拍攝。",
           "alt": "​這張照片在沙頭角拍攝。",
@@ -263,7 +259,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sha_Tau_Kok_residents_lette_box_15-01-2024.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "kuk-po-wp",
-          "sourceGeohash4": "ws12"
+          "sourceGeohash4": "ws12",
+          "mediumPath": "_m/w/s/1/0/kuk-po-wp/sha-tau-kok-residents-lette-bo-medium.webp",
+          "smallPath": "_m/w/s/1/0/kuk-po-wp/sha-tau-kok-residents-lette-bo-small.webp"
         },
         {
           "path": "_m/w/s/1/2/kat-o-wp/sunrise-43227988765.jpg",
@@ -474,7 +472,9 @@
             "Man Fat Tsz Main Temple Building",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/w/e/c/p/new-territories-wp/10-thousands-buddhas-monastery-medium.webp",
+          "smallPath": "_m/w/e/c/p/new-territories-wp/10-thousands-buddhas-monastery-small.webp"
         },
         {
           "path": "_m/w/e/c/p/new-territories-wp/hk-mos-plaza-void.jpg",
@@ -500,7 +500,8 @@
             "Photographs taken on 2008-02-12",
             "Self-published work",
             "Taken with Canon PowerShot G7"
-          ]
+          ],
+          "smallPath": "_m/w/e/c/p/new-territories-wp/hk-mos-plaza-void-small.webp"
         },
         {
           "path": "_m/w/e/c/p/new-territories-wp/hk-lungwahhotel.jpg",
@@ -521,7 +522,8 @@
             "Lung Wah Hotel",
             "PD-user",
             "Taken with Fujifilm FinePix S6500fd"
-          ]
+          ],
+          "smallPath": "_m/w/e/c/p/new-territories-wp/hk-lungwahhotel-small.webp"
         },
         {
           "path": "_m/w/e/c/p/new-territories-wp/hk-tsingshanmonastry-frontgate.jpg",
@@ -544,7 +546,9 @@
             "Gate House of Tsing Shan Monastery",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/e/c/p/new-territories-wp/hk-tsingshanmonastry-frontgate-medium.webp",
+          "smallPath": "_m/w/e/c/p/new-territories-wp/hk-tsingshanmonastry-frontgate-small.webp"
         },
         {
           "path": "_m/w/e/c/p/new-territories-wp/hk-chingchungkoon-shunyeunghal.jpg",
@@ -569,7 +573,9 @@
             "Self-published work",
             "Shun Yeung Din",
             "Suanni"
-          ]
+          ],
+          "mediumPath": "_m/w/e/c/p/new-territories-wp/hk-chingchungkoon-shunyeunghal-medium.webp",
+          "smallPath": "_m/w/e/c/p/new-territories-wp/hk-chingchungkoon-shunyeunghal-small.webp"
         },
         {
           "path": "_m/w/e/c/p/new-territories-wp/hk-lamtsuenwishingtree-pastict.jpg",
@@ -592,7 +598,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Fujifilm FinePix S6500fd"
-          ]
+          ],
+          "mediumPath": "_m/w/e/c/p/new-territories-wp/hk-lamtsuenwishingtree-pastict-medium.webp",
+          "smallPath": "_m/w/e/c/p/new-territories-wp/hk-lamtsuenwishingtree-pastict-small.webp"
         },
         {
           "path": "_m/w/e/c/p/new-territories-wp/end-point-of-2011-hk-trailwalk.jpg",
@@ -615,7 +623,9 @@
             "Oxfam Hong Kong",
             "Self-published work",
             "Taken with Canon Digital IXUS 90 IS"
-          ]
+          ],
+          "mediumPath": "_m/w/e/c/p/new-territories-wp/end-point-of-2011-hk-trailwalk-medium.webp",
+          "smallPath": "_m/w/e/c/p/new-territories-wp/end-point-of-2011-hk-trailwalk-small.webp"
         },
         {
           "path": "_m/w/e/c/p/new-territories-wp/10kbuddhas-monastery.jpg",
@@ -636,7 +646,8 @@
             "Files by Wikivoyage user Jpatokal",
             "Files from Wikivoyage en",
             "Files from Wikivoyage wts"
-          ]
+          ],
+          "smallPath": "_m/w/e/c/p/new-territories-wp/10kbuddhas-monastery-small.webp"
         },
         {
           "path": "_m/w/e/c/p/new-territories-wp/hong-kong-heritage-museum-2013.jpg",
@@ -651,7 +662,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Heritage_Museum_201305.jpg",
           "sourceType": "poi",
           "sourceArticleId": "new-territories-wp",
-          "sourceGeohash4": "wecp"
+          "sourceGeohash4": "wecp",
+          "smallPath": "_m/w/e/c/p/new-territories-wp/hong-kong-heritage-museum-2013-small.webp"
         },
         {
           "path": "_m/w/e/c/p/new-territories-wp/hong-kong-wetland-park-overvie.jpg",
@@ -666,7 +678,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Wetland_Park_overview1_201612.jpg",
           "sourceType": "poi",
           "sourceArticleId": "new-territories-wp",
-          "sourceGeohash4": "wecp"
+          "sourceGeohash4": "wecp",
+          "smallPath": "_m/w/e/c/p/new-territories-wp/hong-kong-wetland-park-overvie-small.webp"
         },
         {
           "path": "_m/w/e/c/p/new-territories-wp/ho-to-tai-noodles.jpg",
@@ -681,7 +694,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ho_To_Tai_noodles.jpg",
           "sourceType": "poi",
           "sourceArticleId": "new-territories-wp",
-          "sourceGeohash4": "wecp"
+          "sourceGeohash4": "wecp",
+          "mediumPath": "_m/w/e/c/p/new-territories-wp/ho-to-tai-noodles-medium.webp",
+          "smallPath": "_m/w/e/c/p/new-territories-wp/ho-to-tai-noodles-small.webp"
         },
         {
           "path": "_m/w/e/c/p/new-territories-wp/ksc-south-course-12.jpg",
@@ -696,7 +711,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:KSC_South_Course_12.jpg",
           "sourceType": "poi",
           "sourceArticleId": "new-territories-wp",
-          "sourceGeohash4": "wecp"
+          "sourceGeohash4": "wecp",
+          "mediumPath": "_m/w/e/c/p/new-territories-wp/ksc-south-course-12-medium.webp",
+          "smallPath": "_m/w/e/c/p/new-territories-wp/ksc-south-course-12-small.webp"
         },
         {
           "path": "_m/w/e/c/p/new-territories-wp/hk-kamtin-kathingwai-2014-brig.jpg",
@@ -711,7 +728,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:HK_KamTin_KatHingWai_2014_(brighter_version).jpg",
           "sourceType": "poi",
           "sourceArticleId": "new-territories-wp",
-          "sourceGeohash4": "wecp"
+          "sourceGeohash4": "wecp",
+          "mediumPath": "_m/w/e/c/p/new-territories-wp/hk-kamtin-kathingwai-2014-brig-medium.webp",
+          "smallPath": "_m/w/e/c/p/new-territories-wp/hk-kamtin-kathingwai-2014-brig-small.webp"
         },
         {
           "path": "_m/w/e/c/p/new-territories-wp/hk-skd-sai-kung-district-lohas.jpg",
@@ -726,7 +745,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:HK_SKD_%E8%A5%BF%E8%B2%A2%E5%8D%80_Sai_Kung_District_%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E_LOHAS_Park_%E5%95%86%E5%A0%B4_shopping_mall_shop_%E5%A5%87%E8%8F%AF%E9%A4%85%E5%AE%B6_Kee_Wah_Bakery_March_2022_Px3_03.jpg",
           "sourceType": "poi",
           "sourceArticleId": "new-territories-wp",
-          "sourceGeohash4": "wecp"
+          "sourceGeohash4": "wecp",
+          "mediumPath": "_m/w/e/c/p/new-territories-wp/hk-skd-sai-kung-district-lohas-medium.webp",
+          "smallPath": "_m/w/e/c/p/new-territories-wp/hk-skd-sai-kung-district-lohas-small.webp"
         }
       ],
       "narration": [

@@ -36,7 +36,7 @@ GEO600 sits at 52.2469N, 9.8083E on open farmland near Sarstedt in the Hildeshei
 
 ## Sources
 
-- [GEO600 - Wikipedia](https://en.wikipedia.org/wiki/GEO600)
+- [GEO600 - Wikipedia](https://en.wikipedia.org/?curid=3142960)
   - Located near Sarstedt, about 20 km south of Hannover, in the Hildesheim district of Lower Saxony
   - Operated by the Max Planck Institute for Gravitational Physics, Max Planck Institute of Quantum Optics and Leibniz Universitaet Hannover with the universities of Glasgow, Birmingham and Cardiff; funded by the Max Planck Society and the Science and Technology Facilities Council
   - Proposed 1994, construction began September 1995; taking data with LIGO since 2002; design sensitivity reached 2006; scheduled to cease operations permanently on 31 December 2026

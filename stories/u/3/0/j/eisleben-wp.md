@@ -36,7 +36,7 @@ Eisleben lies at 51.517 N, 11.550 E in the Mansfeld-Suedharz district of Saxony-
 
 ## Sources
 
-- [Eisleben - Wikipedia](https://en.wikipedia.org/wiki/Eisleben)
+- [Eisleben - Wikipedia](https://en.wikipedia.org/?curid=1081962)
 - [Lutherstadt Eisleben - Wikipedia (DE)](https://de.wikipedia.org/wiki/Lutherstadt_Eisleben)
   - Luther born 10 November 1483, died 18 February 1546 in Eisleben (confirmed)
   - Luther travelled to Eisleben in early 1546 to mediate the dispute among the Counts of Mansfeld (confirmed)

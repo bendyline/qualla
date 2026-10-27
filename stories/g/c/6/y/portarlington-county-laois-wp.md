@@ -39,7 +39,7 @@ Jonathan Swift wrote large portions of Gulliver's Travels at Woodbrook House on 
   - Edward Carson went to school here confirmed
   - Feargus O'Connor Chartist leader schooled here confirmed
   - Lea Castle built 1260 by William de Vesey confirmed
-- [Huguenot settlement Portarlington history](https://en.wikipedia.org/wiki/Portarlington,_County_Laois)
+- [Huguenot settlement Portarlington history](https://en.wikipedia.org/?curid=704158)
   - Festival Français de Portarlington held each July confirmed
   - town on River Barrow Laois/Offaly border confirmed
 

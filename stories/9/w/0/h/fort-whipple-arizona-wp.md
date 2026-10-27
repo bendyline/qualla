@@ -37,7 +37,7 @@ Fort Whipple is located at 34.555N, 112.453W on the eastern edge of Prescott, Ar
 ## Sources
 
 - [Fort Whipple, Arizona - Wikipedia](https://en.wikipedia.org/?curid=10798846)
-- [Wikipedia - Fort Whipple, Arizona](https://en.wikipedia.org/wiki/Fort_Whipple,_Arizona)
+- [Wikipedia - Fort Whipple, Arizona](https://en.wikipedia.org/?curid=10798846)
   - Established December 23, 1863 at Del Rio Springs confirmed
   - Named for Amiel Weeks Whipple confirmed
   - Relocated 21 miles south to Granite Creek confirmed

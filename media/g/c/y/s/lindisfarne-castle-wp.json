@@ -3,26 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/y/s/lindisfarne-castle-wp/hero.jpg",
-        "filename": "LindisfarneCastleHolyIsland.jpg",
-        "caption": "Lindisfarne Castle on Holy island",
-        "alt": "Lindisfarne Castle on Holy island",
-        "width": 2048,
-        "height": 1323,
+        "path": "_m/g/c/y/s/lindisfarne-castle-wp/lindisfarne-castle-ren.jpg",
+        "filename": "Lindisfarne Castle during renovation.jpg",
+        "caption": "Lindisfarne Castle during renovation",
+        "alt": "Lindisfarne Castle during renovation",
+        "width": 4000,
+        "height": 3000,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "matthew Hunt",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:LindisfarneCastleHolyIsland.jpg",
+        "license": "CC BY 4.0",
+        "artist": "Christopher Down",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lindisfarne_Castle_during_renovation.jpg",
         "sourceType": "core",
         "sourceArticleId": "lindisfarne-castle-wp",
         "sourceGeohash4": "gcys",
         "categories": [
-          "CC-BY-2.0",
-          "Flickr images uploaded by Flickr upload bot",
+          "CC-BY-4.0",
           "Lindisfarne Castle",
-          "Listed buildings in England with known IDs",
-          "Taken with Canon EOS 400D"
-        ]
+          "Restoration of buildings",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/g/c/y/s/lindisfarne-castle-wp/lindisfarne-castle-ren-medium.webp",
+        "smallPath": "_m/g/c/y/s/lindisfarne-castle-wp/lindisfarne-castle-ren-small.webp"
       },
       "images": [
         {
@@ -479,7 +480,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Lindisfarne Castle"
-          ]
+          ],
+          "smallPath": "_m/g/c/y/s/lindisfarne-wp/lindisfarne-castle-geograph-or-small.webp"
         },
         {
           "path": "_m/g/c/y/s/lindisfarne-wp/lindisfarne-banner-castle.jpg",
@@ -503,7 +505,9 @@
             "Lindisfarne Castle",
             "Self-published work",
             "Wikivoyage banners of England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/y/s/lindisfarne-wp/lindisfarne-banner-castle-medium.webp",
+          "smallPath": "_m/g/c/y/s/lindisfarne-wp/lindisfarne-banner-castle-small.webp"
         },
         {
           "path": "_m/g/c/y/t/berwick-upon-tweed-wp/paxton-house.jpg",
@@ -525,7 +529,8 @@
             "License migration completed",
             "Media missing infobox template",
             "Paxton House, Berwickshire"
-          ]
+          ],
+          "smallPath": "_m/g/c/y/t/berwick-upon-tweed-wp/paxton-house-small.webp"
         },
         {
           "path": "_m/g/c/y/t/berwick-upon-tweed-wp/the-main-house-theatre-the-mal.jpg",
@@ -549,7 +554,9 @@
             "License migration redundant",
             "Self-published work",
             "Theatres in Northumberland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/y/t/berwick-upon-tweed-wp/the-main-house-theatre-the-mal-medium.webp",
+          "smallPath": "_m/g/c/y/t/berwick-upon-tweed-wp/the-main-house-theatre-the-mal-small.webp"
         },
         {
           "path": "_m/g/c/y/t/berwick-upon-tweed-wp/berwick-barracks-6952122663.jpg",
@@ -564,7 +571,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berwick_Barracks_(6952122663).jpg",
           "sourceType": "poi",
           "sourceArticleId": "berwick-upon-tweed-wp",
-          "sourceGeohash4": "gcyt"
+          "sourceGeohash4": "gcyt",
+          "mediumPath": "_m/g/c/y/t/berwick-upon-tweed-wp/berwick-barracks-6952122663-medium.webp",
+          "smallPath": "_m/g/c/y/t/berwick-upon-tweed-wp/berwick-barracks-6952122663-small.webp"
         },
         {
           "path": "_m/g/c/y/t/berwick-upon-tweed-wp/holiday-at-berwick-upon-tweed.jpg",
@@ -579,7 +588,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Holiday_at_Berwick-upon-Tweed.jpg",
           "sourceType": "poi",
           "sourceArticleId": "berwick-upon-tweed-wp",
-          "sourceGeohash4": "gcyt"
+          "sourceGeohash4": "gcyt",
+          "smallPath": "_m/g/c/y/t/berwick-upon-tweed-wp/holiday-at-berwick-upon-tweed-small.webp"
         },
         {
           "path": "_m/g/c/y/9/northumberland-wp/british-railways-sign-at-the-a.jpg",
@@ -594,7 +604,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Railways_sign_at_the_Anglo-Scottish_Border.jpg",
           "sourceType": "poi",
           "sourceArticleId": "northumberland-wp",
-          "sourceGeohash4": "gcyt"
+          "sourceGeohash4": "gcyt",
+          "mediumPath": "_m/g/c/y/9/northumberland-wp/british-railways-sign-at-the-a-medium.webp",
+          "smallPath": "_m/g/c/y/9/northumberland-wp/british-railways-sign-at-the-a-small.webp"
         }
       ],
       "narration": [

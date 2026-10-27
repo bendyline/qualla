@@ -33,7 +33,7 @@ Located at 67.51N, 64.08E, approximately 160 km above the Arctic Circle in the K
 ## Sources
 
 - [Vorkuta uprising - Wikipedia](https://en.wikipedia.org/?curid=6962090)
-- [Vorkuta uprising - Wikipedia](https://en.wikipedia.org/wiki/Vorkuta_uprising)
+- [Vorkuta uprising - Wikipedia](https://en.wikipedia.org/?curid=6962090)
   - Uprising began 19 July 1953, ended 1 August 1953 — confirmed
   - Beria arrested 26 June 1953 — confirmed
   - 18,000 prisoners joined the strike — confirmed

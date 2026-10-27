@@ -51,7 +51,7 @@ Located at 34.19N, 135.14E on the southwestern coast of Wakayama City. The cape 
   - Matchlock guns introduced to Japan 1543, rapidly adopted by Saiga forces confirmed
   - Nobunaga invaded Kii Province 1577 but could not defeat Saiga Ikki confirmed
   - Hideyoshi destroyed the confederation in 1585 confirmed
-- [Saikazaki - Wikipedia](https://en.wikipedia.org/wiki/Saikazaki)
+- [Saikazaki - Wikipedia](https://en.wikipedia.org/?curid=22142240)
   - Wakaura rated number one in 1950 New Japanese Tourist Spot Top 100 Contest
   - Only natural coastline remaining in Wakaura region
   - Part of Setonaikai National Park

@@ -32,7 +32,7 @@ Located at 34.37°N, 49.24°E on the plain southwest of Arak, Markazi province. 
 
 ## Sources
 
-- [IR-40 - Wikipedia](https://en.wikipedia.org/wiki/IR-40)
+- [IR-40 - Wikipedia](https://en.wikipedia.org/?curid=20891960)
   - 40-megawatt (thermal) heavy water reactor designation confirmed
   - construction began October 2004 confirmed
   - renamed Khondab Heavy Water Research Reactor in 2017 confirmed

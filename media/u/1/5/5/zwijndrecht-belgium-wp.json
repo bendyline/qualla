@@ -3,34 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/5/5/zwijndrecht-belgium-wp/hero.jpg",
-        "filename": "Fort van Kruibeke in Zwijndrecht-Burcht, België.JPG",
-        "caption": "Fort of Kruibeke in Zwijndrecht-Burcht, Belgium",
-        "alt": "Fort of Kruibeke in Zwijndrecht-Burcht, Belgium",
-        "width": 3072,
-        "height": 2304,
+        "path": "_m/u/1/5/5/zwijndrecht-belgium-wp/kerk-zwijndrecht-02.jpg",
+        "filename": "Kerk Zwijndrecht 02.jpg",
+        "caption": "Kerk Zwijndrecht",
+        "alt": "Kerk Zwijndrecht",
+        "width": 4640,
+        "height": 6960,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "CielleOwens",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_van_Kruibeke_in_Zwijndrecht-Burcht,_Belgi%C3%AB.JPG",
-        "sourceType": "core",
+        "license": "CC0",
+        "artist": "FrDr",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerk_Zwijndrecht_02.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "zwijndrecht-belgium-wp",
         "sourceGeohash4": "u155",
-        "categories": [
-          "Belgium photographs taken on 2012-09-16",
-          "Burcht",
-          "CC-BY-SA-3.0",
-          "Files with coordinates missing SDC location of creation (51° N, 4° E)",
-          "Fortresses in Belgium",
-          "Images from Wiki Loves Monuments 2012",
-          "Images from Wiki Loves Monuments 2012 in Belgium",
-          "Images from Wiki Loves Monuments missing SDC depicts",
-          "Images from Wiki Loves Monuments missing SDC location of creation",
-          "Onroerend erfgoed in Zwijndrecht (Belgium)",
-          "Onroerend erfgoed with known IDs",
-          "Self-published work",
-          "Taken with Nikon Coolpix L16"
-        ]
+        "mediumPath": "_m/u/1/5/5/zwijndrecht-belgium-wp/kerk-zwijndrecht-02-medium.webp",
+        "smallPath": "_m/u/1/5/5/zwijndrecht-belgium-wp/kerk-zwijndrecht-02-small.webp"
       },
       "images": [
         {
@@ -218,7 +205,7 @@
           "smallPath": "_m/u/1/5/5/zwijndrecht-belgium-wp/rantwerpsunset-small.webp"
         },
         {
-          "path": "_m/u/1/5/5/zwijndrecht-belgium-wp/kruibeke-fort-aerial.jpg",
+          "path": "_m/u/1/5/5/national-redoubt-belgium-wp/kruibeke-fort-aerial.jpg",
           "filename": "Kruibeke fort aerial.jpg",
           "caption": "Aerial photograph of Kruibeke fortress, Belgium; part of the inner ring of military fortifications around Antwerp called the Brialmont belt and built in the 1860s. Despite the name it is currently situated in the municipality of Zwijndrecht. Nikon D60 f=55mm f/5 at 1/4000s ISO 800. Processed using Nikon NX Studio 1.3.2 and GIMP 2.10.34.",
           "alt": "Aerial photograph of Kruibeke fortress, Belgium; part of the inner ring of military fortifications around Antwerp called the Brialmont belt and built in the 1860s. Despite the name it is currently situated in the municipality of Zwijndrecht. Nikon D60 f=55mm f/5 at 1/4000s ISO 800. Processed using Nikon NX Studio 1.3.2 and GIMP 2.10.34.",
@@ -230,7 +217,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kruibeke_fort_aerial.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "national-redoubt-belgium-wp",
-          "sourceGeohash4": "u155"
+          "sourceGeohash4": "u155",
+          "mediumPath": "_m/u/1/5/5/national-redoubt-belgium-wp/kruibeke-fort-aerial-medium.webp",
+          "smallPath": "_m/u/1/5/5/national-redoubt-belgium-wp/kruibeke-fort-aerial-small.webp"
         },
         {
           "path": "_m/u/1/5/5/zwijndrecht-belgium-wp/kerk-zwijndrecht-02.jpg",
@@ -273,7 +262,8 @@
             "Oud Postkantoor (Gent)",
             "Taken with Canon PowerShot S10",
             "Time 10:51"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/ghent-centre-small.webp"
         },
         {
           "path": "_m/u/1/4/d/east-flanders-wp/aalst-belfry.jpg",
@@ -301,7 +291,8 @@
             "Self-published work",
             "Street clocks in Aalst",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/aalst-belfry-small.webp"
         },
         {
           "path": "_m/u/1/4/d/east-flanders-wp/olvkerkdeinze.jpg",
@@ -324,7 +315,8 @@
             "Onze-Lieve-Vrouwekerk (Deinze)",
             "Self-published work",
             "Taken with Canon Digital IXUS 300"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/olvkerkdeinze-small.webp"
         },
         {
           "path": "_m/u/1/4/d/east-flanders-wp/lochristi-sint-niklaaskerk-2.jpg",
@@ -349,7 +341,9 @@
             "Self-published work",
             "Sint-Niklaaskerk (Lochristi)",
             "Taken with Sony DSC-S60"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/d/east-flanders-wp/lochristi-sint-niklaaskerk-2-medium.webp",
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/lochristi-sint-niklaaskerk-2-small.webp"
         },
         {
           "path": "_m/u/1/4/d/east-flanders-wp/berlare-sint-martinuskerk-1.jpg",
@@ -375,7 +369,8 @@
             "Self-published work",
             "Sint-Martinuskerk (Berlare)",
             "Taken with Sony DSC-S60"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/berlare-sint-martinuskerk-1-small.webp"
         },
         {
           "path": "_m/u/1/4/d/east-flanders-wp/carnaval-aalst-2010-praalwagen.jpg",
@@ -397,7 +392,9 @@
             "Carnival of Aalst, Belgium",
             "February 2010 in Belgium",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/d/east-flanders-wp/carnaval-aalst-2010-praalwagen-medium.webp",
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/carnaval-aalst-2010-praalwagen-small.webp"
         },
         {
           "path": "_m/u/1/4/d/east-flanders-wp/dendermonde-stadhuis-en-monume.jpg",
@@ -412,7 +409,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dendermonde,_stadhuis_en_monumentale_panden_op_Grote_Markt_foto2_2010-10-09_14.59.jpg",
           "sourceType": "poi",
           "sourceArticleId": "east-flanders-wp",
-          "sourceGeohash4": "u14g"
+          "sourceGeohash4": "u14g",
+          "mediumPath": "_m/u/1/4/d/east-flanders-wp/dendermonde-stadhuis-en-monume-medium.webp",
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/dendermonde-stadhuis-en-monume-small.webp"
         },
         {
           "path": "_m/u/1/4/d/east-flanders-wp/eeklo-monumentaal-stadhuis-fot.jpg",
@@ -427,7 +426,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eeklo,_monumentaal_stadhuis_foto3_2011-10-03_12.51.JPG",
           "sourceType": "poi",
           "sourceArticleId": "east-flanders-wp",
-          "sourceGeohash4": "u14g"
+          "sourceGeohash4": "u14g",
+          "mediumPath": "_m/u/1/4/d/east-flanders-wp/eeklo-monumentaal-stadhuis-fot-medium.webp",
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/eeklo-monumentaal-stadhuis-fot-small.webp"
         },
         {
           "path": "_m/u/1/4/d/east-flanders-wp/ghent-april-2012-3.jpg",
@@ -442,7 +443,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ghent_April_2012-3.jpg",
           "sourceType": "poi",
           "sourceArticleId": "east-flanders-wp",
-          "sourceGeohash4": "u14g"
+          "sourceGeohash4": "u14g",
+          "mediumPath": "_m/u/1/4/d/east-flanders-wp/ghent-april-2012-3-medium.webp",
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/ghent-april-2012-3-small.webp"
         },
         {
           "path": "_m/u/1/4/d/east-flanders-wp/0-grammont-hotel-de-ville-et-f.jpg",
@@ -457,7 +460,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:0_Grammont_-_H%C3%B4tel_de_ville_et_fontaine_Marbol.JPG",
           "sourceType": "poi",
           "sourceArticleId": "east-flanders-wp",
-          "sourceGeohash4": "u14g"
+          "sourceGeohash4": "u14g",
+          "mediumPath": "_m/u/1/4/d/east-flanders-wp/0-grammont-hotel-de-ville-et-f-medium.webp",
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/0-grammont-hotel-de-ville-et-f-small.webp"
         },
         {
           "path": "_m/u/1/4/d/east-flanders-wp/onroerenderfgoed-17915-lokeren.jpg",
@@ -472,7 +477,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Onroerenderfgoed_17915_Lokeren.jpg",
           "sourceType": "poi",
           "sourceArticleId": "east-flanders-wp",
-          "sourceGeohash4": "u14g"
+          "sourceGeohash4": "u14g",
+          "mediumPath": "_m/u/1/4/d/east-flanders-wp/onroerenderfgoed-17915-lokeren-medium.webp",
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/onroerenderfgoed-17915-lokeren-small.webp"
         },
         {
           "path": "_m/u/1/4/d/east-flanders-wp/2012-ronde-van-vlaanderen-thom.jpg",
@@ -487,7 +494,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2012_Ronde_van_Vlaanderen,_Thomas_Voeckler_(7038278401).jpg",
           "sourceType": "poi",
           "sourceArticleId": "east-flanders-wp",
-          "sourceGeohash4": "u14g"
+          "sourceGeohash4": "u14g",
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/2012-ronde-van-vlaanderen-thom-small.webp"
         },
         {
           "path": "_m/u/1/4/d/east-flanders-wp/oudenaarde-rathaus-4.jpg",
@@ -502,7 +510,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oudenaarde_Rathaus_4.jpg",
           "sourceType": "poi",
           "sourceArticleId": "east-flanders-wp",
-          "sourceGeohash4": "u14g"
+          "sourceGeohash4": "u14g",
+          "mediumPath": "_m/u/1/4/d/east-flanders-wp/oudenaarde-rathaus-4-medium.webp",
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/oudenaarde-rathaus-4-small.webp"
         },
         {
           "path": "_m/u/1/4/d/east-flanders-wp/markt-met-stadhuis-en-egmontst.jpg",
@@ -517,7 +527,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Markt_met_stadhuis_en_Egmontstandbeeld,_Zottegem,_Vlaanderen,_Belgi%C3%AB_02.jpg",
           "sourceType": "poi",
           "sourceArticleId": "east-flanders-wp",
-          "sourceGeohash4": "u14g"
+          "sourceGeohash4": "u14g",
+          "mediumPath": "_m/u/1/4/d/east-flanders-wp/markt-met-stadhuis-en-egmontst-medium.webp",
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/markt-met-stadhuis-en-egmontst-small.webp"
         }
       ],
       "narration": [

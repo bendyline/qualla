@@ -33,7 +33,7 @@ Located at 16.75°N, 62.20°W in the Leeward Islands of the Lesser Antilles. Mon
 ## Sources
 
 - [Capture of Montserrat - Wikipedia](https://en.wikipedia.org/?curid=28803755)
-- [Capture of Montserrat - Wikipedia](https://en.wikipedia.org/wiki/Capture_of_Montserrat)
+- [Capture of Montserrat - Wikipedia](https://en.wikipedia.org/?curid=28803755)
   - Montserrat fell on 22 February 1782 confirmed
   - de Grasse's role after Yorktown victory (October 1781) confirmed
   - St. Kitts siege began 11 January 1782, surrendered 13 February confirmed

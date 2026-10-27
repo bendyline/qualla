@@ -43,7 +43,7 @@ Located at 40.7185N, 73.9901W on Manhattan's Lower East Side. The museum sits on
   - 22 apartments and a basement saloon
   - building sealed after 1935
   - founded by Ruth J. Abram and Anita Jacobson in 1988
-- [Lower East Side Tenement Museum - Wikipedia](https://en.wikipedia.org/wiki/Lower_East_Side_Tenement_Museum)
+- [Lower East Side Tenement Museum - Wikipedia](https://en.wikipedia.org/?curid=3022003)
   - National Historic Landmark designation April 19, 1994
   - National Historic Site authorized November 12, 1998
   - 103 Orchard Street added via 2015 National Defense Authorization Act

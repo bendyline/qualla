@@ -32,7 +32,7 @@ SM UB-85 was captured at approximately 54.78 degrees north, 5.38 degrees west, i
 
 ## Sources
 
-- [SM UB-85 - Wikipedia](https://en.wikipedia.org/wiki/SM_UB-85)
+- [SM UB-85 - Wikipedia](https://en.wikipedia.org/?curid=31080538)
   - UB-85 ordered 23 September 1916, built at AG Weser shipyard Bremen
   - launched 26 October 1917, commissioned 24 November 1917
   - Type UB III displacement 516 tonnes surfaced / 647 tonnes submerged

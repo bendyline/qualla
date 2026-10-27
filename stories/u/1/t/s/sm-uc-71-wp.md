@@ -32,7 +32,7 @@ The wreck of UC-71 lies in the southern North Sea near 54.17°N, 7.90°E - the b
 
 ## Sources
 
-- [SM UC-71 - Wikipedia](https://en.wikipedia.org/wiki/SM_UC-71)
+- [SM UC-71 - Wikipedia](https://en.wikipedia.org/?curid=21677343)
   - Type UC II submarine, commissioned November 1916
   - 50.35 m long, 427 tonnes surfaced / 508 tonnes submerged
   - 19 patrols, credited with sinking 63 vessels

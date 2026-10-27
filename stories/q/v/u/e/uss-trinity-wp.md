@@ -37,7 +37,7 @@ The torpedo attack on Trinity occurred at approximately 12.09°S, 130.09°E in t
 ## Sources
 
 - [USS Trinity - Wikipedia](https://en.wikipedia.org/?curid=2045888)
-- [USS Trinity (AO-13) - Wikipedia](https://en.wikipedia.org/wiki/USS_Trinity_(AO-13))
+- [USS Trinity (AO-13) - Wikipedia](https://en.wikipedia.org/?curid=2045888)
   - Laid down November 10, 1919 at Newport News Shipbuilding — confirmed
   - Commissioned September 4, 1920 — confirmed
   - Recommissioned 1938 — confirmed

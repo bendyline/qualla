@@ -3,26 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/h/6/glencoe-wk/hero.jpg",
-        "filename": "Highland UK relief location map.jpg",
-        "caption": "Relief map of Highland, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 6.9W\nEast: 2.9W\nNorth: 58.8N\nSouth: 56.4N",
-        "alt": "Relief map of Highland, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 6.9W\nEast: 2.9W\nNorth: 58.8N\nSouth: 56.4N",
-        "width": 2000,
-        "height": 2159,
+        "path": "_m/g/f/h/6/glencoe-wk/glencoe-lochan-reflections-3-2.jpg",
+        "filename": "Glencoe Lochan reflections 3 20211022.jpg",
+        "caption": "Water reflections in Glencoe Lochan, with the Pap of Glencoe overlooking the scene.  This is a panorama in cylindrical projection, fused from three exposure layers.",
+        "alt": "Water reflections in Glencoe Lochan, with the Pap of Glencoe overlooking the scene.  This is a panorama in cylindrical projection, fused from three exposure layers.",
+        "width": 9456,
+        "height": 3817,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "Nilfanion, created using Ordnance Survey data",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Highland_UK_relief_location_map.jpg",
-        "sourceType": "core",
+        "artist": "Daniel Kraft",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glencoe_Lochan_reflections_3_20211022.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "glencoe-wk",
         "sourceGeohash4": "gfh6",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Maps by Nilfanion",
-          "Maps of Highland council area",
-          "Ordnance Survey Boundary Line maps",
-          "Topographic maps of Scotland"
-        ]
+        "mediumPath": "_m/g/f/h/6/glencoe-wk/glencoe-lochan-reflections-3-2-medium.webp",
+        "smallPath": "_m/g/f/h/6/glencoe-wk/glencoe-lochan-reflections-3-2-small.webp"
       },
       "images": [
         {
@@ -421,7 +416,8 @@
             "Isle of Mull (ship, 1988)",
             "License migration completed",
             "Oban harbour"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/oban-harbour-14839d-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/bute-satellite.jpg",
@@ -442,7 +438,8 @@
             "Landsat images of the United Kingdom",
             "NASA World Wind",
             "PD World Wind"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/bute-satellite-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden.jpg",
@@ -466,7 +463,9 @@
             "PD-Art (PD-old-auto-expired)",
             "PD-old-100-expired",
             "Paintings without Wikidata item"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j.jpg",
@@ -485,7 +484,9 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Eilean Donan Castle viewed from south"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/scottish-highlands-wv-region-m.png",
@@ -500,7 +501,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scottish_Highlands_WV_region_map_EN.png",
           "sourceType": "poi",
           "sourceArticleId": "scottish-highlands-wp",
-          "sourceGeohash4": "gfhs"
+          "sourceGeohash4": "gfhs",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/scottish-highlands-wv-region-m-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr.jpg",
@@ -515,7 +517,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:62005_Glenfinnan_Viaduct_-_geograph.org.uk_-_2308595.jpg",
           "sourceType": "poi",
           "sourceArticleId": "scottish-highlands-wp",
-          "sourceGeohash4": "gfhs"
+          "sourceGeohash4": "gfhs",
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr-small.webp"
         }
       ],
       "narration": [

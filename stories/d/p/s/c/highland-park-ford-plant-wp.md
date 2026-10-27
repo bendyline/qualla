@@ -40,7 +40,7 @@ Located at 42.41°N, 83.10°W in Highland Park, Michigan - a small independent c
   - Turnover dropped from 31.9% to 1.4%
   - National Historic Landmark in 1978
   - 102 acres - largest manufacturing facility at time of opening
-- [Highland Park Ford Plant - Wikipedia](https://en.wikipedia.org/wiki/Highland_Park_Ford_Plant)
+- [Highland Park Ford Plant - Wikipedia](https://en.wikipedia.org/?curid=933603)
   - Moving assembly line debuts October 7 1913 confirmed
   - 728 to 93 minutes production time reduction confirmed
   - Model T price $700 in 1910 to $350 in 1917 confirmed

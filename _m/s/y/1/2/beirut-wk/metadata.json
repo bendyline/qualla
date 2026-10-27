@@ -1,5 +1,26 @@
 {
   "articleId": "beirut-wk",
+  "narration": {
+    "files": [
+      "sy12-beirut-flight-context.mp3",
+      "sy12-beirut-intro.mp3",
+      "sy12-beirut-the-downtown.mp3",
+      "sy12-beirut-the-neighborhoods.mp3",
+      "sy12-beirut-the-food.mp3",
+      "sy12-beirut-the-history.mp3",
+      "sy12-beirut-the-nightlife.mp3"
+    ],
+    "durations": {
+      "sy12-beirut-flight-context.mp3": 53.8690833,
+      "sy12-beirut-intro.mp3": 66.4049583,
+      "sy12-beirut-the-downtown.mp3": 60.0755416,
+      "sy12-beirut-the-neighborhoods.mp3": 64.0600416,
+      "sy12-beirut-the-food.mp3": 61.7222083,
+      "sy12-beirut-the-history.mp3": 58.9756666,
+      "sy12-beirut-the-nightlife.mp3": 55.9420833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
   "hero": {
     "filename": "Sursock house.jpg",
     "title": "File:Sursock house.jpg",
@@ -856,26 +877,5 @@
         "aerialBonus": 0
       }
     }
-  ],
-  "narration": {
-    "files": [
-      "sy12-beirut-flight-context.mp3",
-      "sy12-beirut-intro.mp3",
-      "sy12-beirut-the-downtown.mp3",
-      "sy12-beirut-the-neighborhoods.mp3",
-      "sy12-beirut-the-food.mp3",
-      "sy12-beirut-the-history.mp3",
-      "sy12-beirut-the-nightlife.mp3"
-    ],
-    "durations": {
-      "sy12-beirut-flight-context.mp3": 53.8690833,
-      "sy12-beirut-intro.mp3": 66.4049583,
-      "sy12-beirut-the-downtown.mp3": 60.0755416,
-      "sy12-beirut-the-neighborhoods.mp3": 64.0600416,
-      "sy12-beirut-the-food.mp3": 61.7222083,
-      "sy12-beirut-the-history.mp3": 58.9756666,
-      "sy12-beirut-the-nightlife.mp3": 55.9420833
-    },
-    "voice": "en-US-Ava3:DragonHDLatestNeural"
-  }
+  ]
 }

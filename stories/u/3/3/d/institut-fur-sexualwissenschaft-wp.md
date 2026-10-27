@@ -41,7 +41,7 @@ The site lies at 52.519°N, 13.365°E on the northern edge of the Tiergarten in 
 ## Sources
 
 - [Institut für Sexualwissenschaft - Wikipedia](https://en.wikipedia.org/?curid=1365603)
-- [Institut für Sexualwissenschaft - Wikipedia (English)](https://en.wikipedia.org/wiki/Institut_f%C3%BCr_Sexualwissenschaft)
+- [Institut für Sexualwissenschaft - Wikipedia (English)](https://en.wikipedia.org/?curid=1365603)
   - institute inaugurated with a Hirschfeld speech on 1 July 1919 and opened to the public on 6 July 1919, in the Tiergarten - confirmed
   - co-founders Arthur Kronfeld and dermatologist Friedrich Wertheim - confirmed
   - about 1,250 lectures given in the first year; roughly 18,000 consultations for 3,500 people in year one - confirmed

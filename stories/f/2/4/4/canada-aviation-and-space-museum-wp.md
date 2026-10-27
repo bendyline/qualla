@@ -45,7 +45,7 @@ The Canada Aviation and Space Museum is located at 45.46N, 75.64W on the grounds
   - Arrow nose section designated RL-206 confirmed
   - Program cancelled by Diefenbaker in 1959 confirmed
   - Prototypes and tooling ordered destroyed confirmed
-- [Canada Aviation and Space Museum - Wikipedia](https://en.wikipedia.org/wiki/Canada_Aviation_and_Space_Museum)
+- [Canada Aviation and Space Museum - Wikipedia](https://en.wikipedia.org/?curid=761389)
   - Three collections merged in 1964 at RCAF Station Rockcliffe confirmed
   - Moved to triangular hangar in 1988 confirmed
   - Silver Dart first flew February 23, 1909 at Baddeck, Nova Scotia confirmed

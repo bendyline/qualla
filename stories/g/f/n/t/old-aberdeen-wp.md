@@ -40,7 +40,7 @@ Old Aberdeen lies at 57.16N, 2.10W in the northern part of the city, between Kin
   - Old Town House completed 1789
   - Powis Gates erected 1834 by Hugh Fraser Leslie of Powis
   - Seaton Park 27 hectares confirmed
-- [Powis Gates, Aberdeen - local heritage sources](https://en.wikipedia.org/wiki/Old_Aberdeen)
+- [Powis Gates, Aberdeen - local heritage sources](https://en.wikipedia.org/?curid=1810154)
   - Powis Gates Near Eastern minaret style confirmed
   - Shield with three black busts - provenance contested between emancipation commemoration and heraldic arms
 

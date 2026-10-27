@@ -38,7 +38,7 @@ Castlecomer sits at 52.81N, 7.21W in northern County Kilkenny, sixteen kilometer
   - Carboniferous fossil amphibians found in Jarrow Colliery confirmed
   - Wellie Race tradition began 1978 confirmed
   - Discovery Park opened 2007 confirmed
-- [On a Collection of Fossil Vertebrata from the Jarrow Colliery - historical reference](https://en.wikipedia.org/wiki/Castlecomer)
+- [On a Collection of Fossil Vertebrata from the Jarrow Colliery - historical reference](https://en.wikipedia.org/?curid=2384349)
   - Thomas Henry Huxley described Carboniferous tetrapods confirmed
   - 1867 publication confirmed
   - fossils in National Museum of Ireland confirmed

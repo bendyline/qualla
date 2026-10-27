@@ -41,7 +41,7 @@ Located at 52.19°N, 2.22°W in Worcester, on the east bank of the River Severn.
 ## Sources
 
 - [Siege of Worcester - Wikipedia](https://en.wikipedia.org/?curid=8822189)
-- [Siege of Worcester (1646) - Wikipedia](https://en.wikipedia.org/wiki/Siege_of_Worcester_(1646))
+- [Siege of Worcester (1646) - Wikipedia](https://en.wikipedia.org/?curid=8822189)
   - Charles I surrendered to Scots at Newark 5 May 1646 confirmed
   - Siege began 21 May 1646 confirmed
   - Siege lasted 63 days confirmed

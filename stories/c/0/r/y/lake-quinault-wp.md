@@ -33,7 +33,7 @@ Located at 47.48°N, 123.87°W on the Olympic Peninsula in western Washington. T
 ## Sources
 
 - [Lake Quinault - Wikipedia](https://en.wikipedia.org/?curid=483864)
-- [Lake Quinault - Wikipedia fact-check](https://en.wikipedia.org/wiki/Lake_Quinault)
+- [Lake Quinault - Wikipedia fact-check](https://en.wikipedia.org/?curid=483864)
   - Quinault Indian Nation owns the lake confirmed
   - Glacial lake on Olympic Peninsula confirmed
   - 131 inches annual precipitation confirmed

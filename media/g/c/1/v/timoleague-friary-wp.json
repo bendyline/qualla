@@ -3,32 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/1/v/timoleague-friary-wp/hero.jpg",
-        "filename": "Timoleague Friary.jpg",
-        "caption": "Ruins of Timoleague Friary",
-        "alt": "Ruins of Timoleague Friary",
-        "width": 3456,
-        "height": 2304,
+        "path": "_m/g/c/1/v/timoleague-friary-wp/timoleague-abbey-1.jpg",
+        "filename": "Timoleague abbey.jpg",
+        "caption": "timoleague",
+        "alt": "timoleague",
+        "width": 4752,
+        "height": 3168,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Ingo Mehling",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Timoleague_Friary.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Derekjmc",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Timoleague_abbey.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "timoleague-friary-wp",
         "sourceGeohash4": "gc1v",
         "categories": [
-          "CC-BY-SA-3.0",
-          "GFDL",
-          "License migration redundant",
-          "Pictures by Ingo Mehling / 2010 Ireland",
-          "Quality images",
-          "Quality images missing SDC creator",
-          "Quality images missing SDC depicts",
-          "Quality images of Ireland by Ingo Mehling",
-          "Quality images of cultural heritage monuments in County Cork",
-          "Self-published work",
-          "Timoleague Friary"
-        ]
+          "CC-BY-SA-4.0",
+          "Files with coordinates missing SDC location of creation",
+          "Images from Wiki Loves Monuments 2014",
+          "Images from Wiki Loves Monuments 2014 in Ireland"
+        ],
+        "mediumPath": "_m/g/c/1/v/timoleague-friary-wp/timoleague-abbey-1-medium.webp",
+        "smallPath": "_m/g/c/1/v/timoleague-friary-wp/timoleague-abbey-1-small.webp"
       },
       "images": [
         {
@@ -592,7 +587,8 @@
             "Glengarriff",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/1/z/county-cork-wp/glengarriff-co-cork-ireland-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/blarneycastleview1.jpg",
@@ -614,7 +610,9 @@
             "GFDL",
             "License migration completed",
             "Views from Blarney Castle"
-          ]
+          ],
+          "mediumPath": "_m/g/c/1/z/county-cork-wp/blarneycastleview1-medium.webp",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/blarneycastleview1-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/crosshaven.jpg",
@@ -636,7 +634,9 @@
             "Flickr images reviewed by FlickreviewR",
             "Information field template with formatting",
             "Ports and harbours in the Republic of Ireland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/1/z/county-cork-wp/crosshaven-medium.webp",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/crosshaven-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/clonakilty2.jpg",
@@ -666,7 +666,8 @@
             "Self-published work",
             "Statues in County Cork",
             "Taken with Samsung 420"
-          ]
+          ],
+          "smallPath": "_m/g/c/1/z/county-cork-wp/clonakilty2-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/ballymaloe.jpg",
@@ -681,7 +682,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballymaloe.JPG",
           "sourceType": "poi",
           "sourceArticleId": "county-cork-wp",
-          "sourceGeohash4": "gc1q"
+          "sourceGeohash4": "gc1q",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/ballymaloe-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/cork-county-banner.jpg",
@@ -696,7 +698,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cork_county_banner.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-cork-wp",
-          "sourceGeohash4": "gc1q"
+          "sourceGeohash4": "gc1q",
+          "mediumPath": "_m/g/c/1/z/county-cork-wp/cork-county-banner-medium.webp",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/cork-county-banner-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/cable-car-dursey-island2.jpg",
@@ -711,7 +715,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cable_car_dursey-Island2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-cork-wp",
-          "sourceGeohash4": "gc1q"
+          "sourceGeohash4": "gc1q",
+          "mediumPath": "_m/g/c/1/z/county-cork-wp/cable-car-dursey-island2-medium.webp",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/cable-car-dursey-island2-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/blarney-castle-2017.jpg",
@@ -726,7 +732,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blarney_Castle_2017.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-cork-wp",
-          "sourceGeohash4": "gc1q"
+          "sourceGeohash4": "gc1q",
+          "mediumPath": "_m/g/c/1/z/county-cork-wp/blarney-castle-2017-medium.webp",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/blarney-castle-2017-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/bantry-from-above.jpg",
@@ -741,7 +749,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bantry_From_above.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-cork-wp",
-          "sourceGeohash4": "gc1q"
+          "sourceGeohash4": "gc1q",
+          "mediumPath": "_m/g/c/1/z/county-cork-wp/bantry-from-above-medium.webp",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/bantry-from-above-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/county-cork-clock-gate-youghal.jpg",
@@ -756,7 +766,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:County_Cork_-_Clock_Gate,_Youghal_-_20170618114758.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-cork-wp",
-          "sourceGeohash4": "gc1q"
+          "sourceGeohash4": "gc1q",
+          "mediumPath": "_m/g/c/1/z/county-cork-wp/county-cork-clock-gate-youghal-medium.webp",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/county-cork-clock-gate-youghal-small.webp"
         }
       ],
       "narration": [

@@ -4,7 +4,7 @@
     {
       "filename": "AzouguiArchaeologicalSite.jpg",
       "title": "File:AzouguiArchaeologicalSite.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/AzouguiArchaeologicalSite.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/AzouguiArchaeologicalSite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:AzouguiArchaeologicalSite.jpg",
       "width": 1024,
       "height": 661,
@@ -12,6 +12,8 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Clemens Schmillen",
+      "credit": "Own work",
+      "source": "AzouguiArchaeologicalSite",
       "description": "Archaeological site of Azougui",
       "dateCreated": "2020-01-01",
       "categories": [
@@ -19,38 +21,14 @@
         "CC-BY-SA-4.0",
         "Self-published work"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "azougi-wk",
       "sourceGeohash4": "eews",
       "smallPath": "_m/e/e/w/s/azougi-wk/azouguiarchaeologicalsite-small.webp"
-    },
-    {
-      "filename": "AzouguiMausoleumHadrami.jpg",
-      "title": "File:AzouguiMausoleumHadrami.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/AzouguiMausoleumHadrami.jpg",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:AzouguiMausoleumHadrami.jpg",
-      "width": 1024,
-      "height": 683,
-      "mime": "image/jpeg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Clemens Schmillen",
-      "description": "Mausoleum of al-Imam al-Hadrami at Azougui",
-      "dateCreated": "2020-01-01",
-      "categories": [
-        "Azougui",
-        "CC-BY-SA-4.0",
-        "Self-published work"
-      ],
-      "sourceType": "poi",
-      "sourceArticleId": "azougi-wk",
-      "sourceGeohash4": "eews",
-      "smallPath": "_m/e/e/w/s/azougi-wk/azouguimausoleumhadrami-small.webp"
     }
   ],
   "galleryPaths": [
-    "_m/e/e/w/s/azougi-wk/azouguiarchaeologicalsite.jpg",
-    "_m/e/e/w/s/azougi-wk/azouguimausoleumhadrami.jpg"
+    "_m/e/e/w/s/azougi-wk/azouguiarchaeologicalsite.jpg"
   ],
   "updatedAt": "2026-06-19T12:51:03.841Z",
   "narration": {
@@ -71,5 +49,53 @@
       "eews-azougi-where-to-sleep-and-whats-next.mp3": 36.4785416
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "AzouguiMausoleumHadrami.jpg",
+    "title": "File:AzouguiMausoleumHadrami.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/AzouguiMausoleumHadrami.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:AzouguiMausoleumHadrami.jpg",
+    "width": 1024,
+    "height": 683,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Clemens Schmillen",
+    "credit": "Own work",
+    "source": "AzouguiMausoleumHadrami",
+    "description": "Mausoleum of al-Imam al-Hadrami at Azougui",
+    "dateCreated": "2020-01-01",
+    "categories": [
+      "Azougui",
+      "CC-BY-SA-4.0",
+      "Self-published work"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "azougi-wk",
+    "sourceGeohash4": "eews"
+  },
+  "thumbnail": {
+    "filename": "AzouguiMausoleumHadrami.jpg",
+    "title": "File:AzouguiMausoleumHadrami.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/AzouguiMausoleumHadrami.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:AzouguiMausoleumHadrami.jpg",
+    "width": 1024,
+    "height": 683,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Clemens Schmillen",
+    "credit": "Own work",
+    "source": "AzouguiMausoleumHadrami",
+    "description": "Mausoleum of al-Imam al-Hadrami at Azougui",
+    "dateCreated": "2020-01-01",
+    "categories": [
+      "Azougui",
+      "CC-BY-SA-4.0",
+      "Self-published work"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "azougi-wk",
+    "sourceGeohash4": "eews"
   }
 }

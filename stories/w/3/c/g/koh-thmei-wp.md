@@ -34,7 +34,7 @@ Koh Thmei lies at 10.481°N, 103.772°E in the Gulf of Thailand, immediately sou
 
 - [Koh Thmei - Wikipedia](https://en.wikipedia.org/?curid=43587566)
   - base overlay source
-- [Koh Thmei - Wikipedia](https://en.wikipedia.org/wiki/Koh_Thmei)
+- [Koh Thmei - Wikipedia](https://en.wikipedia.org/?curid=43587566)
   - pentagonal shape, 8.8 km long, 5.1-7.5 km wide, 28.5 km coastline
   - 300 m to mainland at narrowest point
   - two peaks over 100 m separated by Prek Koh Krabei river
@@ -42,7 +42,7 @@ Koh Thmei lies at 10.481°N, 103.772°E in the Gulf of Thailand, immediately sou
   - population under 200; Chong Thmei largest settlement (weather station), Taly on southeast coast, bungalow resort and eco-lodge on west
 - [Ream National Park - Wikipedia](https://en.wikipedia.org/wiki/Ream_National_Park)
   - established 1993, 210 sq km; Koh Thmei and Koh Seh form the eastern third of the park
-- [Koh Thmei development/concession history - Wikipedia](https://en.wikipedia.org/wiki/Koh_Thmei)
+- [Koh Thmei development/concession history - Wikipedia](https://en.wikipedia.org/?curid=43587566)
   - land-lease concessions from 2010 with bridge-to-mainland plans; unbuilt as of August 2014
   - 2011 law designated 84.5 hectares in Ream commune, Prey Nub district as community land requiring Ministry of Environment approval
   - 2016 Yeejia Tourism Development (Unite International subsidiary) signed MOUs with more than a dozen mostly Chinese firms for the Golden Silver Gulf Tourism Zone project

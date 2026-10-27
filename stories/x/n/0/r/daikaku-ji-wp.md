@@ -33,7 +33,7 @@ Located at 35.028N, 135.678E in the Sagano district of western Kyoto. The temple
 ## Sources
 
 - [Daikaku-ji - Wikipedia](https://en.wikipedia.org/?curid=9441285)
-- [Wikipedia - Daikaku-ji](https://en.wikipedia.org/wiki/Daikaku-ji)
+- [Wikipedia - Daikaku-ji](https://en.wikipedia.org/?curid=9441285)
   - Emperor Saga built palace on site in 814 CE confirmed
   - Princess Masako (consort of Emperor Junna) converted to temple in 876 confirmed
   - Monzeki temple status confirmed

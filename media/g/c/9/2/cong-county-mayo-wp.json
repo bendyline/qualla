@@ -3,25 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/9/2/cong-county-mayo-wp/hero.jpg",
-        "filename": "Cong Mayo Main street 2119.jpg",
-        "caption": "Cong, comté de Mayo, Irlande : main street.",
-        "alt": "Cong, comté de Mayo, Irlande : main street.",
-        "width": 2816,
-        "height": 2112,
+        "path": "_m/g/c/9/2/cong-county-mayo-wp/ordnance-survey-ireland-half-i.jpg",
+        "filename": "Ordnance Survey Ireland Half-Inch Sheet 11 South Mayo, Published 1965.jpg",
+        "caption": "OS map of South Mayo, at a scale of 1:126,730 or one half inch to one mile",
+        "alt": "OS map of South Mayo, at a scale of 1:126,730 or one half inch to one mile",
+        "width": 11912,
+        "height": 8696,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "ArséniureDeGallium",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cong_Mayo_Main_street_2119.jpg",
-        "sourceType": "core",
+        "license": "Public domain",
+        "artist": "Director at the Ordnance Survey Office, Dublin",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ordnance_Survey_Ireland_Half-Inch_Sheet_11_South_Mayo,_Published_1965.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "cong-county-mayo-wp",
         "sourceGeohash4": "gc92",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Cross at Cong",
-          "Self-published work",
-          "Taken with Canon PowerShot A700"
-        ]
+        "mediumPath": "_m/g/c/9/2/cong-county-mayo-wp/ordnance-survey-ireland-half-i-medium.webp",
+        "smallPath": "_m/g/c/9/2/cong-county-mayo-wp/ordnance-survey-ireland-half-i-small.webp"
       },
       "images": [
         {
@@ -95,7 +91,7 @@
           "smallPath": "_m/g/c/9/2/cong-county-mayo-wp/house-cong-co-mayo-use-small.webp"
         },
         {
-          "path": "_m/g/c/9/2/cong-county-mayo-wp/coa-of-county-mayo.png",
+          "path": "_m/g/c/8/f/achill-island-wp/coa-of-county-mayo.png",
           "filename": "COA of County Mayo.png",
           "caption": "Digital recreation of The Coat of Arms (\"crest\") of County Mayo in the Republic of Ireland, based on the following official description:\n\"Per fess gules and argent in chief four crosses one and three the first patriarchal the others passion crosses or, in base on waves of the sea a lymphad proper, the whole within a bordure of the third charged with nine yew trees also proper, with the Crest: On a mount vert a garden rose slipped or and with the Motto: Dia is Muire linn.\"",
           "alt": "Digital recreation of The Coat of Arms (\"crest\") of County Mayo in the Republic of Ireland, based on the following official description:\n\"Per fess gules and argent in chief four crosses one and three the first patriarchal the others passion crosses or, in base on waves of the sea a lymphad proper, the whole within a bordure of the third charged with nine yew trees also proper, with the Crest: On a mount vert a garden rose slipped or and with the Motto: Dia is Muire linn.\"",
@@ -107,7 +103,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:COA_of_County_Mayo.png",
           "sourceType": "core",
           "sourceArticleId": "cong-county-mayo-wp",
-          "sourceGeohash4": "gc92"
+          "sourceGeohash4": "gc92",
+          "smallPath": "_m/g/c/8/f/achill-island-wp/coa-of-county-mayo-small.webp"
         },
         {
           "path": "_m/g/c/9/2/cong-county-mayo-wp/cong-river.jpg",
@@ -522,7 +519,8 @@
             "March 2009 Ireland photographs",
             "Self-published work",
             "Taken with Olympus X-450 / D-535Z / C-370Z"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/2/cong-abbey-wp/picture-cloisters-cong-small.webp"
         },
         {
           "path": "_m/g/c/9/2/cong-wk/cong-banner-ashford-castle.jpg",
@@ -545,7 +543,9 @@
             "Extracted images",
             "Self-published work",
             "Wikivoyage banners of Ireland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/2/cong-wk/cong-banner-ashford-castle-medium.webp",
+          "smallPath": "_m/g/c/9/2/cong-wk/cong-banner-ashford-castle-small.webp"
         },
         {
           "path": "_m/g/c/9/2/cong-wk/charles-cunningham-boycott-van.jpg",
@@ -569,7 +569,8 @@
             "PD-Art missing SDC copyright status",
             "PD-old-100",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/2/cong-wk/charles-cunningham-boycott-van-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/clifdenoverview.jpg",
@@ -590,7 +591,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/clifdenoverview-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/clifdenoverview-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/tuam-cathedral-of-the-assumpti.jpg",
@@ -625,7 +628,8 @@
             "September 2009 Ireland photographs",
             "Stained-glass windows of the Cathedral of the Assumption, Tuam",
             "Taken with Canon EOS 30D"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/r/county-galway-wp/tuam-cathedral-of-the-assumpti-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/tuam-high-street-2009-09-14.jpg",
@@ -654,7 +658,9 @@
             "Taken with Canon EOS 30D",
             "Time 01:32",
             "Tuam"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/tuam-high-street-2009-09-14-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/tuam-high-street-2009-09-14-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/letterfrack-connemara.jpg",
@@ -678,7 +684,9 @@
             "Letterfrack",
             "Taken with Fujifilm FinePix F30",
             "Tully Mountain"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/letterfrack-connemara-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/letterfrack-connemara-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/spiddal-pier.jpg",
@@ -693,7 +701,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spiddal_Pier.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc3r"
+          "sourceGeohash4": "gc3r",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/spiddal-pier-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/spiddal-pier-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/fahy-lake-omey-island-connemar.jpg",
@@ -708,7 +718,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fahy_Lake,_Omey_Island,_Connemara.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc3r"
+          "sourceGeohash4": "gc3r",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/fahy-lake-omey-island-connemar-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/fahy-lake-omey-island-connemar-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/portumna-castle.jpg",
@@ -723,7 +735,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portumna_Castle.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc3r"
+          "sourceGeohash4": "gc3r",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/portumna-castle-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/plassy-shipwreck-2016.jpg",
@@ -738,7 +751,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plassy_shipwreck_2016.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc3r"
+          "sourceGeohash4": "gc3r",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/plassy-shipwreck-2016-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/plassy-shipwreck-2016-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/galwaycitycollage.jpg",
@@ -753,7 +768,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galwaycitycollage.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc3r"
+          "sourceGeohash4": "gc3r",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/galwaycitycollage-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/galwaycitycollage-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/inishbofin-cromwell-s-barrack-.jpg",
@@ -768,7 +785,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inishbofin_Cromwell%27s_Barrack_II_2018_09_03.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc3r"
+          "sourceGeohash4": "gc3r",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/inishbofin-cromwell-s-barrack--medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/inishbofin-cromwell-s-barrack--small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/galway-hooker.jpg",
@@ -783,7 +802,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galway_Hooker.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc3r"
+          "sourceGeohash4": "gc3r",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/galway-hooker-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/galway-hooker-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/ashford-castle.jpg",
@@ -808,7 +829,8 @@
             "PD-self",
             "Photographs taken on 2006-04-19",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/ashford-castle-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/castlebar-large-view-from-abov.jpg",
@@ -828,7 +850,9 @@
             "CC-BY-SA-3.0",
             "Castlebar",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/castlebar-large-view-from-abov-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/castlebar-large-view-from-abov-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/croagh-patrick-chapel.jpg",
@@ -854,7 +878,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/croagh-patrick-chapel-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/croagh-patrick-chapel-small.webp"
         },
         {
           "path": "_m/g/c/9/6/castlebar-wp/ballintubber-abbey-eastern-ele.jpg",
@@ -869,7 +895,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballintubber_Abbey_eastern_elevation.JPG",
           "sourceType": "poi",
           "sourceArticleId": "castlebar-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "mediumPath": "_m/g/c/9/6/castlebar-wp/ballintubber-abbey-eastern-ele-medium.webp",
+          "smallPath": "_m/g/c/9/6/castlebar-wp/ballintubber-abbey-eastern-ele-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/blacksod-lighthouse-geograph-4.jpg",
@@ -884,7 +912,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blacksod_Lighthouse_(geograph_4678840).jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-mayo-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/blacksod-lighthouse-geograph-4-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/ballina-st-muredach-s-cathedra.jpg",
@@ -899,7 +928,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballina_St._Muredach%27s_Cathedral_2013_09_14.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-mayo-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/ballina-st-muredach-s-cathedra-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/ballina-st-muredach-s-cathedra-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/beautiful-achill-islands-in-co.jpg",
@@ -913,7 +944,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_Achill_Islands_in_County_Mayo_of_Ireland.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-mayo-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/beautiful-achill-islands-in-co-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/beautiful-achill-islands-in-co-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/lough-doo-achill-island-co-may.jpg",
@@ -928,7 +961,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lough_Doo,_Achill_Island,_Co._Mayo_-_Banner_for_Wikivoyage.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-mayo-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/lough-doo-achill-island-co-may-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/lough-doo-achill-island-co-may-small.webp"
         }
       ],
       "narration": [

@@ -3,23 +3,34 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/h/f/cologne-lowland-wk/hero.jpg",
-        "filename": "Kölner Dom Luftbild Bahnhof - cologne aerial (25326253726).jpg",
-        "caption": "Der Kölner Dom ist mit 157,38 Metern Höhe nach dem Ulmer Münster das zweithöchste Kirchengebäude Europas sowie das dritthöchste der Welt, im Vordergrund das Gaudi-Zelt, dazwischen Hohenzollernbrücke und Hauptbahnhof.",
-        "alt": "Der Kölner Dom ist mit 157,38 Metern Höhe nach dem Ulmer Münster das zweithöchste Kirchengebäude Europas sowie das dritthöchste der Welt, im Vordergrund das Gaudi-Zelt, dazwischen Hohenzollernbrücke und Hauptbahnhof.",
-        "width": 3916,
-        "height": 2935,
+        "path": "_m/u/1/h/f/cologne-lowland-wk/koeln-bonner-bucht-panorama.jpg",
+        "filename": "Koeln-Bonner-bucht-panorama.jpg",
+        "caption": "Panoramic view of the Kölner Bucht seen from north (Hochdahl). From left to right: Cologne (including Cologne Cathedral and telecommunications tower Colonius), the Eifel, de:Köln-Ossendorf, the de:Ville, the chemical plants de:Bayerwerk Dormagen and parts of de:Rheinisches Braunkohlerevier (open cast brown coal mining)",
+        "alt": "Panoramic view of the Kölner Bucht seen from north (Hochdahl). From left to right: Cologne (including Cologne Cathedral and telecommunications tower Colonius), the Eifel, de:Köln-Ossendorf, the de:Ville, the chemical plants de:Bayerwerk Dormagen and parts of de:Rheinisches Braunkohlerevier (open cast brown coal mining)",
+        "width": 9628,
+        "height": 730,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "dronepicr",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_Luftbild_Bahnhof_-_cologne_aerial_(25326253726).jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "Walter Koch",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koeln-Bonner-bucht-panorama.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "cologne-lowland-wk",
-        "sourceGeohash4": "u1hf"
+        "sourceGeohash4": "u1hf",
+        "categories": [
+          "CC-BY-SA-3.0-migrated",
+          "GFDL",
+          "Images with annotations",
+          "Kölner Bucht",
+          "License migration completed",
+          "Remote views of Cologne Cathedral",
+          "Rhineland"
+        ],
+        "mediumPath": "_m/u/1/h/f/cologne-lowland-wk/koeln-bonner-bucht-panorama-medium.webp",
+        "smallPath": "_m/u/1/h/f/cologne-lowland-wk/koeln-bonner-bucht-panorama-small.webp"
       },
       "images": [
         {
-          "path": "_m/u/1/h/f/cologne-lowland-wk/bierkranz-zunft-kolsch.jpg",
+          "path": "_m/u/1/h/f/cologne-lowland-wp/bierkranz-zunft-kolsch.jpg",
           "filename": "Bierkranz Zunft-Kölsch.jpg",
           "caption": "Kölsch von der Erzquell Brauerei. Aufgenommen: 2006 mit Nikon Coolpix 2200",
           "alt": "Kölsch von der Erzquell Brauerei. Aufgenommen: 2006 mit Nikon Coolpix 2200",
@@ -42,10 +53,10 @@
             "Round arrangements",
             "Self-published work"
           ],
-          "smallPath": "_m/u/1/h/f/cologne-lowland-wk/bierkranz-zunft-kolsch-small.webp"
+          "smallPath": "_m/u/1/h/f/cologne-lowland-wp/bierkranz-zunft-kolsch-small.webp"
         },
         {
-          "path": "_m/u/1/h/f/cologne-lowland-wk/bad-honnef-drachenfels2.jpg",
+          "path": "_m/u/1/h/f/cologne-lowland-wp/bad-honnef-drachenfels2.jpg",
           "filename": "Bad Honnef Drachenfels2.JPG",
           "caption": "Bad Honnef seen from the Drachenfels (“Dragon's Rock”).",
           "alt": "Bad Honnef seen from the Drachenfels (“Dragon's Rock”).",
@@ -66,11 +77,11 @@
             "Views from Drachenfels-Plateau",
             "Views of Bad Honnef"
           ],
-          "mediumPath": "_m/u/1/h/f/cologne-lowland-wk/bad-honnef-drachenfels2-medium.webp",
-          "smallPath": "_m/u/1/h/f/cologne-lowland-wk/bad-honnef-drachenfels2-small.webp"
+          "mediumPath": "_m/u/1/h/f/cologne-lowland-wp/bad-honnef-drachenfels2-medium.webp",
+          "smallPath": "_m/u/1/h/f/cologne-lowland-wp/bad-honnef-drachenfels2-small.webp"
         },
         {
-          "path": "_m/u/1/h/f/cologne-lowland-wk/luftbild-siegburg.jpg",
+          "path": "_m/u/1/h/f/cologne-lowland-wp/luftbild-siegburg.jpg",
           "filename": "Luftbild Siegburg.jpg",
           "caption": "Aerial photograph of Siegburg",
           "alt": "Aerial photograph of Siegburg",
@@ -92,11 +103,11 @@
             "PD-self",
             "Self-published work"
           ],
-          "mediumPath": "_m/u/1/h/f/cologne-lowland-wk/luftbild-siegburg-medium.webp",
-          "smallPath": "_m/u/1/h/f/cologne-lowland-wk/luftbild-siegburg-small.webp"
+          "mediumPath": "_m/u/1/h/f/cologne-lowland-wp/luftbild-siegburg-medium.webp",
+          "smallPath": "_m/u/1/h/f/cologne-lowland-wp/luftbild-siegburg-small.webp"
         },
         {
-          "path": "_m/u/1/h/f/cologne-lowland-wk/k-stadtbahn-deutzerfh.jpg",
+          "path": "_m/u/1/h/f/cologne-lowland-wp/k-stadtbahn-deutzerfh.jpg",
           "filename": "K-stadtbahn-deutzerfh.jpg",
           "caption": "Station Deutzer Freiheit der Stadtbahn Köln",
           "alt": "Station Deutzer Freiheit der Stadtbahn Köln",
@@ -121,11 +132,11 @@
             "Stadtbahnhaltestelle Deutzer Freiheit",
             "Taken with Canon Digital IXUS 500"
           ],
-          "mediumPath": "_m/u/1/h/f/cologne-lowland-wk/k-stadtbahn-deutzerfh-medium.webp",
-          "smallPath": "_m/u/1/h/f/cologne-lowland-wk/k-stadtbahn-deutzerfh-small.webp"
+          "mediumPath": "_m/u/1/h/f/cologne-lowland-wp/k-stadtbahn-deutzerfh-medium.webp",
+          "smallPath": "_m/u/1/h/f/cologne-lowland-wp/k-stadtbahn-deutzerfh-small.webp"
         },
         {
-          "path": "_m/u/1/h/f/cologne-lowland-wk/bruhl-zentrum-mit-schloss.jpg",
+          "path": "_m/u/1/h/f/cologne-lowland-wp/bruhl-zentrum-mit-schloss.jpg",
           "filename": "Brühl-Zentrum-mit-Schloss.JPG",
           "caption": "Brühl, Zentrum mit Schloss",
           "alt": "Brühl, Zentrum mit Schloss",
@@ -151,11 +162,11 @@
             "Steinweg (Brühl, Rheinland)",
             "Taken with Canon EOS 450D"
           ],
-          "mediumPath": "_m/u/1/h/f/cologne-lowland-wk/bruhl-zentrum-mit-schloss-medium.webp",
-          "smallPath": "_m/u/1/h/f/cologne-lowland-wk/bruhl-zentrum-mit-schloss-small.webp"
+          "mediumPath": "_m/u/1/h/f/cologne-lowland-wp/bruhl-zentrum-mit-schloss-medium.webp",
+          "smallPath": "_m/u/1/h/f/cologne-lowland-wp/bruhl-zentrum-mit-schloss-small.webp"
         },
         {
-          "path": "_m/u/1/h/f/cologne-lowland-wk/altes-rathaus-bonn.jpg",
+          "path": "_m/u/1/h/f/cologne-lowland-wp/altes-rathaus-bonn.jpg",
           "filename": "Altes Rathaus Bonn.jpg",
           "caption": "the old city hall in Bonn, Germany (image stitching)",
           "alt": "the old city hall in Bonn, Germany (image stitching)",
@@ -177,11 +188,11 @@
             "Facade clocks in Bonn",
             "Featured pictures by Der Wolf im Wald"
           ],
-          "mediumPath": "_m/u/1/h/f/cologne-lowland-wk/altes-rathaus-bonn-medium.webp",
-          "smallPath": "_m/u/1/h/f/cologne-lowland-wk/altes-rathaus-bonn-small.webp"
+          "mediumPath": "_m/u/1/h/f/cologne-lowland-wp/altes-rathaus-bonn-medium.webp",
+          "smallPath": "_m/u/1/h/f/cologne-lowland-wp/altes-rathaus-bonn-small.webp"
         },
         {
-          "path": "_m/u/1/h/f/cologne-lowland-wk/bayarena-neu-2009.jpg",
+          "path": "_m/u/1/h/f/cologne-lowland-wp/bayarena-neu-2009.jpg",
           "filename": "BayArena neu 2009.jpg",
           "caption": "The BayArena, home stadium of Bayer 04 Leverkusen, in 2009 just after completion of the new roof",
           "alt": "The BayArena, home stadium of Bayer 04 Leverkusen, in 2009 just after completion of the new roof",
@@ -194,11 +205,11 @@
           "sourceType": "core",
           "sourceArticleId": "cologne-lowland-wk",
           "sourceGeohash4": "u1hf",
-          "mediumPath": "_m/u/1/h/f/cologne-lowland-wk/bayarena-neu-2009-medium.webp",
-          "smallPath": "_m/u/1/h/f/cologne-lowland-wk/bayarena-neu-2009-small.webp"
+          "mediumPath": "_m/u/1/h/f/cologne-lowland-wp/bayarena-neu-2009-medium.webp",
+          "smallPath": "_m/u/1/h/f/cologne-lowland-wp/bayarena-neu-2009-small.webp"
         },
         {
-          "path": "_m/u/1/h/f/cologne-lowland-wk/haus-der-geschichte-2009a.jpg",
+          "path": "_m/u/1/h/f/cologne-lowland-wp/haus-der-geschichte-2009a.jpg",
           "filename": "Haus der Geschichte 2009a.jpg",
           "caption": "\"Haus der Geschichte\" in Bonn, Berliner Mauer",
           "alt": "\"Haus der Geschichte\" in Bonn, Berliner Mauer",
@@ -211,11 +222,11 @@
           "sourceType": "core",
           "sourceArticleId": "cologne-lowland-wk",
           "sourceGeohash4": "u1hf",
-          "mediumPath": "_m/u/1/h/f/cologne-lowland-wk/haus-der-geschichte-2009a-medium.webp",
-          "smallPath": "_m/u/1/h/f/cologne-lowland-wk/haus-der-geschichte-2009a-small.webp"
+          "mediumPath": "_m/u/1/h/f/cologne-lowland-wp/haus-der-geschichte-2009a-medium.webp",
+          "smallPath": "_m/u/1/h/f/cologne-lowland-wp/haus-der-geschichte-2009a-small.webp"
         },
         {
-          "path": "_m/u/1/h/f/cologne-lowland-wk/konigswinter-aus-sudostlicher-.jpg",
+          "path": "_m/u/1/h/f/cologne-lowland-wp/konigswinter-aus-sudostlicher-.jpg",
           "filename": "Königswinter aus südöstlicher Richtung.JPG",
           "caption": "Königswinter aus südöstlicher Richtung",
           "alt": "Königswinter aus südöstlicher Richtung",
@@ -228,11 +239,11 @@
           "sourceType": "core",
           "sourceArticleId": "cologne-lowland-wk",
           "sourceGeohash4": "u1hf",
-          "mediumPath": "_m/u/1/h/f/cologne-lowland-wk/konigswinter-aus-sudostlicher--medium.webp",
-          "smallPath": "_m/u/1/h/f/cologne-lowland-wk/konigswinter-aus-sudostlicher--small.webp"
+          "mediumPath": "_m/u/1/h/f/cologne-lowland-wp/konigswinter-aus-sudostlicher--medium.webp",
+          "smallPath": "_m/u/1/h/f/cologne-lowland-wp/konigswinter-aus-sudostlicher--small.webp"
         },
         {
-          "path": "_m/u/1/h/f/cologne-lowland-wk/20130816-drachenfels.jpg",
+          "path": "_m/u/1/4/z/rhine-wp/20130816-drachenfels.jpg",
           "filename": "20130816 Drachenfels.jpg",
           "caption": "Drachenfels mountain with two castles on it: Schloss Drachenburg and Burg Drachenfels. View from Bonn Mehlem.",
           "alt": "Drachenfels mountain with two castles on it: Schloss Drachenburg and Burg Drachenfels. View from Bonn Mehlem.",
@@ -244,7 +255,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20130816_Drachenfels.jpg",
           "sourceType": "core",
           "sourceArticleId": "cologne-lowland-wk",
-          "sourceGeohash4": "u1hf"
+          "sourceGeohash4": "u1hf",
+          "mediumPath": "_m/u/1/4/z/rhine-wp/20130816-drachenfels-medium.webp",
+          "smallPath": "_m/u/1/4/z/rhine-wp/20130816-drachenfels-small.webp"
         },
         {
           "path": "_m/u/1/h/f/cologne-lowland-wk/schloss-birlinghoven-s.jpg",
@@ -264,7 +277,7 @@
           "smallPath": "_m/u/1/h/f/cologne-lowland-wk/schloss-birlinghoven-s-small.webp"
         },
         {
-          "path": "_m/u/1/h/f/cologne-lowland-wk/bruhl-germany-schloss-augustus.jpg",
+          "path": "_m/u/1/h/f/cologne-lowland-wp/bruhl-germany-schloss-augustus.jpg",
           "filename": "Brühl Germany Schloss-Augustusburg-01.jpg",
           "caption": "Brühl, Germany: Schloss Augustusburg",
           "alt": "Brühl, Germany: Schloss Augustusburg",
@@ -277,11 +290,11 @@
           "sourceType": "core",
           "sourceArticleId": "cologne-lowland-wk",
           "sourceGeohash4": "u1hf",
-          "mediumPath": "_m/u/1/h/f/cologne-lowland-wk/bruhl-germany-schloss-augustus-medium.webp",
-          "smallPath": "_m/u/1/h/f/cologne-lowland-wk/bruhl-germany-schloss-augustus-small.webp"
+          "mediumPath": "_m/u/1/h/f/cologne-lowland-wp/bruhl-germany-schloss-augustus-medium.webp",
+          "smallPath": "_m/u/1/h/f/cologne-lowland-wp/bruhl-germany-schloss-augustus-small.webp"
         },
         {
-          "path": "_m/u/1/h/f/cologne-lowland-wk/koln-bonn-airport-terminal-1-0.jpg",
+          "path": "_m/u/1/h/f/cologne-lowland-wp/koln-bonn-airport-terminal-1-0.jpg",
           "filename": "Köln Bonn Airport - Terminal 1-0266.jpg",
           "caption": "Cologne Bonn Airport - Terminal 1",
           "alt": "Cologne Bonn Airport - Terminal 1",
@@ -294,8 +307,8 @@
           "sourceType": "core",
           "sourceArticleId": "cologne-lowland-wk",
           "sourceGeohash4": "u1hf",
-          "mediumPath": "_m/u/1/h/f/cologne-lowland-wk/koln-bonn-airport-terminal-1-0-medium.webp",
-          "smallPath": "_m/u/1/h/f/cologne-lowland-wk/koln-bonn-airport-terminal-1-0-small.webp"
+          "mediumPath": "_m/u/1/h/f/cologne-lowland-wp/koln-bonn-airport-terminal-1-0-medium.webp",
+          "smallPath": "_m/u/1/h/f/cologne-lowland-wp/koln-bonn-airport-terminal-1-0-small.webp"
         },
         {
           "path": "_m/u/1/h/f/cologne-lowland-wk/schloss-morsbroich.jpg",
@@ -542,7 +555,8 @@
             "Night in Leverkusen",
             "Photos by User:Atamari (Leverkusen)",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/h/f/leverkusen-wp/bayer-ag-cross-2005-small.webp"
         },
         {
           "path": "_m/u/1/h/f/leverkusen-wp/bf-lev-mitte.jpg",
@@ -568,7 +582,9 @@
             "Photographs by A.Savin taken in 2007",
             "Taken with Canon Digital IXUS 500",
             "Train stations in Germany photographed in 2007"
-          ]
+          ],
+          "mediumPath": "_m/u/1/h/f/leverkusen-wp/bf-lev-mitte-medium.webp",
+          "smallPath": "_m/u/1/h/f/leverkusen-wp/bf-lev-mitte-small.webp"
         },
         {
           "path": "_m/u/1/h/f/leverkusen-wp/bf-lev-opladen.jpg",
@@ -595,7 +611,9 @@
             "Photographs by A.Savin taken in 2007",
             "Taken with Canon Digital IXUS 500",
             "Train stations in Germany photographed in 2007"
-          ]
+          ],
+          "mediumPath": "_m/u/1/h/f/leverkusen-wp/bf-lev-opladen-medium.webp",
+          "smallPath": "_m/u/1/h/f/leverkusen-wp/bf-lev-opladen-small.webp"
         },
         {
           "path": "_m/u/1/h/f/leverkusen-wp/leverkusen-schloss-morsbroich-.jpg",
@@ -618,7 +636,9 @@
             "Schloss Morsbroich",
             "Self-published work",
             "Taken with Ricoh Caplio G4"
-          ]
+          ],
+          "mediumPath": "_m/u/1/h/f/leverkusen-wp/leverkusen-schloss-morsbroich--medium.webp",
+          "smallPath": "_m/u/1/h/f/leverkusen-wp/leverkusen-schloss-morsbroich--small.webp"
         },
         {
           "path": "_m/u/1/h/f/leverkusen-wp/bayer-kreuz.jpg",
@@ -639,7 +659,9 @@
             "Files with coordinates missing SDC location of creation (51° N, 6° E)",
             "Images by H005",
             "PD-self"
-          ]
+          ],
+          "mediumPath": "_m/u/1/h/f/leverkusen-wp/bayer-kreuz-medium.webp",
+          "smallPath": "_m/u/1/h/f/leverkusen-wp/bayer-kreuz-small.webp"
         },
         {
           "path": "_m/u/1/h/f/leverkusen-wp/lev-rathaus-galerie-2010.jpg",
@@ -654,7 +676,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:LEV_Rathaus_Galerie_2010.jpg",
           "sourceType": "poi",
           "sourceArticleId": "leverkusen-wp",
-          "sourceGeohash4": "u1hf"
+          "sourceGeohash4": "u1hf",
+          "mediumPath": "_m/u/1/h/f/leverkusen-wp/lev-rathaus-galerie-2010-medium.webp",
+          "smallPath": "_m/u/1/h/f/leverkusen-wp/lev-rathaus-galerie-2010-small.webp"
         },
         {
           "path": "_m/u/1/h/f/leverkusen-wp/japanischer-garten-leverkusen5.jpg",
@@ -669,7 +693,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Japanischer_Garten_Leverkusen5.JPG",
           "sourceType": "poi",
           "sourceArticleId": "leverkusen-wp",
-          "sourceGeohash4": "u1hf"
+          "sourceGeohash4": "u1hf",
+          "mediumPath": "_m/u/1/h/f/leverkusen-wp/japanischer-garten-leverkusen5-medium.webp",
+          "smallPath": "_m/u/1/h/f/leverkusen-wp/japanischer-garten-leverkusen5-small.webp"
         },
         {
           "path": "_m/u/1/h/f/leverkusen-wp/bayer-ag-in-leverkusen-luftauf.jpg",
@@ -684,7 +710,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayer_AG_in_Leverkusen,_Luftaufnahme.JPG",
           "sourceType": "poi",
           "sourceArticleId": "leverkusen-wp",
-          "sourceGeohash4": "u1hf"
+          "sourceGeohash4": "u1hf",
+          "mediumPath": "_m/u/1/h/f/leverkusen-wp/bayer-ag-in-leverkusen-luftauf-medium.webp",
+          "smallPath": "_m/u/1/h/f/leverkusen-wp/bayer-ag-in-leverkusen-luftauf-small.webp"
         },
         {
           "path": "_m/u/1/h/c/rheinauhafen-wp/skulptur-rheinauhafen-koeln200.jpg",
@@ -707,7 +735,8 @@
             "Severinsbrücke",
             "Statue St. Nikolaus (Rheinauhafen Köln)",
             "Taken with Panasonic Lumix DMC-FZ7"
-          ]
+          ],
+          "smallPath": "_m/u/1/h/c/rheinauhafen-wp/skulptur-rheinauhafen-koeln200-small.webp"
         },
         {
           "path": "_m/u/1/h/c/rheinauhafen-wp/20231022-xl-0956-art-otel-colo.jpg",
@@ -730,7 +759,9 @@
             "Photographs taken on 2023-10-22",
             "Self-published work",
             "Uploaded with Mobile/Android"
-          ]
+          ],
+          "mediumPath": "_m/u/1/h/c/rheinauhafen-wp/20231022-xl-0956-art-otel-colo-medium.webp",
+          "smallPath": "_m/u/1/h/c/rheinauhafen-wp/20231022-xl-0956-art-otel-colo-small.webp"
         },
         {
           "path": "_m/u/1/j/4/bergisch-gladbach-wp/bf-bergisch-gladbach.jpg",
@@ -758,7 +789,8 @@
             "Photographs by A.Savin/Germany",
             "Photographs by A.Savin taken in 2006",
             "Taken with Sony DSC-P52"
-          ]
+          ],
+          "smallPath": "_m/u/1/j/4/bergisch-gladbach-wp/bf-bergisch-gladbach-small.webp"
         },
         {
           "path": "_m/u/1/j/4/bergisch-gladbach-wp/u-bahn-zugang-bensberg.jpg",
@@ -780,7 +812,9 @@
             "License migration redundant",
             "Self-published work",
             "U-Bahnhof Bensberg"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/4/bergisch-gladbach-wp/u-bahn-zugang-bensberg-medium.webp",
+          "smallPath": "_m/u/1/j/4/bergisch-gladbach-wp/u-bahn-zugang-bensberg-small.webp"
         },
         {
           "path": "_m/u/1/j/4/bergisch-gladbach-wp/bergisch-gladbach-wikivoyage-b.jpg",
@@ -808,7 +842,9 @@
             "Wikivoyage banners by A.Savin",
             "Wikivoyage banners by Wauteurz",
             "Wikivoyage banners of North Rhine-Westphalia"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/4/bergisch-gladbach-wp/bergisch-gladbach-wikivoyage-b-medium.webp",
+          "smallPath": "_m/u/1/j/4/bergisch-gladbach-wp/bergisch-gladbach-wikivoyage-b-small.webp"
         },
         {
           "path": "_m/u/1/j/1/siegburg-wp/picture-siegburg-servatius-chu.jpg",
@@ -834,7 +870,8 @@
             "St. Servatius, Siegburg",
             "Taken with Canon PowerShot S45",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/u/1/j/1/siegburg-wp/picture-siegburg-servatius-chu-small.webp"
         },
         {
           "path": "_m/u/1/j/1/siegburg-wp/2009-11-01-bahnhofsgebaeude-si.jpg",
@@ -858,7 +895,9 @@
             "Files with coordinates missing SDC location of creation (50° N, 7° E)",
             "Self-published work",
             "Taken with Canon Digital IXUS 80 IS"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/1/siegburg-wp/2009-11-01-bahnhofsgebaeude-si-medium.webp",
+          "smallPath": "_m/u/1/j/1/siegburg-wp/2009-11-01-bahnhofsgebaeude-si-small.webp"
         },
         {
           "path": "_m/u/1/j/1/siegburg-wp/blick-uber-den-markt-auf-st-se.jpg",
@@ -886,7 +925,9 @@
             "Self-published work",
             "St. Servatius, Siegburg",
             "Uploaded via Campaign:wlm-de-nrw"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/1/siegburg-wp/blick-uber-den-markt-auf-st-se-medium.webp",
+          "smallPath": "_m/u/1/j/1/siegburg-wp/blick-uber-den-markt-auf-st-se-small.webp"
         },
         {
           "path": "_m/u/1/j/1/siegburg-wp/siegburg-wikivoyage-banner.jpg",
@@ -912,7 +953,9 @@
             "License migration redundant",
             "Wikivoyage banners by Wauteurz",
             "Wikivoyage banners of North Rhine-Westphalia"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/1/siegburg-wp/siegburg-wikivoyage-banner-medium.webp",
+          "smallPath": "_m/u/1/j/1/siegburg-wp/siegburg-wikivoyage-banner-small.webp"
         },
         {
           "path": "_m/u/1/j/0/bonn-wp/beethovenhaus-2-db.jpg",
@@ -935,7 +978,9 @@
             "License migration completed",
             "Media missing infobox template",
             "Taken with Konica Minolta Dimage Z3"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/0/bonn-wp/beethovenhaus-2-db-medium.webp",
+          "smallPath": "_m/u/1/j/0/bonn-wp/beethovenhaus-2-db-small.webp"
         },
         {
           "path": "_m/u/1/j/0/bonn-wp/belagerung-bonn-1689-plan.jpg",
@@ -957,7 +1002,9 @@
             "License migration completed",
             "Old maps of Bonn",
             "Siege of Bonn (1689)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/0/bonn-wp/belagerung-bonn-1689-plan-medium.webp",
+          "smallPath": "_m/u/1/j/0/bonn-wp/belagerung-bonn-1689-plan-small.webp"
         },
         {
           "path": "_m/u/1/j/0/bonn-wp/bf-bn-beuel.jpg",
@@ -981,7 +1028,8 @@
             "Germany photographs taken on 2007-01-15",
             "Photographs by A.Savin/Germany",
             "Photographs by A.Savin taken in 2007"
-          ]
+          ],
+          "smallPath": "_m/u/1/j/0/bonn-wp/bf-bn-beuel-small.webp"
         },
         {
           "path": "_m/u/1/j/0/bonn-wp/beethovenhalle.jpg",
@@ -1006,7 +1054,8 @@
             "Rhine side of buildings in Bonn",
             "Self-published work",
             "Taken with Fujifilm FinePix F10"
-          ]
+          ],
+          "smallPath": "_m/u/1/j/0/bonn-wp/beethovenhalle-small.webp"
         },
         {
           "path": "_m/u/1/j/0/bonn-wp/2012-04-08-bonn-palais-schaumb.jpg",
@@ -1031,7 +1080,9 @@
             "Palais Schaumburg outside view",
             "Self-published work",
             "Taken with Canon Digital IXUS 80 IS"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/0/bonn-wp/2012-04-08-bonn-palais-schaumb-medium.webp",
+          "smallPath": "_m/u/1/j/0/bonn-wp/2012-04-08-bonn-palais-schaumb-small.webp"
         },
         {
           "path": "_m/u/1/j/0/bonn-wp/2013-04-21-kurt-schumacher-str.jpg",
@@ -1050,7 +1101,9 @@
           "categories": [
             "Bonn photographs taken on 2013-04-21",
             "CC-BY-SA-3.0-DE"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/0/bonn-wp/2013-04-21-kurt-schumacher-str-medium.webp",
+          "smallPath": "_m/u/1/j/0/bonn-wp/2013-04-21-kurt-schumacher-str-small.webp"
         },
         {
           "path": "_m/u/1/j/0/bonn-wp/20070404-bonn-akademischemuseu.jpg",
@@ -1065,7 +1118,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20070404_bonn_akademischemuseum04.jpg",
           "sourceType": "poi",
           "sourceArticleId": "bonn-wp",
-          "sourceGeohash4": "u1j0"
+          "sourceGeohash4": "u1j0",
+          "mediumPath": "_m/u/1/j/0/bonn-wp/20070404-bonn-akademischemuseu-medium.webp",
+          "smallPath": "_m/u/1/j/0/bonn-wp/20070404-bonn-akademischemuseu-small.webp"
         },
         {
           "path": "_m/u/1/j/0/bonn-wp/2013-09-01-heimatmuseum-beuel-.jpg",
@@ -1080,7 +1135,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2013-09-01_Heimatmuseum_Beuel,_Wagnergasse_2-4,_Bonn-Beuel-_Scheune_von_1662_IMG_0781.jpg",
           "sourceType": "poi",
           "sourceArticleId": "bonn-wp",
-          "sourceGeohash4": "u1j0"
+          "sourceGeohash4": "u1j0",
+          "mediumPath": "_m/u/1/j/0/bonn-wp/2013-09-01-heimatmuseum-beuel--medium.webp",
+          "smallPath": "_m/u/1/j/0/bonn-wp/2013-09-01-heimatmuseum-beuel--small.webp"
         },
         {
           "path": "_m/u/1/j/0/bonn-wp/2014-06-12-museum-koenig-bonn-.jpg",
@@ -1095,7 +1152,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014-06-12_Museum_Koenig,_Bonn_IMG_5509.jpg",
           "sourceType": "poi",
           "sourceArticleId": "bonn-wp",
-          "sourceGeohash4": "u1j0"
+          "sourceGeohash4": "u1j0",
+          "mediumPath": "_m/u/1/j/0/bonn-wp/2014-06-12-museum-koenig-bonn--medium.webp",
+          "smallPath": "_m/u/1/j/0/bonn-wp/2014-06-12-museum-koenig-bonn--small.webp"
         },
         {
           "path": "_m/u/1/j/0/bonn-wp/2014-07-02-wasserlichtfeldspie.jpg",
@@ -1110,7 +1169,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014-07-02_Wasserlichtfeldspiegel_(G._F._Ris,_1977)_am_Stadthaus_Bonn_IMG_2040.jpg",
           "sourceType": "poi",
           "sourceArticleId": "bonn-wp",
-          "sourceGeohash4": "u1j0"
+          "sourceGeohash4": "u1j0",
+          "mediumPath": "_m/u/1/j/0/bonn-wp/2014-07-02-wasserlichtfeldspie-medium.webp",
+          "smallPath": "_m/u/1/j/0/bonn-wp/2014-07-02-wasserlichtfeldspie-small.webp"
         },
         {
           "path": "_m/u/1/j/0/bonn-wp/beethoven-memorial-in-bonn.jpg",
@@ -1125,7 +1186,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beethoven_memorial_in_Bonn.JPG",
           "sourceType": "poi",
           "sourceArticleId": "bonn-wp",
-          "sourceGeohash4": "u1j0"
+          "sourceGeohash4": "u1j0",
+          "mediumPath": "_m/u/1/j/0/bonn-wp/beethoven-memorial-in-bonn-medium.webp",
+          "smallPath": "_m/u/1/j/0/bonn-wp/beethoven-memorial-in-bonn-small.webp"
         },
         {
           "path": "_m/u/1/j/0/bonn-wp/ahrweiler-ausweichsitz-der-ver.jpg",
@@ -1140,7 +1203,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ahrweiler_Ausweichsitz_der_Verfassungsorgane_der_Bundesrepublik_Deutschland_(14831342576).jpg",
           "sourceType": "poi",
           "sourceArticleId": "bonn-wp",
-          "sourceGeohash4": "u1j0"
+          "sourceGeohash4": "u1j0",
+          "mediumPath": "_m/u/1/j/0/bonn-wp/ahrweiler-ausweichsitz-der-ver-medium.webp",
+          "smallPath": "_m/u/1/j/0/bonn-wp/ahrweiler-ausweichsitz-der-ver-small.webp"
         }
       ],
       "narration": [

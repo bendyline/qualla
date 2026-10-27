@@ -20,11 +20,11 @@ When the crowd gathered in the stadium, security forces moved in and sealed the 
 
 ## The Bodies That Vanished
 
-In the days after, families went looking for their dead and could not find them. The junta first insisted only 56 had died, even as relatives reported that bodies had disappeared from morgues. Witnesses described presidential guards loading corpses into trucks, and human rights groups gathered photographs of victims lined along the streets as evidence that the real toll was far higher than the government would admit. Camara, for his part, told Radio France Internationale that the killers were "uncontrollable elements" he could not command, and denied giving any order to shoot. The denials did not survive scrutiny. The Human Rights Watch and a United Nations panel both concluded the violence likely amounted to crimes against humanity.
+In the days after, families went looking for their dead and could not find them. The junta first insisted only 56 had died, even as relatives reported that bodies had disappeared from morgues. Witnesses described presidential guards loading corpses into trucks, and human rights groups gathered photographs of victims lined along the streets as evidence that the real toll was far higher than the government would admit. Camara, for his part, told Radio France Internationale that the killers were uncontrolled elements he could not command, and denied giving any order to shoot. The denials did not survive scrutiny. The Human Rights Watch and a United Nations panel both concluded the violence likely amounted to crimes against humanity.
 
 ## Fifteen Years to a Verdict
 
-Justice came slowly, but it came. On the thirteenth anniversary of the massacre, 28 September 2022, a trial finally opened in Conakry. For nearly two years the court heard from more than a hundred victims, eleven accused, and over a dozen witnesses. On 31 July 2024, the court convicted Moussa Dadis Camara and seven others, reclassifying the charges as crimes against humanity, the first such prosecution in Guinea's history. Camara was sentenced to twenty years. The survivors and the families of the dead had waited a decade and a half to hear a court name the crime. For the people who filled that stadium believing they were safe, the verdict was an acknowledgment, long overdue, that they had been real, that they had mattered, and that what was done to them was a crime against humanity itself.
+Justice came slowly, but it came. On the thirteenth anniversary of the massacre, 28 September 2022, a trial finally opened in Conakry. For nearly two years the court heard from more than a hundred victims, eleven accused, and over a dozen witnesses. On 31 July 2024, the court convicted Moussa Dadis Camara and seven others, reclassifying the charges as crimes against humanity, the first such prosecution in Guinea's history. Camara was sentenced to twenty years. Less than eight months later, on 28 March 2025, Guinea's junta leader Mamady Doumbouya pardoned him, citing health grounds, and human rights groups condemned the decision. The survivors and the families of the dead had waited a decade and a half to hear a court name the crime. For the people who filled that stadium believing they were safe, the verdict was an acknowledgment, long overdue, that they had been real, that they had mattered, and that what was done to them was a crime against humanity itself.
 
 ## Flight Context
 
@@ -47,6 +47,9 @@ The massacre took place at the Stade du 28 Septembre in Conakry, Guinea, on the 
   - Lansana Conté died December 22, 2008
   - Six hours after announcement of his death, Camara declared the coup on state radio
   - Camara dissolved the government and suspended the constitution
+- [Review — 2026-10-12](https://www.fidh.org/en/region/Africa/guinea-conakry/the-28-september-2009-stadium-killings-trial-the-pardoning-of-moussa)
+  - Added that Camara was pardoned on 28 March 2025 by Mamady Doumbouya on health grounds, which the verdict passage had omitted: FIDH's 1 April 2025 statement (with OGDH and AVIPA) records the pardon, the health grounds and the groups' 'profound indignation and incomprehension', and Reuters (republished by Citizen Digital, 30 March 2025) reports the pardon for 'health reasons'
+  - Camara's remark to Radio France Internationale is now reported speech ('uncontrolled elements') instead of a verbatim quotation, because the English wording differs between sources and the original could not be checked
 
 ## Review Notes
 

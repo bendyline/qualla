@@ -36,7 +36,7 @@ The former Stalag X-B lies at approximately 53.3996N, 9.1098E, on flat farmland 
 
 ## Sources
 
-- [Stalag X-B - Wikipedia](https://en.wikipedia.org/wiki/Stalag_X-B)
+- [Stalag X-B - Wikipedia](https://en.wikipedia.org/?curid=6875438)
   - POW camp near Sandbostel, Lower Saxony; death estimates range from 8,000 to 50,000
   - Site used from 1932 as a Lutheran church work camp for unemployed single men; taken over by the Reichsarbeitsdienst in 1933 and later used as a Nazi internment camp
   - Camp built from September 1939 for Wehrkreis X between Sandbostel and the labour camp on the Teufelsmoor; around 150 huts; Sandbostel 9 km south of Bremervörde and 43 km northeast of Bremen

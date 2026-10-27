@@ -3,30 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/j/m/aviemore-wk/hero.jpg",
-        "filename": "Aviemore stone circle 2.jpg",
-        "caption": "Aviemore ring cairn and stone circle, built an estimated 4000 years ago. Part of it has been covered with soil for protection.",
-        "alt": "Aviemore ring cairn and stone circle, built an estimated 4000 years ago. Part of it has been covered with soil for protection.",
-        "width": 4096,
-        "height": 3072,
+        "path": "_m/g/f/j/m/aviemore-wk/aviemore.jpg",
+        "filename": "Aviemore.jpg",
+        "caption": "Aviemore from Carn Dearg Mor",
+        "alt": "Aviemore from Carn Dearg Mor",
+        "width": 640,
+        "height": 480,
         "mimeType": "image/jpeg",
-        "license": "CC0",
-        "artist": "Mx. Granger",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aviemore_stone_circle_2.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "John G Burns",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aviemore.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "aviemore-wk",
         "sourceGeohash4": "gfjm",
         "categories": [
           "Aviemore",
-          "CC-Zero",
-          "Files with coordinates missing SDC location of creation",
-          "Self-published work",
-          "Stone circles in Scotland"
-        ]
+          "CC-BY-SA-2.0",
+          "Images from Geograph Britain and Ireland",
+          "Information field template with formatting",
+          "May 2001 in Highland (council area)",
+          "Taken with Panasonic PV-DC2090",
+          "United Kingdom photographs taken on 2001-05-19"
+        ],
+        "smallPath": "_m/g/f/j/m/aviemore-wk/aviemore-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/j/m/aviemore-wk/i-created-file-myself.jpg",
+          "path": "_m/g/f/j/k/cairngorm-mountain-railway-wp/i-created-file-myself.jpg",
           "filename": "Cairn gorm funicular.jpg",
           "caption": "I created this file myself.",
           "alt": "I created this file myself.",
@@ -43,10 +46,11 @@
             "Abtsche Weiche",
             "Cairngorm Mountain Railway",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/k/cairngorm-mountain-railway-wp/i-created-file-myself-small.webp"
         },
         {
-          "path": "_m/g/f/j/m/aviemore-wk/strathspey-railway-aviemore.jpg",
+          "path": "_m/tpc/av/ie/mo/re/aviemore/strathspey-railway-aviemore.jpg",
           "filename": "Strathspey Railway Aviemore.jpg",
           "caption": "Train pulls away from Aviemore Station en route for Boat of Garten. The hill of Craigellachie is the background.",
           "alt": "Train pulls away from Aviemore Station en route for Boat of Garten. The hill of Craigellachie is the background.",
@@ -70,7 +74,8 @@
             "Taken with Fujifilm FinePix A330",
             "Trains on the Strathspey Railway (preserved)",
             "United Kingdom photographs taken on 2005-10-12"
-          ]
+          ],
+          "smallPath": "_m/tpc/av/ie/mo/re/aviemore/strathspey-railway-aviemore-small.webp"
         },
         {
           "path": "_m/g/f/j/m/aviemore-wk/aviemore.jpg",
@@ -477,7 +482,9 @@
             "Sculptures in Highland council area",
             "Self-published work",
             "Taken with Nikon D90"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/m/aviemore-wp/frank-bruce-sculpture-park-the-medium.webp",
+          "smallPath": "_m/g/f/j/m/aviemore-wp/frank-bruce-sculpture-park-the-small.webp"
         },
         {
           "path": "_m/g/f/j/m/aviemore-wp/aviemore-stone-circle-1.jpg",
@@ -499,7 +506,9 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work",
             "Stone circles in Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/m/aviemore-wp/aviemore-stone-circle-1-medium.webp",
+          "smallPath": "_m/g/f/j/m/aviemore-wp/aviemore-stone-circle-1-small.webp"
         },
         {
           "path": "_m/x/n/0/x/toei-kyoto-studio-park-wp/super-star-freak-out-k.jpg",
@@ -524,7 +533,8 @@
             "Pictures by Solipsist",
             "Self-published work",
             "Speed (ride)"
-          ]
+          ],
+          "smallPath": "_m/x/n/0/x/toei-kyoto-studio-park-wp/super-star-freak-out-k-small.webp"
         },
         {
           "path": "_m/g/f/j/m/carrbridge-wp/duthil-old-parish-church-and-c.jpg",
@@ -544,7 +554,9 @@
             "CC-BY-SA-4.0",
             "Duthil Old Parish Church and Churchyard",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/m/carrbridge-wp/duthil-old-parish-church-and-c-medium.webp",
+          "smallPath": "_m/g/f/j/m/carrbridge-wp/duthil-old-parish-church-and-c-small.webp"
         },
         {
           "path": "_m/g/f/j/m/carrbridge-wp/loch-garten-2.jpg",
@@ -567,7 +579,9 @@
             "Photographs taken on 2020-08-19",
             "Self-published work",
             "Uploaded with Mobile/Android"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/m/carrbridge-wp/loch-garten-2-medium.webp",
+          "smallPath": "_m/g/f/j/m/carrbridge-wp/loch-garten-2-small.webp"
         },
         {
           "path": "_m/g/f/j/m/carrbridge-wp/loch-garten-osprey-geograph-or.jpg",
@@ -587,7 +601,9 @@
             "Abernethy and Kincardine",
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/m/carrbridge-wp/loch-garten-osprey-geograph-or-medium.webp",
+          "smallPath": "_m/g/f/j/m/carrbridge-wp/loch-garten-osprey-geograph-or-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/braemar-from-morrone.jpg",
@@ -612,7 +628,8 @@
             "Mar Lodge Estate",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/braemar-from-morrone-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/grantown-on-spey-winter.jpg",
@@ -638,7 +655,9 @@
             "Snow in Highland council area",
             "United Kingdom photographs taken on 2006-03-05",
             "Winter in Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/k/cairngorms-national-park-wp/grantown-on-spey-winter-medium.webp",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/grantown-on-spey-winter-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/carl-haag-morning-in-the-highl.jpg",
@@ -652,7 +671,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carl_Haag_-_Morning_in_the_Highlands-_the_royal_family_ascending_Lochnagar_-_Google_Art_Project.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": "gfjk"
+          "sourceGeohash4": "gfjk",
+          "mediumPath": "_m/g/f/j/k/cairngorms-national-park-wp/carl-haag-morning-in-the-highl-medium.webp",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/carl-haag-morning-in-the-highl-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr.jpg",
@@ -667,7 +688,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blair_Atholl_Post_Office_-_geograph_-_3206161-by-Andrew-Abbott.jpg",
           "sourceType": "poi",
           "sourceArticleId": "perthshire-wp",
-          "sourceGeohash4": "gfjk"
+          "sourceGeohash4": "gfjk",
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/ski-slopes-on-cairngorm-geogra.jpg",
@@ -682,7 +705,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ski_Slopes_On_Cairngorm_-_geograph.org.uk_-_2280829.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": "gfjk"
+          "sourceGeohash4": "gfjk",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/ski-slopes-on-cairngorm-geogra-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/highland-cattle-at-kingussie-w.jpg",
@@ -697,7 +721,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Highland_Cattle_at_Kingussie_Wildlife_Park_-_geograph.org.uk_-_2398705.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": "gfjk"
+          "sourceGeohash4": "gfjk",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/highland-cattle-at-kingussie-w-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/cairngorms-national-park-pairc.jpg",
@@ -712,7 +737,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairngorms_National_Park_(P%C3%A0irc_N%C3%A0iseanta_a%27_Mhonaidh_Ruaidh)_28.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": "gfjk"
+          "sourceGeohash4": "gfjk",
+          "mediumPath": "_m/g/f/j/k/cairngorms-national-park-wp/cairngorms-national-park-pairc-medium.webp",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/cairngorms-national-park-pairc-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/balmoral-castle-cropped.jpg",
@@ -727,7 +754,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balmoral_Castle_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": "gfjk"
+          "sourceGeohash4": "gfjk",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/balmoral-castle-cropped-small.webp"
         },
         {
           "path": "_m/g/f/j/h/kingussie-wp/ruthven-barracks.jpg",
@@ -755,7 +783,8 @@
             "Ruthven Barracks",
             "Self-published work",
             "Taken with Casio QV-2300UX"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/h/kingussie-wp/ruthven-barracks-small.webp"
         },
         {
           "path": "_m/g/f/j/h/kingussie-wp/kingussie-banner-ruthven-barra.jpg",
@@ -778,7 +807,9 @@
             "Ruthven Barracks",
             "Self-published work",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/h/kingussie-wp/kingussie-banner-ruthven-barra-medium.webp",
+          "smallPath": "_m/g/f/j/h/kingussie-wp/kingussie-banner-ruthven-barra-small.webp"
         },
         {
           "path": "_m/g/f/j/h/kingussie-wp/2011-inverness-shire-highland-.jpg",
@@ -800,7 +831,9 @@
             "Highland Folk Museum",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/h/kingussie-wp/2011-inverness-shire-highland--medium.webp",
+          "smallPath": "_m/g/f/j/h/kingussie-wp/2011-inverness-shire-highland--small.webp"
         },
         {
           "path": "_m/g/f/j/h/kingussie-wp/path-to-kingussie-geograph-org.jpg",
@@ -821,7 +854,8 @@
             "Images from Geograph Britain and Ireland",
             "Kingussie and Insh",
             "Walking women seen from behind on forest paths"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/h/kingussie-wp/path-to-kingussie-geograph-org-small.webp"
         },
         {
           "path": "_m/g/f/j/h/kingussie-wp/quiet-afternoon-at-kingussie-s.jpg",
@@ -841,7 +875,9 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Kingussie railway station"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/h/kingussie-wp/quiet-afternoon-at-kingussie-s-medium.webp",
+          "smallPath": "_m/g/f/j/h/kingussie-wp/quiet-afternoon-at-kingussie-s-small.webp"
         },
         {
           "path": "_m/g/f/j/q/grantown-on-spey-wp/spey-bridge-grantown-on-spey-g.jpg",
@@ -861,7 +897,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "New Spey Bridge, Speybridge"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/q/grantown-on-spey-wp/spey-bridge-grantown-on-spey-g-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden.jpg",
@@ -885,7 +922,9 @@
             "PD-Art (PD-old-auto-expired)",
             "PD-old-100-expired",
             "Paintings without Wikidata item"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden-small.webp"
         },
         {
           "path": "_m/g/f/j/n/culloden-viaduct-wp/culloden-banner-viaduct.jpg",
@@ -916,7 +955,9 @@
             "Panoramics of bridges in Scotland",
             "Self-published work",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/n/culloden-viaduct-wp/culloden-banner-viaduct-medium.webp",
+          "smallPath": "_m/g/f/j/n/culloden-viaduct-wp/culloden-banner-viaduct-small.webp"
         },
         {
           "path": "_m/g/f/j/p/culloden-wk/cawdor-castle-drawbridge-geogr.jpg",
@@ -936,7 +977,8 @@
             "CC-BY-SA-2.0",
             "Cawdor Castle",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/p/culloden-wk/cawdor-castle-drawbridge-geogr-small.webp"
         },
         {
           "path": "_m/g/f/h/z/inverness-wp/invernesscastle.jpg",
@@ -959,7 +1001,8 @@
             "River Ness",
             "Self-published work",
             "Taken with Sony DCR-TRV740"
-          ]
+          ],
+          "smallPath": "_m/g/f/h/z/inverness-wp/invernesscastle-small.webp"
         },
         {
           "path": "_m/g/f/h/z/inverness-wp/kessock-bridge-2.jpg",
@@ -980,7 +1023,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Kessock Bridge",
             "Taken with Canon EOS 10D"
-          ]
+          ],
+          "smallPath": "_m/g/f/h/z/inverness-wp/kessock-bridge-2-small.webp"
         },
         {
           "path": "_m/g/f/h/y/inverness-castle-wp/hero.jpg",
@@ -1005,7 +1049,9 @@
             "License migration redundant",
             "Scotland photographs taken on 2014-06-26",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/y/inverness-castle-wp/hero-medium.webp",
+          "smallPath": "_m/g/f/h/y/inverness-castle-wp/hero-small.webp"
         },
         {
           "path": "_m/g/f/h/z/inverness-wp/armed-forces-day-parade-to-inv.jpg",
@@ -1024,7 +1070,9 @@
           "categories": [
             "CC-BY-2.0",
             "Files with coordinates missing SDC location of creation"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/z/inverness-wp/armed-forces-day-parade-to-inv-medium.webp",
+          "smallPath": "_m/g/f/h/z/inverness-wp/armed-forces-day-parade-to-inv-small.webp"
         },
         {
           "path": "_m/g/f/h/z/inverness-wp/inverness-huntly-street-st-mar.jpg",
@@ -1039,7 +1087,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inverness,_Huntly_Street,_St_Mary%27s_Roman_Catholic_Church_-_20140424185438.jpg",
           "sourceType": "poi",
           "sourceArticleId": "inverness-wp",
-          "sourceGeohash4": "gfhz"
+          "sourceGeohash4": "gfhz",
+          "mediumPath": "_m/g/f/h/z/inverness-wp/inverness-huntly-street-st-mar-medium.webp",
+          "smallPath": "_m/g/f/h/z/inverness-wp/inverness-huntly-street-st-mar-small.webp"
         },
         {
           "path": "_m/g/f/h/z/inverness-wp/inverness-airport-2019.jpg",
@@ -1054,7 +1104,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inverness_Airport_2019.jpg",
           "sourceType": "poi",
           "sourceArticleId": "inverness-wp",
-          "sourceGeohash4": "gfhz"
+          "sourceGeohash4": "gfhz",
+          "mediumPath": "_m/g/f/h/z/inverness-wp/inverness-airport-2019-medium.webp",
+          "smallPath": "_m/g/f/h/z/inverness-wp/inverness-airport-2019-small.webp"
         },
         {
           "path": "_m/g/f/h/z/inverness-wp/balnain-house-27448686526.jpg",
@@ -1069,7 +1121,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balnain_House_(27448686526).jpg",
           "sourceType": "poi",
           "sourceArticleId": "inverness-wp",
-          "sourceGeohash4": "gfhz"
+          "sourceGeohash4": "gfhz",
+          "mediumPath": "_m/g/f/h/z/inverness-wp/balnain-house-27448686526-medium.webp",
+          "smallPath": "_m/g/f/h/z/inverness-wp/balnain-house-27448686526-small.webp"
         },
         {
           "path": "_m/g/f/h/z/inverness-wp/inverness-cathedral-2687563719.jpg",
@@ -1084,7 +1138,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inverness_Cathedral_(26875637193).jpg",
           "sourceType": "poi",
           "sourceArticleId": "inverness-wp",
-          "sourceGeohash4": "gfhz"
+          "sourceGeohash4": "gfhz",
+          "mediumPath": "_m/g/f/h/z/inverness-wp/inverness-cathedral-2687563719-medium.webp",
+          "smallPath": "_m/g/f/h/z/inverness-wp/inverness-cathedral-2687563719-small.webp"
         },
         {
           "path": "_m/g/f/h/z/inverness-wp/inverness-img-3420-14723101918.jpg",
@@ -1099,7 +1155,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inverness_IMG_3420_(14723101918).jpg",
           "sourceType": "poi",
           "sourceArticleId": "inverness-wp",
-          "sourceGeohash4": "gfhz"
+          "sourceGeohash4": "gfhz",
+          "mediumPath": "_m/g/f/h/z/inverness-wp/inverness-img-3420-14723101918-medium.webp",
+          "smallPath": "_m/g/f/h/z/inverness-wp/inverness-img-3420-14723101918-small.webp"
         },
         {
           "path": "_m/g/f/h/z/inverness-wp/inverness-railway-station-img-.jpg",
@@ -1114,7 +1172,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inverness_railway_station_IMG_3429_(14723150877).jpg",
           "sourceType": "poi",
           "sourceArticleId": "inverness-wp",
-          "sourceGeohash4": "gfhz"
+          "sourceGeohash4": "gfhz",
+          "mediumPath": "_m/g/f/h/z/inverness-wp/inverness-railway-station-img--medium.webp",
+          "smallPath": "_m/g/f/h/z/inverness-wp/inverness-railway-station-img--small.webp"
         },
         {
           "path": "_m/g/f/h/z/inverness-wp/inverness-cathedral.jpg",
@@ -1129,7 +1189,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inverness_Cathedral.jpg",
           "sourceType": "poi",
           "sourceArticleId": "inverness-wp",
-          "sourceGeohash4": "gfhz"
+          "sourceGeohash4": "gfhz",
+          "mediumPath": "_m/g/f/h/z/inverness-wp/inverness-cathedral-medium.webp",
+          "smallPath": "_m/g/f/h/z/inverness-wp/inverness-cathedral-small.webp"
         },
         {
           "path": "_m/g/f/j/6/pitlochry-wp/pitlochry-fish-ladder.jpg",
@@ -1152,7 +1214,9 @@
             "Pitlochry fish ladder",
             "Self-published work",
             "Taken with Olympus E-10"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/6/pitlochry-wp/pitlochry-fish-ladder-medium.webp",
+          "smallPath": "_m/g/f/j/6/pitlochry-wp/pitlochry-fish-ladder-small.webp"
         },
         {
           "path": "_m/g/f/j/6/pitlochry-wp/edradour-whiskybrennerei-pitlo.jpg",
@@ -1177,7 +1241,9 @@
             "Self-published work",
             "Taken with Sony DSC-T100",
             "User-created GFDL images"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/6/pitlochry-wp/edradour-whiskybrennerei-pitlo-medium.webp",
+          "smallPath": "_m/g/f/j/6/pitlochry-wp/edradour-whiskybrennerei-pitlo-small.webp"
         },
         {
           "path": "_m/g/f/j/6/pitlochry-wp/northern-constabulary-at-pitlo.jpg",
@@ -1200,7 +1266,9 @@
             "Flickr images reviewed by FlickreviewR 2",
             "Northern Constabulary Pipe Band",
             "Photographs by conner395"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/6/pitlochry-wp/northern-constabulary-at-pitlo-medium.webp",
+          "smallPath": "_m/g/f/j/6/pitlochry-wp/northern-constabulary-at-pitlo-small.webp"
         },
         {
           "path": "_m/g/f/j/6/pitlochry-wp/1878-wurde-das-atholl-palace-h.jpg",
@@ -1220,7 +1288,9 @@
             "Atholl Palace Hotel",
             "CC-BY-SA-4.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/6/pitlochry-wp/1878-wurde-das-atholl-palace-h-medium.webp",
+          "smallPath": "_m/g/f/j/6/pitlochry-wp/1878-wurde-das-atholl-palace-h-small.webp"
         },
         {
           "path": "_m/g/f/j/6/pitlochry-wp/rosemount-hotel-in-pitlochry-s.jpg",
@@ -1240,7 +1310,8 @@
             "CC-BY-4.0",
             "Pitlochry",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/6/pitlochry-wp/rosemount-hotel-in-pitlochry-s-small.webp"
         },
         {
           "path": "_m/g/f/h/s/the-great-glen-and-strathspey-wk/scotland-glencoe.jpg",
@@ -1269,7 +1340,9 @@
             "Stob Coire nan Lochan",
             "Taken with Minolta Dimage Xt",
             "User:Wojsyl/Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/s/the-great-glen-and-strathspey-wk/scotland-glencoe-medium.webp",
+          "smallPath": "_m/g/f/h/s/the-great-glen-and-strathspey-wk/scotland-glencoe-small.webp"
         },
         {
           "path": "_m/g/f/h/5/glenfinnan-monument-wp/glenfinnan-bay.jpg",
@@ -1294,7 +1367,9 @@
             "PD-author",
             "Scotland photographs taken on 2004-02-14",
             "Taken with Fujifilm FinePix M603"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/5/glenfinnan-monument-wp/glenfinnan-bay-medium.webp",
+          "smallPath": "_m/g/f/h/5/glenfinnan-monument-wp/glenfinnan-bay-small.webp"
         },
         {
           "path": "_m/g/f/j/n/battle-of-culloden-wp/culloden-battlefield-geograph--1.jpg",
@@ -1309,7 +1384,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Culloden_battlefield_-_geograph.org.uk_-_1800883.jpg",
           "sourceType": "poi",
           "sourceArticleId": "battle-of-culloden-wp",
-          "sourceGeohash4": "gfhs"
+          "sourceGeohash4": "gfhs",
+          "smallPath": "_m/g/f/j/n/battle-of-culloden-wp/culloden-battlefield-geograph--1-small.webp"
         },
         {
           "path": "_m/tpc/lo/ch/-n/es/loch-ness/2018-07-11-schottland-39.jpg",
@@ -1324,7 +1400,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2018_07_11_Schottland_(39).jpg",
           "sourceType": "poi",
           "sourceArticleId": "loch-ness",
-          "sourceGeohash4": "gfhs"
+          "sourceGeohash4": "gfhs",
+          "mediumPath": "_m/tpc/lo/ch/-n/es/loch-ness/2018-07-11-schottland-39-medium.webp",
+          "smallPath": "_m/tpc/lo/ch/-n/es/loch-ness/2018-07-11-schottland-39-small.webp"
         },
         {
           "path": "_m/g/f/h/s/the-great-glen-and-strathspey-wk/jacobite-on-glenfinnan-viaduct.jpg",
@@ -1339,7 +1417,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacobite_on_Glenfinnan_Viaduct_1_20211024.jpg",
           "sourceType": "poi",
           "sourceArticleId": "the-great-glen-and-strathspey-wk",
-          "sourceGeohash4": "gfhs"
+          "sourceGeohash4": "gfhs",
+          "mediumPath": "_m/g/f/h/s/the-great-glen-and-strathspey-wk/jacobite-on-glenfinnan-viaduct-medium.webp",
+          "smallPath": "_m/g/f/h/s/the-great-glen-and-strathspey-wk/jacobite-on-glenfinnan-viaduct-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-wk/elgin-cathedral-2.jpg",
@@ -1364,7 +1444,9 @@
             "License migration completed",
             "Self-published work",
             "Taken with Kodak EasyShare Z740"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/x/elgin-wk/elgin-cathedral-2-medium.webp",
+          "smallPath": "_m/g/f/j/x/elgin-wk/elgin-cathedral-2-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-wk/glen-moray-speyside-single-mal.jpg",
@@ -1387,7 +1469,8 @@
             "License migration completed",
             "Self-published work",
             "Taken with Canon EOS 300D"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/x/elgin-wk/glen-moray-speyside-single-mal-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-wk/glen-moray-distillery.jpg",
@@ -1410,7 +1493,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Traveler Super Slim XS80"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/x/elgin-wk/glen-moray-distillery-medium.webp",
+          "smallPath": "_m/g/f/j/x/elgin-wk/glen-moray-distillery-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-wk/elgin-cathedral-view-from-rear.jpg",
@@ -1429,7 +1514,9 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Elgin Cathedral"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/x/elgin-wk/elgin-cathedral-view-from-rear-medium.webp",
+          "smallPath": "_m/g/f/j/x/elgin-wk/elgin-cathedral-view-from-rear-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-wk/elgin-museum-moray.jpg",
@@ -1444,7 +1531,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elgin_museum_Moray.JPG",
           "sourceType": "poi",
           "sourceArticleId": "elgin-wk",
-          "sourceGeohash4": "gfjx"
+          "sourceGeohash4": "gfjx",
+          "mediumPath": "_m/g/f/j/x/elgin-wk/elgin-museum-moray-medium.webp",
+          "smallPath": "_m/g/f/j/x/elgin-wk/elgin-museum-moray-small.webp"
         },
         {
           "path": "_m/g/f/j/w/moray-wk/elgin-cathedral-from-newmill-r.jpg",
@@ -1459,7 +1548,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elgin_Cathedral_from_Newmill_Road.jpg",
           "sourceType": "poi",
           "sourceArticleId": "moray-wk",
-          "sourceGeohash4": "gfjx"
+          "sourceGeohash4": "gfjx",
+          "mediumPath": "_m/g/f/j/w/moray-wk/elgin-cathedral-from-newmill-r-medium.webp",
+          "smallPath": "_m/g/f/j/w/moray-wk/elgin-cathedral-from-newmill-r-small.webp"
         }
       ],
       "narration": [

@@ -1,5 +1,26 @@
 {
   "articleId": "shawnee-national-forest-wk",
+  "narration": {
+    "files": [
+      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-flight-context.mp3",
+      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-intro.mp3",
+      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-geology.mp3",
+      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-garden.mp3",
+      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-hidden.mp3",
+      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-access.mp3",
+      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-visiting-the-shawnee.mp3"
+    ],
+    "durations": {
+      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-flight-context.mp3": 51.9250416,
+      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-intro.mp3": 50.4795,
+      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-geology.mp3": 44.246375,
+      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-garden.mp3": 37.0084166,
+      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-hidden.mp3": 45.87875,
+      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-access.mp3": 35.90275,
+      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-visiting-the-shawnee.mp3": 48.8483333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
   "hero": {
     "filename": "Garden of the Gods 1.JPG",
     "title": "File:Garden of the Gods 1.JPG",
@@ -531,26 +552,5 @@
         "aerialBonus": 0
       }
     }
-  ],
-  "narration": {
-    "files": [
-      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-flight-context.mp3",
-      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-intro.mp3",
-      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-geology.mp3",
-      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-garden.mp3",
-      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-hidden.mp3",
-      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-access.mp3",
-      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-visiting-the-shawnee.mp3"
-    ],
-    "durations": {
-      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-flight-context.mp3": 51.9250416,
-      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-intro.mp3": 50.4795,
-      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-geology.mp3": 44.246375,
-      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-garden.mp3": 37.0084166,
-      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-hidden.mp3": 45.87875,
-      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-the-access.mp3": 35.90275,
-      "dn8v-garden-of-the-gods-illinoiss-hidden-rock-garden-visiting-the-shawnee.mp3": 48.8483333
-    },
-    "voice": "en-US-Ava3:DragonHDLatestNeural"
-  }
+  ]
 }

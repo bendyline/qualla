@@ -3,27 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/x/4/2/santana-group-wp/hero.jpg",
-        "filename": "Araripe Basin - lake level cycles - Crato, Ipubi and Romualdo Formations.jpg",
-        "caption": "Cyclicity of the Santana Group in the Araripe Basin, NE Brazil",
-        "alt": "Cyclicity of the Santana Group in the Araripe Basin, NE Brazil",
-        "width": 878,
-        "height": 691,
+        "path": "_m/6/x/4/2/santana-group-wp/fossil-feathers-dastil.jpg",
+        "filename": "Santana Group - fossilized feathers and Dastilbe fossil.jpg",
+        "caption": "Fossil feathers and Dastilbe fossil of the Santana Group, Araripe Basin, NE Brazil",
+        "alt": "Fossil feathers and Dastilbe fossil of the Santana Group, Araripe Basin, NE Brazil",
+        "width": 1071,
+        "height": 754,
         "mimeType": "image/jpeg",
-        "license": "CC BY 4.0",
-        "artist": "Fabin et al., 2018",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Araripe_Basin_-_lake_level_cycles_-_Crato,_Ipubi_and_Romualdo_Formations.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Prado et al., 2016",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santana_Group_-_fossilized_feathers_and_Dastilbe_fossil.jpg",
         "sourceType": "core",
         "sourceArticleId": "santana-group-wp",
         "sourceGeohash4": "6x42",
         "categories": [
-          "Academia Brasileira de Ciências",
-          "CC-BY-4.0"
-        ]
+          "Araripe Basin",
+          "CC-BY-SA-4.0",
+          "Dastilbe fossils",
+          "Feathers fossils"
+        ],
+        "smallPath": "_m/6/x/4/2/santana-group-wp/fossil-feathers-dastil-small.webp"
       },
       "images": [
         {
-          "path": "_m/6/x/4/2/santana-group-wp/geologic-map-araripe-b.jpg",
+          "path": "_m/6/x/4/2/ipubi-formation-wp/geologic-map-araripe-b.jpg",
           "filename": "Araripe Basin map - formations and resources.jpg",
           "caption": "Geologic map of the Araripe Basin in NE Brazil",
           "alt": "Geologic map of the Araripe Basin in NE Brazil",
@@ -42,10 +45,11 @@
             "Geological maps of Brazil",
             "Maps of structural basins",
             "Structural basins of South America"
-          ]
+          ],
+          "smallPath": "_m/6/x/4/2/ipubi-formation-wp/geologic-map-araripe-b-small.webp"
         },
         {
-          "path": "_m/6/x/4/2/santana-group-wp/outcrop-ipubi-romualdo.jpg",
+          "path": "_m/6/x/4/2/ipubi-formation-wp/outcrop-ipubi-romualdo.jpg",
           "filename": "Ipubi and Romualdo Formations - outcrop.jpg",
           "caption": "Outcrop of the Ipubi and Romualdo Formations, Santana Group, Araripe Basin, NE Brazil",
           "alt": "Outcrop of the Ipubi and Romualdo Formations, Santana Group, Araripe Basin, NE Brazil",
@@ -64,7 +68,8 @@
             "Files from external sources with reviewed licenses",
             "Outcrops in Brazil",
             "Santana Formation"
-          ]
+          ],
+          "smallPath": "_m/6/x/4/2/ipubi-formation-wp/outcrop-ipubi-romualdo-small.webp"
         },
         {
           "path": "_m/6/x/4/2/santana-group-wp/fossil-feathers-dastil.jpg",

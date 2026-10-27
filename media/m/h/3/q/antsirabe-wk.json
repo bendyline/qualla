@@ -3,29 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/m/h/3/q/antsirabe-wk/hero.jpg",
-        "filename": "Antsirabe bahnhof.jpg",
-        "caption": "Bahnhof von Antsirabe",
-        "alt": "Bahnhof von Antsirabe",
-        "width": 2896,
-        "height": 1944,
+        "path": "_m/m/h/3/q/antsirabe-wk/piscine-antsirabe-2012.jpg",
+        "filename": "Piscine Antsirabe 2012.jpg",
+        "caption": "Antsirabe swimming pool",
+        "alt": "Antsirabe swimming pool",
+        "width": 4928,
+        "height": 3264,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "M worm",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antsirabe_bahnhof.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "HoneyGaLe",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piscine_Antsirabe_2012.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "antsirabe-wk",
         "sourceGeohash4": "mh3q",
         "categories": [
-          "Antsirabe railway station",
-          "Files with coordinates missing SDC location of creation",
-          "Images with annotations",
-          "PD-self",
-          "Photographs of flags with logos of Madarail",
-          "Photographs of the national flag of Madagascar in Madagascar",
+          "Antsirabe",
+          "CC-BY-SA-3.0",
+          "Files by User:HoneyGaLe/Madagascar",
           "Self-published work",
-          "Taken with Nikon D80"
-        ]
+          "Swimming pools in Madagascar",
+          "Taken with Nikon D5100"
+        ],
+        "mediumPath": "_m/m/h/3/q/antsirabe-wk/piscine-antsirabe-2012-medium.webp",
+        "smallPath": "_m/m/h/3/q/antsirabe-wk/piscine-antsirabe-2012-small.webp"
       },
       "images": [
         {
@@ -437,7 +437,8 @@
             "License migration redundant",
             "Maps of Vakinankaratra",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/an/ts/ir/ab/antsirabe/madagascar-vakinankaratra-regi-small.webp"
         },
         {
           "path": "_m/tpc/ma/da/ga/sc/madagascar/antsirabe-rue-principale02.jpg",
@@ -463,7 +464,9 @@
             "Self-published work",
             "Streets in Antsirabe",
             "Taken with Nikon Coolpix 4100"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ma/da/ga/sc/madagascar/antsirabe-rue-principale02-medium.webp",
+          "smallPath": "_m/tpc/ma/da/ga/sc/madagascar/antsirabe-rue-principale02-small.webp"
         },
         {
           "path": "_m/m/h/3/q/madagascar-wk/antsirabe-cathedral-ma.jpg",
@@ -487,7 +490,9 @@
             "Hand-pulled rickshaws in Madagascar",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/m/h/3/q/madagascar-wk/antsirabe-cathedral-ma-medium.webp",
+          "smallPath": "_m/m/h/3/q/madagascar-wk/antsirabe-cathedral-ma-small.webp"
         },
         {
           "path": "_m/tpc/an/ts/ir/ab/antsirabe/antsirabe-hotel-des-thermes.jpg",
@@ -512,7 +517,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot S2 IS"
-          ]
+          ],
+          "mediumPath": "_m/tpc/an/ts/ir/ab/antsirabe/antsirabe-hotel-des-thermes-medium.webp",
+          "smallPath": "_m/tpc/an/ts/ir/ab/antsirabe/antsirabe-hotel-des-thermes-small.webp"
         },
         {
           "path": "_m/tpc/an/ts/ir/ab/antsirabe/lake-tritriva-01.jpg",
@@ -540,7 +547,9 @@
             "Quality images of Madagascar",
             "Quality images of lakes",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/an/ts/ir/ab/antsirabe/lake-tritriva-01-medium.webp",
+          "smallPath": "_m/tpc/an/ts/ir/ab/antsirabe/lake-tritriva-01-small.webp"
         },
         {
           "path": "_m/tpc/an/ts/ir/ab/antsirabe/antsirabe-station.jpg",
@@ -559,7 +568,9 @@
           "categories": [
             "Antsirabe railway station",
             "CC-BY-SA-2.0"
-          ]
+          ],
+          "mediumPath": "_m/tpc/an/ts/ir/ab/antsirabe/antsirabe-station-medium.webp",
+          "smallPath": "_m/tpc/an/ts/ir/ab/antsirabe/antsirabe-station-small.webp"
         },
         {
           "path": "_m/tpc/an/ts/ir/ab/antsirabe/antsirabefu-ball.jpg",
@@ -574,7 +585,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:AntsirabeFu%C3%9Fball.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "antsirabe",
-          "sourceGeohash4": "tpc/an/ts/ir/ab"
+          "sourceGeohash4": "tpc/an/ts/ir/ab",
+          "mediumPath": "_m/tpc/an/ts/ir/ab/antsirabe/antsirabefu-ball-medium.webp",
+          "smallPath": "_m/tpc/an/ts/ir/ab/antsirabe/antsirabefu-ball-small.webp"
         },
         {
           "path": "_m/tpc/an/ts/ir/ab/antsirabe/antsiraberikscha.jpg",
@@ -589,7 +602,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:AntsirabeRikscha.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "antsirabe",
-          "sourceGeohash4": "tpc/an/ts/ir/ab"
+          "sourceGeohash4": "tpc/an/ts/ir/ab",
+          "mediumPath": "_m/tpc/an/ts/ir/ab/antsirabe/antsiraberikscha-medium.webp",
+          "smallPath": "_m/tpc/an/ts/ir/ab/antsirabe/antsiraberikscha-small.webp"
         },
         {
           "path": "_m/k/u/r/s/avenue-of-the-baobabs-wp/adansonia-grandidieri04.jpg",
@@ -637,7 +652,9 @@
             "Valued images of Madagascar",
             "Valued images promoted 2008-06",
             "Valued images sorted by promotion date"
-          ]
+          ],
+          "mediumPath": "_m/k/u/r/s/avenue-of-the-baobabs-wp/adansonia-grandidieri04-medium.webp",
+          "smallPath": "_m/k/u/r/s/avenue-of-the-baobabs-wp/adansonia-grandidieri04-small.webp"
         },
         {
           "path": "_m/tpc/ma/da/ga/sc/madagascar/ambositra.jpg",
@@ -652,7 +669,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ambositra.JPG",
           "sourceType": "poi",
           "sourceArticleId": "madagascar",
-          "sourceGeohash4": "mh3q"
+          "sourceGeohash4": "mh3q",
+          "mediumPath": "_m/tpc/ma/da/ga/sc/madagascar/ambositra-medium.webp",
+          "smallPath": "_m/tpc/ma/da/ga/sc/madagascar/ambositra-small.webp"
         },
         {
           "path": "_m/tpc/ma/da/ga/sc/madagascar/andringitra-madagascar-by-effe.jpg",
@@ -667,7 +686,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andringitra,_Madagascar_by_Effervescing_Elephant-09.jpg",
           "sourceType": "poi",
           "sourceArticleId": "madagascar",
-          "sourceGeohash4": "mh3q"
+          "sourceGeohash4": "mh3q",
+          "mediumPath": "_m/tpc/ma/da/ga/sc/madagascar/andringitra-madagascar-by-effe-medium.webp",
+          "smallPath": "_m/tpc/ma/da/ga/sc/madagascar/andringitra-madagascar-by-effe-small.webp"
         },
         {
           "path": "_m/tpc/ma/da/ga/sc/madagascar/isalorock.jpg",
@@ -682,7 +703,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:IsaloRock.jpg",
           "sourceType": "poi",
           "sourceArticleId": "madagascar",
-          "sourceGeohash4": "mh3q"
+          "sourceGeohash4": "mh3q",
+          "mediumPath": "_m/tpc/ma/da/ga/sc/madagascar/isalorock-medium.webp",
+          "smallPath": "_m/tpc/ma/da/ga/sc/madagascar/isalorock-small.webp"
         },
         {
           "path": "_m/tpc/ma/da/ga/sc/madagascar/ihosy.jpg",
@@ -697,7 +720,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ihosy.JPG",
           "sourceType": "poi",
           "sourceArticleId": "madagascar",
-          "sourceGeohash4": "mh3q"
+          "sourceGeohash4": "mh3q",
+          "mediumPath": "_m/tpc/ma/da/ga/sc/madagascar/ihosy-medium.webp",
+          "smallPath": "_m/tpc/ma/da/ga/sc/madagascar/ihosy-small.webp"
         },
         {
           "path": "_m/tpc/ma/da/ga/sc/madagascar/katta-csalad.jpg",
@@ -712,7 +737,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Katta_csal%C3%A1d.jpg",
           "sourceType": "poi",
           "sourceArticleId": "madagascar",
-          "sourceGeohash4": "mh3q"
+          "sourceGeohash4": "mh3q",
+          "mediumPath": "_m/tpc/ma/da/ga/sc/madagascar/katta-csalad-medium.webp",
+          "smallPath": "_m/tpc/ma/da/ga/sc/madagascar/katta-csalad-small.webp"
         },
         {
           "path": "_m/tpc/ma/da/ga/sc/madagascar/ivato-airport-in-antananarivo-.jpg",
@@ -727,7 +754,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ivato_airport_in_Antananarivo_Madagascar.JPG",
           "sourceType": "poi",
           "sourceArticleId": "madagascar",
-          "sourceGeohash4": "mh3q"
+          "sourceGeohash4": "mh3q",
+          "mediumPath": "_m/tpc/ma/da/ga/sc/madagascar/ivato-airport-in-antananarivo--medium.webp",
+          "smallPath": "_m/tpc/ma/da/ga/sc/madagascar/ivato-airport-in-antananarivo--small.webp"
         },
         {
           "path": "_m/tpc/ma/da/ga/sc/madagascar/fishermen-in-nosey-be.jpg",
@@ -742,7 +771,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fishermen_in_Nosey_Be.jpg",
           "sourceType": "poi",
           "sourceArticleId": "madagascar",
-          "sourceGeohash4": "mh3q"
+          "sourceGeohash4": "mh3q",
+          "mediumPath": "_m/tpc/ma/da/ga/sc/madagascar/fishermen-in-nosey-be-medium.webp",
+          "smallPath": "_m/tpc/ma/da/ga/sc/madagascar/fishermen-in-nosey-be-small.webp"
         },
         {
           "path": "_m/tpc/ma/da/ga/sc/madagascar/cyclo-pousse-madagascar-1.jpg",
@@ -757,7 +788,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cyclo-pousse_Madagascar_1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "madagascar",
-          "sourceGeohash4": "mh3q"
+          "sourceGeohash4": "mh3q",
+          "mediumPath": "_m/tpc/ma/da/ga/sc/madagascar/cyclo-pousse-madagascar-1-medium.webp",
+          "smallPath": "_m/tpc/ma/da/ga/sc/madagascar/cyclo-pousse-madagascar-1-small.webp"
         },
         {
           "path": "_m/tpc/ma/da/ga/sc/madagascar/anakao-south-of-madagascar.jpg",
@@ -772,7 +805,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anakao_South_of_Madagascar.jpg",
           "sourceType": "poi",
           "sourceArticleId": "madagascar",
-          "sourceGeohash4": "mh3q"
+          "sourceGeohash4": "mh3q",
+          "smallPath": "_m/tpc/ma/da/ga/sc/madagascar/anakao-south-of-madagascar-small.webp"
         }
       ],
       "narration": [

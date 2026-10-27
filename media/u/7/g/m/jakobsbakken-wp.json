@@ -3,29 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/7/g/m/jakobsbakken-wp/hero.jpg",
-        "filename": "Jakobsbakken.jpg",
-        "caption": "Gruvesamfunnet Jakobsbakken, i Sulitjelma, Fauske municipality (altitude 600 m)",
-        "alt": "Gruvesamfunnet Jakobsbakken, i Sulitjelma, Fauske municipality (altitude 600 m)",
-        "width": 2272,
-        "height": 1704,
+        "path": "_m/u/7/g/m/jakobsbakken-wp/nordlyset-danser-over-jakobsba.jpg",
+        "filename": "Nordlyset danser over Jakobsbakken.jpg",
+        "caption": "Foto: Bjørn Svendsen",
+        "alt": "Foto: Bjørn Svendsen",
+        "width": 7952,
+        "height": 5304,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.5",
-        "artist": "Røed 17:54, 9 April 2007 (UTC)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jakobsbakken.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Jakobsbakken",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nordlyset_danser_over_Jakobsbakken.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "jakobsbakken-wp",
         "sourceGeohash4": "u7gm",
         "categories": [
-          "CC-BY-SA-2.5",
-          "Files by User:Røed from no.wikipedia",
+          "Aurora in Nordland",
+          "CC-BY-SA-4.0",
           "Jakobsbakken",
-          "Panoramics of buildings in Norway",
-          "Structures in Norway in snow",
-          "Taken with Nikon Coolpix 4200",
-          "Wooden houses in Norway",
-          "Workers' houses in Norway"
-        ]
+          "Self-published work"
+        ],
+        "mediumPath": "_m/u/7/g/m/jakobsbakken-wp/nordlyset-danser-over-jakobsba-medium.webp",
+        "smallPath": "_m/u/7/g/m/jakobsbakken-wp/nordlyset-danser-over-jakobsba-small.webp"
       },
       "images": [
         {
@@ -374,7 +372,9 @@
             "Lakes of Fauske",
             "Self-published work",
             "Sulitjelma"
-          ]
+          ],
+          "mediumPath": "_m/u/7/g/m/sulitjelma-wp/langvatnet-seen-from-hankenlia-medium.webp",
+          "smallPath": "_m/u/7/g/m/sulitjelma-wp/langvatnet-seen-from-hankenlia-small.webp"
         },
         {
           "path": "_m/u/7/g/m/sulitjelma-wp/blamannsisen-seen-from-the-rid.jpg",
@@ -396,7 +396,9 @@
             "Glaciers of Norway in 2016",
             "Ice caps of Norway",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/7/g/m/sulitjelma-wp/blamannsisen-seen-from-the-rid-medium.webp",
+          "smallPath": "_m/u/7/g/m/sulitjelma-wp/blamannsisen-seen-from-the-rid-small.webp"
         },
         {
           "path": "_m/u/7/g/m/sulitjelma-wp/sulitjelma-banner.jpg",
@@ -418,7 +420,9 @@
             "Mountains of Fauske",
             "Self-published work",
             "Sulitjelma"
-          ]
+          ],
+          "mediumPath": "_m/u/7/g/m/sulitjelma-wp/sulitjelma-banner-medium.webp",
+          "smallPath": "_m/u/7/g/m/sulitjelma-wp/sulitjelma-banner-small.webp"
         }
       ],
       "narration": [

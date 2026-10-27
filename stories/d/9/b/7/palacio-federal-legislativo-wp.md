@@ -33,7 +33,7 @@ The Palacio Federal Legislativo (Capitolio) is located at 10.506N, 66.916W, imme
 ## Sources
 
 - [Palacio Federal Legislativo - Wikipedia](https://en.wikipedia.org/?curid=39456379)
-- [Wikipedia - Palacio Federal Legislativo](https://en.wikipedia.org/wiki/Palacio_Federal_Legislativo)
+- [Wikipedia - Palacio Federal Legislativo](https://en.wikipedia.org/?curid=39456379)
   - Construction began 1872, first building completed 1873
   - Second building with Salon Eliptico and golden dome opened 1877
   - Engineers: Luciano Urdaneta and Roberto Garcia; architect: Juan Hurtado Manrique

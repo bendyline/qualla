@@ -48,7 +48,7 @@ Located at 1.308N, 103.851E in Singapore's Little India district, on the north s
   - Liquor Control Act 2015 banning public alcohol after 10:30PM confirmed
   - Rum raisin ice cream provision lifted 2019 confirmed
   - Gurkha Contingent deployed confirmed
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2013_Little_India_riot)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=41306986)
   - Removed the false attribution of the on-camera "urging rioters to stop" moment to a named living worker (Thangaval Govindarasu), who came forward but later acknowledged he was not the man in the footage; the man was never identified.
 
 ## Review Notes

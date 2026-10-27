@@ -37,7 +37,7 @@ Located at 46.34°N, 81.57°W on the Spanish River near the town of Nairn Centre
 ## Sources
 
 - [Nairn Falls Dam and Generating Plant - Wikipedia](https://en.wikipedia.org/?curid=61397300)
-- [Wikipedia - Nairn Falls Dam and Generating Plant](https://en.wikipedia.org/wiki/Nairn_Falls_Dam_and_Generating_Plant)
+- [Wikipedia - Nairn Falls Dam and Generating Plant](https://en.wikipedia.org/?curid=61397300)
   - Mond Nickel Company built the dam confirmed
   - Construction began 1914, completed and operational 1915 confirmed
   - Managed by Lorne Power Company (Mond subsidiary) confirmed

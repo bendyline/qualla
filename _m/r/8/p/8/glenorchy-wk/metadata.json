@@ -1,43 +1,7 @@
 {
   "articleId": "glenorchy-wk",
-  "gallery": [
-    {
-      "filename": "Lake Wakatipu, northwest end.jpg",
-      "title": "File:Lake Wakatipu, northwest end.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lake_Wakatipu%2C_northwest_end.jpg",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Lake_Wakatipu,_northwest_end.jpg",
-      "width": 5042,
-      "height": 2250,
-      "mime": "image/jpeg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Avenue",
-      "description": "Northwest end of Lake Wakatipu.",
-      "dateCreated": "2009-12-20",
-      "categories": [
-        "CC-BY-SA-3.0",
-        "Files with coordinates missing SDC location of creation",
-        "GFDL",
-        "Lake Wakatipu",
-        "License migration redundant",
-        "New Zealand photographs taken on 2009-12-20",
-        "Quality images",
-        "Quality images by Avenue",
-        "Quality images missing SDC depicts",
-        "Quality images of nature in New Zealand",
-        "Retouched pictures",
-        "Self-published work"
-      ],
-      "sourceType": "poi",
-      "sourceArticleId": "glenorchy-wk",
-      "sourceGeohash4": "r8p8",
-      "mediumPath": "_m/r/8/p/8/glenorchy-wk/lake-wakatipu-northwest-end-medium.webp",
-      "smallPath": "_m/r/8/p/8/glenorchy-wk/lake-wakatipu-northwest-end-small.webp"
-    }
-  ],
-  "galleryPaths": [
-    "_m/r/8/p/8/glenorchy-wk/lake-wakatipu-northwest-end.jpg"
-  ],
+  "gallery": [],
+  "galleryPaths": [],
   "updatedAt": "2026-02-20T07:19:05.534Z",
   "narration": {
     "files": [
@@ -57,5 +21,71 @@
       "r8p8-glenorchy-the-end-of-the-road.mp3": 62.4476666
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Lake Wakatipu, northwest end.jpg",
+    "title": "File:Lake Wakatipu, northwest end.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lake_Wakatipu%2C_northwest_end.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Lake_Wakatipu,_northwest_end.jpg",
+    "width": 5042,
+    "height": 2250,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Avenue",
+    "credit": "Own work",
+    "source": "Lake Wakatipu, northwest end",
+    "description": "Northwest end of Lake Wakatipu.",
+    "dateCreated": "2009-12-20",
+    "categories": [
+      "CC-BY-SA-3.0",
+      "Files with coordinates missing SDC location of creation",
+      "GFDL",
+      "Lake Wakatipu",
+      "License migration redundant",
+      "New Zealand photographs taken on 2009-12-20",
+      "Quality images",
+      "Quality images by Avenue",
+      "Quality images missing SDC depicts",
+      "Quality images of nature in New Zealand",
+      "Retouched pictures",
+      "Self-published work"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "glenorchy-wk",
+    "sourceGeohash4": "r8p8"
+  },
+  "thumbnail": {
+    "filename": "Lake Wakatipu, northwest end.jpg",
+    "title": "File:Lake Wakatipu, northwest end.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lake_Wakatipu%2C_northwest_end.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Lake_Wakatipu,_northwest_end.jpg",
+    "width": 5042,
+    "height": 2250,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Avenue",
+    "credit": "Own work",
+    "source": "Lake Wakatipu, northwest end",
+    "description": "Northwest end of Lake Wakatipu.",
+    "dateCreated": "2009-12-20",
+    "categories": [
+      "CC-BY-SA-3.0",
+      "Files with coordinates missing SDC location of creation",
+      "GFDL",
+      "Lake Wakatipu",
+      "License migration redundant",
+      "New Zealand photographs taken on 2009-12-20",
+      "Quality images",
+      "Quality images by Avenue",
+      "Quality images missing SDC depicts",
+      "Quality images of nature in New Zealand",
+      "Retouched pictures",
+      "Self-published work"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "glenorchy-wk",
+    "sourceGeohash4": "r8p8"
   }
 }

@@ -1,40 +1,72 @@
 # Itaituba
 
-Locals call it cidade pepita - gold nugget city - a name Itaituba earned during the Tapajós gold rushes that still shape its economy, its landscape, and its frontier reputation.
+Nugget City on the Tapajos: a gold-rush town that became a soy port, where the mercury from half a century of mining now shows up in Munduruku bloodwork.
 
 **Location:** -4.2758, -55.9839
 
-**Categories:** Municipalities in Pará, 1856 establishments in Brazil
+**Categories:** amazon, brazil, river-cities, mining, indigenous
 
 ## Introduction
 
-Two Tupi syllables: ita, stone, and tuba, a place of much. Join them and you get Itaituba, the gravel place, a description honest to what any visitor finds here - a river town on the left bank of the Tapajós where the bedrock pushes up through the soil and the sandbars stretch wide during the dry months. But the nickname locals prefer is different. Cidade pepita, they call it. Gold nugget city. The valley of the Tapajós that surrounds Itaituba has been one of Brazil's most productive and problematic gold-mining regions for a generation, and the town has grown up around that industry with the speed and rawness that gold rushes always produce. In rankings of Brazil's fastest-growing cities of the interior, Itaituba regularly appears near the top. The fifteenth-largest municipality in Pará by population, it has the state's thirteenth-largest GDP - a disproportion that tells you who the city works for.
+On 22 October 1994, thieves hijacked a TABA turboprop that had just lifted out of Itaituba and took the gold it was carrying to Belem. It is a story locals still tell, and it says almost everything about what this town was in those years. Itaituba sits on the west bank of the Tapajos in western Para, about 123,000 people on a bluff above a river so wide and so clear that in the dry season it lays down white sand beaches like a coastline. Its Tupi name means, roughly, place of gravel. Its nickname is cidade pepita, nugget city. Both names are about what is in the ground and the riverbed, and for seventy years everything that has happened here has followed from that.
 
-## Before the Rush
+## Four Hundred Landings a Day
 
-The Portuguese reached the Tapajós in 1626, when captain Pedro Teixeira's expedition made contact with indigenous people at what is now Alter-do-Chão. Pedro Teixeira returned in 1639, this time with Jesuits who began founding missions up and down the river: Tapajós in 1661, São José in 1722, São Inácio in 1737, Borari and Arapiuns somewhere around the same time. Then the Pombaline reforms of the 1750s swept through, and Governor Francisco Xavier de Mendonça Furtado retracted the Jesuits from the villages and renamed them after Portuguese places - Santarém, Alter-do-Chão, Vila Franca, Boim, Pinhel. The name of Itaituba itself first appears in the historical record in 1812, in the travel list of Miguel João de Castro, describing it as a center of exploration and trade for specialties of the upper Tapajós. It became a proper settlement around 1836, during the turbulent Cabanagem years - the great popular revolt that shook Pará. Joaquim Caetano Corrêa is remembered as the founder of the municipal seat, for his pioneer work in exploring the tapajonic region.
+Gold turned Itaituba from a river settlement into a boomtown. Through the mid-1980s and into the early 1990s the garimpos of the Tapajos valley ran flat out, and by some estimates more than 500 tonnes of gold came out of the region in that period. The town could not be reached easily by road, so it was reached by air: at the height of the rush the airstrip logged something like four hundred takeoffs and landings a day, most of them small single-engine aircraft shuttling men, fuel, rice and mercury out to clearings in the forest and bringing metal back. Air taxi operators still fly to mining camps from the same field. When the easy gold thinned out in the early 1990s the town diversified into cattle, timber and cement from local limestone, but nobody in Itaituba talks about the boom in the past tense, because the dredges never actually stopped.
 
-## The River That Feeds Everything
+## What the Mercury Found
 
-The Tapajós is one of the Amazon's great tributaries - a blackwater river, clearer than the milky Amazon itself, draining a basin the size of France. Itaituba sits where the river begins to flatten and widen before joining the Amazon near Santarém. In the dry season, from July through October, the water falls dramatically and the sandy beaches emerge, transforming the riverfront into a recreational zone. The waterfalls of the district of São Luiz do Tapajós provide another landscape entirely - rapids and drops that have also, inevitably, drawn hydroelectric planners. The proposed Jatobá Hydroelectric Power Plant would flood part of the municipality, a prospect that has pitted energy planners against the indigenous Munduruku people whose territories sit squarely in the affected area. The 2,382,000-hectare Mundurucu Indigenous Territory was established in 2004. The 178,173-hectare Sawré Muybu Territory was recognized in April 2016, after years of direct action by the Munduruku themselves.
+Garimpo gold is separated with mercury, and mercury does not stay where it is put. It washes into the Tapajos, bacteria convert it into methylmercury, fish accumulate it, and people who eat fish accumulate it in turn. The Munduruku, whose territory covers a vast stretch of this river basin, eat fish nearly every day. In 2021 researchers from the Oswaldo Cruz Foundation reported that six in ten people tested in the Sawre Muybu Indigenous Land carried mercury above the World Health Organization reference level; in the village of Sawre Aboy the figure reached 87.5 percent of participants. These are not abstract exposures. Fiocruz teams have documented neurological and developmental effects in Munduruku children who have never been anywhere near a mining pit. The gold left. The mercury stayed, in the river, in the fish, and in the bodies of the families who depend on both.
 
-## Forests Drawn on Maps
+## Seventeen Years for a Line on a Map
 
-What makes Itaituba strange, on paper, is the sheer quantity of protected land overlapping the municipality. It contains parts of the Trairão National Forest, the 724,965-hectare Altamira National Forest, the Itaituba I and Itaituba II national forests - combined area 610,472 hectares - the Jamanxim National Park, and the 538,151-hectare Rio Novo National Park. It contains part of the 539,571-hectare Amaná National Forest. And most remarkably, eighty-six percent of the 1,988,445-hectare Tapajós Environmental Protection Area falls within its boundaries. On a conservation map, Itaituba looks like a municipality almost entirely consumed by protected zones. On the ground, those paper protections coexist with a gold-mining economy that does not always honor them, and with pressures from logging, ranching, and the soy boom pushing up from the south. The municipality is one of the most contested landscapes in the Amazon.
+Two large Indigenous territories reach into the municipality. The Munduruku Indigenous Territory, 2,382,000 hectares, was established in 2004. The Sawre Muybu territory took far longer. Funai first began the demarcation process in 2007; when it stalled, the Munduruku went out in 2014 and marked the boundaries themselves, posting signs and pushing miners off the land. A Funai study concluding the area was Munduruku land helped persuade Ibama to suspend and then, in August 2016, cancel the environmental licensing for the Sao Luiz do Tapajos dam, a project that would have flooded a good part of it. On 25 September 2024, after seventeen years, Justice Minister Ricardo Lewandowski signed the declaratory order recognising 178,173 hectares as Sawre Muybu. The final presidential ratification has still not been signed. Another dam, Jatoba, remains on the planning maps.
 
-## The Festival of Santana
+## Fifteen Hundred Trucks a Day
 
-The biggest festival of the year is the Festa de Nossa Senhora de Sant'Ana, the patron saint's feast, held in the first fortnight of July and closing with the Círio procession on the twenty-sixth - the day consecrated to Saint Anne, mother of Mary. In a place defined otherwise by extraction and frontier economics, the Círio is a thread back to the older Amazon - the Catholic, Portuguese-Jesuit, processional world that built the first villages here in the seventeenth century. The equatorial climate has only two seasons anyway: the rainy months of December through April, when relative humidity stays above eighty percent nearly all year, and the drier July through October, when the sandbars come up and the beaches form. The feast falls at the start of the dry season, when the river is falling and the town is starting to turn outward again. Itaituba Airport serves the connections out - to Santarém, to Belém, to the other river ports - for a municipality that, by road, remains stubbornly hard to reach.
+Across the river from the town centre lies Miritituba, a district that was a quiet riverside neighbourhood a generation ago and is now one of the busiest grain transfer points in the Amazon. Soybeans from northern Mato Grosso come up BR-163 for something like a thousand kilometres, and at Miritituba they are tipped out of trucks and into barges bound downriver for Santarem and the Atlantic. Cargill moved more than three million tonnes through its terminal here in 2023; Bunge and Amaggi's operation moved slightly more. In harvest season roughly fifteen hundred trucks a day pass through. The pattern is the same one the gold established, only heavier: something valuable arrives from somewhere else, changes hands at Itaituba, and leaves. The people who live along the Tapajos watch it go past.
+
+## The River in July
+
+None of this has cancelled the ordinary life of the place. Itaituba's biggest celebration is the feast of Nossa Senhora de Sant'Ana, the town's patron, held over the first half of July and closing with a Cirio procession on the 26th. July is also when the water drops and the sandbanks emerge, and the town's beaches fill up with families. West of town the Amazonia National Park, created in 1974 and covering more than a million hectares, begins about 50 kilometres out along the Transamazonica; the first waterfalls at Sao Luiz do Tapajos are a day trip. Slow boats to Santarem take fourteen to seventeen hours and go once a week; fast boats do it in seven and run most days. For a place so thoroughly wired into global commodity markets, Itaituba still keeps a river town's schedule.
 
 ## Flight Context
 
-Located at 4.28 degrees S, 55.98 degrees W on the left bank of the Tapajós River, western Pará. Served by Itaituba Airport (SBIH). Best viewed from 4,000-7,000 feet AGL - the broad, dark-watered Tapajós and its sandy beaches during the dry season provide dramatic visual contrast. The surrounding landscape is a patchwork of protected national forests, indigenous territories, and gold-mining areas. Expect equatorial weather: heavy convective activity in the wet season (December-April), clearer skies July-October.
+Located at 4.28 S, 55.98 W on the west bank of the Tapajos River in western Para, Brazil, at about 15 m elevation. Itaituba Airport (SBIH / ITB) lies 6 km from downtown and handles regional service plus heavy air-taxi traffic to mining camps; expect low-level VFR aircraft in the vicinity. From FL200 to FL300 the Tapajos is unmistakable, a broad clearwater river running dark blue-green against the brown Amazon tributaries, with white sandbars exposed from July to October. The BR-163 corridor and the Miritituba barge terminals on the east bank are the clearest human features. Santarem (SBSN) is about 300 km downstream to the northeast. Wet season runs December to April with humidity above 80 percent year-round and frequent afternoon convective buildups; smoke haze from burning can cut visibility sharply in August and September.
 
 ## Sources
 
 - [Itaituba - Wikipedia](https://en.wikipedia.org/?curid=5938630)
+- [Itaituba - Wikipedia (pt)](https://pt.wikipedia.org/wiki/Itaituba)
+- [Every person in three indigenous Munduruku villages in Para is contaminated by mercury from wildcat mining](https://infoamazonia.org/en/2021/11/26/indigenous-munduruku-contaminated-mercury/)
+- [Sawre Muybu: A historic victory for the Munduruku People](https://www.greenpeace.org/international/story/69878/munduruku-indigenous-people-land-demarcation-brazil-sawre-muybu/)
+- [Miritituba engulfed by soy: from being a quiet place to becoming a huge grain port](https://www.brasildefato.com.br/2024/12/11/miritituba-engulfed-by-soy-from-being-a-quiet-place-to-becoming-a-huge-grain-port/)
+- [Itaituba (PA) - IBGE Cidades](https://www.ibge.gov.br/cidades-e-estados/pa/itaituba.html)
+  - 2022 census population of 123,314, matching story's 'about 123,000'
+- [Mercury Exposure in Munduruku Indigenous Communities from Brazilian Amazon - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8430525/)
+  - 87.5% of Sawre Aboy participants had hair mercury levels at or above the WHO/Brazilian reference level of 6.0 ug/g, confirming story's precise figure
+- [Demarcation of the Sawre Muybu Indigenous Land - Greenpeace International](https://www.greenpeace.org/international/story/69878/munduruku-indigenous-people-land-demarcation-brazil-sawre-muybu/)
+  - Sawre Muybu demarcation process began 2007
+  - declaratory order signed by Justice Minister Ricardo Lewandowski on 25 September 2024 recognizing 178,173 hectares
+  - presidential ratification still pending
+- [Amazonia National Park - Wikipedia](https://en.wikipedia.org/wiki/Amaz%C3%B4nia_National_Park)
+  - park created in 1974
+  - covers roughly 1,070,737 hectares, confirming 'more than a million hectares'
+
+## Review Notes
+
+**Reviewed:** 2026-09-05 · 9 facts verified · 0 corrections
+
+Verified population (123,314 2022 census), 1994 TABA gold-plane hijack, Munduruku Indigenous Territory (2,382,000 ha, 2004), Sawre Muybu demarcation timeline and Sept 2024 declaratory order (178,173 ha), Fiocruz mercury contamination figures (87.5% Sawre Aboy above WHO reference, confirmed exact via PMC study), Amazonia National Park (1974, ~1.07M ha), and feast/Cirio dates against Wikipedia, IBGE, Greenpeace, and peer-reviewed sources. All facts accurate, no corrections needed. Munduruku identified by specific tribal name throughout, no empathy issues. Spiciness 3 (implicit critique of extractive economy pattern).
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- implicit critique of extractive boom-bust pattern: 'something valuable arrives from somewhere else, changes hands at Itaituba, and leaves. The people who live along the Tapajos watch it go past.'
+- wry framing of ongoing mining: 'nobody in Itaituba talks about the boom in the past tense, because the dredges never actually stopped'
 
 ---
 
-*Word count: 840*
+*Word count: 824*
 *Read time: 4 minutes*

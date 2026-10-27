@@ -37,7 +37,7 @@ The White Mountain Wilderness sits at 33.44N, 105.75W in the Sierra Blanca range
 ## Sources
 
 - [White Mountain Wilderness - Wikipedia](https://en.wikipedia.org/?curid=28281806)
-- [White Mountain Wilderness - Wikipedia](https://en.wikipedia.org/wiki/White_Mountain_Wilderness)
+- [White Mountain Wilderness - Wikipedia](https://en.wikipedia.org/?curid=28281806)
   - 46,963 acres (article says nearly 47,000 - accurate rounding)
   - Established as primitive area 1933 confirmed
   - Redesignated under Wilderness Act of 1964 confirmed

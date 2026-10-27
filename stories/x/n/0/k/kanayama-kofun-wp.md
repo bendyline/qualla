@@ -33,7 +33,7 @@ Located at 34.47N, 135.63E on the Kanan Plateau in southeastern Osaka Prefecture
 ## Sources
 
 - [Kanayama Kofun - Wikipedia](https://en.wikipedia.org/?curid=69986224)
-- [Wikipedia - Kanayama Kofun (cross-check)](https://en.wikipedia.org/wiki/Kanayama_Kofun)
+- [Wikipedia - Kanayama Kofun (cross-check)](https://en.wikipedia.org/?curid=69986224)
   - North tumulus 38.6m diameter, 2-tier confirmed
   - South tumulus 55.4m diameter, 3-tier confirmed
   - Total length 85.8m confirmed

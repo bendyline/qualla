@@ -3,29 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/7/p/8/9/sao-luis-wk/hero.jpg",
-        "filename": "SaoLuis-Cathedral.jpg",
-        "caption": "Cathedral of São Luís, Brazil",
-        "alt": "Cathedral of São Luís, Brazil",
-        "width": 1024,
-        "height": 768,
+        "path": "_m/7/p/8/9/sao-luis-wk/sao-luis-cathedral-interior.jpg",
+        "filename": "São Luís Cathedral, interior.jpg",
+        "caption": "São Luís Cathedral, interior",
+        "alt": "São Luís Cathedral, interior",
+        "width": 4000,
+        "height": 3000,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "Marcus Guimarães from Nova Friburgo, Brazil",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SaoLuis-Cathedral.jpg",
-        "sourceType": "core",
+        "license": "CC0",
+        "artist": "Gerda Arendt",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%A3o_Lu%C3%ADs_Cathedral,_interior.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "sao-luis-wk",
         "sourceGeohash4": "7p89",
         "categories": [
-          "CC-BY-2.0",
-          "CC-BY-SA-2.0",
-          "Catedral de São Luís do Maranhão",
-          "Flickr images reviewed by trusted users"
-        ]
+          "CC-Zero",
+          "Interior of São Luís do Maranhão Cathedral",
+          "Self-published work",
+          "São Luís"
+        ],
+        "mediumPath": "_m/7/p/8/9/sao-luis-wk/sao-luis-cathedral-interior-medium.webp",
+        "smallPath": "_m/7/p/8/9/sao-luis-wk/sao-luis-cathedral-interior-small.webp"
       },
       "images": [
         {
-          "path": "_m/7/p/8/9/sao-luis-wk/reviver.jpg",
+          "path": "_m/tpc/sa/o-/lu/is/sao-luis/reviver.jpg",
           "filename": "Reviver.JPG",
           "caption": "Rua Portugal, mercado central, bairro Praia Grande, São Luis do Maranhão",
           "alt": "Rua Portugal, mercado central, bairro Praia Grande, São Luis do Maranhão",
@@ -47,10 +49,10 @@
             "Self-published work",
             "Taken with Canon PowerShot G5"
           ],
-          "smallPath": "_m/7/p/8/9/sao-luis-wk/reviver-small.webp"
+          "smallPath": "_m/tpc/sa/o-/lu/is/sao-luis/reviver-small.webp"
         },
         {
-          "path": "_m/7/p/8/9/sao-luis-wk/slz.jpg",
+          "path": "_m/tpc/sa/o-/lu/is/sao-luis/slz.jpg",
           "filename": "Slz.jpg",
           "caption": "TPS of Sao Luis airport",
           "alt": "TPS of Sao Luis airport",
@@ -68,10 +70,10 @@
             "PD-self",
             "Self-published work"
           ],
-          "smallPath": "_m/7/p/8/9/sao-luis-wk/slz-small.webp"
+          "smallPath": "_m/tpc/sa/o-/lu/is/sao-luis/slz-small.webp"
         },
         {
-          "path": "_m/7/p/8/9/sao-luis-wk/sao-luis-street.jpg",
+          "path": "_m/tpc/sa/o-/lu/is/sao-luis/sao-luis-street.jpg",
           "filename": "São Luis Street.jpg",
           "caption": "São Luís' Old Town. Typical street in São Luís' Old Town, São Luís.",
           "alt": "São Luís' Old Town. Typical street in São Luís' Old Town, São Luís.",
@@ -96,7 +98,7 @@
             "Self-published work",
             "Taken with Canon PowerShot A410"
           ],
-          "smallPath": "_m/7/p/8/9/sao-luis-wk/sao-luis-street-small.webp"
+          "smallPath": "_m/tpc/sa/o-/lu/is/sao-luis/sao-luis-street-small.webp"
         },
         {
           "path": "_m/7/p/8/9/sao-luis-wk/sao-luis-cathedral-interior.jpg",
@@ -142,7 +144,9 @@
             "Self-published work",
             "TV Difusora (São Luís)",
             "Taken with Nokia Lumia 830"
-          ]
+          ],
+          "mediumPath": "_m/7/p/8/9/tv-difusora-sao-luis-wp/sede-do-sistema-difusora-de-co-medium.webp",
+          "smallPath": "_m/7/p/8/9/tv-difusora-sao-luis-wp/sede-do-sistema-difusora-de-co-small.webp"
         },
         {
           "path": "_m/tpc/ma/ra/nh/ao/maranhao/lencois-maranhenses-3.jpg",
@@ -163,7 +167,9 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Parque Nacional dos Lençóis Maranhenses",
             "Taken with Fujifilm FinePix A500"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ma/ra/nh/ao/maranhao/lencois-maranhenses-3-medium.webp",
+          "smallPath": "_m/tpc/ma/ra/nh/ao/maranhao/lencois-maranhenses-3-small.webp"
         },
         {
           "path": "_m/tpc/ma/ra/nh/ao/maranhao/lencois-maranhenses-8.jpg",
@@ -186,7 +192,9 @@
             "Parque Nacional dos Lençóis Maranhenses",
             "Self-published work",
             "Taken with Sony DSC-P150"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ma/ra/nh/ao/maranhao/lencois-maranhenses-8-medium.webp",
+          "smallPath": "_m/tpc/ma/ra/nh/ao/maranhao/lencois-maranhenses-8-small.webp"
         },
         {
           "path": "_m/tpc/ma/ra/nh/ao/maranhao/saoluis-street2.jpg",
@@ -208,7 +216,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Rua Portugal (São Luís)",
             "Taken with Canon PowerShot A530"
-          ]
+          ],
+          "smallPath": "_m/tpc/ma/ra/nh/ao/maranhao/saoluis-street2-small.webp"
         },
         {
           "path": "_m/tpc/ma/ra/nh/ao/maranhao/alcant-1.jpg",
@@ -227,7 +236,8 @@
           "categories": [
             "Cultural heritage monuments in Alcântara",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/tpc/ma/ra/nh/ao/maranhao/alcant-1-small.webp"
         },
         {
           "path": "_m/tpc/ma/ra/nh/ao/maranhao/imperatriz-1.jpg",
@@ -249,7 +259,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/ma/ra/nh/ao/maranhao/imperatriz-1-small.webp"
         },
         {
           "path": "_m/tpc/ma/ra/nh/ao/maranhao/acailandia-2.jpg",
@@ -271,7 +282,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/ma/ra/nh/ao/maranhao/acailandia-2-small.webp"
         },
         {
           "path": "_m/tpc/ma/ra/nh/ao/maranhao/centro-da-cidade-de-grajau-vis.jpg",
@@ -293,7 +305,9 @@
             "Grajaú (Maranhão)",
             "Self-published work",
             "Taken with Sony DSC-H3"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ma/ra/nh/ao/maranhao/centro-da-cidade-de-grajau-vis-medium.webp",
+          "smallPath": "_m/tpc/ma/ra/nh/ao/maranhao/centro-da-cidade-de-grajau-vis-small.webp"
         },
         {
           "path": "_m/tpc/ma/ra/nh/ao/maranhao/praca-matriz-de-sta-ines.jpg",
@@ -313,7 +327,9 @@
             "CC-BY-SA-3.0",
             "Santa Inês (Maranhão)",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ma/ra/nh/ao/maranhao/praca-matriz-de-sta-ines-medium.webp",
+          "smallPath": "_m/tpc/ma/ra/nh/ao/maranhao/praca-matriz-de-sta-ines-small.webp"
         },
         {
           "path": "_m/tpc/ma/ra/nh/ao/maranhao/21-12-2012-barra-do-corda-ma.jpg",
@@ -332,7 +348,9 @@
           "categories": [
             "Barra do Corda",
             "CC-BY-SA-4.0"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ma/ra/nh/ao/maranhao/21-12-2012-barra-do-corda-ma-medium.webp",
+          "smallPath": "_m/tpc/ma/ra/nh/ao/maranhao/21-12-2012-barra-do-corda-ma-small.webp"
         },
         {
           "path": "_m/tpc/ma/ra/nh/ao/maranhao/caxias-3.jpg",
@@ -347,7 +365,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caxias_3.JPG",
           "sourceType": "poi",
           "sourceArticleId": "maranhao",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/ma/ra/nh/ao/maranhao/caxias-3-medium.webp",
+          "smallPath": "_m/tpc/ma/ra/nh/ao/maranhao/caxias-3-small.webp"
         },
         {
           "path": "_m/tpc/ma/ra/nh/ao/maranhao/entre-paulino-neves-e-tutoia-8.jpg",
@@ -362,7 +382,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entre_Paulino_Neves_e_Tut%C3%B3ia_(8349872748).jpg",
           "sourceType": "poi",
           "sourceArticleId": "maranhao",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/ma/ra/nh/ao/maranhao/entre-paulino-neves-e-tutoia-8-medium.webp",
+          "smallPath": "_m/tpc/ma/ra/nh/ao/maranhao/entre-paulino-neves-e-tutoia-8-small.webp"
         },
         {
           "path": "_m/tpc/ma/ra/nh/ao/maranhao/lencois-maranhenses-2018.jpg",
@@ -377,7 +399,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Len%C3%A7%C3%B3is_Maranhenses_2018.jpg",
           "sourceType": "poi",
           "sourceArticleId": "maranhao",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/ma/ra/nh/ao/maranhao/lencois-maranhenses-2018-medium.webp",
+          "smallPath": "_m/tpc/ma/ra/nh/ao/maranhao/lencois-maranhenses-2018-small.webp"
         },
         {
           "path": "_m/6/z/r/e/santa-ines-wk/hero.jpg",
@@ -399,7 +423,9 @@
             "Pages with maps",
             "Santa Inês (Maranhão)",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/6/z/r/e/santa-ines-wk/hero-medium.webp",
+          "smallPath": "_m/6/z/r/e/santa-ines-wk/hero-small.webp"
         },
         {
           "path": "_m/6/z/r/e/santa-ines-wk/santa-ines-town-maranh.jpg",
@@ -421,7 +447,9 @@
             "Santa Inês (Maranhão)",
             "Self-published work",
             "Wikivoyage banners of Brazil"
-          ]
+          ],
+          "mediumPath": "_m/6/z/r/e/santa-ines-wk/santa-ines-town-maranh-medium.webp",
+          "smallPath": "_m/6/z/r/e/santa-ines-wk/santa-ines-town-maranh-small.webp"
         },
         {
           "path": "_m/tpc/ac/ai/la/nd/acailandia/acailandia-3.jpg",
@@ -443,7 +471,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/ac/ai/la/nd/acailandia/acailandia-3-small.webp"
         },
         {
           "path": "_m/7/5/c/j/rio-de-janeiro-wk/br-101.png",
@@ -469,7 +498,8 @@
             "Self-published work",
             "Vector version available",
             "White number 101"
-          ]
+          ],
+          "smallPath": "_m/7/5/c/j/rio-de-janeiro-wk/br-101-small.webp"
         },
         {
           "path": "_m/tpc/ma/ce/io/__/maceio/aeroporto-internacional-de-mac.jpg",
@@ -490,7 +520,8 @@
             "CC-BY-3.0",
             "Self-published work",
             "Taken with Canon Digital IXUS 50"
-          ]
+          ],
+          "smallPath": "_m/tpc/ma/ce/io/__/maceio/aeroporto-internacional-de-mac-small.webp"
         },
         {
           "path": "_m/tpc/ma/ce/io/__/maceio/praia-do-gunga.jpg",
@@ -511,7 +542,9 @@
             "Flickr images uploaded by Flickr upload bot",
             "Praia do Gunga",
             "Taken with Canon EOS 1000D"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ma/ce/io/__/maceio/praia-do-gunga-medium.webp",
+          "smallPath": "_m/tpc/ma/ce/io/__/maceio/praia-do-gunga-small.webp"
         },
         {
           "path": "_m/tpc/ma/ce/io/__/maceio/maceio-estado-alagoas.jpg",
@@ -532,7 +565,8 @@
             "CC-BY-2.0",
             "Flickr images missing SDC creator",
             "Flickr images reviewed by FlickreviewR"
-          ]
+          ],
+          "smallPath": "_m/tpc/ma/ce/io/__/maceio/maceio-estado-alagoas-small.webp"
         },
         {
           "path": "_m/tpc/ma/ce/io/__/maceio/praia-de-ipioca-maceio-alagoas.jpg",
@@ -553,7 +587,9 @@
             "Flickr images reviewed by FlickreviewR",
             "Photographs by Cícero R. C. Omena",
             "Praia de Ipioca"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ma/ce/io/__/maceio/praia-de-ipioca-maceio-alagoas-medium.webp",
+          "smallPath": "_m/tpc/ma/ce/io/__/maceio/praia-de-ipioca-maceio-alagoas-small.webp"
         },
         {
           "path": "_m/tpc/ma/ce/io/__/maceio/maceio-banner-praia-de-lagoa-a.jpg",
@@ -575,7 +611,9 @@
             "Photographs by Cícero R. C. Omena",
             "Praia da Lagoa Azeda",
             "Wikivoyage banners of Alagoas"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ma/ce/io/__/maceio/maceio-banner-praia-de-lagoa-a-medium.webp",
+          "smallPath": "_m/tpc/ma/ce/io/__/maceio/maceio-banner-praia-de-lagoa-a-small.webp"
         }
       ],
       "narration": [

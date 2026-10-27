@@ -33,7 +33,7 @@ Montmorency Falls is located at 46.891N, 71.148W, on the north shore of the Sain
 ## Sources
 
 - [Montmorency Falls - Wikipedia](https://en.wikipedia.org/?curid=523694)
-- [Montmorency Falls - Wikipedia](https://en.wikipedia.org/wiki/Montmorency_Falls)
+- [Montmorency Falls - Wikipedia](https://en.wikipedia.org/?curid=523694)
   - Height 83 meters (272 feet) confirmed
   - 30 meters taller than Niagara Falls confirmed
   - ~970,000 visitors per year confirmed

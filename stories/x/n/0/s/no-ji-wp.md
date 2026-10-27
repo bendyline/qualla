@@ -32,7 +32,7 @@ Located at 34.56N, 136.02E in the mountainous interior of Nara Prefecture, Japan
 
 ## Sources
 
-- [Ono-ji - Wikipedia](https://en.wikipedia.org/wiki/%C5%8Cno-ji)
+- [Ono-ji - Wikipedia](https://en.wikipedia.org/?curid=22493781)
 - [Rock Carving of the Bodhisattva Maitreya at Ōnodera, Nara - Nippon.com](https://www.nippon.com/en/japan-topics/b10917/)
   - 13.8-meter halo height of Miroku Bosatsu carving confirmed
   - cliff wall approximately 30 meters high confirmed

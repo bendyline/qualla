@@ -33,7 +33,7 @@ Tsubaki Grand Shrine sits at 34.9644N, 136.4517E in the Yamamoto neighborhood of
 ## Sources
 
 - [Tsubaki Grand Shrine - Wikipedia](https://en.wikipedia.org/?curid=15333467)
-- [Tsubaki Grand Shrine - Wikipedia](https://en.wikipedia.org/wiki/Tsubaki_Grand_Shrine)
+- [Tsubaki Grand Shrine - Wikipedia](https://en.wikipedia.org/?curid=15333467)
   - Principal deity is Sarutahiko Okami, leader of the kunitsukami - confirmed
   - Shrine legend claims founding in 3 BCE by order of Princess Yamato during reign of Emperor Suinin - confirmed
   - First appears in verifiable records in 748 CE (Daian-ji temple archives) - confirmed

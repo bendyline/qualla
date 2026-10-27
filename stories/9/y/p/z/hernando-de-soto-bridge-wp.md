@@ -32,7 +32,7 @@ Today the Hernando de Soto Bridge remains one of the most recognizable silhouett
 
 ## Flight Context
 
-The Hernando de Soto Bridge is located at 35.153N, 90.064W, spanning the Mississippi River between Memphis, TN and West Memphis, AR. Its distinctive double-arch M shape is unmistakable from the air, especially at night when the LED lighting system is active. Best viewed at 2,000-4,000 feet AGL. Nearby airports include Memphis International (KMEM) to the south and West Memphis Municipal (KAWM) across the river. The bridge is easily spotted by following I-40 to its river crossing point.
+The Hernando de Soto Bridge is located at 35.153N, 90.064W, spanning the Mississippi River between Memphis, TN and West Memphis, AR. Its distinctive double-arch M shape is unmistakable from the air, especially at night when the LED lighting system is active. Best viewed at 2,000-4,000 feet AGL. Nearby airports include Frederick W. Smith International Airport (KMEM, formerly Memphis International) to the south and West Memphis Municipal (KAWM) across the river. The bridge is easily spotted by following I-40 to its river crossing point.
 
 ## Sources
 

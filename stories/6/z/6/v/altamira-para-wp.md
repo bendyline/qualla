@@ -1,44 +1,68 @@
 # Altamira, Para
 
-The largest municipality in Brazil by area, 159,533 square kilometers of Xingu River country comparable to Florida, with 116,000 people and the world's fourth-largest hydroelectric dam.
+Brazil's largest municipality by area, where a highway, a dam and a decade of boom rearranged a Xingu river town and moved a quarter of its people away from the water.
 
 **Location:** -3.2028, -52.2058
 
-**Categories:** amazon, brazil, infrastructure, river-cities
+**Categories:** amazon, brazil, river-cities, infrastructure, indigenous
 
 ## Introduction
 
-If Altamira were a country, it would be the 104th largest in the world by area, bigger than Greece, bigger than Nepal, bigger than Nicaragua. It is not a country. It is a single municipality in the Brazilian state of Para, 159,533 square kilometers of Xingu River valley and surrounding rainforest, comparable in size to Missouri or Florida. Until 2009 it was the largest municipal subdivision on Earth. Yet only about 116,000 people live there. Do the arithmetic: 0.73 inhabitants per square kilometer. The river winds through a territory so oversized that administrative districts lie hundreds of kilometers apart, linked by dirt road, by boat, or by the kind of one-engine flight that still lands where the runway ends in jungle.
+There is a tree stump in Altamira with a plaque beside it. In 1970 a Brazil nut tree, one of the largest in the Amazon, was cut down here to mark the start of construction on the Trans-Amazonian Highway, and when President Emilio Garrastazu Medici came to the ceremony the stump acquired a nickname: the president's stick. Brazil nut trees can live for centuries and are now protected by law precisely because they take that long to replace. This one is a monument by accident. Every argument Altamira has had since - about roads, about dams, about who the Amazon is for - was already implicit in the sound of that chainsaw, and the stump is still sitting there beside the highway that the felling announced.
 
-## From Mission to Map
+## Tavaquara
 
-The town began in the 1750s, when Father Roque Hunderfund led a Jesuit expedition up the Xingu from the lower river and asked Xipaia and Kuruaya guides to lead him to the Volta Grande, the Great Bend. Near the mouth of the Panelas stream, they founded a mission called Tavaquara. The Jesuit policy experiment did not last long. The Portuguese prime minister Marques de Pombal expelled the Society of Jesus from the colonies, and Tavaquara went quiet. It was not formally revived until 1841, and not renamed Altamira until 2 April 1883, when under the influence of a Colonel Francisco Gayoso the village was lifted to town status. Before Jesuits, before Portuguese, before Colonel Gayoso, the land was home to peoples whose languages included Kuben-Kran-Ken, a Je tongue related to the Kayapo group, now extinct. The municipal territory had been inhabited since time immemorial, as official histories say when they do not want to count the years.
+The town began as a mission. In the 1750s a Jesuit priest, Father Roque Hunderfund, worked his way up the Xingu and asked Xipaia and Kuruaya men to guide him toward the Volta Grande, the enormous horseshoe bend the river makes before it turns north. Near the mouth of the Panelas stream they settled on a site, and the Tavaquara mission took root there. The Marques de Pombal shut the Jesuits out of the Portuguese colonies not long after, and the place went quiet for the better part of a century until a priest reopened the overland trail in 1841. On 2 April 1883 the village was raised to town status and renamed Altamira, under the patronage of a Colonel Francisco Gayoso, who had a road cut from the lower to the middle Xingu using enslaved African labour. Long before any of this, people had lived along these rivers speaking languages including Kuben-Kran-Ken, a Je tongue of the Kayapo group that no one speaks now.
 
-## Five Protected Areas Intersect Here
+## A Land Without People
 
-The municipality's staggering area exists because almost none of it is town. Altamira contains part of the Altamira National Forest, 724,965 hectares of sustainable use conservation unit created in 1998. It contains part of Jamanxim National Park. It contains part of the Terra do Meio Ecological Station, 3,373,134 hectares of strict protection, an area larger than Connecticut. It contains parts of the Nascentes da Serra do Cachimbo Biological Reserve and nearly half of Serra do Pardo National Park. This is what the numbers mean on a map: a single Brazilian municipality bigger than a hundred countries, most of it not cleared, most of it not populated, most of it legally protected forest and indigenous land. Altamira is less a town with a territory than a territory with a town.
+Brazil's military government sold Amazon colonisation with a slogan: a land without people, for people without land. It was wrong in the first half and cruel in the second. Landless families from the drought-stricken northeast were trucked in along the new Trans-Amazonian Highway, whose eastern section opened on 27 August 1972, and settled on lots measured out beside a road that turned to red soup for months of every year. Many of the plots failed. Many of the settlers stayed anyway, because there was nowhere else to go, and Altamira absorbed them. That is roughly the state the town was in when the 1979 film Bye Bye Brasil sent its travelling circus here as the last stop on the map - a hot, muddy frontier town at the far end of a road that had promised more than it delivered.
 
-## The Dam
+## The Ruquis
 
-In 2010, construction began on the Belo Monte Dam at the Volta Grande, the great horseshoe bend in the Xingu about 50 kilometers downstream of the town. When fully online it became the world's fourth-largest hydroelectric project by generating capacity, behind only the Three Gorges in China and Itaipu on the Brazil-Paraguay border. The installed capacity totals over 11 gigawatts. The economics of Altamira changed overnight: a sleepy river town of 99,000 people became a construction camp, GDP tripled, and the shopping centers that had not existed in 2005 appeared where forest had stood in 2000. The consequences of the dam went beyond GDP. Indigenous communities along the Xingu watched the river they depended on reshaped for a turbine schedule, with fish migrations disrupted, flooded forests drained, and tens of thousands of people displaced or reshuffled. The Belo Monte project became the most-contested dam in Brazilian history, and the town where it is headquartered remains a flashpoint.
+Then came the dam. Construction on Belo Monte began in 2010 at the Volta Grande downstream, and to make room for the reservoir the consortium emptied the parts of Altamira that sat lowest on the water. About a quarter of the city's urban population was moved, along with ribeirinho families whose houses had stood on stilts at the river's edge for generations. They went into six collective urban resettlements on the outskirts - RUCs officially, ruquis in local speech - identical small masonry houses laid out in grids, too far from the centre to walk to and too far from the Xingu to fish from. For people who had lived by putting a net in the water in the morning, the loss was not sentimental. It was economic and total. Estimates of how many people the project displaced in all vary widely, from about twenty thousand by International Rivers' count to fifty thousand by the reckoning of the local group Xingu Vivo, and the range itself tells you how little care went into counting.
 
-## Between Two Worlds
+## After the Payroll
 
-Altamira sits on the Xingu River at 109 meters above sea level, on the transition zone where the Brazilian Highlands to the south drop toward the Amazonian Lowlands to the north. The climate is tropical monsoon: consistently hot, averaging 27 degrees Celsius year-round, with a wet season from November or December to May or June that dumps 1,844 millimeters of rain annually, and a relatively dry July through October. The town functions as the gateway between a heavily populated coastal Brazil and a vast interior where populated means something different. Nine of Altamira's ten districts are rural, most of them inside protected forest, connected to the seat of local government by distances that would cross entire European countries. The 1979 Brazilian film Bye Bye Brasil ends here, after its traveling circus of Caravana Rolidei has exhausted every other option, a choice the director Carlos Diegues made deliberately: Altamira was cinematic shorthand for the farthest edge.
+During peak construction between 2012 and 2015, nearly thirty thousand workers were on the Belo Monte site, and Altamira's population swelled past 150,000 from the 99,075 recorded at the 2010 census. Rents tripled. Shopping centres appeared. So did the other things that arrive with a sudden all-male payroll and no institutions to match it: in the early 2000s Altamira's homicide rate was around 11 per 100,000 residents, and by 2017 it had reached 135, one of the worst in Brazil. Then the payroll ended. The workers left, the rents stayed high, and the city was left with the infrastructure of a boom and the economy of a river town. The 2020 count put the municipality at 115,969. What Altamira gained in those years is real - a functioning airport, a regional hospital, an unusually dense network of Indigenous organisations and NGOs. What it paid is also real, and mostly went unrecorded.
 
-## A City Still Being Written
+## Where the Pavement Ends
 
-Altamira before 2010 was a place people passed through on the way somewhere else. Rubber tappers used it as a staging post during the Amazon boom. Missionaries used it to reach upriver villages. Then Belo Monte turned it into a city of 115,000 people almost by accident, with infrastructure still catching up. Today it has a regional airport, a real hospital, indigenous advocacy groups with offices on the main road, and a remarkable number of NGOs that exist because of everything the dam complicates. The center is compact; the river is immediate; the light in the afternoon turns copper on the Xingu water. For a place this large, geographically speaking, the actual inhabited heart of Altamira feels almost small, as if someone had placed a market town in the middle of Missouri and forgotten to build any suburbs. The forest starts where the pavement ends. The pavement ends quickly.
+Altamira covers 159,533 square kilometres, larger than any other municipality in Brazil and larger than 104 countries, at about 0.73 people per square kilometre. Nine of its ten districts are rural and separated from the seat by hundreds of kilometres of forest, dirt road and river. Most of that territory is not farm or pasture but protected area and Indigenous land: the Terra do Meio Ecological Station alone runs to 3,373,134 hectares, and the Altamira National Forest, Serra do Pardo National Park and the Nascentes da Serra do Cachimbo Biological Reserve all take a share. The inhabited part is compact, 109 metres above sea level and drenched by 1,844 millimetres of rain a year. Walk twenty minutes from the centre and the pavement runs out. What is on the other side of it is most of the municipality.
 
 ## Flight Context
 
-Located at 3.20 S, 52.21 W on the Xingu River in central Para, Brazil. Altamira Airport (SBHT) handles regional traffic. Best viewing altitude is FL200-FL280 to take in the horseshoe bend at the Volta Grande and the Belo Monte Dam complex 50 km downstream. Nearest major airport is Belem Val-de-Cans (SBBE) about 700 km east. Expect high humidity and afternoon thunderstorms in wet season (November-May). The river is the dominant visual feature: a dark-water tributary of the Amazon flowing south to north toward the main stem.
+Located at 3.20 S, 52.21 W on the Xingu River in central Para, Brazil, at 109 m elevation. Altamira Airport (SBHT / ATM) sits 7 km from downtown with a 2,003 m asphalt runway (07/25) and modest regional traffic. FL200 to FL280 gives the best perspective on the Volta Grande, the great horseshoe bend roughly 50 km downstream, and on the Belo Monte complex that reshaped it. Belem/Val-de-Cans (SBBE) is about 700 km east; Santarem (SBSN) lies northwest. The Xingu itself is the primary visual reference, a dark clearwater river running south to north toward the Amazon. Expect high humidity year-round, strong afternoon convection in the November-to-June wet season, and smoke haze reducing visibility in the August-September burning window.
 
 ## Sources
 
 - [Altamira, Pará - Wikipedia](https://en.wikipedia.org/?curid=1466879)
+- [The city that persecutes trees - SUMAUMA](https://sumauma.com/en/a-cidade-que-persegue-arvores/)
+- [How those displaced by the Belo Monte dam are fighting to save the Amazon - openDemocracy](https://www.opendemocracy.net/en/democraciaabierta/belo-monte-dam-brazil-construction-displaced-ecosystem-flooding-deforestation-feminist-campaign-dani-silva/)
+- [Infrastructure-Driven Development: The Local Social Impact of a Large Hydropower Plant in the Amazon](https://www.tandfonline.com/doi/full/10.1080/00220388.2023.2197545)
+- [Altamira, Pará - Wikipedia](https://en.wikipedia.org/?curid=1466879)
+  - 159,533.73 km² area, largest municipality by area in Brazil
+  - 2010 census population 99,075
+  - 2020 census population 115,969
+  - Tavaquara mission founded in the 1750s by Father Roque Hunderfund
+  - village renamed Altamira 2 April 1883 under Colonel Francisco Gayoso's influence
+  - Terra do Meio Ecological Station is 3,373,134 hectares
+  - elevation 109 m, annual rainfall 1,844 mm
+
+## Review Notes
+
+**Reviewed:** 2026-09-05 · 7 facts verified · 0 corrections
+
+Verified via Wikipedia WebFetch: area, population (2010/2020 census), Tavaquara mission founding, 1883 renaming, Terra do Meio size, elevation/rainfall. All accurate, no corrections needed. Homicide-rate claim (11->135/100k) could not be independently verified (search budget exhausted) but not contradicted. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- "a land without people, for people without land. It was wrong in the first half and cruel in the second."
+- "the range itself tells you how little care went into counting"
 
 ---
 
-*Word count: 850*
-*Read time: 4 minutes*
+*Word count: 894*
+*Read time: 5 minutes*

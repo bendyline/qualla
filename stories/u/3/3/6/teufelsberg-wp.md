@@ -36,7 +36,7 @@ Teufelsberg rises at 52.4977°N, 13.2429°E, in the northern part of the Grunewa
 
 ## Sources
 
-- [Teufelsberg](https://en.wikipedia.org/wiki/Teufelsberg)
+- [Teufelsberg](https://en.wikipedia.org/?curid=883614)
 - [Teufelsberg - Wikipedia](https://en.wikipedia.org/?curid=883614)
   - 120.1 m above sea level, ~80 m above the Teltow plateau, higher than Großer Müggelberg - source
   - approx. 75 million cubic metres of debris over 20 years - source

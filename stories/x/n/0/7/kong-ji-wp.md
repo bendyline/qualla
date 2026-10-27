@@ -33,7 +33,7 @@ Located at 34.429N, 135.529E in the Amanosan mountain area of Kawachinagano, Osa
 ## Sources
 
 - [Kong Li - Wikipedia](https://en.wikipedia.org/?curid=77320230)
-- [Wikipedia - Kongō-ji](https://en.wikipedia.org/wiki/Kong%C5%8D-ji)
+- [Wikipedia - Kongō-ji](https://en.wikipedia.org/?curid=63635268)
   - Five National Treasures and 29 Important Cultural Properties confirmed
   - Engishiki copies from 1127 are oldest extant copies
   - Engishiki Kongo-ji edition: 3 scrolls with vol 12 and fragments of vols 14/16

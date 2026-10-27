@@ -33,7 +33,7 @@ Fort San Miguel sat at 49.592N, 126.615W on a small rocky island (historically c
 ## Sources
 
 - [Fort San Miguel - Wikipedia](https://en.wikipedia.org/?curid=11192264)
-- [Fort San Miguel - Wikipedia fact-check](https://en.wikipedia.org/wiki/Fort_San_Miguel)
+- [Fort San Miguel - Wikipedia fact-check](https://en.wikipedia.org/?curid=11192264)
   - Martinez chose Hog Island on May 15 1789 confirmed
   - Artillery emplaced by May 26 1789 confirmed
   - June 24 1789 cannon salvo as official act of possession confirmed

@@ -30,7 +30,7 @@ The dark gneiss that forms the range weathers differently from the park's granit
 
 ## Flight Context
 
-The Pinto Mountains run east-west across the north-central portion of Joshua Tree National Park, centered around 34.03°N, 115.78°W. The range is identifiable from altitude by its darker coloring relative to the pale granite formations to the west. The Pinto Basin lies to the south of the range. Restricted airspace over Joshua Tree National Park — check NOTAMs before transiting. Nearest airports: Twentynine Palms (TNP) ~15 miles northwest, Desert Resorts Regional (PSP) ~50 miles west.
+The Pinto Mountains run east-west across the north-central portion of Joshua Tree National Park, centered around 34.03°N, 115.78°W. The range is identifiable from altitude by its darker coloring relative to the pale granite formations to the west. The Pinto Basin lies to the south of the range. Restricted airspace over Joshua Tree National Park — check NOTAMs before transiting. Nearest airports: Twentynine Palms (TNP) ~15 miles northwest, Palm Springs International (PSP) ~50 miles west.
 
 ## Sources
 

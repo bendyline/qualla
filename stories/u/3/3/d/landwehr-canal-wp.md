@@ -36,7 +36,7 @@ The Landwehr Canal runs about 10.7 km across inner Berlin, with the story's refe
 
 ## Sources
 
-- [Landwehr Canal](https://en.wikipedia.org/wiki/Landwehr_Canal)
+- [Landwehr Canal](https://en.wikipedia.org/?curid=12630909)
 - [Landwehrkanal (German Wikipedia)](https://de.wikipedia.org/wiki/Landwehrkanal)
   - 10.73 km long, built 1845-1850 to Lenné's design, formally inaugurated 2 September 1850 - source
   - 36 bridges cross the canal - source

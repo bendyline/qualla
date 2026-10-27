@@ -42,7 +42,7 @@ The '49ers' wagon ruts are still visible in places, preserved by the dry climate
 
 ## Flight Context
 
-Death Valley (36.25N, 116.83W) lies in southeastern California near the Nevada border. Las Vegas McCarran (KLAS) is 130km southeast. The valley is clearly visible from altitude - a tan basin between the Panamint and Amargosa ranges. Badwater Basin, the lowest point in North America at -282 feet, is visible as white salt flats. Summer temperatures make ground operations dangerous.
+Death Valley (36.25N, 116.83W) lies in southeastern California near the Nevada border. Harry Reid International Airport (KLAS, formerly McCarran) is 130km southeast. The valley is clearly visible from altitude - a tan basin between the Panamint and Amargosa ranges. Badwater Basin, the lowest point in North America at -282 feet, is visible as white salt flats. Summer temperatures make ground operations dangerous.
 
 ## Sources
 

@@ -3,32 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/4/g/3/strzelecki-creek-wp/hero.jpg",
-        "filename": "Aegopodium podagraria1 ies.jpg",
-        "caption": "Aegopodium podagraria",
-        "alt": "Aegopodium podagraria",
-        "width": 800,
-        "height": 700,
-        "mimeType": "image/jpeg",
+        "path": "_m/r/1/f/9/adelaide-wp/australia-south-australia-reli.png",
+        "filename": "Australia South Australia relief location map.png",
+        "caption": "Location map of South Australia, Australia\nEquidistant cylindrical projection, latitude of true scale 31.27° S (equivalent to equirectangular projection with N/S stretching 117 %). Geographic limits of the map:\n\nN: 25.6° S\nS: 38.5° S\nW: 128.5° E\nE: 141.5° E",
+        "alt": "Location map of South Australia, Australia\nEquidistant cylindrical projection, latitude of true scale 31.27° S (equivalent to equirectangular projection with N/S stretching 117 %). Geographic limits of the map:\n\nN: 25.6° S\nS: 38.5° S\nW: 128.5° E\nE: 141.5° E",
+        "width": 1812,
+        "height": 2105,
         "license": "CC BY-SA 3.0",
-        "artist": "Frank Vincentz",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aegopodium_podagraria1_ies.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "strzelecki-creek-wp",
-        "sourceGeohash4": "r4g3",
-        "categories": [
-          "Aegopodium podagraria leaves",
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "Leaves on black background",
-          "License migration redundant",
-          "Self-published work",
-          "Taken with Ricoh Caplio G4"
-        ]
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Tentotwo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Australia_South_Australia_relief_location_map.png",
+        "smallPath": "_m/r/1/f/9/adelaide-wp/australia-south-australia-reli-small.webp"
       },
       "images": [
         {
-          "path": "_m/r/4/g/3/strzelecki-creek-wp/map-lake-eyre-drainage.png",
+          "path": "_m/q/g/w/q/finke-river-wp/map-lake-eyre-drainage.png",
           "filename": "Lake eyre basin map.png",
           "caption": "This is a map of the Lake Eyre drainage basin including the major rivers. Note that the river courses shown are usually dry.",
           "alt": "This is a map of the Lake Eyre drainage basin including the major rivers. Note that the river courses shown are usually dry.",
@@ -47,10 +36,11 @@
             "Lake Eyre",
             "Lake Eyre Basin",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/q/g/w/q/finke-river-wp/map-lake-eyre-drainage-small.webp"
         },
         {
-          "path": "_m/r/4/g/3/strzelecki-creek-wp/australia-south-australia-reli.png",
+          "path": "_m/r/1/f/9/adelaide-wp/australia-south-australia-reli.png",
           "filename": "Australia South Australia relief location map.png",
           "caption": "Location map of South Australia, Australia\nEquidistant cylindrical projection, latitude of true scale 31.27° S (equivalent to equirectangular projection with N/S stretching 117 %). Geographic limits of the map:\n\nN: 25.6° S\nS: 38.5° S\nW: 128.5° E\nE: 141.5° E",
           "alt": "Location map of South Australia, Australia\nEquidistant cylindrical projection, latitude of true scale 31.27° S (equivalent to equirectangular projection with N/S stretching 117 %). Geographic limits of the map:\n\nN: 25.6° S\nS: 38.5° S\nW: 128.5° E\nE: 141.5° E",
@@ -70,7 +60,8 @@
             "PNG created with QGIS",
             "Relief location maps of Australia",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/r/1/f/9/adelaide-wp/australia-south-australia-reli-small.webp"
         }
       ],
       "narration": [
@@ -82,8 +73,9 @@
         "_m/r/4/g/3/strzelecki-creek-wp/r4g3-strzelecki-creek-life-along-a-sometimes-river.mp3"
       ],
       "combinedNarration": "_m/r/4/g/3/strzelecki-creek-wp/r4g3-strzelecki-creek-combined.mp3",
-      "combinedNarrationBytes": 3066309,
-      "combinedNarrationDuration": 255
+      "combinedNarrationBytes": 3114045,
+      "combinedNarrationDuration": 255,
+      "combinedCover": "_m/r/4/g/3/strzelecki-creek-wp/r4g3-strzelecki-creek-combined-cover.jpg"
     }
   }
 }

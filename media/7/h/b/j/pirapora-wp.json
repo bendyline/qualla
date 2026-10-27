@@ -3,24 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/7/h/b/j/pirapora-wp/hero.jpg",
-        "filename": "PIRAPORA-MG.2013.JPG",
-        "caption": "Montage about Pirapora, Minas Gerais, Brazil",
-        "alt": "Montage about Pirapora, Minas Gerais, Brazil",
-        "width": 863,
-        "height": 899,
+        "path": "_m/7/h/b/j/pirapora-wp/grace-passo.jpg",
+        "filename": "Grace Passô.jpg",
+        "caption": "Grace Passô",
+        "alt": "Grace Passô",
+        "width": 5472,
+        "height": 3648,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "ADMMASTER",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PIRAPORA-MG.2013.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mariaduna",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grace_Pass%C3%B4.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "pirapora-wp",
         "sourceGeohash4": "7hbj",
-        "categories": [
-          "CC-BY-3.0",
-          "Pirapora",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/7/h/b/j/pirapora-wp/grace-passo-medium.webp",
+        "smallPath": "_m/7/h/b/j/pirapora-wp/grace-passo-small.webp"
       },
       "images": [
         {
@@ -188,7 +185,8 @@
             "Grão Mogol",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/grao-mogol-small.webp"
         },
         {
           "path": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/maresdemorros.jpg",
@@ -211,7 +209,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Sony DSC-S700"
-          ]
+          ],
+          "mediumPath": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/maresdemorros-medium.webp",
+          "smallPath": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/maresdemorros-small.webp"
         },
         {
           "path": "_m/6/u/t/t/araguari-wp/hero.jpg",
@@ -234,7 +234,8 @@
             "PD-self",
             "Self-published work",
             "Town halls in Minas Gerais"
-          ]
+          ],
+          "smallPath": "_m/6/u/t/t/araguari-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/diamantina-vista-do-cruzeiro.jpg",
@@ -257,7 +258,9 @@
             "Photographs by Leandro Ciuffo",
             "Photographs by Leandro Neumann Ciuffo",
             "Taken with Nikon D3000"
-          ]
+          ],
+          "mediumPath": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/diamantina-vista-do-cruzeiro-medium.webp",
+          "smallPath": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/diamantina-vista-do-cruzeiro-small.webp"
         },
         {
           "path": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/ponte-de-almenara.jpg",
@@ -281,7 +284,8 @@
             "Panoramio images reviewed by trusted users",
             "Photos from Panoramio",
             "Rio Jequitinhonha"
-          ]
+          ],
+          "smallPath": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/ponte-de-almenara-small.webp"
         },
         {
           "path": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/cerrado-em-paracatu.jpg",
@@ -302,7 +306,8 @@
             "Paracatu",
             "Self-published work",
             "Taken with Sony DSC-S650"
-          ]
+          ],
+          "smallPath": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/cerrado-em-paracatu-small.webp"
         },
         {
           "path": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/centraludi.jpg",
@@ -322,7 +327,8 @@
             "CC-BY-SA-3.0",
             "Self-published work",
             "Uberlândia"
-          ]
+          ],
+          "smallPath": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/centraludi-small.webp"
         },
         {
           "path": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/crianca-indigena-xakriaba-no-i.jpg",
@@ -348,7 +354,9 @@
             "Images from Wiki Loves Earth missing SDC location of creation",
             "Self-published work",
             "Uploaded via Campaign:wle-br"
-          ]
+          ],
+          "mediumPath": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/crianca-indigena-xakriaba-no-i-medium.webp",
+          "smallPath": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/crianca-indigena-xakriaba-no-i-small.webp"
         },
         {
           "path": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/skyline-de-uberaba.png",
@@ -363,7 +371,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skyline_de_Uberaba.png",
           "sourceType": "sibling",
           "sourceArticleId": "triangulo-mineiro",
-          "sourceGeohash4": "7hbj"
+          "sourceGeohash4": "7hbj",
+          "smallPath": "_m/tpc/tr/ia/ng/ul/triangulo-mineiro/skyline-de-uberaba-small.webp"
         }
       ],
       "narration": [

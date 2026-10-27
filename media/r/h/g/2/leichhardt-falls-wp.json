@@ -3,37 +3,32 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/h/g/2/leichhardt-falls-wp/hero.jpg",
-        "filename": "Huka Falls.jpg",
-        "caption": "Huka Falls, on the Waikato River near Taupo, New Zealand.",
-        "alt": "Huka Falls, on the Waikato River near Taupo, New Zealand.",
-        "width": 2272,
-        "height": 1704,
+        "path": "_m/r/h/g/2/leichhardt-falls-wp/leichhardt-falls.jpg",
+        "filename": "Leichhardt Falls1.jpg",
+        "caption": "Leichhardt Falls",
+        "alt": "Leichhardt Falls",
+        "width": 800,
+        "height": 567,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Avenue",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huka_Falls.jpg",
+        "license": "CC BY 2.0",
+        "artist": "Shek Graham",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leichhardt_Falls1.jpg",
         "sourceType": "core",
         "sourceArticleId": "leichhardt-falls-wp",
         "sourceGeohash4": "rhg2",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Files with coordinates missing SDC location of creation",
-          "GFDL",
-          "Huka Falls",
-          "License migration redundant",
-          "New Zealand photographs taken on 2006-03-15",
-          "Quality images",
-          "Quality images by Avenue",
-          "Quality images of nature in New Zealand",
-          "Retouched pictures",
-          "Self-published work",
-          "Taken with Canon PowerShot S45"
-        ]
+          "CC-BY-2.0",
+          "Flickr images missing SDC creator",
+          "Flickr images missing SDC source of file",
+          "Flickr images reviewed by FlickreviewR",
+          "Leichhardt Falls",
+          "Taken with Canon EOS 300D"
+        ],
+        "smallPath": "_m/r/h/g/2/leichhardt-falls-wp/leichhardt-falls-small.webp"
       },
       "images": [
         {
-          "path": "_m/r/h/g/2/leichhardt-falls-wp/aegopodium-podagraria.jpg",
+          "path": "_m/6/x/m/q/amazon-rainforest-wk/aegopodium-podagraria.jpg",
           "filename": "Aegopodium podagraria1 ies.jpg",
           "caption": "Aegopodium podagraria",
           "alt": "Aegopodium podagraria",
@@ -54,7 +49,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Ricoh Caplio G4"
-          ]
+          ],
+          "smallPath": "_m/6/x/m/q/amazon-rainforest-wk/aegopodium-podagraria-small.webp"
         },
         {
           "path": "_m/r/h/g/2/leichhardt-falls-wp/leichhardt-falls.jpg",
@@ -81,7 +77,7 @@
           "smallPath": "_m/r/h/g/2/leichhardt-falls-wp/leichhardt-falls-small.webp"
         },
         {
-          "path": "_m/r/h/g/2/leichhardt-falls-wp/hero.jpg",
+          "path": "_m/r/n/j/5/green-hill-fort-wp/hero.jpg",
           "filename": "Australia Queensland relief location map.jpg",
           "caption": "Location map of Queensland, Australia\nEquirectangular projection, N/S stretching 106 %. Geographic limits of the map:\n\nN: 9.0° S\nS: 29.5° S\nW: 137.5° E\nE: 154.0° E\nBorders and Reefs from the other map by NNW.",
           "alt": "Location map of Queensland, Australia\nEquirectangular projection, N/S stretching 106 %. Geographic limits of the map:\n\nN: 9.0° S\nS: 29.5° S\nW: 137.5° E\nE: 154.0° E\nBorders and Reefs from the other map by NNW.",
@@ -102,7 +98,8 @@
             "Location maps of Queensland",
             "Relief location maps of Australia",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/r/n/j/5/green-hill-fort-wp/hero-small.webp"
         },
         {
           "path": "_m/r/h/g/2/leichhardt-falls-wp/leichhardt-falls2.jpg",
@@ -174,7 +171,9 @@
             "License migration completed",
             "Streets in Innisfail",
             "Taken with Sony DSC-S60"
-          ]
+          ],
+          "mediumPath": "_m/r/h/g/d/gulf-country-wp/innisfail-medium.webp",
+          "smallPath": "_m/r/h/g/d/gulf-country-wp/innisfail-small.webp"
         },
         {
           "path": "_m/r/h/g/d/gulf-country-wp/kuranda-scenic-railway-on-top-.jpg",
@@ -197,7 +196,9 @@
             "License migration redundant",
             "Self-published work",
             "Uploaded with en.wp upload wizard"
-          ]
+          ],
+          "mediumPath": "_m/r/h/g/d/gulf-country-wp/kuranda-scenic-railway-on-top--medium.webp",
+          "smallPath": "_m/r/h/g/d/gulf-country-wp/kuranda-scenic-railway-on-top--small.webp"
         },
         {
           "path": "_m/r/h/g/d/gulf-country-wp/viewpoint-daintree-national-pa.jpg",
@@ -224,7 +225,9 @@
             "Landscapes of Queensland",
             "September 2009 in Queensland",
             "Taken with Casio Exilim EX-Z500"
-          ]
+          ],
+          "mediumPath": "_m/r/h/g/d/gulf-country-wp/viewpoint-daintree-national-pa-medium.webp",
+          "smallPath": "_m/r/h/g/d/gulf-country-wp/viewpoint-daintree-national-pa-small.webp"
         }
       ],
       "narration": [

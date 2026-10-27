@@ -28,7 +28,7 @@ The membership list reveals golf's reach far beyond the fairway. Two U.S. Presid
 
 ## Flight Context
 
-The former World Golf Hall of Fame site at World Golf Village is located at approximately 29.991N, 81.470W in St. Johns County, Florida, between Jacksonville and St. Augustine. From the air, the World Golf Village complex is identifiable by its large resort-style buildings, golf courses, and an IMAX theater dome adjacent to the museum building, situated along International Golf Parkway. The St. Johns River lies to the west and Interstate 95 runs nearby. Nearest airports: St. Augustine Airport (KSGJ) approximately 8nm southeast, Jacksonville International (KJAX) approximately 20nm north. Note: the Hall of Fame relocated to Pinehurst, North Carolina, in 2024; the Florida campus is the former location.
+The former World Golf Hall of Fame site at World Golf Village is located at approximately 29.991N, 81.470W in St. Johns County, Florida, between Jacksonville and St. Augustine. From the air, the World Golf Village complex is identifiable by its large resort-style buildings, golf courses, and an IMAX theater dome adjacent to the museum building, situated along International Golf Parkway. The St. Johns River lies to the west and Interstate 95 runs nearby. Nearest airports: Northeast Florida Regional Airport (KSGJ, formerly St. Augustine Airport) approximately 8nm southeast, Jacksonville International (KJAX) approximately 20nm north. Note: the Hall of Fame relocated to Pinehurst, North Carolina, in 2024; the Florida campus is the former location.
 
 ## Sources
 

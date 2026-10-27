@@ -46,7 +46,7 @@ Located at 52.7306 N, 13.4917 E, in forest north of Bernau bei Berlin, Brandenbu
 
 ## Sources
 
-- [Waldsiedlung - Wikipedia (EN)](https://en.wikipedia.org/wiki/Waldsiedlung)
+- [Waldsiedlung - Wikipedia (EN)](https://en.wikipedia.org/?curid=8543616)
   - Secure housing zone for GDR leaders at Bernau bei Berlin, Brandenburg, 1960-1989; treated in Germany as a symbol of the SED elite
   - SED leadership previously lived in mansions on the Majakowskiring in Pankow; after the Hungarian Revolution of 1956 the leadership decided to build a secure residential zone in a more remote location
   - Construction began 1958, two years after the SED resolution, in woodland belonging to Bernau bei Berlin about 30 km north of East Berlin; built through an agency subordinate to the Stasi and completed in 1960

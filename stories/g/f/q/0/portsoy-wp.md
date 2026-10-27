@@ -47,7 +47,7 @@ Portsoy stands on the Moray Firth coast at 57.68 degrees N, 2.69 degrees W, fift
   - Scottish Traditional Boat Festival founded 1993 confirmed
   - Jimmy MacBeath born 1894 confirmed
   - Jim Paterson trombonist of Dexys Midnight Runners confirmed
-- [Peaky Blinders Season 6 filming at Portsoy 2021](https://en.wikipedia.org/wiki/Portsoy)
+- [Peaky Blinders Season 6 filming at Portsoy 2021](https://en.wikipedia.org/?curid=406010)
   - Peaky Blinders season 6 filmed in Portsoy 2021 confirmed
 
 ## Review Notes

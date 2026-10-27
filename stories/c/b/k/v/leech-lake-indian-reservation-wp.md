@@ -33,7 +33,7 @@ Located at 47.355°N, 94.257°W at approximately 1,300 feet MSL in north-central
 ## Sources
 
 - [Leech Lake Indian Reservation - Wikipedia](https://en.wikipedia.org/?curid=1847043)
-- [Wikipedia - Leech Lake Indian Reservation](https://en.wikipedia.org/wiki/Leech_Lake_Indian_Reservation)
+- [Wikipedia - Leech Lake Indian Reservation](https://en.wikipedia.org/?curid=1847043)
   - Dawes Act 1887 and Nelson Act 1889 confirmed
   - Five reservations merged under Indian Reorganization Act 1934 confirmed
   - Pillager Band, Lake Superior Band, Mississippi Band composition confirmed

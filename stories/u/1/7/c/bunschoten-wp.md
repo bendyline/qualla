@@ -45,7 +45,7 @@ Bunschoten and Spakenburg sit together at 52.25 degrees north, 5.37 degrees east
   - City rights granted in 1383 by bishop of Utrecht — consistent with sources
   - Town burned at Christmas 1427 during episcopal succession conflict — consistent with sources
   - Botter: flat-bottomed wooden sailing vessel with hinged leeboard — confirmed design description
-- [Spakenburg traditional costume](https://en.wikipedia.org/wiki/Bunschoten)
+- [Spakenburg traditional costume](https://en.wikipedia.org/?curid=118663)
   - Traditional Spakenburg costume (kraplap, floral bodice) still worn by a declining number of women — confirmed
   - Spakenburg Days summer festivals involve restored botters and traditional costumes — confirmed
 

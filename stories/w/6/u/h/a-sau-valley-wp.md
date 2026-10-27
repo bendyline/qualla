@@ -31,6 +31,15 @@ The A Shau Valley lies at approximately 16.259°N, 107.213°E, roughly 50 km sou
 ## Sources
 
 - [A Sầu Valley - Wikipedia](https://en.wikipedia.org/?curid=3255698)
+- [Operation Delaware - Wikipedia](https://en.wikipedia.org/wiki/Operation_Delaware)
+  - A Shau Valley served as primary PAVN logistics corridor into South Vietnam
+  - Last Special Forces camp overrun March 1966
+  - Operation Delaware (April–May 1968) was first major US re-entry using 1st Cavalry Division (Airmobile)
+  - Battle of Hamburger Hill fought at northern end of valley in May 1969
+  - Ho Chi Minh Highway now follows old Route 548 alignment
+- [Battle of Hamburger Hill - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Hamburger_Hill)
+  - Valley 40 km long, 1.5 km wide at broadest point confirmed
+  - PAVN antiaircraft included 37mm radar-controlled guns and 23mm cannons on ridges confirmed
 
 ## Review Notes
 

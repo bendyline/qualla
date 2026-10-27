@@ -1,48 +1,76 @@
 # Belém
 
-Portugal's first colony on the Amazon, founded 1616, named for Bethlehem and shaped by four centuries of sugar, rubber, and the great river's tides.
+The metropolis at the mouth of the Amazon: a 1616 Portuguese fort that grew rich on rubber, feeds Brazil's largest religious procession, and hosted the first climate summit ever held in the rainforest.
 
 **Location:** -1.4558, -48.5039
 
-**Categories:** city, history, colonial, amazon, brazil, portuguese-empire
+**Categories:** city, history, amazon, brazil, culture, food, climate
 
 ## Introduction
 
-On 12 January 1616, a Portuguese captain-general named Francisco Caldeira Castelo Branco anchored in the wrong bay. He had sailed from Sao Luis to block French and Dutch incursions into Amazonian trade, and the body of water he entered, which the Tupinamba called Guacu Parana, he mistook for the main channel of the great river. Thirty leagues upstream, on its false bank, he built a wooden fort thatched with straw and named it Presepio, the Nativity Scene. Around that improvised stockade grew the first European colony on the Amazon, and eventually a city of nearly two and a half million people.
+Nobody built Belém to be a capital of anything. It began as a mistake — a Portuguese captain-general who sailed into the wrong bay in January 1616, decided it was the Amazon, and threw up a straw-roofed stockade to keep the French and Dutch out. Four centuries later the mistake is a metropolis of nearly 1.4 million people, 2.25 million counting the wider region, the largest city at the mouth of the greatest river on Earth, and in November 2025 it was where the world came to argue about the future of the forest that surrounds it.
 
-## The Naming
+## Bethlehem of Greater Pará
 
-The colony was first called Feliz Lusitania, Fortunate Lusitania, a hopeful phrase. That name did not stick. It became Nossa Senhora de Belém do Grão-Pará, Our Lady of Bethlehem of Greater Pará, after Santa Maria de Belém in Lisbon, the Portuguese district named in turn for the Palestinian birthplace of Christ. Brazilians still call the city Belém do Pará to distinguish it from other towns of the same name and from Bethlehem itself. Another nickname clings: Cidade das Mangueiras, the City of Mango Trees, a reference to the enormous shade trees lining the colonial streets. The city was granted municipal status in 1655 and became the capital when Pará split from Maranhao in 1772.
+The first name was Feliz Lusitânia, Fortunate Lusitania, which was optimistic. It gave way to Nossa Senhora de Belém do Grão-Pará — Our Lady of Bethlehem of Greater Pará — after the Lisbon district of Belém. Brazilians still say Belém do Pará to keep it distinct from the country's other Beléns. The settlement was granted city status in 1655 and became the capital when Pará was split off from Maranhão in 1772. Curiously, it was not administratively part of Brazil at all until 1775: for its first century and a half this was a separate Portuguese possession facing the Atlantic. The nineteenth century opened with revolt and factional bloodshed that did not settle until 1836.
 
 ## Cycles of Wealth
 
-Four centuries of Belem's economy can be read as a sequence of commodities. Sugar mattered most through the 1600s. Cattle ranching took over next, then rice, cotton, and coffee through the 1700s, until southern Brazil with its better climate and infrastructure priced Belem out. Then came rubber. The Amazon latex trade, unlocked by the 1866 opening of the Amazon, Tocantins, and Tapajos rivers to navigation, flooded Belem with money between roughly 1870 and 1910. The wealthy built eclectic-style mansions, hired French architects, and importing entire iron markets from England. The boom collapsed when British-run Asian plantations overtook wild Amazonian collection. Belem did not disappear, though. It remained the main commercial entrepot of the Amazon basin, and still does.
+Belém's economy reads as a sequence of commodities, each one booming and then leaving. Sugar carried the seventeenth century; cattle followed, then rice, cotton and coffee, until southern Brazil grew all three more cheaply and the city slumped. Then came rubber. After 1866, when the Amazon, Tocantins and Tapajós were opened to navigation, latex money poured into Belém and built the mansions, boulevards and theatres that still define the centre. The boom broke after 1912, undone by British-run plantations in Asia growing the same tree in orderly rows. Belém did not empty out. It stayed the entrepôt of the Amazon basin, and still ships the region's aluminium, iron ore, hardwoods, black pepper and Brazil nuts — much of it powered by the Tucuruí Dam, 300 kilometres southwest.
 
-## An Italian Architect Redraws the City
+## City of Mango Trees
 
-In 1753 an Italian named Giuseppe Antonio Landi stepped ashore as part of a technical commission sent from Portugal. The Governor, Francisco Xavier de Mendonca Furtado, brother of the powerful Marquis of Pombal, invited him to stay. Landi redesigned Belem's urban plan and then personally designed or modified nearly every significant building erected during his long residence. The Church of Our Lady of Mount Carmel bears his influence, the octagonal Igreja de Sao Joao Batista is his, and the street patterns he laid out still define the old city. Landi died in Belem in 1791, having shaped a tropical Portuguese city more thoroughly than perhaps any single architect has shaped any other.
+The local nickname is Cidade das Mangueiras, and it is literal: mango trees arch over the colonial streets and drop fruit on parked cars in season. Belém sits 1.4 degrees south of the equator with a true rainforest climate, more than 60 millimetres of rain in every month of the year and the thermometer parked near 26.5°C regardless of season. Residents plan around the afternoon downpour, not against it. Green survives inside the city: the Bosque Rodrigues Alves holds 16 hectares of forest along one of the busiest avenues, and 99 percent of Utinga State Park — created in 1993 to protect the metropolitan water supply — lies inside the municipal boundary, its trails busy with monkeys. Sixty-seven kilometres north, the river island of Mosqueiro fringes itself with freshwater beaches that fill up in the drier months.
 
-## Climate and the Rainforest Outside
+## The Christmas of the Amazon
 
-Belem sits in a tropical rainforest climate, 1.4 degrees south of the equator, where every month of the year sees more than 60 millimeters of rainfall. There is a wetter season from December through May and a drier season that is still damp. Average temperatures hover around 26.5 degrees Celsius year-round. The city is surrounded by the Amazon rainforest, more than half of the planet's remaining wet tropical forest, the most species-rich biome on Earth. More than a third of all known species on this planet live within the Amazon. The Bosque Rodrigues Alves, a 16-hectare botanical garden in the city, preserves a piece of original forest, and visitors can still hear howler monkeys from downtown rooftops on still mornings.
+On the second Sunday of October the city stops for the Círio de Nazaré, the largest religious gathering in Brazil. The tradition begins with a caboclo named Plácido, who found an image of the Virgin and Child on the bank of the Murutucu creek, took it home, and — the story goes — kept finding it back at the creek. He built a chapel there. Today the image travels by Navy hydrographic ship across Guajará Bay trailed by dozens of decorated boats, then is drawn through the streets on a carriage hauled by a rope that thousands of people fight to touch, a procession that takes around five hours to reach the cathedral. The celebrations run a fortnight, closing with a children's Círio and the Re-Círio. Belenenses call it the Christmas of the Amazon and travel home for it the way other Brazilians travel home in December.
 
-## Círio de Nazaré
+## What the Estuary Tastes Like
 
-Belem hosts one of the largest religious events in Brazil on the second Sunday of each October. According to tradition, a farmer and lumberman named Placido Jose de Souza found an image of the Virgin and Child on the edge of the Murucutu creek in the 18th century. He took it home. The image returned to the creek on its own. He built a small chapel at the site, and the story of the miracle spread. The Cirio de Nazare procession now draws a crowd that walks behind the statue for about five hours through the streets of Belem. The festival has grown to incorporate a river pilgrimage in which the image travels by Navy corvette across Guajara Bay, followed by dozens of decorated boats, before the candlelit procession ends at the Se Cathedral. The full festivities extend for fifteen days. Locals call it the Christmas of the Amazon.
+UNESCO named Belém a Creative City of Gastronomy in 2015 — an institutional way of saying the food here is unlike anywhere else in Brazil. Açaí is not a smoothie bowl but a thick savoury pulp eaten with fish and cassava flour. Cupuaçu, the cacao relative with a sour perfumed pulp, turns up in juice, sweets and ice cream. Tucupi, jambu, pirarucu and a hundred forest fruits move daily through the Ver-o-Peso market on the waterfront, an institution since 1688, when the Portuguese started taxing everything entering and leaving Amazonia. The cuisine is largely Indigenous in origin, carried forward by the people whose ancestors were here first.
 
-## Who Lives Here
+## The Argument Comes to Town
 
-The metropolitan region of Belem holds roughly 2.49 million people across seven municipalities, with the capital itself at 1.49 million. The population is predominantly Pardo, or multiracial, at about 62 percent, with white, black, Asian, and Amerindian communities making up the remainder. A 2011 autosomal DNA study found the ancestral composition runs roughly 69 percent European, 21 percent Amerindian, and 11 percent African. Brazilian, Portuguese, Tupinamba, West African, and wider Amazonian threads weave through the local culture, from food and language to music and the celebration of the Cirio itself. A Japanese community, arriving in the 1930s to develop jute and black pepper cultivation at nearby Tome-Acu and Santarem, added another layer. The Ver-o-Peso market remains the single clearest place to see and taste all of it converging.
+In November 2025, Belém hosted COP30 — the first United Nations climate conference ever held in the Amazon. Delegations that usually meet in Geneva or Dubai came instead to a tropical port that had to scramble for hotel rooms and road capacity to receive them, and the summit drew the largest Indigenous presence of any COP, hundreds of registered representatives from territories across the basin. The talks closed on 22 November with a package named the global mutirão, a Brazilian word for collective effort, calling for a sharp increase in funding to help developing countries withstand climate impacts. It contained no roadmap for ending fossil fuels, the thing many delegates had come for. The city made an argument no negotiating text could: the Amazon is not empty wilderness. Millions of people live in it, and this is their capital.
 
 ## Flight Context
 
-Coordinates 1.46S, 48.50W. Served by Val-de-Cans International (SBBE/BEL). City visible from cruising altitude at confluence of Para and Guama rivers. Marajo Island, the largest fluvial island in the world, lies directly west. Convective thunderstorms year-round, most intense December-May; afternoon arrivals typically experience IMC conditions. Morning approaches from the Atlantic offer best visibility of the estuary and the dense urban grid along the Guajara Bay waterfront.
+Belém lies at 1.456°S, 48.504°W, about 100 km upriver from the Atlantic on Guajará Bay, where the Pará and Guamá rivers meet. Val-de-Cans International (SBBE/BEL) sits 9 km north of the centre; Belém Air Force Base (ALA 9) shares the field's airspace. From altitude the city reads as a dense grid on a peninsula, with the vast pale expanse of Marajó Island — the largest fluvial island in the world — filling the horizon to the west and northwest. Recommended viewing altitude 3,000–6,000 feet for the waterfront and old quarter. Expect convective thunderstorms year-round, most intense December through May; morning approaches from the Atlantic give the cleanest view of the estuary before the afternoon build-up.
 
 ## Sources
 
 - [Belém - Wikipedia](https://en.wikipedia.org/?curid=409573)
+- [Belém - Wikipedia](https://en.wikipedia.org/?curid=409573)
+  - founded January 1616 by a Portuguese captain-general (Francisco Caldeira Castelo Branco), originally Feliz Lusitânia, then Nossa Senhora de Belém do Grão-Pará
+  - city status 1655; became capital when Pará separated from Maranhão in 1772; not administratively part of Brazil until 1775
+  - corrected population figures: ~1.4 million municipality / ~2.25 million metro (2025 estimate) — story previously cited an outdated higher estimate (~1.5M / 2.5M)
+  - Cidade das Mangueiras nickname, rainforest climate with 60mm+ rain every month, ~26.5°C year-round
+  - Bosque Rodrigues Alves 16 hectares; Utinga State Park created 1993; Mosqueiro island ~67km north
+  - Ver-o-Peso market established 1688; rubber boom followed opening of rivers to navigation in 1866 and ended around 1912
+  - UNESCO Creative City of Gastronomy designation in 2015
+  - COP30 held in Belém Nov 10-21 2025 (negotiations extended into overtime, concluding ~Nov 22) with severe hotel/lodging shortages reported
+- [Círio de Nazaré - Wikipedia](https://en.wikipedia.org/wiki/C%C3%ADrio_de_Nazar%C3%A9)
+  - corrected creek name: Murutucu (story previously said 'Murucutu')
+  - corrected vessel description: the image travels via a Navy hydrographic ship (Garnier Sampaio, H-37), not a 'corvette' as the story previously stated
+  - removed unverified surname 'José de Souza' for the finder Plácido — both English and Portuguese Wikipedia identify him only as 'Plácido, a caboclo'
+  - Re-Círio and a separate Children's Círio confirmed as closing events; procession to the cathedral takes roughly five hours
+
+## Review Notes
+
+**Reviewed:** 2026-09-05 · 8 facts verified · 4 corrections
+
+Verified founding history, population, climate/park facts, rubber boom dates, Ver-o-Peso, UNESCO gastronomy designation, and COP30 details against Wikipedia. Corrected: population figures updated to current 2025 estimate (1.4M/2.25M vs outdated 1.5M/2.5M); Círio creek name Murucutu -> Murutucu; 'Navy corvette' -> 'Navy hydrographic ship' (actual vessel is NHo Garnier Sampaio H-37); removed unverified surname 'José de Souza' for Plácido, described as caboclo per sources. No empathy issues found.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- 'Nobody built Belém to be a capital of anything. It began as a mistake.'
+- 'The city made an argument no negotiating text could: the Amazon is not empty wilderness. Millions of people live in it, and this is their capital.'
+- framing COP30's outcome as lacking the fossil-fuel roadmap 'many delegates had come for'
 
 ---
 
-*Word count: 830*
-*Read time: 5 minutes*
+*Word count: 899*
+*Read time: 4 minutes*

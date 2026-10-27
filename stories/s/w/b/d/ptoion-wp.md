@@ -41,7 +41,7 @@ Located at 38.48°N, 23.34°E, a mountain chain in northeastern Boeotia rising t
 - [Sanctuary of Apollo Ptoieius, Boeotia – Warwick University](https://warwick.ac.uk/fac/arts/classics/intranets/students/modules/greekreligion/database/clunby/)
   - Kouroi count: at least 90 in fragments, possibly up to 120
   - Materials: local poros stone and imported Parian and Naxian marble
-- [Herodotus – Mys at the Ptoion oracle (Histories 8.135)](https://en.wikipedia.org/wiki/Ptoion)
+- [Herodotus – Mys at the Ptoion oracle (Histories 8.135)](https://en.wikipedia.org/?curid=44173996)
   - Mardonius sent agent Mys to tour Greek oracles
   - Oracle at Ptoion answered Mys in Carian, his mother tongue
   - Theban witnesses could not understand the language

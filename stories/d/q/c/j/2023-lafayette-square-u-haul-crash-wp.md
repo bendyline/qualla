@@ -48,7 +48,7 @@ Lafayette Square sits at 38.90 degrees N, 77.04 degrees W in central Washington,
   - depredation of government property charge
   - restitution of nearly $57,000 (actual: $56,727)
   - schizophrenia diagnosis
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2023_Lafayette_Square_U-Haul_crash)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=73899672)
   - Removed a politically charged paraphrase of a living public figure's (Donald Trump Jr.) unverified tweets and a one-sided secondhand friend characterization; the attack facts, FBI-affidavit motive, guilty plea, and sentence are unchanged.
 
 ## Review Notes

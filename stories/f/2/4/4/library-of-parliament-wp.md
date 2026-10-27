@@ -41,7 +41,7 @@ Located at 45.43°N, 75.70°W, the Library of Parliament sits at the rear (north
   - 300 gas lamps converted to electricity 1883
   - Wrought iron dome by Thomas Fairbairn of Manchester
   - Appears on Canadian ten-dollar bill
-- [Library of Parliament - Wikipedia (fact-check)](https://en.wikipedia.org/wiki/Library_of_Parliament)
+- [Library of Parliament - Wikipedia (fact-check)](https://en.wikipedia.org/?curid=1574005)
   - Fire occurred February 3, 1916 - confirmed
   - Thomas Fairbairn Engineering of Manchester provided prefabricated wrought-iron dome - confirmed
   - First building in North America with wrought-iron roof - confirmed

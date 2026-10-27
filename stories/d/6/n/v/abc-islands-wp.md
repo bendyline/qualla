@@ -33,7 +33,7 @@ Centered near 12.17°N, 69.00°W, the ABC islands arc along the Venezuelan coast
 ## Sources
 
 - [ABC islands - Wikipedia](https://en.wikipedia.org/?curid=328730)
-- [ABC Islands - Wikipedia](https://en.wikipedia.org/wiki/ABC_islands)
+- [ABC Islands - Wikipedia](https://en.wikipedia.org/?curid=328730)
   - Caquetio (Arawakan people) origin from Venezuelan mainland verified
   - Alonso de Ojeda landed on Curacao in 1499 verified
   - Spanish established government by 1527 verified

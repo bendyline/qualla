@@ -37,7 +37,7 @@ Located at 35.006N, 135.754E in central Kyoto, Japan. The modern Honno-ji temple
 ## Sources
 
 - [Honnō-ji Incident - Wikipedia](https://en.wikipedia.org/?curid=1201890)
-- [Honnō-ji Incident - Wikipedia](https://en.wikipedia.org/wiki/Honn%C5%8D-ji_Incident)
+- [Honnō-ji Incident - Wikipedia](https://en.wikipedia.org/?curid=1201890)
   - June 21 1582 date confirmed
   - Mitsuhide army size 13000 confirmed
   - Battle of Yamazaki July 2 1582 confirmed (13 days by traditional calendar, 11 by Gregorian)

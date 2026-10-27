@@ -25,7 +25,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/8/b/clifden-lifeboat-station-wp/ireland-relief-location-map.png",
+          "path": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map.png",
           "filename": "Ireland relief location map.png",
           "caption": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
           "alt": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
@@ -44,7 +44,8 @@
             "Images with extracted images",
             "Maps by Nilfanion",
             "Relief location maps of Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map-small.webp"
         },
         {
           "path": "_m/g/c/8/b/clifden-lifeboat-station-wp/royal-national-lifeboa.jpg",
@@ -97,7 +98,8 @@
             "Clifden",
             "Template Unknown (author)",
             "Vickers Vimy (Alcock & Brown)"
-          ]
+          ],
+          "smallPath": "_m/g/c/8/b/clifden-wp/alcock-brown-clifden-small.webp"
         },
         {
           "path": "_m/g/c/8/b/clifden-wp/clifden-castle-front.jpg",
@@ -118,7 +120,9 @@
             "Clifden Castle",
             "Self-published work",
             "Taken with Sony DSC-HX1"
-          ]
+          ],
+          "mediumPath": "_m/g/c/8/b/clifden-wp/clifden-castle-front-medium.webp",
+          "smallPath": "_m/g/c/8/b/clifden-wp/clifden-castle-front-small.webp"
         },
         {
           "path": "_m/g/c/8/b/clifden-wp/where-we-are-staying-flickr-ma.jpg",
@@ -142,7 +146,9 @@
             "Hotels in Ireland",
             "Photographs taken on 2024-06-02",
             "Photos in Flickr Explore"
-          ]
+          ],
+          "mediumPath": "_m/g/c/8/b/clifden-wp/where-we-are-staying-flickr-ma-medium.webp",
+          "smallPath": "_m/g/c/8/b/clifden-wp/where-we-are-staying-flickr-ma-small.webp"
         },
         {
           "path": "_m/g/c/8/b/clifden-wp/the-connemara-hamper-in-clifde.jpg",
@@ -165,7 +171,9 @@
             "Food shops in Ireland",
             "Self-published work",
             "Shops in County Galway"
-          ]
+          ],
+          "mediumPath": "_m/g/c/8/b/clifden-wp/the-connemara-hamper-in-clifde-medium.webp",
+          "smallPath": "_m/g/c/8/b/clifden-wp/the-connemara-hamper-in-clifde-small.webp"
         }
       ],
       "narration": [

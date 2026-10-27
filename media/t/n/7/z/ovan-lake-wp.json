@@ -3,30 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/t/n/7/z/ovan-lake-wp/hero.png",
-        "filename": "OvanLakeAlamut.png",
-        "caption": "Ovan lake, Alamut, Iran",
-        "alt": "Ovan lake, Alamut, Iran",
-        "width": 1008,
-        "height": 654,
+        "path": "_m/t/n/7/z/ovan-lake-wp/ovan-lake-panorama.png",
+        "filename": "Ovan Lake Panorama.png",
+        "caption": "Panorama view of Ovan Lake, Alamout, Qazvin, Iran",
+        "alt": "Panorama view of Ovan Lake, Alamout, Qazvin, Iran",
+        "width": 6300,
+        "height": 2100,
         "mimeType": "image/png",
-        "license": "CC BY-SA 3.0",
-        "artist": "Soroush90gh",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:OvanLakeAlamut.png",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Akbar Nemati",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ovan_Lake_Panorama.png",
+        "sourceType": "commons-category",
         "sourceArticleId": "ovan-lake-wp",
         "sourceGeohash4": "tn7z",
         "accessedAt": "2026-03-01T12:28:17.817Z",
-        "categories": [
-          "Alamut",
-          "CC-BY-SA-3.0",
-          "Ovan Lake",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/t/n/7/z/ovan-lake-wp/ovan-lake-panorama-medium.webp",
+        "smallPath": "_m/t/n/7/z/ovan-lake-wp/ovan-lake-panorama-small.webp"
       },
       "images": [
         {
-          "path": "_m/t/n/7/z/ovan-lake-wp/iran-relief-location-map.jpg",
+          "path": "_m/t/j/d/d/ahvaz-wp/iran-relief-location-map.jpg",
           "filename": "Iran relief location map.jpg",
           "caption": "Topographic map of the Iranian plateau in Central Asia, connecting to Anatolia in the west and Hindu Kush and Himalaya in the east.",
           "alt": "Topographic map of the Iranian plateau in Central Asia, connecting to Anatolia in the west and Hindu Kush and Himalaya in the east.",
@@ -50,7 +46,8 @@
             "Map images that should use vector graphics",
             "Relief location maps of Iran",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/t/j/d/d/ahvaz-wp/iran-relief-location-map-small.webp"
         },
         {
           "path": "_m/t/n/7/z/ovan-lake-wp/evan-lake.jpg",
@@ -500,7 +497,8 @@
             "May 2002 photographs",
             "Scanned with Nikon Coolscan V ED",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/t/n/7/w/qazvin-wk/ir04-02-02-small.webp"
         },
         {
           "path": "_m/t/n/7/w/qazvin-wk/qazvin-train-station.jpg",
@@ -522,7 +520,9 @@
             "Qazvin Railway Station",
             "Roundabouts in Iran",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/t/n/7/w/qazvin-wk/qazvin-train-station-medium.webp",
+          "smallPath": "_m/t/n/7/w/qazvin-wk/qazvin-train-station-small.webp"
         },
         {
           "path": "_m/t/n/7/w/qazvin-wk/image-3.jpg",
@@ -553,7 +553,9 @@
             "Sa'd al-Saltaneh Caravanserai",
             "Self-published work",
             "Uploaded via Campaign:wlm-ir"
-          ]
+          ],
+          "mediumPath": "_m/t/n/7/w/qazvin-wk/image-3-medium.webp",
+          "smallPath": "_m/t/n/7/w/qazvin-wk/image-3-small.webp"
         },
         {
           "path": "_m/t/n/7/w/qazvin-wk/mazyarasadi-nabi-mosque01.jpg",
@@ -574,7 +576,8 @@
             "Al-Nabi Mosque (Qazvin)",
             "CC-BY-SA-4.0",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/t/n/7/w/qazvin-wk/mazyarasadi-nabi-mosque01-small.webp"
         },
         {
           "path": "_m/t/n/7/w/qazvin-wk/image-5.jpg",
@@ -599,7 +602,9 @@
             "Images from Wiki Loves Monuments 2020",
             "Images from Wiki Loves Monuments 2020 in Iran",
             "Images from Wiki Loves Monuments in Qazvin"
-          ]
+          ],
+          "mediumPath": "_m/t/n/7/w/qazvin-wk/image-5-medium.webp",
+          "smallPath": "_m/t/n/7/w/qazvin-wk/image-5-small.webp"
         }
       ],
       "narration": [

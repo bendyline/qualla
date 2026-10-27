@@ -3,26 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/k/7/u/p/windhoek-wk/hero.jpg",
-        "filename": "Windhoek-Skyline.jpg",
-        "caption": "A picture of the skyline of Windhoek, Namibia. In the foreground you can see the location of TransNamib, The Namibian Railway. The mountains of the Khomas Hochland dominate the horizon with the Christuskirche visible in the middle.",
-        "alt": "A picture of the skyline of Windhoek, Namibia. In the foreground you can see the location of TransNamib, The Namibian Railway. The mountains of the Khomas Hochland dominate the horizon with the Christuskirche visible in the middle.",
-        "width": 1840,
-        "height": 1232,
+        "path": "_m/k/7/u/p/windhoek-wk/railway-station-windho.jpg",
+        "filename": "Estación de ferrocarril, Windhoek, Namibia, 2018-08-04, DD 13.jpg",
+        "caption": "Railway station, Windhoek, Namibia",
+        "alt": "Railway station, Windhoek, Namibia",
+        "width": 8225,
+        "height": 3488,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.5",
-        "artist": "Bries",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Windhoek-Skyline.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Diego Delso",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_de_ferrocarril,_Windhoek,_Namibia,_2018-08-04,_DD_13.jpg",
         "sourceType": "core",
         "sourceArticleId": "windhoek-wk",
         "sourceGeohash4": "k7up",
-        "categories": [
-          "CC-BY-SA-2.5",
-          "Self-published work",
-          "Streets in Windhoek",
-          "TransNamib",
-          "Windhoek train station"
-        ]
+        "mediumPath": "_m/k/7/u/p/windhoek-wk/railway-station-windho-medium.webp",
+        "smallPath": "_m/k/7/u/p/windhoek-wk/railway-station-windho-small.webp"
       },
       "images": [
         {
@@ -119,7 +114,7 @@
           "smallPath": "_m/k/7/u/p/windhoek-wk/sanderburg-windhoek-ca-small.webp"
         },
         {
-          "path": "_m/k/7/u/p/windhoek-wk/hero.jpg",
+          "path": "_m/k/6/g/w/bom-jesus-ship-wp/hero.jpg",
           "filename": "Namibia relief location map.jpg",
           "caption": "Physical location map of Namibia",
           "alt": "Physical location map of Namibia",
@@ -138,10 +133,11 @@
             "GFDL",
             "License migration redundant",
             "Relief location maps of Namibia"
-          ]
+          ],
+          "smallPath": "_m/k/6/g/w/bom-jesus-ship-wp/hero-small.webp"
         },
         {
-          "path": "_m/k/7/u/p/windhoek-wk/africa-relief-location-map.jpg",
+          "path": "_m/e/d/e/e/dakar-wp/africa-relief-location-map.jpg",
           "filename": "Africa relief location map.jpg",
           "caption": "Blank physical map of political Africa, for geo-location purposes. Borders as in July 2011.",
           "alt": "Blank physical map of political Africa, for geo-location purposes. Borders as in July 2011.",
@@ -162,7 +158,8 @@
             "License migration redundant",
             "Location maps of Africa",
             "Map Lab-fr"
-          ]
+          ],
+          "smallPath": "_m/e/d/e/e/dakar-wp/africa-relief-location-map-small.webp"
         },
         {
           "path": "_m/k/7/u/p/windhoek-wk/windhoek.jpg",
@@ -198,7 +195,7 @@
           "smallPath": "_m/k/7/u/p/windhoek-wk/alte-feste-windhoek-na-small.webp"
         },
         {
-          "path": "_m/k/7/u/p/windhoek-wk/sudwest-reiter-windhoek.jpg",
+          "path": "_m/k/7/u/p/reiterdenkmal-wp/sudwest-reiter-windhoek.jpg",
           "filename": "Südwest Reiter Windhoek.jpg",
           "caption": "Das Südwest-Reiterdenkmal in Windhoek",
           "alt": "Das Südwest-Reiterdenkmal in Windhoek",
@@ -210,7 +207,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%BCdwest_Reiter_Windhoek.jpg",
           "sourceType": "core",
           "sourceArticleId": "windhoek-wk",
-          "sourceGeohash4": "k7up"
+          "sourceGeohash4": "k7up",
+          "smallPath": "_m/k/7/u/p/reiterdenkmal-wp/sudwest-reiter-windhoek-small.webp"
         },
         {
           "path": "_m/k/7/u/p/windhoek-wk/north-korean-built.jpg",
@@ -734,7 +732,8 @@
             "Media missing infobox template",
             "Taken with Canon Digital IXUS 750",
             "Windhoek Zoo Park"
-          ]
+          ],
+          "smallPath": "_m/tpc/wi/nd/ho/ek/windhoek/windhoek-zoo-park-small.webp"
         },
         {
           "path": "_m/tpc/wi/nd/ho/ek/windhoek/windhoek-christuskirche.jpg",
@@ -761,7 +760,9 @@
             "Valued images missing SDC depicts",
             "Valued images promoted 2016-02",
             "Valued images sorted by promotion date"
-          ]
+          ],
+          "mediumPath": "_m/tpc/wi/nd/ho/ek/windhoek/windhoek-christuskirche-medium.webp",
+          "smallPath": "_m/tpc/wi/nd/ho/ek/windhoek/windhoek-christuskirche-small.webp"
         },
         {
           "path": "_m/tpc/wi/nd/ho/ek/windhoek/na-windhoek-wikivoyage-banner.jpg",
@@ -783,7 +784,9 @@
             "Self-published work",
             "Views of Windhoek",
             "Wikivoyage banners of Namibia"
-          ]
+          ],
+          "mediumPath": "_m/tpc/wi/nd/ho/ek/windhoek/na-windhoek-wikivoyage-banner-medium.webp",
+          "smallPath": "_m/tpc/wi/nd/ho/ek/windhoek/na-windhoek-wikivoyage-banner-small.webp"
         },
         {
           "path": "_m/tpc/wi/nd/ho/ek/windhoek/dunst-windhoek-oct-2002-slide0.jpg",
@@ -810,7 +813,9 @@
             "Supported by Wikimedia Österreich in 2018",
             "Windhoek in the 2000s",
             "Windhoek train station"
-          ]
+          ],
+          "mediumPath": "_m/tpc/wi/nd/ho/ek/windhoek/dunst-windhoek-oct-2002-slide0-medium.webp",
+          "smallPath": "_m/tpc/wi/nd/ho/ek/windhoek/dunst-windhoek-oct-2002-slide0-small.webp"
         },
         {
           "path": "_m/tpc/wi/nd/ho/ek/windhoek/hosea-kutako-international-air.jpg",
@@ -831,7 +836,9 @@
             "CC-BY-SA-4.0",
             "Files with coordinates missing SDC location of creation",
             "May 2017 in Namibia"
-          ]
+          ],
+          "mediumPath": "_m/tpc/wi/nd/ho/ek/windhoek/hosea-kutako-international-air-medium.webp",
+          "smallPath": "_m/tpc/wi/nd/ho/ek/windhoek/hosea-kutako-international-air-small.webp"
         },
         {
           "path": "_m/tpc/wi/nd/ho/ek/windhoek/iglesia-de-cristo-windhoek-nam.jpg",
@@ -846,7 +853,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Cristo,_Windhoek,_Namibia,_2018-08-04,_DD_05.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "windhoek",
-          "sourceGeohash4": "tpc/wi/nd/ho/ek"
+          "sourceGeohash4": "tpc/wi/nd/ho/ek",
+          "mediumPath": "_m/tpc/wi/nd/ho/ek/windhoek/iglesia-de-cristo-windhoek-nam-medium.webp",
+          "smallPath": "_m/tpc/wi/nd/ho/ek/windhoek/iglesia-de-cristo-windhoek-nam-small.webp"
         },
         {
           "path": "_m/tpc/wi/nd/ho/ek/windhoek/christuskirche-windhoek.jpg",
@@ -861,7 +870,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christuskirche_(Windhoek).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "windhoek",
-          "sourceGeohash4": "tpc/wi/nd/ho/ek"
+          "sourceGeohash4": "tpc/wi/nd/ho/ek",
+          "mediumPath": "_m/tpc/wi/nd/ho/ek/windhoek/christuskirche-windhoek-medium.webp",
+          "smallPath": "_m/tpc/wi/nd/ho/ek/windhoek/christuskirche-windhoek-small.webp"
         },
         {
           "path": "_m/k/7/u/j/namibia-wp/brand-hires-trimmed.jpg",
@@ -883,7 +894,8 @@
             "PD NASA",
             "Satellite pictures of Brandberg",
             "Satellite pictures of Namibia"
-          ]
+          ],
+          "smallPath": "_m/k/7/u/j/namibia-wp/brand-hires-trimmed-small.webp"
         },
         {
           "path": "_m/tpc/ko/lm/an/sk/kolmanskop/kapps-ballsaal-felsenkirche-go.jpg",
@@ -906,7 +918,8 @@
             "Hotels in Namibia",
             "Pictures of user:Hsuepfle",
             "Taken with Canon PowerShot A80"
-          ]
+          ],
+          "smallPath": "_m/tpc/ko/lm/an/sk/kolmanskop/kapps-ballsaal-felsenkirche-go-small.webp"
         },
         {
           "path": "_m/k/7/u/j/namibia-wp/fish-river-canyon-namibia.jpg",
@@ -929,7 +942,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/k/7/u/j/namibia-wp/fish-river-canyon-namibia-small.webp"
         },
         {
           "path": "_m/k/7/u/j/namibia-wp/costaesqueletos.jpg",
@@ -951,7 +965,8 @@
             "License migration completed",
             "September 2004 in Namibia",
             "Skeleton Coast shoreline"
-          ]
+          ],
+          "smallPath": "_m/k/7/u/j/namibia-wp/costaesqueletos-small.webp"
         },
         {
           "path": "_m/k/7/d/g/sossusvlei-wk/2010-09-25-15-44-16-namibia-ha.jpg",
@@ -975,7 +990,9 @@
             "Sossusvlei",
             "Taken with Nikon D90",
             "Uploaded with Commonist"
-          ]
+          ],
+          "mediumPath": "_m/k/7/d/g/sossusvlei-wk/2010-09-25-15-44-16-namibia-ha-medium.webp",
+          "smallPath": "_m/k/7/d/g/sossusvlei-wk/2010-09-25-15-44-16-namibia-ha-small.webp"
         },
         {
           "path": "_m/tpc/so/ss/us/vl/sossusvlei/2011-02-09-066.jpg",
@@ -996,7 +1013,9 @@
             "Dunes of Namibia",
             "Files by User:anagoria",
             "GFDL"
-          ]
+          ],
+          "mediumPath": "_m/tpc/so/ss/us/vl/sossusvlei/2011-02-09-066-medium.webp",
+          "smallPath": "_m/tpc/so/ss/us/vl/sossusvlei/2011-02-09-066-small.webp"
         },
         {
           "path": "_m/k/7/u/j/namibia-wp/katima-mulilo-bridge.jpg",
@@ -1011,7 +1030,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Katima_Mulilo_Bridge.jpg",
           "sourceType": "poi",
           "sourceArticleId": "namibia-wp",
-          "sourceGeohash4": "k7uj"
+          "sourceGeohash4": "k7uj",
+          "mediumPath": "_m/k/7/u/j/namibia-wp/katima-mulilo-bridge-medium.webp",
+          "smallPath": "_m/k/7/u/j/namibia-wp/katima-mulilo-bridge-small.webp"
         },
         {
           "path": "_m/k/7/u/j/namibia-wp/hosea-kutako-international-air.jpg",
@@ -1026,7 +1047,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hosea_Kutako_International_Airport_apron,_August_2017.jpg",
           "sourceType": "poi",
           "sourceArticleId": "namibia-wp",
-          "sourceGeohash4": "k7uj"
+          "sourceGeohash4": "k7uj",
+          "mediumPath": "_m/k/7/u/j/namibia-wp/hosea-kutako-international-air-medium.webp",
+          "smallPath": "_m/k/7/u/j/namibia-wp/hosea-kutako-international-air-small.webp"
         },
         {
           "path": "_m/k/7/u/j/namibia-wp/food-lorry-stationed-in-swakop.jpg",
@@ -1041,7 +1064,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Food_Lorry_stationed_in_Swakopmund,_Namibia.jpg",
           "sourceType": "poi",
           "sourceArticleId": "namibia-wp",
-          "sourceGeohash4": "k7uj"
+          "sourceGeohash4": "k7uj",
+          "mediumPath": "_m/k/7/u/j/namibia-wp/food-lorry-stationed-in-swakop-medium.webp",
+          "smallPath": "_m/k/7/u/j/namibia-wp/food-lorry-stationed-in-swakop-small.webp"
         },
         {
           "path": "_m/k/7/u/j/namibia-wp/exploring-namibia-s-mountain-r.jpg",
@@ -1056,7 +1081,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exploring_Namibia%27s_mountain_range.jpg",
           "sourceType": "poi",
           "sourceArticleId": "namibia-wp",
-          "sourceGeohash4": "k7uj"
+          "sourceGeohash4": "k7uj",
+          "mediumPath": "_m/k/7/u/j/namibia-wp/exploring-namibia-s-mountain-r-medium.webp",
+          "smallPath": "_m/k/7/u/j/namibia-wp/exploring-namibia-s-mountain-r-small.webp"
         },
         {
           "path": "_m/k/7/u/j/namibia-wp/kaokoland-termitieres.jpg",
@@ -1071,7 +1098,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaokoland_-_Termiti%C3%A8res.jpg",
           "sourceType": "poi",
           "sourceArticleId": "namibia-wp",
-          "sourceGeohash4": "k7uj"
+          "sourceGeohash4": "k7uj",
+          "mediumPath": "_m/k/7/u/j/namibia-wp/kaokoland-termitieres-medium.webp",
+          "smallPath": "_m/k/7/u/j/namibia-wp/kaokoland-termitieres-small.webp"
         }
       ],
       "videos": [

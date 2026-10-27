@@ -40,7 +40,7 @@ Located at 46.88N, 98.69W on the southern rim of the James River valley in James
 - State Hospital
 - N.D. State Hospital's history marked by politics, reform
 - [North Dakota State Hospital Museum](http://www.ndshmuseum.org)
-- [Wikipedia - North Dakota State Hospital](https://en.wikipedia.org/wiki/North_Dakota_State_Hospital)
+- [Wikipedia - North Dakota State Hospital](https://en.wikipedia.org/?curid=11856594)
   - Opened May 1, 1885, four years before statehood confirmed
   - Territorial legislature authorized hospital for the insane in 1883 confirmed
   - One of only two public institutions predating statehood (with UND) confirmed

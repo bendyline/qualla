@@ -3,34 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/k/8/6/robert-towns-wp/hero.jpg",
-        "filename": "Robert Towns monument detail.jpg",
-        "caption": "Robert Towns Gravestone, Detail of Monument atop Castle Hill, Townsville",
-        "alt": "Robert Towns Gravestone, Detail of Monument atop Castle Hill, Townsville",
-        "width": 2592,
-        "height": 1944,
+        "path": "_m/r/k/8/6/robert-towns-wp/robert-towns-statue.jpg",
+        "filename": "Robert Towns Statue.jpg",
+        "caption": "A statue of Robert Towns in Flinders Square, Townsville",
+        "alt": "A statue of Robert Towns in Flinders Square, Townsville",
+        "width": 2048,
+        "height": 1360,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "ROxBo",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Towns_monument_detail.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Leonhard Fortier",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Towns_Statue.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "robert-towns-wp",
         "sourceGeohash4": "rk86",
         "categories": [
-          "2008 in Queensland",
-          "Balmain Cemetery",
-          "Castle Hill, Townsville",
-          "Files with coordinates missing SDC location of creation",
-          "Monuments and memorials in Queensland",
-          "On OSM",
-          "PD-user",
-          "Robert Towns Monument",
-          "Taken with Sony DSC-T1"
-        ]
+          "CC-BY-SA-4.0",
+          "Robert Towns",
+          "Self-published work",
+          "Townsville, Queensland"
+        ],
+        "mediumPath": "_m/r/k/8/6/robert-towns-wp/robert-towns-statue-medium.webp",
+        "smallPath": "_m/r/k/8/6/robert-towns-wp/robert-towns-statue-small.webp"
       },
       "images": [
         {
-          "path": "_m/r/k/8/6/robert-towns-wp/robert-towns-monument.jpg",
+          "path": "_m/r/k/8/6/castle-hill-townsville-wp/robert-towns-monument.jpg",
           "filename": "Robert Towns monument.jpg",
           "caption": "Robert Towns Monument, Castle Hill, Townsville",
           "alt": "Robert Towns Monument, Castle Hill, Townsville",
@@ -47,7 +44,8 @@
             "2008 in Queensland",
             "PD-user",
             "Robert Towns Monument"
-          ]
+          ],
+          "smallPath": "_m/r/k/8/6/castle-hill-townsville-wp/robert-towns-monument-small.webp"
         },
         {
           "path": "_m/r/k/8/6/robert-towns-wp/robert-towns-statue.jpg",

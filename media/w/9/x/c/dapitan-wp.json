@@ -29,7 +29,7 @@
       },
       "images": [
         {
-          "path": "_m/w/9/x/c/dapitan-wp/political-map-zamboang.png",
+          "path": "_m/w/9/n/v/basilan-wp/political-map-zamboang.png",
           "filename": "Ph zamboanga peninsula.png",
           "caption": "Political map of the Zamboanga Peninsula, Philippines. Showing Zamboanga del Norte, Zamboanga del Sur, Zamboanga Sibugay, Isabela City, and Zamboanga City. Used the map template en:Image:BlankMap-Philippines.png by en:User:TheCoffee.",
           "alt": "Political map of the Zamboanga Peninsula, Philippines. Showing Zamboanga del Norte, Zamboanga del Sur, Zamboanga Sibugay, Isabela City, and Zamboanga City. Used the map template en:Image:BlankMap-Philippines.png by en:User:TheCoffee.",
@@ -51,7 +51,8 @@
             "Maps of Zamboanga Peninsula",
             "PNG that should use vector graphics",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/9/n/v/basilan-wp/political-map-zamboang-small.webp"
         },
         {
           "path": "_m/w/9/x/c/dapitan-wp/santiago-el-mayor-pari.jpg",
@@ -103,7 +104,7 @@
           "smallPath": "_m/w/9/x/c/dapitan-wp/liwasan-ng-dapitan-par-small.webp"
         },
         {
-          "path": "_m/w/9/x/c/dapitan-wp/dapitan-ancestral-house-04.jpg",
+          "path": "_m/w/9/x/c/dapitan-wk/dapitan-ancestral-house-04.jpg",
           "filename": "Dapitan Ancestral House 04.JPG",
           "caption": "Old heritage structure in the old town of Dapitan City, Zamboanga del Norte",
           "alt": "Old heritage structure in the old town of Dapitan City, Zamboanga del Norte",
@@ -123,7 +124,9 @@
             "Philippine Cultural Heritage Mapping Project content",
             "Philippines photographs taken on 2014-11-15",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/9/x/c/dapitan-wk/dapitan-ancestral-house-04-medium.webp",
+          "smallPath": "_m/w/9/x/c/dapitan-wk/dapitan-ancestral-house-04-small.webp"
         },
         {
           "path": "_m/w/9/x/c/dapitan-wp/modernized-government.jpg",
@@ -389,7 +392,7 @@
           "smallPath": "_m/w/9/x/c/dapitan-wp/city-hall-dapitan-city-small.webp"
         },
         {
-          "path": "_m/w/9/x/c/dapitan-wp/heritage-house.jpg",
+          "path": "_m/w/9/x/c/dapitan-heritage-zone-wp/heritage-house.jpg",
           "filename": "Bagting Ancestral House.jpg",
           "caption": "Heritage House",
           "alt": "Heritage House",
@@ -401,10 +404,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bagting_Ancestral_House.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "dapitan-heritage-zone-wp",
-          "sourceGeohash4": "w9xc"
+          "sourceGeohash4": "w9xc",
+          "mediumPath": "_m/w/9/x/c/dapitan-heritage-zone-wp/heritage-house-medium.webp",
+          "smallPath": "_m/w/9/x/c/dapitan-heritage-zone-wp/heritage-house-small.webp"
         },
         {
-          "path": "_m/w/9/x/c/dapitan-wp/heritage-house-5.jpg",
+          "path": "_m/w/9/x/c/dapitan-heritage-zone-wp/heritage-house-5.jpg",
           "filename": "Calexto Sy-Gaco Ancestral House.jpg",
           "caption": "Heritage House",
           "alt": "Heritage House",
@@ -416,7 +421,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calexto_Sy-Gaco_Ancestral_House.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "dapitan-heritage-zone-wp",
-          "sourceGeohash4": "w9xc"
+          "sourceGeohash4": "w9xc",
+          "mediumPath": "_m/w/9/x/c/dapitan-heritage-zone-wp/heritage-house-5-medium.webp",
+          "smallPath": "_m/w/9/x/c/dapitan-heritage-zone-wp/heritage-house-5-small.webp"
         },
         {
           "path": "_m/w/9/x/c/dapitan-wp/dapitan-municipal-building.jpg",
@@ -573,7 +580,8 @@
             "Philippine Cultural Heritage Mapping Project content",
             "Philippines photographs taken on 2014-11-15",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/9/x/c/dapitan-wk/casa-real-marker-small.webp"
         },
         {
           "path": "_m/w/9/x/c/dapitan-wk/relief-map-of-mindanao-by-jose.jpg",
@@ -596,7 +604,9 @@
             "PD-Philippines FoP work",
             "Relief Map of Mindanao",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/9/x/c/dapitan-wk/relief-map-of-mindanao-by-jose-medium.webp",
+          "smallPath": "_m/w/9/x/c/dapitan-wk/relief-map-of-mindanao-by-jose-small.webp"
         },
         {
           "path": "_m/w/9/x/c/dapitan-wk/ang-lumang-bayan-ng-dapitan-hi.jpg",
@@ -619,7 +629,9 @@
             "Objects with inscriptions in Tagalog needing translation",
             "Philippines photographs taken on 2023-03-23",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/9/x/c/dapitan-wk/ang-lumang-bayan-ng-dapitan-hi-medium.webp",
+          "smallPath": "_m/w/9/x/c/dapitan-wk/ang-lumang-bayan-ng-dapitan-hi-small.webp"
         },
         {
           "path": "_m/w/9/x/c/dapitan-wk/balay-hamoy-mi-retiro-dapitan-.jpg",
@@ -644,7 +656,9 @@
             "Philippines photographs taken on 2023-10-16",
             "Photographs by Patrick Roque",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/9/x/c/dapitan-wk/balay-hamoy-mi-retiro-dapitan--medium.webp",
+          "smallPath": "_m/w/9/x/c/dapitan-wk/balay-hamoy-mi-retiro-dapitan--small.webp"
         },
         {
           "path": "_m/w/9/x/8/dipolog-wp/sta-cruz-punta-corro.jpg",
@@ -669,7 +683,9 @@
             "Santa Cruz marker (Dipolog)",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/w/9/x/8/dipolog-wp/sta-cruz-punta-corro-medium.webp",
+          "smallPath": "_m/w/9/x/8/dipolog-wp/sta-cruz-punta-corro-small.webp"
         },
         {
           "path": "_m/w/9/x/8/dipolog-wp/zamboanga-del-norte-medical-ce.jpg",
@@ -693,7 +709,8 @@
             "Hospital name signs in the Philippines",
             "Hospitals in Zamboanga del Norte",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/w/9/x/8/dipolog-wp/zamboanga-del-norte-medical-ce-small.webp"
         },
         {
           "path": "_m/w/9/x/8/dipolog-wp/dipolog-airport-runway.jpg",
@@ -715,7 +732,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/9/x/8/dipolog-wp/dipolog-airport-runway-small.webp"
         },
         {
           "path": "_m/w/9/x/8/dipolog-wp/explore-dipolog-landmark.jpg",
@@ -737,7 +755,9 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work",
             "Taken with LG K7"
-          ]
+          ],
+          "mediumPath": "_m/w/9/x/8/dipolog-wp/explore-dipolog-landmark-medium.webp",
+          "smallPath": "_m/w/9/x/8/dipolog-wp/explore-dipolog-landmark-small.webp"
         },
         {
           "path": "_m/w/9/x/8/dipolog-wp/downtown-dipolog-early-morning.jpg",
@@ -760,7 +780,8 @@
             "Items with VRTS permission confirmed",
             "Rizal Avenue (Dipolog)",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/9/x/8/dipolog-wp/downtown-dipolog-early-morning-small.webp"
         },
         {
           "path": "_m/w/9/x/8/dipolog-wp/dipolog-cathedral-2016.jpg",
@@ -782,7 +803,8 @@
             "Files with coordinates missing SDC location of creation",
             "Items with VRTS permission confirmed",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/9/x/8/dipolog-wp/dipolog-cathedral-2016-small.webp"
         },
         {
           "path": "_m/tpc/za/mb/oa/ng/zamboanga-del-norte/zamboanga-city-from-garden-orc.jpg",
@@ -804,7 +826,8 @@
             "February 2011 in the Philippines",
             "Photographs taken on 2011-02-21",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/za/mb/oa/ng/zamboanga-del-norte/zamboanga-city-from-garden-orc-small.webp"
         },
         {
           "path": "_m/tpc/za/mb/oa/ng/zamboanga-del-norte/f-s-pajares-ave-pagadian-city.jpg",
@@ -828,7 +851,9 @@
             "Self-published work",
             "Street photography in the Philippines",
             "Taken with Panasonic Lumix DMC-ZX1"
-          ]
+          ],
+          "mediumPath": "_m/tpc/za/mb/oa/ng/zamboanga-del-norte/f-s-pajares-ave-pagadian-city-medium.webp",
+          "smallPath": "_m/tpc/za/mb/oa/ng/zamboanga-del-norte/f-s-pajares-ave-pagadian-city-small.webp"
         },
         {
           "path": "_m/tpc/za/mb/oa/ng/zamboanga-del-norte/students-during-the-celebratio.jpg",
@@ -852,7 +877,9 @@
             "Rain in Kabasalan",
             "Self-published work",
             "Taken with Canon Digital IXUS 85 IS"
-          ]
+          ],
+          "mediumPath": "_m/tpc/za/mb/oa/ng/zamboanga-del-norte/students-during-the-celebratio-medium.webp",
+          "smallPath": "_m/tpc/za/mb/oa/ng/zamboanga-del-norte/students-during-the-celebratio-small.webp"
         }
       ],
       "narration": [

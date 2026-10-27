@@ -36,7 +36,7 @@ The M-Bahn ran between Gleisdreieck and Kemperplatz, just west of Potsdamer Plat
 
 ## Sources
 
-- [M-Bahn - Wikipedia](https://en.wikipedia.org/wiki/M-Bahn)
+- [M-Bahn - Wikipedia](https://en.wikipedia.org/?curid=1402535)
 - [M-Bahn - Wikipedia](https://en.wikipedia.org/?curid=1402535)
   - Trial running began 28 June 1984
   - Kemperplatz crash on 19 December 1988, one car destroyed, other hung six metres up for days

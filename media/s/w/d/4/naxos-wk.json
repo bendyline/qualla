@@ -3,32 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/w/d/4/naxos-wk/hero.jpg",
-        "filename": "Portara Naxos 26.jpg",
-        "caption": "Portara des ehemaligen Apollontempels in Chora, Naxos, Kykladen, Griechenland",
-        "alt": "Portara des ehemaligen Apollontempels in Chora, Naxos, Kykladen, Griechenland",
-        "width": 4544,
-        "height": 3408,
+        "path": "_m/s/w/d/4/naxos-wk/vue-panoramique-du-port-de-nax.jpg",
+        "filename": "Vue panoramique du port de Naxos.jpg",
+        "caption": "Vue panoramique du port de Naxos",
+        "alt": "Vue panoramique du port de Naxos",
+        "width": 10021,
+        "height": 1597,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "Olaf Tausch",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portara_Naxos_26.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Leynadmar",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vue_panoramique_du_port_de_Naxos.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "naxos-wk",
         "sourceGeohash4": "swd4",
-        "categories": [
-          "CC-BY-3.0",
-          "Files with coordinates missing SDC location of creation",
-          "GFDL",
-          "License migration redundant",
-          "Pictures by User:Oltau",
-          "Portara",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/s/w/d/4/naxos-wk/vue-panoramique-du-port-de-nax-medium.webp",
+        "smallPath": "_m/s/w/d/4/naxos-wk/vue-panoramique-du-port-de-nax-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/w/d/4/naxos-wk/naxos-portara.jpg",
+          "path": "_m/s/w/d/4/naxos-wp/naxos-portara.jpg",
           "filename": "Naxos Portara.jpg",
           "caption": "Tempeltor Portara",
           "alt": "Tempeltor Portara",
@@ -52,10 +45,11 @@
             "Self-published work",
             "Sunsets of Naxos",
             "Taken with Canon Digital IXUS 400"
-          ]
+          ],
+          "smallPath": "_m/s/w/d/4/naxos-wp/naxos-portara-small.webp"
         },
         {
-          "path": "_m/s/w/d/4/naxos-wk/portara-naxos-31.jpg",
+          "path": "_m/s/w/d/4/naxos-wp/portara-naxos-31.jpg",
           "filename": "Portara Naxos 31.jpg",
           "caption": "Portara des ehemaligen Apollontempels in Chora, Naxos, Kykladen, Griechenland",
           "alt": "Portara des ehemaligen Apollontempels in Chora, Naxos, Kykladen, Griechenland",
@@ -76,10 +70,12 @@
             "Pictures by User:Oltau",
             "Portara",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/4/naxos-wp/portara-naxos-31-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/portara-naxos-31-small.webp"
         },
         {
-          "path": "_m/s/w/d/4/naxos-wk/naos-drosianis-naxos-03.jpg",
+          "path": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-03.jpg",
           "filename": "Naos Drosianis Naxos 03.jpg",
           "caption": "Kirche der Panagia Drosiani bei Moni auf Naxos, Kykladen, Griechenland",
           "alt": "Kirche der Panagia Drosiani bei Moni auf Naxos, Kykladen, Griechenland",
@@ -100,10 +96,12 @@
             "Panagia Drosiani (Naxos)",
             "Pictures by User:Oltau",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-03-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-03-small.webp"
         },
         {
-          "path": "_m/s/w/d/4/naxos-wk/naos-drosianis-naxos-04.jpg",
+          "path": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-04.jpg",
           "filename": "Naos Drosianis Naxos 04.jpg",
           "caption": "Kirche der Panagia Drosiani bei Moni auf Naxos, Kykladen, Griechenland",
           "alt": "Kirche der Panagia Drosiani bei Moni auf Naxos, Kykladen, Griechenland",
@@ -127,10 +125,12 @@
             "Quality images missing SDC depicts",
             "Quality images of Naxos",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-04-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-04-small.webp"
         },
         {
-          "path": "_m/s/w/d/4/naxos-wk/am-naxos-091354.jpg",
+          "path": "_m/s/w/d/4/naxos-wp/am-naxos-091354.jpg",
           "filename": "AM Naxos 091354.jpg",
           "caption": "Naxos Archaeological museum is at the top of Kastro, the former acropolis.",
           "alt": "Naxos Archaeological museum is at the top of Kastro, the former acropolis.",
@@ -147,10 +147,12 @@
             "Archaeological Museum of Naxos",
             "Building and Lapidary around the Archaeological Museum of Naxos",
             "CC-BY-SA-3.0"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/4/naxos-wp/am-naxos-091354-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/am-naxos-091354-small.webp"
         },
         {
-          "path": "_m/s/w/d/4/naxos-wk/heiligtum-des-dionysos-yria-05.jpg",
+          "path": "_m/s/w/d/4/naxos-wp/heiligtum-des-dionysos-yria-05.jpg",
           "filename": "Heiligtum des Dionysos (Yria) 05.jpg",
           "caption": "Tempel des Dionysos von Yria auf Naxos, Kykladen, Griechenland",
           "alt": "Tempel des Dionysos von Yria auf Naxos, Kykladen, Griechenland",
@@ -162,10 +164,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heiligtum_des_Dionysos_(Yria)_05.jpg",
           "sourceType": "core",
           "sourceArticleId": "naxos-wk",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/heiligtum-des-dionysos-yria-05-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/heiligtum-des-dionysos-yria-05-small.webp"
         },
         {
-          "path": "_m/s/w/d/4/naxos-wk/tempel-der-demeter-gyroulas-15.jpg",
+          "path": "_m/s/w/d/4/naxos-wp/tempel-der-demeter-gyroulas-15.jpg",
           "filename": "Tempel der Demeter (Gyroulas) 15.jpg",
           "caption": "Demeter-Tempel von Gyroulas bei Ano Sangri auf Naxos, Kykladen, Griechenland",
           "alt": "Demeter-Tempel von Gyroulas bei Ano Sangri auf Naxos, Kykladen, Griechenland",
@@ -177,10 +181,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tempel_der_Demeter_(Gyroulas)_15.jpg",
           "sourceType": "core",
           "sourceArticleId": "naxos-wk",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/tempel-der-demeter-gyroulas-15-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/tempel-der-demeter-gyroulas-15-small.webp"
         },
         {
-          "path": "_m/s/w/d/4/naxos-wk/demeter-tempel-von-gyr.jpg",
+          "path": "_m/s/w/d/4/temple-of-sangri-wp/demeter-tempel-von-gyr.jpg",
           "filename": "Tempel der Demeter (Gyroulas) 18.jpg",
           "caption": "Demeter-Tempel von Gyroulas bei Ano Sangri auf Naxos, Kykladen, Griechenland",
           "alt": "Demeter-Tempel von Gyroulas bei Ano Sangri auf Naxos, Kykladen, Griechenland",
@@ -192,10 +198,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tempel_der_Demeter_(Gyroulas)_18.jpg",
           "sourceType": "core",
           "sourceArticleId": "naxos-wk",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/temple-of-sangri-wp/demeter-tempel-von-gyr-medium.webp",
+          "smallPath": "_m/s/w/d/4/temple-of-sangri-wp/demeter-tempel-von-gyr-small.webp"
         },
         {
-          "path": "_m/s/w/d/4/naxos-wk/menhir-or-phallic-stone-tomb-9.jpg",
+          "path": "_m/s/w/d/4/naxos-wp/menhir-or-phallic-stone-tomb-9.jpg",
           "filename": "Menhir or phallic stone tomb 9 or 8th c BC, Grotta Naxos 091432.jpg",
           "caption": "A small menhir or phallic stone at the tomb of 9 or 8th century BC (the Early geometrical style). Grotta, Naxos.",
           "alt": "A small menhir or phallic stone at the tomb of 9 or 8th century BC (the Early geometrical style). Grotta, Naxos.",
@@ -207,10 +215,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Menhir_or_phallic_stone_tomb_9_or_8th_c_BC,_Grotta_Naxos_091432.jpg",
           "sourceType": "core",
           "sourceArticleId": "naxos-wk",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/menhir-or-phallic-stone-tomb-9-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/menhir-or-phallic-stone-tomb-9-small.webp"
         },
         {
-          "path": "_m/s/w/d/4/naxos-wk/building-of-the-archaeological.jpg",
+          "path": "_m/s/w/d/4/naxos-wp/building-of-the-archaeological.jpg",
           "filename": "Building of the Archaeological Museum of Apeiranthos on Naxos, 143704.jpg",
           "caption": "The building of the Archaeological Museum of Apeiranthos on Naxos.",
           "alt": "The building of the Archaeological Museum of Apeiranthos on Naxos.",
@@ -222,10 +232,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Building_of_the_Archaeological_Museum_of_Apeiranthos_on_Naxos,_143704.jpg",
           "sourceType": "core",
           "sourceArticleId": "naxos-wk",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/building-of-the-archaeological-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/building-of-the-archaeological-small.webp"
         },
         {
-          "path": "_m/s/w/d/4/naxos-wk/kitron-naxou-distillery-in-cha.jpg",
+          "path": "_m/s/w/d/4/naxos-wp/kitron-naxou-distillery-in-cha.jpg",
           "filename": "Kitron Naxou distillery in Chalki, 085256.jpg",
           "caption": "Museum of Kitron Naxou in Chalki on Naxos. The old distillery. The boiler was made in Athens, in year 1962.",
           "alt": "Museum of Kitron Naxou in Chalki on Naxos. The old distillery. The boiler was made in Athens, in year 1962.",
@@ -237,10 +249,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kitron_Naxou_distillery_in_Chalki,_085256.jpg",
           "sourceType": "core",
           "sourceArticleId": "naxos-wk",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/kitron-naxou-distillery-in-cha-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/kitron-naxou-distillery-in-cha-small.webp"
         },
         {
-          "path": "_m/s/w/d/4/naxos-wk/geological-museum-apeiranthos-.jpg",
+          "path": "_m/s/w/d/4/naxos-wp/geological-museum-apeiranthos-.jpg",
           "filename": "Geological Museum, Apeiranthos, Naxos, interior, 176931.jpg",
           "caption": "Interior of the Geological Museum in Apeiranthos on Naxos.",
           "alt": "Interior of the Geological Museum in Apeiranthos on Naxos.",
@@ -252,10 +266,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geological_Museum,_Apeiranthos,_Naxos,_interior,_176931.jpg",
           "sourceType": "core",
           "sourceArticleId": "naxos-wk",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/geological-museum-apeiranthos--medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/geological-museum-apeiranthos--small.webp"
         },
         {
-          "path": "_m/s/w/d/4/naxos-wk/20210716-8564-pano.jpg",
+          "path": "_m/s/w/d/4/naxos-wp/20210716-8564-pano.jpg",
           "filename": "20210716 Πύργος Μπαζαίου 8564-Pano.jpg",
           "caption": "View of Bazeos Tower from the main court.",
           "alt": "View of Bazeos Tower from the main court.",
@@ -267,7 +283,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20210716_%CE%A0%CF%8D%CF%81%CE%B3%CE%BF%CF%82_%CE%9C%CF%80%CE%B1%CE%B6%CE%B1%CE%AF%CE%BF%CF%85_8564-Pano.jpg",
           "sourceType": "core",
           "sourceArticleId": "naxos-wk",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/20210716-8564-pano-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/20210716-8564-pano-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wk/giardini-at-night.jpg",
@@ -676,7 +694,8 @@
             "PD Old",
             "PD US",
             "Romania in the 13th century"
-          ]
+          ],
+          "smallPath": "_m/s/w/8/7/battle-of-settepozzi-wp/map-byzantine-empire-1-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/028mad-sphinx.jpg",
@@ -701,7 +720,8 @@
             "Photographs by Ricardo André Frantz",
             "Self-published work",
             "Sphinx of the Naxians (Delphi)"
-          ]
+          ],
+          "smallPath": "_m/s/w/d/4/naxos-wp/028mad-sphinx-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/naxos-keramoti.jpg",
@@ -728,7 +748,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Olympus u700 / S-700"
-          ]
+          ],
+          "smallPath": "_m/s/w/d/4/naxos-wp/naxos-keramoti-small.webp"
         },
         {
           "path": "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg",
@@ -751,7 +772,8 @@
             "JPG images that should use vector graphics",
             "License migration redundant",
             "Map images that should use vector graphics"
-          ]
+          ],
+          "smallPath": "_m/s/w/6/p/thera-eruption-wk/location-map-greece-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/naxos-halkio1-tango7174.jpg",
@@ -766,7 +788,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naxos_Halkio1_tango7174.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "smallPath": "_m/s/w/d/4/naxos-wp/naxos-halkio1-tango7174-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/naxos-filoti1-tango7174.jpg",
@@ -781,7 +804,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naxos_Filoti1_tango7174.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/naxos-filoti1-tango7174-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/naxos-filoti1-tango7174-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/tower-of-sanudo-front-view.jpg",
@@ -796,7 +821,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tower_of_Sanudo,_front_view.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/tower-of-sanudo-front-view-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/tower-of-sanudo-front-view-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/gr-naxos-kinidaros-marmor-alex.jpg",
@@ -811,7 +838,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:GR-naxos-kinidaros-marmor-alexander.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "smallPath": "_m/s/w/d/4/naxos-wp/gr-naxos-kinidaros-marmor-alex-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/gr-naxos-pirgos-belonia.jpg",
@@ -826,7 +854,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:GR-naxos-pirgos-belonia.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "smallPath": "_m/s/w/d/4/naxos-wp/gr-naxos-pirgos-belonia-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/gr-naxos-mtzas-2-view-east-1.jpg",
@@ -841,7 +870,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:GR-Naxos-MtZas_2_View_East_1.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "smallPath": "_m/s/w/d/4/naxos-wp/gr-naxos-mtzas-2-view-east-1-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/to-filoti-apo-toys-propodes-to.jpg",
@@ -856,7 +886,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:TO_FILOTI_APO_TOYS_PROPODES_TOY_ZA.jpeg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/to-filoti-apo-toys-propodes-to-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/to-filoti-apo-toys-propodes-to-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/image-12.jpg",
@@ -871,7 +903,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%CE%91%CF%80%CF%8C%CE%BB%CE%BB%CF%89%CE%BD%CE%B1%CF%82_%CE%9D%CE%AC%CE%BE%CE%BF%CF%85.jpeg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/image-12-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/image-12-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/heiligtum-des-dionysos-yria-03.jpg",
@@ -886,7 +920,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heiligtum_des_Dionysos_(Yria)_03.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/heiligtum-des-dionysos-yria-03-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/heiligtum-des-dionysos-yria-03-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/moni-fotodotis-naxos-10-15-c-a.jpg",
@@ -901,7 +937,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moni_Fotodotis_Naxos_10-15_c_AD_13M577.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/moni-fotodotis-naxos-10-15-c-a-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/moni-fotodotis-naxos-10-15-c-a-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/building-from-terrace-byzantin.jpg",
@@ -916,7 +954,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Building_from_terrace,_Byzantine_Museum_Naxos,_143770.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/building-from-terrace-byzantin-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/building-from-terrace-byzantin-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/catholic-cathedral-kastro-noxo.jpg",
@@ -931,7 +971,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catholic_cathedral,_Kastro,_Noxos_Town,_1207-1963_AD,_144131.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/catholic-cathedral-kastro-noxo-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/catholic-cathedral-kastro-noxo-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/tower-in-filoti-naxos-commemor.jpg",
@@ -946,7 +988,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tower_in_Filoti,_Naxos,_commemorated_1620,_119754.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/tower-in-filoti-naxos-commemor-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/tower-in-filoti-naxos-commemor-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/koronos-naxos-119500.jpg",
@@ -961,7 +1005,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koronos,_Naxos,_119500.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/koronos-naxos-119500-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/koronos-naxos-119500-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/street-in-apeiranthos-naxos-10.jpg",
@@ -976,7 +1022,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Street_in_Apeiranthos,_Naxos,_101910.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/street-in-apeiranthos-naxos-10-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/street-in-apeiranthos-naxos-10-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/castle-kastro-in-apeiranthos-n.jpg",
@@ -991,7 +1039,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle_(Kastro)_in_Apeiranthos,_Naxos,_101911.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/castle-kastro-in-apeiranthos-n-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/castle-kastro-in-apeiranthos-n-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/vigla-beach-naxos-isl.jpg",
@@ -1006,7 +1056,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vigla_Beach,_Naxos_isl.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/vigla-beach-naxos-isl-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/vigla-beach-naxos-isl-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/case-09-neolithic-finds-from-z.jpg",
@@ -1021,7 +1073,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Case_09_Neolithic_finds_from_Zas_cave,_AM_Naxos,_176842.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/case-09-neolithic-finds-from-z-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/case-09-neolithic-finds-from-z-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/atsipapi-naxos-greece-20180812.jpg",
@@ -1036,7 +1090,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atsipapi,_Naxos,_Greece_2018081216580N08690.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/atsipapi-naxos-greece-20180812-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/atsipapi-naxos-greece-20180812-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/panagia-damiotissa-naxos-greec.jpg",
@@ -1051,7 +1107,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panagia_Damiotissa_Naxos_Greece_2018080816280N05907.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/panagia-damiotissa-naxos-greec-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/panagia-damiotissa-naxos-greec-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/kaloxilos-naxos-greece-2018081.jpg",
@@ -1066,7 +1124,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaloxilos_Naxos_Greece_2018081018100N08139.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "smallPath": "_m/s/w/d/4/naxos-wp/kaloxilos-naxos-greece-2018081-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/akadimoi-naxos-greece-20180813.jpg",
@@ -1081,7 +1140,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akadimoi_Naxos_Greece_2018081316330N09239.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/akadimoi-naxos-greece-20180813-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/akadimoi-naxos-greece-20180813-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/vourvouria-naxos-greece-201808.jpg",
@@ -1096,7 +1157,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vourvouria_Naxos_Greece_2018081119110NH8230.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/vourvouria-naxos-greece-201808-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/vourvouria-naxos-greece-201808-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/valley-between-potamia-and-mon.jpg",
@@ -1111,7 +1174,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valley_between_Potamia_and_Moni,_Naxos,_19M7555.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/valley-between-potamia-and-mon-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/valley-between-potamia-and-mon-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/naxos-2020-08-20-02-chora-grot.jpg",
@@ -1126,7 +1191,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naxos_%CE%9D%CE%AC%CE%BE%CE%BF%CF%82_2020-08-20_02_Chora_Grotta_and_Vintzi_beaches.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/naxos-2020-08-20-02-chora-grot-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/naxos-2020-08-20-02-chora-grot-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/naxos-chora-2020-08-20-28-port.jpg",
@@ -1141,7 +1208,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naxos_%CE%9D%CE%AC%CE%BE%CE%BF%CF%82_Chora_2020-08-20_28_Portara_%CE%A0%CE%BF%CF%81%CF%84%CE%AC%CF%81%CE%B1.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/naxos-chora-2020-08-20-28-port-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/naxos-chora-2020-08-20-28-port-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/agios-nikolaos-at-grotta-naxos.jpg",
@@ -1156,7 +1225,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agios_Nikolaos_at_Grotta,_Naxos,_4th_to_7th_c,_213443.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/agios-nikolaos-at-grotta-naxos-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/agios-nikolaos-at-grotta-naxos-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/glezos-tower.jpg",
@@ -1171,7 +1242,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glezos_Tower.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/glezos-tower-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/glezos-tower-small.webp"
         },
         {
           "path": "_m/s/w/d/5/temple-of-apollo-naxos-wp/20210713-6749.jpg",
@@ -1186,7 +1259,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20210713_%CE%A0%CE%BF%CF%81%CF%84%CE%AC%CF%81%CE%B1_6749.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "temple-of-apollo-naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/5/temple-of-apollo-naxos-wp/20210713-6749-medium.webp",
+          "smallPath": "_m/s/w/d/5/temple-of-apollo-naxos-wp/20210713-6749-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/8619.jpg",
@@ -1201,7 +1276,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%CE%9A%CE%AC%CF%84%CF%89_%CE%A3%CE%B1%CE%B3%CE%BA%CF%81%CE%AF_8619.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/8619-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/8619-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/der-tempel-von-sangri-gehort-z.jpg",
@@ -1216,7 +1293,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Der_Tempel_von_Sangri_geh%C3%B6rt_zu_den_fr%C3%BChen_ionischen_Tempeln%22._03.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/der-tempel-von-sangri-gehort-z-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/der-tempel-von-sangri-gehort-z-small.webp"
         }
       ],
       "narration": [

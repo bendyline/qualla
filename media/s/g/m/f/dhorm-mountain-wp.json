@@ -3,28 +3,17 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/g/m/f/dhorm-mountain-wp/hero.png",
-        "filename": "The Matterhorn as seen from Zermatt.png",
-        "caption": "The Matterhorn as seen from Zermatt.  This is a square crop of",
-        "alt": "The Matterhorn as seen from Zermatt.  This is a square crop of",
-        "width": 1000,
-        "height": 994,
-        "mimeType": "image/png",
-        "license": "CC BY-SA 4.0",
-        "artist": "Buaidh",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Matterhorn_as_seen_from_Zermatt.png",
-        "sourceType": "core",
-        "sourceArticleId": "dhorm-mountain-wp",
-        "sourceGeohash4": "sgmf",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "North-east side of Matterhorn",
-          "Self-published work"
-        ]
+        "path": "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero.png",
+        "filename": "Terra.png",
+        "width": 600,
+        "height": 600,
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terra.png",
+        "smallPath": "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/g/m/f/dhorm-mountain-wp/hero.png",
+          "path": "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero.png",
           "filename": "Terra.png",
           "alt": "Terra.png",
           "width": 600,
@@ -41,7 +30,8 @@
             "Media missing infobox template",
             "PD NASA",
             "The Blue Marble"
-          ]
+          ],
+          "smallPath": "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero-small.webp"
         }
       ],
       "narration": [
@@ -54,8 +44,9 @@
         "_m/s/g/m/f/dhorm-mountain-wp/sgmf-dhorm-mountain-the-plant-the-peak-the-terraces.mp3"
       ],
       "combinedNarration": "_m/s/g/m/f/dhorm-mountain-wp/sgmf-dhorm-mountain-combined.mp3",
-      "combinedNarrationBytes": 4598309,
-      "combinedNarrationDuration": 383
+      "combinedNarrationBytes": 4708910,
+      "combinedNarrationDuration": 383,
+      "combinedCover": "_m/s/g/m/f/dhorm-mountain-wp/sgmf-dhorm-mountain-combined-cover.jpg"
     }
   }
 }

@@ -3,31 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/5/s/baarle-hertog-wp/hero.jpg",
-        "filename": "Gemeentehuis Baarle-Hertog.jpg",
-        "caption": "Voormalig gemeentehuis van Baarle-Hertog, naar ontwerp van Pieter Jozef Taeymans",
-        "alt": "Voormalig gemeentehuis van Baarle-Hertog, naar ontwerp van Pieter Jozef Taeymans",
-        "width": 2816,
-        "height": 2120,
+        "path": "_m/u/1/5/s/baarle-hertog-wp/witte-kei-grenssteen-hoogstrat.jpg",
+        "filename": "Witte Kei grenssteen Hoogstraten-Merksplas-Baarle-Hertog.jpg",
+        "caption": "Witte Kei grenssteen Hoogstraten-Merksplas-Baarle-Hertog",
+        "alt": "Witte Kei grenssteen Hoogstraten-Merksplas-Baarle-Hertog",
+        "width": 4608,
+        "height": 2592,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "User Hsf-toshiba on nl.wikipedia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gemeentehuis_Baarle-Hertog.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Funkyxian",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Witte_Kei_grenssteen_Hoogstraten-Merksplas-Baarle-Hertog.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "baarle-hertog-wp",
         "sourceGeohash4": "u15s",
-        "categories": [
-          "April 2006 in Belgium",
-          "Buildings with flags in Belgium",
-          "Files with coordinates missing SDC location of creation (51° N, 4° E)",
-          "On OSM",
-          "Onroerend erfgoed with known IDs",
-          "Oud Gemeentehuis, Baarle-Hertog",
-          "PD-self",
-          "Photographs of the national flag of Belgium in Flanders",
-          "Self-published work",
-          "Taken with Fujifilm FinePix S5000"
-        ]
+        "mediumPath": "_m/u/1/5/s/baarle-hertog-wp/witte-kei-grenssteen-hoogstrat-medium.webp",
+        "smallPath": "_m/u/1/5/s/baarle-hertog-wp/witte-kei-grenssteen-hoogstrat-small.webp"
       },
       "images": [
         {
@@ -468,7 +458,8 @@
             "CC-BY-SA-2.0",
             "Files with coordinates missing SDC location of creation (51° N, 4° E)",
             "Flickr images uploaded by Flickr upload bot"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/de-grens-van-baarle-small.webp"
         },
         {
           "path": "_m/u/1/5/m/breda-wp/p1030218-copygrote-markt-breda.jpg",
@@ -492,7 +483,9 @@
             "Netherlands photographs taken on 2009-10-08",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ18"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/m/breda-wp/p1030218-copygrote-markt-breda-medium.webp",
+          "smallPath": "_m/u/1/5/m/breda-wp/p1030218-copygrote-markt-breda-small.webp"
         },
         {
           "path": "_m/u/1/5/m/breda-wp/id10176-breda-stadhuis-pm-6028.jpg",
@@ -520,7 +513,8 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon EOS 5D Mark II"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/m/breda-wp/id10176-breda-stadhuis-pm-6028-small.webp"
         },
         {
           "path": "_m/u/1/5/m/breda-wp/interieur-overzicht-van-het-ko.jpg",
@@ -546,7 +540,9 @@
             "Netherlands photographs taken on 2010-08-17",
             "Photographs by Paul van Galen",
             "Rijksmonumenten with known IDs"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/m/breda-wp/interieur-overzicht-van-het-ko-medium.webp",
+          "smallPath": "_m/u/1/5/m/breda-wp/interieur-overzicht-van-het-ko-small.webp"
         },
         {
           "path": "_m/u/1/5/m/breda-wp/moti-vooraanzicht.jpg",
@@ -561,7 +557,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:MOTI_vooraanzicht.jpg",
           "sourceType": "poi",
           "sourceArticleId": "breda-wp",
-          "sourceGeohash4": "u15m"
+          "sourceGeohash4": "u15m",
+          "mediumPath": "_m/u/1/5/m/breda-wp/moti-vooraanzicht-medium.webp",
+          "smallPath": "_m/u/1/5/m/breda-wp/moti-vooraanzicht-small.webp"
         },
         {
           "path": "_m/u/1/5/m/breda-wp/breda-station-7-september-2014.jpg",
@@ -576,7 +574,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Breda_station_7_september_2014_05.JPG",
           "sourceType": "poi",
           "sourceArticleId": "breda-wp",
-          "sourceGeohash4": "u15m"
+          "sourceGeohash4": "u15m",
+          "mediumPath": "_m/u/1/5/m/breda-wp/breda-station-7-september-2014-medium.webp",
+          "smallPath": "_m/u/1/5/m/breda-wp/breda-station-7-september-2014-small.webp"
         },
         {
           "path": "_m/u/1/5/m/breda-wp/breda-breda-s-museum-rm518948-.jpg",
@@ -591,7 +591,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Breda,_Breda%27s_museum_RM518948_foto6_2014-12-28_11.11.jpg",
           "sourceType": "poi",
           "sourceArticleId": "breda-wp",
-          "sourceGeohash4": "u15m"
+          "sourceGeohash4": "u15m",
+          "mediumPath": "_m/u/1/5/m/breda-wp/breda-breda-s-museum-rm518948--medium.webp",
+          "smallPath": "_m/u/1/5/m/breda-wp/breda-breda-s-museum-rm518948--small.webp"
         },
         {
           "path": "_m/u/1/5/m/breda-wp/10235-het-kasteel-van-breda.jpg",
@@ -606,7 +608,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:10235_Het_Kasteel_van_Breda.jpg",
           "sourceType": "poi",
           "sourceArticleId": "breda-wp",
-          "sourceGeohash4": "u15m"
+          "sourceGeohash4": "u15m",
+          "mediumPath": "_m/u/1/5/m/breda-wp/10235-het-kasteel-van-breda-medium.webp",
+          "smallPath": "_m/u/1/5/m/breda-wp/10235-het-kasteel-van-breda-small.webp"
         },
         {
           "path": "_m/u/1/5/m/breda-wp/10305-grote-of-onze-lieve-vrou.jpg",
@@ -621,7 +625,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:10305_Grote_of_Onze_Lieve-Vrouwekerk.jpg",
           "sourceType": "poi",
           "sourceArticleId": "breda-wp",
-          "sourceGeohash4": "u15m"
+          "sourceGeohash4": "u15m",
+          "mediumPath": "_m/u/1/5/m/breda-wp/10305-grote-of-onze-lieve-vrou-medium.webp",
+          "smallPath": "_m/u/1/5/m/breda-wp/10305-grote-of-onze-lieve-vrou-small.webp"
         },
         {
           "path": "_m/u/1/5/m/breda-wp/koepelgevangenis-breda-dscf049.jpg",
@@ -636,7 +642,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koepelgevangenis_(Breda)_DSCF0498.JPG",
           "sourceType": "poi",
           "sourceArticleId": "breda-wp",
-          "sourceGeohash4": "u15m"
+          "sourceGeohash4": "u15m",
+          "mediumPath": "_m/u/1/5/m/breda-wp/koepelgevangenis-breda-dscf049-medium.webp",
+          "smallPath": "_m/u/1/5/m/breda-wp/koepelgevangenis-breda-dscf049-small.webp"
         },
         {
           "path": "_m/u/1/5/m/breda-wp/kogelvanger-breda-dscf0657.jpg",
@@ -651,7 +659,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kogelvanger_(Breda)_DSCF0657.JPG",
           "sourceType": "poi",
           "sourceArticleId": "breda-wp",
-          "sourceGeohash4": "u15m"
+          "sourceGeohash4": "u15m",
+          "mediumPath": "_m/u/1/5/m/breda-wp/kogelvanger-breda-dscf0657-medium.webp",
+          "smallPath": "_m/u/1/5/m/breda-wp/kogelvanger-breda-dscf0657-small.webp"
         },
         {
           "path": "_m/u/1/5/m/breda-wp/breda-princenhaags-museum-2024.jpg",
@@ -666,7 +676,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Breda_Princenhaags_Museum_2024-08-05.jpg",
           "sourceType": "poi",
           "sourceArticleId": "breda-wp",
-          "sourceGeohash4": "u15m"
+          "sourceGeohash4": "u15m",
+          "mediumPath": "_m/u/1/5/m/breda-wp/breda-princenhaags-museum-2024-medium.webp",
+          "smallPath": "_m/u/1/5/m/breda-wp/breda-princenhaags-museum-2024-small.webp"
         },
         {
           "path": "_m/u/0/g/r/southern-netherlands-wp/breda-kasteel.jpg",
@@ -692,7 +704,8 @@
             "License migration redundant",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/0/g/r/southern-netherlands-wp/breda-kasteel-small.webp"
         },
         {
           "path": "_m/u/1/5/h/bergen-op-zoom-wp/bergen-op-zoom-008.jpg",
@@ -720,7 +733,8 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon PowerShot A520"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/h/bergen-op-zoom-wp/bergen-op-zoom-008-small.webp"
         },
         {
           "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/centrum-eindhoven.jpg",
@@ -741,7 +755,8 @@
             "CC-BY-2.0",
             "Eindhoven",
             "Flickr images reviewed by FlickreviewR"
-          ]
+          ],
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/centrum-eindhoven-small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/burchtplein-oss.jpg",
@@ -764,7 +779,8 @@
             "License migration redundant",
             "Metalen bol (Burchtplein), Oss",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/burchtplein-oss-small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/klotterpeel-1.jpg",
@@ -791,7 +807,8 @@
             "Peel, Netherlands",
             "Self-published work",
             "Taken with Pentax Optio WP"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/klotterpeel-1-small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/centrum-geldrop-p1060740.jpg",
@@ -806,7 +823,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Centrum_Geldrop_P1060740.JPG",
           "sourceType": "poi",
           "sourceArticleId": "north-brabant-wp",
-          "sourceGeohash4": "u15t"
+          "sourceGeohash4": "u15t",
+          "mediumPath": "_m/u/1/5/t/north-brabant-wp/centrum-geldrop-p1060740-medium.webp",
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/centrum-geldrop-p1060740-small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/boekel-raadhuis.jpg",
@@ -821,7 +840,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boekel_Raadhuis.JPG",
           "sourceType": "poi",
           "sourceArticleId": "north-brabant-wp",
-          "sourceGeohash4": "u15t"
+          "sourceGeohash4": "u15t",
+          "mediumPath": "_m/u/1/5/t/north-brabant-wp/boekel-raadhuis-medium.webp",
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/boekel-raadhuis-small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/2012-08-25-loonse-en-drunense-.jpg",
@@ -836,7 +857,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2012-08-25_Loonse_en_Drunense_Duinen_%E2%80%93_Tree.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-brabant-wp",
-          "sourceGeohash4": "u15t"
+          "sourceGeohash4": "u15t",
+          "mediumPath": "_m/u/1/5/t/north-brabant-wp/2012-08-25-loonse-en-drunense--medium.webp",
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/2012-08-25-loonse-en-drunense--small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/huize-bartholomeus-koningsplei.jpg",
@@ -851,7 +874,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huize_Bartholomeus,_Koningsplein_1,_Asten.JPG",
           "sourceType": "poi",
           "sourceArticleId": "north-brabant-wp",
-          "sourceGeohash4": "u15t"
+          "sourceGeohash4": "u15t",
+          "mediumPath": "_m/u/1/5/t/north-brabant-wp/huize-bartholomeus-koningsplei-medium.webp",
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/huize-bartholomeus-koningsplei-small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/haageind-deurne-klein-kasteel-.jpg",
@@ -866,7 +891,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:HAAGEIND_DEURNE_klein_kasteel_DSC4657_140913.JPG",
           "sourceType": "poi",
           "sourceArticleId": "north-brabant-wp",
-          "sourceGeohash4": "u15t"
+          "sourceGeohash4": "u15t",
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/haageind-deurne-klein-kasteel--small.webp"
         },
         {
           "path": "_m/u/1/5/e/benelux-wk/intercitynet-nl-2015.png",
@@ -881,7 +907,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Intercitynet_NL_2015.png",
           "sourceType": "poi",
           "sourceArticleId": "benelux-wk",
-          "sourceGeohash4": "u15t"
+          "sourceGeohash4": "u15t",
+          "mediumPath": "_m/u/1/5/e/benelux-wk/intercitynet-nl-2015-medium.webp",
+          "smallPath": "_m/u/1/5/e/benelux-wk/intercitynet-nl-2015-small.webp"
         },
         {
           "path": "_m/u/0/g/r/southern-netherlands-wp/efteling-the-house-of-the-five.jpg",
@@ -896,7 +924,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Efteling_The_House_of_the_Five_Senses.jpg",
           "sourceType": "poi",
           "sourceArticleId": "southern-netherlands-wp",
-          "sourceGeohash4": "u15t"
+          "sourceGeohash4": "u15t",
+          "mediumPath": "_m/u/0/g/r/southern-netherlands-wp/efteling-the-house-of-the-five-medium.webp",
+          "smallPath": "_m/u/0/g/r/southern-netherlands-wp/efteling-the-house-of-the-five-small.webp"
         },
         {
           "path": "_m/u/1/5/5/antwerp-province-wp/turnhout-sint-pieterskerk.jpg",
@@ -922,7 +952,8 @@
             "Self-published work",
             "Sint-Pieterskerk (Turnhout)",
             "Taken with Canon Digital IXUS 400"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/5/antwerp-province-wp/turnhout-sint-pieterskerk-small.webp"
         },
         {
           "path": "_m/u/1/5/2/belgium-wk/flames-performs-graspo.jpg",
@@ -946,7 +977,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon Digital IXUS 75"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/2/belgium-wk/flames-performs-graspo-medium.webp",
+          "smallPath": "_m/u/1/5/2/belgium-wk/flames-performs-graspo-small.webp"
         },
         {
           "path": "_m/u/1/5/4/flanders-wp/stadhuis-mechelen-2013.jpg",
@@ -969,7 +1002,9 @@
             "Onroerend erfgoed with known IDs",
             "Self-published work",
             "Town hall of Mechelen"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/4/flanders-wp/stadhuis-mechelen-2013-medium.webp",
+          "smallPath": "_m/u/1/5/4/flanders-wp/stadhuis-mechelen-2013-small.webp"
         },
         {
           "path": "_m/u/1/5/5/antwerp-province-wp/10361-stadhuis-van-lier.jpg",
@@ -997,7 +1032,9 @@
             "Taken with Canon EOS 600D",
             "Town hall of Lier",
             "Uploaded via Campaign:wlm-be-vlg"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/5/antwerp-province-wp/10361-stadhuis-van-lier-medium.webp",
+          "smallPath": "_m/u/1/5/5/antwerp-province-wp/10361-stadhuis-van-lier-small.webp"
         },
         {
           "path": "_m/u/1/5/5/antwerp-province-wp/bunnywailer-istandpredominate.jpg",
@@ -1021,7 +1058,8 @@
             "Images with extracted images",
             "Male vocalists in 2014",
             "People of Jamaica in 2014"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/5/antwerp-province-wp/bunnywailer-istandpredominate-small.webp"
         },
         {
           "path": "_m/u/1/5/4/flanders-wp/amberes-vistas-mas-2.jpg",
@@ -1036,7 +1074,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amberes;_vistas_MAS_2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "flanders-wp",
-          "sourceGeohash4": "u155"
+          "sourceGeohash4": "u155",
+          "mediumPath": "_m/u/1/5/4/flanders-wp/amberes-vistas-mas-2-medium.webp",
+          "smallPath": "_m/u/1/5/4/flanders-wp/amberes-vistas-mas-2-small.webp"
         },
         {
           "path": "_m/u/1/5/4/flanders-wp/brugge-beguinage.jpg",
@@ -1062,7 +1102,8 @@
             "Pictures by Donar Reiskoffer",
             "Self-published work",
             "Taken with Canon PowerShot A40"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/4/flanders-wp/brugge-beguinage-small.webp"
         },
         {
           "path": "_m/u/1/4/d/east-flanders-wp/ghent-centre.jpg",
@@ -1088,7 +1129,8 @@
             "Oud Postkantoor (Gent)",
             "Taken with Canon PowerShot S10",
             "Time 10:51"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/d/east-flanders-wp/ghent-centre-small.webp"
         },
         {
           "path": "_m/u/1/5/4/flanders-wp/sint-niklaas.jpg",
@@ -1110,7 +1152,8 @@
             "License migration completed",
             "Media missing infobox template",
             "Town hall of Sint-Niklaas"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/4/flanders-wp/sint-niklaas-small.webp"
         },
         {
           "path": "_m/u/1/4/4/west-flanders-wp/kortrijk-hotel-de-ville.jpg",
@@ -1134,7 +1177,8 @@
             "License migration redundant",
             "Self-published work",
             "Town hall of Kortrijk"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/4/west-flanders-wp/kortrijk-hotel-de-ville-small.webp"
         },
         {
           "path": "_m/u/1/5/4/flanders-wp/hasselt-rathaus-20060906.jpg",
@@ -1160,7 +1204,9 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ20",
             "User-created GFDL images"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/4/flanders-wp/hasselt-rathaus-20060906-medium.webp",
+          "smallPath": "_m/u/1/5/4/flanders-wp/hasselt-rathaus-20060906-small.webp"
         },
         {
           "path": "_m/u/1/4/4/west-flanders-wp/ieper25.jpg",
@@ -1184,7 +1230,8 @@
             "Grote Markt (Ypres)",
             "License migration completed",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/4/west-flanders-wp/ieper25-small.webp"
         },
         {
           "path": "_m/u/1/4/4/west-flanders-wp/brugge-canalrozenhoedkaai.jpg",
@@ -1199,7 +1246,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brugge-CanalRozenhoedkaai.JPG",
           "sourceType": "poi",
           "sourceArticleId": "west-flanders-wp",
-          "sourceGeohash4": "u154"
+          "sourceGeohash4": "u154",
+          "mediumPath": "_m/u/1/4/4/west-flanders-wp/brugge-canalrozenhoedkaai-medium.webp",
+          "smallPath": "_m/u/1/4/4/west-flanders-wp/brugge-canalrozenhoedkaai-small.webp"
         },
         {
           "path": "_m/u/1/5/3/flemish-brabant-wp/oude-markt-leuven.jpg",
@@ -1214,7 +1263,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oude_Markt_Leuven.jpg",
           "sourceType": "poi",
           "sourceArticleId": "flemish-brabant-wp",
-          "sourceGeohash4": "u154"
+          "sourceGeohash4": "u154",
+          "mediumPath": "_m/u/1/5/3/flemish-brabant-wp/oude-markt-leuven-medium.webp",
+          "smallPath": "_m/u/1/5/3/flemish-brabant-wp/oude-markt-leuven-small.webp"
         },
         {
           "path": "_m/u/1/5/4/flanders-wp/flanders-travel-map.png",
@@ -1229,7 +1280,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flanders_travel_map.png",
           "sourceType": "poi",
           "sourceArticleId": "flanders-wp",
-          "sourceGeohash4": "u154"
+          "sourceGeohash4": "u154",
+          "mediumPath": "_m/u/1/5/4/flanders-wp/flanders-travel-map-medium.webp",
+          "smallPath": "_m/u/1/5/4/flanders-wp/flanders-travel-map-small.webp"
         }
       ],
       "narration": [

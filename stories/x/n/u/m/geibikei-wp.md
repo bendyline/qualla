@@ -31,7 +31,7 @@ Located at 38.99N, 141.25E in the city of Ichinoseki, southern Iwate Prefecture.
 - [Geibikei - Wikipedia](https://en.wikipedia.org/?curid=34688139)
 - 猊鼻渓
 - [Geibikei Gorge River Cruises](https://www.japan.travel/en/spot/1801/)
-- [Geibikei - Wikipedia](https://en.wikipedia.org/wiki/Geibikei)
+- [Geibikei - Wikipedia](https://en.wikipedia.org/?curid=34688139)
   - Cliff height of 124 meters confirmed
   - National Place of Scenic Beauty and Natural Monument designation since 1923 confirmed
   - Selected as one of 100 Landscapes of Japan in 1927 confirmed

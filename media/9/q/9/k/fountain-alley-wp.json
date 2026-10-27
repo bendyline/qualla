@@ -3,29 +3,22 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/9/k/fountain-alley-wp/hero.jpg",
-        "filename": "San Jose - Fountain Alley (10286343175).jpg",
-        "caption": "Photo by Sergio Ruiz",
-        "alt": "Photo by Sergio Ruiz",
-        "width": 5058,
-        "height": 3376,
-        "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "SPUR",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Jose_-_Fountain_Alley_(10286343175).jpg",
-        "sourceType": "core",
-        "sourceArticleId": "fountain-alley-wp",
-        "sourceGeohash4": "9q9k",
-        "categories": [
-          "27–29 Fountain Alley",
-          "CC-BY-2.0",
-          "Flickr images reviewed by FlickreviewR 2",
-          "Fountain Alley"
-        ]
+        "path": "_m/9/q/9/k/bank-of-italy-building-san-jose-california-wp/hero.jpg",
+        "filename": "Bank of Italy Building.jpg",
+        "caption": "Bank of Italy Building, San Jose",
+        "alt": "Bank of Italy Building, San Jose",
+        "width": 4049,
+        "height": 3038,
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Spavlov2000",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bank_of_Italy_Building.jpg",
+        "mediumPath": "_m/9/q/9/k/bank-of-italy-building-san-jose-california-wp/hero-medium.webp",
+        "smallPath": "_m/9/q/9/k/bank-of-italy-building-san-jose-california-wp/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/9/k/fountain-alley-wp/building-27-29-fountai.jpg",
+          "path": "_m/9/q/9/k/27-29-fountain-alley-wp/building-27-29-fountai.jpg",
           "filename": "Fountain Alley Office Building, on 30 E. Santa Clara St..JPG",
           "caption": "Building at 27-29 Fountain Alley",
           "alt": "Building at 27-29 Fountain Alley",
@@ -56,10 +49,12 @@
             "United States photographs taken on 2012-09-08",
             "WLM 2012 United States nominated",
             "WLM 2012 United States reviewed"
-          ]
+          ],
+          "mediumPath": "_m/9/q/9/k/27-29-fountain-alley-wp/building-27-29-fountai-medium.webp",
+          "smallPath": "_m/9/q/9/k/27-29-fountain-alley-wp/building-27-29-fountai-small.webp"
         },
         {
-          "path": "_m/9/q/9/k/fountain-alley-wp/hero.jpg",
+          "path": "_m/9/q/9/k/bank-of-italy-building-san-jose-california-wp/hero.jpg",
           "filename": "Bank of Italy Building.jpg",
           "caption": "Bank of Italy Building, San Jose",
           "alt": "Bank of Italy Building, San Jose",
@@ -76,7 +71,9 @@
             "Bank of Italy Building (San Jose, California)",
             "CC-BY-SA-4.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/9/q/9/k/bank-of-italy-building-san-jose-california-wp/hero-medium.webp",
+          "smallPath": "_m/9/q/9/k/bank-of-italy-building-san-jose-california-wp/hero-small.webp"
         }
       ],
       "narration": [
@@ -88,8 +85,9 @@
         "_m/9/q/9/k/fountain-alley-wp/9q9k-fountain-alley-the-paseo-reborn.mp3"
       ],
       "combinedNarration": "_m/9/q/9/k/fountain-alley-wp/9q9k-fountain-alley-combined.mp3",
-      "combinedNarrationBytes": 3038655,
-      "combinedNarrationDuration": 253
+      "combinedNarrationBytes": 3139945,
+      "combinedNarrationDuration": 253,
+      "combinedCover": "_m/9/q/9/k/fountain-alley-wp/9q9k-fountain-alley-combined-cover.jpg"
     }
   }
 }

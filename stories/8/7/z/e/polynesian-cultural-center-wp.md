@@ -28,7 +28,7 @@ Each evening, the center stages Ha -- Breath of Life, a large-scale production t
 
 ## Flight Context
 
-Located at 21.639N, 157.920W in Laie on Oahu's North Shore. The center's 42-acre campus with its lagoon and village structures is visible from low altitude along the coast. The adjacent BYU-Hawaii campus and the Laie Hawaii Temple provide visual references. Nearest airport: Dillingham Airfield (PHDH), approximately 16 nm west along the North Shore. Honolulu International (PHNL) is roughly 25 nm south. Best viewed on approach from the ocean side.
+Located at 21.639N, 157.920W in Laie on Oahu's North Shore. The center's 42-acre campus with its lagoon and village structures is visible from low altitude along the coast. The adjacent BYU-Hawaii campus and the Laie Hawaii Temple provide visual references. Nearest airport: Dillingham Airfield (PHDH), approximately 16 nm west along the North Shore. Daniel K. Inouye International Airport (PHNL, formerly Honolulu International) is roughly 25 nm south. Best viewed on approach from the ocean side.
 
 ## Sources
 

@@ -33,7 +33,7 @@ The SS Great Republic wreck site lies at approximately 46.278N, 124.024W near Sa
 ## Sources
 
 - [SS Great Republic (1866) - Wikipedia](https://en.wikipedia.org/?curid=27623014)
-- [SS Great Republic (1866) - Wikipedia](https://en.wikipedia.org/wiki/SS_Great_Republic_(1866))
+- [SS Great Republic (1866) - Wikipedia](https://en.wikipedia.org/?curid=27623014)
   - Launched from Henry Steers shipyard at Greenpoint Long Island November 8 1866
   - Largest commercial vessel ever built in US at that date - confirmed
   - 3,881 gross register tons - confirmed

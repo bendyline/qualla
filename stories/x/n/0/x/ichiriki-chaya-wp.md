@@ -33,7 +33,7 @@ Located at 35.003N, 135.775E in the Gion district of Kyoto, Japan. The teahouse 
 ## Sources
 
 - [Ichiriki Chaya - Wikipedia](https://en.wikipedia.org/?curid=18340442)
-- [Wikipedia - Ichiriki Chaya](https://en.wikipedia.org/wiki/Ichiriki_Chaya)
+- [Wikipedia - Ichiriki Chaya](https://en.wikipedia.org/?curid=18340442)
   - Teahouse over 300 years old and centerpiece of Gion since the district's early days
   - Oishi Kuranosuke spent two years frequenting the Ichiriki as cover before the attack
   - Kira Yoshinaka is the traditional name for the court official (modern documents suggest Yoshihisa)

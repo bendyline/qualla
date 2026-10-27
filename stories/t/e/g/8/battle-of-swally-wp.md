@@ -33,7 +33,7 @@ The Battle of Swally took place off the coast near the village of Suvali at 21.1
 ## Sources
 
 - [Battle of Swally - Wikipedia](https://en.wikipedia.org/?curid=1867090)
-- [Battle of Swally - Wikipedia (fact-check)](https://en.wikipedia.org/wiki/Battle_of_Swally)
+- [Battle of Swally - Wikipedia (fact-check)](https://en.wikipedia.org/?curid=1867090)
   - Corrected: skirmish and main battle dates were October in original, corrected to November (29-30 November 1612 is the confirmed date)
   - Corrected: treaty negotiation period '17 to 21 October' corrected to '17 to 21 November'
   - Ship names Red Dragon, Hosiander, James, Solomon confirmed correct for 10th voyage

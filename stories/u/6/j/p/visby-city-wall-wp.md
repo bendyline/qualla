@@ -38,7 +38,7 @@ Located at 57.63N, 18.30E, the ring wall encircles the medieval core of Visby on
   - 22 small towers originally, 9 remain
   - Construction began 1270s-1280s
   - Strongest and best preserved medieval city wall in Scandinavia
-- [Wikipedia - Visby City Wall (Kruttornet)](https://en.wikipedia.org/wiki/Visby_City_Wall)
+- [Wikipedia - Visby City Wall (Kruttornet)](https://en.wikipedia.org/?curid=5505723)
   - Kruttornet (Gunpowder Tower) built 12th century (1160-61)
   - Oldest surviving non-religious building in Nordic countries
 - [Wikipedia - Battle of Visby](https://en.wikipedia.org/wiki/Battle_of_Visby)

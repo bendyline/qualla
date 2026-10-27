@@ -33,7 +33,7 @@ Coordinates: 71.27°N, 72.07°E. Sabetta sits on the western shore of the Ob est
 ## Sources
 
 - [Sabetta - Wikipedia](https://en.wikipedia.org/?curid=45030124)
-- [Sabetta - Wikipedia and Port of Sabetta Ship Technology](https://en.wikipedia.org/wiki/Sabetta)
+- [Sabetta - Wikipedia and Port of Sabetta Ship Technology](https://en.wikipedia.org/?curid=45030124)
   - Sabetta located at 71°N on western shore of Ob estuary — confirmed
   - Groundbreaking ceremony July 2012 — confirmed
   - Port construction began summer 2013 — confirmed

@@ -2,33 +2,55 @@
   "articleId": "oldenzaal-wp",
   "gallery": [
     {
-      "filename": "PaltheHuis.jpg",
-      "title": "File:PaltheHuis.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/PaltheHuis.jpg",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:PaltheHuis.jpg",
-      "width": 1533,
-      "height": 2292,
+      "filename": "Oldenzaal-plaats-OpenTopo.jpg",
+      "title": "File:Oldenzaal-plaats-OpenTopo.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Oldenzaal-plaats-OpenTopo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Oldenzaal-plaats-OpenTopo.jpg",
+      "width": 1820,
+      "height": 1910,
       "mime": "image/jpeg",
-      "license": "CC BY-SA 2.0 de",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
-      "artist": "The original uploader was Bildspende at German Wikipedia.",
-      "description": "The Palthe House, historical museum of Oldenzaal",
-      "dateCreated": "26 February 2006 (original upload date)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Janwillemvanaalst",
+      "credit": "Own work",
+      "source": "Oldenzaal-plaats-OpenTopo",
+      "description": "Topografische kaart van Oldenzaal (woonplaats). Resolutie: 300 pixels/km.\nKaartbeeld samengesteld uit de open geodata van de Top10NL en Top25namen (Basisregistratie Topografie, Kadaster), Creative Commons BY licentie. Gebouwvlakken uit open geodata BAG extract. Wegen uit de OpenStreetMap. Reliëfschaduw uit de Actuele Hoogtekaart AHN2.\n\nSamenstelling en kleurenschema: Jan-Willem van Aalst, met QGIS2. Zie ook de Legenda.",
+      "dateCreated": "2014-12-20 09:02:17",
       "categories": [
-        "2006 in Oldenzaal",
-        "CC-BY-SA-2.0-DE",
-        "Gables in Oldenzaal",
-        "Palthehuis Oldenzaal",
-        "Rijksmonumenten with known IDs"
+        "CC-BY-SA-3.0",
+        "Maps of Oldenzaal",
+        "Self-published work"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "oldenzaal-wp",
       "sourceGeohash4": "u1kc",
-      "smallPath": "_m/u/1/k/c/oldenzaal-wp/palthehuis-small.webp"
+      "smallPath": "_m/u/1/k/c/oldenzaal-wp/topografische-kaart-va-small.webp"
+    },
+    {
+      "filename": "Oldenzaal, de watertoren IMG 7374 2020-08-10 17.41.jpg",
+      "title": "File:Oldenzaal, de watertoren IMG 7374 2020-08-10 17.41.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Oldenzaal%2C_de_watertoren_IMG_7374_2020-08-10_17.41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Oldenzaal,_de_watertoren_IMG_7374_2020-08-10_17.41.jpg",
+      "width": 2355,
+      "height": 3851,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Michielverbeek",
+      "credit": "Own work",
+      "source": "Oldenzaal, de watertoren IMG 7374 2020-08-10 17.41",
+      "description": "Oldenzaal, the watertower",
+      "dateCreated": "2020-08-10 17:41:16",
+      "sourceType": "core",
+      "sourceArticleId": "oldenzaal-wp",
+      "sourceGeohash4": "u1kc",
+      "mediumPath": "_m/u/1/k/c/oldenzaal-wp/oldenzaal-watertower-medium.webp",
+      "smallPath": "_m/u/1/k/c/oldenzaal-wp/oldenzaal-watertower-small.webp"
     }
   ],
   "galleryPaths": [
-    "_m/u/1/k/c/oldenzaal-wp/palthehuis.jpg"
+    "_m/u/1/k/c/oldenzaal-wp/topografische-kaart-va.jpg",
+    "_m/u/1/k/c/oldenzaal-wp/oldenzaal-watertower.jpg"
   ],
   "updatedAt": "2026-05-20T11:15:29.089Z",
   "narration": {
@@ -51,5 +73,65 @@
       "u1kc-oldenzaal-border-city-border-identity.mp3": 48.3029166
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Oude stadhuis Oldenzaal.jpg",
+    "title": "File:Oude stadhuis Oldenzaal.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Oude_stadhuis_Oldenzaal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Oude_stadhuis_Oldenzaal.jpg",
+    "width": 2304,
+    "height": 1728,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "artist": "Simpleness",
+    "credit": "Own work",
+    "source": "Oude stadhuis Oldenzaal",
+    "description": "Oldenzaal: \n\nOld town hall of Oldenzaal",
+    "dateCreated": "2007-02-10",
+    "categories": [
+      "2007 in Oldenzaal",
+      "CC-BY-SA-2.5",
+      "Coats of arms on town halls in the Netherlands",
+      "Gables in Oldenzaal",
+      "Oude stadhuis (Oldenzaal)",
+      "Rijksmonumenten with known IDs",
+      "Self-published work",
+      "Taken with Kodak EasyShare DX6490"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "oldenzaal-wp",
+    "sourceGeohash4": "u1kc",
+    "mediumPath": "_m/u/1/k/c/oldenzaal-wp/hero-medium.webp",
+    "smallPath": "_m/u/1/k/c/oldenzaal-wp/hero-small.webp"
+  },
+  "thumbnail": {
+    "filename": "Oude stadhuis Oldenzaal.jpg",
+    "title": "File:Oude stadhuis Oldenzaal.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Oude_stadhuis_Oldenzaal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Oude_stadhuis_Oldenzaal.jpg",
+    "width": 2304,
+    "height": 1728,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "artist": "Simpleness",
+    "credit": "Own work",
+    "source": "Oude stadhuis Oldenzaal",
+    "description": "Oldenzaal: \n\nOld town hall of Oldenzaal",
+    "dateCreated": "2007-02-10",
+    "categories": [
+      "2007 in Oldenzaal",
+      "CC-BY-SA-2.5",
+      "Coats of arms on town halls in the Netherlands",
+      "Gables in Oldenzaal",
+      "Oude stadhuis (Oldenzaal)",
+      "Rijksmonumenten with known IDs",
+      "Self-published work",
+      "Taken with Kodak EasyShare DX6490"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "oldenzaal-wp",
+    "sourceGeohash4": "u1kc"
   }
 }

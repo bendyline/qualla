@@ -54,7 +54,7 @@ Athens College sits in Psychiko at roughly 38.0172 N, 23.7786 E, in the northern
   - Hellenic-American Educational Foundation umbrella organization
   - Athens College and Psychico College sister schools
   - International Baccalaureate offered
-- [Cyprus refugee scholar count corrected](https://en.wikipedia.org/wiki/Athens_College)
+- [Cyprus refugee scholar count corrected](https://en.wikipedia.org/?curid=2018079)
   - Story originally said 'thirty' Cypriot refugee children; Wikipedia and search sources indicate 48 scholars were supported in 1974-75; corrected to forty-eight
 
 ## Review Notes

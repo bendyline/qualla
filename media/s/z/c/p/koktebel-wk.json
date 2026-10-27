@@ -3,31 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/z/c/p/koktebel-wk/hero.jpg",
-        "filename": "Panorama of Koktebel, Ukraine.jpg",
-        "caption": "Panorama of Koktebel, Ukraine from a nearby hill",
-        "alt": "Panorama of Koktebel, Ukraine from a nearby hill",
-        "width": 12490,
-        "height": 1856,
+        "path": "_m/s/z/c/p/koktebel-wk/koktebel-hills.jpg",
+        "filename": "Koktebel - hills.jpg",
+        "caption": "Hills in Koktebel.",
+        "alt": "Hills in Koktebel.",
+        "width": 10497,
+        "height": 2692,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "Richlv",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_of_Koktebel,_Ukraine.jpg",
-        "sourceType": "core",
+        "artist": "Tiia Monto",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koktebel_-_hills.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "koktebel-wk",
         "sourceGeohash4": "szcp",
         "categories": [
           "CC-BY-SA-3.0",
-          "Crimea photographs taken on 2013-06-28",
-          "Files with coordinates missing SDC location of creation",
-          "Koktebel",
-          "Panoramas of Crimea",
-          "Self-published work"
-        ]
+          "Crimea photographs taken on 2013-08-18",
+          "Images with annotations"
+        ],
+        "mediumPath": "_m/s/z/c/p/koktebel-wk/koktebel-hills-medium.webp",
+        "smallPath": "_m/s/z/c/p/koktebel-wk/koktebel-hills-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/z/c/p/koktebel-wk/5.jpg",
+          "path": "_m/s/z/c/p/koktebel-wp/5.jpg",
           "filename": "Карадазький ПЗ 5.jpg",
           "caption": "Карадазький ПЗ \t Крим, м. Феодосія, сел. Курортне.",
           "alt": "Карадазький ПЗ \t Крим, м. Феодосія, сел. Курортне.",
@@ -49,10 +48,10 @@
             "Natural heritage sites in Ukraine with known IDs",
             "Self-published work"
           ],
-          "smallPath": "_m/s/z/c/p/koktebel-wk/5-small.webp"
+          "smallPath": "_m/s/z/c/p/koktebel-wp/5-small.webp"
         },
         {
-          "path": "_m/s/z/c/p/koktebel-wk/koktebel6.jpg",
+          "path": "_m/s/z/c/p/koktebel-wp/koktebel6.jpg",
           "filename": "Koktebel6.jpg",
           "caption": "View from Black Sea to Koktebel.",
           "alt": "View from Black Sea to Koktebel.",
@@ -72,8 +71,8 @@
             "Koktebel",
             "Taken with Olympus E-PL1"
           ],
-          "mediumPath": "_m/s/z/c/p/koktebel-wk/koktebel6-medium.webp",
-          "smallPath": "_m/s/z/c/p/koktebel-wk/koktebel6-small.webp"
+          "mediumPath": "_m/s/z/c/p/koktebel-wp/koktebel6-medium.webp",
+          "smallPath": "_m/s/z/c/p/koktebel-wp/koktebel6-small.webp"
         },
         {
           "path": "_m/s/z/c/p/koktebel-wk/feodosia-city2.jpg",
@@ -382,7 +381,7 @@
           "smallPath": "_m/s/z/c/p/koktebel-wk/koktebel-pedestrian-street2-small.webp"
         },
         {
-          "path": "_m/s/z/c/p/koktebel-wk/karadag6.jpg",
+          "path": "_m/s/z/c/p/kara-dag-mountain-wp/karadag6.jpg",
           "filename": "Karadag6.jpg",
           "caption": "View from Black Sea to Kara-Dag.",
           "alt": "View from Black Sea to Kara-Dag.",
@@ -394,7 +393,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karadag6.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "kara-dag-mountain-wp",
-          "sourceGeohash4": "szcp"
+          "sourceGeohash4": "szcp",
+          "mediumPath": "_m/s/z/c/p/kara-dag-mountain-wp/karadag6-medium.webp",
+          "smallPath": "_m/s/z/c/p/kara-dag-mountain-wp/karadag6-small.webp"
         },
         {
           "path": "_m/s/z/c/p/koktebel-wk/crimea-hills.jpg",
@@ -414,7 +415,7 @@
           "smallPath": "_m/s/z/c/p/koktebel-wk/crimea-hills-small.webp"
         },
         {
-          "path": "_m/s/z/c/p/koktebel-wk/view-black-sea-kara-da.jpg",
+          "path": "_m/s/z/c/p/kara-dag-mountain-wp/view-black-sea-kara-da.jpg",
           "filename": "Karadag7.jpg",
           "caption": "View from Black Sea to Kara-Dag.",
           "alt": "View from Black Sea to Kara-Dag.",
@@ -426,7 +427,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karadag7.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "kara-dag-mountain-wp",
-          "sourceGeohash4": "szcp"
+          "sourceGeohash4": "szcp",
+          "mediumPath": "_m/s/z/c/p/kara-dag-mountain-wp/view-black-sea-kara-da-medium.webp",
+          "smallPath": "_m/s/z/c/p/kara-dag-mountain-wp/view-black-sea-kara-da-small.webp"
         },
         {
           "path": "_m/s/z/c/p/koktebel-wk/koktebel-hill2.jpg",
@@ -502,7 +505,9 @@
             "Photos by Alexxx-Malev (Alexxx1979)",
             "Self-published work",
             "Taken with Olympus OM-D E-M5 Mark III"
-          ]
+          ],
+          "mediumPath": "_m/s/z/c/p/koktebel-wp/crimea-koktebel-volcanic-rock--medium.webp",
+          "smallPath": "_m/s/z/c/p/koktebel-wp/crimea-koktebel-volcanic-rock--small.webp"
         },
         {
           "path": "_m/u/b/1/0/feodosiya-wk/image-2.jpg",
@@ -525,7 +530,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot A430"
-          ]
+          ],
+          "mediumPath": "_m/u/b/1/0/feodosiya-wk/image-2-medium.webp",
+          "smallPath": "_m/u/b/1/0/feodosiya-wk/image-2-small.webp"
         },
         {
           "path": "_m/u/b/1/0/feodosiya-wk/004.jpg",
@@ -545,7 +552,9 @@
             "Fountain of Aivazovsky in Feodosia",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/b/1/0/feodosiya-wk/004-medium.webp",
+          "smallPath": "_m/u/b/1/0/feodosiya-wk/004-small.webp"
         },
         {
           "path": "_m/u/b/1/0/feodosiya-wk/image-4.jpg",
@@ -568,7 +577,8 @@
             "Cultural heritage monuments in Ukraine missing SDC location of creation",
             "Cultural heritage monuments in Ukraine with known IDs",
             "Dacha Stamboli, Feodosia"
-          ]
+          ],
+          "smallPath": "_m/u/b/1/0/feodosiya-wk/image-4-small.webp"
         },
         {
           "path": "_m/s/z/b/z/sudak-wp/image-1.jpg",
@@ -594,7 +604,9 @@
             "Self-published work",
             "Uploaded via Campaign:wlm-banners",
             "Wikivoyage banners of Crimea"
-          ]
+          ],
+          "mediumPath": "_m/s/z/b/z/sudak-wp/image-1-medium.webp",
+          "smallPath": "_m/s/z/b/z/sudak-wp/image-1-small.webp"
         }
       ],
       "narration": [

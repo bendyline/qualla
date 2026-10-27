@@ -37,7 +37,7 @@ Located at 29.34N, 94.77W in Galveston Harbor and Galveston Bay, Texas. Galvesto
 ## Sources
 
 - [Battle of Galveston Harbor (1862) - Wikipedia](https://en.wikipedia.org/?curid=12479882)
-- [Wikipedia - Battle of Galveston Harbor (1862)](https://en.wikipedia.org/wiki/Battle_of_Galveston_Harbor_(1862))
+- [Wikipedia - Battle of Galveston Harbor (1862)](https://en.wikipedia.org/?curid=12479882)
   - October 4 1862 date confirmed
   - Commander William B. Renshaw led five ships
   - Harriet Lane entered bay under white flag
@@ -55,7 +55,7 @@ Located at 29.34N, 94.77W in Galveston Harbor and Galveston Bay, Texas. Galvesto
   - Harriet Lane captured by Confederate boarding parties Jan 1863
   - Westfield destroyed by explosion killing Renshaw
   - Galveston remained Confederate for rest of war
-- [Wikipedia - HMS Desperate Galveston blockade](https://en.wikipedia.org/wiki/Battle_of_Galveston_Harbor_(1862))
+- [Wikipedia - HMS Desperate Galveston blockade](https://en.wikipedia.org/?curid=12479882)
   - HMS Desperate visited Galveston Dec 1861
   - British found no Union naval presence
   - Threatened blockade legal standing under international law

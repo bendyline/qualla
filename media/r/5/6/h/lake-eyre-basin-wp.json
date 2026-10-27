@@ -3,33 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/5/6/h/lake-eyre-basin-wp/hero.jpg",
-        "filename": "OnBoreTrack.jpg",
-        "caption": "Driving on Bore Track of Strzelecki Desert, South Australia",
-        "alt": "Driving on Bore Track of Strzelecki Desert, South Australia",
-        "width": 1278,
-        "height": 855,
-        "mimeType": "image/jpeg",
+        "path": "_m/q/g/w/q/finke-river-wp/map-lake-eyre-drainage.png",
+        "filename": "Lake eyre basin map.png",
+        "caption": "This is a map of the Lake Eyre drainage basin including the major rivers. Note that the river courses shown are usually dry.",
+        "alt": "This is a map of the Lake Eyre drainage basin including the major rivers. Note that the river courses shown are usually dry.",
+        "width": 990,
+        "height": 990,
         "license": "CC BY-SA 3.0",
-        "artist": "Kdliss",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:OnBoreTrack.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "lake-eyre-basin-wp",
-        "sourceGeohash4": "r56h",
-        "categories": [
-          "CC-BY-SA-2.5,2.0,1.0",
-          "CC-BY-SA-3.0-migrated",
-          "Dirt roads in South Australia",
-          "GFDL",
-          "License migration redundant",
-          "Roads in South Australia",
-          "Self-published work",
-          "Strzelecki Desert"
-        ]
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Kmusser",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_eyre_basin_map.png",
+        "smallPath": "_m/q/g/w/q/finke-river-wp/map-lake-eyre-drainage-small.webp"
       },
       "images": [
         {
-          "path": "_m/r/5/6/h/lake-eyre-basin-wp/map-lake-eyre-drainage.png",
+          "path": "_m/q/g/w/q/finke-river-wp/map-lake-eyre-drainage.png",
           "filename": "Lake eyre basin map.png",
           "caption": "This is a map of the Lake Eyre drainage basin including the major rivers. Note that the river courses shown are usually dry.",
           "alt": "This is a map of the Lake Eyre drainage basin including the major rivers. Note that the river courses shown are usually dry.",
@@ -48,7 +36,8 @@
             "Lake Eyre",
             "Lake Eyre Basin",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/q/g/w/q/finke-river-wp/map-lake-eyre-drainage-small.webp"
         }
       ],
       "narration": [
@@ -60,8 +49,9 @@
         "_m/r/5/6/h/lake-eyre-basin-wp/r56h-lake-eyre-basin-deep-time-and-traditional-country.mp3"
       ],
       "combinedNarration": "_m/r/5/6/h/lake-eyre-basin-wp/r56h-lake-eyre-basin-combined.mp3",
-      "combinedNarrationBytes": 3492723,
-      "combinedNarrationDuration": 291
+      "combinedNarrationBytes": 3563540,
+      "combinedNarrationDuration": 291,
+      "combinedCover": "_m/r/5/6/h/lake-eyre-basin-wp/r56h-lake-eyre-basin-combined-cover.jpg"
     }
   }
 }

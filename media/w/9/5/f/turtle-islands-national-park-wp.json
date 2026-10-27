@@ -3,28 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/9/5/f/turtle-islands-national-park-wp/hero.png",
-        "filename": "Borneo Locator Topography.png",
-        "caption": "Topographic locator map of Borneo. Created with GMT from public domain SRTM data. For non-locator version, see Image:Borneo Topography.png. Left:108 Bottom:-5 Right:120 Top:8",
-        "alt": "Topographic locator map of Borneo. Created with GMT from public domain SRTM data. For non-locator version, see Image:Borneo Topography.png. Left:108 Bottom:-5 Right:120 Top:8",
-        "width": 1605,
-        "height": 1739,
-        "mimeType": "image/png",
-        "license": "CC BY-SA 3.0",
-        "artist": "Sadalmelik",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Borneo_Locator_Topography.png",
-        "sourceType": "core",
+        "path": "_m/w/9/5/f/turtle-islands-national-park-wp/selingan-island-borneo.jpg",
+        "filename": "Selingan Island Borneo.jpg",
+        "caption": "One of the 3 turtle islands",
+        "alt": "One of the 3 turtle islands",
+        "width": 3872,
+        "height": 2592,
+        "mimeType": "image/jpeg",
+        "license": "CC BY 2.0",
+        "artist": "stenley",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Selingan_Island_Borneo.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "turtle-islands-national-park-wp",
         "sourceGeohash4": "w95f",
         "categories": [
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "GFDL",
-          "License migration redundant",
-          "Maps of Borneo",
-          "Self-published work",
-          "Topographic maps of Borneo",
-          "Topographic maps of Indonesia"
-        ]
+          "CC-BY-2.0",
+          "Flickr images reviewed by FlickreviewR 2",
+          "Images with extracted images",
+          "Turtle Island National Park"
+        ],
+        "mediumPath": "_m/w/9/5/f/turtle-islands-national-park-wp/selingan-island-borneo-medium.webp",
+        "smallPath": "_m/w/9/5/f/turtle-islands-national-park-wp/selingan-island-borneo-small.webp"
       },
       "images": [
         {
@@ -93,7 +92,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Gomantong Caves",
             "Taken with Canon PowerShot S1 IS"
-          ]
+          ],
+          "smallPath": "_m/w/8/g/z/gomantong-caves-wp/stinky-entrance-cave-w-small.webp"
         },
         {
           "path": "_m/w/9/5/c/sandakan-wk/sandakan-sabah-lapanganterbang.jpg",
@@ -114,7 +114,8 @@
             "Sandakan Airport",
             "Self-published work",
             "Taken with Sony DSLR-A700"
-          ]
+          ],
+          "smallPath": "_m/w/9/5/c/sandakan-wk/sandakan-sabah-lapanganterbang-small.webp"
         },
         {
           "path": "_m/w/9/5/c/sandakan-wk/sandakan-sabah-leila-complex-0.jpg",
@@ -145,7 +146,9 @@
             "Quality images of buildings in Malaysia",
             "Sandakan Bay",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/9/5/c/sandakan-wk/sandakan-sabah-leila-complex-0-medium.webp",
+          "smallPath": "_m/w/9/5/c/sandakan-wk/sandakan-sabah-leila-complex-0-small.webp"
         }
       ],
       "narration": [

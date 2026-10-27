@@ -50,7 +50,7 @@ The Fox Islands are located at approximately 45.442N, 85.810W in northern Lake M
   - Skeletal tower from Sapelo Island, Georgia, disassembled 1933 and reassembled 1934 confirmed
   - Fox Island Lighthouse Association nonprofit formed 2004 confirmed
   - Station decommissioned 1968 (story says 'operated until 1959' which refers to when keepers left, not full decommissioning - light continued until 1968-1969)
-- [Fox Islands (Lake Michigan) - Wikipedia](https://en.wikipedia.org/wiki/Fox_Islands_(Lake_Michigan))
+- [Fox Islands (Lake Michigan) - Wikipedia](https://en.wikipedia.org/?curid=5239919)
   - David V. Johnson purchased North Fox Island in 1994 for $1.3 million confirmed
   - Sold back to state of Michigan for $2.2 million at end of 2000 confirmed
   - North Fox Island part of Beaver Islands State Wildlife Research Area confirmed

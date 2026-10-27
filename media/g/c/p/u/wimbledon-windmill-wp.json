@@ -28,7 +28,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/p/u/wimbledon-windmill-wp/windmill-wimbledon-com.jpg",
+          "path": "_m/g/c/p/u/wimbledon-common-wp/windmill-wimbledon-com.jpg",
           "filename": "Wimbledon Windmill.jpg",
           "caption": "The windmill on Wimbledon Common.\nPicture taken February 2005 by Adrian Robson.",
           "alt": "The windmill on Wimbledon Common.\nPicture taken February 2005 by Adrian Robson.",
@@ -49,10 +49,11 @@
             "Snow in the London Borough of Merton",
             "Taken with Pentax Optio 33LF",
             "Wimbledon Windmill"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/u/wimbledon-common-wp/windmill-wimbledon-com-small.webp"
         },
         {
-          "path": "_m/g/c/p/u/wimbledon-windmill-wp/wimbledon-common-windm.jpg",
+          "path": "_m/g/c/p/u/wimbledon-common-wp/wimbledon-common-windm.jpg",
           "filename": "ISH WC WimbledonCommon2.jpg",
           "caption": "Wimbledon Common, Windmill",
           "alt": "Wimbledon Common, Windmill",
@@ -72,7 +73,9 @@
             "License migration redundant",
             "Self-published work",
             "Wimbledon Windmill"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/wimbledon-common-wp/wimbledon-common-windm-medium.webp",
+          "smallPath": "_m/g/c/p/u/wimbledon-common-wp/wimbledon-common-windm-small.webp"
         },
         {
           "path": "_m/g/c/p/u/wimbledon-windmill-wp/wimbledon-windmill-geograph-or.jpg",
@@ -456,7 +459,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon Digital IXUS 40"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/putney-wp/peace-pagoda-battersea-park-medium.webp",
+          "smallPath": "_m/g/c/p/u/putney-wp/peace-pagoda-battersea-park-small.webp"
         },
         {
           "path": "_m/g/c/p/u/putney-wp/clapham-common-360-panorama-ju.jpg",
@@ -486,7 +491,9 @@
             "Quality images of London",
             "Self-published work",
             "Summer in London"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/putney-wp/clapham-common-360-panorama-ju-medium.webp",
+          "smallPath": "_m/g/c/p/u/putney-wp/clapham-common-360-panorama-ju-small.webp"
         },
         {
           "path": "_m/g/c/p/u/putney-wp/putney-bridge-london.jpg",
@@ -507,7 +514,8 @@
             "Flickr images uploaded by Flickr upload bot",
             "Putney Bridge",
             "Taken with Panasonic Lumix DMC-LZ2"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/u/putney-wp/putney-bridge-london-small.webp"
         },
         {
           "path": "_m/g/c/p/u/putney-wp/battersea-power-station-london.jpg",
@@ -530,7 +538,9 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "London photographs taken on 2010-05-22",
             "Taken with Canon EOS 5D Mark II"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/putney-wp/battersea-power-station-london-medium.webp",
+          "smallPath": "_m/g/c/p/u/putney-wp/battersea-power-station-london-small.webp"
         },
         {
           "path": "_m/g/c/p/u/putney-wp/bricklayers-arms-putney-sw15.jpg",
@@ -551,7 +561,9 @@
             "CC-BY-SA-2.0",
             "Files with coordinates missing SDC location of creation (51° N, 1° W)",
             "Flickr images missing SDC creator"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/putney-wp/bricklayers-arms-putney-sw15-medium.webp",
+          "smallPath": "_m/g/c/p/u/putney-wp/bricklayers-arms-putney-sw15-small.webp"
         },
         {
           "path": "_m/g/c/p/u/putney-wp/clapham-junction-railway-stati.jpg",
@@ -566,7 +578,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clapham_Junction_Railway_Station_South_Western_Entrance.jpg",
           "sourceType": "poi",
           "sourceArticleId": "putney-wp",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/putney-wp/clapham-junction-railway-stati-medium.webp",
+          "smallPath": "_m/g/c/p/u/putney-wp/clapham-junction-railway-stati-small.webp"
         },
         {
           "path": "_m/g/c/p/u/putney-wp/clapham-common-2.jpg",
@@ -581,7 +595,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clapham_Common_2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "putney-wp",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/putney-wp/clapham-common-2-medium.webp",
+          "smallPath": "_m/g/c/p/u/putney-wp/clapham-common-2-small.webp"
         },
         {
           "path": "_m/tpc/fu/lh/am/__/fulham/go-ahead-london-route-14.jpg",
@@ -595,7 +611,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Go_Ahead_London_route_14.jpg",
           "sourceType": "poi",
           "sourceArticleId": "fulham",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/tpc/fu/lh/am/__/fulham/go-ahead-london-route-14-medium.webp",
+          "smallPath": "_m/tpc/fu/lh/am/__/fulham/go-ahead-london-route-14-small.webp"
         },
         {
           "path": "_m/g/c/p/u/putney-wp/london-wikivoyage-city-regions.png",
@@ -610,7 +628,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_Wikivoyage_city_regions_maps_-_Wandsworth.png",
           "sourceType": "poi",
           "sourceArticleId": "putney-wp",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/putney-wp/london-wikivoyage-city-regions-medium.webp",
+          "smallPath": "_m/g/c/p/u/putney-wp/london-wikivoyage-city-regions-small.webp"
         },
         {
           "path": "_m/g/c/p/u/putney-wp/bedford-balham-sw12-7047537277.jpg",
@@ -625,7 +645,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bedford,_Balham,_SW12_(7047537277).jpg",
           "sourceType": "poi",
           "sourceArticleId": "putney-wp",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/putney-wp/bedford-balham-sw12-7047537277-medium.webp",
+          "smallPath": "_m/g/c/p/u/putney-wp/bedford-balham-sw12-7047537277-small.webp"
         },
         {
           "path": "_m/g/c/p/u/putney-wp/clapham-junction-59092.jpg",
@@ -640,7 +662,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clapham_Junction_(59092).jpg",
           "sourceType": "poi",
           "sourceArticleId": "putney-wp",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/putney-wp/clapham-junction-59092-medium.webp",
+          "smallPath": "_m/g/c/p/u/putney-wp/clapham-junction-59092-small.webp"
         },
         {
           "path": "_m/tpc/cr/oy/do/n_/croydon/centrale.jpg",
@@ -661,7 +685,8 @@
             "Centrale, Croydon",
             "GFDL-en",
             "License migration completed"
-          ]
+          ],
+          "smallPath": "_m/tpc/cr/oy/do/n_/croydon/centrale-small.webp"
         },
         {
           "path": "_m/g/c/p/u/south-london-wp/charlton-house-london.jpg",
@@ -685,7 +710,9 @@
             "Listed buildings in England with known IDs",
             "Self-published work",
             "Taken with Sony DSC-P120"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/south-london-wp/charlton-house-london-medium.webp",
+          "smallPath": "_m/g/c/p/u/south-london-wp/charlton-house-london-small.webp"
         },
         {
           "path": "_m/g/c/p/u/south-london-wp/britoutside.jpg",
@@ -707,7 +734,8 @@
             "January 2007 in London",
             "PD-user",
             "United Kingdom photographs taken on 2007-01-12"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/u/south-london-wp/britoutside-small.webp"
         },
         {
           "path": "_m/g/c/p/u/south-london-wp/croydon-facade-of-grant-s-depa.jpg",
@@ -731,7 +759,9 @@
             "Information field template with formatting",
             "Photographs by Dr Neil Clifton",
             "Taken with Canon PowerShot A720 IS"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/south-london-wp/croydon-facade-of-grant-s-depa-medium.webp",
+          "smallPath": "_m/g/c/p/u/south-london-wp/croydon-facade-of-grant-s-depa-small.webp"
         },
         {
           "path": "_m/g/c/p/u/south-london-wp/chessington-world-of-adventure.jpg",
@@ -746,7 +776,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chessington_World_of_Adventures_Hocus_Pocus_Hall.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-london-wp",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/south-london-wp/chessington-world-of-adventure-medium.webp",
+          "smallPath": "_m/g/c/p/u/south-london-wp/chessington-world-of-adventure-small.webp"
         },
         {
           "path": "_m/g/c/p/u/south-london-wp/all-saints-church-carshalton-i.jpg",
@@ -761,7 +793,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:All_Saints_Church_Carshalton_Interior_2,_Surrey,_UK_-_Diliff.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-london-wp",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/south-london-wp/all-saints-church-carshalton-i-medium.webp",
+          "smallPath": "_m/g/c/p/u/south-london-wp/all-saints-church-carshalton-i-small.webp"
         },
         {
           "path": "_m/g/c/p/u/south-london-wp/coronation-stone-kingston-upon.jpg",
@@ -776,7 +810,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coronation_Stone,_Kingston-upon-Thames_(2).jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-london-wp",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "smallPath": "_m/g/c/p/u/south-london-wp/coronation-stone-kingston-upon-small.webp"
         }
       ],
       "narration": [

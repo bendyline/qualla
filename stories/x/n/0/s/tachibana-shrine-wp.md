@@ -38,7 +38,7 @@ Located at 34.61N, 135.73E within the Horyu-ji temple complex in Ikaruga, Nara P
   - Lady Tachibana was the mother of Empress Komyo
   - Shrine designated National Treasure of Japan
   - Figures dated to around 710 (end of Asuka period)
-- [Wikipedia - Tachibana Shrine (fact-check)](https://en.wikipedia.org/wiki/Tachibana_Shrine)
+- [Wikipedia - Tachibana Shrine (fact-check)](https://en.wikipedia.org/?curid=61598307)
   - Monk Kenshin wrote in the 1230s about the shrine's commission by Lady Tachibana as a nenjibutsu
   - Shrine may have been bestowed upon Horyu-ji by Empress Komyo following her mother's death in 733
   - Earliest documentary evidence in Horyu-ji temple inventory from 747

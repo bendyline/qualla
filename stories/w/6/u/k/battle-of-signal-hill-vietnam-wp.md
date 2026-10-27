@@ -35,6 +35,12 @@ Signal Hill (peak of Dong Re Lao Mountain) is located at approximately 16.3038°
 ## Sources
 
 - [Battle of Signal Hill (Vietnam) - Wikipedia](https://en.wikipedia.org/?curid=38692267)
+- [Operation Delaware - Wikipedia](https://en.wikipedia.org/wiki/Operation_Delaware)
+  - Company E, 52nd Infantry (LRP) was the long-range reconnaissance patrol company of the 1st Cavalry Division — consistent with record
+  - Signal Hill (Dong Re Lao Mountain) on eastern flank of A Shau Valley confirmed as radio relay position
+  - Summit 4,878 feet referenced consistently with the 1,487 m elevation noted in flight context
+  - Operation Delaware overall casualties: 130+ dead, 530+ wounded — confirmed
+  - PAVN losses: 800+ killed, tank, 70 trucks, two bulldozers confirmed in line with Delaware article
 
 ## Review Notes
 

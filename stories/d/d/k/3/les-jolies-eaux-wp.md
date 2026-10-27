@@ -40,7 +40,7 @@ Les Jolies Eaux sits at 12.86N, 61.19W on the southern headland of Mustique Isla
   - 5 bedrooms, accommodation for 10 guests
   - Sold by David Linley in 1999 for reported £2.4 million
   - Corrected: 1,250-acre → 1,400-acre island size
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Les_Jolies_Eaux)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=2496332)
   - Corrected Princess Margaret quote to verbatim form: "the only square inch in the world I own" (removed non-verbatim words that had been placed inside the quotation marks)
   - Confirmed "Heavens, what have I done?" is attributed to Anne Tennant and the Colin Tennant/Messel quote is verbatim
 

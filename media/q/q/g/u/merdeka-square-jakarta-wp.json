@@ -3,23 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/q/g/u/merdeka-square-jakarta-wp/hero.jpg",
-        "filename": "Jakarta-Panorama.jpg",
-        "caption": "Jakarta panoramic view around Medan Merdeka (Merdeka square), the center of Jakarta and the nation. Monas (National Monument) on the foreground with rising Jakarta skylines on the background.",
-        "alt": "Jakarta panoramic view around Medan Merdeka (Merdeka square), the center of Jakarta and the nation. Monas (National Monument) on the foreground with rising Jakarta skylines on the background.",
-        "width": 2772,
-        "height": 1355,
+        "path": "_m/q/q/g/u/merdeka-square-jakarta-wp/architectural-model-me.jpg",
+        "filename": "Merdeka Square Model 1.jpg",
+        "caption": "Architectural model of Merdeka Square, Central Jakarta, Indonesia, displayed in National Monument (Monas).",
+        "alt": "Architectural model of Merdeka Square, Central Jakarta, Indonesia, displayed in National Monument (Monas).",
+        "width": 6000,
+        "height": 4000,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
+        "license": "CC BY-SA 4.0",
         "artist": "Gunawan Kartapranata",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jakarta-Panorama.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Merdeka_Square_Model_1.jpg",
         "sourceType": "core",
         "sourceArticleId": "merdeka-square-jakarta-wp",
-        "sourceGeohash4": "qqgu"
+        "sourceGeohash4": "qqgu",
+        "mediumPath": "_m/q/q/g/u/merdeka-square-jakarta-wp/architectural-model-me-medium.webp",
+        "smallPath": "_m/q/q/g/u/merdeka-square-jakarta-wp/architectural-model-me-small.webp"
       },
       "images": [
         {
-          "path": "_m/q/q/g/u/merdeka-square-jakarta-wp/hero.jpg",
+          "path": "_m/q/q/g/u/gambir-railway-station-wp/hero.jpg",
           "filename": "Gambir station Jakarta.JPG",
           "caption": "Gambir Station, Jakarta, Indonesia. Picture taken from Jakarta National Monument (Monas).",
           "alt": "Gambir Station, Jakarta, Indonesia. Picture taken from Jakarta National Monument (Monas).",
@@ -41,10 +43,12 @@
             "Jakarta in the 2000s",
             "License migration completed",
             "Taken with Fujifilm FinePix F420"
-          ]
+          ],
+          "mediumPath": "_m/q/q/g/u/gambir-railway-station-wp/hero-medium.webp",
+          "smallPath": "_m/q/q/g/u/gambir-railway-station-wp/hero-small.webp"
         },
         {
-          "path": "_m/q/q/g/u/merdeka-square-jakarta-wp/gallery-1.jpg",
+          "path": "_m/q/q/g/u/merdeka-palace-wp/gallery-1.jpg",
           "filename": "Istana Merdeka.jpg",
           "caption": "大統領宮殿（ジャカルタ、インドネシア）",
           "alt": "大統領宮殿（ジャカルタ、インドネシア）",
@@ -61,7 +65,8 @@
             "CC-BY-SA-3.0",
             "Merdeka Palace",
             "Taken with Canon Digital IXUS 950 IS"
-          ]
+          ],
+          "smallPath": "_m/q/q/g/u/merdeka-palace-wp/gallery-1-small.webp"
         },
         {
           "path": "_m/q/q/g/u/merdeka-square-jakarta-wp/upper-left-place-today.jpg",
@@ -200,7 +205,7 @@
           "smallPath": "_m/q/q/g/u/merdeka-square-jakarta-wp/visitors-playing-footb-small.webp"
         },
         {
-          "path": "_m/q/q/g/u/merdeka-square-jakarta-wp/kartini-indonesian-wom.jpg",
+          "path": "_m/q/q/g/u/national-monument-indonesia-wp/kartini-indonesian-wom.jpg",
           "filename": "Kartini Statue, Merdeka Square.JPG",
           "caption": "Kartini and Indonesian women emancipation statue, donated by Japanese people for Indonesian people. Located at Eastern Medan Merdeka Park, Central Jakarta.",
           "alt": "Kartini and Indonesian women emancipation statue, donated by Japanese people for Indonesian people. Located at Eastern Medan Merdeka Park, Central Jakarta.",
@@ -212,10 +217,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kartini_Statue,_Merdeka_Square.JPG",
           "sourceType": "core",
           "sourceArticleId": "merdeka-square-jakarta-wp",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "mediumPath": "_m/q/q/g/u/national-monument-indonesia-wp/kartini-indonesian-wom-medium.webp",
+          "smallPath": "_m/q/q/g/u/national-monument-indonesia-wp/kartini-indonesian-wom-small.webp"
         },
         {
-          "path": "_m/q/q/g/u/merdeka-square-jakarta-wp/map-city-kotamadya-jak.png",
+          "path": "_m/q/q/g/u/2009-jakarta-bombings-wp/map-city-kotamadya-jak.png",
           "filename": "Jakarta districts.png",
           "caption": "Map of City/Kotamadya of Jakarta with its Subdistrict/Kecamatan. The cities are color-coded (in the map)",
           "alt": "Map of City/Kotamadya of Jakarta with its Subdistrict/Kecamatan. The cities are color-coded (in the map)",
@@ -227,7 +234,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jakarta_districts.png",
           "sourceType": "core",
           "sourceArticleId": "merdeka-square-jakarta-wp",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "smallPath": "_m/q/q/g/u/2009-jakarta-bombings-wp/map-city-kotamadya-jak-small.webp"
         },
         {
           "path": "_m/q/q/g/u/merdeka-square-jakarta-wp/sukarno-speaking-podiu.jpg",
@@ -263,7 +271,7 @@
           "smallPath": "_m/q/q/g/u/merdeka-square-jakarta-wp/architectural-model-me-small.webp"
         },
         {
-          "path": "_m/q/q/g/u/merdeka-square-jakarta-wp/collectie-tropenmuseum-gezicht.jpg",
+          "path": "_m/q/q/g/u/istiqlal-mosque-jakarta-wp/collectie-tropenmuseum-gezicht.jpg",
           "filename": "COLLECTIE TROPENMUSEUM Gezicht vanaf het Nationaal Monument (Monas) richting Lapangan Banteng TMnr 20025716.jpg",
           "caption": "View from the National Monument (Monas) towards Lapangan Banteng",
           "alt": "View from the National Monument (Monas) towards Lapangan Banteng",
@@ -286,7 +294,8 @@
             "Lapangan Banteng",
             "Merdeka Square, Jakarta",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/q/q/g/u/istiqlal-mosque-jakarta-wp/collectie-tropenmuseum-gezicht-small.webp"
         },
         {
           "path": "_m/q/q/g/u/merdeka-square-jakarta-wp/jakarta-panorama.jpg",
@@ -322,7 +331,7 @@
           ]
         },
         {
-          "path": "_m/q/q/g/u/merdeka-square-jakarta-wp/collectie-tropenmuseum-istiqla.jpg",
+          "path": "_m/q/q/g/u/istiqlal-mosque-jakarta-wp/collectie-tropenmuseum-istiqla.jpg",
           "filename": "COLLECTIE TROPENMUSEUM Istiqlal 20025716-20025717 merged.jpg",
           "caption": "View from the National Monument (Monas) toward the Istiqlal Mosque (under construction), Jakarta Cathedral, and Lapangan Banteng",
           "alt": "View from the National Monument (Monas) toward the Istiqlal Mosque (under construction), Jakarta Cathedral, and Lapangan Banteng",
@@ -351,7 +360,8 @@
             "Retouched pictures",
             "Uploaded with derivativeFX",
             "West Irian Liberation Monument"
-          ]
+          ],
+          "smallPath": "_m/q/q/g/u/istiqlal-mosque-jakarta-wp/collectie-tropenmuseum-istiqla-small.webp"
         },
         {
           "path": "_m/q/q/g/u/merdeka-square-jakarta-wp/merdeka-square-garuda-vase-1.jpg",
@@ -571,7 +581,7 @@
           "smallPath": "_m/q/q/g/u/merdeka-square-jakarta-wp/west-java-cultural-parade-para-small.webp"
         },
         {
-          "path": "_m/q/q/g/u/merdeka-square-jakarta-wp/monumen-nasional-jakarta-indon.jpg",
+          "path": "_m/q/q/g/u/national-monument-indonesia-wp/monumen-nasional-jakarta-indon.jpg",
           "filename": "Monumen Nasional, Jakarta, Indonesia.jpg",
           "caption": "Monumen Nasional dilihat dari salah satu gedung  di Jakarta",
           "alt": "Monumen Nasional dilihat dari salah satu gedung  di Jakarta",
@@ -583,7 +593,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monumen_Nasional,_Jakarta,_Indonesia.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "national-monument-indonesia-wp",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "mediumPath": "_m/q/q/g/u/national-monument-indonesia-wp/monumen-nasional-jakarta-indon-medium.webp",
+          "smallPath": "_m/q/q/g/u/national-monument-indonesia-wp/monumen-nasional-jakarta-indon-small.webp"
         },
         {
           "path": "_m/q/q/g/u/merdeka-square-jakarta-wp/merdeka-square-model-2.jpg",
@@ -658,7 +670,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Fujifilm FinePix F11"
-          ]
+          ],
+          "smallPath": "_m/q/q/g/u/jakarta-wk/hero-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/jakarta-indonesia-jaka.jpg",
@@ -689,7 +702,9 @@
             "Quality images of Indonesia by User:Cccefalon",
             "Quality images of buildings in Indonesia",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/jakarta-indonesia-jaka-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/jakarta-indonesia-jaka-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/photo-taked-monas-area.jpg",
@@ -715,7 +730,9 @@
             "Three-wheeled motor vehicles",
             "Toronto Blue Jays logos",
             "Uploaded via Campaign:wmid-wikikaleidoskop-2021"
-          ]
+          ],
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/photo-taked-monas-area-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/photo-taked-monas-area-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/transjakarta-method-pu.jpg",
@@ -735,7 +752,9 @@
             "CC-BY-SA-4.0",
             "Car-Free Days in Jakarta",
             "De minimis"
-          ]
+          ],
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/transjakarta-method-pu-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/transjakarta-method-pu-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/display-inside-grand-i.jpg",
@@ -750,7 +769,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inside_of_Grand_Indonesia.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jakarta-wk",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/display-inside-grand-i-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/display-inside-grand-i-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/transjakarta-scania-ar.jpg",
@@ -765,7 +786,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harmoni_Central_Busway_Transjakarta_4_(cropped)_1.JPG",
           "sourceType": "poi",
           "sourceArticleId": "jakarta-wk",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/transjakarta-scania-ar-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/transjakarta-scania-ar-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/cc-206-13-02-pwt-rangk.jpg",
@@ -780,7 +803,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gajayana_JAY_(16-9).jpg",
           "sourceType": "poi",
           "sourceArticleId": "jakarta-wk",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/cc-206-13-02-pwt-rangk-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/cc-206-13-02-pwt-rangk-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/varian-kopi-yang-sanga.jpg",
@@ -795,7 +820,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Es_Kopi_Susu_Gula_Aren.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jakarta-wk",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/varian-kopi-yang-sanga-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/varian-kopi-yang-sanga-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/first-day-cli125-servi.jpg",
@@ -810,7 +837,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CLI125-3000_duty_in_Cikarang_loop_line_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "jakarta-wk",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/first-day-cli125-servi-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/first-day-cli125-servi-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/embassy-netherlands-ja.jpg",
@@ -825,7 +854,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dutch_Embassy_in_Jakarta_2025.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jakarta-wk",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/embassy-netherlands-ja-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/embassy-netherlands-ja-small.webp"
         }
       ],
       "narration": [

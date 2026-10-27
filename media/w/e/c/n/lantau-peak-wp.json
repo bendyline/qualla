@@ -3,30 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/e/c/n/lantau-peak-wp/hero.jpg",
-        "filename": "Lantau Peak, Hongkong.jpg",
-        "caption": "Lantau Peak, Hongkong",
-        "alt": "Lantau Peak, Hongkong",
-        "width": 2048,
-        "height": 1536,
+        "path": "_m/w/e/c/n/lantau-peak-wp/gallery-2.jpg",
+        "filename": "Lantau Peak Starry Night 2014.jpg",
+        "caption": "夏季銀河東升",
+        "alt": "夏季銀河東升",
+        "width": 5472,
+        "height": 3420,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Ngchikit",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lantau_Peak,_Hongkong.jpg",
+        "license": "CC BY-SA 2.0",
+        "artist": "Eddie Yip from Groningen, the Netherlands",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lantau_Peak_Starry_Night_2014.jpg",
         "sourceType": "core",
         "sourceArticleId": "lantau-peak-wp",
         "sourceGeohash4": "wecn",
         "categories": [
-          "Lantau Peak",
-          "PD-self",
-          "Self-published work",
-          "Taken with Canon PowerShot A70",
-          "Tian Tan Buddha side face"
-        ]
+          "CC-BY-SA-2.0",
+          "Files with coordinates missing SDC location of creation",
+          "Flickr images reviewed by FlickreviewR",
+          "Lantau Peak"
+        ],
+        "mediumPath": "_m/w/e/c/n/lantau-peak-wp/gallery-2-medium.webp",
+        "smallPath": "_m/w/e/c/n/lantau-peak-wp/gallery-2-small.webp"
       },
       "images": [
         {
-          "path": "_m/w/e/c/n/lantau-peak-wp/lantau-montane-grassland.jpg",
+          "path": "_m/w/e/c/n/lantau-island-wp/lantau-montane-grassland.jpg",
           "filename": "Lantau montane grassland.jpg",
           "caption": "Montane grassland during the dry season (December) in Lantau Country Park, Lantau Island, Hong Kong SAR, China.",
           "alt": "Montane grassland during the dry season (December) in Lantau Country Park, Lantau Island, Hong Kong SAR, China.",
@@ -47,7 +48,9 @@
             "Montane grasslands and shrublands",
             "Self-published work",
             "Taken with Canon EOS 7D"
-          ]
+          ],
+          "mediumPath": "_m/w/e/c/n/lantau-island-wp/lantau-montane-grassland-medium.webp",
+          "smallPath": "_m/w/e/c/n/lantau-island-wp/lantau-montane-grassland-small.webp"
         },
         {
           "path": "_m/w/e/c/n/lantau-peak-wp/gallery-2.jpg",
@@ -266,7 +269,7 @@
           "smallPath": "_m/w/e/c/n/lantau-peak-wp/nei-lak-shan-and-lantau-peak-1-small.webp"
         },
         {
-          "path": "_m/w/e/c/n/lantau-peak-wp/wisdom-path.jpg",
+          "path": "_m/tpc/ho/ng/-k/on/hong-kong-disneyland/wisdom-path.jpg",
           "filename": "Wisdom Path.jpg",
           "caption": "طريق الحكمة الطريق بالقرب من دير بو لين.",
           "alt": "طريق الحكمة الطريق بالقرب من دير بو لين.",
@@ -279,11 +282,11 @@
           "sourceType": "commons-category",
           "sourceArticleId": "hong-kong-disneyland",
           "sourceGeohash4": "wecn",
-          "mediumPath": "_m/w/e/c/n/lantau-peak-wp/wisdom-path-medium.webp",
-          "smallPath": "_m/w/e/c/n/lantau-peak-wp/wisdom-path-small.webp"
+          "mediumPath": "_m/tpc/ho/ng/-k/on/hong-kong-disneyland/wisdom-path-medium.webp",
+          "smallPath": "_m/tpc/ho/ng/-k/on/hong-kong-disneyland/wisdom-path-small.webp"
         },
         {
-          "path": "_m/w/e/c/n/lantau-peak-wp/tian-tan-buddha-entran.jpg",
+          "path": "_m/w/e/b/y/the-big-buddha-hong-kong-wp/tian-tan-buddha-entran.jpg",
           "filename": "Tian Tan Entrance.JPG",
           "caption": "Tian Tan Buddha Entrance",
           "alt": "Tian Tan Buddha Entrance",
@@ -295,10 +298,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tian_Tan_Entrance.JPG",
           "sourceType": "commons-category",
           "sourceArticleId": "the-big-buddha-hong-kong-wp",
-          "sourceGeohash4": "wecn"
+          "sourceGeohash4": "wecn",
+          "smallPath": "_m/w/e/b/y/the-big-buddha-hong-kong-wp/tian-tan-buddha-entran-small.webp"
         },
         {
-          "path": "_m/w/e/c/n/lantau-peak-wp/tian-tan-buddha-ngong.jpg",
+          "path": "_m/w/e/b/y/the-big-buddha-hong-kong-wp/tian-tan-buddha-ngong.jpg",
           "filename": "Tain Tan Buddha NP.JPG",
           "caption": "Tian Tan Buddha from Ngong Ping",
           "alt": "Tian Tan Buddha from Ngong Ping",
@@ -310,7 +314,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tain_Tan_Buddha_NP.JPG",
           "sourceType": "commons-category",
           "sourceArticleId": "the-big-buddha-hong-kong-wp",
-          "sourceGeohash4": "wecn"
+          "sourceGeohash4": "wecn",
+          "mediumPath": "_m/w/e/b/y/the-big-buddha-hong-kong-wp/tian-tan-buddha-ngong-medium.webp",
+          "smallPath": "_m/w/e/b/y/the-big-buddha-hong-kong-wp/tian-tan-buddha-ngong-small.webp"
         },
         {
           "path": "_m/w/e/c/n/lantau-peak-wp/way-to-buddha.jpg",
@@ -347,7 +353,7 @@
           "smallPath": "_m/w/e/c/n/lantau-peak-wp/tian-tan-buddha-2011-6-small.webp"
         },
         {
-          "path": "_m/w/e/c/n/lantau-peak-wp/lantauisland-mountains2.jpg",
+          "path": "_m/w/e/c/n/hong-kong-lantau-wk/lantauisland-mountains2.jpg",
           "filename": "LantauIsland Mountains2.JPG",
           "caption": "Lantau Island, Hong Kong",
           "alt": "Lantau Island, Hong Kong",
@@ -359,7 +365,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:LantauIsland_Mountains2.JPG",
           "sourceType": "commons-category",
           "sourceArticleId": "hong-kong-lantau-wk",
-          "sourceGeohash4": "wecn"
+          "sourceGeohash4": "wecn",
+          "smallPath": "_m/w/e/c/n/hong-kong-lantau-wk/lantauisland-mountains2-small.webp"
         },
         {
           "path": "_m/w/e/c/n/lantau-peak-wp/lantau-peak-1-1.jpg",

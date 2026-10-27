@@ -3,28 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/n/4/montrose-scotland-wk/hero.jpg",
-        "filename": "Bamse - geograph.org.uk - 1721496.jpg",
-        "caption": "Bamse The Bamse statue sitting proudly on the quayside by Montrose harbour",
-        "alt": "Bamse The Bamse statue sitting proudly on the quayside by Montrose harbour",
-        "width": 1024,
-        "height": 685,
+        "path": "_m/g/f/n/4/montrose-scotland-wk/bamse-1.jpg",
+        "filename": "Bamse (1) - geograph.org.uk - 5028611.jpg",
+        "caption": "Bamse [1]",
+        "alt": "Bamse [1]",
+        "width": 4320,
+        "height": 3240,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 2.0",
-        "artist": "Karen Vernon",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bamse_-_geograph.org.uk_-_1721496.jpg",
+        "artist": "Michael Dibb",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bamse_(1)_-_geograph.org.uk_-_5028611.jpg",
         "sourceType": "core",
         "sourceArticleId": "montrose-scotland-wk",
         "sourceGeohash4": "gfn4",
         "categories": [
           "CC-BY-SA-2.0",
-          "Images by Karen Vernon",
-          "Images from Geograph Britain and Ireland",
-          "Information field template with formatting",
-          "Montrose, Angus",
-          "Statue of Bamse, Montrose",
-          "Taken with Sony DSLR-A300"
-        ]
+          "Grave of Bamse (St. Bernard)",
+          "Images from Geograph Britain and Ireland"
+        ],
+        "mediumPath": "_m/g/f/n/4/montrose-scotland-wk/bamse-1-medium.webp",
+        "smallPath": "_m/g/f/n/4/montrose-scotland-wk/bamse-1-small.webp"
       },
       "images": [
         {
@@ -90,7 +88,8 @@
             "Arbroath and St Vigeans",
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/f/n/1/arbroath-wk/copy-of-the-declaration-of-arb-small.webp"
         },
         {
           "path": "_m/g/f/n/1/arbroath-wk/the-deil-s-heid-or-pint-stoup-.jpg",
@@ -105,7 +104,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Deil%27s_Heid_or_Pint_Stoup,_Seaton_Cliffs,_Arbroath_-_geograph.org.uk_-_5509203.jpg",
           "sourceType": "poi",
           "sourceArticleId": "arbroath-wk",
-          "sourceGeohash4": "gfn1"
+          "sourceGeohash4": "gfn1",
+          "mediumPath": "_m/g/f/n/1/arbroath-wk/the-deil-s-heid-or-pint-stoup--medium.webp",
+          "smallPath": "_m/g/f/n/1/arbroath-wk/the-deil-s-heid-or-pint-stoup--small.webp"
         },
         {
           "path": "_m/g/f/n/1/arbroath-wp/arbroath-from-inchape-park.jpg",
@@ -130,7 +131,8 @@
             "Scotland photographs taken on 2007-09-07",
             "September 2007 in Angus",
             "Taken with Canon PowerShot A200"
-          ]
+          ],
+          "smallPath": "_m/g/f/n/1/arbroath-wp/arbroath-from-inchape-park-small.webp"
         },
         {
           "path": "_m/g/f/j/f/angus-wk/forfar-east-and-old-parish-chu.jpg",
@@ -158,7 +160,9 @@
             "November 2009 in Angus",
             "Self-published work",
             "Taken with Nikon D60"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/f/angus-wk/forfar-east-and-old-parish-chu-medium.webp",
+          "smallPath": "_m/g/f/j/f/angus-wk/forfar-east-and-old-parish-chu-small.webp"
         },
         {
           "path": "_m/g/f/j/f/angus-wk/dundee-picture-collage-new.jpg",
@@ -179,7 +183,8 @@
             "Derivative versions",
             "Dundee",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/f/angus-wk/dundee-picture-collage-new-small.webp"
         },
         {
           "path": "_m/g/f/j/f/angus-wk/aberlemno-sculptured-stone.jpg",
@@ -207,7 +212,9 @@
             "Images from Wiki Loves Monuments missing SDC location of creation",
             "Scheduled monuments in Scotland with known IDs",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/f/angus-wk/aberlemno-sculptured-stone-medium.webp",
+          "smallPath": "_m/g/f/j/f/angus-wk/aberlemno-sculptured-stone-small.webp"
         },
         {
           "path": "_m/g/f/n/k/stonehaven-wp/carron-fish-bar.jpg",
@@ -233,7 +240,9 @@
             "License migration redundant",
             "Self-published work",
             "United Kingdom photographs taken on 2007-12-29"
-          ]
+          ],
+          "mediumPath": "_m/g/f/n/k/stonehaven-wp/carron-fish-bar-medium.webp",
+          "smallPath": "_m/g/f/n/k/stonehaven-wp/carron-fish-bar-small.webp"
         },
         {
           "path": "_m/g/f/n/k/stonehaven-wp/stonehaven-harbour-front-geogr.jpg",
@@ -257,7 +266,9 @@
             "Stonehaven Harbour",
             "Taken with Canon EOS 350D",
             "United Kingdom photographs taken on 2010-03-13"
-          ]
+          ],
+          "mediumPath": "_m/g/f/n/k/stonehaven-wp/stonehaven-harbour-front-geogr-medium.webp",
+          "smallPath": "_m/g/f/n/k/stonehaven-wp/stonehaven-harbour-front-geogr-small.webp"
         },
         {
           "path": "_m/g/f/n/k/stonehaven-wp/cmsj-img-0235-640x480-38703386.jpg",
@@ -280,7 +291,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Photographs by Carlos Menendez San Juan",
             "Stonehaven war memorial"
-          ]
+          ],
+          "smallPath": "_m/g/f/n/k/stonehaven-wp/cmsj-img-0235-640x480-38703386-small.webp"
         },
         {
           "path": "_m/g/f/n/k/stonehaven-wp/dunnottar-castle-dt-2017-27.jpg",
@@ -298,7 +310,9 @@
           "sourceGeohash4": "gfnk",
           "categories": [
             "CC-BY-SA-4.0"
-          ]
+          ],
+          "mediumPath": "_m/g/f/n/k/stonehaven-wp/dunnottar-castle-dt-2017-27-medium.webp",
+          "smallPath": "_m/g/f/n/k/stonehaven-wp/dunnottar-castle-dt-2017-27-small.webp"
         },
         {
           "path": "_m/g/f/n/7/dunnottar-castle-wp/dunnottar-castle-1.jpg",
@@ -313,7 +327,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dunnottar_Castle_-_geograph.org.uk_-_8057610.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dunnottar-castle-wp",
-          "sourceGeohash4": "gfnk"
+          "sourceGeohash4": "gfnk",
+          "smallPath": "_m/g/f/n/7/dunnottar-castle-wp/dunnottar-castle-1-small.webp"
         }
       ],
       "narration": [

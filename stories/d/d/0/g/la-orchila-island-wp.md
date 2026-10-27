@@ -33,7 +33,7 @@ La Orchila Island is located at approximately 11.80N, 66.14W, roughly 150 km nor
 ## Sources
 
 - [La Orchila Island - Wikipedia](https://en.wikipedia.org/?curid=2949619)
-- [La Orchila Island - Wikipedia](https://en.wikipedia.org/wiki/La_Orchila_Island)
+- [La Orchila Island - Wikipedia](https://en.wikipedia.org/?curid=2949619)
   - Chavez detained on La Orchila during April 2002 coup confirmed
   - Marcos Perez Jimenez ruled Venezuela 1952-1958 confirmed
   - Carlos Andres Perez terms 1974-79 and 1989-93 confirmed

@@ -46,7 +46,7 @@ Bremen sits at 53.08 degrees N, 8.81 degrees E, on the River Weser about 60 km u
 
 ## Sources
 
-- [Bremen - Wikivoyage](https://en.wikivoyage.org/wiki/Bremen)
+- [Bremen - Wikivoyage](https://en.wikivoyage.org/?curid=4627)
   - Free Hanseatic City of Bremen, major port on the Weser, population figure updated - see verification source below
   - With Bremerhaven it forms Germany's smallest state, two separated enclaves on the Weser
   - More than 1200 years of history, mostly as an independent city-state; member of the Hanseatic League

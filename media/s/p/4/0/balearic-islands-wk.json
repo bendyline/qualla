@@ -3,24 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/p/4/0/balearic-islands-wk/hero.png",
-        "filename": "Balearic Islands WV map PNG.png",
-        "caption": "Wikivoyage regions map for the Balearic Islands. \nColor codes:\nFormentera d5dc76\nIbiza ac5c91\nMallorca d56d76\n\nMenorca 578e86",
-        "alt": "Wikivoyage regions map for the Balearic Islands. \nColor codes:\nFormentera d5dc76\nIbiza ac5c91\nMallorca d56d76\n\nMenorca 578e86",
-        "width": 2481,
-        "height": 1345,
-        "mimeType": "image/png",
-        "license": "CC0",
-        "artist": "Ypsilon from Finland",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balearic_Islands_WV_map_PNG.png",
-        "sourceType": "core",
+        "path": "_m/s/p/4/0/balearic-islands-wk/casa-rural-36867131773.jpg",
+        "filename": "Casa rural (36867131773).jpg",
+        "caption": "casa rural",
+        "alt": "casa rural",
+        "width": 5184,
+        "height": 2592,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 2.0",
+        "artist": "rey perezoso",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_rural_(36867131773).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "balearic-islands-wk",
         "sourceGeohash4": "sp40",
         "categories": [
-          "CC-Zero",
-          "Self-published work",
-          "Travel maps of Spain"
-        ]
+          "Balearic Islands",
+          "CC-BY-SA-2.0",
+          "Files with coordinates missing SDC location of creation",
+          "Flickr images reviewed by FlickreviewR 2"
+        ],
+        "mediumPath": "_m/s/p/4/0/balearic-islands-wk/casa-rural-36867131773-medium.webp",
+        "smallPath": "_m/s/p/4/0/balearic-islands-wk/casa-rural-36867131773-small.webp"
       },
       "images": [
         {
@@ -64,7 +67,8 @@
             "CC-BY-SA-4.0",
             "Locator maps of electoral districts of Spain",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/p/4/0/balearic-islands-congress-of-deputies-constituency-wp/spanishcongressdistricts-balea-small.webp"
         },
         {
           "path": "_m/s/p/4/0/balearic-islands-wp/raimundus-lullus-denkmal.jpg",
@@ -84,7 +88,8 @@
             "Media missing infobox template",
             "PD-user",
             "Statues of Ramon Llull"
-          ]
+          ],
+          "smallPath": "_m/s/p/4/0/balearic-islands-wp/raimundus-lullus-denkmal-small.webp"
         },
         {
           "path": "_m/s/p/4/0/balearic-islands-wp/baleares-rotulado.png",
@@ -110,7 +115,8 @@
             "Media missing infobox template",
             "PNG that should use vector graphics",
             "Spanish-language maps"
-          ]
+          ],
+          "smallPath": "_m/s/p/4/0/balearic-islands-wp/baleares-rotulado-small.webp"
         },
         {
           "path": "_m/s/p/4/0/balearic-islands-wp/torre-d-en-gaumes-16.jpg",
@@ -131,7 +137,9 @@
             "Files from Daniel Lobo (daquellamanera) Flickr stream",
             "Flickr images reviewed by FlickreviewR",
             "Torre d'en Galmés"
-          ]
+          ],
+          "mediumPath": "_m/s/p/4/0/balearic-islands-wp/torre-d-en-gaumes-16-medium.webp",
+          "smallPath": "_m/s/p/4/0/balearic-islands-wp/torre-d-en-gaumes-16-small.webp"
         },
         {
           "path": "_m/s/p/4/0/balearic-islands-wp/interior-de-la-llotja-de-palma.jpg",
@@ -152,7 +160,9 @@
             "Interior of Llotja de Palma",
             "Pictures by Vicenç Salvador Torres Guerola",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/p/4/0/balearic-islands-wp/interior-de-la-llotja-de-palma-medium.webp",
+          "smallPath": "_m/s/p/4/0/balearic-islands-wp/interior-de-la-llotja-de-palma-small.webp"
         },
         {
           "path": "_m/s/p/4/0/balearic-islands-wp/el-mar-mediterraneo-en-el-atla.jpg",
@@ -173,7 +183,9 @@
             "Catalan Atlas, 1959 reproduction",
             "Catalan charts",
             "Large images"
-          ]
+          ],
+          "mediumPath": "_m/s/p/4/0/balearic-islands-wp/el-mar-mediterraneo-en-el-atla-medium.webp",
+          "smallPath": "_m/s/p/4/0/balearic-islands-wp/el-mar-mediterraneo-en-el-atla-small.webp"
         },
         {
           "path": "_m/s/p/4/0/balearic-islands-wp/1-port-de-palma-mallorca.jpg",
@@ -188,7 +200,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1._Port_de_Palma_(Mallorca).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "balearic-islands-wp",
-          "sourceGeohash4": "sp40"
+          "sourceGeohash4": "sp40",
+          "smallPath": "_m/s/p/4/0/balearic-islands-wp/1-port-de-palma-mallorca-small.webp"
         }
       ],
       "narration": [

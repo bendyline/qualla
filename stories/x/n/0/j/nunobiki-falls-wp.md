@@ -45,7 +45,7 @@ Located at 34.71N, 135.19E on the lower slopes of Mount Rokko, directly behind d
   - Proximity to Shin-Kobe Station confirmed
 - [Kobe Nunobiki Herb Gardens - feel-kobe.jp](https://www.feel-kobe.jp/en/facilities/detail/?id=1712)
   - Herb gardens accessible by ropeway above Shin-Kobe Station confirmed
-- [Final review - independent verification](https://en.wikipedia.org/wiki/Nunobiki_Falls)
+- [Final review - independent verification](https://en.wikipedia.org/?curid=4709077)
   - Four waterfalls (Ontaki, Mentaki, Tsutsumigadaki, Meotodaki) confirmed
   - Ontaki 43 meters confirmed via JNTO
   - One of three divine waterfalls with Kegon Falls (Tochigi) and Nachi Falls (Wakayama) confirmed

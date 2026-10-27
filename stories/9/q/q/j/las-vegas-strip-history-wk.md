@@ -28,7 +28,7 @@ The Strip exists to extract money through experiences calibrated for maximum ext
 
 ## Visiting the Las Vegas Strip
 
-The Strip runs roughly 4 miles along Las Vegas Boulevard South, from the Stratosphere to Mandalay Bay. Walking the entire Strip takes 2-3 hours; the tram connects some properties. Resorts range from budget to ultra-luxury; room rates vary wildly by season and convention schedule. Shows, restaurants, and clubs require reservations for popular dates. The gambling is optional; the sensory overload is not. McCarran International Airport is adjacent to the Strip; taxis and rideshares are readily available. Summer temperatures exceed 110°F - the Strip is air-conditioned but outdoor walking is brutal. Visit for the spectacle, budget for the extraction, and remember: the house always wins.
+The Strip runs roughly 4 miles along Las Vegas Boulevard South, from the Stratosphere to Mandalay Bay. Walking the entire Strip takes 2-3 hours; the tram connects some properties. Resorts range from budget to ultra-luxury; room rates vary wildly by season and convention schedule. Shows, restaurants, and clubs require reservations for popular dates. The gambling is optional; the sensory overload is not. Harry Reid International Airport (formerly McCarran International) is adjacent to the Strip; taxis and rideshares are readily available. Summer temperatures exceed 110°F - the Strip is air-conditioned but outdoor walking is brutal. Visit for the spectacle, budget for the extraction, and remember: the house always wins.
 
 ## Flight Context
 

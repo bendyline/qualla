@@ -3,30 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/f/d/fanad-wp/hero.jpg",
-        "filename": "Fanad Head 2015 09 09.jpg",
-        "caption": "Lighthouse at Fanad Head.",
-        "alt": "Lighthouse at Fanad Head.",
-        "width": 3445,
-        "height": 2297,
+        "path": "_m/g/c/f/d/fanad-wp/mulroy-bay-from-lurgacloughan.jpg",
+        "filename": "Mulroy bay from Lurgacloughan.jpg",
+        "caption": "Mulroy Bay depuis Lurgacloughan",
+        "alt": "Mulroy Bay depuis Lurgacloughan",
+        "width": 4194,
+        "height": 1346,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Andreas F. Borchert",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fanad_Head_2015_09_09.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "Patrice78500",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mulroy_bay_from_Lurgacloughan.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "fanad-wp",
         "sourceGeohash4": "gcfd",
         "categories": [
-          "CC-BY-SA-3.0-DE",
-          "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
-          "Fanad Head Light",
-          "Files with coordinates missing SDC location of creation",
-          "GFDL",
-          "Images with extracted images",
-          "License migration redundant",
-          "Photographs by Andreas F. Borchert",
+          "CC-BY-SA-3.0",
+          "Fanad Peninsula",
+          "Images with annotations",
+          "Mulroy Bay",
+          "Panoramics in Donegal",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/g/c/f/d/fanad-wp/mulroy-bay-from-lurgacloughan-medium.webp",
+        "smallPath": "_m/g/c/f/d/fanad-wp/mulroy-bay-from-lurgacloughan-small.webp"
       },
       "images": [
         {
@@ -465,7 +464,9 @@
             "Killydonnell Friary",
             "Self-published work",
             "Uploaded via Campaign:wlm-ie"
-          ]
+          ],
+          "mediumPath": "_m/g/c/f/d/fanad-peninsula-wk/killydonnell-friary-medium.webp",
+          "smallPath": "_m/g/c/f/d/fanad-peninsula-wk/killydonnell-friary-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/donegaltown.jpg",
@@ -488,7 +489,8 @@
             "PD reviewed files",
             "PDphotos.org",
             "Streets in Donegal"
-          ]
+          ],
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/donegaltown-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/carndonagh-sw-view-1996-08-29.jpg",
@@ -514,7 +516,9 @@
             "License migration redundant",
             "Photographs by Andreas F. Borchert",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/f/2/county-donegal-wp/carndonagh-sw-view-1996-08-29-medium.webp",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/carndonagh-sw-view-1996-08-29-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/gleann-cholm-cille.jpg",
@@ -537,7 +541,8 @@
             "June 1995 in Ireland",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/gleann-cholm-cille-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/glentiesireland.jpg",
@@ -561,7 +566,9 @@
             "Postal vehicles of Ireland",
             "Self-published work",
             "Taken with Olympus C-765UZ"
-          ]
+          ],
+          "mediumPath": "_m/g/c/f/2/county-donegal-wp/glentiesireland-medium.webp",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/glentiesireland-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/anclochanliath.jpg",
@@ -584,7 +591,9 @@
             "License migration redundant",
             "May 2008 Ireland photographs",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/f/2/county-donegal-wp/anclochanliath-medium.webp",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/anclochanliath-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/falcarraghcrossroads.jpg",
@@ -611,7 +620,9 @@
             "Road signs in County Donegal",
             "Self-published work",
             "Streets in County Donegal"
-          ]
+          ],
+          "mediumPath": "_m/g/c/f/2/county-donegal-wp/falcarraghcrossroads-medium.webp",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/falcarraghcrossroads-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/city-of-derry-airport.jpg",
@@ -626,7 +637,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:City_of_Derry_Airport.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-donegal-wp",
-          "sourceGeohash4": "gcf2"
+          "sourceGeohash4": "gcf2",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/city-of-derry-airport-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/ballyshannon-in-the-morning-su.jpg",
@@ -641,7 +653,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballyshannon_in_the_Morning_Sun_2012_09_17.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-donegal-wp",
-          "sourceGeohash4": "gcf2"
+          "sourceGeohash4": "gcf2",
+          "mediumPath": "_m/g/c/f/2/county-donegal-wp/ballyshannon-in-the-morning-su-medium.webp",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/ballyshannon-in-the-morning-su-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/donegal-banner.jpg",
@@ -656,7 +670,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Donegal_banner.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-donegal-wp",
-          "sourceGeohash4": "gcf2"
+          "sourceGeohash4": "gcf2",
+          "mediumPath": "_m/g/c/f/2/county-donegal-wp/donegal-banner-medium.webp",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/donegal-banner-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/ballyshannon-38-dorrian-s-impe.jpg",
@@ -671,7 +687,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballyshannon-38-Dorrian%27s_Imperial_Hotel-Meerblick-2017-gje.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-donegal-wp",
-          "sourceGeohash4": "gcf2"
+          "sourceGeohash4": "gcf2",
+          "mediumPath": "_m/g/c/f/2/county-donegal-wp/ballyshannon-38-dorrian-s-impe-medium.webp",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/ballyshannon-38-dorrian-s-impe-small.webp"
         }
       ],
       "narration": [

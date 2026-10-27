@@ -3,25 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/7/j/h/1/trancoso-bahia-wp/hero.jpg",
-        "filename": "Trancoso, Porto Seguro, Bahia Brazil.jpg",
-        "caption": "Trancoso - Porto Seguro - Bahia - Brazil, by Michel Y.G. Meunier",
-        "alt": "Trancoso - Porto Seguro - Bahia - Brazil, by Michel Y.G. Meunier",
-        "width": 1090,
-        "height": 806,
+        "path": "_m/7/j/h/1/trancoso-bahia-wp/trancoso-bahia-1.jpg",
+        "filename": "Trancoso-Bahia.jpg",
+        "caption": "Vista geral de Trancoso, foto tirada do Quadrado de Trancoso.",
+        "alt": "Vista geral de Trancoso, foto tirada do Quadrado de Trancoso.",
+        "width": 7712,
+        "height": 1648,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Michel Y.G. Meunier",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trancoso,_Porto_Seguro,_Bahia_Brazil.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "Juliana Sucupira",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trancoso-Bahia.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "trancoso-bahia-wp",
         "sourceGeohash4": "7jh1",
-        "categories": [
-          "Beaches of Trancoso (Porto Seguro)",
-          "PD-self",
-          "Self-published work",
-          "Taken with Sony DSC-P92"
-        ]
+        "mediumPath": "_m/7/j/h/1/trancoso-bahia-wp/trancoso-bahia-1-medium.webp",
+        "smallPath": "_m/7/j/h/1/trancoso-bahia-wp/trancoso-bahia-1-small.webp"
       },
       "images": [
         {
@@ -441,7 +437,9 @@
             "Millepora",
             "Porto Seguro",
             "Taken with Canon PowerShot S90"
-          ]
+          ],
+          "mediumPath": "_m/7/j/h/4/porto-seguro-wp/diving-in-porto-seguro-medium.webp",
+          "smallPath": "_m/7/j/h/4/porto-seguro-wp/diving-in-porto-seguro-small.webp"
         },
         {
           "path": "_m/7/j/h/4/porto-seguro-wp/porto-seguro-bahia-banner.jpg",
@@ -463,7 +461,9 @@
             "Derivative versions",
             "Porto Seguro",
             "Wikivoyage banners of Bahia"
-          ]
+          ],
+          "mediumPath": "_m/7/j/h/4/porto-seguro-wp/porto-seguro-bahia-banner-medium.webp",
+          "smallPath": "_m/7/j/h/4/porto-seguro-wp/porto-seguro-bahia-banner-small.webp"
         }
       ],
       "narration": [

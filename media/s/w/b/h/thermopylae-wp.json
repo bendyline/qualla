@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/w/b/h/thermopylae-wp/hero.jpg",
-        "filename": "Thermopylae ancient coastline large.jpg",
-        "caption": "View of the Thermopylae pass at the area of the Phocian Wall. In ancient times the coastline was where the modern road lies, or even closer to the mountain.",
-        "alt": "View of the Thermopylae pass at the area of the Phocian Wall. In ancient times the coastline was where the modern road lies, or even closer to the mountain.",
-        "width": 2560,
-        "height": 1920,
+        "path": "_m/s/w/b/h/thermopylae-wp/thermopylae-panorama-3.jpg",
+        "filename": "Thermopylae panorama 3.jpg",
+        "caption": "Thermopylae panorama",
+        "alt": "Thermopylae panorama",
+        "width": 7810,
+        "height": 3840,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Fkerasar",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thermopylae_ancient_coastline_large.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Davide Mauro",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thermopylae_panorama_3.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "thermopylae-wp",
         "sourceGeohash4": "swbh",
-        "categories": [
-          "CC-BY-SA-2.5,2.0,1.0",
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "Geography of Greece",
-          "License migration redundant",
-          "Self-published work",
-          "Taken with Panasonic Lumix DMC-TZ1",
-          "Thermopylae"
-        ]
+        "mediumPath": "_m/s/w/b/h/thermopylae-wp/thermopylae-panorama-3-medium.webp",
+        "smallPath": "_m/s/w/b/h/thermopylae-wp/thermopylae-panorama-3-small.webp"
       },
       "images": [
         {
@@ -86,7 +78,7 @@
           "smallPath": "_m/s/w/b/h/thermopylae-wp/map-central-regions-an-small.webp"
         },
         {
-          "path": "_m/s/w/b/h/thermopylae-wp/thirlwall-1846-p2-342.jpg",
+          "path": "_m/s/w/b/h/battle-of-thermopylae-191-bc-wp/thirlwall-1846-p2-342.jpg",
           "filename": "THIRLWALL(1846) p2.342 THERMOPYLAE.jpg",
           "alt": "THIRLWALL(1846) p2.342 THERMOPYLAE.jpg",
           "width": 3150,
@@ -112,7 +104,9 @@
             "Old maps of ancient Greece",
             "PD-old-70-expired",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "mediumPath": "_m/s/w/b/h/battle-of-thermopylae-191-bc-wp/thirlwall-1846-p2-342-medium.webp",
+          "smallPath": "_m/s/w/b/h/battle-of-thermopylae-191-bc-wp/thirlwall-1846-p2-342-small.webp"
         },
         {
           "path": "_m/s/w/b/h/thermopylae-wp/dodwell-thermopylae.jpg",
@@ -217,7 +211,7 @@
           "smallPath": "_m/s/w/b/h/thermopylae-wp/grand-prix-de-rome-roty-small.webp"
         },
         {
-          "path": "_m/s/w/b/h/thermopylae-wp/hero.jpg",
+          "path": "_m/s/w/b/h/battle-of-thermopylae-1941-wp/hero.jpg",
           "filename": "Thermopylae under German control, 1941.jpg",
           "caption": "Thermopylae under the control of German forces, 1941. This photograph was later captured by British forces.",
           "alt": "Thermopylae under the control of German forces, 1941. This photograph was later captured by British forces.",
@@ -229,7 +223,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thermopylae_under_German_control,_1941.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "battle-of-thermopylae-1941-wp",
-          "sourceGeohash4": "swbh"
+          "sourceGeohash4": "swbh",
+          "smallPath": "_m/s/w/b/h/battle-of-thermopylae-1941-wp/hero-small.webp"
         },
         {
           "path": "_m/s/w/b/h/thermopylae-wp/targa-del-monumento-delle-term.jpg",
@@ -454,7 +449,8 @@
             "Flickr images uploaded by Flickr upload bot",
             "Gorgopotamos bridge",
             "Taken with Canon PowerShot Pro1"
-          ]
+          ],
+          "smallPath": "_m/s/w/b/6/boeotia-wp/gorgopotamos-bridge-1-small.webp"
         },
         {
           "path": "_m/s/w/b/6/boeotia-wp/galaxidi-paralia-at-dusk.jpg",
@@ -475,7 +471,9 @@
             "Port of Galaxidi",
             "Self-published work",
             "Taken with Nikon D70s"
-          ]
+          ],
+          "mediumPath": "_m/s/w/b/6/boeotia-wp/galaxidi-paralia-at-dusk-medium.webp",
+          "smallPath": "_m/s/w/b/6/boeotia-wp/galaxidi-paralia-at-dusk-small.webp"
         },
         {
           "path": "_m/s/w/b/6/boeotia-wp/mt-kaliakouda-evritania.jpg",
@@ -495,7 +493,9 @@
             "CC-BY-SA-3.0",
             "Kaliakouda",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/b/6/boeotia-wp/mt-kaliakouda-evritania-medium.webp",
+          "smallPath": "_m/s/w/b/6/boeotia-wp/mt-kaliakouda-evritania-small.webp"
         },
         {
           "path": "_m/s/w/b/6/boeotia-wp/delphi-tholos-6220581621.jpg",
@@ -517,7 +517,8 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Photographs by Arian Zwegers",
             "Tholos in Delphi (North-West view)"
-          ]
+          ],
+          "smallPath": "_m/s/w/b/6/boeotia-wp/delphi-tholos-6220581621-small.webp"
         },
         {
           "path": "_m/s/w/b/6/boeotia-wp/itea-pan.jpg",
@@ -545,7 +546,9 @@
             "Self-published work",
             "Stitched images",
             "Taken with Casio Exilim EX-FC100"
-          ]
+          ],
+          "mediumPath": "_m/s/w/b/6/boeotia-wp/itea-pan-medium.webp",
+          "smallPath": "_m/s/w/b/6/boeotia-wp/itea-pan-small.webp"
         },
         {
           "path": "_m/s/w/b/6/boeotia-wp/village-agios-thomas.jpg",
@@ -569,7 +572,9 @@
             "Greece photographs taken on 2016-01-15",
             "Images with extracted images",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/b/6/boeotia-wp/village-agios-thomas-medium.webp",
+          "smallPath": "_m/s/w/b/6/boeotia-wp/village-agios-thomas-small.webp"
         },
         {
           "path": "_m/s/w/b/7/greece-wp/globular-aryballos-louvre-ele3.jpg",
@@ -599,7 +604,8 @@
             "Self-published work",
             "Taken with Nikon D70",
             "Template Unknown (artist)"
-          ]
+          ],
+          "smallPath": "_m/s/w/b/7/greece-wp/globular-aryballos-louvre-ele3-small.webp"
         },
         {
           "path": "_m/s/w/b/7/greece-wp/greece-satellite-01.jpg",
@@ -619,7 +625,8 @@
             "Media missing infobox template",
             "PD NASA",
             "Satellite pictures of Greece"
-          ]
+          ],
+          "smallPath": "_m/s/w/b/7/greece-wp/greece-satellite-01-small.webp"
         },
         {
           "path": "_m/s/w/b/4/delphi-wk/delfi-apollons-tempel.jpg",
@@ -641,7 +648,9 @@
             "Self-published work",
             "Taken with Nikon D5000",
             "Temple of Apollo in Delphi, view from up-slope"
-          ]
+          ],
+          "mediumPath": "_m/s/w/b/4/delphi-wk/delfi-apollons-tempel-medium.webp",
+          "smallPath": "_m/s/w/b/4/delphi-wk/delfi-apollons-tempel-small.webp"
         },
         {
           "path": "_m/s/w/b/7/greece-wp/greece-food-horiatiki.jpg",
@@ -665,7 +674,9 @@
             "Greek salad",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/b/7/greece-wp/greece-food-horiatiki-medium.webp",
+          "smallPath": "_m/s/w/b/7/greece-wp/greece-food-horiatiki-small.webp"
         },
         {
           "path": "_m/s/w/b/7/greece-wp/greece-food-moussaka.jpg",
@@ -680,7 +691,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greece_Food_Moussaka.JPG",
           "sourceType": "poi",
           "sourceArticleId": "greece-wp",
-          "sourceGeohash4": "swb7"
+          "sourceGeohash4": "swb7",
+          "mediumPath": "_m/s/w/b/7/greece-wp/greece-food-moussaka-medium.webp",
+          "smallPath": "_m/s/w/b/7/greece-wp/greece-food-moussaka-small.webp"
         },
         {
           "path": "_m/s/w/b/7/greece-wp/20140419-athens-airport16.jpg",
@@ -695,7 +708,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20140419_athens_airport16.JPG",
           "sourceType": "poi",
           "sourceArticleId": "greece-wp",
-          "sourceGeohash4": "swb7"
+          "sourceGeohash4": "swb7",
+          "mediumPath": "_m/s/w/b/7/greece-wp/20140419-athens-airport16-medium.webp",
+          "smallPath": "_m/s/w/b/7/greece-wp/20140419-athens-airport16-small.webp"
         },
         {
           "path": "_m/s/w/b/7/greece-wp/fasolada-2006.jpg",
@@ -710,7 +725,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fasolada,_2006.jpg",
           "sourceType": "poi",
           "sourceArticleId": "greece-wp",
-          "sourceGeohash4": "swb7"
+          "sourceGeohash4": "swb7",
+          "smallPath": "_m/s/w/b/7/greece-wp/fasolada-2006-small.webp"
         },
         {
           "path": "_m/tpc/je/su/it/s_/jesuits/00-0541-kloster-agia-triada-me.jpg",
@@ -725,7 +741,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_0541_Kloster_Ag%C3%ADa_Tri%C3%A1da_(Meteora)_-_Griechenland.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jesuits",
-          "sourceGeohash4": "swb7"
+          "sourceGeohash4": "swb7",
+          "mediumPath": "_m/tpc/je/su/it/s_/jesuits/00-0541-kloster-agia-triada-me-medium.webp",
+          "smallPath": "_m/tpc/je/su/it/s_/jesuits/00-0541-kloster-agia-triada-me-small.webp"
         }
       ],
       "narration": [

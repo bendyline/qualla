@@ -28,7 +28,7 @@ News of King's assassination triggered the Holy Week Uprising - riots in more th
 
 ## Visiting the Lorraine Motel
 
-The National Civil Rights Museum incorporates the Lorraine Motel at 450 Mulberry Street in Memphis. The museum tells the story of the American civil rights movement from slavery through the present, using the motel as both artifact and symbol. Room 306, where King spent his final night, and the balcony where he fell are preserved behind glass. Across the street, the rooming house from which James Earl Ray fired is now part of the museum, telling the story of the assassination and its aftermath. The experience is emotionally powerful - standing where King stood, looking at the window where his killer waited. The museum draws over 200,000 visitors annually. Memphis International Airport (MEM) is 15 miles south. The museum is in downtown Memphis, near Beale Street and other attractions.
+The National Civil Rights Museum incorporates the Lorraine Motel at 450 Mulberry Street in Memphis. The museum tells the story of the American civil rights movement from slavery through the present, using the motel as both artifact and symbol. Room 306, where King spent his final night, and the balcony where he fell are preserved behind glass. Across the street, the rooming house from which James Earl Ray fired is now part of the museum, telling the story of the assassination and its aftermath. The experience is emotionally powerful - standing where King stood, looking at the window where his killer waited. The museum draws over 200,000 visitors annually. Frederick W. Smith International Airport (MEM, formerly Memphis International) is 15 miles south. The museum is in downtown Memphis, near Beale Street and other attractions.
 
 ## Flight Context
 

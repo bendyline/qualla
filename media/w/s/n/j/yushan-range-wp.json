@@ -3,31 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/s/n/j/yushan-range-wp/hero.jpg",
-        "filename": "YushanSeaCloud.jpg",
-        "caption": "Seas of Clouds near Yushan",
-        "alt": "Seas of Clouds near Yushan",
-        "width": 2048,
-        "height": 1536,
+        "path": "_m/w/s/n/j/yushan-range-wp/map-yushan-range-taiwa.jpg",
+        "filename": "Taiwan-Yushan Range.jpg",
+        "caption": "​Map of Yushan Range, Taiwan",
+        "alt": "​Map of Yushan Range, Taiwan",
+        "width": 1974,
+        "height": 3600,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "Chien-Nan Chen from Taipei, Taiwan",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:YushanSeaCloud.jpg",
+        "artist": "Peellden",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taiwan-Yushan_Range.jpg",
         "sourceType": "core",
         "sourceArticleId": "yushan-range-wp",
         "sourceGeohash4": "wsnj",
         "categories": [
-          "CC-BY-SA-2.0",
           "CC-BY-SA-3.0",
-          "Flickr images missing SDC Flickr photo ID",
-          "Flickr images missing SDC published in",
-          "Flickr images reviewed by FlickreviewR",
-          "Items with VRTS permission confirmed",
-          "Mountains of the Yushan Range",
-          "Sea of clouds in Taiwan",
+          "Maps of mountains in Taiwan",
           "Self-published work",
-          "Taken with Nikon Coolpix 4500"
-        ]
+          "Yushan Range"
+        ],
+        "mediumPath": "_m/w/s/n/j/yushan-range-wp/map-yushan-range-taiwa-medium.webp",
+        "smallPath": "_m/w/s/n/j/yushan-range-wp/map-yushan-range-taiwa-small.webp"
       },
       "images": [
         {
@@ -54,7 +50,7 @@
           "smallPath": "_m/w/s/n/j/yushan-range-wp/map-yushan-range-taiwa-small.webp"
         },
         {
-          "path": "_m/w/s/n/j/yushan-range-wp/sea-clouds-near-tataji.jpg",
+          "path": "_m/w/s/n/j/yu-shan-wp/sea-clouds-near-tataji.jpg",
           "filename": "YushanSeaCloud5.jpg",
           "caption": "Sea of clouds near Tatajia on Yushan Trail",
           "alt": "Sea of clouds near Tatajia on Yushan Trail",
@@ -75,7 +71,8 @@
             "Photographs taken on 2007-06-17",
             "Taken with Nikon Coolpix 4500",
             "Yushan Range"
-          ]
+          ],
+          "smallPath": "_m/w/s/n/j/yu-shan-wp/sea-clouds-near-tataji-small.webp"
         },
         {
           "path": "_m/w/s/n/j/yushan-range-wp/three-dams-tainan-from-airplan.jpg",
@@ -137,7 +134,9 @@
             "Views from Yushan Main Peak",
             "Wikivoyage banners by SelfieCity",
             "Wikivoyage banners of Taiwan"
-          ]
+          ],
+          "mediumPath": "_m/w/s/n/j/yushan-national-park-wp/yushan-banner-medium.webp",
+          "smallPath": "_m/w/s/n/j/yushan-national-park-wp/yushan-banner-small.webp"
         }
       ],
       "narration": [

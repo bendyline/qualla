@@ -3,29 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/r/b/d/ecuador-wk/hero.jpg",
-        "filename": "Panorama puerto lopez beach.jpg",
-        "caption": "Beach of Puerto Lopez, a small fishing town in Ecuador",
-        "alt": "Beach of Puerto Lopez, a small fishing town in Ecuador",
-        "width": 3513,
-        "height": 1138,
+        "path": "_m/6/r/b/d/ecuador-wk/indigenous-people-peel.jpg",
+        "filename": "Latin America banner Looking at Quito.JPG",
+        "caption": "Indigenous people peeling maize while overlooking Quito from El Panecillo, Ecuador.",
+        "alt": "Indigenous people peeling maize while overlooking Quito from El Panecillo, Ecuador.",
+        "width": 7619,
+        "height": 1090,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Annom",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_puerto_lopez_beach.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Diego Delso",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Latin_America_banner_Looking_at_Quito.JPG",
         "sourceType": "core",
         "sourceArticleId": "ecuador-wk",
         "sourceGeohash4": "6rbd",
-        "categories": [
-          "Beaches in Puerto Lopez (Ecuador)",
-          "PD-self",
-          "Panoramics of beaches in Ecuador",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/6/r/b/d/ecuador-wk/indigenous-people-peel-medium.webp",
+        "smallPath": "_m/6/r/b/d/ecuador-wk/indigenous-people-peel-small.webp"
       },
       "images": [
         {
-          "path": "_m/6/r/b/d/ecuador-wk/ecuador-sanguaynationa.jpg",
+          "path": "_m/6/p/z/f/andean-highlands-ecuador-wk/ecuador-sanguaynationa.jpg",
           "filename": "Ecuador SanguayNationalPark.JPG",
           "alt": "Ecuador SanguayNationalPark.JPG",
           "width": 1280,
@@ -44,7 +40,8 @@
             "License migration completed",
             "Media missing infobox template",
             "Sangay National Park"
-          ]
+          ],
+          "smallPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/ecuador-sanguaynationa-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wk/ecuador-viadelpacifico.jpg",
@@ -72,7 +69,7 @@
           "smallPath": "_m/6/r/b/d/ecuador-wk/ecuador-viadelpacifico-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/banos-seen-mirador-de.jpg",
+          "path": "_m/6/p/z/f/andean-highlands-ecuador-wk/banos-seen-mirador-de.jpg",
           "filename": "Banos.jpg",
           "caption": "Baños as seen from Mirador de la Virgen. Nearby vulcano Tungurahua in Ecuador.",
           "alt": "Baños as seen from Mirador de la Virgen. Nearby vulcano Tungurahua in Ecuador.",
@@ -91,10 +88,11 @@
             "Pastaza River",
             "Self-published work",
             "Valleys of Ecuador"
-          ]
+          ],
+          "smallPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/banos-seen-mirador-de-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/volcano-imbabura-backg.jpg",
+          "path": "_m/6/p/z/f/andean-highlands-ecuador-wk/volcano-imbabura-backg.jpg",
           "filename": "Otavalo Imbabura nina urkuwan.jpg",
           "caption": "The volcano Imbabura in the background, with the town of Otavalo on the floor of the valley.",
           "alt": "The volcano Imbabura in the background, with the town of Otavalo on the floor of the valley.",
@@ -114,10 +112,11 @@
             "PD-user",
             "Photographs taken on 2005-08-08",
             "Taken with Canon PowerShot S30"
-          ]
+          ],
+          "smallPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/volcano-imbabura-backg-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/cloud-forest-grassland.jpg",
+          "path": "_m/6/p/z/f/andean-highlands-ecuador-wk/cloud-forest-grassland.jpg",
           "filename": "Ecuador Mindo Hill Scene.jpg",
           "caption": "Cloud forest and grassland in the hills above Mindo, Ecuador.",
           "alt": "Cloud forest and grassland in the hills above Mindo, Ecuador.",
@@ -129,10 +128,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ecuador_Mindo_Hill_Scene.jpg",
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/cloud-forest-grassland-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/pertenece-mis-vacacion.jpg",
+          "path": "_m/6/p/y/b/coastal-lowlands-ecuador-wk/pertenece-mis-vacacion.jpg",
           "filename": "Playa Montañita.jpg",
           "caption": "Pertenece a mis vacaciones en Montanita en el verano 2007.",
           "alt": "Pertenece a mis vacaciones en Montanita en el verano 2007.",
@@ -144,10 +144,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Playa_Monta%C3%B1ita.jpg",
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/p/y/b/coastal-lowlands-ecuador-wk/pertenece-mis-vacacion-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/hero.jpg",
+          "path": "_m/3/z/z/s/galapagos-islands-wk/hero.jpg",
           "filename": "Grapsus grapsus Galapagos Islands.jpg",
           "caption": "Grapsus grapsus from the Galápagos Islands",
           "alt": "Grapsus grapsus from the Galápagos Islands",
@@ -159,10 +160,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grapsus_grapsus_Galapagos_Islands.jpg",
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/hero-medium.webp",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/hero-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/far-off-look-beach-sal.jpg",
+          "path": "_m/6/p/y/b/coastal-lowlands-ecuador-wk/far-off-look-beach-sal.jpg",
           "filename": "Salinas beach view in ecuador south america.jpg",
           "caption": "a far off look at the beach of salinas in ecuador south america",
           "alt": "a far off look at the beach of salinas in ecuador south america",
@@ -174,10 +177,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salinas_beach_view_in_ecuador_south_america.jpg",
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/p/y/b/coastal-lowlands-ecuador-wk/far-off-look-beach-sal-medium.webp",
+          "smallPath": "_m/6/p/y/b/coastal-lowlands-ecuador-wk/far-off-look-beach-sal-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/laguna-grande-located.jpg",
+          "path": "_m/6/r/c/7/amazon-ecuador-wk/laguna-grande-located.jpg",
           "filename": "Cuyabeno Reserve, Laguna Grande.jpg",
           "caption": "Laguna Grande, located in the heart of the Cuyabeno Wildlife Reserve",
           "alt": "Laguna Grande, located in the heart of the Cuyabeno Wildlife Reserve",
@@ -190,10 +195,10 @@
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
           "sourceGeohash4": "6rbd",
-          "smallPath": "_m/6/r/b/d/ecuador-wk/laguna-grande-located-small.webp"
+          "smallPath": "_m/6/r/c/7/amazon-ecuador-wk/laguna-grande-located-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/mitad-del-mundo-blick-vom-monu.jpg",
+          "path": "_m/6/r/b/p/ciudad-mitad-del-mundo-wp/mitad-del-mundo-blick-vom-monu.jpg",
           "filename": "Mitad del Mundo Blick vom Monument.JPG",
           "caption": "Blick vom Monument Mitad del Mundo auf die Äquatorlinie ..Nord(N)  Süd (S) , bei Quito /Ecuador",
           "alt": "Blick vom Monument Mitad del Mundo auf die Äquatorlinie ..Nord(N)  Süd (S) , bei Quito /Ecuador",
@@ -206,8 +211,8 @@
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
           "sourceGeohash4": "6rbd",
-          "mediumPath": "_m/6/r/b/d/ecuador-wk/mitad-del-mundo-blick-vom-monu-medium.webp",
-          "smallPath": "_m/6/r/b/d/ecuador-wk/mitad-del-mundo-blick-vom-monu-small.webp"
+          "mediumPath": "_m/6/r/b/p/ciudad-mitad-del-mundo-wp/mitad-del-mundo-blick-vom-monu-medium.webp",
+          "smallPath": "_m/6/r/b/p/ciudad-mitad-del-mundo-wp/mitad-del-mundo-blick-vom-monu-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wk/ecuador-regions-map-us.png",
@@ -275,7 +280,7 @@
           "smallPath": "_m/6/r/b/d/ecuador-wk/ec-cotopaxi-nrouteislo-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/hero.jpg",
+          "path": "_m/6/p/y/v/canoa-wk/hero.jpg",
           "filename": "Canoa, Manabí, Ecuador South.JPG",
           "caption": "A breathtaking facing south overlooking the coast of Canoa, Ecuador",
           "alt": "A breathtaking facing south overlooking the coast of Canoa, Ecuador",
@@ -287,10 +292,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canoa,_Manab%C3%AD,_Ecuador_South.JPG",
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/p/y/v/canoa-wk/hero-medium.webp",
+          "smallPath": "_m/6/p/y/v/canoa-wk/hero-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/ar-pn-andes15-cuenca-t.jpg",
+          "path": "_m/6/p/z/f/andean-highlands-ecuador-wk/ar-pn-andes15-cuenca-t.jpg",
           "filename": "Ama la Vida - Flickr - AR PN ANDES15 CUENCA TV 022 (14584742390).jpg",
           "caption": "AR PN ANDES15 CUENCA TV 022",
           "alt": "AR PN ANDES15 CUENCA TV 022",
@@ -302,10 +309,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ama_la_Vida_-_Flickr_-_AR_PN_ANDES15_CUENCA_TV_022_(14584742390).jpg",
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/ar-pn-andes15-cuenca-t-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/panoramica-guamote-pro.jpg",
+          "path": "_m/6/p/z/f/andean-highlands-ecuador-wk/panoramica-guamote-pro.jpg",
           "filename": "Ama la Vida - Flickr - Panorámica Guamote, prov Chimborazo (8227399466).jpg",
           "caption": "Panorámica Guamote, prov Chimborazo",
           "alt": "Panorámica Guamote, prov Chimborazo",
@@ -317,10 +325,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ama_la_Vida_-_Flickr_-_Panor%C3%A1mica_Guamote,_prov_Chimborazo_(8227399466).jpg",
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/panoramica-guamote-pro-medium.webp",
+          "smallPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/panoramica-guamote-pro-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/auf-dem-san-jose-trail.jpg",
+          "path": "_m/6/p/z/f/andean-highlands-ecuador-wk/auf-dem-san-jose-trail.jpg",
           "filename": "Vilcabamba Ecuador261.JPG",
           "caption": "Auf dem San Jose Trail",
           "alt": "Auf dem San Jose Trail",
@@ -332,7 +342,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vilcabamba_Ecuador261.JPG",
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/auf-dem-san-jose-trail-medium.webp",
+          "smallPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/auf-dem-san-jose-trail-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wk/indigenous-people-peel.jpg",
@@ -352,7 +364,7 @@
           "smallPath": "_m/6/r/b/d/ecuador-wk/indigenous-people-peel-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/top-left-right-panoram-1.png",
+          "path": "_m/6/p/z/f/andean-highlands-ecuador-wk/top-left-right-panoram-1.png",
           "filename": "Collage Ambato.png",
           "caption": "From top, left to right: Panoramic view of the city, Cathedral Basilica of Our Lady of Elevation, Bolivar street, Atocha-La Liria Historical Botanical Garden, Juan Montalvo monument, City hall of Ambato, Cevallos Park and Victor Hugo avenue.",
           "alt": "From top, left to right: Panoramic view of the city, Cathedral Basilica of Our Lady of Elevation, Bolivar street, Atocha-La Liria Historical Botanical Garden, Juan Montalvo monument, City hall of Ambato, Cevallos Park and Victor Hugo avenue.",
@@ -364,10 +376,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collage_Ambato.png",
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/top-left-right-panoram-1-medium.webp",
+          "smallPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/top-left-right-panoram-1-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/top-left-right-panoram-2.png",
+          "path": "_m/6/p/z/f/andean-highlands-ecuador-wk/top-left-right-panoram-2.png",
           "filename": "Collage Riobamba.png",
           "caption": "From top, left to right: Panoramic view of the city, monument to Pedro Vicente Maldonado, sculpture of Neptune, Primera Constituyente Street, St. Peter Cathedral, monument to Edmundo Chiriboga, Maldonado High School, Riobamba railway station, Chimborazo volcano and Monumental Raúl Dávalos bullring.",
           "alt": "From top, left to right: Panoramic view of the city, monument to Pedro Vicente Maldonado, sculpture of Neptune, Primera Constituyente Street, St. Peter Cathedral, monument to Edmundo Chiriboga, Maldonado High School, Riobamba railway station, Chimborazo volcano and Monumental Raúl Dávalos bullring.",
@@ -379,10 +393,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collage_Riobamba.png",
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/top-left-right-panoram-2-medium.webp",
+          "smallPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/top-left-right-panoram-2-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/top-left-right-view-ci.png",
+          "path": "_m/6/p/z/f/andean-highlands-ecuador-wk/top-left-right-view-ci.png",
           "filename": "Collage Ibarra.png",
           "caption": "From top, left to right: View of the city and the Imbabura volcano, Obelisk of Ibarra, Basilica of Sorrowful Mother, Yahuarcocha lagoon, Basilica of Our Lady of Mercy, El Cuartel Cultural Center, Church and square of Saint Augustine and the House of Iberreñidad.",
           "alt": "From top, left to right: View of the city and the Imbabura volcano, Obelisk of Ibarra, Basilica of Sorrowful Mother, Yahuarcocha lagoon, Basilica of Our Lady of Mercy, El Cuartel Cultural Center, Church and square of Saint Augustine and the House of Iberreñidad.",
@@ -394,10 +410,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collage_Ibarra.png",
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/top-left-right-view-ci-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/top-left-right-panoram-3.png",
+          "path": "_m/6/p/z/f/andean-highlands-ecuador-wk/top-left-right-panoram-3.png",
           "filename": "Collage Guaranda.png",
           "caption": "From top, left to right: Panoramic view of the city, monument to Simon Bolivar behind St. Peter Cathedral, monument to Guaranga, St. Peter of Guanujo Sanctuary, Prefecture of Bolívar, May 7th Street, May 15th Square and bridge over the Culebrillas River.",
           "alt": "From top, left to right: Panoramic view of the city, monument to Simon Bolivar behind St. Peter Cathedral, monument to Guaranga, St. Peter of Guanujo Sanctuary, Prefecture of Bolívar, May 7th Street, May 15th Square and bridge over the Culebrillas River.",
@@ -409,10 +426,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collage_Guaranda.png",
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/top-left-right-panoram-3-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/hero.png",
+          "path": "_m/6/r/c/7/amazon-ecuador-wk/hero.png",
           "filename": "Collage Tena.png",
           "caption": "From top, left to right: View of the city center and the Tena River, cable-stayed bridge of the Amazon Park The Island, night view of the Boardwalk, monument to the Quichua ethnic group, monument to Jumandy, November 15 avenue and Tena Park.",
           "alt": "From top, left to right: View of the city center and the Tena River, cable-stayed bridge of the Amazon Park The Island, night view of the Boardwalk, monument to the Quichua ethnic group, monument to Jumandy, November 15 avenue and Tena Park.",
@@ -425,10 +443,10 @@
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
           "sourceGeohash4": "6rbd",
-          "smallPath": "_m/6/r/b/d/ecuador-wk/hero-small.webp"
+          "smallPath": "_m/6/r/c/7/amazon-ecuador-wk/hero-small.webp"
         },
         {
-          "path": "_m/6/r/b/d/ecuador-wk/gye13.jpg",
+          "path": "_m/6/p/y/b/coastal-lowlands-ecuador-wk/gye13.jpg",
           "filename": "Gye13.jpg",
           "caption": "Gye13",
           "alt": "Gye13",
@@ -440,7 +458,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gye13.jpg",
           "sourceType": "core",
           "sourceArticleId": "ecuador-wk",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/p/y/b/coastal-lowlands-ecuador-wk/gye13-medium.webp",
+          "smallPath": "_m/6/p/y/b/coastal-lowlands-ecuador-wk/gye13-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wk/n-baeza-0409-019.jpg",
@@ -478,7 +498,8 @@
             "CC-BY-SA-2.0-FR",
             "Self-published work",
             "Temple of the Sun, Ingapirca"
-          ]
+          ],
+          "smallPath": "_m/6/p/x/c/ingapirca-wp/ecuador-ingapirca-inca-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/ecuador-peru-land-claims-01.png",
@@ -502,7 +523,8 @@
             "Maps of the history of Ecuador",
             "Self-published work",
             "Spanish-language maps"
-          ]
+          ],
+          "smallPath": "_m/6/r/b/d/ecuador-wp/ecuador-peru-land-claims-01-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/mirage-f-1ja.jpg",
@@ -528,7 +550,8 @@
             "Matra R550",
             "Python missiles",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/6/r/b/d/ecuador-wp/mirage-f-1ja-small.webp"
         },
         {
           "path": "_m/6/p/x/5/guayaquil-wp/estadio-monumental-6.jpg",
@@ -550,7 +573,9 @@
             "Files with no machine-readable source",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/6/p/x/5/guayaquil-wp/estadio-monumental-6-medium.webp",
+          "smallPath": "_m/6/p/x/5/guayaquil-wp/estadio-monumental-6-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/ecuador-topography.png",
@@ -565,7 +590,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ecuador_Topography.png",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/ecuador-topography-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/entrevista-de-guayaquil.jpg",
@@ -580,7 +606,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrevista_de_Guayaquil.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/entrevista-de-guayaquil-small.webp"
         },
         {
           "path": "_m/6/r/b/n/church-of-la-compania-quito-wp/church-society-jesus-l.jpg",
@@ -595,7 +622,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Compa%C3%B1%C3%ADa,_Quito_-_6.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "church-of-la-compania-quito-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/r/b/n/church-of-la-compania-quito-wp/church-society-jesus-l-small.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wp/carondelet-quito.jpg",
@@ -610,7 +638,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carondelet_-_Quito.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "quito-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/r/b/n/quito-wp/carondelet-quito-medium.webp",
+          "smallPath": "_m/6/r/b/n/quito-wp/carondelet-quito-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/quito-trole-06-2011-1933.jpg",
@@ -625,7 +655,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quito_Trole_06_2011_1933.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/quito-trole-06-2011-1933-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/nee-01-pegaso.jpg",
@@ -640,7 +671,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:NEE-01-PEGASO.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/r/b/d/ecuador-wp/nee-01-pegaso-medium.webp",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/nee-01-pegaso-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/jama-coaque-figure-seated-on-a.jpg",
@@ -654,7 +687,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jama-Coaque_-_Figure_Seated_on_a_Bench_with_Hands_Held_to_Mouth_-_Walters_482862_-_Right_Side.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/jama-coaque-figure-seated-on-a-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/slums-of-ecuador-guayaquil.jpg",
@@ -669,7 +703,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slums_of_Ecuador_Guayaquil.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/r/b/d/ecuador-wp/slums-of-ecuador-guayaquil-medium.webp",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/slums-of-ecuador-guayaquil-small.webp"
         },
         {
           "path": "_m/6/r/c/7/amazon-ecuador-wk/instalaciones-y-cabana.jpg",
@@ -684,7 +720,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Napo_Wildlife_Center_Ecolodge.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "amazon-ecuador-wk",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/r/c/7/amazon-ecuador-wk/instalaciones-y-cabana-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/canari-people-01.jpg",
@@ -699,7 +736,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ca%C3%B1ari_people_01.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/r/b/d/ecuador-wp/canari-people-01-medium.webp",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/canari-people-01-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/cuenca-32126182143.jpg",
@@ -714,7 +753,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CUENCA_(32126182143).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/r/b/d/ecuador-wp/cuenca-32126182143-medium.webp",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/cuenca-32126182143-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/hospital-de-calderon-4-mav-328.jpg",
@@ -729,7 +770,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:HOSPITAL_DE_CALDER%C3%93N_4_MAV_(32808969935).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/r/b/d/ecuador-wp/hospital-de-calderon-4-mav-328-medium.webp",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/hospital-de-calderon-4-mav-328-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/roof-deck-palacio-de-pizarro-p.jpg",
@@ -744,7 +787,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roof_deck_(Palacio_de_Pizarro),_Plaza_de_la_Independencia_(Quito),_pic.aa4.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/r/b/d/ecuador-wp/roof-deck-palacio-de-pizarro-p-medium.webp",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/roof-deck-palacio-de-pizarro-p-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/valdivia-ecuador-figuretta-di-.jpg",
@@ -759,7 +804,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valdivia_(ecuador),_figuretta_di_donna_incinta,_2300-2000_ac_ca.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/valdivia-ecuador-figuretta-di--small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/20180818-pale-mandibled-aracar.jpg",
@@ -774,7 +820,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20180818-Pale-mandibled_aracari_at_Bosque_Protector_Mindo_%E2%80%93_Nambillo.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/r/b/d/ecuador-wp/20180818-pale-mandibled-aracar-medium.webp",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/20180818-pale-mandibled-aracar-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/secretary-pompeo-holds-joint-p.jpg",
@@ -789,7 +837,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Secretary_Pompeo_Holds_Joint_Press_Conference_with_President_Moreno_(48336351591).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/r/b/d/ecuador-wp/secretary-pompeo-holds-joint-p-medium.webp",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/secretary-pompeo-holds-joint-p-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/giant-tortoise-of-the-galapago.jpg",
@@ -804,7 +854,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant_tortoise_of_the_galapagos_islands.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/r/b/d/ecuador-wp/giant-tortoise-of-the-galapago-medium.webp",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/giant-tortoise-of-the-galapago-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/nuestra-senora-del-rosario-de-.jpg",
@@ -819,7 +871,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nuestra_Se%C3%B1ora_del_Rosario_de_Agua_Santa,_Ba%C3%B1os,_Ecuador_(9469036870).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/nuestra-senora-del-rosario-de--small.webp"
         },
         {
           "path": "_m/6/p/x/5/guayaquil-wp/ceviche-de-camaron-gastronomia.jpg",
@@ -834,7 +887,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceviche_de_camar%C3%B3n_(gastronom%C3%ADa_Ecuatoriana).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "guayaquil-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/p/x/5/guayaquil-wp/ceviche-de-camaron-gastronomia-small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/2022-05-20-universidad-de-las-.jpg",
@@ -849,7 +903,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022-05-20_Universidad_de_las_Artes_Guayaquil_01.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "mediumPath": "_m/6/r/b/d/ecuador-wp/2022-05-20-universidad-de-las--medium.webp",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/2022-05-20-universidad-de-las--small.webp"
         },
         {
           "path": "_m/6/r/b/d/ecuador-wp/disputas-territoriales-sudamer.png",
@@ -864,7 +920,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Disputas_territoriales_Sudamerica_(1850).png",
           "sourceType": "sibling",
           "sourceArticleId": "ecuador-wp",
-          "sourceGeohash4": "6rbd"
+          "sourceGeohash4": "6rbd",
+          "smallPath": "_m/6/r/b/d/ecuador-wp/disputas-territoriales-sudamer-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/gabrielgarciamoreno.jpg",
@@ -888,7 +945,8 @@
             "Media missing infobox template",
             "PD-old missing SDC copyright status",
             "PD Old"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/gabrielgarciamoreno-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/20000-sucres-bill-ecuador-1999.jpg",
@@ -913,7 +971,8 @@
             "PD-self",
             "People on banknotes",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/20000-sucres-bill-ecuador-1999-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/sageoeg-avenida-nueve-de-octub.jpg",
@@ -938,7 +997,8 @@
             "License migration redundant",
             "Malecón 2000",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/sageoeg-avenida-nueve-de-octub-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/ecuador1830.png",
@@ -953,7 +1013,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ecuador1830.png",
           "sourceType": "history",
           "sourceArticleId": "history-of-ecuador",
-          "sourceGeohash4": "tpc/_ho/ec/ua/do"
+          "sourceGeohash4": "tpc/_ho/ec/ua/do",
+          "smallPath": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/ecuador1830-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/plaza-principal-de-quito-anoni.jpg",
@@ -968,7 +1029,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_principal_de_Quito,_an%C3%B3nimo_-_siglo_XVIII_(Museo_de_la_Moneda,_Bogot%C3%A1).jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-ecuador",
-          "sourceGeohash4": "tpc/_ho/ec/ua/do"
+          "sourceGeohash4": "tpc/_ho/ec/ua/do",
+          "smallPath": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/plaza-principal-de-quito-anoni-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/ingapirca-03.jpg",
@@ -983,7 +1045,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ingapirca_03.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-ecuador",
-          "sourceGeohash4": "tpc/_ho/ec/ua/do"
+          "sourceGeohash4": "tpc/_ho/ec/ua/do",
+          "mediumPath": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/ingapirca-03-medium.webp",
+          "smallPath": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/ingapirca-03-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/tolita-mythological-figure-in-.jpg",
@@ -997,7 +1061,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tolita_mythological_figure_in_feathered_costume_IMJ_B77.0161.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-ecuador",
-          "sourceGeohash4": "tpc/_ho/ec/ua/do"
+          "sourceGeohash4": "tpc/_ho/ec/ua/do",
+          "mediumPath": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/tolita-mythological-figure-in--medium.webp",
+          "smallPath": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/tolita-mythological-figure-in--small.webp"
         },
         {
           "path": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/eloy-alfaro.jpg",
@@ -1010,7 +1076,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eloy_Alfaro.JPG",
           "sourceType": "history",
           "sourceArticleId": "history-of-ecuador",
-          "sourceGeohash4": "tpc/_ho/ec/ua/do"
+          "sourceGeohash4": "tpc/_ho/ec/ua/do",
+          "smallPath": "_m/tpc/_ho/ec/ua/do/history-of-ecuador/eloy-alfaro-small.webp"
         }
       ],
       "narration": [

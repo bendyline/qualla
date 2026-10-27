@@ -34,7 +34,7 @@ Koh Seh lies at 10.417°N, 103.800°E in the Gulf of Thailand, 1.5 km south of K
 
 - [Koh Seh - Wikipedia](https://en.wikipedia.org/?curid=9886613)
   - base overlay source
-- [Koh Seh - Wikipedia](https://en.wikipedia.org/wiki/Koh_Seh)
+- [Koh Seh - Wikipedia](https://en.wikipedia.org/?curid=9886613)
   - 7.5 sq km, 4.4 km long, 1.8-4.4 km wide, 15 km coastline
   - 1.5 km south of Koh Thmei, ~9 km off Ream commune mainland
   - Koh Ky islet under 400 m southwest

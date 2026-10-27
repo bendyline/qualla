@@ -37,7 +37,7 @@ Centered at 46.788N, 89.530W (White Pine area), the broader Copper Country stret
 ## Sources
 
 - [Copper mining in Michigan - Wikipedia](https://en.wikipedia.org/?curid=12471833)
-- [Copper mining in Michigan - Wikipedia](https://en.wikipedia.org/wiki/Copper_mining_in_Michigan)
+- [Copper mining in Michigan - Wikipedia](https://en.wikipedia.org/?curid=12471833)
   - Corrected: intro '5,000 years' changed to 'more than 6,000 years' to align with body text (5000 BCE to 1200 BCE) and NPS sources citing 5000 BCE as start date
   - Michigan produced more than 95% of U.S. copper in 1869 - confirmed
   - Michigan led nation in copper production from 1845 to 1887 - confirmed

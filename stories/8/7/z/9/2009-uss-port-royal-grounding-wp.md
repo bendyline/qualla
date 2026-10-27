@@ -28,7 +28,7 @@ In June 2009, Vice Admiral Samuel J. Locklear imposed non-judicial punishment on
 
 ## Flight Context
 
-Coordinates: 21.2967°N, 157.9220°W. The grounding site is approximately 0.5 miles south of the Reef Runway at Honolulu International Airport (PHNL), on a shallow coral shelf visible from the air as turquoise water contrasting with deeper ocean. Pearl Harbor is approximately 3 miles northwest. Best viewed at 1,500-3,000 ft AGL during approach or departure from PHNL.
+Coordinates: 21.2967°N, 157.9220°W. The grounding site is approximately 0.5 miles south of the Reef Runway at Daniel K. Inouye International Airport (PHNL, formerly Honolulu International), on a shallow coral shelf visible from the air as turquoise water contrasting with deeper ocean. Pearl Harbor is approximately 3 miles northwest. Best viewed at 1,500-3,000 ft AGL during approach or departure from PHNL.
 
 ## Sources
 

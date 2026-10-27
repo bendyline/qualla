@@ -28,7 +28,7 @@ Rediscovered in the 1950s, the ruins were cleared and stabilized by the Territor
 
 ## Flight Context
 
-Located at 21.35N, 157.81W in the upper Nu'uanu Valley on Oahu, beneath the Ko'olau Range. The ruins are hidden beneath dense canopy and not visible from the air, but the valley itself -- a deep green corridor running north from Honolulu toward the Pali -- is distinctive. Best context at 2,000-4,000 feet AGL approaching from the south. The Nu'uanu Pali lookout is visible at the head of the valley. Nearest airports: PHNL (Honolulu International, 6 nm SW), PHNG (Kaneohe Bay MCAS, 4 nm NE).
+Located at 21.35N, 157.81W in the upper Nu'uanu Valley on Oahu, beneath the Ko'olau Range. The ruins are hidden beneath dense canopy and not visible from the air, but the valley itself -- a deep green corridor running north from Honolulu toward the Pali -- is distinctive. Best context at 2,000-4,000 feet AGL approaching from the south. The Nu'uanu Pali lookout is visible at the head of the valley. Nearest airports: PHNL (Daniel K. Inouye International, formerly Honolulu International, 6 nm SW), PHNG (Kaneohe Bay MCAS, 4 nm NE).
 
 ## Sources
 

@@ -33,7 +33,7 @@ The Botanical Garden of Curitiba sits at 25.4428S, 49.2394W in the eastern part 
 ## Sources
 
 - [Botanical Garden of Curitiba - Wikipedia](https://en.wikipedia.org/?curid=14268324)
-- [Botanical Garden of Curitiba - Wikipedia](https://en.wikipedia.org/wiki/Botanical_Garden_of_Curitiba)
+- [Botanical Garden of Curitiba - Wikipedia](https://en.wikipedia.org/?curid=14268324)
   - Garden opened 1991 confirmed
   - Named Jardim Botanico Fanchette Rischbieter confirmed
   - 240,000 sq meters total area confirmed

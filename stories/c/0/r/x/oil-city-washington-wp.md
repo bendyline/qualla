@@ -36,7 +36,7 @@ Oil City is located at 47.75N, 124.43W, at the mouth of the Hoh River on Washing
 - [Oil Exploration in Washington](https://www.historylink.org/File/7446)
 - [The Oil City Story](https://www.dnr.wa.gov/Publications/ger_washington_geology_1976_v4_no2.pdf)
 - [Ghosts of Jefferson County: Oil City](https://ptleader.com/articles/blogs/ghosts-of-jefferson-county-oil-city-3/)
-- [Oil City, Washington - Wikipedia](https://en.wikipedia.org/wiki/Oil_City%2C_Washington)
+- [Oil City, Washington - Wikipedia](https://en.wikipedia.org/?curid=44628024)
   - Plat filed December 7, 1911 by Frank W. Johnson and Olympic Oil Company confirmed
   - Eleven wells drilled between 1931 and 1937
   - Road access agreement in 2008 made site accessible

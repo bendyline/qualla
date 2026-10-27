@@ -45,7 +45,7 @@ The fire occurred at 57.72N, 11.95E on Hisingen island, the large island that fo
   - BOA organization founded by victims' relatives
 - [Seattle Times - 4 men convicted in Swedish fire](https://archive.seattletimes.com/archive/20000609/4025771/4-men-convicted-in-swedish-fire-that-killed-63-teens)
   - Conviction details and sentences confirmed
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/1998_Gothenburg_discotheque_fire)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=5858941)
   - Removed the full names of the four convicts (aged 17–19 at the time), replacing them with role/age descriptors, as a rehabilitation / right-to-be-forgotten measure 27 years after the event; the convictions, sentences, and appeal outcome are unchanged.
 
 ## Review Notes

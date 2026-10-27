@@ -26,7 +26,7 @@
       },
       "images": [
         {
-          "path": "_m/g/b/u/j/cornwall-and-west-devon-mining-landscape-wp/relief-map-cornwall-uk.jpg",
+          "path": "_m/g/b/g/u/sennen-cove-lifeboat-station-wp/relief-map-cornwall-uk.jpg",
           "filename": "Cornwall UK relief location map.jpg",
           "caption": "Relief map of Cornwall, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 150%\nGeographic limits:\n\nWest: 6.47W\nEast: 4.00W\nNorth: 51.04N\nSouth: 49.83N",
           "alt": "Relief map of Cornwall, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 150%\nGeographic limits:\n\nWest: 6.47W\nEast: 4.00W\nNorth: 51.04N\nSouth: 49.83N",
@@ -45,10 +45,12 @@
             "Maps by Nilfanion",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of England"
-          ]
+          ],
+          "mediumPath": "_m/g/b/g/u/sennen-cove-lifeboat-station-wp/relief-map-cornwall-uk-medium.webp",
+          "smallPath": "_m/g/b/g/u/sennen-cove-lifeboat-station-wp/relief-map-cornwall-uk-small.webp"
         },
         {
-          "path": "_m/g/b/u/j/cornwall-and-west-devon-mining-landscape-wp/united-kingdom-relief-location.jpg",
+          "path": "_m/g/c/p/v/london-wp/united-kingdom-relief-location.jpg",
           "filename": "United Kingdom relief location map.jpg",
           "caption": "Location map of the United Kingdom",
           "alt": "Location map of the United Kingdom",
@@ -71,7 +73,8 @@
             "License migration redundant",
             "Relief location maps of the United Kingdom",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/london-wp/united-kingdom-relief-location-small.webp"
         },
         {
           "path": "_m/g/b/u/j/cornwall-and-west-devon-mining-landscape-wp/de-lank-quarries-hantergantick.jpg",
@@ -448,7 +451,8 @@
             "Self-published work",
             "Taken with Canon PowerShot S60",
             "Views of St Ives, Cornwall"
-          ]
+          ],
+          "smallPath": "_m/g/b/u/j/west-cornwall-wk/stives1-small.webp"
         },
         {
           "path": "_m/g/b/g/u/st-levan-wp/st-levan-church-porthcurno.jpg",
@@ -475,7 +479,9 @@
             "Self-published work",
             "St Levan's Church, St Levan",
             "Taken with Nikon Coolpix 3100"
-          ]
+          ],
+          "mediumPath": "_m/g/b/g/u/st-levan-wp/st-levan-church-porthcurno-medium.webp",
+          "smallPath": "_m/g/b/g/u/st-levan-wp/st-levan-church-porthcurno-small.webp"
         },
         {
           "path": "_m/g/b/u/j/west-cornwall-wk/zennor-from-trewey-hill-cornwa.jpg",
@@ -499,7 +505,9 @@
             "Self-published work",
             "Taken with Nikon Coolpix 3100",
             "Zennor"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/j/west-cornwall-wk/zennor-from-trewey-hill-cornwa-medium.webp",
+          "smallPath": "_m/g/b/u/j/west-cornwall-wk/zennor-from-trewey-hill-cornwa-small.webp"
         },
         {
           "path": "_m/g/b/u/j/west-cornwall-wk/coinagehallstreet-helston.jpg",
@@ -521,7 +529,8 @@
             "CC-BY-SA-3.0-migrated",
             "GFDL",
             "License migration completed"
-          ]
+          ],
+          "smallPath": "_m/g/b/u/j/west-cornwall-wk/coinagehallstreet-helston-small.webp"
         },
         {
           "path": "_m/g/b/u/h/st-buryan-s-church-wp/hero.jpg",
@@ -544,7 +553,9 @@
             "Self-published work",
             "St Buryan's Church, St Buryan",
             "Taken with Olympus u-mini S / Stylus VS"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/h/st-buryan-s-church-wp/hero-medium.webp",
+          "smallPath": "_m/g/b/u/h/st-buryan-s-church-wp/hero-small.webp"
         },
         {
           "path": "_m/g/b/u/j/west-cornwall-wk/newlyn-harbour.jpg",
@@ -565,7 +576,8 @@
             "GFDL",
             "License migration completed",
             "Newlyn harbour"
-          ]
+          ],
+          "smallPath": "_m/g/b/u/j/west-cornwall-wk/newlyn-harbour-small.webp"
         },
         {
           "path": "_m/g/b/u/j/west-cornwall-wk/pzharbourpanorama.jpg",
@@ -589,7 +601,8 @@
             "Penzance harbour",
             "Water reflections in England",
             "Water reflections of cityscapes in the United Kingdom"
-          ]
+          ],
+          "smallPath": "_m/g/b/u/j/west-cornwall-wk/pzharbourpanorama-small.webp"
         },
         {
           "path": "_m/g/b/u/j/madron-wp/mousehole-08.jpg",
@@ -610,7 +623,9 @@
             "Files with coordinates missing SDC location of creation",
             "GFDL",
             "June 2009 in Cornwall"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/j/madron-wp/mousehole-08-medium.webp",
+          "smallPath": "_m/g/b/u/j/madron-wp/mousehole-08-small.webp"
         },
         {
           "path": "_m/g/b/u/j/madron-wp/1646-hayle-estuary-from-the-el.jpg",
@@ -625,7 +640,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1646_-_Hayle_Estuary_from_the_electric_works.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "madron-wp",
-          "sourceGeohash4": "gbuj"
+          "sourceGeohash4": "gbuj",
+          "mediumPath": "_m/g/b/u/j/madron-wp/1646-hayle-estuary-from-the-el-medium.webp",
+          "smallPath": "_m/g/b/u/j/madron-wp/1646-hayle-estuary-from-the-el-small.webp"
         },
         {
           "path": "_m/g/b/u/j/madron-wp/marazion.jpg",
@@ -640,7 +657,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marazion.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "madron-wp",
-          "sourceGeohash4": "gbuj"
+          "sourceGeohash4": "gbuj",
+          "mediumPath": "_m/g/b/u/j/madron-wp/marazion-medium.webp",
+          "smallPath": "_m/g/b/u/j/madron-wp/marazion-small.webp"
         },
         {
           "path": "_m/g/b/u/j/madron-wp/lands-end-uk.jpg",
@@ -655,7 +674,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lands_End_UK.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "madron-wp",
-          "sourceGeohash4": "gbuj"
+          "sourceGeohash4": "gbuj",
+          "mediumPath": "_m/g/b/u/j/madron-wp/lands-end-uk-medium.webp",
+          "smallPath": "_m/g/b/u/j/madron-wp/lands-end-uk-small.webp"
         },
         {
           "path": "_m/g/b/u/j/west-cornwall-wk/thatched-cottage-in-cadgwith-8.jpg",
@@ -670,7 +691,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thatched_cottage_in_Cadgwith_(8235).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "west-cornwall-wk",
-          "sourceGeohash4": "gbuj"
+          "sourceGeohash4": "gbuj",
+          "mediumPath": "_m/g/b/u/j/west-cornwall-wk/thatched-cottage-in-cadgwith-8-medium.webp",
+          "smallPath": "_m/g/b/u/j/west-cornwall-wk/thatched-cottage-in-cadgwith-8-small.webp"
         },
         {
           "path": "_m/g/b/u/j/madron-wp/2024-st-just-in-penwith-4.jpg",
@@ -685,7 +708,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_St_Just_in_Penwith_(4).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "madron-wp",
-          "sourceGeohash4": "gbuj"
+          "sourceGeohash4": "gbuj",
+          "mediumPath": "_m/g/b/u/j/madron-wp/2024-st-just-in-penwith-4-medium.webp",
+          "smallPath": "_m/g/b/u/j/madron-wp/2024-st-just-in-penwith-4-small.webp"
         },
         {
           "path": "_m/g/b/u/j/hayle-wp/godrevy-island.jpg",
@@ -706,7 +731,9 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Godrevy Island",
             "Taken with Sony DSC-N1"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/j/hayle-wp/godrevy-island-medium.webp",
+          "smallPath": "_m/g/b/u/j/hayle-wp/godrevy-island-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/falmouth-cornwall.jpg",
@@ -731,7 +758,8 @@
             "Images by Eva K.",
             "License migration opt-out",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/b/u/w/cornwall-wp/falmouth-cornwall-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/eden-project-geodesic-domes-pa.jpg",
@@ -768,7 +796,9 @@
             "Self-published work",
             "Taken with Konica Minolta Dynax 7D",
             "United Kingdom photographs taken on 2006-08-12"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/w/cornwall-wp/eden-project-geodesic-domes-pa-medium.webp",
+          "smallPath": "_m/g/b/u/w/cornwall-wp/eden-project-geodesic-domes-pa-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/cornish-pasty.jpg",
@@ -794,7 +824,9 @@
             "Self-published work",
             "Semicircular food",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/w/cornwall-wp/cornish-pasty-medium.webp",
+          "smallPath": "_m/g/b/u/w/cornwall-wp/cornish-pasty-small.webp"
         },
         {
           "path": "_m/g/b/u/x/north-cornwall-wp/2006-07-08-port-isaac-cornwall.jpg",
@@ -817,7 +849,9 @@
             "Self-published work",
             "Taken with Canon EOS 350D",
             "Views of Port Isaac"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/x/north-cornwall-wp/2006-07-08-port-isaac-cornwall-medium.webp",
+          "smallPath": "_m/g/b/u/x/north-cornwall-wp/2006-07-08-port-isaac-cornwall-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/devonshire-tea.jpg",
@@ -840,7 +874,9 @@
             "Self-published work",
             "Taken with Canon Digital IXUS 75",
             "Tea sets"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/w/cornwall-wp/devonshire-tea-medium.webp",
+          "smallPath": "_m/g/b/u/w/cornwall-wp/devonshire-tea-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/cornish-fairings.jpg",
@@ -858,7 +894,8 @@
           "sourceGeohash4": "gbuw",
           "categories": [
             "Biscuits"
-          ]
+          ],
+          "smallPath": "_m/g/b/u/w/cornwall-wp/cornish-fairings-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/cornish-pasty-cropped.jpg",
@@ -873,7 +910,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cornish_Pasty_(cropped).jpeg",
           "sourceType": "poi",
           "sourceArticleId": "cornwall-wp",
-          "sourceGeohash4": "gbuw"
+          "sourceGeohash4": "gbuw",
+          "mediumPath": "_m/g/b/u/w/cornwall-wp/cornish-pasty-cropped-medium.webp",
+          "smallPath": "_m/g/b/u/w/cornwall-wp/cornish-pasty-cropped-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/cornwall-banner-porthtowan.jpg",
@@ -888,7 +927,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cornwall_banner_Porthtowan.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cornwall-wp",
-          "sourceGeohash4": "gbuw"
+          "sourceGeohash4": "gbuw",
+          "mediumPath": "_m/g/b/u/w/cornwall-wp/cornwall-banner-porthtowan-medium.webp",
+          "smallPath": "_m/g/b/u/w/cornwall-wp/cornwall-banner-porthtowan-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/clotted-cream-cropped.jpg",
@@ -903,7 +944,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clotted_cream_(cropped).JPG",
           "sourceType": "poi",
           "sourceArticleId": "cornwall-wp",
-          "sourceGeohash4": "gbuw"
+          "sourceGeohash4": "gbuw",
+          "smallPath": "_m/g/b/u/w/cornwall-wp/clotted-cream-cropped-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/cheesewringminions.jpg",
@@ -918,7 +960,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CheesewringMinions.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cornwall-wp",
-          "sourceGeohash4": "gbuw"
+          "sourceGeohash4": "gbuw",
+          "mediumPath": "_m/g/b/u/w/cornwall-wp/cheesewringminions-medium.webp",
+          "smallPath": "_m/g/b/u/w/cornwall-wp/cheesewringminions-small.webp"
         }
       ],
       "narration": [

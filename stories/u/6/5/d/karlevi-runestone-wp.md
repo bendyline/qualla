@@ -47,7 +47,7 @@ Located at 56.61N, 16.45E on the western coast of Oland island, Sweden, near the
   - Reverse has possible Christian cross and Thor's hammer
   - Fragmentary Latin inscription 'In nomine Iesu'
   - Memorial for Sibbi son of Foldar
-- [Wikipedia - Karlevi Runestone classification](https://en.wikipedia.org/wiki/Karlevi_Runestone)
+- [Wikipedia - Karlevi Runestone classification](https://en.wikipedia.org/?curid=8806097)
   - Classified as RAK style with straight band ends
   - Contemporary with Battle of Fyrisvellir c.984-985
 

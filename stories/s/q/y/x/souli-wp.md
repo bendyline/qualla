@@ -43,6 +43,21 @@ The Souli municipality centers on approximately 39.37°N, 20.63°E in the interi
 ## Sources
 
 - [Souli - Wikipedia](https://en.wikipedia.org/?curid=1777860)
+- [Wikipedia - Souliotes](https://en.wikipedia.org/wiki/Souliotes)
+  - Peak Souliote population estimated at ~12,000 in the second half of the 18th century (corrected from 'early 19th century' in original)
+  - Souliotes were Orthodox Christians who spoke Albanian
+  - Community resisted Ali Pasha's campaigns for decades
+- [Wikipedia - Souliote War (1803)](https://en.wikipedia.org/wiki/Souliote_War_(1803))
+  - Ali Pasha's forces prevailed in 1803 after campaigns from 1802-1803
+  - Souliotes capitulated December 12, 1803 and evacuated toward Parga
+  - Dance of Zalongo occurred December 16, 1803
+- [Wikipedia - Dance of Zalongo](https://en.wikipedia.org/wiki/Dance_of_Zalongo)
+  - Souliote women at Zalongo leaped to their deaths to avoid capture by Ottoman forces
+  - Event occurred December 16, 1803
+  - Story 'may be partly mythologized in its details' — consistent with article's careful framing
+- [Wikipedia - Christoforos Perraivos](https://en.wikipedia.org/wiki/Christoforos_Perraivos)
+  - Perraivos wrote 'History of Souli and Parga', first volume published 1803 in Paris
+  - He gathered first-hand information from Souliote refugee fighters
 
 ## Review Notes
 

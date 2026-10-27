@@ -1,6 +1,6 @@
 # American Samoa
 
-The only US territory south of the equator - where Pago Pago's dramatic harbor cuts into volcanic mountains, ancient Polynesian traditions trump constitutional norms, and one of America's least-visited national parks protects pristine Pacific ecosystems.
+The only inhabited US territory south of the equator - where Pago Pago's dramatic harbor cuts into volcanic mountains, ancient Polynesian traditions trump constitutional norms, and one of America's least-visited national parks protects pristine Pacific ecosystems.
 
 **Location:** -14.3000, -170.7000
 

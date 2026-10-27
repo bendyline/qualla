@@ -3,34 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/s/e/port-erin-wk/hero.jpg",
-        "filename": "Cosy Nook Cafe on Port Erin Beach.jpg",
-        "caption": "The Cosy Nook cafe on the western end of Port Erin beach. Port Erin, Isle of Man, British Isles, Europe.",
-        "alt": "The Cosy Nook cafe on the western end of Port Erin beach. Port Erin, Isle of Man, British Isles, Europe.",
+        "path": "_m/g/c/s/e/port-erin-wk/aspiring-mariners-geograph-org.jpg",
+        "filename": "Aspiring mariners - geograph.org.uk - 3104300.jpg",
+        "caption": "Aspiring mariners",
+        "alt": "Aspiring mariners",
         "width": 4608,
         "height": 3456,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Sunshineramsey71",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cosy_Nook_Cafe_on_Port_Erin_Beach.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Richard Hoare",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aspiring_mariners_-_geograph.org.uk_-_3104300.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "port-erin-wk",
         "sourceGeohash4": "gcse",
         "categories": [
-          "CC-BY-SA-4.0",
-          "Cafés on the Isle of Man",
-          "Files with coordinates missing SDC location of creation (54° N, 5° W)",
-          "Hospitality buildings in Port Erin",
-          "Isle of Man in the 2010s",
-          "On OSM",
-          "Port Erin Beach",
-          "Port Erin front range light",
-          "Self-published work"
-        ]
+          "CC-BY-SA-2.0",
+          "Images from Geograph Britain and Ireland",
+          "Port Erin"
+        ],
+        "mediumPath": "_m/g/c/s/e/port-erin-wk/aspiring-mariners-geograph-org-medium.webp",
+        "smallPath": "_m/g/c/s/e/port-erin-wk/aspiring-mariners-geograph-org-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/s/e/port-erin-wk/braddahead.jpg",
+          "path": "_m/g/c/s/e/port-erin-wp/braddahead.jpg",
           "filename": "Braddahead.jpg",
           "caption": "A Victorian engraving of Bradda Head, Isle of Man, British Isles.",
           "alt": "A Victorian engraving of Bradda Head, Isle of Man, British Isles.",
@@ -53,10 +49,10 @@
             "PD-old missing SDC copyright status",
             "W. H. J. Boot"
           ],
-          "smallPath": "_m/g/c/s/e/port-erin-wk/braddahead-small.webp"
+          "smallPath": "_m/g/c/s/e/port-erin-wp/braddahead-small.webp"
         },
         {
-          "path": "_m/g/c/s/e/port-erin-wk/port-erin-station-geograph-org.jpg",
+          "path": "_m/g/c/s/e/port-erin-wp/port-erin-station-geograph-org.jpg",
           "filename": "Port Erin station - geograph.org.uk - 1703196.jpg",
           "caption": "Port Erin station Deserted on a cold February morning.",
           "alt": "Port Erin station Deserted on a cold February morning.",
@@ -77,8 +73,8 @@
             "Port Erin railway station",
             "Taken with Fujifilm FinePix F40fd"
           ],
-          "mediumPath": "_m/g/c/s/e/port-erin-wk/port-erin-station-geograph-org-medium.webp",
-          "smallPath": "_m/g/c/s/e/port-erin-wk/port-erin-station-geograph-org-small.webp"
+          "mediumPath": "_m/g/c/s/e/port-erin-wp/port-erin-station-geograph-org-medium.webp",
+          "smallPath": "_m/g/c/s/e/port-erin-wp/port-erin-station-geograph-org-small.webp"
         },
         {
           "path": "_m/g/c/s/e/port-erin-wk/droghadfayle-road-port-erin-is.jpg",
@@ -501,7 +497,8 @@
             "Open air museums in the United Kingdom",
             "Self-published work",
             "Thatched cottages in the Isle of Man"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/cregneash-folk-museum-1988-small.webp"
         },
         {
           "path": "_m/g/c/s/e/port-st-mary-wp/cregneash-cowshed.jpg",
@@ -524,7 +521,9 @@
             "Files with coordinates missing SDC location of creation (54° N, 5° W)",
             "Self-published work",
             "Thatched cottages in the Isle of Man"
-          ]
+          ],
+          "mediumPath": "_m/g/c/s/e/port-st-mary-wp/cregneash-cowshed-medium.webp",
+          "smallPath": "_m/g/c/s/e/port-st-mary-wp/cregneash-cowshed-small.webp"
         },
         {
           "path": "_m/g/c/s/e/castle-rushen-wp/house-keys-castletown.jpg",
@@ -548,7 +547,8 @@
             "PD-self",
             "Parliament buildings on the Isle of Man",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/e/castle-rushen-wp/house-keys-castletown-small.webp"
         },
         {
           "path": "_m/g/c/s/e/castle-rushen-wp/castle-rushen-seen-acr.jpg",
@@ -575,7 +575,9 @@
             "Self-published work",
             "Taken with Canon Digital IXUS 500",
             "The Castle Arms, Castletown"
-          ]
+          ],
+          "mediumPath": "_m/g/c/s/e/castle-rushen-wp/castle-rushen-seen-acr-medium.webp",
+          "smallPath": "_m/g/c/s/e/castle-rushen-wp/castle-rushen-seen-acr-small.webp"
         },
         {
           "path": "_m/g/c/s/e/castletown-wk/castletown-castle-rushen-panor.jpg",
@@ -597,7 +599,9 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Rushen Castle"
-          ]
+          ],
+          "mediumPath": "_m/g/c/s/e/castletown-wk/castletown-castle-rushen-panor-medium.webp",
+          "smallPath": "_m/g/c/s/e/castletown-wk/castletown-castle-rushen-panor-small.webp"
         },
         {
           "path": "_m/g/c/s/e/castletown-wk/castletown-buildings-along-bri.jpg",
@@ -617,7 +621,9 @@
             "CC-BY-SA-2.5",
             "Derivative versions",
             "Wikivoyage banners of the United Kingdom"
-          ]
+          ],
+          "mediumPath": "_m/g/c/s/e/castletown-wk/castletown-buildings-along-bri-medium.webp",
+          "smallPath": "_m/g/c/s/e/castletown-wk/castletown-buildings-along-bri-small.webp"
         },
         {
           "path": "_m/g/c/s/e/castletown-wk/old-grammar-school-castletown.jpg",
@@ -638,7 +644,9 @@
             "Files with coordinates missing SDC location of creation (54° N, 5° W)",
             "Old Grammar School, Castletown",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/s/e/castletown-wk/old-grammar-school-castletown-medium.webp",
+          "smallPath": "_m/g/c/s/e/castletown-wk/old-grammar-school-castletown-small.webp"
         },
         {
           "path": "_m/g/c/s/u/douglas-isle-of-man-wp/man-douglas-02.jpg",
@@ -662,7 +670,8 @@
             "Photographs taken on 2002-09-10",
             "Self-published work",
             "Taken with Fujifilm FinePix A201"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/douglas-isle-of-man-wp/man-douglas-02-small.webp"
         },
         {
           "path": "_m/g/c/s/u/douglas-isle-of-man-wp/man-douglas-04.jpg",
@@ -687,7 +696,8 @@
             "Photographs taken on 2002-09-10",
             "Self-published work",
             "Taken with Fujifilm FinePix A201"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/douglas-isle-of-man-wp/man-douglas-04-small.webp"
         },
         {
           "path": "_m/g/c/s/u/douglas-isle-of-man-wp/isleofmandouglasbay-cropped.jpg",
@@ -702,7 +712,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:IsleOfManDouglasBay_Cropped.jpg",
           "sourceType": "poi",
           "sourceArticleId": "douglas-isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/u/douglas-isle-of-man-wp/isleofmandouglasbay-cropped-medium.webp",
+          "smallPath": "_m/g/c/s/u/douglas-isle-of-man-wp/isleofmandouglasbay-cropped-small.webp"
         },
         {
           "path": "_m/g/c/s/u/douglas-isle-of-man-wp/the-tower-of-refuge-douglas-ba.jpg",
@@ -717,7 +729,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Tower_of_Refuge,_Douglas_Bay_-_geograph.org.uk_-_2390954.jpg",
           "sourceType": "poi",
           "sourceArticleId": "douglas-isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "smallPath": "_m/g/c/s/u/douglas-isle-of-man-wp/the-tower-of-refuge-douglas-ba-small.webp"
         },
         {
           "path": "_m/g/c/s/u/douglas-isle-of-man-wp/isle-of-man-government-offices.jpg",
@@ -732,7 +745,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isle_of_Man_Government_Offices_-_geograph.org.uk_-_2737180.jpg",
           "sourceType": "poi",
           "sourceArticleId": "douglas-isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "smallPath": "_m/g/c/s/u/douglas-isle-of-man-wp/isle-of-man-government-offices-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/laxey-wheel-1.jpg",
@@ -756,7 +770,8 @@
             "Photographs taken on 2005-07-31",
             "Self-published work",
             "Taken with Fujifilm FinePix A205"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/laxey-wheel-1-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/peel-isle-of-man.jpg",
@@ -779,7 +794,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Information field template with formatting",
             "Taken with Canon Digital IXUS 330"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/peel-isle-of-man-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/snaefell.jpg",
@@ -800,7 +816,8 @@
             "Self-published work",
             "Snaefell",
             "Taken with Canon PowerShot S3 IS"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/snaefell-small.webp"
         },
         {
           "path": "_m/g/c/s/e/castle-rushen-wp/hero.jpg",
@@ -815,7 +832,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle_Rushen.jpg",
           "sourceType": "poi",
           "sourceArticleId": "castle-rushen-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/e/castle-rushen-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/s/e/castle-rushen-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22.jpg",
@@ -830,7 +849,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doolish_2013_22.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22-medium.webp",
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812.jpg",
@@ -845,7 +866,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jurby_Busses_(28134100812).jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812-medium.webp",
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812-small.webp"
         }
       ],
       "narration": [

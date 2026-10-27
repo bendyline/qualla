@@ -3,27 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/m/n/bangor-wales-wk/hero.jpg",
-        "filename": "University from Bangor Mountain.JPG",
-        "alt": "University from Bangor Mountain.JPG",
-        "width": 1275,
-        "height": 750,
+        "path": "_m/g/c/m/n/bangor-wales-wk/bangor-cathedral-bango.jpg",
+        "filename": "Bangor Cathedral from Bangor Mountain.jpg",
+        "alt": "Bangor Cathedral from Bangor Mountain.jpg",
+        "width": 1087,
+        "height": 774,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:University_from_Bangor_Mountain.JPG",
+        "license": "CC BY-SA 2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangor_Cathedral_from_Bangor_Mountain.jpg",
         "sourceType": "core",
         "sourceArticleId": "bangor-wales-wk",
         "sourceGeohash4": "gcmn",
         "categories": [
-          "Bangor University, main building",
+          "Bangor Cathedral",
+          "CC-BY-SA-2.5",
           "Files with no machine-readable author",
           "Files with no machine-readable source",
           "Listed buildings in Wales with known IDs",
           "Media missing infobox template",
-          "PD-self",
-          "Self-published work",
           "Taken with Pentax Optio 555"
-        ]
+        ],
+        "smallPath": "_m/g/c/m/n/bangor-wales-wk/bangor-cathedral-bango-small.webp"
       },
       "images": [
         {
@@ -50,7 +50,7 @@
           "smallPath": "_m/g/c/m/n/bangor-wales-wk/bangor-cathedral-bango-small.webp"
         },
         {
-          "path": "_m/g/c/m/n/bangor-wales-wk/photograph-bangor-cath-3.jpg",
+          "path": "_m/g/c/m/n/bangor-cathedral-wp/photograph-bangor-cath-3.jpg",
           "filename": "BangorCathedral EastEnd.JPG",
           "caption": "Photograph of Bangor Cathedral, Wales - East End and Tower",
           "alt": "Photograph of Bangor Cathedral, Wales - East End and Tower",
@@ -68,7 +68,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Sony DSC-W200"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/n/bangor-cathedral-wp/photograph-bangor-cath-3-medium.webp",
+          "smallPath": "_m/g/c/m/n/bangor-cathedral-wp/photograph-bangor-cath-3-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-gwynedd-wp/map-bangor-1947-scale.png",
@@ -92,7 +94,8 @@
             "Old maps of cities in Wales",
             "Public domain Ordnance Survey images",
             "UK Government artistic works"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/n/bangor-gwynedd-wp/map-bangor-1947-scale-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-gwynedd-wp/city-bangor-caernarvon.jpg",
@@ -113,7 +116,8 @@
             "Artworks with Wikidata item",
             "Artworks with Wikidata item missing genre",
             "Artworks with accession number from Wikidata"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/n/bangor-gwynedd-wp/city-bangor-caernarvon-small.webp"
         },
         {
           "path": "_m/g/c/m/n/menai-suspension-bridge-wp/plan-view-chain-bridge.jpg",
@@ -127,7 +131,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_plan_%26_view_of_a_chain_bridge_-_erecting_over_the_menai_at_Bangor_Ferry_1820.jpeg",
           "sourceType": "sibling",
           "sourceArticleId": "menai-suspension-bridge-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "smallPath": "_m/g/c/m/n/menai-suspension-bridge-wp/plan-view-chain-bridge-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-gwynedd-wp/2018-fifa-world-cup-qu.jpg",
@@ -142,7 +147,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:AUT_vs._WAL_2016-10-06_(108).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bangor-gwynedd-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "mediumPath": "_m/g/c/m/n/bangor-gwynedd-wp/2018-fifa-world-cup-qu-medium.webp",
+          "smallPath": "_m/g/c/m/n/bangor-gwynedd-wp/2018-fifa-world-cup-qu-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-gwynedd-wp/hero.jpg",
@@ -157,7 +164,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plas_yr_Esgob_(Bangor,_Gwynedd).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bangor-gwynedd-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "mediumPath": "_m/g/c/m/n/bangor-gwynedd-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/m/n/bangor-gwynedd-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/bangor-pier-35388296725.jpg",
@@ -172,7 +181,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangor_Pier_(35388296725).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/bangor-pier-35388296725-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/bangor-pier-35388296725-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-gwynedd-wp/penrhyn-hall-bangor.jpg",
@@ -187,7 +198,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Penrhyn_Hall,_Bangor_-_geograph.org.uk_-_2641704.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bangor-gwynedd-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "mediumPath": "_m/g/c/m/n/bangor-gwynedd-wp/penrhyn-hall-bangor-medium.webp",
+          "smallPath": "_m/g/c/m/n/bangor-gwynedd-wp/penrhyn-hall-bangor-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-gwynedd-wp/view-bangor-pier.jpg",
@@ -202,7 +215,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_View_of_Bangor_Pier_from_the_other_side_of_the_Menai_Straits_-_2_October_2020.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bangor-gwynedd-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "mediumPath": "_m/g/c/m/n/bangor-gwynedd-wp/view-bangor-pier-medium.webp",
+          "smallPath": "_m/g/c/m/n/bangor-gwynedd-wp/view-bangor-pier-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-gwynedd-wp/view-pontio-arts-innov.jpg",
@@ -217,7 +232,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_of_Bangor_Pontio_Arts_and_Innovation_Centre_in_a_Sunny_Day.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bangor-gwynedd-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "smallPath": "_m/g/c/m/n/bangor-gwynedd-wp/view-pontio-arts-innov-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-gwynedd-wp/taken-porth-penrhyn-lo.jpg",
@@ -232,7 +248,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangor_(49132325086).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bangor-gwynedd-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "mediumPath": "_m/g/c/m/n/bangor-gwynedd-wp/taken-porth-penrhyn-lo-medium.webp",
+          "smallPath": "_m/g/c/m/n/bangor-gwynedd-wp/taken-porth-penrhyn-lo-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-gwynedd-wp/bangor-cathedral.jpg",
@@ -247,7 +265,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangor_Cathedral_-_geograph.org.uk_-_7551602.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bangor-gwynedd-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "mediumPath": "_m/g/c/m/n/bangor-gwynedd-wp/bangor-cathedral-medium.webp",
+          "smallPath": "_m/g/c/m/n/bangor-gwynedd-wp/bangor-cathedral-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-university-wp/entrance-ffriddoedd-ha.jpg",
@@ -271,7 +291,9 @@
             "September 2007 in Wales",
             "Taken with Sony DSC-T30",
             "United Kingdom photographs taken on 2007-09-01"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/n/bangor-university-wp/entrance-ffriddoedd-ha-medium.webp",
+          "smallPath": "_m/g/c/m/n/bangor-university-wp/entrance-ffriddoedd-ha-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-university-wp/stefan-rahmstorf-potsd.jpg",
@@ -286,7 +308,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prof._Stefan_Rahmstorf.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bangor-university-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "mediumPath": "_m/g/c/m/n/bangor-university-wp/stefan-rahmstorf-potsd-medium.webp",
+          "smallPath": "_m/g/c/m/n/bangor-university-wp/stefan-rahmstorf-potsd-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-university-wp/tom-parry-jones.jpg",
@@ -301,7 +325,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_-gt.jones.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bangor-university-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "smallPath": "_m/g/c/m/n/bangor-university-wp/tom-parry-jones-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-university-wp/general-vire-penrhyn-a.jpg",
@@ -316,7 +341,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Penrhyn_Arms,_Bangor.jpeg",
           "sourceType": "sibling",
           "sourceArticleId": "bangor-university-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "smallPath": "_m/g/c/m/n/bangor-university-wp/general-vire-penrhyn-a-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-gwynedd-wp/a-view-from-the-brambell-build.jpg",
@@ -331,7 +357,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_from_the_Brambell_building_-_geograph.org.uk_-_2264549.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bangor-gwynedd-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "smallPath": "_m/g/c/m/n/bangor-gwynedd-wp/a-view-from-the-brambell-build-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-university-wp/north-wales-university.jpg",
@@ -346,7 +373,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wythnos_Rag_Coleg_Prifysgol_Gogledd_Cymru,_Bangor_(1452682).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bangor-university-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "smallPath": "_m/g/c/m/n/bangor-university-wp/north-wales-university-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-university-wp/main-arts-library-quad.webp",
@@ -361,7 +389,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_Arts_library_quadrangle,_Bangor_University.webp",
           "sourceType": "sibling",
           "sourceArticleId": "bangor-university-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "smallPath": "_m/g/c/m/n/bangor-university-wp/main-arts-library-quad-small.webp"
         },
         {
           "path": "_m/g/c/m/n/bangor-university-wp/school-welsh-bangor-un.webp",
@@ -376,7 +405,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:School_of_Welsh,_Bangor_University.webp",
           "sourceType": "sibling",
           "sourceArticleId": "bangor-university-wp",
-          "sourceGeohash4": "gcmn"
+          "sourceGeohash4": "gcmn",
+          "smallPath": "_m/g/c/m/n/bangor-university-wp/school-welsh-bangor-un-small.webp"
         },
         {
           "path": "_m/g/c/m/n/llanberis-wp/welsh-slate-museum-llanberis.jpg",
@@ -398,7 +428,9 @@
             "License migration completed",
             "Media missing infobox template",
             "National Slate Museum"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/n/llanberis-wp/welsh-slate-museum-llanberis-medium.webp",
+          "smallPath": "_m/g/c/m/n/llanberis-wp/welsh-slate-museum-llanberis-small.webp"
         },
         {
           "path": "_m/g/c/m/k/snowdonia-wp/clogwyn-station-with-steam-tra.jpg",
@@ -424,7 +456,9 @@
             "Valued images of Wales",
             "Valued images promoted 2016-08",
             "Valued images sorted by promotion date"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/k/snowdonia-wp/clogwyn-station-with-steam-tra-medium.webp",
+          "smallPath": "_m/g/c/m/k/snowdonia-wp/clogwyn-station-with-steam-tra-small.webp"
         },
         {
           "path": "_m/tpc/sn/ow/do/n_/snowdon/lake-railway-llanberis.jpg",
@@ -451,7 +485,8 @@
             "License migration completed",
             "Llanberis (LLR) railway station",
             "United Kingdom photographs taken on 2004-06-16"
-          ]
+          ],
+          "smallPath": "_m/tpc/sn/ow/do/n_/snowdon/lake-railway-llanberis-small.webp"
         },
         {
           "path": "_m/g/c/m/n/llanberis-wp/pete-s-eats-cafe-in-llanberis-.jpg",
@@ -474,7 +509,9 @@
             "Pete's Eats Cafe",
             "Self-published work",
             "Taken with Nikon Coolpix 5700"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/n/llanberis-wp/pete-s-eats-cafe-in-llanberis--medium.webp",
+          "smallPath": "_m/g/c/m/n/llanberis-wp/pete-s-eats-cafe-in-llanberis--small.webp"
         },
         {
           "path": "_m/g/c/k/x/holyhead-wp/holyhead-ferry-beaumaris.jpg",
@@ -496,7 +533,9 @@
             "Files by Wikivoyage user (not yet sorted)",
             "Files from Wikivoyage wts",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/k/x/holyhead-wp/holyhead-ferry-beaumaris-medium.webp",
+          "smallPath": "_m/g/c/k/x/holyhead-wp/holyhead-ferry-beaumaris-small.webp"
         },
         {
           "path": "_m/g/c/k/x/holyhead-wp/holyheadmuseumandharbour.jpg",
@@ -522,7 +561,8 @@
             "On OSM",
             "Self-published work",
             "Taken with Sony Ericsson C902"
-          ]
+          ],
+          "smallPath": "_m/g/c/k/x/holyhead-wp/holyheadmuseumandharbour-small.webp"
         },
         {
           "path": "_m/g/c/k/x/holyhead-wp/holyhead-banner.jpg",
@@ -556,7 +596,9 @@
             "Taken with Canon PowerShot G11",
             "Wikivoyage banners by SelfieCity",
             "Wikivoyage banners of Wales"
-          ]
+          ],
+          "mediumPath": "_m/g/c/k/x/holyhead-wp/holyhead-banner-medium.webp",
+          "smallPath": "_m/g/c/k/x/holyhead-wp/holyhead-banner-small.webp"
         },
         {
           "path": "_m/g/c/k/x/holyhead-wp/marine-square-holyhead-geograp.jpg",
@@ -576,7 +618,8 @@
             "CC-BY-SA-2.0",
             "Holyhead",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/k/x/holyhead-wp/marine-square-holyhead-geograp-small.webp"
         },
         {
           "path": "_m/g/c/k/x/holyhead-wp/holyhead-railway-station-2024-.jpg",
@@ -594,7 +637,9 @@
           "sourceGeohash4": "gckx",
           "categories": [
             "CC-BY-SA-4.0"
-          ]
+          ],
+          "mediumPath": "_m/g/c/k/x/holyhead-wp/holyhead-railway-station-2024--medium.webp",
+          "smallPath": "_m/g/c/k/x/holyhead-wp/holyhead-railway-station-2024--small.webp"
         }
       ],
       "narration": [

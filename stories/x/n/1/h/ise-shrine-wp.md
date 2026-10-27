@@ -33,7 +33,7 @@ Located at 34.455N, 136.726E in Ise City, Mie Prefecture, on the eastern coast o
 ## Sources
 
 - [Ise Shrine - Wikipedia](https://en.wikipedia.org/?curid=579053)
-- [Wikipedia - Ise Grand Shrine](https://en.wikipedia.org/wiki/Ise_Grand_Shrine)
+- [Wikipedia - Ise Grand Shrine](https://en.wikipedia.org/?curid=579053)
   - Shikinen Sengu 20-year rebuilding cycle - confirmed
   - Next rebuilding scheduled for 2033 - confirmed (63rd iteration)
   - 125 individual shrines in the complex - confirmed

@@ -33,7 +33,7 @@ Enoshima sits at 35.30N, 139.48E, a small but distinct island visible at the mou
 ## Sources
 
 - [Enoshima - Wikipedia](https://en.wikipedia.org/?curid=309686)
-- [Enoshima - Wikipedia](https://en.wikipedia.org/wiki/Enoshima)
+- [Enoshima - Wikipedia](https://en.wikipedia.org/?curid=309686)
   - Island approximately 4 km in circumference confirmed
   - Located at mouth of Katase River on Sagami Bay confirmed
   - Connected to Fujisawa by pedestrian bridge (389 meters) confirmed

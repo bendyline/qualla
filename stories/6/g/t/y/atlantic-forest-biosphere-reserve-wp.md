@@ -33,7 +33,7 @@ The Atlantic Forest Biosphere Reserve stretches along nearly the entire Brazilia
 ## Sources
 
 - [Atlantic Forest Biosphere Reserve - Wikipedia](https://en.wikipedia.org/?curid=51681330)
-- [Atlantic Forest Biosphere Reserve - Wikipedia / UNESCO](https://en.wikipedia.org/wiki/Atlantic_Forest_Biosphere_Reserve)
+- [Atlantic Forest Biosphere Reserve - Wikipedia / UNESCO](https://en.wikipedia.org/?curid=51681330)
   - 93% of Atlantic Forest lost confirmed
   - 171 of 202 threatened Brazilian species in reserve confirmed
   - Total area ~29.5 million hectares (2011 UNESCO figure) confirmed

@@ -28,7 +28,7 @@ In 2008, President George W. Bush signed the Jupiter Inlet Lighthouse Outstandin
 
 ## Flight Context
 
-Located at 26.95°N, 80.08°W on the north side of Jupiter Inlet where the Loxahatchee River meets the Intracoastal Waterway. The red-painted 105-foot tower on its elevated sand dune is visible from considerable distance and altitude. Best viewed at 1,500-3,000 feet AGL approaching from the east over the Atlantic. The lighthouse sits between Cape Canaveral Light to the north and Hillsboro Inlet Light to the south. Palm Beach International Airport (KPBI) is approximately 15 nm to the south. North Palm Beach County General Aviation Airport (F45) is closer at roughly 5 nm west. Jupiter Inlet, the Intracoastal Waterway, and the barrier island coastline provide clear visual reference points.
+Located at 26.95°N, 80.08°W on the north side of Jupiter Inlet where the Loxahatchee River meets the Intracoastal Waterway. The red-painted 105-foot tower on its elevated sand dune is visible from considerable distance and altitude. Best viewed at 1,500-3,000 feet AGL approaching from the east over the Atlantic. The lighthouse sits between Cape Canaveral Light to the north and Hillsboro Inlet Light to the south. President Donald J. Trump International Airport (KDJT, formerly Palm Beach International, KPBI) is approximately 15 nm to the south. North Palm Beach County General Aviation Airport (F45) is closer at roughly 5 nm west. Jupiter Inlet, the Intracoastal Waterway, and the barrier island coastline provide clear visual reference points.
 
 ## Sources
 

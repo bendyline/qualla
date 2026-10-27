@@ -32,7 +32,7 @@ In 1973, Historic Madison, a Jefferson County preservation group, received the s
 
 ## Flight Context
 
-Located at 38.831N, 85.516W in the hills of southern Indiana, northwest of Madison. The college sits atop College Hill in the unincorporated community of Lancaster, Jefferson County. From altitude, look for the rural landscape of rolling Indiana hills between Madison and the Ohio River valley. The three-story stone building is small but distinctive on its hilltop. Madison Municipal Airport (KIMS) is approximately 8nm southeast. Clark Regional Airport (KJVY) in Jeffersonville is about 25nm southwest. Louisville Muhammad Ali International (KSDF) is approximately 35nm southwest across the Ohio River. Typical Midwest weather patterns with good VFR conditions in summer.
+Located at 38.831N, 85.516W in the hills of southern Indiana, northwest of Madison. The college sits atop College Hill in the unincorporated community of Lancaster, Jefferson County. From altitude, look for the rural landscape of rolling Indiana hills between Madison and the Ohio River valley. The three-story stone building is small but distinctive on its hilltop. Madison Regional Airport (KIMS, formerly Madison Municipal) is approximately 8nm southeast. Clark Regional Airport (KJVY) in Jeffersonville is about 25nm southwest. Louisville Muhammad Ali International (KSDF) is approximately 35nm southwest across the Ohio River. Typical Midwest weather patterns with good VFR conditions in summer.
 
 ## Sources
 

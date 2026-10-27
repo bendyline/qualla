@@ -3,26 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/q/y/x/acheron-wp/hero.jpg",
-        "filename": "Acheron river 2.jpg",
-        "caption": "w:Acheron river near the village of Glyki (Gliki) in May 2005.",
-        "alt": "w:Acheron river near the village of Glyki (Gliki) in May 2005.",
-        "width": 2048,
-        "height": 1536,
+        "path": "_m/s/q/y/x/acheron-wp/acheron-01.jpg",
+        "filename": "Acheron 01.jpg",
+        "caption": "Ο Αχέρων ποταμός στο τμήμα Νο 6",
+        "alt": "Ο Αχέρων ποταμός στο τμήμα Νο 6",
+        "width": 6016,
+        "height": 4040,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.5",
-        "artist": "Samuli Lintula",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Acheron_river_2.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "The original uploader was Harrygouvas at Greek Wikipedia.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Acheron_01.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "acheron-wp",
         "sourceGeohash4": "sqyx",
-        "categories": [
-          "Acheron",
-          "CC-BY-2.5",
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "License migration completed"
-        ]
+        "mediumPath": "_m/s/q/y/x/acheron-wp/acheron-01-medium.webp",
+        "smallPath": "_m/s/q/y/x/acheron-wp/acheron-01-small.webp"
       },
       "images": [
         {
@@ -54,7 +49,7 @@
           "smallPath": "_m/s/q/y/x/acheron-wp/baileybridge-acheron-r-small.webp"
         },
         {
-          "path": "_m/s/q/y/x/acheron-wp/pygmalion-suspicious-w.jpg",
+          "path": "_m/s/q/x/m/alpheus-deity-wp/pygmalion-suspicious-w.jpg",
           "filename": "Pygmalion (Raoux).jpg",
           "caption": "Pygmalion was suspicious of women, and remained unmarried. He made a statue and fell in love with it. He begs Venus to bring his ivory creation into life. Galatea later becomes Pygmalion's wife.",
           "alt": "Pygmalion was suspicious of women, and remained unmarried. He made a statue and fell in love with it. He begs Venus to bring his ivory creation into life. Galatea later becomes Pygmalion's wife.",
@@ -89,7 +84,8 @@
             "Paintings by Jean Raoux",
             "Pygmalion and Galatea in paintings",
             "Taken with Canon EOS-1Ds Mark II"
-          ]
+          ],
+          "smallPath": "_m/s/q/x/m/alpheus-deity-wp/pygmalion-suspicious-w-small.webp"
         },
         {
           "path": "_m/s/q/y/x/acheron-wp/gustave-dore-s-illustr.jpg",
@@ -164,7 +160,7 @@
           "smallPath": "_m/s/q/y/x/acheron-wp/acheron-river-greece-1-small.webp"
         },
         {
-          "path": "_m/s/q/y/x/acheron-wp/neueroffneter-musen-te.jpg",
+          "path": "_m/s/q/x/m/alpheus-deity-wp/neueroffneter-musen-te.jpg",
           "filename": "Io changed into a cow, Mercury cuts of Argus's head.jpg",
           "caption": "From Neueröffneter Musen-Tempel by Bernard Picart, 1733",
           "alt": "From Neueröffneter Musen-Tempel by Bernard Picart, 1733",
@@ -176,7 +172,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Io_changed_into_a_cow,_Mercury_cuts_of_Argus%27s_head.jpg",
           "sourceType": "core",
           "sourceArticleId": "acheron-wp",
-          "sourceGeohash4": "sqyx"
+          "sourceGeohash4": "sqyx",
+          "smallPath": "_m/s/q/x/m/alpheus-deity-wp/neueroffneter-musen-te-small.webp"
         },
         {
           "path": "_m/s/q/y/x/acheron-wp/illustrations-dante-s.jpg",
@@ -213,7 +210,7 @@
           "smallPath": "_m/s/q/y/x/acheron-wp/one-original-prints-sc-small.webp"
         },
         {
-          "path": "_m/s/q/y/x/acheron-wp/apollo-daphne-bernini.jpg",
+          "path": "_m/s/q/x/m/alpheus-deity-wp/apollo-daphne-bernini.jpg",
           "filename": "Apollo and Daphne (Bernini).jpg",
           "caption": "Apollo and Daphne (Bernini)",
           "alt": "Apollo and Daphne (Bernini)",
@@ -225,7 +222,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apollo_and_Daphne_(Bernini).jpg",
           "sourceType": "core",
           "sourceArticleId": "acheron-wp",
-          "sourceGeohash4": "sqyx"
+          "sourceGeohash4": "sqyx",
+          "mediumPath": "_m/s/q/x/m/alpheus-deity-wp/apollo-daphne-bernini-medium.webp",
+          "smallPath": "_m/s/q/x/m/alpheus-deity-wp/apollo-daphne-bernini-small.webp"
         },
         {
           "path": "_m/s/q/y/x/acheron-wp/hay-1899-plate-6-figur.jpg",
@@ -653,7 +652,9 @@
             "Self-published work",
             "Uploaded via Campaign:wlm-gr",
             "WLM 2017 in Greece image uploaded on 09-20"
-          ]
+          ],
+          "mediumPath": "_m/s/q/y/x/acheron-gorge-wk/image-1-medium.webp",
+          "smallPath": "_m/s/q/y/x/acheron-gorge-wk/image-1-small.webp"
         },
         {
           "path": "_m/s/q/y/x/acheron-gorge-wk/pandosia.jpg",
@@ -672,7 +673,9 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Pandosia (Epirus)"
-          ]
+          ],
+          "mediumPath": "_m/s/q/y/x/acheron-gorge-wk/pandosia-medium.webp",
+          "smallPath": "_m/s/q/y/x/acheron-gorge-wk/pandosia-small.webp"
         },
         {
           "path": "_m/s/q/y/x/acheron-gorge-wk/acheron-springs-preveza-greece.jpg",
@@ -701,7 +704,9 @@
             "Self-published work",
             "Uploaded via Campaign:wle-gr",
             "WLE 2019 in Greece image uploaded on 05-04"
-          ]
+          ],
+          "mediumPath": "_m/s/q/y/x/acheron-gorge-wk/acheron-springs-preveza-greece-medium.webp",
+          "smallPath": "_m/s/q/y/x/acheron-gorge-wk/acheron-springs-preveza-greece-small.webp"
         },
         {
           "path": "_m/s/q/y/x/acheron-gorge-wk/image-4.jpg",
@@ -722,7 +727,9 @@
             "Castles in Greece",
             "Self-published work",
             "Souli"
-          ]
+          ],
+          "mediumPath": "_m/s/q/y/x/acheron-gorge-wk/image-4-medium.webp",
+          "smallPath": "_m/s/q/y/x/acheron-gorge-wk/image-4-small.webp"
         },
         {
           "path": "_m/s/q/y/x/parga-wp/parga-with-island.jpg",
@@ -750,7 +757,9 @@
             "Ships in Parga",
             "Taken with Olympus u10D / S-300D / u300D",
             "Views of Parga (town)"
-          ]
+          ],
+          "mediumPath": "_m/s/q/y/x/parga-wp/parga-with-island-medium.webp",
+          "smallPath": "_m/s/q/y/x/parga-wp/parga-with-island-small.webp"
         },
         {
           "path": "_m/u/2/1/c/istria-wp/pula-aerial-view.jpg",
@@ -786,7 +795,8 @@
             "Valued images missing SDC inception",
             "Valued images missing SDC source of file",
             "Valued images of Croatia"
-          ]
+          ],
+          "smallPath": "_m/u/2/1/c/istria-wp/pula-aerial-view-small.webp"
         },
         {
           "path": "_m/tpc/gr/ee/k-/my/greek-mythology/viennaetemplum.jpg",
@@ -811,7 +821,9 @@
             "Taken with Panasonic Lumix DMC-FX9",
             "Temple of Augustus and Livia (Vienne)",
             "Uploads by User:Abderitestatos"
-          ]
+          ],
+          "mediumPath": "_m/tpc/gr/ee/k-/my/greek-mythology/viennaetemplum-medium.webp",
+          "smallPath": "_m/tpc/gr/ee/k-/my/greek-mythology/viennaetemplum-small.webp"
         },
         {
           "path": "_m/s/r/3/n/lazio-wp/rome-skyline-8012016319.jpg",
@@ -835,7 +847,9 @@
             "Taken with Sony SLT-A77",
             "Views of Rome from Castel Sant'Angelo",
             "Views of Vittoriano from Castel Sant'Angelo (Rome)"
-          ]
+          ],
+          "mediumPath": "_m/s/r/3/n/lazio-wp/rome-skyline-8012016319-medium.webp",
+          "smallPath": "_m/s/r/3/n/lazio-wp/rome-skyline-8012016319-small.webp"
         },
         {
           "path": "_m/s/w/8/z/athens-wk/view-philopappos-hill.jpg",
@@ -864,7 +878,9 @@
             "Images with annotations",
             "July 2013 in Athens",
             "Klippe (geology)"
-          ]
+          ],
+          "mediumPath": "_m/s/w/8/z/athens-wk/view-philopappos-hill-medium.webp",
+          "smallPath": "_m/s/w/8/z/athens-wk/view-philopappos-hill-small.webp"
         },
         {
           "path": "_m/tpc/gr/ee/k-/my/greek-mythology/cumae-acropolis-seen-from-lowe.jpg",
@@ -879,7 +895,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cumae_acropolis_seen_from_lower_city_AvL.JPG",
           "sourceType": "poi",
           "sourceArticleId": "greek-mythology",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/gr/ee/k-/my/greek-mythology/cumae-acropolis-seen-from-lowe-medium.webp",
+          "smallPath": "_m/tpc/gr/ee/k-/my/greek-mythology/cumae-acropolis-seen-from-lowe-small.webp"
         },
         {
           "path": "_m/tpc/gr/ee/k-/my/greek-mythology/pompeii-4873744179.jpg",
@@ -894,7 +912,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pompeii_(4873744179).jpg",
           "sourceType": "poi",
           "sourceArticleId": "greek-mythology",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/gr/ee/k-/my/greek-mythology/pompeii-4873744179-medium.webp",
+          "smallPath": "_m/tpc/gr/ee/k-/my/greek-mythology/pompeii-4873744179-small.webp"
         },
         {
           "path": "_m/u/2/4/t/slovenia-wp/2021-07-28-ljubljana-0881.jpg",
@@ -909,7 +929,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2021-07-28_Ljubljana-0881.jpg",
           "sourceType": "poi",
           "sourceArticleId": "slovenia-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/u/2/4/t/slovenia-wp/2021-07-28-ljubljana-0881-medium.webp",
+          "smallPath": "_m/u/2/4/t/slovenia-wp/2021-07-28-ljubljana-0881-small.webp"
         }
       ],
       "narration": [

@@ -3,28 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/x/m/q/manaus-wk/hero.jpg",
-        "filename": "Panorama da Praia Ponta Negra.jpg",
-        "caption": "Panorama da Praia da Ponta Negra em Manaus - Brasil",
-        "alt": "Panorama da Praia da Ponta Negra em Manaus - Brasil",
-        "width": 2406,
-        "height": 656,
+        "path": "_m/6/x/m/q/manaus-wk/catedral-metropolitana-de-mana.jpg",
+        "filename": "CATEDRAL METROPOLITANA DE MANAUS.jpg",
+        "caption": "Centro Histórico de Manaus, capital do Estado do Amazonas",
+        "alt": "Centro Histórico de Manaus, capital do Estado do Amazonas",
+        "width": 4730,
+        "height": 2073,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "Naldo Arruda",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_da_Praia_Ponta_Negra.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Periclesd",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:CATEDRAL_METROPOLITANA_DE_MANAUS.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "manaus-wk",
         "sourceGeohash4": "6xmq",
         "categories": [
-          "CC-BY-2.0",
-          "Flickr images reviewed by FlickreviewR",
-          "Praia da Ponta Negra (Manaus)"
-        ]
+          "CC-BY-SA-4.0",
+          "Extracted images",
+          "Manaus"
+        ],
+        "mediumPath": "_m/6/x/m/q/manaus-wk/catedral-metropolitana-de-mana-medium.webp",
+        "smallPath": "_m/6/x/m/q/manaus-wk/catedral-metropolitana-de-mana-small.webp"
       },
       "images": [
         {
-          "path": "_m/6/x/m/q/manaus-wk/palacio-rio-negro-manaus-1.jpg",
+          "path": "_m/6/x/m/q/manaus-wp/palacio-rio-negro-manaus-1.jpg",
           "filename": "Palácio Rio Negro, Manaus 1.jpg",
           "caption": "Centro Cultural Palácio Rio Negro, Manaus — Patrimônio histórico do Brasil.",
           "alt": "Centro Cultural Palácio Rio Negro, Manaus — Patrimônio histórico do Brasil.",
@@ -45,10 +47,10 @@
             "Photos from Panoramio",
             "Taken with Sony DSC-T200"
           ],
-          "smallPath": "_m/6/x/m/q/manaus-wk/palacio-rio-negro-manaus-1-small.webp"
+          "smallPath": "_m/6/x/m/q/manaus-wp/palacio-rio-negro-manaus-1-small.webp"
         },
         {
-          "path": "_m/6/x/m/q/manaus-wk/vista-aerea-da-ponte-sobre-o-r.jpg",
+          "path": "_m/6/x/m/q/manaus-wp/vista-aerea-da-ponte-sobre-o-r.jpg",
           "filename": "Vista aérea da ponte sobre o rio Negro que liga Manaus a Iranduba.jpg",
           "caption": "Paricatuba e Iranduba, 26/09/2012\n\nFoto: Tereza Sobreira",
           "alt": "Paricatuba e Iranduba, 26/09/2012\n\nFoto: Tereza Sobreira",
@@ -69,10 +71,10 @@
             "Ponte Rio Negro",
             "Taken with Nikon D3"
           ],
-          "smallPath": "_m/6/x/m/q/manaus-wk/vista-aerea-da-ponte-sobre-o-r-small.webp"
+          "smallPath": "_m/6/x/m/q/manaus-wp/vista-aerea-da-ponte-sobre-o-r-small.webp"
         },
         {
-          "path": "_m/6/x/m/q/manaus-wk/teatro-amazonas-atualmente-01.jpg",
+          "path": "_m/6/x/m/q/manaus-wp/teatro-amazonas-atualmente-01.jpg",
           "filename": "Teatro Amazonas Atualmente 01.jpg",
           "caption": "This is a photo of a monument in Brazil identified by the ID",
           "alt": "This is a photo of a monument in Brazil identified by the ID",
@@ -95,11 +97,11 @@
             "Teatro Amazonas in 2015",
             "Uploaded via Campaign:wlm-br"
           ],
-          "mediumPath": "_m/6/x/m/q/manaus-wk/teatro-amazonas-atualmente-01-medium.webp",
-          "smallPath": "_m/6/x/m/q/manaus-wk/teatro-amazonas-atualmente-01-small.webp"
+          "mediumPath": "_m/6/x/m/q/manaus-wp/teatro-amazonas-atualmente-01-medium.webp",
+          "smallPath": "_m/6/x/m/q/manaus-wp/teatro-amazonas-atualmente-01-small.webp"
         },
         {
-          "path": "_m/6/x/m/q/manaus-wk/encontro-das-aguas-manaus.jpg",
+          "path": "_m/6/x/m/q/manaus-wp/encontro-das-aguas-manaus.jpg",
           "filename": "Encontro das Águas - Manaus.jpg",
           "caption": "Meeting (confluence) of the Waters, Manaus, Brazil",
           "alt": "Meeting (confluence) of the Waters, Manaus, Brazil",
@@ -116,10 +118,12 @@
             "CC-BY-3.0-BR",
             "Files from copa2014.gov.br",
             "Negro-Amazon confluence"
-          ]
+          ],
+          "mediumPath": "_m/6/x/m/q/manaus-wp/encontro-das-aguas-manaus-medium.webp",
+          "smallPath": "_m/6/x/m/q/manaus-wp/encontro-das-aguas-manaus-small.webp"
         },
         {
-          "path": "_m/6/x/m/q/manaus-wk/amazon-theatre-in-manaus.jpg",
+          "path": "_m/6/x/m/q/manaus-wp/amazon-theatre-in-manaus.jpg",
           "filename": "Amazon Theatre in Manaus.jpg",
           "caption": "Inaugurado em 1896, o Teatro Amazonas destaca-se pela singularidade arquitetônica, por isso foi tombado como Patrimônio Histórico Nacional pelo IPHAN, em 1966.",
           "alt": "Inaugurado em 1896, o Teatro Amazonas destaca-se pela singularidade arquitetônica, por isso foi tombado como Patrimônio Histórico Nacional pelo IPHAN, em 1966.",
@@ -132,10 +136,10 @@
           "sourceType": "core",
           "sourceArticleId": "manaus-wk",
           "sourceGeohash4": "6xmq",
-          "smallPath": "_m/6/x/m/q/manaus-wk/amazon-theatre-in-manaus-small.webp"
+          "smallPath": "_m/6/x/m/q/manaus-wp/amazon-theatre-in-manaus-small.webp"
         },
         {
-          "path": "_m/6/x/m/q/manaus-wk/praia-da-ponta-negra-manaus.jpg",
+          "path": "_m/6/x/m/q/manaus-wp/praia-da-ponta-negra-manaus.jpg",
           "filename": "Praia da Ponta Negra (Manaus).jpg",
           "caption": "Praia da Ponta Negra, em Manaus, Amazonas, Brasil.",
           "alt": "Praia da Ponta Negra, em Manaus, Amazonas, Brasil.",
@@ -148,7 +152,7 @@
           "sourceType": "core",
           "sourceArticleId": "manaus-wk",
           "sourceGeohash4": "6xmq",
-          "smallPath": "_m/6/x/m/q/manaus-wk/praia-da-ponta-negra-manaus-small.webp"
+          "smallPath": "_m/6/x/m/q/manaus-wp/praia-da-ponta-negra-manaus-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wk/barco-chegando-6126927092.jpg",
@@ -217,7 +221,7 @@
           "smallPath": "_m/6/x/m/q/manaus-wk/buildings-in-manaus-brazil-nea-1-small.webp"
         },
         {
-          "path": "_m/6/x/m/q/manaus-wk/amazon-theatre-teatro-amazonas.jpg",
+          "path": "_m/6/x/m/q/amazon-theatre-wp/amazon-theatre-teatro-amazonas.jpg",
           "filename": "Amazon Theatre, Teatro Amazonas. Manaus, Brazil. 03.jpg",
           "caption": "cafe in the Amazon Theatre, Teatro Amazonas. Manaus, Brazil",
           "alt": "cafe in the Amazon Theatre, Teatro Amazonas. Manaus, Brazil",
@@ -235,10 +239,12 @@
             "Manaus",
             "Self-published work",
             "Teatro Amazonas"
-          ]
+          ],
+          "mediumPath": "_m/6/x/m/q/amazon-theatre-wp/amazon-theatre-teatro-amazonas-medium.webp",
+          "smallPath": "_m/6/x/m/q/amazon-theatre-wp/amazon-theatre-teatro-amazonas-small.webp"
         },
         {
-          "path": "_m/6/x/m/q/manaus-wk/amazon-theatre-teatro-amazonas-1.jpg",
+          "path": "_m/6/x/m/q/amazon-theatre-wp/amazon-theatre-teatro-amazonas-1.jpg",
           "filename": "Amazon Theatre, Teatro Amazonas. Manaus, Brazil. 02.jpg",
           "caption": "Leap Year 2024 at the Amazon Theatre, Teatro Amazonas. Manaus, Brazil",
           "alt": "Leap Year 2024 at the Amazon Theatre, Teatro Amazonas. Manaus, Brazil",
@@ -256,7 +262,9 @@
             "Manaus",
             "Self-published work",
             "Teatro Amazonas"
-          ]
+          ],
+          "mediumPath": "_m/6/x/m/q/amazon-theatre-wp/amazon-theatre-teatro-amazonas-1-medium.webp",
+          "smallPath": "_m/6/x/m/q/amazon-theatre-wp/amazon-theatre-teatro-amazonas-1-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wk/architecture-in-manaus-brazil-.jpg",
@@ -592,7 +600,8 @@
             "PD-self",
             "Self-published work",
             "Taken with 5MP-9Y3"
-          ]
+          ],
+          "smallPath": "_m/6/x/m/q/manaus-wp/igreja-de-sao-sebastiao-manaus-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wp/relief-map-of-brazil.jpg",
@@ -615,7 +624,8 @@
             "Self-published work",
             "Uploaded with derivativeFX",
             "Vector version available"
-          ]
+          ],
+          "smallPath": "_m/6/g/y/f/sao-paulo-wp/relief-map-of-brazil-small.webp"
         },
         {
           "path": "_m/6/x/m/q/amazon-theatre-wp/amazonas-philharmonic.jpg",
@@ -639,7 +649,9 @@
             "Music events in Manaus",
             "Self-published work",
             "Taken with Sony DSC-H55"
-          ]
+          ],
+          "mediumPath": "_m/6/x/m/q/amazon-theatre-wp/amazonas-philharmonic-medium.webp",
+          "smallPath": "_m/6/x/m/q/amazon-theatre-wp/amazonas-philharmonic-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/instituto-de-pesquisas-da-amaz.jpg",
@@ -659,7 +671,9 @@
             "CC-BY-SA-3.0",
             "Instituto Nacional de Pesquisas da Amazônia",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/6/x/m/q/manaus-wp/instituto-de-pesquisas-da-amaz-medium.webp",
+          "smallPath": "_m/6/x/m/q/manaus-wp/instituto-de-pesquisas-da-amaz-small.webp"
         },
         {
           "path": "_m/6/x/m/q/amazon-rainforest-wk/aerial-view-amazon-rai-1.jpg",
@@ -684,7 +698,9 @@
             "Flickr images reviewed by trusted users",
             "Shadows of clouds",
             "Taken with Nikon D300"
-          ]
+          ],
+          "mediumPath": "_m/6/x/m/q/amazon-rainforest-wk/aerial-view-amazon-rai-1-medium.webp",
+          "smallPath": "_m/6/x/m/q/amazon-rainforest-wk/aerial-view-amazon-rai-1-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/curvas-do-parque-nacional-de-a.jpg",
@@ -705,7 +721,9 @@
             "Parque Nacional de Anavilhanas",
             "Self-published work",
             "Taken with Sony DSC-TX7"
-          ]
+          ],
+          "mediumPath": "_m/6/x/m/q/manaus-wp/curvas-do-parque-nacional-de-a-medium.webp",
+          "smallPath": "_m/6/x/m/q/manaus-wp/curvas-do-parque-nacional-de-a-small.webp"
         },
         {
           "path": "_m/6/x/m/q/arena-da-amazonia-wp/manaus-aerea-arenaamazonia.jpg",
@@ -726,7 +744,9 @@
             "CC-BY-3.0-BR",
             "Files from copa2014.gov.br",
             "Taken with Canon EOS 5D Mark II"
-          ]
+          ],
+          "mediumPath": "_m/6/x/m/q/arena-da-amazonia-wp/manaus-aerea-arenaamazonia-medium.webp",
+          "smallPath": "_m/6/x/m/q/arena-da-amazonia-wp/manaus-aerea-arenaamazonia-small.webp"
         },
         {
           "path": "_m/6/r/5/y/amazon-river-wp/teatro-amazonas-manaus.jpg",
@@ -745,7 +765,9 @@
           "categories": [
             "2008 in Manaus",
             "CC-BY-2.0"
-          ]
+          ],
+          "mediumPath": "_m/6/r/5/y/amazon-river-wp/teatro-amazonas-manaus-medium.webp",
+          "smallPath": "_m/6/r/5/y/amazon-river-wp/teatro-amazonas-manaus-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/manaus-avenida.jpg",
@@ -760,7 +782,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manaus_avenida.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "smallPath": "_m/6/x/m/q/manaus-wp/manaus-avenida-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/mercado-da-carne-adolpho-lisbo.jpg",
@@ -775,7 +798,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_da_Carne_Adolpho_Lisboa.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "mediumPath": "_m/6/x/m/q/manaus-wp/mercado-da-carne-adolpho-lisbo-medium.webp",
+          "smallPath": "_m/6/x/m/q/manaus-wp/mercado-da-carne-adolpho-lisbo-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/ponta-negra-manaus3.jpg",
@@ -790,7 +815,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponta-Negra-Manaus3.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "smallPath": "_m/6/x/m/q/manaus-wp/ponta-negra-manaus3-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/av-eduardo-ribeiro-manaus.jpg",
@@ -805,7 +831,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Av_Eduardo_Ribeiro_-_Manaus.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "smallPath": "_m/6/x/m/q/manaus-wp/av-eduardo-ribeiro-manaus-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/ponte-rio-negro-amazonas-brasi.jpg",
@@ -820,7 +847,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_Rio_Negro_-_Amazonas_-_Brasil.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "smallPath": "_m/6/x/m/q/manaus-wp/ponte-rio-negro-amazonas-brasi-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/catedral-metropolitana-de-mana.jpg",
@@ -835,7 +863,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral_Metropolitana_de_Manaus_-_1890.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "smallPath": "_m/6/x/m/q/manaus-wp/catedral-metropolitana-de-mana-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/avenida-mario-ypiranga-manaus-.jpg",
@@ -850,7 +879,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avenida_Mario_Ypiranga_-_Manaus_-_Brasil.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "mediumPath": "_m/6/x/m/q/manaus-wp/avenida-mario-ypiranga-manaus--medium.webp",
+          "smallPath": "_m/6/x/m/q/manaus-wp/avenida-mario-ypiranga-manaus--small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/novo-airao-2.jpg",
@@ -865,7 +896,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Novo_air%C3%A3o_2.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "mediumPath": "_m/6/x/m/q/manaus-wp/novo-airao-2-medium.webp",
+          "smallPath": "_m/6/x/m/q/manaus-wp/novo-airao-2-small.webp"
         },
         {
           "path": "_m/6/x/m/q/amazon-theatre-wp/praca-sao-sebastiao-e-teatro-a.jpg",
@@ -879,7 +912,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_S%C3%A3o_Sebasti%C3%A3o_e_Teatro_Amazonas,_Manaus_(AM).tif",
           "sourceType": "sibling",
           "sourceArticleId": "amazon-theatre-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "mediumPath": "_m/6/x/m/q/amazon-theatre-wp/praca-sao-sebastiao-e-teatro-a-medium.webp",
+          "smallPath": "_m/6/x/m/q/amazon-theatre-wp/praca-sao-sebastiao-e-teatro-a-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/mercado-publico-manaus-am.jpg",
@@ -893,7 +928,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_P%C3%BAblico,_Manaus_(AM).tif",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "mediumPath": "_m/6/x/m/q/manaus-wp/mercado-publico-manaus-am-medium.webp",
+          "smallPath": "_m/6/x/m/q/manaus-wp/mercado-publico-manaus-am-small.webp"
         },
         {
           "path": "_m/6/x/m/q/amazon-theatre-wp/monumento-abertura-dos.jpg",
@@ -908,7 +945,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monumento_%C3%A0_Abertura_dos_Portos.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "amazon-theatre-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "mediumPath": "_m/6/x/m/q/amazon-theatre-wp/monumento-abertura-dos-medium.webp",
+          "smallPath": "_m/6/x/m/q/amazon-theatre-wp/monumento-abertura-dos-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/praia-da-lua-manaus-amazonas-b.jpg",
@@ -923,7 +962,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praia_da_Lua_Manaus_Amazonas_Brasil.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "mediumPath": "_m/6/x/m/q/manaus-wp/praia-da-lua-manaus-amazonas-b-medium.webp",
+          "smallPath": "_m/6/x/m/q/manaus-wp/praia-da-lua-manaus-amazonas-b-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/forte-de-sao-jose-da-barra-do-.jpg",
@@ -938,7 +979,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Forte_de_S%C3%A3o_Jos%C3%A9_da_Barra_do_Rio_Negro.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "smallPath": "_m/6/x/m/q/manaus-wp/forte-de-sao-jose-da-barra-do--small.webp"
         },
         {
           "path": "_m/6/x/m/q/arena-da-amazonia-wp/interior-da-arena-da-amazonia.jpg",
@@ -953,7 +995,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_da_Arena_da_Amaz%C3%B4nia.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "arena-da-amazonia-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "mediumPath": "_m/6/x/m/q/arena-da-amazonia-wp/interior-da-arena-da-amazonia-medium.webp",
+          "smallPath": "_m/6/x/m/q/arena-da-amazonia-wp/interior-da-arena-da-amazonia-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/cruise-ship-in-manaus-brazil.jpg",
@@ -968,7 +1012,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cruise_ship_in_Manaus,_Brazil.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "mediumPath": "_m/6/x/m/q/manaus-wp/cruise-ship-in-manaus-brazil-medium.webp",
+          "smallPath": "_m/6/x/m/q/manaus-wp/cruise-ship-in-manaus-brazil-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/parque-lagoa-do-japiim.jpg",
@@ -983,7 +1029,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parque_Lagoa_do_Japiim.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "mediumPath": "_m/6/x/m/q/manaus-wp/parque-lagoa-do-japiim-medium.webp",
+          "smallPath": "_m/6/x/m/q/manaus-wp/parque-lagoa-do-japiim-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/igreja-de-sao-sebastiao-manaus.jpg",
@@ -998,7 +1046,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_de_S%C3%A3o_Sebasti%C3%A3o,_Manaus,_AM_(cropped).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "smallPath": "_m/6/x/m/q/manaus-wp/igreja-de-sao-sebastiao-manaus-small.webp"
         },
         {
           "path": "_m/6/x/m/q/amazon-theatre-wp/hero.jpg",
@@ -1013,7 +1062,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amazon_Theatre_(Manaus,_Brazil)_(edited).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "amazon-theatre-wp",
-          "sourceGeohash4": "6xmq"
+          "sourceGeohash4": "6xmq",
+          "mediumPath": "_m/6/x/m/q/amazon-theatre-wp/hero-medium.webp",
+          "smallPath": "_m/6/x/m/q/amazon-theatre-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ma/na/us/history-of-manaus/manaus-1986.jpg",
@@ -1037,7 +1088,8 @@
             "Flickr images missing SDC source of file",
             "Flickr images reviewed by FlickreviewR",
             "Porto de Manaus"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/ma/na/us/history-of-manaus/manaus-1986-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ma/na/us/history-of-manaus/englishbridge-manaus.jpg",
@@ -1057,7 +1109,8 @@
             "PD-self",
             "Ponte Pênsil Benjamin Constant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/ma/na/us/history-of-manaus/englishbridge-manaus-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ma/na/us/history-of-manaus/centro-historico-fabrica-de-ce.jpg",
@@ -1086,7 +1139,9 @@
             "Images from Wiki Loves Monuments missing SDC location of creation",
             "Self-published work",
             "Uploaded via Campaign:wlm-br"
-          ]
+          ],
+          "mediumPath": "_m/tpc/_ho/ma/na/us/history-of-manaus/centro-historico-fabrica-de-ce-medium.webp",
+          "smallPath": "_m/tpc/_ho/ma/na/us/history-of-manaus/centro-historico-fabrica-de-ce-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ma/na/us/history-of-manaus/manaos-eduardo-ribeiro-avenue-.jpg",
@@ -1101,7 +1156,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Man%C3%A1os,_Eduardo_Ribeiro_avenue_in_1909.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-manaus",
-          "sourceGeohash4": "tpc/_ho/ma/na/us"
+          "sourceGeohash4": "tpc/_ho/ma/na/us",
+          "smallPath": "_m/tpc/_ho/ma/na/us/history-of-manaus/manaos-eduardo-ribeiro-avenue--small.webp"
         }
       ],
       "narration": [

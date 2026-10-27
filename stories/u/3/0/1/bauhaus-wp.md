@@ -36,7 +36,7 @@ The Bauhaus began at 50.97 degrees N, 11.33 degrees E, in the buildings Henry va
 
 ## Sources
 
-- [Bauhaus - Wikipedia](https://en.wikipedia.org/wiki/Bauhaus)
+- [Bauhaus - Wikipedia](https://en.wikipedia.org/?curid=3832)
 - [Women of the Bauhaus - Wikipedia](https://en.wikipedia.org/wiki/Women_of_the_Bauhaus)
   - Bauhaus declared equality between the sexes and admitted women from 1919 (confirmed)
   - More women than men applied in the inaugural year (confirmed)

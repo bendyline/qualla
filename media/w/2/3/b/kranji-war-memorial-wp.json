@@ -3,25 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/2/3/b/kranji-war-memorial-wp/hero.jpg",
-        "filename": "Kranji War Memorial Singapore Panorama.JPG",
-        "caption": "Panorama View of Kranji War Memorial, Singapore",
-        "alt": "Panorama View of Kranji War Memorial, Singapore",
-        "width": 6736,
-        "height": 2332,
+        "path": "_m/w/2/3/b/kranji-war-memorial-wp/cwgc-singapore-31299672404.jpg",
+        "filename": "CWGC Singapore (31299672404).jpg",
+        "caption": "CWGC Singapore",
+        "alt": "CWGC Singapore",
+        "width": 4834,
+        "height": 3048,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Banej",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kranji_War_Memorial_Singapore_Panorama.JPG",
-        "sourceType": "core",
+        "license": "CC BY 2.0",
+        "artist": "Tony Hisgett from Birmingham, UK",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:CWGC_Singapore_(31299672404).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "kranji-war-memorial-wp",
         "sourceGeohash4": "w23b",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Kranji War Cemetery",
-          "Panoramas of Singapore",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/w/2/3/b/kranji-war-memorial-wp/cwgc-singapore-31299672404-medium.webp",
+        "smallPath": "_m/w/2/3/b/kranji-war-memorial-wp/cwgc-singapore-31299672404-small.webp"
       },
       "images": [
         {
@@ -69,7 +65,9 @@
             "Files with no machine-readable source",
             "Gravestones in Kranji War Cemetery",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/2/3/b/kranji-war-memorial-wp/description-rememberan-medium.webp",
+          "smallPath": "_m/w/2/3/b/kranji-war-memorial-wp/description-rememberan-small.webp"
         },
         {
           "path": "_m/w/2/3/b/kranji-war-memorial-wp/description-rememberan-2.jpg",
@@ -97,7 +95,7 @@
           "smallPath": "_m/w/2/3/b/kranji-war-memorial-wp/description-rememberan-2-small.webp"
         },
         {
-          "path": "_m/w/2/3/b/kranji-war-memorial-wp/kranji-war-memorial-cross.jpg",
+          "path": "_m/w/2/3/b/kranji-war-cemetery-wp/kranji-war-memorial-cross.jpg",
           "filename": "Kranji War Memorial Cross.jpg",
           "caption": "The Cross of Sacrifice and tower at the Kranji War Memorial, Singapore.",
           "alt": "The Cross of Sacrifice and tower at the Kranji War Memorial, Singapore.",
@@ -118,7 +116,8 @@
             "Kranji War Cemetery",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/2/3/b/kranji-war-cemetery-wp/kranji-war-memorial-cross-small.webp"
         },
         {
           "path": "_m/w/2/3/b/kranji-war-memorial-wp/inscription-remembranc.jpg",
@@ -196,7 +195,7 @@
           "smallPath": "_m/w/2/3/b/kranji-war-memorial-wp/kranji-war-memorial-by-yann-small.webp"
         },
         {
-          "path": "_m/w/2/3/b/kranji-war-memorial-wp/kranji-war-memorial-singapore.jpg",
+          "path": "_m/w/2/3/b/kranji-war-cemetery-wp/kranji-war-memorial-singapore.jpg",
           "filename": "Kranji War Memorial, Singapore.jpg",
           "caption": "Ereveld Singapore",
           "alt": "Ereveld Singapore",
@@ -215,7 +214,8 @@
             "Kranji War Cemetery",
             "Singapore Memorial",
             "Wong Ah Fook"
-          ]
+          ],
+          "smallPath": "_m/w/2/3/b/kranji-war-cemetery-wp/kranji-war-memorial-singapore-small.webp"
         },
         {
           "path": "_m/w/2/3/b/kranji-war-memorial-wp/kranji-war-cemetery-3188235222.jpg",
@@ -274,7 +274,7 @@
           "smallPath": "_m/w/2/3/b/kranji-war-memorial-wp/kranji-war-cemetery-3188189124-small.webp"
         },
         {
-          "path": "_m/w/2/3/b/kranji-war-memorial-wp/hero.jpg",
+          "path": "_m/w/2/3/b/kranji-war-cemetery-wp/hero.jpg",
           "filename": "Kranji War Memorial.jpg",
           "alt": "Kranji War Memorial.jpg",
           "width": 1280,
@@ -285,7 +285,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kranji_War_Memorial.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "kranji-war-cemetery-wp",
-          "sourceGeohash4": "w23b"
+          "sourceGeohash4": "w23b",
+          "smallPath": "_m/w/2/3/b/kranji-war-cemetery-wp/hero-small.webp"
         },
         {
           "path": "_m/w/2/3/b/kranji-war-memorial-wp/inscription-on-the-kranji-war-.jpg",

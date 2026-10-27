@@ -33,7 +33,7 @@ Located at 34.895N, 135.351E in the Hokusetsu mountain range, approximately 20 k
 ## Sources
 
 - [Tada Silver and Copper Mine - Wikipedia](https://en.wikipedia.org/?curid=72403927)
-- [Wikipedia - Tada Silver and Copper Mine](https://en.wikipedia.org/wiki/Tada_Silver_and_Copper_Mine)
+- [Wikipedia - Tada Silver and Copper Mine](https://en.wikipedia.org/?curid=72403927)
   - National Historic Site designation in 2015 confirmed
   - Museum opened in 2007 confirmed
   - Peak production 5.6 tons silver and 420 tons copper during Kanbun era confirmed

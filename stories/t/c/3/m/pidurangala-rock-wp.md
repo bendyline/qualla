@@ -45,7 +45,7 @@ Pidurangala Rock is at 7.966N, 80.762E, approximately 1 km north of Sigiriya. It
   - Monastery spread over 13.5 acres
   - Kashyapa relocated monks before building fortress
   - Chapter house, image house, Bo-tree, stupa, dwellings
-- [Excavations at Pidurangala - Kilian and Weishaar 1994](https://en.wikipedia.org/wiki/Pidurangala_Rock)
+- [Excavations at Pidurangala - Kilian and Weishaar 1994](https://en.wikipedia.org/?curid=81500615)
   - Klaus Kilian and Hans-Joachim Weishaar excavations
   - Upper rock shelter excavation
 

@@ -4,13 +4,15 @@
     {
       "filename": "Morgan Square.jpg",
       "title": "File:Morgan Square.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Morgan_Square.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Morgan_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Morgan_Square.jpg",
       "width": 1944,
       "height": 2592,
       "mime": "image/jpeg",
       "license": "Public domain",
       "artist": "(WT-en) Visitspartanburg at English Wikivoyage",
+      "credit": "Own work",
+      "source": "Morgan Square",
       "description": "pd jpg.",
       "dateCreated": "30 June 2009 (original upload date)",
       "categories": [
@@ -22,44 +24,15 @@
         "PD-author",
         "Taken with Sony DSC-P10"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "spartanburg-wk",
       "sourceGeohash4": "dnjw",
-      "mediumPath": "_m/d/n/j/w/spartanburg-wk/morgan-square-medium.webp",
-      "smallPath": "_m/d/n/j/w/spartanburg-wk/morgan-square-small.webp"
-    },
-    {
-      "filename": "Spartanburg Banner.jpg",
-      "title": "File:Spartanburg Banner.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Spartanburg_Banner.jpg",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Spartanburg_Banner.jpg",
-      "width": 4596,
-      "height": 657,
-      "mime": "image/jpeg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Billy Hathorn",
-      "description": "Closeup of fountain at Morgan Square in Spartanburg, SC, taken with Canon camera",
-      "dateCreated": "2012-07-19",
-      "categories": [
-        "CC-BY-SA-3.0",
-        "Extracted images",
-        "Fountains in South Carolina",
-        "GFDL",
-        "License migration redundant",
-        "Self-published work",
-        "Spartanburg, South Carolina"
-      ],
-      "sourceType": "poi",
-      "sourceArticleId": "spartanburg-wk",
-      "sourceGeohash4": "dnjw",
-      "mediumPath": "_m/d/n/j/w/spartanburg-wk/spartanburg-banner-medium.webp",
-      "smallPath": "_m/d/n/j/w/spartanburg-wk/spartanburg-banner-small.webp"
+      "smallPath": "_m/d/n/j/w/spartanburg-wk/morgan-square-small.webp",
+      "mediumPath": "_m/d/n/j/w/spartanburg-wk/morgan-square-medium.webp"
     }
   ],
   "galleryPaths": [
-    "_m/d/n/j/w/spartanburg-wk/morgan-square.jpg",
-    "_m/d/n/j/w/spartanburg-wk/spartanburg-banner.jpg"
+    "_m/d/n/j/w/spartanburg-wk/morgan-square.jpg"
   ],
   "updatedAt": "2026-02-19T17:49:36.251Z",
   "narration": {
@@ -80,5 +53,61 @@
       "dnjw-spartanburg-the-beacon-and-the-trails.mp3": 65.14225
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Spartanburg Banner.jpg",
+    "title": "File:Spartanburg Banner.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Spartanburg_Banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Spartanburg_Banner.jpg",
+    "width": 4596,
+    "height": 657,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Billy Hathorn",
+    "credit": "Own work",
+    "source": "Spartanburg Banner",
+    "description": "Closeup of fountain at Morgan Square in Spartanburg, SC, taken with Canon camera",
+    "dateCreated": "2012-07-19",
+    "categories": [
+      "CC-BY-SA-3.0",
+      "Extracted images",
+      "Fountains in South Carolina",
+      "GFDL",
+      "License migration redundant",
+      "Self-published work",
+      "Spartanburg, South Carolina"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "spartanburg-wk",
+    "sourceGeohash4": "dnjw"
+  },
+  "thumbnail": {
+    "filename": "Spartanburg Banner.jpg",
+    "title": "File:Spartanburg Banner.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Spartanburg_Banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Spartanburg_Banner.jpg",
+    "width": 4596,
+    "height": 657,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Billy Hathorn",
+    "credit": "Own work",
+    "source": "Spartanburg Banner",
+    "description": "Closeup of fountain at Morgan Square in Spartanburg, SC, taken with Canon camera",
+    "dateCreated": "2012-07-19",
+    "categories": [
+      "CC-BY-SA-3.0",
+      "Extracted images",
+      "Fountains in South Carolina",
+      "GFDL",
+      "License migration redundant",
+      "Self-published work",
+      "Spartanburg, South Carolina"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "spartanburg-wk",
+    "sourceGeohash4": "dnjw"
   }
 }

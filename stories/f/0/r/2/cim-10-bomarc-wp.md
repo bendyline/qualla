@@ -37,7 +37,7 @@ Located at 46.43°N, 79.47°W in northeastern Ontario, Canada, near the town of 
 ## Sources
 
 - [CIM-10 Bomarc - Wikipedia](https://en.wikipedia.org/?curid=4130)
-- [CIM-10 Bomarc - Wikipedia](https://en.wikipedia.org/wiki/CIM-10_Bomarc)
+- [CIM-10 Bomarc - Wikipedia](https://en.wikipedia.org/?curid=4130)
   - First operational squadron at McGuire AFB, New Jersey in September 1959 - confirmed
   - Canadian sites at RCAF Station North Bay, Ontario and RCAF Station La Macaza, Quebec - confirmed
   - 446 SAM Squadron operated at North Bay from 1962 to 1972 - confirmed (formed Dec 1961, stood down April 1972)

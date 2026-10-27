@@ -37,7 +37,7 @@ Located at 31.157N, 81.380W on St. Simons Island, one of Georgia's Golden Isles 
 ## Sources
 
 - [Battle of Bloody Marsh - Wikipedia](https://en.wikipedia.org/?curid=2180403)
-- [Battle of Bloody Marsh - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Bloody_Marsh)
+- [Battle of Bloody Marsh - Wikipedia](https://en.wikipedia.org/?curid=2180403)
   - Battle date July 7, 1742 (Old Style) confirmed
   - Spanish force 4,500-5,000 men with ~1,900-2,000 ground troops confirmed
   - Oglethorpe had fewer than 1,000 troops confirmed

@@ -36,7 +36,7 @@ Located at 23.47N, 120.96E in central Taiwan. Yu Shan (3,952m / 12,966ft) is the
 
 ## Sources
 
-- [Wikipedia - Yu Shan](https://en.wikipedia.org/wiki/Yu_Shan)
+- [Wikipedia - Yu Shan](https://en.wikipedia.org/?curid=795329)
   - Elevation 3,952 meters confirmed
   - NIITAKAYAMANOBORE 1208 Pearl Harbor signal confirmed
   - Yu Shan 176 meters higher than Mount Fuji confirmed

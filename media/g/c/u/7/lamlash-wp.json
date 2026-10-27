@@ -30,7 +30,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/u/7/lamlash-wp/landsat-image-isle-arr.jpg",
+          "path": "_m/g/c/u/k/brodick-castle-wp/landsat-image-isle-arr.jpg",
           "filename": "Arran satellite.jpg",
           "caption": "Landsat image of the Isle of Arran in Scotland.",
           "alt": "Landsat image of the Isle of Arran in Scotland.",
@@ -48,7 +48,8 @@
             "NASA World Wind",
             "PD World Wind",
             "Satellite pictures of Scotland"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/k/brodick-castle-wp/landsat-image-isle-arr-small.webp"
         },
         {
           "path": "_m/g/c/u/7/lamlash-wp/derelict-st-george-s-c.jpg",
@@ -544,7 +545,8 @@
             "Self-published work",
             "Taken with Nikon D5000",
             "United Kingdom photographs taken on 2010-07-06"
-          ]
+          ],
+          "smallPath": "_m/tpc/la/ml/as/h_/lamlash/pirnmill-isle-of-arran-scotlan-small.webp"
         },
         {
           "path": "_m/g/c/u/k/isle-of-arran-wp/kildonan-4-remains-of-the-cast.jpg",
@@ -566,7 +568,8 @@
             "Kildonan Castle",
             "Self-published work",
             "Taken with Nikon D5000"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/k/isle-of-arran-wp/kildonan-4-remains-of-the-cast-small.webp"
         },
         {
           "path": "_m/tpc/la/ml/as/h_/lamlash/sannox-sheep-geograph-org-uk-8.jpg",
@@ -581,7 +584,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sannox_%27sheep%27_-_geograph.org.uk_-_811526.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lamlash",
-          "sourceGeohash4": "tpc/la/ml/as/h_"
+          "sourceGeohash4": "tpc/la/ml/as/h_",
+          "smallPath": "_m/tpc/la/ml/as/h_/lamlash/sannox-sheep-geograph-org-uk-8-small.webp"
         },
         {
           "path": "_m/tpc/br/od/ic/k_/brodick/machrie-stone-circle-4-2012.jpg",
@@ -596,7 +600,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Machrie_Stone_Circle_4_2012.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brodick",
-          "sourceGeohash4": "gcu7"
+          "sourceGeohash4": "gcu7",
+          "mediumPath": "_m/tpc/br/od/ic/k_/brodick/machrie-stone-circle-4-2012-medium.webp",
+          "smallPath": "_m/tpc/br/od/ic/k_/brodick/machrie-stone-circle-4-2012-small.webp"
         },
         {
           "path": "_m/tpc/la/ml/as/h_/lamlash/view-across-drumadoon-bay.jpg",
@@ -611,7 +617,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_across_Drumadoon_Bay.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "lamlash",
-          "sourceGeohash4": "tpc/la/ml/as/h_"
+          "sourceGeohash4": "tpc/la/ml/as/h_",
+          "mediumPath": "_m/tpc/la/ml/as/h_/lamlash/view-across-drumadoon-bay-medium.webp",
+          "smallPath": "_m/tpc/la/ml/as/h_/lamlash/view-across-drumadoon-bay-small.webp"
         },
         {
           "path": "_m/g/c/u/k/brodick-castle-wp/hero.jpg",
@@ -626,7 +634,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brodick_Castle_Main_Building_East_01.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brodick-castle-wp",
-          "sourceGeohash4": "gcu7"
+          "sourceGeohash4": "gcu7",
+          "mediumPath": "_m/g/c/u/k/brodick-castle-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/u/k/brodick-castle-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/br/od/ic/k_/brodick/isle-of-arran-distillery-98603.jpg",
@@ -641,7 +651,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isle_of_Arran_Distillery_(9860378523).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brodick",
-          "sourceGeohash4": "gcu7"
+          "sourceGeohash4": "gcu7",
+          "mediumPath": "_m/tpc/br/od/ic/k_/brodick/isle-of-arran-distillery-98603-medium.webp",
+          "smallPath": "_m/tpc/br/od/ic/k_/brodick/isle-of-arran-distillery-98603-small.webp"
         },
         {
           "path": "_m/tpc/br/od/ic/k_/brodick/lochranza-deer.jpg",
@@ -656,7 +668,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lochranza_deer.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brodick",
-          "sourceGeohash4": "gcu7"
+          "sourceGeohash4": "gcu7",
+          "smallPath": "_m/tpc/br/od/ic/k_/brodick/lochranza-deer-small.webp"
         },
         {
           "path": "_m/tpc/br/od/ic/k_/brodick/machrie-moor-stone-circle-2-ge.jpg",
@@ -671,7 +684,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Machrie_Moor_Stone_Circle_2_(geograph_5757760).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "brodick",
-          "sourceGeohash4": "gcu7"
+          "sourceGeohash4": "gcu7",
+          "mediumPath": "_m/tpc/br/od/ic/k_/brodick/machrie-moor-stone-circle-2-ge-medium.webp",
+          "smallPath": "_m/tpc/br/od/ic/k_/brodick/machrie-moor-stone-circle-2-ge-small.webp"
         },
         {
           "path": "_m/tpc/la/ml/as/h_/lamlash/main-street-a841-lamlash-arran.jpg",
@@ -686,7 +701,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_Street_(A841),_Lamlash,_Arran_-_geograph.org.uk_-_7593368.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lamlash",
-          "sourceGeohash4": "tpc/la/ml/as/h_"
+          "sourceGeohash4": "tpc/la/ml/as/h_",
+          "mediumPath": "_m/tpc/la/ml/as/h_/lamlash/main-street-a841-lamlash-arran-medium.webp",
+          "smallPath": "_m/tpc/la/ml/as/h_/lamlash/main-street-a841-lamlash-arran-small.webp"
         }
       ],
       "narration": [

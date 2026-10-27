@@ -36,7 +36,7 @@ The Minden Aqueduct sits at 52.3031N, 8.9317E, in the northern part of Minden in
 
 ## Sources
 
-- [Minden Aqueduct - Wikipedia](https://en.wikipedia.org/wiki/Minden_Aqueduct)
+- [Minden Aqueduct - Wikipedia](https://en.wikipedia.org/?curid=17989088)
   - Two parallel water bridges carry the Mittelland Canal over the Weser near Minden; the older is no longer used for shipping
   - The Mittelland Canal connects the Ems, Weser and Elbe river systems and is linked to the Weser by two branch canals
   - First canal bridge built 1914, 370 m long, concrete; destroyed by retreating German forces in 1945; reopened 1949

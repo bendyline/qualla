@@ -38,7 +38,7 @@ Located at 35.01N, 135.79E in eastern Kyoto, near the base of the Higashiyama Hi
   - Garden designed by Ogawa Jihei (Ueji)
   - Murin-an Conference participants: Yamagata, Katsura, Komura, and Ito Hirobumi (not Sone Arasuke as originally written - corrected)
   - Conference discussed policy leading to Russo-Japanese War of 1904-5
-- [Murin-an - Wikipedia](https://en.wikipedia.org/wiki/Murin-an)
+- [Murin-an - Wikipedia](https://en.wikipedia.org/?curid=34317864)
   - Yamagata Aritomo born 1838
   - Garden covers 3135 square meters
   - Construction began 1894

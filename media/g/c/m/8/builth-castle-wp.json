@@ -3,27 +3,19 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/m/8/builth-castle-wp/hero.jpg",
-        "filename": "SDJ Harlech Castle Gatehouse.jpg",
-        "caption": "This is a photo of listed building number",
-        "alt": "This is a photo of listed building number",
-        "width": 800,
-        "height": 600,
+        "path": "_m/g/c/m/8/builth-castle-wp/builth-castle-as-it-was-when-l.jpg",
+        "filename": "Builth Castle as it was when Llywelyn rode past it.jpg",
+        "caption": "Illustrations and photographs of places and events in Welsh history from a childrens book called 'Flame Bearers of Welsh History'",
+        "alt": "Illustrations and photographs of places and events in Welsh history from a childrens book called 'Flame Bearers of Welsh History'",
+        "width": 1273,
+        "height": 821,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "User Sam jervis on en.wikipedia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SDJ_Harlech_Castle_Gatehouse.jpg",
-        "sourceType": "core",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Builth_Castle_as_it_was_when_Llywelyn_rode_past_it.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "builth-castle-wp",
         "sourceGeohash4": "gcm8",
-        "categories": [
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "Harlech Castle gatehouse",
-          "License migration completed",
-          "Listed buildings in Wales with known IDs",
-          "Taken with Canon PowerShot A300"
-        ]
+        "smallPath": "_m/g/c/m/8/builth-castle-wp/builth-castle-as-it-was-when-l-small.webp"
       },
       "images": [
         {
@@ -306,7 +298,8 @@
             "Photographs taken on 2005-11-07",
             "Self-published work",
             "Taken with Pentax Optio 555"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/8/builth-wells-wp/builth-road-station-small.webp"
         },
         {
           "path": "_m/g/c/m/9/powys-wp/hay-on-wye-bookshop2.jpg",
@@ -328,7 +321,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon D80"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/9/powys-wp/hay-on-wye-bookshop2-medium.webp",
+          "smallPath": "_m/g/c/m/9/powys-wp/hay-on-wye-bookshop2-small.webp"
         },
         {
           "path": "_m/g/c/m/9/powys-wp/heart-of-wales-line.jpg",
@@ -350,7 +345,8 @@
             "CC-BY-SA-3.0",
             "Self-published work",
             "Trains on the Heart of Wales Line"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/9/powys-wp/heart-of-wales-line-small.webp"
         },
         {
           "path": "_m/g/c/m/9/powys-wp/brecon-river-usk-geograph-org-.jpg",
@@ -365,7 +361,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brecon,_River_Usk_-_geograph.org.uk_-_1983133.jpg",
           "sourceType": "poi",
           "sourceArticleId": "powys-wp",
-          "sourceGeohash4": "gcm9"
+          "sourceGeohash4": "gcm9",
+          "smallPath": "_m/g/c/m/9/powys-wp/brecon-river-usk-geograph-org--small.webp"
         }
       ],
       "narration": [

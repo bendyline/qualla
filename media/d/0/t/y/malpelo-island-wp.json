@@ -3,29 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/d/0/t/y/malpelo-island-wp/hero.jpg",
-        "filename": "Colombia relief location map.jpg",
-        "caption": "Physical Location map of Colombia Equirectangular projection. Geographic limits of the map:",
-        "alt": "Physical Location map of Colombia Equirectangular projection. Geographic limits of the map:",
-        "width": 2028,
-        "height": 2294,
+        "path": "_m/d/0/t/y/malpelo-island-wp/sula-isla-malpelo.jpg",
+        "filename": "Sula Isla Malpelo.JPG",
+        "caption": "Sula con su crian en Isla Malpelo",
+        "alt": "Sula con su crian en Isla Malpelo",
+        "width": 4000,
+        "height": 3000,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "Grundkarte Milenioscuro, Relief Alexrk2",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colombia_relief_location_map.jpg",
-        "sourceType": "core",
+        "artist": "Oscarjgr",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sula_Isla_Malpelo.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "malpelo-island-wp",
         "sourceGeohash4": "d0ty",
         "categories": [
           "CC-BY-SA-3.0",
-          "Files by User:Alexrk2",
-          "Files with derivative versions",
-          "Kartenwerkstatt",
-          "Location maps of Colombia by User:Milenioscuro",
-          "Maps of relief of Colombia by User:Milenioscuro",
-          "Relief location maps of Colombia",
-          "Self-published work"
-        ]
+          "Malpelo Island",
+          "Self-published work",
+          "Sula granti",
+          "Taken with Canon Digital IXUS 100 IS"
+        ],
+        "mediumPath": "_m/d/0/t/y/malpelo-island-wp/sula-isla-malpelo-medium.webp",
+        "smallPath": "_m/d/0/t/y/malpelo-island-wp/sula-isla-malpelo-small.webp"
       },
       "images": [
         {
@@ -198,7 +197,8 @@
             "PD NASA",
             "Roca Redonda",
             "Satellite pictures of the Galápagos Islands (annotated)"
-          ]
+          ],
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/true-color-image-galap-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/magnificent-frigatebir.jpg",
@@ -224,7 +224,9 @@
             "License migration redundant",
             "Photographs by Alex Giltjes",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/magnificent-frigatebir-medium.webp",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/magnificent-frigatebir-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/puerto-ayora-harbor.jpg",
@@ -246,7 +248,9 @@
             "Flickr images reviewed by FlickreviewR",
             "Puerto Ayora",
             "Taken with Sony DSC-W100"
-          ]
+          ],
+          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/puerto-ayora-harbor-medium.webp",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/puerto-ayora-harbor-small.webp"
         },
         {
           "path": "_m/3/z/z/t/galapagos-wk/hero.jpg",
@@ -269,7 +273,9 @@
             "Puerto Villamil",
             "Sunrises at beaches of Ecuador",
             "Taken with Canon Digital IXUS 90 IS"
-          ]
+          ],
+          "mediumPath": "_m/3/z/z/t/galapagos-wk/hero-medium.webp",
+          "smallPath": "_m/3/z/z/t/galapagos-wk/hero-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/hero.jpg",
@@ -296,7 +302,9 @@
             "PD US NOAA",
             "Pictures of the day (2011)",
             "Unknown date"
-          ]
+          ],
+          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/hero-medium.webp",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/hero-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/night-photo-taken-puer.jpg",
@@ -320,7 +328,8 @@
             "Night in Ecuador",
             "Photography by David Adam Kess",
             "Puerto Ayora"
-          ]
+          ],
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/night-photo-taken-puer-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/male-lava-lizard-micro.jpg",
@@ -335,7 +344,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Male_Gal%C3%A1pagos_Santiago_lava_lizard.jpg",
           "sourceType": "poi",
           "sourceArticleId": "galapagos-islands-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/male-lava-lizard-micro-medium.webp",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/male-lava-lizard-micro-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/professional-photograp.jpg",
@@ -350,7 +361,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_beach_at_North_Seymour_Island_in_the_Galapagos.jpeg",
           "sourceType": "poi",
           "sourceArticleId": "galapagos-islands-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/professional-photograp-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/santa-cruz-island-one.jpg",
@@ -365,7 +377,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fresh_Water_Swimming_in_the_Galapagos_on_the_Island_of_Santa_Cruz.JPG",
           "sourceType": "poi",
           "sourceArticleId": "galapagos-islands-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/santa-cruz-island-one-small.webp"
         },
         {
           "path": "_m/6/p/b/7/san-cristobal-galapagos-wk/collage-puerto-baqueri.png",
@@ -380,7 +393,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collage_Puerto_Baquerizo_Moreno.png",
           "sourceType": "poi",
           "sourceArticleId": "san-cristobal-galapagos-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/6/p/b/7/san-cristobal-galapagos-wk/collage-puerto-baqueri-medium.webp",
+          "smallPath": "_m/6/p/b/7/san-cristobal-galapagos-wk/collage-puerto-baqueri-small.webp"
         }
       ],
       "narration": [

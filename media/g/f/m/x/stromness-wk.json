@@ -3,32 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/m/x/stromness-wk/hero.jpg",
-        "filename": "Ness Battery, Stromness, Orkney. Battery Observation Post.jpg",
-        "caption": "Battery Observation Post and other structures at Ness Battery, Stromness, Orkney, Scotland.",
-        "alt": "Battery Observation Post and other structures at Ness Battery, Stromness, Orkney, Scotland.",
-        "width": 960,
-        "height": 638,
+        "path": "_m/g/f/m/x/stromness-wk/bank-of-scotland-in-stromness-.jpg",
+        "filename": "Bank of Scotland in Stromness in summer 2012.JPG",
+        "caption": "Bank of Scotland in Stromness, Orkney, Scotland.",
+        "alt": "Bank of Scotland in Stromness, Orkney, Scotland.",
+        "width": 4752,
+        "height": 3168,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "Fine Hid",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ness_Battery,_Stromness,_Orkney._Battery_Observation_Post.jpg",
-        "sourceType": "core",
+        "artist": "Chmee2",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bank_of_Scotland_in_Stromness_in_summer_2012.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "stromness-wk",
         "sourceGeohash4": "gfmx",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Coastal fortifications of the United Kingdom",
-          "Files with coordinates missing SDC location of creation",
-          "Scapa Flow",
-          "Self-published work",
-          "Taken with Nikon D5000",
-          "United Kingdom in World War II"
-        ]
+        "mediumPath": "_m/g/f/m/x/stromness-wk/bank-of-scotland-in-stromness--medium.webp",
+        "smallPath": "_m/g/f/m/x/stromness-wk/bank-of-scotland-in-stromness--small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/m/x/stromness-wk/stromness-museum.jpg",
+          "path": "_m/g/f/m/x/stromness-wp/stromness-museum.jpg",
           "filename": "Stromness Museum.jpg",
           "caption": "Diorama zur Arktisexpeidtion von John Rae, Stromness-Museum, Orkney-Inseln",
           "alt": "Diorama zur Arktisexpeidtion von John Rae, Stromness-Museum, Orkney-Inseln",
@@ -48,7 +41,8 @@
             "John Rae (explorer)",
             "Self-published work",
             "Stromness Museum"
-          ]
+          ],
+          "smallPath": "_m/g/f/m/x/stromness-wp/stromness-museum-small.webp"
         },
         {
           "path": "_m/g/f/m/x/stromness-wk/an-orkney-cat-in-stromness-geo.jpg",
@@ -130,7 +124,7 @@
           "smallPath": "_m/g/f/m/x/stromness-wk/breck-ness-from-the-hamnavoe-g-small.webp"
         },
         {
-          "path": "_m/g/f/m/x/stromness-wk/black-craig-observation-point-.jpg",
+          "path": "_m/g/f/m/x/european-marine-energy-centre-wp/black-craig-observation-point-.jpg",
           "filename": "Black Craig Observation Point - geograph.org.uk - 260060.jpg",
           "caption": "Black Craig Observation Point This old coast guard lookout point has recently been renovated and now hosts a camera for monitoring the wave energy research being performed out of Billia Croo by the European Marine Energy Centre.",
           "alt": "Black Craig Observation Point This old coast guard lookout point has recently been renovated and now hosts a camera for monitoring the wave energy research being performed out of Billia Croo by the European Marine Energy Centre.",
@@ -156,7 +150,8 @@
             "Stromness",
             "Taken with Canon PowerShot G6",
             "United Kingdom photographs taken on 2006-09-06"
-          ]
+          ],
+          "smallPath": "_m/g/f/m/x/european-marine-energy-centre-wp/black-craig-observation-point--small.webp"
         },
         {
           "path": "_m/g/f/m/x/stromness-wk/a965-stromness-to-kirkwall-roa.jpg",
@@ -457,7 +452,9 @@
             "Self-published work",
             "Stromness Harbour",
             "Taken with Canon Digital IXUS 400"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/x/stromness-wp/stromness-harbour-medium.webp",
+          "smallPath": "_m/g/f/m/x/stromness-wp/stromness-harbour-small.webp"
         },
         {
           "path": "_m/g/f/m/x/stromness-wp/john-rae-statue-stromness-pier.jpg",
@@ -479,7 +476,9 @@
             "John Rae statue, Stromness",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/x/stromness-wp/john-rae-statue-stromness-pier-medium.webp",
+          "smallPath": "_m/g/f/m/x/stromness-wp/john-rae-statue-stromness-pier-small.webp"
         },
         {
           "path": "_m/g/f/m/x/stromness-museum-wp/hero.jpg",
@@ -502,7 +501,9 @@
             "Self-published work",
             "Stromness Museum",
             "Telephone boxes in the Orkney Islands"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/x/stromness-museum-wp/hero-medium.webp",
+          "smallPath": "_m/g/f/m/x/stromness-museum-wp/hero-small.webp"
         },
         {
           "path": "_m/g/f/m/z/orkney-wp/ring-brodgar.jpg",
@@ -525,7 +526,8 @@
             "Ring of Brodgar",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/m/z/orkney-wp/ring-brodgar-small.webp"
         },
         {
           "path": "_m/g/f/m/x/stenness-wp/unstan-chambered-cairn-entranc.jpg",
@@ -547,7 +549,9 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Taken with Canon PowerShot A620",
             "Unstan Chambered Cairn"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/x/stenness-wp/unstan-chambered-cairn-entranc-medium.webp",
+          "smallPath": "_m/g/f/m/x/stenness-wp/unstan-chambered-cairn-entranc-small.webp"
         },
         {
           "path": "_m/g/f/m/x/standing-stones-of-stenness-wp/hero.jpg",
@@ -569,7 +573,9 @@
             "Scheduled monuments in Scotland with known IDs",
             "Self-published work",
             "Standing Stones of Stenness"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/x/standing-stones-of-stenness-wp/hero-medium.webp",
+          "smallPath": "_m/g/f/m/x/standing-stones-of-stenness-wp/hero-small.webp"
         },
         {
           "path": "_m/g/f/m/x/stenness-wp/stenness-banner-ring-of-brodga.jpg",
@@ -592,7 +598,9 @@
             "Ring of Brodgar",
             "Self-published work",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/x/stenness-wp/stenness-banner-ring-of-brodga-medium.webp",
+          "smallPath": "_m/g/f/m/x/stenness-wp/stenness-banner-ring-of-brodga-small.webp"
         },
         {
           "path": "_m/g/f/m/w/hoy-wk/hoy-banner-view-from-dunnet-he.jpg",
@@ -619,7 +627,9 @@
             "Self-published work",
             "User-created GFDL images",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/w/hoy-wk/hoy-banner-view-from-dunnet-he-medium.webp",
+          "smallPath": "_m/g/f/m/w/hoy-wk/hoy-banner-view-from-dunnet-he-small.webp"
         },
         {
           "path": "_m/g/f/m/z/italian-chapel-wp/italian-chapel-lamb-holm-orkne.jpg",
@@ -646,7 +656,9 @@
             "Prisoners of war in World War II",
             "Self-published work",
             "Taken with Olympus C-5000Z"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/italian-chapel-wp/italian-chapel-lamb-holm-orkne-medium.webp",
+          "smallPath": "_m/g/f/m/z/italian-chapel-wp/italian-chapel-lamb-holm-orkne-small.webp"
         },
         {
           "path": "_m/g/f/m/z/scapa-flow-wp/italian-chapel-orkney-islands.jpg",
@@ -666,7 +678,9 @@
             "CC-BY-SA-4.0",
             "Italian Chapel (interior)",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/scapa-flow-wp/italian-chapel-orkney-islands-medium.webp",
+          "smallPath": "_m/g/f/m/z/scapa-flow-wp/italian-chapel-orkney-islands-small.webp"
         },
         {
           "path": "_m/g/f/m/z/scapa-flow-wp/stenness-standing-stone-the-ra.jpg",
@@ -684,7 +698,9 @@
           "sourceGeohash4": "gfmz",
           "categories": [
             "CC-BY-SA-4.0"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/scapa-flow-wp/stenness-standing-stone-the-ra-medium.webp",
+          "smallPath": "_m/g/f/m/z/scapa-flow-wp/stenness-standing-stone-the-ra-small.webp"
         },
         {
           "path": "_m/g/f/m/z/scapa-flow-wp/uk-kirkwwall-st-magnus-east.jpg",
@@ -699,7 +715,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:UK_Kirkwwall_St_Magnus_east.jpg",
           "sourceType": "poi",
           "sourceArticleId": "scapa-flow-wp",
-          "sourceGeohash4": "gfmz"
+          "sourceGeohash4": "gfmz",
+          "mediumPath": "_m/g/f/m/z/scapa-flow-wp/uk-kirkwwall-st-magnus-east-medium.webp",
+          "smallPath": "_m/g/f/m/z/scapa-flow-wp/uk-kirkwwall-st-magnus-east-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/st-magnus-cathedral-kirkwall.jpg",
@@ -725,7 +743,9 @@
             "St Magnus Cathedral, Kirkwall",
             "Taken with Canon EOS 400D",
             "United Kingdom photographs taken on 2007-08-08"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/st-magnus-cathedral-kirkwall-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/st-magnus-cathedral-kirkwall-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/orkney-wireless-museum-exterio.jpg",
@@ -747,7 +767,9 @@
             "License migration redundant",
             "Orkney Wireless Museum",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/orkney-wireless-museum-exterio-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/orkney-wireless-museum-exterio-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/scapa.jpg",
@@ -769,7 +791,9 @@
             "License migration redundant",
             "Scapa distillery",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/scapa-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/scapa-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/kirkwall-banner.jpg",
@@ -796,7 +820,9 @@
             "License migration redundant",
             "Self-published work",
             "Wikivoyage banners of Orkney"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/kirkwall-banner-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/kirkwall-banner-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/wideford-hill-cairn-2017-02.jpg",
@@ -815,7 +841,9 @@
           "categories": [
             "CC-BY-4.0",
             "Files with coordinates missing SDC location of creation"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/wideford-hill-cairn-2017-02-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/wideford-hill-cairn-2017-02-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/kirkwall-hotel.jpg",
@@ -830,7 +858,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kirkwall_Hotel.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kirkwall-wp",
-          "sourceGeohash4": "gfmz"
+          "sourceGeohash4": "gfmz",
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/kirkwall-hotel-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/kirkwall-hotel-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/st-magnus-cathedral-kirkwall-g.jpg",
@@ -845,7 +875,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Magnus_Cathedral,_Kirkwall_-_geograph.org.uk_-_2096130.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kirkwall-wp",
-          "sourceGeohash4": "gfmz"
+          "sourceGeohash4": "gfmz",
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/st-magnus-cathedral-kirkwall-g-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/st-magnus-cathedral-kirkwall-g-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/orkney-museum-geograph-6172873.jpg",
@@ -860,7 +892,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orkney_Museum_(geograph_6172873).jpg",
           "sourceType": "poi",
           "sourceArticleId": "kirkwall-wp",
-          "sourceGeohash4": "gfmz"
+          "sourceGeohash4": "gfmz",
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/orkney-museum-geograph-6172873-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/orkney-museum-geograph-6172873-small.webp"
         },
         {
           "path": "_m/g/f/t/8/birsay-wp/earl-s-palace-birsay-in-summer.jpg",
@@ -886,7 +920,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon EOS 50D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/t/8/birsay-wp/earl-s-palace-birsay-in-summer-medium.webp",
+          "smallPath": "_m/g/f/t/8/birsay-wp/earl-s-palace-birsay-in-summer-small.webp"
         },
         {
           "path": "_m/g/f/t/8/birsay-wp/brough-of-birsay-in-summer-201.jpg",
@@ -913,7 +949,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon EOS 50D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/t/8/birsay-wp/brough-of-birsay-in-summer-201-medium.webp",
+          "smallPath": "_m/g/f/t/8/birsay-wp/brough-of-birsay-in-summer-201-small.webp"
         },
         {
           "path": "_m/g/f/t/8/birsay-wp/lighthouse-on-brough-of-birsay.jpg",
@@ -939,7 +977,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon EOS 50D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/t/8/birsay-wp/lighthouse-on-brough-of-birsay-medium.webp",
+          "smallPath": "_m/g/f/t/8/birsay-wp/lighthouse-on-brough-of-birsay-small.webp"
         },
         {
           "path": "_m/g/f/t/8/birsay-wp/birsay-banner-brough-of-birsay.jpg",
@@ -962,7 +1002,9 @@
             "Files by User:Chmee2",
             "Files by User:Chmee2 from Scotland",
             "Files with coordinates missing SDC location of creation"
-          ]
+          ],
+          "mediumPath": "_m/g/f/t/8/birsay-wp/birsay-banner-brough-of-birsay-medium.webp",
+          "smallPath": "_m/g/f/t/8/birsay-wp/birsay-banner-brough-of-birsay-small.webp"
         },
         {
           "path": "_m/g/f/m/m/scrabster-wp/holburnhead.jpg",
@@ -984,7 +1026,9 @@
             "Quality images",
             "Quality images of lighthouses in the United Kingdom",
             "Taken with Panasonic Lumix DMC-FS6"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/m/scrabster-wp/holburnhead-medium.webp",
+          "smallPath": "_m/g/f/m/m/scrabster-wp/holburnhead-small.webp"
         },
         {
           "path": "_m/g/f/m/m/scrabster-wp/dounreay-caithness-scotland-30.jpg",
@@ -1006,7 +1050,9 @@
             "Flickr images uploaded by Flickr upload bot",
             "Horton Sphere",
             "Taken with Pentax K10D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/m/scrabster-wp/dounreay-caithness-scotland-30-medium.webp",
+          "smallPath": "_m/g/f/m/m/scrabster-wp/dounreay-caithness-scotland-30-small.webp"
         },
         {
           "path": "_m/tpc/sc/ot/ti/sh/scottish-highlands/thurso-from-the-hill-at-mountp.jpg",
@@ -1029,7 +1075,8 @@
             "Information field template with formatting",
             "Scotland photographs taken on 2005-05-11",
             "Thurso"
-          ]
+          ],
+          "smallPath": "_m/tpc/sc/ot/ti/sh/scottish-highlands/thurso-from-the-hill-at-mountp-small.webp"
         },
         {
           "path": "_m/g/f/m/m/scrabster-wp/thurso-castle-20090614-02.jpg",
@@ -1054,7 +1101,8 @@
             "Taken with Panasonic Lumix DMC-TZ7",
             "Thurso Castle",
             "United Kingdom photographs taken on 2009-06-14"
-          ]
+          ],
+          "smallPath": "_m/g/f/m/m/scrabster-wp/thurso-castle-20090614-02-small.webp"
         },
         {
           "path": "_m/g/f/m/m/scrabster-wp/thurso-old-st-peters-kirk-3297.jpg",
@@ -1077,7 +1125,8 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Old St Peter's Church, Thurso",
             "Photographs by Roger Wollstadt"
-          ]
+          ],
+          "smallPath": "_m/g/f/m/m/scrabster-wp/thurso-old-st-peters-kirk-3297-small.webp"
         },
         {
           "path": "_m/g/f/m/m/scrabster-wp/cnoc-freiceadain-long-cairns-5.jpg",
@@ -1097,7 +1146,9 @@
             "CC-BY-SA-4.0",
             "Cnoc Freiceadain Long Cairns",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/m/scrabster-wp/cnoc-freiceadain-long-cairns-5-medium.webp",
+          "smallPath": "_m/g/f/m/m/scrabster-wp/cnoc-freiceadain-long-cairns-5-small.webp"
         },
         {
           "path": "_m/g/f/m/m/scrabster-wp/thurso-station-22nd-july-2022-.jpg",
@@ -1117,7 +1168,9 @@
             "CC-BY-SA-4.0",
             "Self-published work",
             "Thurso railway station"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/m/scrabster-wp/thurso-station-22nd-july-2022--medium.webp",
+          "smallPath": "_m/g/f/m/m/scrabster-wp/thurso-station-22nd-july-2022--small.webp"
         }
       ],
       "narration": [

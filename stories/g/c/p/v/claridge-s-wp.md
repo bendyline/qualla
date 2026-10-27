@@ -33,7 +33,7 @@ Located at 51.513°N, 0.148°W at the corner of Brook Street and Davies Street i
 ## Sources
 
 - [The Claridges - Wikipedia](https://en.wikipedia.org/?curid=67399037)
-- [Claridge's - Wikipedia](https://en.wikipedia.org/wiki/Claridge%27s)
+- [Claridge's - Wikipedia](https://en.wikipedia.org/?curid=1349815)
   - hotel began as Mivart's founded 1812
   - sold to William and Marianne Claridge in 1854
   - Richard D'Oyly Carte purchased 1893

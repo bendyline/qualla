@@ -33,7 +33,7 @@ Los Roques Archipelago is centered at approximately 11.86N, 66.76W, 128 km north
 ## Sources
 
 - [Los Roques Archipelago - Wikipedia](https://en.wikipedia.org/?curid=5308091)
-- [Los Roques Archipelago - Wikipedia](https://en.wikipedia.org/wiki/Los_Roques_Archipelago)
+- [Los Roques Archipelago - Wikipedia](https://en.wikipedia.org/?curid=5308091)
   - 280 species of fish, 200 species of crustaceans, 140 species of mollusks, 61 species of coral, 60 species of sponge confirmed
   - National park declared 1972 confirmed
   - 128 km north of Venezuelan mainland confirmed

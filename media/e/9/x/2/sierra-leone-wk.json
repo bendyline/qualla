@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/9/x/2/sierra-leone-wk/hero.jpg",
-        "filename": "Freetown-aerialview.jpg",
-        "caption": "Aerial view of Freetown, Sierra Leone, a helicopter expedition to Lungii airport, over the Freetown Harbour.",
-        "alt": "Aerial view of Freetown, Sierra Leone, a helicopter expedition to Lungii airport, over the Freetown Harbour.",
-        "width": 2048,
-        "height": 1536,
+        "path": "_m/e/9/x/2/sierra-leone-wk/image-food.jpg",
+        "filename": "Rice Akara, Plantains and Beans.jpg",
+        "caption": "This is an image of food from",
+        "alt": "This is an image of food from",
+        "width": 6000,
+        "height": 4000,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "David Hond",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freetown-aerialview.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Salone titi",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rice_Akara,_Plantains_and_Beans.jpg",
         "sourceType": "core",
         "sourceArticleId": "sierra-leone-wk",
         "sourceGeohash4": "e9x2",
-        "categories": [
-          "Aerial photographs of Sierra Leone",
-          "CC-BY-2.0",
-          "Coasts of Sierra Leone",
-          "Files with coordinates missing SDC location of creation",
-          "Flickr images uploaded by Flickr upload bot",
-          "Sierra Leone River",
-          "Views of Freetown"
-        ]
+        "mediumPath": "_m/e/9/x/2/sierra-leone-wk/image-food-medium.webp",
+        "smallPath": "_m/e/9/x/2/sierra-leone-wk/image-food-small.webp"
       },
       "images": [
         {
@@ -211,7 +204,7 @@
           "smallPath": "_m/e/9/x/2/sierra-leone-wk/mountain-bintunami-beg-small.webp"
         },
         {
-          "path": "_m/e/9/x/2/sierra-leone-wk/hero.jpg",
+          "path": "_m/e/9/q/x/regent-sierra-leone-wp/hero.jpg",
           "filename": "Hodroj Houssein (IMG 0046).jpg",
           "caption": "new road in Regent, Sierra Leone",
           "alt": "new road in Regent, Sierra Leone",
@@ -223,7 +216,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hodroj_Houssein_(IMG_0046).jpg",
           "sourceType": "core",
           "sourceArticleId": "sierra-leone-wk",
-          "sourceGeohash4": "e9x2"
+          "sourceGeohash4": "e9x2",
+          "mediumPath": "_m/e/9/q/x/regent-sierra-leone-wp/hero-medium.webp",
+          "smallPath": "_m/e/9/q/x/regent-sierra-leone-wp/hero-small.webp"
         },
         {
           "path": "_m/e/9/x/2/sierra-leone-wk/tiwa-island-flickr.jpg",
@@ -328,7 +323,7 @@
           "smallPath": "_m/e/9/x/2/sierra-leone-wk/rotifunk-hospital-aerial-small.webp"
         },
         {
-          "path": "_m/e/9/x/2/sierra-leone-wk/bunce-island-gravestone-04.jpg",
+          "path": "_m/e/9/w/8/bunce-island-wp/bunce-island-gravestone-04.jpg",
           "filename": "Bunce Island Gravestone 04.jpg",
           "caption": "Bunce Island is an island in the Sierra Leone River situated in Freetown Harbour. The island measures houses a castle that was built by a British slave-trading company in c.1670. Tens of thousands of Africans were shipped from here to the North American colonies of South Carolina and Georgia to be forced into slavery, and are the ancestors of many African Americans of the United States.",
           "alt": "Bunce Island is an island in the Sierra Leone River situated in Freetown Harbour. The island measures houses a castle that was built by a British slave-trading company in c.1670. Tens of thousands of Africans were shipped from here to the North American colonies of South Carolina and Georgia to be forced into slavery, and are the ancestors of many African Americans of the United States.",
@@ -340,10 +335,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bunce_Island_Gravestone_04.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "bunce-island-wp",
-          "sourceGeohash4": "e9x2"
+          "sourceGeohash4": "e9x2",
+          "mediumPath": "_m/e/9/w/8/bunce-island-wp/bunce-island-gravestone-04-medium.webp",
+          "smallPath": "_m/e/9/w/8/bunce-island-wp/bunce-island-gravestone-04-small.webp"
         },
         {
-          "path": "_m/e/9/x/2/sierra-leone-wk/bunce-island-gravestone-03.jpg",
+          "path": "_m/e/9/w/8/bunce-island-wp/bunce-island-gravestone-03.jpg",
           "filename": "Bunce Island Gravestone 03.jpg",
           "caption": "Bunce Island is an island in the Sierra Leone River situated in Freetown Harbour. The island measures houses a castle that was built by a British slave-trading company in c.1670. Tens of thousands of Africans were shipped from here to the North American colonies of South Carolina and Georgia to be forced into slavery, and are the ancestors of many African Americans of the United States.",
           "alt": "Bunce Island is an island in the Sierra Leone River situated in Freetown Harbour. The island measures houses a castle that was built by a British slave-trading company in c.1670. Tens of thousands of Africans were shipped from here to the North American colonies of South Carolina and Georgia to be forced into slavery, and are the ancestors of many African Americans of the United States.",
@@ -355,7 +352,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bunce_Island_Gravestone_03.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "bunce-island-wp",
-          "sourceGeohash4": "e9x2"
+          "sourceGeohash4": "e9x2",
+          "mediumPath": "_m/e/9/w/8/bunce-island-wp/bunce-island-gravestone-03-medium.webp",
+          "smallPath": "_m/e/9/w/8/bunce-island-wp/bunce-island-gravestone-03-small.webp"
         },
         {
           "path": "_m/e/9/x/2/sierra-leone-wk/paramount-chief-alhaji-issa-b-.jpg",
@@ -609,7 +608,8 @@
             "Media missing infobox template",
             "PD NASA",
             "Satellite pictures of Sierra Leone"
-          ]
+          ],
+          "smallPath": "_m/e/9/x/2/geography-of-sierra-leone-wp/satellite-image-of-sierra-leon-small.webp"
         },
         {
           "path": "_m/e/9/x/2/geography-of-sierra-leone-wp/sierra-leone-topography.png",
@@ -629,7 +629,8 @@
             "PD-self",
             "Self-published work",
             "Topographic maps of Sierra Leone"
-          ]
+          ],
+          "smallPath": "_m/e/9/x/2/geography-of-sierra-leone-wp/sierra-leone-topography-small.webp"
         },
         {
           "path": "_m/e/9/x/2/geography-of-sierra-leone-wp/outamba-kilimi-3-hippos-sierra.jpg",
@@ -650,7 +651,9 @@
             "Little Scarcies",
             "Self-published work",
             "Taken with Canon EOS 550D"
-          ]
+          ],
+          "mediumPath": "_m/e/9/x/2/geography-of-sierra-leone-wp/outamba-kilimi-3-hippos-sierra-medium.webp",
+          "smallPath": "_m/e/9/x/2/geography-of-sierra-leone-wp/outamba-kilimi-3-hippos-sierra-small.webp"
         },
         {
           "path": "_m/e/9/w/b/operation-barras-wp/unsierraleone.png",
@@ -670,7 +673,9 @@
             "Files with no machine-readable source",
             "Media missing infobox template",
             "Outdated maps of Sierra Leone"
-          ]
+          ],
+          "mediumPath": "_m/e/9/w/b/operation-barras-wp/unsierraleone-medium.webp",
+          "smallPath": "_m/e/9/w/b/operation-barras-wp/unsierraleone-small.webp"
         },
         {
           "path": "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero.png",
@@ -690,7 +695,8 @@
             "Media missing infobox template",
             "PD NASA",
             "The Blue Marble"
-          ]
+          ],
+          "smallPath": "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero-small.webp"
         },
         {
           "path": "_m/e/9/x/2/sierra-leone-wp/sierra-leone-rice-farmer.jpg",
@@ -712,7 +718,8 @@
             "Men of Africa",
             "Men of Sierra Leone",
             "PD USAID"
-          ]
+          ],
+          "smallPath": "_m/e/9/x/2/sierra-leone-wp/sierra-leone-rice-farmer-small.webp"
         },
         {
           "path": "_m/e/9/x/2/sierra-leone-wp/british-expeditionary-force-in.jpg",
@@ -732,7 +739,9 @@
             "History of Cameroon",
             "History of Freetown",
             "PD-US missing SDC copyright status"
-          ]
+          ],
+          "mediumPath": "_m/e/9/x/2/sierra-leone-wp/british-expeditionary-force-in-medium.webp",
+          "smallPath": "_m/e/9/x/2/sierra-leone-wp/british-expeditionary-force-in-small.webp"
         },
         {
           "path": "_m/e/9/x/2/sierra-leone-wp/kenema-kailahun-road.jpg",
@@ -747,7 +756,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kenema-Kailahun_Road.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sierra-leone-wp",
-          "sourceGeohash4": "e9x2"
+          "sourceGeohash4": "e9x2",
+          "smallPath": "_m/e/9/x/2/sierra-leone-wp/kenema-kailahun-road-small.webp"
         },
         {
           "path": "_m/e/9/x/2/sierra-leone-wp/all-people-s-congress-politica.jpg",
@@ -762,7 +772,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:All_People%27s_Congress_political_rally_Sierra_Leone_1968.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sierra-leone-wp",
-          "sourceGeohash4": "e9x2"
+          "sourceGeohash4": "e9x2",
+          "smallPath": "_m/e/9/x/2/sierra-leone-wp/all-people-s-congress-politica-small.webp"
         },
         {
           "path": "_m/e/9/w/8/freetown-wp/sierra-leone-national-stadium.jpg",
@@ -777,7 +788,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sierra_Leone_National_Stadium.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "freetown-wp",
-          "sourceGeohash4": "e9x2"
+          "sourceGeohash4": "e9x2",
+          "mediumPath": "_m/e/9/w/8/freetown-wp/sierra-leone-national-stadium-medium.webp",
+          "smallPath": "_m/e/9/w/8/freetown-wp/sierra-leone-national-stadium-small.webp"
         },
         {
           "path": "_m/e/9/x/2/sierra-leone-wp/pendemdu-mosque-and-church.jpg",
@@ -792,7 +805,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pendemdu_Mosque_and_Church.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "sierra-leone-wp",
-          "sourceGeohash4": "e9x2"
+          "sourceGeohash4": "e9x2",
+          "mediumPath": "_m/e/9/x/2/sierra-leone-wp/pendemdu-mosque-and-church-medium.webp",
+          "smallPath": "_m/e/9/x/2/sierra-leone-wp/pendemdu-mosque-and-church-small.webp"
         },
         {
           "path": "_m/e/9/x/2/sierra-leone-wp/guinea-liberia-sierra-leone-eb.jpg",
@@ -806,7 +821,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guinea_Liberia_Sierra_Leone_Ebola_Map_August_8_2014.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sierra-leone-wp",
-          "sourceGeohash4": "e9x2"
+          "sourceGeohash4": "e9x2",
+          "smallPath": "_m/e/9/x/2/sierra-leone-wp/guinea-liberia-sierra-leone-eb-small.webp"
         },
         {
           "path": "_m/e/9/x/2/sierra-leone-wp/sierra-leone-sapi-olifante-149.jpg",
@@ -821,7 +837,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sierra_leone,_sapi,_olifante,_1490-1510_ca.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sierra-leone-wp",
-          "sourceGeohash4": "e9x2"
+          "sourceGeohash4": "e9x2",
+          "mediumPath": "_m/e/9/x/2/sierra-leone-wp/sierra-leone-sapi-olifante-149-medium.webp",
+          "smallPath": "_m/e/9/x/2/sierra-leone-wp/sierra-leone-sapi-olifante-149-small.webp"
         },
         {
           "path": "_m/e/9/w/8/freetown-wp/cotton-tree-sierra-leone.jpg",
@@ -842,7 +860,8 @@
             "Cotton Tree (Sierra Leone)",
             "Rainforest trees",
             "Taken with Pentax Optio 330GS"
-          ]
+          ],
+          "smallPath": "_m/e/9/w/8/freetown-wp/cotton-tree-sierra-leone-small.webp"
         }
       ],
       "narration": [

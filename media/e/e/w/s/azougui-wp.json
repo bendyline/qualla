@@ -3,28 +3,34 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/e/w/s/azougui-wp/hero.jpg",
-        "filename": "AzouguiArchaeologicalSite.jpg",
-        "caption": "Archaeological site of Azougui",
-        "alt": "Archaeological site of Azougui",
-        "width": 1024,
-        "height": 661,
+        "path": "_m/e/e/w/s/azougui-wp/azougui-1997-04.jpg",
+        "filename": "Azougui 1997 04.jpg",
+        "caption": "Excavations at Azougui Archaeological Site, Adrar, Mauritania",
+        "alt": "Excavations at Azougui Archaeological Site, Adrar, Mauritania",
+        "width": 1026,
+        "height": 689,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Clemens Schmillen",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:AzouguiArchaeologicalSite.jpg",
-        "sourceType": "core",
+        "artist": "LBM1948",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Azougui_1997_04.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "azougui-wp",
         "sourceGeohash4": "eews",
         "categories": [
+          "Archaeological excavations",
           "Azougui",
           "CC-BY-SA-4.0",
-          "Self-published work"
-        ]
+          "March 1997 Mauritania photographs",
+          "People at work in Mauritania",
+          "Photographs by LBM1948",
+          "Self-published work",
+          "Works in Mauritania"
+        ],
+        "smallPath": "_m/e/e/w/s/azougui-wp/azougui-1997-04-small.webp"
       },
       "images": [
         {
-          "path": "_m/e/e/w/s/azougui-wp/hero.jpg",
+          "path": "_m/e/e/h/w/2008-nouakchott-israeli-embassy-attack-wp/hero.jpg",
           "filename": "Mauritania relief location map.jpg",
           "caption": "Blank physical map of Mauritania, for geo-location purposes.",
           "alt": "Blank physical map of Mauritania, for geo-location purposes.",
@@ -44,10 +50,11 @@
             "License migration redundant",
             "Relief location maps of Mauritania",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/e/e/h/w/2008-nouakchott-israeli-embassy-attack-wp/hero-small.webp"
         },
         {
-          "path": "_m/e/e/w/s/azougui-wp/azouguimausoleumhadrami.jpg",
+          "path": "_m/e/e/w/s/azougi-wk/azouguimausoleumhadrami.jpg",
           "filename": "AzouguiMausoleumHadrami.jpg",
           "caption": "Mausoleum of al-Imam al-Hadrami at Azougui",
           "alt": "Mausoleum of al-Imam al-Hadrami at Azougui",
@@ -64,7 +71,8 @@
             "Azougui",
             "CC-BY-SA-4.0",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/e/e/w/s/azougi-wk/azouguimausoleumhadrami-small.webp"
         },
         {
           "path": "_m/e/e/w/s/azougui-wp/azougui-1997-03.jpg",

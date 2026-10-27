@@ -41,7 +41,7 @@ Located at 36.214°N, 140.101°E on Mount Tsukuba (877 m / 2,877 ft) in Ibaraki 
 - [History and Culture of Tsukuba City - Tsukuba Science City Network](https://www.tsukuba-network.jp/en/overview/history.php)
   - Fuji of the west, Tsukuba of the east proverb
   - 3,000 years of worship history
-- [Tsukubasan Shrine - Wikipedia (fact-check)](https://en.wikipedia.org/wiki/Tsukubasan_Shrine)
+- [Tsukubasan Shrine - Wikipedia (fact-check)](https://en.wikipedia.org/?curid=69460757)
   - Shrine dedicated to Izanagi and Izanami confirmed
   - Nantai-san (871m) enshrines Izanagi, Nyotai-san (877m) enshrines Izanami confirmed
   - Four sessha auxiliary shrines along Shirakumo Bridge trail confirmed

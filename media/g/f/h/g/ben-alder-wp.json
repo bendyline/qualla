@@ -3,28 +3,34 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/h/g/ben-alder-wp/hero.jpg",
-        "filename": "Schiehallion 01.jpg",
-        "caption": "Schiehallion viewed across the River Tay, with its characteristic symmetry.",
-        "alt": "Schiehallion viewed across the River Tay, with its characteristic symmetry.",
-        "width": 3072,
-        "height": 2048,
+        "path": "_m/g/f/h/g/ben-alder-wp/ben-alder-from-sgairneach-mhor.jpg",
+        "filename": "Ben Alder from Sgairneach Mhor.jpg",
+        "caption": "A view west from the top of Sgairneach Mhòr",
+        "alt": "A view west from the top of Sgairneach Mhòr",
+        "width": 2000,
+        "height": 1500,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "The original uploader was Andrew2606 at English Wikipedia.",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schiehallion_01.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "Mick Knapton (talk)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ben_Alder_from_Sgairneach_Mhor.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "ben-alder-wp",
         "sourceGeohash4": "gfhg",
         "categories": [
-          "CC-BY-3.0",
-          "Schiehallion",
-          "Taken with Canon EOS 300D"
-        ]
+          "Ben Alder",
+          "CC-BY-SA-3.0",
+          "GFDL",
+          "Grampians",
+          "License migration redundant",
+          "Self-published work",
+          "Sgairneach Mhòr"
+        ],
+        "mediumPath": "_m/g/f/h/g/ben-alder-wp/ben-alder-from-sgairneach-mhor-medium.webp",
+        "smallPath": "_m/g/f/h/g/ben-alder-wp/ben-alder-from-sgairneach-mhor-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/h/g/ben-alder-wp/sgurr-eilde-mor-sgor-e.jpg",
+          "path": "_m/g/f/h/7/ben-nevis-wp/sgurr-eilde-mor-sgor-e.jpg",
           "filename": "Sgurr Eilde Mòr.jpg",
           "caption": "Sgurr Eilde Mòr from Sgòr Eilde Beag",
           "alt": "Sgurr Eilde Mòr from Sgòr Eilde Beag",
@@ -43,10 +49,11 @@
             "License migration redundant",
             "Self-published work",
             "Sgurr Eilde Mòr"
-          ]
+          ],
+          "smallPath": "_m/g/f/h/7/ben-nevis-wp/sgurr-eilde-mor-sgor-e-small.webp"
         },
         {
-          "path": "_m/g/f/h/g/ben-alder-wp/personal-photograph-ta.jpg",
+          "path": "_m/g/c/m/j/snowdon-wp/personal-photograph-ta.jpg",
           "filename": "Slioch from Loch Maree.jpg",
           "caption": "Personal photograph taken by Mick Knapton in May 1992",
           "alt": "Personal photograph taken by Mick Knapton in May 1992",
@@ -66,10 +73,11 @@
             "Loch Maree",
             "Self-published work",
             "Slioch"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/j/snowdon-wp/personal-photograph-ta-small.webp"
         },
         {
-          "path": "_m/g/f/h/g/ben-alder-wp/the-matterhorn-as-seen-from-ze.png",
+          "path": "_m/4/q/u/j/cuernos-del-paine-wp/the-matterhorn-as-seen-from-ze.png",
           "filename": "The Matterhorn as seen from Zermatt.png",
           "caption": "The Matterhorn as seen from Zermatt.  This is a square crop of",
           "alt": "The Matterhorn as seen from Zermatt.  This is a square crop of",
@@ -86,7 +94,8 @@
             "CC-BY-SA-4.0",
             "North-east side of Matterhorn",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/4/q/u/j/cuernos-del-paine-wp/the-matterhorn-as-seen-from-ze-small.webp"
         },
         {
           "path": "_m/g/f/h/g/ben-alder-wp/ben-alder-from-sgairneach-mhor.jpg",
@@ -495,7 +504,8 @@
             "Isle of Mull (ship, 1988)",
             "License migration completed",
             "Oban harbour"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/oban-harbour-14839d-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/bute-satellite.jpg",
@@ -516,7 +526,8 @@
             "Landsat images of the United Kingdom",
             "NASA World Wind",
             "PD World Wind"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/bute-satellite-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden.jpg",
@@ -540,7 +551,9 @@
             "PD-Art (PD-old-auto-expired)",
             "PD-old-100-expired",
             "Paintings without Wikidata item"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j.jpg",
@@ -559,7 +572,9 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Eilean Donan Castle viewed from south"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/scottish-highlands-wv-region-m.png",
@@ -574,7 +589,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scottish_Highlands_WV_region_map_EN.png",
           "sourceType": "poi",
           "sourceArticleId": "scottish-highlands-wp",
-          "sourceGeohash4": "gfhs"
+          "sourceGeohash4": "gfhs",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/scottish-highlands-wv-region-m-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr.jpg",
@@ -589,7 +605,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:62005_Glenfinnan_Viaduct_-_geograph.org.uk_-_2308595.jpg",
           "sourceType": "poi",
           "sourceArticleId": "scottish-highlands-wp",
-          "sourceGeohash4": "gfhs"
+          "sourceGeohash4": "gfhs",
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr-small.webp"
         }
       ],
       "narration": [

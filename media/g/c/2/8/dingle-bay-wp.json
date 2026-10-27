@@ -3,27 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/2/8/dingle-bay-wp/hero.jpg",
-        "filename": "Conor Pass Bull's Head.JPG",
-        "caption": "Bull's Head et Dingle Bay  depuis Conor Pass - péninsule de Dingle, dans le comté de Kerry en Irlande.",
-        "alt": "Bull's Head et Dingle Bay  depuis Conor Pass - péninsule de Dingle, dans le comté de Kerry en Irlande.",
-        "width": 2048,
-        "height": 1536,
+        "path": "_m/g/c/2/8/dingle-bay-wp/dingle-bay.jpg",
+        "filename": "Dingle Bay.jpg",
+        "alt": "Dingle Bay.jpg",
+        "width": 3216,
+        "height": 2136,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Patrice78500",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Conor_Pass_Bull%27s_Head.JPG",
+        "license": "CC BY 2.0",
+        "artist": "Matt Gillman",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dingle_Bay.jpg",
         "sourceType": "core",
         "sourceArticleId": "dingle-bay-wp",
         "sourceGeohash4": "gc28",
         "categories": [
-          "Conor Pass",
+          "CC-BY-2.0",
           "Dingle Bay",
-          "PD-self",
-          "Republic of Ireland photographs taken on 2006-07-25",
-          "Self-published work",
-          "Taken with Canon PowerShot A75"
-        ]
+          "Flickr images uploaded by Flickr upload bot",
+          "Media lacking a description"
+        ],
+        "mediumPath": "_m/g/c/2/8/dingle-bay-wp/dingle-bay-medium.webp",
+        "smallPath": "_m/g/c/2/8/dingle-bay-wp/dingle-bay-small.webp"
       },
       "images": [
         {
@@ -197,7 +196,7 @@
           "smallPath": "_m/g/c/2/8/dingle-bay-wp/bronze-of-fungi-the-dingle-bay-small.webp"
         },
         {
-          "path": "_m/g/c/2/8/dingle-bay-wp/collnaharragill-upper-kerry-ge.jpg",
+          "path": "_m/g/c/0/z/iveragh-peninsula-wp/collnaharragill-upper-kerry-ge.jpg",
           "filename": "Collnaharragill Upper, Kerry - geograph.org.uk - 544387.jpg",
           "caption": "Collnaharragill Upper, Kerry Looking slightly north of west from \"Dingle Bay View\" cottage.",
           "alt": "Collnaharragill Upper, Kerry Looking slightly north of west from \"Dingle Bay View\" cottage.",
@@ -209,7 +208,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collnaharragill_Upper,_Kerry_-_geograph.org.uk_-_544387.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "iveragh-peninsula-wp",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "smallPath": "_m/g/c/0/z/iveragh-peninsula-wp/collnaharragill-upper-kerry-ge-small.webp"
         },
         {
           "path": "_m/g/c/2/8/dingle-bay-wp/along-rossbehy-creek-geograph-.jpg",
@@ -352,7 +352,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dingle_Bay_-_geograph.org.uk_-_1359325.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "ring-of-kerry-wp",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "smallPath": "_m/g/c/2/8/dingle-bay-wp/dingle-bay-geograph-org-uk-135-small.webp"
         },
         {
           "path": "_m/g/c/2/8/dingle-bay-wp/dingle-bay-view.jpg",
@@ -388,7 +389,7 @@
           "smallPath": "_m/g/c/2/8/dingle-bay-wp/beach-at-rossbeigh-in-dingle-b-small.webp"
         },
         {
-          "path": "_m/g/c/2/8/dingle-bay-wp/beach-at-inch-in-dingle-bay-ke.jpg",
+          "path": "_m/g/c/2/b/dingle-peninsula-wp/beach-at-inch-in-dingle-bay-ke.jpg",
           "filename": "Beach at Inch in Dingle Bay Kerry Ireland.jpg",
           "caption": "Inch Beach in Dingle Bay at Dingle Peninsula in County Kerry, Ireland",
           "alt": "Inch Beach in Dingle Bay at Dingle Peninsula in County Kerry, Ireland",
@@ -400,7 +401,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beach_at_Inch_in_Dingle_Bay_Kerry_Ireland.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "dingle-peninsula-wp",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "smallPath": "_m/g/c/2/b/dingle-peninsula-wp/beach-at-inch-in-dingle-bay-ke-small.webp"
         },
         {
           "path": "_m/g/c/2/8/dingle-bay-wp/dingle-bay-r559-dingle-peninsu.jpg",
@@ -419,7 +421,7 @@
           "smallPath": "_m/g/c/2/8/dingle-bay-wp/dingle-bay-r559-dingle-peninsu-small.webp"
         },
         {
-          "path": "_m/g/c/2/8/dingle-bay-wp/hero.jpg",
+          "path": "_m/g/c/0/z/iveragh-peninsula-wp/hero.jpg",
           "filename": "Beach Rossbeigh in Dingle Bay Kerry Ireland.jpg",
           "caption": "Beach at Rossbeigh in the Dingle Bay of County Kerry, Ireland",
           "alt": "Beach at Rossbeigh in the Dingle Bay of County Kerry, Ireland",
@@ -431,7 +433,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beach_Rossbeigh_in_Dingle_Bay_Kerry_Ireland.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "iveragh-peninsula-wp",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "mediumPath": "_m/g/c/0/z/iveragh-peninsula-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/0/z/iveragh-peninsula-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/blasket-harbour.jpg",
@@ -453,7 +457,9 @@
             "Ports and harbours in the Republic of Ireland",
             "Self-published work",
             "Taken with Canon Digital IXUS 65"
-          ]
+          ],
+          "mediumPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/blasket-harbour-medium.webp",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/blasket-harbour-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory.jpg",
@@ -481,7 +487,9 @@
             "Quality images of Ireland by Ingo Mehling",
             "Quality images of cultural heritage monuments in County Kerry",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory-medium.webp",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/dolphin-fungie-memorial-dingle.jpg",
@@ -501,7 +509,8 @@
             "CC-BY-SA-3.0",
             "Fungie",
             "Monuments and memorials in County Kerry"
-          ]
+          ],
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/dolphin-fungie-memorial-dingle-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/seal-in-dingle-last-year-58114.jpg",
@@ -516,7 +525,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seal_in_Dingle_last_Year_(5811421838).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "dingle-peninsula",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/seal-in-dingle-last-year-58114-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din.jpg",
@@ -530,7 +540,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strand_Street_-_Sr%C3%A1id_na_Tr%C3%A1,_Dingle_(cropped).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "dingle-peninsula",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "mediumPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din-medium.webp",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din-small.webp"
         },
         {
           "path": "_m/g/c/2/b/annascaul-wp/south-pole-inn-01.jpg",
@@ -551,7 +563,9 @@
             "Republic of Ireland photographs taken on 2016-05-15",
             "Self-published work",
             "South Pole Inn"
-          ]
+          ],
+          "mediumPath": "_m/g/c/2/b/annascaul-wp/south-pole-inn-01-medium.webp",
+          "smallPath": "_m/g/c/2/b/annascaul-wp/south-pole-inn-01-small.webp"
         },
         {
           "path": "_m/g/c/2/b/annascaul-wp/annascaul-banner.jpg",
@@ -579,7 +593,9 @@
             "Self-published work missing SDC copyright license",
             "Taken on missing SDC inception",
             "Wikivoyage banners of Ireland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/2/b/annascaul-wp/annascaul-banner-medium.webp",
+          "smallPath": "_m/g/c/2/b/annascaul-wp/annascaul-banner-small.webp"
         },
         {
           "path": "_m/g/c/3/0/killorglin-wp/king-puck.jpg",
@@ -603,7 +619,8 @@
             "Self-published work",
             "Statue of King Puck",
             "Taken with Canon PowerShot A80"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/0/killorglin-wp/king-puck-small.webp"
         },
         {
           "path": "_m/g/c/3/0/killorglin-wp/kerry-bog-village-museum-02.jpg",
@@ -625,7 +642,9 @@
             "Kerry Bog Village Museum",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/0/killorglin-wp/kerry-bog-village-museum-02-medium.webp",
+          "smallPath": "_m/g/c/3/0/killorglin-wp/kerry-bog-village-museum-02-small.webp"
         },
         {
           "path": "_m/g/c/3/0/killorglin-wp/rossbeigh.jpg",
@@ -645,7 +664,8 @@
             "Beaches of County Kerry",
             "CC-BY-SA-3.0",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/0/killorglin-wp/rossbeigh-small.webp"
         },
         {
           "path": "_m/g/c/3/0/killorglin-wp/cromane-aerial-shot.jpg",
@@ -668,7 +688,9 @@
             "Files with coordinates missing SDC location of creation",
             "Populated places in County Kerry",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/0/killorglin-wp/cromane-aerial-shot-medium.webp",
+          "smallPath": "_m/g/c/3/0/killorglin-wp/cromane-aerial-shot-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut.jpg",
@@ -691,7 +713,9 @@
             "License migration completed",
             "Listowel",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe.jpg",
@@ -706,7 +730,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_slugs_-_forest_and_bog_phenotypes.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir.jpg",
@@ -721,7 +747,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_Airport_(KIR).jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory.jpg",
@@ -736,7 +764,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballinskelligs_Priory.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/portmagee.jpg",
@@ -751,7 +781,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portmagee.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/portmagee-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/portmagee-small.webp"
         }
       ],
       "narration": [

@@ -38,9 +38,9 @@ Bougouni lies at 11.42°N, 7.48°W in southern Mali's Sikasso Region, about 170 
   - Corrected: cercle population from 'just under 252,000' to 'just under 460,000' (actual 2009 census figure: 459,509)
   - Fula and Bambara as main ethnic groups confirmed
   - Bougouni sits approximately 170 km south of Bamako confirmed
-- [Wikipedia - Bougouni Cercle](https://en.wikipedia.org/wiki/Bougouni_Cercle)
+- [Wikipedia - Bougouni Cercle](https://en.wikipedia.org/?curid=21408361)
   - Bougouni Cercle 2009 census population: 459,509 (story corrected from 252,000)
-- [Wikipedia - Aurillac (sister city relationship)](https://en.wikipedia.org/wiki/Bougouni)
+- [Wikipedia - Aurillac (sister city relationship)](https://en.wikipedia.org/?curid=2144804)
   - Bougouni-Aurillac sister city relationship since 1985 confirmed
 
 ## Review Notes

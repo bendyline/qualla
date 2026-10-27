@@ -33,7 +33,7 @@ Coordinates: 9.50N, 1.00W. The former Northern Territories cover most of present
 ## Sources
 
 - [Northern Territories of the Gold Coast - Wikipedia](https://en.wikipedia.org/?curid=63983317)
-- [Northern Territories of the Gold Coast - Wikipedia](https://en.wikipedia.org/wiki/Northern_Territories_of_the_Gold_Coast)
+- [Northern Territories of the Gold Coast - Wikipedia](https://en.wikipedia.org/?curid=63983317)
   - Protectorate formally established 26 September 1901
   - Chief Commissioner resident at Gambaga
   - Ghana independence 6 March 1957

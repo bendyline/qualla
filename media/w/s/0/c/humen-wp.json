@@ -3,30 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/s/0/c/humen-wp/hero.jpg",
-        "filename": "Humen Bridge-1.jpg",
-        "caption": "Humen Bridge in Dongguan",
-        "alt": "Humen Bridge in Dongguan",
-        "width": 778,
-        "height": 538,
+        "path": "_m/w/s/0/c/humen-wp/a-survey-of-the-tigris-from-ca.jpg",
+        "filename": "A survey of the Tigris, from Canton to the island of Lankeet - To William Henry Pigou... ; this survey is inscribed by (...) J. Huddart ; Wigzell sc.t - btv1b53133402v (1 of 2).jpg",
+        "caption": "Sujet : Canton -- Environs -- Côtes\nÉchelle(s) : [Ca 1:98 000], a scale of twelve english miles [= 19,8 cm]\nAppartient à l’ensemble documentaire : PFceChi\nCouverture : Mer de Chine Méridionale\nChine\nE 113°16' - E 113°43' / N 23°11' - N 22°40'\nLangue : anglais\n\nÉditeur : R. Sayer (London)",
+        "alt": "Sujet : Canton -- Environs -- Côtes\nÉchelle(s) : [Ca 1:98 000], a scale of twelve english miles [= 19,8 cm]\nAppartient à l’ensemble documentaire : PFceChi\nCouverture : Mer de Chine Méridionale\nChine\nE 113°16' - E 113°43' / N 23°11' - N 22°40'\nLangue : anglais\n\nÉditeur : R. Sayer (London)",
+        "width": 5884,
+        "height": 7182,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "Tung Wu from Shenzhen, China",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Humen_Bridge-1.jpg",
-        "sourceType": "core",
+        "license": "Public domain",
+        "artist": "Huddart, Joseph (1741-1816 ; hydrographe). Cartographe",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_survey_of_the_Tigris,_from_Canton_to_the_island_of_Lankeet_-_To_William_Henry_Pigou..._;_this_survey_is_inscribed_by_(...)_J._Huddart_;_Wigzell_sc.t_-_btv1b53133402v_(1_of_2).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "humen-wp",
         "sourceGeohash4": "ws0c",
-        "categories": [
-          "Aerial photographs of Guangdong",
-          "CC-BY-2.0",
-          "Files with coordinates missing SDC location of creation",
-          "Flickr images reviewed by FlickreviewR",
-          "Humen Bridge",
-          "Humen Strait",
-          "Images with annotations",
-          "Lower Hengdang",
-          "Weiyuan Fort"
-        ]
+        "mediumPath": "_m/w/s/0/c/humen-wp/a-survey-of-the-tigris-from-ca-medium.webp",
+        "smallPath": "_m/w/s/0/c/humen-wp/a-survey-of-the-tigris-from-ca-small.webp"
       },
       "images": [
         {
@@ -172,7 +163,7 @@
           "smallPath": "_m/w/s/0/c/humen-wp/d559-n-411-la-riviere-de-canto-small.webp"
         },
         {
-          "path": "_m/w/s/0/c/humen-wp/du-halde-description-de-la-chi.jpg",
+          "path": "_m/w/e/b/z/nei-lingding-island-wp/du-halde-description-de-la-chi.jpg",
           "filename": "Du Halde - Description de la Chine - Carte de l entree de Canton.jpg",
           "caption": "A map of the mouth of the Pearl River in Guangdong, China, with an inset map of Guangzhoufu (廣州府). An engraving from the Dutch edition of Du Halde's Description of China, Vol. I, p. 231.",
           "alt": "A map of the mouth of the Pearl River in Guangdong, China, with an inset map of Guangzhoufu (廣州府). An engraving from the Dutch edition of Du Halde's Description of China, Vol. I, p. 231.",
@@ -184,7 +175,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Du_Halde_-_Description_de_la_Chine_-_Carte_de_l_entree_de_Canton.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "nei-lingding-island-wp",
-          "sourceGeohash4": "ws0c"
+          "sourceGeohash4": "ws0c",
+          "smallPath": "_m/w/e/b/z/nei-lingding-island-wp/du-halde-description-de-la-chi-small.webp"
         },
         {
           "path": "_m/w/s/0/c/humen-wp/tcitp-d077-british-warships-pa.jpg",
@@ -291,7 +283,8 @@
             "Self-published work",
             "Shopping malls in Jiangmen",
             "Streets in Jiangmen"
-          ]
+          ],
+          "smallPath": "_m/w/s/0/b/pearl-river-delta-wk/gallery-1-small.webp"
         },
         {
           "path": "_m/w/s/0/b/pearl-river-delta-wk/montage-various-donggu.jpg",
@@ -315,7 +308,8 @@
             "Montages of cities in China",
             "Mount Guanyin (Dongguan)",
             "Skyscrapers in Dongguan"
-          ]
+          ],
+          "smallPath": "_m/w/s/0/b/pearl-river-delta-wk/montage-various-donggu-small.webp"
         },
         {
           "path": "_m/w/s/0/b/pearl-river-delta-wk/zhuhai.jpg",
@@ -342,7 +336,9 @@
             "Jiuzhou Islands",
             "Self-published work",
             "Taken with Canon PowerShot G11"
-          ]
+          ],
+          "mediumPath": "_m/w/s/0/b/pearl-river-delta-wk/zhuhai-medium.webp",
+          "smallPath": "_m/w/s/0/b/pearl-river-delta-wk/zhuhai-small.webp"
         },
         {
           "path": "_m/w/w/c/6/zhongshan-state-wp/zhongshan-montage.jpg",
@@ -364,7 +360,9 @@
             "Montages of cities in China",
             "Zhongshan",
             "Zhongshan Lihe Plaza"
-          ]
+          ],
+          "mediumPath": "_m/w/w/c/6/zhongshan-state-wp/zhongshan-montage-medium.webp",
+          "smallPath": "_m/w/w/c/6/zhongshan-state-wp/zhongshan-montage-small.webp"
         },
         {
           "path": "_m/w/s/0/b/pearl-river-delta-wk/montage-various-huizho.png",
@@ -385,7 +383,8 @@
             "Huizhou",
             "Montages of cities in China",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/s/0/b/pearl-river-delta-wk/montage-various-huizho-small.webp"
         },
         {
           "path": "_m/w/s/0/b/pearl-river-delta-wk/hero.jpg",
@@ -404,7 +403,9 @@
           "categories": [
             "Buildings in Luohu District",
             "CC-BY-SA-4.0"
-          ]
+          ],
+          "mediumPath": "_m/w/s/0/b/pearl-river-delta-wk/hero-medium.webp",
+          "smallPath": "_m/w/s/0/b/pearl-river-delta-wk/hero-small.webp"
         },
         {
           "path": "_m/tpc/ib/n-/ba/tt/ibn-battuta/canton-tower-20220626-cropped.jpg",
@@ -419,7 +420,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canton_Tower_20220626_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "ibn-battuta",
-          "sourceGeohash4": "ws0b"
+          "sourceGeohash4": "ws0b",
+          "mediumPath": "_m/tpc/ib/n-/ba/tt/ibn-battuta/canton-tower-20220626-cropped-medium.webp",
+          "smallPath": "_m/tpc/ib/n-/ba/tt/ibn-battuta/canton-tower-20220626-cropped-small.webp"
         },
         {
           "path": "_m/w/s/0/b/pearl-river-delta-wk/qiandeng-lake-park-nig.jpg",
@@ -434,7 +437,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qiandeng_Lake_Park_at_Night_10.jpg",
           "sourceType": "poi",
           "sourceArticleId": "pearl-river-delta-wk",
-          "sourceGeohash4": "ws0b"
+          "sourceGeohash4": "ws0b",
+          "mediumPath": "_m/w/s/0/b/pearl-river-delta-wk/qiandeng-lake-park-nig-medium.webp",
+          "smallPath": "_m/w/s/0/b/pearl-river-delta-wk/qiandeng-lake-park-nig-small.webp"
         },
         {
           "path": "_m/w/s/0/b/pearl-river-delta-wk/18065-kaiping.jpg",
@@ -449,7 +454,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:18065-Kaiping_(24801351027).jpg",
           "sourceType": "poi",
           "sourceArticleId": "pearl-river-delta-wk",
-          "sourceGeohash4": "ws0b"
+          "sourceGeohash4": "ws0b",
+          "mediumPath": "_m/w/s/0/b/pearl-river-delta-wk/18065-kaiping-medium.webp",
+          "smallPath": "_m/w/s/0/b/pearl-river-delta-wk/18065-kaiping-small.webp"
         },
         {
           "path": "_m/w/s/0/b/pearl-river-delta-wk/03048-guangzhou.jpg",
@@ -464,7 +471,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chen_Clan_Ancestral_Hall_03048-Guangzhou_(32881211901).jpg",
           "sourceType": "poi",
           "sourceArticleId": "pearl-river-delta-wk",
-          "sourceGeohash4": "ws0b"
+          "sourceGeohash4": "ws0b",
+          "mediumPath": "_m/w/s/0/b/pearl-river-delta-wk/03048-guangzhou-medium.webp",
+          "smallPath": "_m/w/s/0/b/pearl-river-delta-wk/03048-guangzhou-small.webp"
         },
         {
           "path": "_m/w/s/0/e/guangzhou-wk/sculpture-five-rams-gu.jpg",
@@ -486,7 +495,8 @@
             "Five-Ram Sculpture",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-LS2"
-          ]
+          ],
+          "smallPath": "_m/w/s/0/e/guangzhou-wk/sculpture-five-rams-gu-small.webp"
         },
         {
           "path": "_m/w/s/0/e/guangzhou-wk/zhujiang-new-town-2009.jpg",
@@ -516,7 +526,9 @@
             "Self-published work",
             "Skylines of Guangzhou",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/w/s/0/e/guangzhou-wk/zhujiang-new-town-2009-medium.webp",
+          "smallPath": "_m/w/s/0/e/guangzhou-wk/zhujiang-new-town-2009-small.webp"
         },
         {
           "path": "_m/w/s/0/e/guangzhou-wk/guangzhou-north-railwa.jpg",
@@ -539,7 +551,8 @@
             "Guangzhoubei Railway Station",
             "Photos by User:Baycrest",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/s/0/e/guangzhou-wk/guangzhou-north-railwa-small.webp"
         },
         {
           "path": "_m/w/s/0/e/guangzhou-wk/taxi-guangzhou-having.jpg",
@@ -566,7 +579,8 @@
             "Self-published work",
             "Taken with Canon Digital IXUS 90 IS",
             "Taxis in Guangzhou"
-          ]
+          ],
+          "smallPath": "_m/w/s/0/e/guangzhou-wk/taxi-guangzhou-having-small.webp"
         },
         {
           "path": "_m/w/s/0/e/guangzhou-wk/bar-street-baak-ngo-ta.jpg",
@@ -590,7 +604,8 @@
             "Neon signs in China",
             "Night in Guangzhou",
             "Taken with Sony Ericsson W800"
-          ]
+          ],
+          "smallPath": "_m/w/s/0/e/guangzhou-wk/bar-street-baak-ngo-ta-small.webp"
         },
         {
           "path": "_m/w/s/0/e/guangzhou-wk/cave-bar.jpg",
@@ -605,7 +620,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cave_Bar.JPG",
           "sourceType": "poi",
           "sourceArticleId": "guangzhou-wk",
-          "sourceGeohash4": "ws0e"
+          "sourceGeohash4": "ws0e",
+          "mediumPath": "_m/w/s/0/e/guangzhou-wk/cave-bar-medium.webp",
+          "smallPath": "_m/w/s/0/e/guangzhou-wk/cave-bar-small.webp"
         },
         {
           "path": "_m/w/s/0/e/guangzhou-wk/southern-end-baohan-st.jpg",
@@ -620,7 +637,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_area,_Guangzhou_-_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "guangzhou-wk",
-          "sourceGeohash4": "ws0e"
+          "sourceGeohash4": "ws0e",
+          "mediumPath": "_m/w/s/0/e/guangzhou-wk/southern-end-baohan-st-medium.webp",
+          "smallPath": "_m/w/s/0/e/guangzhou-wk/southern-end-baohan-st-small.webp"
         },
         {
           "path": "_m/w/s/0/e/guangzhou-wk/gallery-9.jpg",
@@ -635,7 +654,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guangzhou_Railway_Station_2013.11.16_07-27-58.jpg",
           "sourceType": "poi",
           "sourceArticleId": "guangzhou-wk",
-          "sourceGeohash4": "ws0e"
+          "sourceGeohash4": "ws0e",
+          "mediumPath": "_m/w/s/0/e/guangzhou-wk/gallery-9-medium.webp",
+          "smallPath": "_m/w/s/0/e/guangzhou-wk/gallery-9-small.webp"
         },
         {
           "path": "_m/w/s/0/e/guangzhou-wk/dsc_6894.jpg",
@@ -650,7 +671,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Train_in_China_DSC_6894_(9406365585).jpg",
           "sourceType": "poi",
           "sourceArticleId": "guangzhou-wk",
-          "sourceGeohash4": "ws0e"
+          "sourceGeohash4": "ws0e",
+          "mediumPath": "_m/w/s/0/e/guangzhou-wk/dsc_6894-medium.webp",
+          "smallPath": "_m/w/s/0/e/guangzhou-wk/dsc_6894-small.webp"
         },
         {
           "path": "_m/w/s/0/e/guangzhou-wk/gallery-11.jpg",
@@ -665,7 +688,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exterior,_Guangzhoudong_Railway_Station_20240602.jpg",
           "sourceType": "poi",
           "sourceArticleId": "guangzhou-wk",
-          "sourceGeohash4": "ws0e"
+          "sourceGeohash4": "ws0e",
+          "mediumPath": "_m/w/s/0/e/guangzhou-wk/gallery-11-medium.webp",
+          "smallPath": "_m/w/s/0/e/guangzhou-wk/gallery-11-small.webp"
         },
         {
           "path": "_m/w/s/0/e/guangzhou-wk/gallery-12.jpg",
@@ -680,7 +705,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_View_(W),_Guangzhoubaiyun_Railway_Station_20241103-A.jpg",
           "sourceType": "poi",
           "sourceArticleId": "guangzhou-wk",
-          "sourceGeohash4": "ws0e"
+          "sourceGeohash4": "ws0e",
+          "mediumPath": "_m/w/s/0/e/guangzhou-wk/gallery-12-medium.webp",
+          "smallPath": "_m/w/s/0/e/guangzhou-wk/gallery-12-small.webp"
         },
         {
           "path": "_m/w/s/0/e/guangzhou-wk/hero.jpg",
@@ -695,7 +722,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20241207_Aerial_view_of_Guangzhou_Baiyun_International_Airport.jpg",
           "sourceType": "poi",
           "sourceArticleId": "guangzhou-wk",
-          "sourceGeohash4": "ws0e"
+          "sourceGeohash4": "ws0e",
+          "smallPath": "_m/w/s/0/e/guangzhou-wk/hero-small.webp"
         },
         {
           "path": "_m/w/s/0/e/guangzhou-wk/gallery-13.jpg",
@@ -710,7 +738,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_View_(E),_Guangzhounan_Railway_Station_20250209.jpg",
           "sourceType": "poi",
           "sourceArticleId": "guangzhou-wk",
-          "sourceGeohash4": "ws0e"
+          "sourceGeohash4": "ws0e",
+          "mediumPath": "_m/w/s/0/e/guangzhou-wk/gallery-13-medium.webp",
+          "smallPath": "_m/w/s/0/e/guangzhou-wk/gallery-13-small.webp"
         }
       ],
       "narration": [

@@ -41,7 +41,7 @@ Located at 39.18N, 141.14E in the Kitakami River plain near Oshu, Iwate Prefectu
   - National Historic Site designation confirmed
   - Aterui and More surrendered with approximately 500 warriors confirmed
   - Captives taken to Kyoto and executed confirmed
-- [Isawa Castle - Wikipedia](https://en.wikipedia.org/wiki/Isawa_Castle)
+- [Isawa Castle - Wikipedia](https://en.wikipedia.org/?curid=54955485)
   - Built in 802 AD by Sakanoue no Tamuramaro confirmed
   - 670-meter square double-moat compound confirmed (some sources say 675m, within margin)
   - Four thousand soldiers in campaign confirmed

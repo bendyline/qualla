@@ -36,7 +36,7 @@ The Vertical Earth Kilometer is at 51.3132N, 9.4967E, in Friedrichsplatz immedia
 
 ## Sources
 
-- [The Vertical Earth Kilometer - Wikipedia](https://en.wikipedia.org/wiki/The_Vertical_Earth_Kilometer)
+- [The Vertical Earth Kilometer - Wikipedia](https://en.wikipedia.org/?curid=64789472)
 - [Walter De Maria, The Vertical Earth Kilometer - Dia Art Foundation](https://www.diaart.org/visit/visit-our-locations-sites/walter-de-maria-the-vertical-earth-kilometer-kassel-germany)
   - borehole 1,000 m deep through six geological layers, drilled over 79 days
   - 167 brass rods screwed together; rod 5 cm in diameter, 1 km long
@@ -47,7 +47,7 @@ The Vertical Earth Kilometer is at 51.3132N, 9.4967E, in Friedrichsplatz immedia
   - 500 solid brass rods, 2 m long and 2 in (51 mm) in diameter
   - laid in 5 rows of 100 rods; spacing between rods increases by 5 mm
   - located in a SoHo storefront, New York, commissioned by Dia in 1979
-- [The Vertical Earth Kilometer - Wikipedia (re-verification)](https://en.wikipedia.org/wiki/The_Vertical_Earth_Kilometer)
+- [The Vertical Earth Kilometer - Wikipedia (re-verification)](https://en.wikipedia.org/?curid=64789472)
   - installed 1977 for documenta 6; 1 km borehole through six geological layers, drilled over 79 days
   - 18-ton brass rod, 5 cm diameter, set flush in a 2x2 m red sandstone plate
   - cost 750,000 Deutsche Marks, roughly $2 million USD in 2016 values

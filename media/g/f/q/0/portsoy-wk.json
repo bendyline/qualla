@@ -3,26 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/q/0/portsoy-wk/hero.jpg",
-        "filename": "Portsoy banner Harbour.JPG",
-        "caption": "Photo by Michael Garlick",
-        "alt": "Photo by Michael Garlick",
-        "width": 7000,
-        "height": 1000,
+        "path": "_m/g/f/q/0/portsoy-wk/damheads-near-portsoy-geograph.jpg",
+        "filename": "Damheads near Portsoy - geograph.org.uk - 153411.jpg",
+        "caption": "Damheads near Portsoy Farm buildings at Damheads.",
+        "alt": "Damheads near Portsoy Farm buildings at Damheads.",
+        "width": 640,
+        "height": 480,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "HARTLEPOOLMARINA2014",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portsoy_banner_Harbour.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Christopher Gillan",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Damheads_near_Portsoy_-_geograph.org.uk_-_153411.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "portsoy-wk",
         "sourceGeohash4": "gfq0",
         "categories": [
-          "CC-BY-SA-4.0",
-          "Extracted images",
-          "Portsoy harbour",
-          "Self-published work",
-          "Wikivoyage banners of Scotland"
-        ]
+          "CC-BY-SA-2.0",
+          "Farm buildings in Scotland",
+          "Images by Christopher Gillan",
+          "Images from Geograph Britain and Ireland",
+          "Information field template with formatting",
+          "Portsoy"
+        ],
+        "smallPath": "_m/g/f/q/0/portsoy-wk/damheads-near-portsoy-geograph-small.webp"
       },
       "images": [
         {
@@ -427,7 +429,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Old Town Hall, Portsoy"
-          ]
+          ],
+          "smallPath": "_m/g/f/q/0/portsoy-wp/the-hall-the-square-portsoy-ge-small.webp"
         },
         {
           "path": "_m/g/f/q/0/banff-scotland-wk/duff-house-banff-aberd.jpg",
@@ -458,7 +461,8 @@
             "Stairs in Scotland",
             "Stone balustrades in Scotland",
             "Taken with Sony DSLR-A100"
-          ]
+          ],
+          "smallPath": "_m/g/f/q/0/banff-scotland-wk/duff-house-banff-aberd-small.webp"
         },
         {
           "path": "_m/g/f/q/0/banff-scotland-wk/duff-house-banff-aberd-1.jpg",
@@ -481,7 +485,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Sony DSLR-A100"
-          ]
+          ],
+          "smallPath": "_m/g/f/q/0/banff-scotland-wk/duff-house-banff-aberd-1-small.webp"
         },
         {
           "path": "_m/g/f/q/0/banff-scotland-wk/hero.jpg",
@@ -503,7 +508,9 @@
             "Extracted images",
             "Self-published work",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/q/0/banff-scotland-wk/hero-medium.webp",
+          "smallPath": "_m/g/f/q/0/banff-scotland-wk/hero-small.webp"
         },
         {
           "path": "_m/g/f/q/2/gardenstown-wp/crovie-aberdeenshire.jpg",
@@ -527,7 +534,9 @@
             "Photographs taken on 2005-08-02",
             "Self-published work",
             "Taken with Olympus X-100 / D-540Z / C-310Z"
-          ]
+          ],
+          "mediumPath": "_m/g/f/q/2/gardenstown-wp/crovie-aberdeenshire-medium.webp",
+          "smallPath": "_m/g/f/q/2/gardenstown-wp/crovie-aberdeenshire-small.webp"
         },
         {
           "path": "_m/g/f/q/2/gardenstown-wp/phone-booth-pennan.jpg",
@@ -548,7 +557,9 @@
             "K6 telephone box, Pennan",
             "Pennan",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/q/2/gardenstown-wp/phone-booth-pennan-medium.webp",
+          "smallPath": "_m/g/f/q/2/gardenstown-wp/phone-booth-pennan-small.webp"
         },
         {
           "path": "_m/g/f/q/2/gardenstown-wp/gardenstown-banner-crovie.jpg",
@@ -572,7 +583,9 @@
             "License migration redundant",
             "Self-published work",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/q/2/gardenstown-wp/gardenstown-banner-crovie-medium.webp",
+          "smallPath": "_m/g/f/q/2/gardenstown-wp/gardenstown-banner-crovie-small.webp"
         },
         {
           "path": "_m/g/f/q/2/gardenstown-wp/pennan-aberdeenshire-moray-fir.jpg",
@@ -597,7 +610,9 @@
             "Pennan",
             "Self-published work",
             "Uploaded via Campaign:wle-gb-sct"
-          ]
+          ],
+          "mediumPath": "_m/g/f/q/2/gardenstown-wp/pennan-aberdeenshire-moray-fir-medium.webp",
+          "smallPath": "_m/g/f/q/2/gardenstown-wp/pennan-aberdeenshire-moray-fir-small.webp"
         },
         {
           "path": "_m/g/f/n/n/huntly-scotland-wk/huntly-banner-castle.jpg",
@@ -618,7 +633,9 @@
             "Self-published work",
             "Taken with Nikon D80",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/n/n/huntly-scotland-wk/huntly-banner-castle-medium.webp",
+          "smallPath": "_m/g/f/n/n/huntly-scotland-wk/huntly-banner-castle-small.webp"
         },
         {
           "path": "_m/g/f/m/8/lossiemouth-wp/ramsay-macdonald.jpg",
@@ -645,7 +662,9 @@
             "PD-scan (PD UK)",
             "Ramsay MacDonald",
             "Template Unknown (artist)"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/8/lossiemouth-wp/ramsay-macdonald-medium.webp",
+          "smallPath": "_m/g/f/m/8/lossiemouth-wp/ramsay-macdonald-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-wk/elgin-cathedral-2.jpg",
@@ -670,7 +689,9 @@
             "License migration completed",
             "Self-published work",
             "Taken with Kodak EasyShare Z740"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/x/elgin-wk/elgin-cathedral-2-medium.webp",
+          "smallPath": "_m/g/f/j/x/elgin-wk/elgin-cathedral-2-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-wk/glen-moray-speyside-single-mal.jpg",
@@ -693,7 +714,8 @@
             "License migration completed",
             "Self-published work",
             "Taken with Canon EOS 300D"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/x/elgin-wk/glen-moray-speyside-single-mal-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-wk/glen-moray-distillery.jpg",
@@ -716,7 +738,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Traveler Super Slim XS80"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/x/elgin-wk/glen-moray-distillery-medium.webp",
+          "smallPath": "_m/g/f/j/x/elgin-wk/glen-moray-distillery-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-wk/elgin-cathedral-view-from-rear.jpg",
@@ -735,7 +759,9 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Elgin Cathedral"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/x/elgin-wk/elgin-cathedral-view-from-rear-medium.webp",
+          "smallPath": "_m/g/f/j/x/elgin-wk/elgin-cathedral-view-from-rear-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-wk/elgin-museum-moray.jpg",
@@ -750,7 +776,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elgin_museum_Moray.JPG",
           "sourceType": "poi",
           "sourceArticleId": "elgin-wk",
-          "sourceGeohash4": "gfjx"
+          "sourceGeohash4": "gfjx",
+          "mediumPath": "_m/g/f/j/x/elgin-wk/elgin-museum-moray-medium.webp",
+          "smallPath": "_m/g/f/j/x/elgin-wk/elgin-museum-moray-small.webp"
         },
         {
           "path": "_m/g/f/j/w/moray-wk/elgin-cathedral-from-newmill-r.jpg",
@@ -765,7 +793,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elgin_Cathedral_from_Newmill_Road.jpg",
           "sourceType": "poi",
           "sourceArticleId": "moray-wk",
-          "sourceGeohash4": "gfjx"
+          "sourceGeohash4": "gfjx",
+          "mediumPath": "_m/g/f/j/w/moray-wk/elgin-cathedral-from-newmill-r-medium.webp",
+          "smallPath": "_m/g/f/j/w/moray-wk/elgin-cathedral-from-newmill-r-small.webp"
         },
         {
           "path": "_m/g/f/q/8/fraserburgh-wp/maggie-s-hoosie-inverallochy-g.jpg",
@@ -785,7 +815,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Rathen (civil parish)"
-          ]
+          ],
+          "smallPath": "_m/g/f/q/8/fraserburgh-wp/maggie-s-hoosie-inverallochy-g-small.webp"
         }
       ],
       "narration": [

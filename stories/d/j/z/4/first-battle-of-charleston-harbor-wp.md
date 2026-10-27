@@ -33,7 +33,7 @@ Located at 32.75°N, 79.87°W at the mouth of Charleston Harbor, South Carolina.
 ## Sources
 
 - [First Battle of Charleston Harbor - Wikipedia](https://en.wikipedia.org/?curid=12611583)
-- [First Battle of Charleston Harbor - Wikipedia](https://en.wikipedia.org/wiki/First_Battle_of_Charleston_Harbor)
+- [First Battle of Charleston Harbor - Wikipedia](https://en.wikipedia.org/?curid=12611583)
   - Battle occurred April 7, 1863
   - Nine ironclad fleet: seven Passaic-class monitors, New Ironsides, Keokuk
   - Du Pont commanded the fleet

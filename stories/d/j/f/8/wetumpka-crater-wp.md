@@ -44,7 +44,7 @@ Located at 32.517N, 86.167W, east of downtown Wetumpka in Elmore County, Alabama
   - 157th known impact crater on Earth (2002)
   - 630-foot-deep drilling operation
   - Iridium, cobalt, nickel, chromium found in core samples
-- [Wetumpka crater - Wikipedia](https://en.wikipedia.org/wiki/Wetumpka_crater)
+- [Wetumpka crater - Wikipedia](https://en.wikipedia.org/?curid=780610)
   - 4.7 miles (7.6 km) diameter confirmed
   - Age approximately 83-85 million years (late Cretaceous, early Campanian)
   - Impactor estimated at 350m (~1,150 feet) diameter

@@ -33,7 +33,7 @@ The 7th Street Theatre sits at 46.978°N, 123.885°W in downtown Hoquiam, Washin
 ## Sources
 
 - [7th Street Theatre - Wikipedia](https://en.wikipedia.org/?curid=14791117)
-- [7th Street Theatre - Wikipedia](https://en.wikipedia.org/wiki/7th_Street_Theatre)
+- [7th Street Theatre - Wikipedia](https://en.wikipedia.org/?curid=14791117)
   - Built 1928, designed by Edwin St. John Griffith confirmed
   - Commissioned by builder Olaf T. Taylor confirmed
   - Spanish atmospheric house design confirmed

@@ -33,7 +33,7 @@ Located at 37.11°N, 119.88°W in the Sierra Nevada foothills of Madera County, 
 ## Sources
 
 - [Hidden Dam - Wikipedia](https://en.wikipedia.org/?curid=36645448)
-- [Hidden Dam - Wikipedia](https://en.wikipedia.org/wiki/Hidden_Dam)
+- [Hidden Dam - Wikipedia](https://en.wikipedia.org/?curid=36645448)
   - Constructed 1974 by Perini Corporation
   - 184 feet tall, 5730 feet crest
   - 90000 acre-feet capacity

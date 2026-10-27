@@ -3,28 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/s/j/d/2016-southern-taiwan-earthquake-wp/hero.png",
-        "filename": "Bullseye1.png",
-        "caption": "Bull's eye graphic for use with earthquake location maps",
-        "alt": "Bull's eye graphic for use with earthquake location maps",
-        "width": 1610,
-        "height": 1610,
-        "mimeType": "image/png",
-        "license": "CC BY-SA 3.0",
-        "artist": "Mikenorton",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bullseye1.png",
+        "path": "_m/w/s/j/d/2016-southern-taiwan-earthquake-wp/2016.jpg",
+        "filename": "Weiguan Jinlong residential building.jpg",
+        "caption": "​永康維冠金龍大樓，2016年高雄地震。",
+        "alt": "​永康維冠金龍大樓，2016年高雄地震。",
+        "width": 4096,
+        "height": 2304,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 4.0",
+        "artist": "ScoutT7",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Weiguan_Jinlong_residential_building.jpg",
         "sourceType": "core",
         "sourceArticleId": "2016-southern-taiwan-earthquake-wp",
         "sourceGeohash4": "wsjd",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Files with derivative versions",
-          "GFDL",
-          "License migration redundant",
-          "Map pointers",
+          "2016 Kaohsiung earthquake damage",
+          "2016 photographs of Tainan",
+          "Buildings collapsed by earthquakes in Taiwan",
+          "CC-BY-SA-4.0",
+          "Fire engines of Taiwan",
           "Self-published work",
-          "Vector version available"
-        ]
+          "Taken with ASUS ZenFone 2",
+          "Weiguan Jinlong Building"
+        ],
+        "mediumPath": "_m/w/s/j/d/2016-southern-taiwan-earthquake-wp/2016-medium.webp",
+        "smallPath": "_m/w/s/j/d/2016-southern-taiwan-earthquake-wp/2016-small.webp"
       },
       "images": [
         {
@@ -145,7 +148,8 @@
             "CC-BY-SA-4.0",
             "Maps of earthquakes in Taiwan",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/s/j/d/2016-southern-taiwan-earthquake-wp/2016-small.webp"
         },
         {
           "path": "_m/w/s/j/d/2016-southern-taiwan-earthquake-wp/category-4.png",
@@ -190,7 +194,8 @@
             "Provincial Highway 3 in Pingtung",
             "Self-published work",
             "Views from roads in Taiwan"
-          ]
+          ],
+          "smallPath": "_m/w/s/j/d/southern-taiwan-wk/taiwan-main-road-3-tail-small.webp"
         },
         {
           "path": "_m/w/s/j/d/southern-taiwan-wk/maobitou-cape-01.jpg",
@@ -216,7 +221,9 @@
             "Self-published work",
             "Taken with Sony DSC-HX1",
             "Views from Maobitou"
-          ]
+          ],
+          "mediumPath": "_m/w/s/j/d/southern-taiwan-wk/maobitou-cape-01-medium.webp",
+          "smallPath": "_m/w/s/j/d/southern-taiwan-wk/maobitou-cape-01-small.webp"
         },
         {
           "path": "_m/w/s/j/d/southern-taiwan-wk/chiayi-city-montage.png",
@@ -239,7 +246,8 @@
             "License migration redundant",
             "Montages of cities in Taiwan",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/s/j/d/southern-taiwan-wk/chiayi-city-montage-small.webp"
         },
         {
           "path": "_m/w/s/j/d/southern-taiwan-wk/downtown-tainan-2012.jpg",
@@ -265,7 +273,8 @@
             "Images with extracted images",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/s/j/d/southern-taiwan-wk/downtown-tainan-2012-small.webp"
         },
         {
           "path": "_m/w/s/j/d/southern-taiwan-wk/guanziling-11.jpg",
@@ -287,7 +296,8 @@
             "Files with coordinates missing SDC location of creation",
             "Guanziling Hot Spring",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/s/j/d/southern-taiwan-wk/guanziling-11-small.webp"
         },
         {
           "path": "_m/w/s/j/d/southern-taiwan-wk/tra-e210-at-platform-2a-douliu.jpg",
@@ -312,7 +322,8 @@
             "TRA E210",
             "Taiwan photographs taken on 2017-03-04",
             "Trains at Douliu Station"
-          ]
+          ],
+          "smallPath": "_m/w/s/j/d/southern-taiwan-wk/tra-e210-at-platform-2a-douliu-small.webp"
         },
         {
           "path": "_m/w/s/j/d/southern-taiwan-wk/fo-guang-shan-buddha-museum.jpg",
@@ -330,7 +341,9 @@
           "sourceGeohash4": "wsjd",
           "categories": [
             "2012 photographs of Kaohsiung"
-          ]
+          ],
+          "mediumPath": "_m/w/s/j/d/southern-taiwan-wk/fo-guang-shan-buddha-museum-medium.webp",
+          "smallPath": "_m/w/s/j/d/southern-taiwan-wk/fo-guang-shan-buddha-museum-small.webp"
         }
       ],
       "narration": [

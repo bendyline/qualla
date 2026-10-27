@@ -3,27 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/h/y/pendine-sands-wp/hero.jpg",
-        "filename": "Pendine Sands in September 2008.jpg",
-        "caption": "Pendine Sands early morning in September 2008, looking towards the MOD firing range",
-        "alt": "Pendine Sands early morning in September 2008, looking towards the MOD firing range",
-        "width": 2032,
-        "height": 1515,
+        "path": "_m/g/c/h/y/pendine-sands-wp/sunbeam-350hp-pendine.jpg",
+        "filename": "Sunbeam 350HP 'Bluebird'.jpg",
+        "caption": "Sunbeam 350HP at Pendine Sands in Wales on 21/7/15 - the 90th anniversary of Sir Malcolm Campbell's land speed record.",
+        "alt": "Sunbeam 350HP at Pendine Sands in Wales on 21/7/15 - the 90th anniversary of Sir Malcolm Campbell's land speed record.",
+        "width": 5184,
+        "height": 2307,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Keith Jump",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pendine_Sands_in_September_2008.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Thruxton",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunbeam_350HP_%27Bluebird%27.jpg",
         "sourceType": "core",
         "sourceArticleId": "pendine-sands-wp",
         "sourceGeohash4": "gchy",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Images with extracted images",
+          "CC-BY-SA-4.0",
           "Pendine Sands",
           "Self-published work",
-          "Sunrises of Wales",
-          "Taken with Kodak EasyShare CX7330"
-        ]
+          "Sunbeam 350hp Blue Bird"
+        ],
+        "mediumPath": "_m/g/c/h/y/pendine-sands-wp/sunbeam-350hp-pendine-medium.webp",
+        "smallPath": "_m/g/c/h/y/pendine-sands-wp/sunbeam-350hp-pendine-small.webp"
       },
       "images": [
         {
@@ -490,7 +490,9 @@
             "Laugharne Castle",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/y/laugharne-wp/laugharnecastle-medium.webp",
+          "smallPath": "_m/g/c/h/y/laugharne-wp/laugharnecastle-small.webp"
         },
         {
           "path": "_m/g/c/h/y/laugharne-wp/dylan-thomas-writing-shed-laug.jpg",
@@ -518,7 +520,9 @@
             "Valued images promoted 2015-11",
             "Valued images sorted by promotion date",
             "Windows (interior views)"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/y/laugharne-wp/dylan-thomas-writing-shed-laug-medium.webp",
+          "smallPath": "_m/g/c/h/y/laugharne-wp/dylan-thomas-writing-shed-laug-small.webp"
         },
         {
           "path": "_m/g/c/h/y/pendine-wp/pendine-sea-wall-built-1911-pl.jpg",
@@ -539,7 +543,9 @@
             "Images from Geograph Britain and Ireland",
             "Pendine",
             "Stepney family"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/y/pendine-wp/pendine-sea-wall-built-1911-pl-medium.webp",
+          "smallPath": "_m/g/c/h/y/pendine-wp/pendine-sea-wall-built-1911-pl-small.webp"
         }
       ],
       "narration": [

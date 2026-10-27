@@ -28,7 +28,7 @@ The museum is the anchor of a campus called Soulsville U.S.A., operated by the n
 
 ## Flight Context
 
-The Stax Museum is located at 35.116N, 90.031W at 926 East McLemore Avenue in the Soulsville neighborhood of south Memphis. The building is a replica of the original Stax Records studio (the former Capitol Theatre). Nearby airports include Memphis International (KMEM) about 5 miles south-southwest. The museum campus includes the adjacent Stax Music Academy and Soulsville Charter School. Best viewed at 2,000-3,000 feet AGL.
+The Stax Museum is located at 35.116N, 90.031W at 926 East McLemore Avenue in the Soulsville neighborhood of south Memphis. The building is a replica of the original Stax Records studio (the former Capitol Theatre). Nearby airports include Frederick W. Smith International Airport (KMEM, formerly Memphis International) about 5 miles south-southwest. The museum campus includes the adjacent Stax Music Academy and Soulsville Charter School. Best viewed at 2,000-3,000 feet AGL.
 
 ## Sources
 

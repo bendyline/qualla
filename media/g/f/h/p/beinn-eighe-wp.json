@@ -3,32 +3,36 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/h/p/beinn-eighe-wp/hero.jpg",
-        "filename": "Beinn Eighe.jpg",
-        "caption": "Triple Buttresses of Beinn Eighe, Scotland",
-        "alt": "Triple Buttresses of Beinn Eighe, Scotland",
+        "path": "_m/g/f/h/p/beinn-eighe-wp/beinn-eighe-sail-mhor.jpg",
+        "filename": "Beinn Eighe Sail Mhor.jpg",
+        "caption": "View from the bottom of Sail Mhor to the west; Scottish Highlands, Scotland",
+        "alt": "View from the bottom of Sail Mhor to the west; Scottish Highlands, Scotland",
         "width": 3456,
         "height": 2304,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
         "artist": "Ikiwaner",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beinn_Eighe.jpg",
-        "sourceType": "core",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beinn_Eighe_Sail_Mhor.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "beinn-eighe-wp",
         "sourceGeohash4": "gfhp",
         "categories": [
+          "Beinn Eighe",
           "CC-BY-SA-3.0-migrated",
           "Files with coordinates missing SDC location of creation",
           "GFDL",
-          "License migration completed",
-          "Loch Coire Mhic Fhearchair (Beinn Eighe)",
+          "Landscapes of Scotland",
+          "License migration redundant",
+          "Self-published work",
           "Taken with Canon EOS 350D",
           "United Kingdom photographs taken on 2007-05-31"
-        ]
+        ],
+        "mediumPath": "_m/g/f/h/p/beinn-eighe-wp/beinn-eighe-sail-mhor-medium.webp",
+        "smallPath": "_m/g/f/h/p/beinn-eighe-wp/beinn-eighe-sail-mhor-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/h/p/beinn-eighe-wp/schiehallion-viewed-ac.jpg",
+          "path": "_m/g/c/m/j/snowdon-wp/schiehallion-viewed-ac.jpg",
           "filename": "Schiehallion 01.jpg",
           "caption": "Schiehallion viewed across the River Tay, with its characteristic symmetry.",
           "alt": "Schiehallion viewed across the River Tay, with its characteristic symmetry.",
@@ -45,10 +49,12 @@
             "CC-BY-3.0",
             "Schiehallion",
             "Taken with Canon EOS 300D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/j/snowdon-wp/schiehallion-viewed-ac-medium.webp",
+          "smallPath": "_m/g/c/m/j/snowdon-wp/schiehallion-viewed-ac-small.webp"
         },
         {
-          "path": "_m/g/f/h/p/beinn-eighe-wp/personal-photograph-ta.jpg",
+          "path": "_m/g/c/m/j/snowdon-wp/personal-photograph-ta.jpg",
           "filename": "Slioch from Loch Maree.jpg",
           "caption": "Personal photograph taken by Mick Knapton in May 1992",
           "alt": "Personal photograph taken by Mick Knapton in May 1992",
@@ -68,10 +74,11 @@
             "Loch Maree",
             "Self-published work",
             "Slioch"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/j/snowdon-wp/personal-photograph-ta-small.webp"
         },
         {
-          "path": "_m/g/f/h/p/beinn-eighe-wp/relief-map-ross-cromar.jpg",
+          "path": "_m/g/f/h/j/eilean-donan-wp/relief-map-ross-cromar.jpg",
           "filename": "Ross and Cromarty UK relief location map.jpg",
           "caption": "Relief map of Ross and Cromarty, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 5.9W\nEast: 3.7W\nNorth: 58.2N\nSouth: 57.0N",
           "alt": "Relief map of Ross and Cromarty, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 5.9W\nEast: 3.7W\nNorth: 58.2N\nSouth: 57.0N",
@@ -83,7 +90,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ross_and_Cromarty_UK_relief_location_map.jpg",
           "sourceType": "core",
           "sourceArticleId": "beinn-eighe-wp",
-          "sourceGeohash4": "gfhp"
+          "sourceGeohash4": "gfhp",
+          "mediumPath": "_m/g/f/h/j/eilean-donan-wp/relief-map-ross-cromar-medium.webp",
+          "smallPath": "_m/g/f/h/j/eilean-donan-wp/relief-map-ross-cromar-small.webp"
         },
         {
           "path": "_m/g/f/h/p/beinn-eighe-wp/beinn-eighe-abhainn-br.jpg",

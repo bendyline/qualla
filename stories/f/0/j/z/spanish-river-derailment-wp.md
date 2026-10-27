@@ -37,7 +37,7 @@ Located at 46.30°N, 81.67°W on the Spanish River near Nairn Centre, Ontario, w
 ## Sources
 
 - [Spanish River derailment - Wikipedia](https://en.wikipedia.org/?curid=3711529)
-- [Wikipedia - Spanish River derailment](https://en.wikipedia.org/wiki/Spanish_River_derailment)
+- [Wikipedia - Spanish River derailment](https://en.wikipedia.org/?curid=3711529)
   - Date of January 21, 1910 confirmed
   - Train No. 7 Soo Express, 100 passengers westbound confirmed
   - Death toll of at least 43 confirmed (disputed range 43-44, some reports up to 70)

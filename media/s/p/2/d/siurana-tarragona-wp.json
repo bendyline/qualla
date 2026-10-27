@@ -3,41 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/p/2/d/siurana-tarragona-wp/hero.jpg",
-        "filename": "Ciurana.jpg",
-        "caption": "Panoramic view of Siurana, Catalonia, Spain",
-        "alt": "Panoramic view of Siurana, Catalonia, Spain",
-        "width": 5244,
-        "height": 1865,
+        "path": "_m/s/p/2/d/siurana-tarragona-wp/siurana-de-tarragona-lavaderos.jpg",
+        "filename": "Siurana de Tarragona, lavaderos.jpg",
+        "caption": "Siurana de Tarragona, lavaderos",
+        "alt": "Siurana de Tarragona, lavaderos",
+        "width": 5184,
+        "height": 3456,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "Elemaki",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ciurana.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Malopez 21",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siurana_de_Tarragona,_lavaderos.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "siurana-tarragona-wp",
         "sourceGeohash4": "sp2d",
         "categories": [
-          "CC-BY-3.0",
-          "Cultural heritage monuments in Spain missing SDC depicts",
-          "Cultural heritage monuments in Spain missing SDC location of creation",
-          "Cultural heritage monuments in Spain with known IDs",
-          "Elemaki",
-          "Featured pictures on Wikipedia, Spanish",
-          "Files with coordinates missing SDC location of creation",
-          "GFDL",
-          "License migration redundant",
-          "Quality Images by Elemaki",
-          "Quality images",
-          "Quality images missing SDC depicts",
-          "Quality images of Catalonia",
-          "Self-published work",
-          "Valued images by Elemaki",
-          "Valued images missing SDC depicts",
-          "Valued images of Catalonia",
-          "Valued images promoted 2009-09",
-          "Valued images sorted by promotion date",
-          "Views of Siurana de Prades"
-        ]
+          "CC-BY-SA-4.0",
+          "March 2019 in the province of Tarragona",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/s/p/2/d/siurana-tarragona-wp/siurana-de-tarragona-lavaderos-medium.webp",
+        "smallPath": "_m/s/p/2/d/siurana-tarragona-wp/siurana-de-tarragona-lavaderos-small.webp"
       },
       "images": [
         {
@@ -548,7 +533,8 @@
             "Reial Monestir de Poblet, remote views",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/s/p/2/c/tarragona-wp/poblet-monastery-small.webp"
         },
         {
           "path": "_m/s/p/0/q/ulldecona-wp/castell-d-ulldecona-1.jpg",
@@ -574,7 +560,9 @@
             "License migration redundant",
             "Media missing infobox template",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/p/0/q/ulldecona-wp/castell-d-ulldecona-1-medium.webp",
+          "smallPath": "_m/s/p/0/q/ulldecona-wp/castell-d-ulldecona-1-small.webp"
         },
         {
           "path": "_m/s/p/2/c/tarragona-province-wk/spain-catalonia-tarragona-el-v.jpg",
@@ -598,7 +586,9 @@
             "Self-published work",
             "Taken with Canon EOS 300D",
             "Views of El Vendrell"
-          ]
+          ],
+          "mediumPath": "_m/s/p/2/c/tarragona-province-wk/spain-catalonia-tarragona-el-v-medium.webp",
+          "smallPath": "_m/s/p/2/c/tarragona-province-wk/spain-catalonia-tarragona-el-v-small.webp"
         },
         {
           "path": "_m/s/p/2/c/tarragona-province-wk/salou004.jpg",
@@ -618,7 +608,8 @@
             "Fountains in Salou",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/p/2/c/tarragona-province-wk/salou004-small.webp"
         },
         {
           "path": "_m/tpc/sa/nt/-c/ar/sant-carles-de-la-rapita/sant-carles-de-la-rapita.jpg",
@@ -640,7 +631,8 @@
             "Media lacking a description",
             "Port of La Ràpita (Montsià)",
             "Views of La Ràpita (Montsià)"
-          ]
+          ],
+          "smallPath": "_m/tpc/sa/nt/-c/ar/sant-carles-de-la-rapita/sant-carles-de-la-rapita-small.webp"
         },
         {
           "path": "_m/s/p/2/c/tarragona-province-wk/e5320-vista-de-tarragona.jpg",
@@ -660,7 +652,9 @@
             "Ancient Roman walls of Tarraco",
             "CC-BY-SA-2.5,2.0,1.0",
             "CC-BY-SA-3.0-migrated"
-          ]
+          ],
+          "mediumPath": "_m/s/p/2/c/tarragona-province-wk/e5320-vista-de-tarragona-medium.webp",
+          "smallPath": "_m/s/p/2/c/tarragona-province-wk/e5320-vista-de-tarragona-small.webp"
         },
         {
           "path": "_m/s/p/2/g/poblet-abbey-wp/reial-monestir-de-sant.jpg",
@@ -675,7 +669,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monestir_de_Poblet.JPG",
           "sourceType": "poi",
           "sourceArticleId": "poblet-abbey-wp",
-          "sourceGeohash4": "sp2c"
+          "sourceGeohash4": "sp2c",
+          "mediumPath": "_m/s/p/2/g/poblet-abbey-wp/reial-monestir-de-sant-medium.webp",
+          "smallPath": "_m/s/p/2/g/poblet-abbey-wp/reial-monestir-de-sant-small.webp"
         },
         {
           "path": "_m/s/p/2/c/tarragona-province-wk/monestir-de-santes-creus-aigua.jpg",
@@ -690,7 +686,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monestir_de_Santes_Creus_(Aiguam%C3%BArcia)_-_1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "tarragona-province-wk",
-          "sourceGeohash4": "sp2c"
+          "sourceGeohash4": "sp2c",
+          "mediumPath": "_m/s/p/2/c/tarragona-province-wk/monestir-de-santes-creus-aigua-medium.webp",
+          "smallPath": "_m/s/p/2/c/tarragona-province-wk/monestir-de-santes-creus-aigua-small.webp"
         },
         {
           "path": "_m/s/p/2/f/reus-wp/catalunya-reus-monument-joan-p.jpg",
@@ -705,7 +703,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catalunya-Reus-Monument-Joan-Prim.JPG",
           "sourceType": "poi",
           "sourceArticleId": "reus-wp",
-          "sourceGeohash4": "sp2c"
+          "sourceGeohash4": "sp2c",
+          "mediumPath": "_m/s/p/2/f/reus-wp/catalunya-reus-monument-joan-p-medium.webp",
+          "smallPath": "_m/s/p/2/f/reus-wp/catalunya-reus-monument-joan-p-small.webp"
         },
         {
           "path": "_m/s/p/2/c/tarragona-province-wk/placa-del-pati-03.jpg",
@@ -720,7 +720,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pla%C3%A7a_del_Pati_03.JPG",
           "sourceType": "poi",
           "sourceArticleId": "tarragona-province-wk",
-          "sourceGeohash4": "sp2c"
+          "sourceGeohash4": "sp2c",
+          "mediumPath": "_m/s/p/2/c/tarragona-province-wk/placa-del-pati-03-medium.webp",
+          "smallPath": "_m/s/p/2/c/tarragona-province-wk/placa-del-pati-03-small.webp"
         }
       ],
       "narration": [

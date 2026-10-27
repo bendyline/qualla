@@ -24,7 +24,7 @@ The building is now listed on the National Register of Historic Places — an un
 
 ## Flight Context
 
-Located at 34.29°N, 116.40°W near Landers, California. The white dome is visible from low altitudes as a distinctive circular structure in flat desert terrain. Giant Rock lies approximately 3 miles north-northeast. Nearest airports: Twentynine Palms (TNP) ~20 miles east, Desert Resorts Regional (PSP) ~35 miles south. Best viewed at 3,000–5,000 ft in clear desert air.
+Located at 34.29°N, 116.40°W near Landers, California. The white dome is visible from low altitudes as a distinctive circular structure in flat desert terrain. Giant Rock lies approximately 3 miles north-northeast. Nearest airports: Twentynine Palms (TNP) ~20 miles east, Palm Springs International (PSP) ~35 miles south. Best viewed at 3,000–5,000 ft in clear desert air.
 
 ## Sources
 

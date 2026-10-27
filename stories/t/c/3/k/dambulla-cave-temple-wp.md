@@ -42,7 +42,7 @@ Dambulla Cave Temple sits at 7.857N, 80.648E in Sri Lanka's central plains. The 
   - Largest and best-preserved cave temple complex in Sri Lanka
   - 153 Buddha statues
   - Murals cover 2,100 square meters
-- [Dambulla cave temple - Wikipedia](https://en.wikipedia.org/wiki/Dambulla_cave_temple)
+- [Dambulla cave temple - Wikipedia](https://en.wikipedia.org/?curid=5835959)
   - Rock height corrected to 160m (Wikipedia standard measurement); article originally said 150m
   - Nissanka Malla gilded caves and added ~70 Buddha statues in 1190
   - Ibbankatuwa burial sites approximately 2,700 years old

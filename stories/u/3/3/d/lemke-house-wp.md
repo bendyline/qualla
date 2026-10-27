@@ -36,7 +36,7 @@ The Mies van der Rohe Haus stands at Oberseestraße 60 in Alt-Hohenschönhausen,
 
 ## Sources
 
-- [Lemke House](https://en.wikipedia.org/wiki/Lemke_House)
+- [Lemke House](https://en.wikipedia.org/?curid=56613004)
 - [Mies van der Rohe Haus (German Wikipedia)](https://de.wikipedia.org/wiki/Mies_van_der_Rohe_Haus)
   - Karl and Martha Lemke owned a graphic arts printing business in Berlin - source
   - bought a double plot (nos. 58/60) with lake access in 1932; work began summer 1932; moved in spring 1933 - source
@@ -46,7 +46,7 @@ The Mies van der Rohe Haus stands at Oberseestraße 60 in Alt-Hohenschönhausen,
   - the Stasi acquired the building in 1962 and used it as garage, laundry and canteen while altering house and grounds - source
   - restoration 2000-2002 costing EUR 1.07 million - source
   - now a contemporary art exhibition space under Berlin's Lichtenberg district, about 18,000 visitors a year - source
-- [Lemke House - source article facts](https://en.wikipedia.org/wiki/Lemke_House)
+- [Lemke House - source article facts](https://en.wikipedia.org/?curid=56613004)
   - last house designed by Mies van der Rohe in Germany before his emigration to the United States in 1938 - source
   - facade of red, charcoal-fired brick with a flat roof - source
   - placed on the district monument list by the Berlin magistrate in 1977 - source
@@ -54,7 +54,7 @@ The Mies van der Rohe Haus stands at Oberseestraße 60 in Alt-Hohenschönhausen,
   - 1980s renovation attempts failed for lack of funds - source
   - district took over the property in 1990 and renamed it Mies van der Rohe Haus - source
   - Ruth Baumann's garden sculpture 'Aufsicht um die Kante' installed 1994 - source
-- [Lemke House - Wikipedia (independent final-review re-check)](https://en.wikipedia.org/wiki/Lemke_House)
+- [Lemke House - Wikipedia (independent final-review re-check)](https://en.wikipedia.org/?curid=56613004)
   - final built house is single-storey (despite early two-storey schemes); last house Mies van der Rohe designed in Germany before his 1938 emigration - re-confirmed
   - 1962 Stasi acquisition, laundry/canteen use, 1977 listing, 1990 renaming, 2000-2002 restoration - re-confirmed
 

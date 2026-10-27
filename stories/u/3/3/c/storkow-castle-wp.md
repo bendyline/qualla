@@ -46,7 +46,7 @@ Storkow Castle stands at 52.2528 N, 13.9333 E, in the small town of Storkow in t
 
 ## Sources
 
-- [Storkow Castle - Wikipedia](https://en.wikipedia.org/wiki/Storkow_Castle)
+- [Storkow Castle - Wikipedia](https://en.wikipedia.org/?curid=34319675)
   - Built mid-12th century during German settlement, probably on the site of a Slavic marsh castle; builder likely Margrave Conrad I of Meißen; first mentioned 1209
   - Lords of Strehla resident until the 1380s, succeeded by the lords of Bieberstein
   - In 1518 Ulrich of Bieberstein enfeoffed the castle to Dietrich of Bülow, Bishop of Lebus; expanded into an episcopal Residenz

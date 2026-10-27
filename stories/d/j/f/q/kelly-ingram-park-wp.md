@@ -33,7 +33,7 @@ Located at 33.516N, 86.813W in the Birmingham Civil Rights District, just north 
 ## Sources
 
 - [Kelly Ingram Park - Wikipedia](https://en.wikipedia.org/?curid=1447248)
-- [Kelly Ingram Park - Wikipedia](https://en.wikipedia.org/wiki/Kelly_Ingram_Park)
+- [Kelly Ingram Park - Wikipedia](https://en.wikipedia.org/?curid=1447248)
   - Four-acre park bounded by 16th-17th Streets and 5th-6th Avenues North confirmed
   - Renamed from West Park in 1932 confirmed
   - 1992 renovation as Place of Revolution and Reconciliation confirmed

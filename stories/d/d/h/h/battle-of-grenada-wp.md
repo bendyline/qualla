@@ -33,7 +33,7 @@ Located at 12.05N, 61.75W, the battle took place in the waters just off Grenada'
 ## Sources
 
 - [Battle of Grenada - Wikipedia](https://en.wikipedia.org/?curid=2748443)
-- [Battle of Grenada - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Grenada)
+- [Battle of Grenada - Wikipedia](https://en.wikipedia.org/?curid=2748443)
   - Battle took place 6 July 1779 confirmed
   - Admiral John Byron (Lord Byron's grandfather) commanded British fleet confirmed
   - Byron arrived with ten ships of the line in January 1779 confirmed (fleet grew to 21 by July)

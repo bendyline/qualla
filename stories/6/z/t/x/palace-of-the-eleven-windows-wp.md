@@ -1,6 +1,6 @@
 # Palace of the Eleven Windows
 
-A sugar plantation owner's mansion that became a military hospital, a dictatorship torture site, and finally a contemporary art museum on the edge of Guajará Bay.
+A Tarsila do Amaral hangs in a building the Brazilian Army once used to detain and torture political prisoners - the most important art venue in Pará, and one of the most uncomfortable in Brazil.
 
 **Location:** -1.4551, -48.5058
 
@@ -8,37 +8,68 @@ A sugar plantation owner's mansion that became a military hospital, a dictatorsh
 
 ## Introduction
 
-Count the windows. There are eleven of them on the main facade, arranged in perfect symmetry, which is how the building got the name it has carried for more than two centuries: Casa das Onze Janelas, the House of the Eleven Windows. But the symmetry of the windows belies what has happened inside. In its 250-year history, this palace has been a private residence, a royal military hospital, a barracks, a dictatorship detention center, and finally, an art museum. The windows have looked out on the same stretch of Guajará Bay while nearly everything behind them has changed.
+The art is the reason to come. Casa das Onze Janelas holds work by Tarsila do Amaral, Ismael Nery, Rubens Gerchman and Lasar Segall, alongside a deep bench of contemporary photographers from Pará - Luiz Braga, Miguel Chikaoka, Alexandre Sequeira, Elza Lima, Walda Marques. It is the most important venue hosting the two largest national art awards held in the state, Arte Pará and the Diário Contemporâneo photography prize. And all of it is installed inside a building that the Brazilian Army used, within living memory, as a place to detain and torture political prisoners.
 
-## The Sugar Baron's House
+## Eleven Windows, Counted
 
-The building went up in the 18th century as a country retreat for Domingos da Costa Bacelar, a wealthy colonist whose fortunes were tied to Belém's rise as a port for the Portuguese empire. It was built in the Portuguese plain style, a spare, unornamented architecture favored by an empire more concerned with reach than with flourish. The main facade is all clean lines and railings: eleven windows, a massive entablature, pilasters at the corners. No curves. No fuss. But turn the building around and face the river, and something different happens. The rear facade breaks into arched openings and galleries with balustrades, with loggias that open to the breeze off Marajó Bay.
+The name is literal. Eleven openings - windows and window-doors - run in symmetry across the main facade of the two-storey building, with straight lintels, railings, and the main door among them. That side is Portuguese plain style, estilo chão: a heavy block divided by a simple entablature with pilasters at the corners, robust and unfussy, the kind of solution that can be built well without much money.
 
-## Landi's Hand
+Walk around to the river side and the building changes personality entirely. Arched openings break the central mass, and loggias run as railed balconies along the upper floor, open underneath. That is the hand of Antonio Landi, the Bolognese architect who worked all over colonial Belém. It is also the facade the house presents to Guajará Bay rather than to the street, which tells you which direction eighteenth-century Belém considered its front.
 
-When the Captaincy of Grão-Pará bought the mansion in 1768 to convert it into Belém's first royal military hospital, the job of adapting the space fell to Giuseppe Antonio Landi, the Italian architect who had come to Brazil and stayed. Landi had already designed churches and palaces across Belém, bringing a lightness to a city otherwise built in Portuguese plain style. His contribution to the Eleven Windows shows in the river-facing facade, where the arches and galleries carry the Italian looseness he imported. The hospital operated for more than a century, through Brazilian independence and the early republic, serving soldiers of successive armies and regimes.
+## Sugar, Then Surgery
 
-## A Harder Chapter
+Domingos da Costa Bacelar built it in the eighteenth century as a resting house. He owned a sugar mill, and this was where he came to not work. In 1768 the government of the Captaincy of Grão-Pará, under Governor Fernando da Costa de Ataíde Teive, bought the property for a purpose it had never been designed for. Belém had no military hospital, and the colony needed one. Landi handled the conversion.
 
-In the 20th century the building held darker uses. During Brazil's military dictatorship, from 1964 to 1985, the building housed Army Subsistence and was also used as a detention and torture site for political prisoners. The same rooms where soldiers had once recovered from malaria and yellow fever became rooms where students, unionists, and dissidents were interrogated. The walls absorbed their stories without record or memorial. It is one of the uncomfortable truths of beautiful buildings in Latin America: many of them held suffering in their more recent chapters than in their oldest. The colonial grandeur is easier to celebrate than the mid-century cruelty.
+The Hospital Real Militar ran here until the end of the nineteenth century. Military use outlasted the medicine by a long way: the Fifth Company of the Guard moved in after 1870, and the Army held the property in one form or another for most of the next hundred years, latterly as a subsistence depot.
 
-## Reopened as a Museum
+## The Part Not on the Wall Text
 
-In 2002 the palace reopened as the House of the Eleven Windows Cultural Space, dedicated to contemporary art from Brazil's North and Northeast regions. Renovations reversed the military-era modifications, stripping away a triangular pediment and obelisks that had been added to the main facade and reopening the river-facing arches that had been bricked shut. The collection inside now includes work by Tarsila do Amaral, one of Brazil's great modernists; Rubens Gerchman, Ismael Nery, and Lasar Segall; plus contemporary photographers based in Belém, including Luiz Braga, Miguel Chikaoka, and Walda Marques. The palace hosts the Contemporary Photography Diary Award and Art Pará, two of the country's largest art prizes.
+During Brazil's dictatorship the building was used to detain and torture political prisoners. The record kept in the building itself is thin, as it usually is in such places. Across Brazil in those years the people taken into custody for opposing the government were students, trade unionists, journalists, priests and members of banned parties - citizens arrested by their own state - and some of what was done to them happened in these rooms.
 
-## A Museum in Danger
+In 2001 the state and municipal governments signed an agreement with the Army transferring the property. It opened as a museum the following year. There is a version of heritage practice that would restore the loggias, install the lighting, sell coffee on the terrace and never raise the subject. This building does not have that option: the two histories occupy the same rooms, and knowing the second one changes how you stand in front of the first.
 
-The story could end there, with the building reclaimed for culture. But it does not. In 2016 the state government pushed to close the museum and replace it with a gastronomic center, and cultural advocates have fought that pressure ever since. The collection, worth millions and drawn from across the Brazilian modernist canon, would have nowhere obvious to go. The palace sits in Feliz Lusitânia, the historical core of Belém, alongside the Castle Fortress, the Cathedral of Our Lady of Grace, the Círio Museum, and other colonial-era buildings. From its upper balconies you can see the green water of Guajará Bay, the bustle of the Ver-o-Peso market, and the city that grew up around this square. Eleven windows still count the days.
+## What 2002 Made
+
+The museum that opened in 2002 committed itself to contemporary Brazilian art from the North and Northeast, regions a long way from the Rio-São Paulo axis where most of the country's major art institutions sit. That commitment is the argument for the place. It is not a provincial gallery borrowing masterpieces from elsewhere; it is where art from this half of Brazil gets shown at scale, judged by national prizes, and collected.
+
+The renovation also undid the Army's work outside. The military era had bolted a triangular pediment flanked by obelisks onto the main facade and bricked up the openings on the river side, flattening precisely the elevation Landi had cared about. Both interventions were reversed during work in the 2000s. The eleven windows and the loggias are back to what they were.
+
+## Still Contested
+
+In 2016 the museum came under political pressure from the state government to be shut down and replaced with a gastronomic centre. Had it happened, the modern and contemporary collection - the Tarsila, the Nery, the Gerchman, the photographic archive of a whole generation of Pará artists - would have needed somewhere else to go. It did not happen. The risk of neglect by the state government is still discussed openly in the city.
+
+Around the building sits a small cultural district: a sculpture garden, a decommissioned corvette on display, a stage that projects out over the water. From the loggias the view runs across Guajará Bay and along the shore to Ver-o-Peso. It may be the best free view in Belém of the river that made the city, taken from the balcony of a house built by a sugar planter who expected none of this.
 
 ## Flight Context
 
-Located at 1.455°S, 48.506°W on Belém's Cidade Velha waterfront, the Palace of the Eleven Windows stands alongside the Castle Fortress at the edge of Guajará Bay. From Belém/Val-de-Cans International Airport (SBBE), approach paths over the bay give clear views of the Feliz Lusitânia complex. The long white rectangular building with its distinctive two-story facade is visible from low-altitude river and bay approaches. Best seen in dry-season morning light, July to November.
+Located at 1.455 degrees S, 48.506 degrees W on the Guajará Bay shore in the Cidade Velha district of Belém, inside the Feliz Lusitânia heritage complex beside the Presépio Fort. From the air look for the low fort bastions at the point where the old city meets the water; the palace is the long two-storey block immediately behind them, with a sculpture garden and a moored corvette alongside. Best viewed from 1,500-3,000 feet AGL on a shoreline pass. Nearest field is Belém/Val de Cans-Júlio Cezar Ribeiro International (SBBE), about 9 km north. Afternoon light hits the river facade and its loggias directly.
 
 ## Sources
 
 - [Palace of the Eleven Windows - Wikipedia](https://en.wikipedia.org/?curid=73723402)
+- [Palace of the Eleven Windows - Wikipedia](https://en.wikipedia.org/?curid=73723402)
+  - Built 18th century by Domingos da Costa Bacelar, a sugar mill owner, as a resting house
+  - 1768: Governor Fernando da Costa de Ataíde Teive purchased the property for the Captaincy of Grão-Pará to house the Hospital Real Militar; Antonio Landi handled the architectural conversion
+  - Hospital operated until the end of the 19th century; Fifth Company of the Guard moved in after 1870, Army held the property (latterly as a subsistence depot) for roughly the next century
+  - Building used to detain and torture political prisoners during Brazil's military dictatorship
+  - 2001 transfer agreement between state/municipal governments and the Army; museum opened 2002
+  - 2016: state government pressure to close the museum and replace it with a gastronomic center did not succeed
+
+## Review Notes
+
+**Reviewed:** 2026-09-05 · 6 facts verified · 0 corrections
+
+Verified Domingos da Costa Bacelar origin, 1768 purchase by Gov. Fernando da Costa de Ataíde Teive for Hospital Real Militar, Landi conversion, Fifth Company of the Guard post-1870, dictatorship-era detention/torture use, 2001 transfer and 2002 museum opening, and 2016 closure-threat/gastronomic-center pressure via English and Portuguese Wikipedia. No factual or dignity errors found. Spiciness 4 (spicy - strong editorial framing of the building's dual history).
+
+**Spiciness:** 4/5
+
+**Strong opinions:**
+
+- the most important art venue in Pará, and one of the most uncomfortable in Brazil
+- There is a version of heritage practice that would restore the loggias, install the lighting, sell coffee on the terrace and never raise the subject. This building does not have that option.
+- It is not a provincial gallery borrowing masterpieces from elsewhere; it is where art from this half of Brazil gets shown at scale, judged by national prizes, and collected.
 
 ---
 
-*Word count: 780*
+*Word count: 791*
 *Read time: 4 minutes*

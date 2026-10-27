@@ -48,14 +48,14 @@ Pueblo Bonito is located at approximately 36.06N, 107.96W in Chaco Canyon, north
   - Nine individuals shared mitochondrial DNA
   - Matrilineal dynasty spanning 330 years
   - First archaeological evidence of matrilineal descent among Ancestral Puebloans
-- [Pueblo Bonito exploration history - multiple sources](https://en.wikipedia.org/wiki/Pueblo_Bonito)
+- [Pueblo Bonito exploration history - multiple sources](https://en.wikipedia.org/?curid=3297005)
   - Lt. James H. Simpson 1849 military expedition
   - Carravahal named ruins including Pueblo Bonito
   - Wetherill and Pepper excavation 1896
   - Hyde brothers financed expedition
   - 190 rooms excavated over four years
   - Homestead claim invalidated 1904
-- [Pueblo Bonito cacao traces](https://en.wikipedia.org/wiki/Pueblo_Bonito)
+- [Pueblo Bonito cacao traces](https://en.wikipedia.org/?curid=3297005)
   - Cacao traces detected in pottery from at least 1200 miles away (article says 1000 miles - conservative but acceptable)
   - Cacao discovery made in 2009
 

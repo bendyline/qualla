@@ -3,40 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/7/0/leverburgh-wk/hero.jpg",
-        "filename": "St Clement's Church, Rodel. Harris.jpg",
-        "caption": "This is a photo of listed building number",
-        "alt": "This is a photo of listed building number",
-        "width": 4000,
-        "height": 3000,
+        "path": "_m/g/f/7/0/leverburgh-wk/blick-vom-hafen-von-leverburgh.jpg",
+        "filename": "Blick vom Hafen von Leverburgh zu Reihenhäusern und Bergen.jpg",
+        "caption": "Leverburgh ist am Südende von Harris, Äußere Hebriden, Schottland",
+        "alt": "Leverburgh ist am Südende von Harris, Äußere Hebriden, Schottland",
+        "width": 5184,
+        "height": 3456,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Gweduni",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Clement%27s_Church,_Rodel._Harris.jpg",
-        "sourceType": "core",
+        "artist": "GerritR",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blick_vom_Hafen_von_Leverburgh_zu_Reihenh%C3%A4usern_und_Bergen.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "leverburgh-wk",
         "sourceGeohash4": "gf70",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Files with coordinates missing SDC location of creation",
-          "Historic Scotland listings with known IDs",
-          "Images from Wiki Loves Monuments 2017",
-          "Images from Wiki Loves Monuments 2017 in Scotland",
-          "Images from Wiki Loves Monuments 2017 in the United Kingdom",
-          "Images from Wiki Loves Monuments missing SDC location of creation",
-          "Images from Wiki Loves Monuments with different SDC participant in",
-          "Listed buildings in Scotland with known IDs",
-          "Potential image for Wikidata item",
-          "Self-published work",
-          "St Clement's Church, Rodel",
-          "United Kingdom photographs taken on 2014-07-21",
-          "Uploaded via Campaign:wlm-gb-sct",
-          "WLM-UK 2017 unfiltered 09-30"
-        ]
+        "mediumPath": "_m/g/f/7/0/leverburgh-wk/blick-vom-hafen-von-leverburgh-medium.webp",
+        "smallPath": "_m/g/f/7/0/leverburgh-wk/blick-vom-hafen-von-leverburgh-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/7/0/leverburgh-wk/st-clements-church-rodel-10060.jpg",
+          "path": "_m/g/f/7/0/leverburgh-wp/st-clements-church-rodel-10060.jpg",
           "filename": "St clements church rodel 100609 - 03.jpg",
           "caption": "St Clement's Church, Rodel, Lewis and Harris, Scotland",
           "alt": "St Clement's Church, Rodel, Lewis and Harris, Scotland",
@@ -56,7 +41,7 @@
             "License migration redundant",
             "Self-published work"
           ],
-          "smallPath": "_m/g/f/7/0/leverburgh-wk/st-clements-church-rodel-10060-small.webp"
+          "smallPath": "_m/g/f/7/0/leverburgh-wp/st-clements-church-rodel-10060-small.webp"
         },
         {
           "path": "_m/g/f/7/0/leverburgh-wk/gleann-choisleitir-geograph-or.jpg",
@@ -464,7 +449,9 @@
             "Loch Portain (ship, 2003)",
             "Self-published work",
             "Uploaded with MTC!"
-          ]
+          ],
+          "mediumPath": "_m/g/f/7/0/leverburgh-wp/mv-loch-portain-departing-leve-medium.webp",
+          "smallPath": "_m/g/f/7/0/leverburgh-wp/mv-loch-portain-departing-leve-small.webp"
         },
         {
           "path": "_m/g/f/6/b/berneray-wk/backhill.jpg",
@@ -487,7 +474,9 @@
             "Files from Wikivoyage wts",
             "PD-author",
             "Taken with Sony DSC-P120"
-          ]
+          ],
+          "mediumPath": "_m/g/f/6/b/berneray-wk/backhill-medium.webp",
+          "smallPath": "_m/g/f/6/b/berneray-wk/backhill-small.webp"
         },
         {
           "path": "_m/g/f/6/b/berneray-wk/fruition.jpg",
@@ -505,7 +494,9 @@
           "sourceGeohash4": "gf6b",
           "categories": [
             "Berneray"
-          ]
+          ],
+          "mediumPath": "_m/g/f/6/b/berneray-wk/fruition-medium.webp",
+          "smallPath": "_m/g/f/6/b/berneray-wk/fruition-small.webp"
         },
         {
           "path": "_m/g/f/6/b/berneray-wk/old-graveyard-on-berneray.jpg",
@@ -520,7 +511,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_graveyard_on_Berneray.jpg",
           "sourceType": "poi",
           "sourceArticleId": "berneray-wk",
-          "sourceGeohash4": "gf6b"
+          "sourceGeohash4": "gf6b",
+          "mediumPath": "_m/g/f/6/b/berneray-wk/old-graveyard-on-berneray-medium.webp",
+          "smallPath": "_m/g/f/6/b/berneray-wk/old-graveyard-on-berneray-small.webp"
         },
         {
           "path": "_m/g/f/7/1/tarbert-harris-wp/tarbert-harris-banner.jpg",
@@ -542,7 +535,9 @@
             "Self-published work",
             "Tarbert Harbour, Harris",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/7/1/tarbert-harris-wp/tarbert-harris-banner-medium.webp",
+          "smallPath": "_m/g/f/7/1/tarbert-harris-wp/tarbert-harris-banner-small.webp"
         },
         {
           "path": "_m/g/f/7/1/tarbert-harris-wp/harris-distillery-exterior.jpg",
@@ -562,7 +557,9 @@
             "CC-BY-SA-4.0",
             "Isle of Harris Distillery",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/7/1/tarbert-harris-wp/harris-distillery-exterior-medium.webp",
+          "smallPath": "_m/g/f/7/1/tarbert-harris-wp/harris-distillery-exterior-small.webp"
         },
         {
           "path": "_m/g/f/7/1/tarbert-harris-wp/amhuinnsuidhe-castle-geograph-.jpg",
@@ -582,7 +579,9 @@
             "Amhuinnsuidhe Castle",
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/7/1/tarbert-harris-wp/amhuinnsuidhe-castle-geograph--medium.webp",
+          "smallPath": "_m/g/f/7/1/tarbert-harris-wp/amhuinnsuidhe-castle-geograph--small.webp"
         },
         {
           "path": "_m/g/f/7/1/harris-wk/golden-road-harris.jpg",
@@ -606,7 +605,9 @@
             "Roads in the Outer Hebrides",
             "Self-published work",
             "Taken with Canon PowerShot SX110 IS"
-          ]
+          ],
+          "mediumPath": "_m/g/f/7/1/harris-wk/golden-road-harris-medium.webp",
+          "smallPath": "_m/g/f/7/1/harris-wk/golden-road-harris-small.webp"
         },
         {
           "path": "_m/g/f/5/r/uig-wk/kilt-rock-2.jpg",
@@ -627,7 +628,9 @@
             "Intrusions (geology) in the United Kingdom",
             "Kilt Rock",
             "Taken with Sony DSC-H9"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/r/uig-wk/kilt-rock-2-medium.webp",
+          "smallPath": "_m/g/f/5/r/uig-wk/kilt-rock-2-small.webp"
         },
         {
           "path": "_m/g/f/5/r/uig-wk/duntulm-castle-20090612-from-t.jpg",
@@ -652,7 +655,8 @@
             "Self-published work",
             "Taken with Sony DSLR-A100",
             "United Kingdom photographs taken on 2009-06-12"
-          ]
+          ],
+          "smallPath": "_m/g/f/5/r/uig-wk/duntulm-castle-20090612-from-t-small.webp"
         },
         {
           "path": "_m/g/f/5/r/uig-wk/theskyemuseumofislandlife.jpg",
@@ -675,7 +679,9 @@
             "Self-published work",
             "Skye Museum of Island Life",
             "Taken with Panasonic HDC-SD707"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/r/uig-wk/theskyemuseumofislandlife-medium.webp",
+          "smallPath": "_m/g/f/5/r/uig-wk/theskyemuseumofislandlife-small.webp"
         },
         {
           "path": "_m/g/f/5/r/uig-wk/black-houses-in-the-skye-museu.jpg",
@@ -699,7 +705,9 @@
             "Skye Museum of Island Life",
             "Stone houses in Scotland",
             "Thatched roofs in Highland council area"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/r/uig-wk/black-houses-in-the-skye-museu-medium.webp",
+          "smallPath": "_m/g/f/5/r/uig-wk/black-houses-in-the-skye-museu-small.webp"
         },
         {
           "path": "_m/g/f/4/v/south-uist-wp/richard-wilson-1713-1714-1782-.jpg",
@@ -728,7 +736,8 @@
             "PD-old missing SDC copyright status",
             "Portrait paintings by Richard Wilson",
             "Portrait paintings of women in the National Portrait Gallery, London"
-          ]
+          ],
+          "smallPath": "_m/g/f/4/v/south-uist-wp/richard-wilson-1713-1714-1782--small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/dun-carloway.jpg",
@@ -749,7 +758,8 @@
             "Media missing infobox template",
             "PD-author",
             "Taken with Sony DCR-TRV740"
-          ]
+          ],
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-carloway-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/ness-western-isles-world-wind.png",
@@ -771,7 +781,8 @@
             "Ness, Isle of Lewis",
             "Outer Hebrides",
             "PD World Wind"
-          ]
+          ],
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/ness-western-isles-world-wind-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/dun-eistean-late-medieval-fort.jpg",
@@ -797,7 +808,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon EOS 50D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-eistean-late-medieval-fort-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-eistean-late-medieval-fort-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/church-in-carloway-in-summer-2.jpg",
@@ -819,7 +832,9 @@
             "Carloway",
             "Churches of the Isle of Lewis",
             "Files by User:Chmee2"
-          ]
+          ],
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/church-in-carloway-in-summer-2-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/church-in-carloway-in-summer-2-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/lewis-chessmen-27.jpg",
@@ -834,7 +849,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lewis_chessmen_27.JPG",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/lewis-chessmen-27-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/inside-nr-42-blackhouse-museum.jpg",
@@ -849,7 +865,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inside_Nr_42_Blackhouse_Museum.JPG",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/inside-nr-42-blackhouse-museum-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/inside-nr-42-blackhouse-museum-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/dun-charlabhaigh-carloway-broc.jpg",
@@ -864,7 +882,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dun_Charlabhaigh_Carloway_Broch_(14310329697).jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-charlabhaigh-carloway-broc-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-charlabhaigh-carloway-broc-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/outer-hebrides-steinacleit-201.jpg",
@@ -879,7 +899,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outer_Hebrides_-_Steinacleit_-_20180411114130.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/outer-hebrides-steinacleit-201-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/outer-hebrides-steinacleit-201-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/bungee-jumping-from-the-garry-.jpg",
@@ -894,7 +916,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bungee_jumping_from_the_Garry_Bridge_-_geograph.org.uk_-_2937884.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/bungee-jumping-from-the-garry--medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/bungee-jumping-from-the-garry--small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/callanish-stones-banner.jpg",
@@ -909,7 +933,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Callanish_Stones_banner.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/callanish-stones-banner-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/callanish-stones-banner-small.webp"
         }
       ],
       "narration": [

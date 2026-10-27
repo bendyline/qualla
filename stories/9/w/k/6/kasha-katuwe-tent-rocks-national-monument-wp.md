@@ -33,7 +33,7 @@ Located at 35.66N, 106.41W on the Pajarito Plateau, approximately 40 miles south
 ## Sources
 
 - [Kasha-Katuwe Tent Rocks National Monument - Wikipedia](https://en.wikipedia.org/?curid=940640)
-- [Kasha-Katuwe Tent Rocks - Wikipedia](https://en.wikipedia.org/wiki/Kasha-Katuwe_Tent_Rocks_National_Monument)
+- [Kasha-Katuwe Tent Rocks - Wikipedia](https://en.wikipedia.org/?curid=940640)
   - kasha-katuwe means white cliffs in Keresan
   - volcanic eruptions 6 to 7 million years ago
   - designated January 17 2001 by Clinton

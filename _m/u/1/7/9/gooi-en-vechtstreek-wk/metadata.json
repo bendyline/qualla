@@ -2,36 +2,9 @@
   "articleId": "gooi-en-vechtstreek-wk",
   "gallery": [
     {
-      "filename": "Gooise wei.jpg",
-      "title": "File:Gooise wei.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Gooise_wei.jpg",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Gooise_wei.jpg",
-      "width": 2048,
-      "height": 1536,
-      "mime": "image/jpeg",
-      "license": "Public domain",
-      "artist": "No machine-readable author provided. Steinbach assumed (based on copyright claims).",
-      "description": "Goois landschapstype: wei omringd door aangeplant bos.",
-      "dateCreated": "26 February 2006 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
-      "categories": [
-        "Assumed own work",
-        "Files with no machine-readable source",
-        "Het Gooi",
-        "PD-self",
-        "Photographs taken on 2006-02-26",
-        "Self-published work",
-        "Taken with Canon PowerShot A410"
-      ],
-      "sourceType": "poi",
-      "sourceArticleId": "gooi-en-vechtstreek-wk",
-      "sourceGeohash4": "u179",
-      "mediumPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/gooise-wei-medium.webp",
-      "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/gooise-wei-small.webp"
-    },
-    {
       "filename": "Laren Brink 17juni2006.jpg",
       "title": "File:Laren Brink 17juni2006.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Laren_Brink_17juni2006.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Laren_Brink_17juni2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Laren_Brink_17juni2006.jpg",
       "width": 1600,
       "height": 1200,
@@ -39,6 +12,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "artist": "M.Minderhoud",
+      "credit": "Own work",
+      "source": "Laren Brink 17juni2006",
       "description": "Brink, Laren, juni 2006",
       "dateCreated": "2006-06-17 16:15:24",
       "categories": [
@@ -50,7 +25,7 @@
         "Self-published work",
         "Taken with Canon PowerShot A520"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "gooi-en-vechtstreek-wk",
       "sourceGeohash4": "u179",
       "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/laren-brink-17juni2006-small.webp"
@@ -58,7 +33,7 @@
     {
       "filename": "Huizen.JPG",
       "title": "File:Huizen.JPG",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Huizen.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Huizen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Huizen.JPG",
       "width": 1280,
       "height": 960,
@@ -66,6 +41,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "artist": "Tsov",
+      "credit": "Own work",
+      "source": "Huizen",
       "description": "A view of buildings and the Hooglandse Kerk church in the city of Leiden, the Netherlands.",
       "dateCreated": "2003-04-02",
       "categories": [
@@ -76,7 +53,7 @@
         "License migration redundant",
         "Self-published work"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "gooi-en-vechtstreek-wk",
       "sourceGeohash4": "u179",
       "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/huizen-small.webp"
@@ -84,13 +61,15 @@
     {
       "filename": "Muiden het slot en de Flevopolder.jpg",
       "title": "File:Muiden het slot en de Flevopolder.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Muiden_het_slot_en_de_Flevopolder.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Muiden_het_slot_en_de_Flevopolder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Muiden_het_slot_en_de_Flevopolder.jpg",
       "width": 1200,
       "height": 800,
       "mime": "image/jpeg",
       "license": "Public domain",
       "artist": "Jan Arkesteijn",
+      "credit": "Own work",
+      "source": "Muiden het slot en de Flevopolder",
       "description": "City of Muiden in North Holland",
       "dateCreated": "2007-07-21",
       "categories": [
@@ -100,15 +79,41 @@
         "PD-self",
         "Self-published work"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "gooi-en-vechtstreek-wk",
       "sourceGeohash4": "u179",
       "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/muiden-het-slot-en-de-flevopol-small.webp"
     },
     {
+      "filename": "Weesp met Fort Ossenmarkt.jpg",
+      "title": "File:Weesp met Fort Ossenmarkt.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Weesp_met_Fort_Ossenmarkt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Weesp_met_Fort_Ossenmarkt.jpg",
+      "width": 1200,
+      "height": 800,
+      "mime": "image/jpeg",
+      "license": "Public domain",
+      "artist": "Jan Arkesteijn",
+      "credit": "Own work",
+      "source": "Weesp met Fort Ossenmarkt",
+      "description": "Weesp, North Holland. In the centre fortress Ossenmarkt",
+      "dateCreated": "2007-07-21",
+      "categories": [
+        "Buildings in Weesp",
+        "Ossenmarkt, Weesp",
+        "PD-self",
+        "Rijksmonumenten with known IDs",
+        "Self-published work"
+      ],
+      "sourceType": "core",
+      "sourceArticleId": "gooi-en-vechtstreek-wk",
+      "sourceGeohash4": "u179",
+      "smallPath": "_m/u/1/7/9/weesp-wp/weesp-met-fort-ossenmarkt-small.webp"
+    },
+    {
       "filename": "Brinklaan Bussum (2008).jpg",
       "title": "File:Brinklaan Bussum (2008).jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Brinklaan_Bussum_%282008%29.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Brinklaan_Bussum_%282008%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Brinklaan_Bussum_(2008).jpg",
       "width": 2048,
       "height": 1536,
@@ -116,6 +121,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Michiel1972",
+      "credit": "Own work",
+      "source": "Brinklaan Bussum (2008)",
       "description": "City Hall with handrail on the staircase by Henk Dannenburg (1974) at the Brinklaan in Bussum/The Netherlands",
       "dateCreated": "2008-11-02 18:21:46",
       "categories": [
@@ -130,16 +137,16 @@
         "Self-published work",
         "Taken with Canon PowerShot A530"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "gooi-en-vechtstreek-wk",
       "sourceGeohash4": "u179",
-      "mediumPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/brinklaan-bussum-2008-medium.webp",
-      "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/brinklaan-bussum-2008-small.webp"
+      "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/brinklaan-bussum-2008-small.webp",
+      "mediumPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/brinklaan-bussum-2008-medium.webp"
     },
     {
       "filename": "30282-Vestingwerken en grachten van Naarden.jpg",
       "title": "File:30282-Vestingwerken en grachten van Naarden.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/30282-Vestingwerken_en_grachten_van_Naarden.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/30282-Vestingwerken_en_grachten_van_Naarden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:30282-Vestingwerken_en_grachten_van_Naarden.jpg",
       "width": 3000,
       "height": 2000,
@@ -147,20 +154,22 @@
       "license": "CC BY-SA 3.0 nl",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
       "artist": "Johan Bakker",
+      "credit": "Own work",
+      "source": "30282-Vestingwerken en grachten van Naarden",
       "description": "De wallen en Grachten van Naarden. Met dank aan Jeroen Komen.",
       "dateCreated": "2013-07-29 20:00:08",
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "gooi-en-vechtstreek-wk",
       "sourceGeohash4": "u179",
-      "mediumPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/30282-vestingwerken-en-grachte-medium.webp",
-      "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/30282-vestingwerken-en-grachte-small.webp"
+      "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/30282-vestingwerken-en-grachte-small.webp",
+      "mediumPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/30282-vestingwerken-en-grachte-medium.webp"
     }
   ],
   "galleryPaths": [
-    "_m/u/1/7/9/gooi-en-vechtstreek-wk/gooise-wei.jpg",
     "_m/u/1/7/9/gooi-en-vechtstreek-wk/laren-brink-17juni2006.jpg",
     "_m/u/1/7/9/gooi-en-vechtstreek-wk/huizen.jpg",
     "_m/u/1/7/9/gooi-en-vechtstreek-wk/muiden-het-slot-en-de-flevopol.jpg",
+    "_m/u/1/7/9/weesp-wp/weesp-met-fort-ossenmarkt.jpg",
     "_m/u/1/7/9/gooi-en-vechtstreek-wk/brinklaan-bussum-2008.jpg",
     "_m/u/1/7/9/gooi-en-vechtstreek-wk/30282-vestingwerken-en-grachte.jpg"
   ],
@@ -185,5 +194,59 @@
       "u179-gooi-en-vechtstreek-how-to-move-through-it.mp3": 55.092875
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Gooise wei.jpg",
+    "title": "File:Gooise wei.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Gooise_wei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Gooise_wei.jpg",
+    "width": 2048,
+    "height": 1536,
+    "mime": "image/jpeg",
+    "license": "Public domain",
+    "artist": "No machine-readable author provided. Steinbach assumed (based on copyright claims).",
+    "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+    "source": "Gooise wei",
+    "description": "Goois landschapstype: wei omringd door aangeplant bos.",
+    "dateCreated": "26 February 2006 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+    "categories": [
+      "Assumed own work",
+      "Files with no machine-readable source",
+      "Het Gooi",
+      "PD-self",
+      "Photographs taken on 2006-02-26",
+      "Self-published work",
+      "Taken with Canon PowerShot A410"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "gooi-en-vechtstreek-wk",
+    "sourceGeohash4": "u179"
+  },
+  "thumbnail": {
+    "filename": "Gooise wei.jpg",
+    "title": "File:Gooise wei.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Gooise_wei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Gooise_wei.jpg",
+    "width": 2048,
+    "height": 1536,
+    "mime": "image/jpeg",
+    "license": "Public domain",
+    "artist": "No machine-readable author provided. Steinbach assumed (based on copyright claims).",
+    "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+    "source": "Gooise wei",
+    "description": "Goois landschapstype: wei omringd door aangeplant bos.",
+    "dateCreated": "26 February 2006 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+    "categories": [
+      "Assumed own work",
+      "Files with no machine-readable source",
+      "Het Gooi",
+      "PD-self",
+      "Photographs taken on 2006-02-26",
+      "Self-published work",
+      "Taken with Canon PowerShot A410"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "gooi-en-vechtstreek-wk",
+    "sourceGeohash4": "u179"
   }
 }

@@ -46,7 +46,7 @@ Located at 30.46°N, 84.26°W on the east side of Tallahassee, along Miccosukee 
   - Congress granted Lafayette a township in Florida Territory
   - over 23,000 acres (23,040)
   - Lafayette never visited the Florida property
-- [Goodwood Plantation - Wikipedia](https://en.wikipedia.org/wiki/Goodwood_Plantation)
+- [Goodwood Plantation - Wikipedia](https://en.wikipedia.org/?curid=5060779)
   - National Register of Historic Places June 30, 1972
   - located at 1600 Miccosukee Road
   - Margaret E. Wilson Foundation manages property

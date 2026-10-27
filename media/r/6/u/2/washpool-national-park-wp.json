@@ -3,32 +3,35 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/6/u/2/washpool-national-park-wp/hero.jpg",
-        "filename": "Aegopodium podagraria1 ies.jpg",
-        "caption": "Aegopodium podagraria",
-        "alt": "Aegopodium podagraria",
-        "width": 800,
-        "height": 700,
+        "path": "_m/r/6/u/2/washpool-national-park-wp/kunzea-bracteolata-the-granite.jpg",
+        "filename": "Kunzea bracteolata (The Granites).jpg",
+        "caption": "Kunzea bracteolata growing at The Granites lookout in the Washpool National Park",
+        "alt": "Kunzea bracteolata growing at The Granites lookout in the Washpool National Park",
+        "width": 4608,
+        "height": 3456,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Frank Vincentz",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aegopodium_podagraria1_ies.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Geoff Derrin",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kunzea_bracteolata_(The_Granites).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "washpool-national-park-wp",
         "sourceGeohash4": "r6u2",
         "categories": [
-          "Aegopodium podagraria leaves",
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "Leaves on black background",
-          "License migration redundant",
+          "CC-BY-SA-4.0",
+          "Files with coordinates missing SDC location of creation",
+          "Flora of Queensland",
+          "Images with extracted images",
+          "Kunzea bracteolata",
+          "Myrtaceae in New South Wales",
           "Self-published work",
-          "Taken with Ricoh Caplio G4"
-        ]
+          "Washpool National Park"
+        ],
+        "mediumPath": "_m/r/6/u/2/washpool-national-park-wp/kunzea-bracteolata-the-granite-medium.webp",
+        "smallPath": "_m/r/6/u/2/washpool-national-park-wp/kunzea-bracteolata-the-granite-small.webp"
       },
       "images": [
         {
-          "path": "_m/r/6/u/2/washpool-national-park-wp/related-sibling-australia-new-south-wales-reli.png",
+          "path": "_m/r/3/g/r/sydney-wk/related-sibling-australia-new-south-wales-reli.png",
           "filename": "Australia New South Wales relief location map.png",
           "caption": "Relief location map of New South Wales, Australia\nEquidistant cylindrical projection, latitude of true scale 32.82° S (equivalent to equirectangular projection with N/S stretching 119 %). Geographic limits of the map:\n\nN: 27.9° S\nS: 37.8° S\nW: 140.6° E\nE: 153.9° E",
           "alt": "Relief location map of New South Wales, Australia\nEquidistant cylindrical projection, latitude of true scale 32.82° S (equivalent to equirectangular projection with N/S stretching 119 %). Geographic limits of the map:\n\nN: 27.9° S\nS: 37.8° S\nW: 140.6° E\nE: 153.9° E",
@@ -48,7 +51,9 @@
             "PNG created with QGIS",
             "Relief location maps of Australia",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/r/3/g/r/sydney-wk/related-sibling-australia-new-south-wales-reli-medium.webp",
+          "smallPath": "_m/r/3/g/r/sydney-wk/related-sibling-australia-new-south-wales-reli-small.webp"
         },
         {
           "path": "_m/r/6/u/2/washpool-national-park-wp/mixophyes-balbus.jpg",

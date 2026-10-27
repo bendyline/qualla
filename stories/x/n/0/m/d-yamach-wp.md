@@ -32,7 +32,7 @@ Located at 34.703°N, 135.503°E in Osaka's Kita ward, approximately 500 meters 
 
 ## Sources
 
-- [Doyamacho - Wikipedia](https://en.wikipedia.org/wiki/D%C5%8Dyamach%C5%8D)
+- [Doyamacho - Wikipedia](https://en.wikipedia.org/?curid=7318906)
 - [Doyamacho: Osaka's Gay District - GaijinPot Travel](https://travel.gaijinpot.com/doyamacho/)
   - Doyamacho is Osaka's LGBTQ district near Umeda confirmed
   - Bars seat fewer than ten people pattern confirmed

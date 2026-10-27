@@ -3,28 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/p/e/c/lake-sentani-wp/hero.jpg",
-        "filename": "Sentani Lake.jpg",
-        "caption": "Sentani Lake at Jayapura, Indonesia",
-        "alt": "Sentani Lake at Jayapura, Indonesia",
-        "width": 2022,
-        "height": 1499,
+        "path": "_m/r/p/e/c/lake-sentani-wp/map-3-wichmann-carl-er.jpg",
+        "filename": "UB Utrecht - Nova Guinea Vol 4 - Karte 3 - Geologische Karte der Umgebung des Sentani-Sees.jpg",
+        "caption": "Map 3 from Wichmann, Carl Ernst Arthur (1917)       Nova Guinea : résultats de l'expédition scientifique néerlandaise à la Nouvelle-Guinée en 1903. Vol. IV: Bericht über eine im Jahre 1903 ausgeführte Reise nach Neu-Guinea, Leiden:  Brill  [dead link]",
+        "alt": "Map 3 from Wichmann, Carl Ernst Arthur (1917)       Nova Guinea : résultats de l'expédition scientifique néerlandaise à la Nouvelle-Guinée en 1903. Vol. IV: Bericht über eine im Jahre 1903 ausgeführte Reise nach Neu-Guinea, Leiden:  Brill  [dead link]",
+        "width": 1918,
+        "height": 1506,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "Kiko Turteliny",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sentani_Lake.jpg",
+        "license": "Public domain",
+        "artist": "C. E. A. Wichmann",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:UB_Utrecht_-_Nova_Guinea_Vol_4_-_Karte_3_-_Geologische_Karte_der_Umgebung_des_Sentani-Sees.jpg",
         "sourceType": "core",
         "sourceArticleId": "lake-sentani-wp",
         "sourceGeohash4": "rpec",
         "categories": [
-          "2008 in Jayapura",
-          "CC-BY-2.0",
-          "Flickr images uploaded by Flickr upload bot",
-          "Indonesia photographs taken on 2018-02-17",
+          "1910s maps of Indonesia",
+          "CC-PD-Mark",
+          "Files from the Expedition Wikipedia project",
+          "Geological maps of Indonesia",
+          "Images from Universiteitsbibliotheek Utrecht - Bijzondere Collecties",
           "Lake Sentani",
-          "Taken with Casio Exilim EX-Z60",
-          "Uploaded by AVBirder"
-        ]
+          "Maps in Utrecht University Library",
+          "Maps of Netherlands New Guinea",
+          "Nova Guinea Vol. IV: Bericht über einde im Jahre 1903 ausgeführte Reise nach Neu-Guinea",
+          "Old maps of Papua (province)",
+          "PD-old-70-expired"
+        ],
+        "smallPath": "_m/r/p/e/c/lake-sentani-wp/map-3-wichmann-carl-er-small.webp"
       },
       "images": [
         {
@@ -116,7 +121,7 @@
           "smallPath": "_m/r/p/e/c/lake-sentani-wp/festival-danau-sentani-papua-small.webp"
         },
         {
-          "path": "_m/r/p/e/c/lake-sentani-wp/douglas-sbd-5-dauntless-over-h.jpg",
+          "path": "_m/r/p/s/1/battle-of-hollandia-wp/douglas-sbd-5-dauntless-over-h.jpg",
           "filename": "Douglas SBD-5 Dauntless over Hollandia airfield on 21 April 1944.jpg",
           "caption": "A U.S. Navy Douglas SBD-5 Dauntless bomber en route to strike enemy targets during the carrier raids on the Hollandia, New Guinea, area, 21 April 1944. Hollandia air field is directly below, with Sentani airfield in the middle distance and Lake Sentani at the top. Wrecked Japanese planes litter Hollandia field, largely the victims of USAAF attacks earlier in the month.",
           "alt": "A U.S. Navy Douglas SBD-5 Dauntless bomber en route to strike enemy targets during the carrier raids on the Hollandia, New Guinea, area, 21 April 1944. Hollandia air field is directly below, with Sentani airfield in the middle distance and Lake Sentani at the top. Wrecked Japanese planes litter Hollandia field, largely the victims of USAAF attacks earlier in the month.",
@@ -146,8 +151,8 @@
             "Template Unknown (author)",
             "World War II aerial photographs of the Dutch East Indies"
           ],
-          "mediumPath": "_m/r/p/e/c/lake-sentani-wp/douglas-sbd-5-dauntless-over-h-medium.webp",
-          "smallPath": "_m/r/p/e/c/lake-sentani-wp/douglas-sbd-5-dauntless-over-h-small.webp"
+          "mediumPath": "_m/r/p/s/1/battle-of-hollandia-wp/douglas-sbd-5-dauntless-over-h-medium.webp",
+          "smallPath": "_m/r/p/s/1/battle-of-hollandia-wp/douglas-sbd-5-dauntless-over-h-small.webp"
         },
         {
           "path": "_m/r/p/e/c/lake-sentani-wp/een-van-de-eilandjes-van-ase-n.jpg",
@@ -449,7 +454,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot A550"
-          ]
+          ],
+          "smallPath": "_m/r/p/s/1/jayapura-wp/jayapura1-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/jayapura3.jpg",
@@ -474,7 +480,9 @@
             "Night in Indonesia",
             "Self-published work",
             "Taken with Canon PowerShot A550"
-          ]
+          ],
+          "mediumPath": "_m/r/p/s/1/jayapura-wp/jayapura3-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/jayapura3-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/jayapura-banner-wv.jpg",
@@ -494,7 +502,9 @@
             "CC-BY-SA-3.0",
             "Derivative versions",
             "Wikivoyage banners of Indonesia"
-          ]
+          ],
+          "mediumPath": "_m/r/p/s/1/jayapura-wp/jayapura-banner-wv-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/jayapura-banner-wv-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/lake-emfote-jayapura-indonesia.jpg",
@@ -520,7 +530,9 @@
             "Northern New Guinea montane rain forests",
             "Self-published work",
             "Taken with Canon EOS-1D C"
-          ]
+          ],
+          "mediumPath": "_m/r/p/s/1/jayapura-wp/lake-emfote-jayapura-indonesia-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/lake-emfote-jayapura-indonesia-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/bukit-teletubbies-jayapura-pap.jpg",
@@ -545,7 +557,8 @@
             "Landforms of Papua",
             "Self-published work",
             "Teletubbies Hills in Indonesia"
-          ]
+          ],
+          "smallPath": "_m/r/p/s/1/jayapura-wp/bukit-teletubbies-jayapura-pap-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/mendung-di-sentani-jayapura-pa.jpg",
@@ -566,7 +579,9 @@
             "Fences in Indonesia",
             "Images from Wiki Cinta Budaya 2018",
             "Jayapura"
-          ]
+          ],
+          "mediumPath": "_m/r/p/s/1/jayapura-wp/mendung-di-sentani-jayapura-pa-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/mendung-di-sentani-jayapura-pa-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/pic-001-02012018-harlembeach.jpg",
@@ -581,7 +596,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:PIC._001-02012018-harlembeach.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jayapura-wp",
-          "sourceGeohash4": "rps1"
+          "sourceGeohash4": "rps1",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/pic-001-02012018-harlembeach-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/noken.jpg",
@@ -596,7 +612,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noken.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jayapura-wp",
-          "sourceGeohash4": "rps1"
+          "sourceGeohash4": "rps1",
+          "mediumPath": "_m/r/p/s/1/jayapura-wp/noken-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/noken-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/hamadi-01.jpg",
@@ -611,7 +629,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamadi-01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jayapura-wp",
-          "sourceGeohash4": "rps1"
+          "sourceGeohash4": "rps1",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/hamadi-01-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/baseg-04.jpg",
@@ -626,7 +645,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BaseG-04.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jayapura-wp",
-          "sourceGeohash4": "rps1"
+          "sourceGeohash4": "rps1",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/baseg-04-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/jembatan-youtefa.jpg",
@@ -641,7 +661,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jembatan_Youtefa.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jayapura-wp",
-          "sourceGeohash4": "rps1"
+          "sourceGeohash4": "rps1",
+          "mediumPath": "_m/r/p/s/1/jayapura-wp/jembatan-youtefa-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/jembatan-youtefa-small.webp"
         }
       ],
       "narration": [

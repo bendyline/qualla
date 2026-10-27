@@ -1,44 +1,60 @@
 # Rodrigues Alves Park
 
-Belém's oldest public park, 15 hectares of preserved Amazon rainforest in the middle of the city, designed in 1883 as a tropical answer to the Bois de Boulogne.
+Fifteen hectares of uncut Amazon forest survive inside Belém as a Belle Époque pleasure ground turned botanical garden, marking the boundary the Portuguese Crown drew in 1627.
 
 **Location:** -1.4306, -48.4564
 
-**Categories:** Botanical gardens in Brazil, Tourist attractions in Pará, Belém, 1883 establishments in Brazil
+**Categories:** Parks and gardens, Nature, Amazon, Belle Epoque, Brazil
 
 ## Introduction
 
-In 1883, during the last reign of Emperor Pedro II, the Baron of Marajó looked at the Bois de Boulogne in Paris and decided Belém deserved its own. What he created instead was something far more radical than a copy: 15 hectares of Amazonian forest preserved inside the growing city, with the original vegetation intact rather than replaced with European planting. The park the Baron designed still stands today as the Rodrigues Alves Park and Botanical Garden of Amazonia, a rectangle of native rainforest surrounded by modern Belém, where 20,000 visitors a month walk under trees that were standing before the neighborhoods around them existed.
+Almost everything green in a tropical city has been planted. This has not. Inside the gates of Rodrigues Alves Park, roughly 94 percent of the vegetation is native forest - Amazon growth that was standing here before Belém's suburbs reached the old Marco da Légua road in the 1950s and closed around it. Fifteen hectares of the original coastal forest, hemmed in by traffic, still doing what forest does. The city grew up to the fence and stopped.
 
-## A Forest Preserved in Place
+## The League Marker
 
-Most urban parks are invented landscapes, fields and trees arranged to look natural. Rodrigues Alves Park is the opposite. About 94 percent of its vegetation is native forest, the original Amazon rainforest that was left standing when the area around it was cleared. Only 6 percent consists of exotic plants. The park's 15 hectares preserve a slice of what Belém looked like before the city's mid-20th-century expansion pushed outward in all directions. The trees here include species characteristic of the Amazon, some of which have been documented in place since the park was designated in 1883. The forest is older than the park. The park just stopped the clearing at its edges.
+The park's position is not accidental; it is a survey line that turned into a place. In 1627 the Portuguese Crown granted Belém's city council a patrimonial league of 4,110 hectares, running inland from the banks of the Pará and Guamá rivers, in order to push settlement away from the waterfront and into the interior. The outer edge of that grant became known as the Marco da Légua - the league marker - and a neighborhood grew around it. Two years earlier the Portuguese had set up a customs warehouse at the harbor to weigh and tax imported European goods, the beginning of what would become the Ver-o-Peso market. Between the tax house at the water and the marker a league inland, the colonial shape of Belém was drawn. The park sits precisely on that boundary.
 
-## The Baron's Vision
+## A Bois de Boulogne on the Equator
 
-José Coelho da Gama Abreu, Baron of Marajó, served as president of the Province of Grão-Pará during the Belle Époque, when Belém was getting rich on rubber and trying to look European. The Baron had traveled to Paris. He had walked the Bois de Boulogne, the royal hunting forest on the city's western edge that had been redesigned as a public park in the 1850s. He wanted that for Belém. But where the Parisian designers had imported American trees to diversify the Bois, the Baron left the Amazonian trees where they stood. The result was recognized, in 1986 and again in 2002 and 2008, for what it actually was: a botanical garden. In 2008 the park joined the Botanic Gardens Conservation International network.
+José Coelho da Gama e Abreu, the Baron of Marajó and president of the province of Grão-Pará, had seen the Bois de Boulogne in Paris and wanted one for Belém. The wood at Marco da Légua had been set aside by provincial law in September 1870; in August 1883, under Emperor Pedro II, it opened as a municipal park. This was the Belle Époque of the Amazon, when rubber money made ambitions of that scale seem reasonable, and a public forest on the road out of town read as a declaration that Belém was a modern capital. In 1903 the intendant Antônio Lemos reopened the grounds with the picturesque apparatus of the period - waterfalls, artificial lakes, grottos. The paths were laid so that citizens could stroll through their own rainforest in city clothes.
 
-## Wildlife in the City
+## Curupira at the Gate
 
-The park is home to more than 300 plant species and 58 animal species, with about 435 individual animals living in captivity, semi-captivity, or free-range within the park boundaries. The bird collection includes scarlet macaws, jandaias, maitacas, maracanãs, parrots, parakeets, and the endangered great blue macaw. The mammals, amphibians, reptiles, fish, and insects are all Amazonian species, chosen to reflect the biodiversity of the surrounding forest ecosystem rather than to showcase exotic curiosities. There is a bird nursery. Wildlife management programs and environmental education projects run out of the park. It is working conservation as well as public recreation, a place where children on school visits can see a scarlet macaw and a jaguar tooth in the same afternoon.
+Much of that nineteenth-century staging survives. The monumental iron gate still frames the entrance. Inside stand a monument to the city's intendants, a Chinese kiosk, a cave built of soapstone, and the artificial lakes, along with a nineteenth-century house restored and moved onto the grounds in 1985. The most telling piece is a statue of Mapinguari and Curupira, guardian figures from Amazonian folklore who are said to protect the forest and punish those who take more from it than they need. Setting them at the heart of a park designed in imitation of Paris says something about how Belém has always negotiated between the two worlds it belongs to.
 
-## The Old Monuments
+## Four Hundred and Thirty-Five Residents
 
-The park still preserves 19th-century structures from its original design. The monumental gate at the main entrance is original. A monument to the municipal intendants who governed Belém during the park's early years stands among the trees. A statue commemorates Mapinguari and Curupira, the legendary forest guardians of Amazonian mythology: Mapinguari a hairy hominid said to protect trees, Curupira a child with backwards feet that confuse hunters who would harm the forest. A Chinese kiosk, a soapstone cave, and artificial lakes complete the park's 19th-century vocabulary. In 1985, a 19th-century chalet was restored and transferred to the park, where it still stands. Walking through is like walking through a Belle Époque dream that had better sense than to try to leave the jungle out of it.
+The park holds more than 300 species of plant and 58 species of animal, roughly 435 individual animals in total, and the arrangement is unusual: some are captive, some semi-captive, and some simply live there. Free-ranging mammals, birds, amphibians and reptiles share the forest with animals in enclosures and fish in tanks, and a bird nursery supports the wildlife management and environmental education programs. Parrots, parakeets, maitacas, jandaias, maracanãs and scarlet macaws move through the native canopy, along with an endangered large blue macaw. Around 20,000 people come through the gates each month. In 2002 the site was provisionally registered as the Amazon Botanical Garden, and in 2008 it was formally elevated to botanical garden status, joining the Botanic Gardens Conservation International network.
 
-## Marco da Légua
+## What Fifteen Hectares Can Hold
 
-The park sits in an area called Marco da Légua, named for a colonial boundary marker. In 1625, Portuguese officials set up a tax warehouse here to collect duties on European goods entering Belém. In 1627, the governor established the first patrimonial league, a 4,110-hectare land grant from the Portuguese Crown to the Belém City Council, intended to push settlement inland toward the Caeté River and the future municipality of Bragança. The boundary stone that gave Marco da Légua its name marked the end of the first league. The park today still marks that edge, the point where colonial Belém stopped and the forest began. The Baron's decision to preserve the forest at this specific spot was a small act of historical respect. The jungle that existed before the colonists stayed. That alone makes Rodrigues Alves Park remarkable.
+A fragment this size cannot preserve an ecosystem; the Amazon does not work at that scale. What it preserves instead is a reference - a standing sample of what the ground under Belém looked like before the ground under Belém was a city, close enough to downtown that a schoolchild can visit it on a weekday morning. The remaining six percent of the vegetation is exotic, the residue of a century of gardeners. The other ninety-four percent was never planted by anyone.
 
 ## Flight Context
 
-Located at 1.431°S, 48.456°W in Belém's Marco da Légua district, inland from Guajará Bay. From Belém/Val-de-Cans International (SBBE), the park is visible as a compact rectangle of dark green forest surrounded by urban development. Approaches from the north pass directly over the park. Best viewed in dry-season morning light, July to November, when the contrast between preserved forest and city is sharpest.
+Coordinates 1.4306 S, 48.4564 W, in the Marco district of Belém, Pará, about 4 km northeast of the historic waterfront. From 1,500-2,500 ft AGL the park reads as a solid dark green rectangle in an otherwise fully built-up grid - one of the most legible landmarks in the city from the air, with the artificial lakes visible as small bright cutouts in the canopy. Belém/Val de Cans International (SBBE) is roughly 4 km north-northwest and Belém/Brigadeiro Protásio de Oliveira, Júlio César (SBJC), lies nearby to the northeast, so expect controlled airspace and traffic. Morning light gives the best canopy contrast; afternoons bring the usual equatorial convection.
 
 ## Sources
 
 - [Rodrigues Alves Park - Wikipedia](https://en.wikipedia.org/?curid=78575169)
+  - 1627 patrimonial league grant of 4,110 hectares
+  - 1625 customs warehouse (Casa de Ver-o-Peso) established 2 years before the 1627 grant
+  - José Coelho da Gama e Abreu, Baron of Marajó, designed the park inspired by the Bois de Boulogne in Paris
+  - Park inaugurated August 1883
+  - Over 300 plant species, 58 animal species, ~435 individual animals
+  - ~20,000 visitors per month
+  - Provisionally registered as botanical garden 2002, formally elevated 2008, joined BGCI network
+  - Checked: source Wikipedia article credits Antônio Lemos's administration with the 1883 opening, but Lemos's documented tenure as intendant of Belém was 1897-1911 (per pt.wikipedia.org/wiki/Antônio_Lemos) - the story's account (Emperor Pedro II era opening in 1883, Lemos-era renovation circa 1903) is consistent with Lemos's actual tenure and was left as written
+
+## Review Notes
+
+**Reviewed:** 2026-09-05 · 8 facts verified · 0 corrections
+
+Verified land grant, park founder/inspiration, opening date, species/visitor counts, and botanical garden registration dates. Cross-checked a discrepancy in the source Wikipedia article (which misattributes the 1883 opening to Antônio Lemos, whose actual tenure was 1897-1911) - the story's own account already matches Lemos's real tenure, so no change was needed. Spiciness 2 (mild).
+
+**Spiciness:** 2/5
 
 ---
 
-*Word count: 800*
-*Read time: 4 minutes*
+*Word count: 662*
+*Read time: 3 minutes*

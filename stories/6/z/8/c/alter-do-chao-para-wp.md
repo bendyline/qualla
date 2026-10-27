@@ -8,7 +8,7 @@ A Tapajos River village where the dry season uncovers white-sand freshwater beac
 
 ## Introduction
 
-It should not exist. White sand, turquoise water, palm trees leaning toward a shoreline that invites you in - and yet the ocean is 600 miles away. Alter do Chao lies on the right bank of the Tapajos River, a major tributary of the Amazon, far enough up the waterway that ships can still reach it only because the Tapajos is deep and wide enough to float them. When the dry season arrives and the water level drops, the river exposes beaches that The Guardian once ranked as the most beautiful freshwater beaches in the world. Locals call their village the Brazilian Caribbean. The comparison sounds like tourism copy until you see it, at which point the argument shifts.
+It should not exist. White sand, turquoise water, palm trees leaning toward a shoreline that invites you in - and yet the Atlantic is more than 700 kilometers away. Alter do Chao lies on the right bank of the Tapajos River, a major tributary of the Amazon, far enough inland that the nearest salt water is a two-day boat journey downriver. When the dry season arrives and the water level drops, the river exposes beaches that The Guardian once ranked as the most beautiful freshwater beaches in the world. Locals call their village the Brazilian Caribbean. The comparison sounds like tourism copy until you see it, at which point the argument shifts.
 
 ## Two Rivers, Two Seasons
 
@@ -37,8 +37,24 @@ Located at 2.52 S, 54.95 W on the Tapajos River, 37 km southwest of Santarem, Pa
 ## Sources
 
 - [Alter do Chão, Pará - Wikipedia](https://en.wikipedia.org/?curid=21311740)
+- [Alter do Chão, Pará - Wikipedia](https://en.wikipedia.org/?curid=21311740)
+  - founded 6 March 1626 by Pedro Teixeira
+  - elevated to town status 6 March 1758 by Francisco Xavier de Mendonça Furtado
+  - 37 km from Santarém
+  - Borari (Boraris) indigenous heritage
+  - Sairé festival held in September; Festival dos Botos added in the 1970s
+  - rubber-era link to Belterra and Fordlandia latex transport
+  - The Guardian 'most beautiful freshwater beach' claim attributed correctly (Wikipedia itself flags it as citation-needed, so kept as an attributed claim rather than stated fact)
+
+## Review Notes
+
+**Reviewed:** 2026-09-05 · 6 facts verified · 0 corrections
+
+Verified via Wikipedia WebFetch: founding date/founder, 1758 elevation to town, distance from Santarem, Borari heritage, Saire/Festival dos Botos history, rubber-era Belterra/Fordlandia link. All accurate, no corrections needed. No empathy/dignity issues found. Spiciness 2.
+
+**Spiciness:** 2/5
 
 ---
 
-*Word count: 830*
+*Word count: 892*
 *Read time: 4 minutes*

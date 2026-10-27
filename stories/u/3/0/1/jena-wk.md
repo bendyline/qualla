@@ -36,7 +36,7 @@ Jena lies at 50.927 degrees N, 11.586 degrees E, in the Saale valley in eastern 
 
 ## Sources
 
-- [Jena - Wikivoyage](https://en.wikivoyage.org/wiki/Jena)
+- [Jena - Wikivoyage](https://en.wikivoyage.org/?curid=16247)
   - Seven Wonders of Jena (septem miracula Jenae) and their identities; five extant, bridge and Weigel's house lost (confirmed)
   - Jenzig 385 m; Camsdorfer Brücke nine arches; Draco now in the Göhre museum (confirmed)
   - University founded 1558, named after Schiller in 1934; approx. 20,000 students plus 4,500 at the Fachhochschule (confirmed)

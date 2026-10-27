@@ -3,27 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/p/r/imperial-palace-of-goslar-wp/hero.jpg",
-        "filename": "Goslar kaiserpfalz.jpg",
-        "caption": "Kaiserpfalz in Goslar",
-        "alt": "Kaiserpfalz in Goslar",
-        "width": 2199,
-        "height": 1329,
+        "path": "_m/u/1/p/r/imperial-palace-of-goslar-wp/die-goslarer-kaiserpfalz-lowen.jpg",
+        "filename": "Die Goslarer Kaiserpfalz. Löwen und Wappen.jpg",
+        "caption": "Imperial Palace of Goslar.",
+        "alt": "Imperial Palace of Goslar.",
+        "width": 5341,
+        "height": 3566,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Tobias Helfrich (Dionysos)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goslar_kaiserpfalz.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Holger Uwe Schmitt",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Die_Goslarer_Kaiserpfalz._L%C3%B6wen_und_Wappen.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "imperial-palace-of-goslar-wp",
         "sourceGeohash4": "u1pr",
-        "categories": [
-          "CC-BY-SA-3.0-migrated",
-          "Files with coordinates missing SDC location of creation (51° N, 10° E)",
-          "GFDL",
-          "Kaiserpfalz Goslar",
-          "License migration completed",
-          "Palas in Germany"
-        ]
+        "mediumPath": "_m/u/1/p/r/imperial-palace-of-goslar-wp/die-goslarer-kaiserpfalz-lowen-medium.webp",
+        "smallPath": "_m/u/1/p/r/imperial-palace-of-goslar-wp/die-goslarer-kaiserpfalz-lowen-small.webp"
       },
       "images": [
         {
@@ -194,7 +188,7 @@
           "smallPath": "_m/u/1/p/r/imperial-palace-of-goslar-wp/kaisersaal-kaiserpfalz-small.webp"
         },
         {
-          "path": "_m/u/1/p/r/imperial-palace-of-goslar-wp/domvorhalle-goslar-161-vtmd.jpg",
+          "path": "_m/u/1/p/r/hahnenklee-wp/domvorhalle-goslar-161-vtmd.jpg",
           "filename": "Domvorhalle Goslar 161-vtmd.jpg",
           "caption": "Collegiate Church Vestibule in Goslar, Germany",
           "alt": "Collegiate Church Vestibule in Goslar, Germany",
@@ -206,7 +200,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Domvorhalle_Goslar_161-vtmd.jpg",
           "sourceType": "core",
           "sourceArticleId": "imperial-palace-of-goslar-wp",
-          "sourceGeohash4": "u1pr"
+          "sourceGeohash4": "u1pr",
+          "smallPath": "_m/u/1/p/r/hahnenklee-wp/domvorhalle-goslar-161-vtmd-small.webp"
         },
         {
           "path": "_m/u/1/p/r/imperial-palace-of-goslar-wp/kaiserpfalz-goslar-st.jpg",
@@ -619,7 +614,8 @@
             "License migration completed",
             "Mineral processing plants in Germany",
             "Werkshof (Rammelsberg)"
-          ]
+          ],
+          "smallPath": "_m/u/1/p/r/hahnenklee-wp/rammelsberg-small.webp"
         },
         {
           "path": "_m/u/1/p/r/hahnenklee-wp/frankenbergerkirche.jpg",
@@ -644,7 +640,8 @@
             "Slate roofs in Lower Saxony",
             "St. Peter- und Paul-Kirche auf dem Frankenberge",
             "Taken with Fujifilm FinePix A201"
-          ]
+          ],
+          "smallPath": "_m/u/1/p/r/hahnenklee-wp/frankenbergerkirche-small.webp"
         },
         {
           "path": "_m/u/1/p/r/hahnenklee-wp/hildesheim-marktplatz-p-616-18.jpg",
@@ -668,7 +665,9 @@
             "Rathaus Hildesheim",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-LZ8"
-          ]
+          ],
+          "mediumPath": "_m/u/1/p/r/hahnenklee-wp/hildesheim-marktplatz-p-616-18-medium.webp",
+          "smallPath": "_m/u/1/p/r/hahnenklee-wp/hildesheim-marktplatz-p-616-18-small.webp"
         },
         {
           "path": "_m/u/1/n/x/weser-uplands-wp/bad-gandersheim-marktplatz-284.jpg",
@@ -694,7 +693,9 @@
             "Taken with Panasonic Lumix DMC-LZ8",
             "Timber framed houses in Landkreis Northeim",
             "Timber framing in Bad Gandersheim"
-          ]
+          ],
+          "mediumPath": "_m/u/1/n/x/weser-uplands-wp/bad-gandersheim-marktplatz-284-medium.webp",
+          "smallPath": "_m/u/1/n/x/weser-uplands-wp/bad-gandersheim-marktplatz-284-small.webp"
         },
         {
           "path": "_m/u/1/p/r/hahnenklee-wp/goslar-rathaus-eingang-huldigu.jpg",
@@ -718,7 +719,9 @@
             "Rathaus Goslar",
             "Self-published work",
             "Taken with Olympus E-PL1"
-          ]
+          ],
+          "mediumPath": "_m/u/1/p/r/hahnenklee-wp/goslar-rathaus-eingang-huldigu-medium.webp",
+          "smallPath": "_m/u/1/p/r/hahnenklee-wp/goslar-rathaus-eingang-huldigu-small.webp"
         },
         {
           "path": "_m/u/1/p/r/hahnenklee-wp/goslar-marktkerk-cosmas-en-dam.jpg",
@@ -737,7 +740,9 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Marktkirche St. Cosmas und Damian"
-          ]
+          ],
+          "mediumPath": "_m/u/1/p/r/hahnenklee-wp/goslar-marktkerk-cosmas-en-dam-medium.webp",
+          "smallPath": "_m/u/1/p/r/hahnenklee-wp/goslar-marktkerk-cosmas-en-dam-small.webp"
         },
         {
           "path": "_m/u/1/p/r/hahnenklee-wp/goslar-zwinger-am-kahnteich.jpg",
@@ -752,7 +757,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goslar_Zwinger_am_Kahnteich.JPG",
           "sourceType": "poi",
           "sourceArticleId": "hahnenklee-wp",
-          "sourceGeohash4": "u1pr"
+          "sourceGeohash4": "u1pr",
+          "mediumPath": "_m/u/1/p/r/hahnenklee-wp/goslar-zwinger-am-kahnteich-medium.webp",
+          "smallPath": "_m/u/1/p/r/hahnenklee-wp/goslar-zwinger-am-kahnteich-small.webp"
         },
         {
           "path": "_m/u/1/p/r/hahnenklee-wp/goslarer-museum-03.jpg",
@@ -767,7 +774,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goslarer_Museum_03.jpg",
           "sourceType": "poi",
           "sourceArticleId": "hahnenklee-wp",
-          "sourceGeohash4": "u1pr"
+          "sourceGeohash4": "u1pr",
+          "mediumPath": "_m/u/1/p/r/hahnenklee-wp/goslarer-museum-03-medium.webp",
+          "smallPath": "_m/u/1/p/r/hahnenklee-wp/goslarer-museum-03-small.webp"
         },
         {
           "path": "_m/u/1/p/r/hahnenklee-wp/goslar-klauskapelle-01.jpg",
@@ -782,7 +791,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goslar_Klauskapelle_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "hahnenklee-wp",
-          "sourceGeohash4": "u1pr"
+          "sourceGeohash4": "u1pr",
+          "smallPath": "_m/u/1/p/r/hahnenklee-wp/goslar-klauskapelle-01-small.webp"
         },
         {
           "path": "_m/u/1/p/r/hahnenklee-wp/goslar-jakobistra-e-2.jpg",
@@ -797,7 +807,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goslar_Jakobistra%C3%9Fe_(2).jpg",
           "sourceType": "poi",
           "sourceArticleId": "hahnenklee-wp",
-          "sourceGeohash4": "u1pr"
+          "sourceGeohash4": "u1pr",
+          "mediumPath": "_m/u/1/p/r/hahnenklee-wp/goslar-jakobistra-e-2-medium.webp",
+          "smallPath": "_m/u/1/p/r/hahnenklee-wp/goslar-jakobistra-e-2-small.webp"
         },
         {
           "path": "_m/u/1/p/r/hahnenklee-wp/goslar-asv2022-06-img06-kaiser.jpg",
@@ -812,7 +824,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goslar_asv2022-06_img06_Kaiserworth.jpg",
           "sourceType": "poi",
           "sourceArticleId": "hahnenklee-wp",
-          "sourceGeohash4": "u1pr"
+          "sourceGeohash4": "u1pr",
+          "mediumPath": "_m/u/1/p/r/hahnenklee-wp/goslar-asv2022-06-img06-kaiser-medium.webp",
+          "smallPath": "_m/u/1/p/r/hahnenklee-wp/goslar-asv2022-06-img06-kaiser-small.webp"
         },
         {
           "path": "_m/u/1/p/r/hahnenklee-wp/goslar-asv2022-06-img55-bahnho.jpg",
@@ -827,7 +841,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goslar_asv2022-06_img55_Bahnhof.jpg",
           "sourceType": "poi",
           "sourceArticleId": "hahnenklee-wp",
-          "sourceGeohash4": "u1pr"
+          "sourceGeohash4": "u1pr",
+          "mediumPath": "_m/u/1/p/r/hahnenklee-wp/goslar-asv2022-06-img55-bahnho-medium.webp",
+          "smallPath": "_m/u/1/p/r/hahnenklee-wp/goslar-asv2022-06-img55-bahnho-small.webp"
         }
       ],
       "narration": [

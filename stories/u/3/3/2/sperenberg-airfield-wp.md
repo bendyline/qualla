@@ -36,7 +36,7 @@ Sperenberg lies at 52.140 N, 13.305 E, roughly 40 km south of central Berlin in 
 
 ## Sources
 
-- [Sperenberg Airfield - Wikipedia](https://en.wikipedia.org/wiki/Sperenberg_Airfield)
+- [Sperenberg Airfield - Wikipedia](https://en.wikipedia.org/?curid=37465258)
 - [Sperenberg - Wikipedia (German)](https://de.wikipedia.org/wiki/Sperenberg)
   - 80-metre Gipsberg quarried for gypsum; workings flooded with salt water causing subsidence, quarrying ended 1958
   - 1867 borehole reached 1,271.6 m, the world's first to exceed 1,000 m

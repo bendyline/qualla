@@ -28,7 +28,7 @@ The range of lives represented at Elmwood defies easy summary. Robert Reed Churc
 
 ## Flight Context
 
-Located at 35.122°N, 90.029°W in Memphis, Tennessee, approximately 1.5 miles south of downtown Memphis along South Dudley Street, south of Crump Boulevard. The cemetery's extensive tree canopy and park-like layout make it visually distinctive from altitude amid the surrounding urban grid. Memphis International Airport (KMEM) is approximately 8 nm southeast. The Mississippi River is about 2 nm west. Best viewed at 1,500-3,000 feet AGL where the cemetery's garden layout, mature tree cover, and monument groupings are visible.
+Located at 35.122°N, 90.029°W in Memphis, Tennessee, approximately 1.5 miles south of downtown Memphis along South Dudley Street, south of Crump Boulevard. The cemetery's extensive tree canopy and park-like layout make it visually distinctive from altitude amid the surrounding urban grid. Frederick W. Smith International Airport (KMEM, formerly Memphis International) is approximately 8 nm southeast. The Mississippi River is about 2 nm west. Best viewed at 1,500-3,000 feet AGL where the cemetery's garden layout, mature tree cover, and monument groupings are visible.
 
 ## Sources
 

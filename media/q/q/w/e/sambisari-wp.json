@@ -3,31 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/q/w/e/sambisari-wp/hero.jpg",
-        "filename": "Sambisari Panorama (29 December 2013).jpg",
-        "caption": "Panorama of Sambisari Temple, Yogyakarta. Stitched from 7 photographs.",
-        "alt": "Panorama of Sambisari Temple, Yogyakarta. Stitched from 7 photographs.",
-        "width": 10592,
-        "height": 4708,
+        "path": "_m/q/q/w/e/sambisari-wp/main-temple-candi-samb.jpg",
+        "filename": "Candi Sambisari main temple 2013-11-28 03.jpg",
+        "caption": "Main temple of Candi Sambisari, Sleman, Yogyakarta",
+        "alt": "Main temple of Candi Sambisari, Sleman, Yogyakarta",
+        "width": 5184,
+        "height": 3291,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
         "artist": "Crisco 1492",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sambisari_Panorama_(29_December_2013).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Candi_Sambisari_main_temple_2013-11-28_03.jpg",
         "sourceType": "core",
         "sourceArticleId": "sambisari-wp",
         "sourceGeohash4": "qqwe",
         "categories": [
           "CC-BY-SA-3.0",
-          "Featured pictures on Wikipedia, English",
-          "Featured pictures on Wikipedia, Persian",
-          "Featured pictures on the English Wikipedia by Chris Woodrich",
-          "Files with Assessments template missing SDC Commons no value quality assessment",
-          "Images with extracted images",
-          "Panoramas of Indonesia",
-          "Photographs of buildings and structures by Chris Woodrich",
+          "Photographs of temples by Chris Woodrich",
           "Sambisari Temple",
-          "Self-published work"
-        ]
+          "Self-published work",
+          "Taken with Canon EOS 60D"
+        ],
+        "mediumPath": "_m/q/q/w/e/sambisari-wp/main-temple-candi-samb-medium.webp",
+        "smallPath": "_m/q/q/w/e/sambisari-wp/main-temple-candi-samb-small.webp"
       },
       "images": [
         {
@@ -619,7 +616,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon Digital IXUS 65"
-          ]
+          ],
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/candi-kedulan-small.webp"
         },
         {
           "path": "_m/t/c/9/b/koneswaram-temple-wp/main-shrine-shiva-pram.jpg",
@@ -644,7 +642,8 @@
             "Self-published work",
             "Shiva temple Prambanan",
             "Taken with Canon Digital IXUS 65"
-          ]
+          ],
+          "smallPath": "_m/t/c/9/b/koneswaram-temple-wp/main-shrine-shiva-pram-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/garuda-indonesia-boein.jpg",
@@ -673,7 +672,8 @@
             "Photographs by Gunawan Kartapranata",
             "Self-published work",
             "Taken with Canon Digital IXUS 860 IS"
-          ]
+          ],
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/garuda-indonesia-boein-small.webp"
         },
         {
           "path": "_m/q/q/w/e/prambanan-wp/9th-century-hindu-trim.jpg",
@@ -698,7 +698,9 @@
             "Prambanan in 2010",
             "Self-published work",
             "Taken with Canon Digital IXUS 860 IS"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/e/prambanan-wp/9th-century-hindu-trim-medium.webp",
+          "smallPath": "_m/q/q/w/e/prambanan-wp/9th-century-hindu-trim-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/brambanan-train-station-120827.jpg",
@@ -723,7 +725,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Nikon D5000"
-          ]
+          ],
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/brambanan-train-station-120827-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/prambanan-larajonggrang.jpg",
@@ -738,7 +741,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prambanan_LaraJonggrang.JPG",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/prambanan-larajonggrang-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/candi-sewu-viewed-from-the-sou.jpg",
@@ -753,7 +757,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Candi_Sewu_viewed_from_the_south,_23_November_2013.jpg",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/tpc/pr/am/ba/na/prambanan/candi-sewu-viewed-from-the-sou-medium.webp",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/candi-sewu-viewed-from-the-sou-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/kalasan-temple-from-the-north-.jpg",
@@ -768,7 +774,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalasan_Temple_from_the_north-east,_23_November_2013.jpg",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/tpc/pr/am/ba/na/prambanan/kalasan-temple-from-the-north--medium.webp",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/kalasan-temple-from-the-north--small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/gebang-temple-29-december-2013.jpg",
@@ -783,7 +791,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gebang_Temple,_29_December_2013_02.jpg",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/tpc/pr/am/ba/na/prambanan/gebang-temple-29-december-2013-medium.webp",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/gebang-temple-29-december-2013-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/banyunibo-temple-2014-05-31-01.jpg",
@@ -798,7 +808,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banyunibo_Temple,_2014-05-31_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/tpc/pr/am/ba/na/prambanan/banyunibo-temple-2014-05-31-01-medium.webp",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/banyunibo-temple-2014-05-31-01-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/barong-temple-gate-and-two-bui.jpg",
@@ -813,7 +825,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barong_Temple_(gate_and_two_buildings)_2014-05-31.jpg",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/tpc/pr/am/ba/na/prambanan/barong-temple-gate-and-two-bui-medium.webp",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/barong-temple-gate-and-two-bui-small.webp"
         },
         {
           "path": "_m/q/q/w/e/ijo-temple-wp/hero.jpg",
@@ -828,7 +842,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_temple_at_Candi_Ijo,_Sleman,_Yogyakarta,_2014-05-31.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ijo-temple-wp",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/e/ijo-temple-wp/hero-medium.webp",
+          "smallPath": "_m/q/q/w/e/ijo-temple-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/candi-prambanan-dan-sojiwan-da.jpg",
@@ -843,7 +859,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Candi_Prambanan_dan_Sojiwan_dari_Ketinggian.jpg",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/tpc/pr/am/ba/na/prambanan/candi-prambanan-dan-sojiwan-da-medium.webp",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/candi-prambanan-dan-sojiwan-da-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/plaosan-temple.jpg",
@@ -858,7 +876,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaosan_temple.jpg",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/tpc/pr/am/ba/na/prambanan/plaosan-temple-medium.webp",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/plaosan-temple-small.webp"
         },
         {
           "path": "_m/tpc/mo/un/t-/ma/mount-marapi/blethrow-merapi1.jpg",
@@ -883,7 +903,8 @@
             "Media missing infobox template",
             "Merapi in 2005",
             "Views of Mount Merapi"
-          ]
+          ],
+          "smallPath": "_m/tpc/mo/un/t-/ma/mount-marapi/blethrow-merapi1-small.webp"
         },
         {
           "path": "_m/tpc/mo/un/t-/ma/mount-marapi/mt-merapi-from-mt-merbabu.jpg",
@@ -905,7 +926,9 @@
             "Merapi in 1998",
             "Mount Merapi",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/mo/un/t-/ma/mount-marapi/mt-merapi-from-mt-merbabu-medium.webp",
+          "smallPath": "_m/tpc/mo/un/t-/ma/mount-marapi/mt-merapi-from-mt-merbabu-small.webp"
         },
         {
           "path": "_m/tpc/mo/un/t-/ma/mount-marapi/papan-penanda-di-area-museum-u.jpg",
@@ -926,7 +949,9 @@
             "Kaliurang",
             "Self-published work",
             "Ullen Sentalu Museum"
-          ]
+          ],
+          "mediumPath": "_m/tpc/mo/un/t-/ma/mount-marapi/papan-penanda-di-area-museum-u-medium.webp",
+          "smallPath": "_m/tpc/mo/un/t-/ma/mount-marapi/papan-penanda-di-area-museum-u-small.webp"
         }
       ],
       "narration": [

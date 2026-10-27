@@ -41,7 +41,7 @@ Located at 25.55N, 76.76W on St. George's Cay, just off the northern tip of Eleu
 ## Sources
 
 - [Spanish Wells - Wikipedia](https://en.wikipedia.org/?curid=4124238)
-- [Spanish Wells - Wikipedia](https://en.wikipedia.org/wiki/Spanish_Wells)
+- [Spanish Wells - Wikipedia](https://en.wikipedia.org/?curid=4124238)
   - St. George's Cay dimensions 610m by 2860m confirmed
   - Population 1,608 confirmed
   - Eleutheran Adventurers 1647 shipwreck at Devil's Backbone confirmed

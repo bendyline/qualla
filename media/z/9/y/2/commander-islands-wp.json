@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/z/9/y/2/commander-islands-wp/hero.jpg",
-        "filename": "Бухта Буяна 1.JPG",
-        "caption": "Бухта Буяна, Алеутский район",
-        "alt": "Бухта Буяна, Алеутский район",
-        "width": 3264,
-        "height": 2448,
-        "mimeType": "image/jpeg",
+        "path": "_m/z/9/y/2/commander-islands-wp/mapa-komandorskych-ostrovu.png",
+        "filename": "Mapa Komandorských ostrovů.png",
+        "caption": "Mapa Komandorských ostrovů",
+        "alt": "Mapa Komandorských ostrovů",
+        "width": 4741,
+        "height": 2840,
+        "mimeType": "image/png",
         "license": "CC BY-SA 4.0",
-        "artist": "SuricataJ",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D1%85%D1%82%D0%B0_%D0%91%D1%83%D1%8F%D0%BD%D0%B0_1.JPG",
-        "sourceType": "core",
+        "artist": "File:Commander Islands Map - Russian az.svg: Serkanland\nFile:Commander Islands Map - Russian.png: Latitude\nderivative work: Michal Klajban",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapa_Komandorsk%C3%BDch_ostrov%C5%AF.png",
+        "sourceType": "commons-category",
         "sourceArticleId": "commander-islands-wp",
         "sourceGeohash4": "z9y2",
-        "categories": [
-          "Bering Island",
-          "Buyan Bay",
-          "CC-BY-SA-4.0",
-          "Files with coordinates missing SDC location of creation",
-          "Images from Wiki Loves Earth 2015",
-          "Images from Wiki Loves Earth 2015 in Russia",
-          "Images from Wiki Loves Earth missing SDC depicts",
-          "Images from Wiki Loves Earth missing SDC location of creation"
-        ]
+        "mediumPath": "_m/z/9/y/2/commander-islands-wp/mapa-komandorskych-ostrovu-medium.webp",
+        "smallPath": "_m/z/9/y/2/commander-islands-wp/mapa-komandorskych-ostrovu-small.webp"
       },
       "images": [
         {
@@ -337,7 +329,9 @@
             "Port of Petropavlovsk-Kamchatsky",
             "Superseded",
             "Taken with Fujifilm FinePix S5000"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/d0807i14-harbourtour-medium.webp",
+          "smallPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/d0807i14-harbourtour-small.webp"
         },
         {
           "path": "_m/z/9/2/v/petropavlovsk-kamchatsky-wk/koryaksky-volcano-petropavlovs.jpg",
@@ -359,7 +353,8 @@
             "PD-user",
             "Petropavlovsk-Kamchatsky",
             "Volcanoes in 2005"
-          ]
+          ],
+          "smallPath": "_m/z/9/2/v/petropavlovsk-kamchatsky-wk/koryaksky-volcano-petropavlovs-small.webp"
         },
         {
           "path": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/brown-bear-in-spring.jpg",
@@ -380,7 +375,8 @@
             "PD-self",
             "Self-published work",
             "Ursus arctos beringianus"
-          ]
+          ],
+          "smallPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/brown-bear-in-spring-small.webp"
         },
         {
           "path": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/klyuchevskoi.jpg",
@@ -403,7 +399,8 @@
             "PD-self",
             "Self-published work",
             "Volcanic eruptions in Russia"
-          ]
+          ],
+          "smallPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/klyuchevskoi-small.webp"
         },
         {
           "path": "_m/tpc/co/mm/an/de/commander-islands/palana.jpg",
@@ -427,7 +424,8 @@
             "Palana",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/tpc/co/mm/an/de/commander-islands/palana-small.webp"
         },
         {
           "path": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/kljucevskaja-za-vychodu-slunce.jpg",
@@ -446,7 +444,9 @@
           "categories": [
             "Klyuchevskaya Sopka",
             "PD-user"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/kljucevskaja-za-vychodu-slunce-medium.webp",
+          "smallPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/kljucevskaja-za-vychodu-slunce-small.webp"
         },
         {
           "path": "_m/tpc/co/mm/an/de/commander-islands/mutnovka2.jpg",
@@ -461,7 +461,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mutnovka2.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "commander-islands",
-          "sourceGeohash4": "tpc/co/mm/an/de"
+          "sourceGeohash4": "tpc/co/mm/an/de",
+          "smallPath": "_m/tpc/co/mm/an/de/commander-islands/mutnovka2-small.webp"
         },
         {
           "path": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/esso1.jpg",
@@ -476,7 +477,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Esso1.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "kamchatka-krai",
-          "sourceGeohash4": "z9y2"
+          "sourceGeohash4": "z9y2",
+          "smallPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/esso1-small.webp"
         },
         {
           "path": "_m/tpc/co/mm/an/de/commander-islands/prtunka.jpg",
@@ -491,7 +493,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:PrTUNKA.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "commander-islands",
-          "sourceGeohash4": "tpc/co/mm/an/de"
+          "sourceGeohash4": "tpc/co/mm/an/de",
+          "mediumPath": "_m/tpc/co/mm/an/de/commander-islands/prtunka-medium.webp",
+          "smallPath": "_m/tpc/co/mm/an/de/commander-islands/prtunka-small.webp"
         },
         {
           "path": "_m/tpc/co/mm/an/de/commander-islands/nalychevo.jpg",
@@ -506,7 +510,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nalychevo.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "commander-islands",
-          "sourceGeohash4": "tpc/co/mm/an/de"
+          "sourceGeohash4": "tpc/co/mm/an/de",
+          "mediumPath": "_m/tpc/co/mm/an/de/commander-islands/nalychevo-medium.webp",
+          "smallPath": "_m/tpc/co/mm/an/de/commander-islands/nalychevo-small.webp"
         },
         {
           "path": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/kamchatka-map.png",
@@ -521,7 +527,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kamchatka_map.png",
           "sourceType": "sibling",
           "sourceArticleId": "kamchatka-krai",
-          "sourceGeohash4": "z9y2"
+          "sourceGeohash4": "z9y2",
+          "mediumPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/kamchatka-map-medium.webp",
+          "smallPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/kamchatka-map-small.webp"
         },
         {
           "path": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/lotnisko-pietropaw-owsk-kamcza.jpg",
@@ -536,7 +544,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lotnisko_Pietropaw%C5%82owsk_Kamczacki.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "kamchatka-krai",
-          "sourceGeohash4": "z9y2"
+          "sourceGeohash4": "z9y2",
+          "mediumPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/lotnisko-pietropaw-owsk-kamcza-medium.webp",
+          "smallPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/lotnisko-pietropaw-owsk-kamcza-small.webp"
         },
         {
           "path": "_m/tpc/co/mm/an/de/commander-islands/57586.jpg",
@@ -551,7 +561,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9E._%D0%9C%D0%B5%D0%B4%D0%BD%D1%8B%D0%B9_57586.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "commander-islands",
-          "sourceGeohash4": "tpc/co/mm/an/de"
+          "sourceGeohash4": "tpc/co/mm/an/de",
+          "mediumPath": "_m/tpc/co/mm/an/de/commander-islands/57586-medium.webp",
+          "smallPath": "_m/tpc/co/mm/an/de/commander-islands/57586-small.webp"
         },
         {
           "path": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/bluelakes2.jpg",
@@ -566,7 +578,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BlueLakes2.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "kamchatka-krai",
-          "sourceGeohash4": "z9y2"
+          "sourceGeohash4": "z9y2",
+          "mediumPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/bluelakes2-medium.webp",
+          "smallPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/bluelakes2-small.webp"
         },
         {
           "path": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/kamchatka-wikivoyage-banner.jpg",
@@ -581,7 +595,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kamchatka_Wikivoyage_banner.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "kamchatka-krai",
-          "sourceGeohash4": "z9y2"
+          "sourceGeohash4": "z9y2",
+          "mediumPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/kamchatka-wikivoyage-banner-medium.webp",
+          "smallPath": "_m/tpc/ka/mc/ha/tk/kamchatka-krai/kamchatka-wikivoyage-banner-small.webp"
         }
       ],
       "narration": [

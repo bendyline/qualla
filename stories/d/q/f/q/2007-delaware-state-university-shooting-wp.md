@@ -48,7 +48,7 @@ Delaware State University sits at 39.19 degrees north, 75.54 degrees west, on th
   - One of 17 original 1890 land-grant HBCUs under Second Morrill Act — confirmed
   - $20 million gift from MacKenzie Scott in December 2020 — confirmed
   - Corrected: Wesley College acquisition completed July 1, 2021 — not 2022 as originally stated
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2007_Delaware_State_University_shooting)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=13378580)
   - Removed an unsourced claim that Braden filed a civil suit against Delaware that 'settled out of court' (not supported by the primary source); the dismissal of charges and the wrongful-detention record are retained.
 
 ## Review Notes

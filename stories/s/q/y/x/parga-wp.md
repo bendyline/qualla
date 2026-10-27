@@ -45,6 +45,20 @@ Parga sits at approximately 39.28°N, 20.40°E on the Ionian coast of the Prevez
 ## Sources
 
 - [Parga - Wikipedia](https://en.wikipedia.org/?curid=1438722)
+- [Wikipedia - Parga Castle](https://en.wikipedia.org/wiki/Parga_Castle)
+  - Parga passed under Venetian control in 1401 as mainland exclave of Corfu
+  - Hayreddin Barbarossa burned the fortress in 1537
+  - Castle rebuilt by Venetians in 1572
+- [Wikipedia - The Refugees of Parga (painting)](https://en.wikipedia.org/wiki/The_Refugees_of_Parga)
+  - Francesco Hayez painted 'The Refugees of Parga' (1831 oil on canvas)
+  - Painting depicts Greek refugees fleeing after British sold Parga to Ottomans in 1819
+- [History of Parga - Greeka](https://www.greeka.com/epirus/parga/history/)
+  - British sold Parga to Ali Pasha in 1817 (convention), with handover completed 1819
+  - 1815 revolt of inhabitants against French rule seeking British protection confirmed
+  - Exile of approximately 4,000 Pargans to Corfu carrying exhumed ancestor bones confirmed
+- [Wikipedia - French rule in the Ionian Islands (1807-1814)](https://en.wikipedia.org/wiki/French_rule_in_the_Ionian_Islands_(1807%E2%80%931814))
+  - French controlled Parga after fall of Venice in 1797
+  - 1815 revolt against French rule and British assumption of protection confirmed
 
 ## Review Notes
 

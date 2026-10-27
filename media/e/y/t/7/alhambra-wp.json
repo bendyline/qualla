@@ -3,23 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/y/t/7/alhambra-wp/hero.jpg",
-        "filename": "Alhambra evening panorama Mirador San Nicolas sRGB-1.jpg",
-        "caption": "Evening panorama of Alhambra from Mirador de San Nicolás, Granada, Spain.",
-        "alt": "Evening panorama of Alhambra from Mirador de San Nicolás, Granada, Spain.",
-        "width": 10172,
-        "height": 2160,
+        "path": "_m/e/y/t/7/alhambra-wp/night-view-alhambra-gr.jpg",
+        "filename": "Night view of Alhambra, Granada from Mirador de San Nicolas.jpg",
+        "caption": "Night view of Alhambra, Granada from Mirador de San Nicolas. Taken at a clear day of July, 2017",
+        "alt": "Night view of Alhambra, Granada from Mirador de San Nicolas. Taken at a clear day of July, 2017",
+        "width": 10535,
+        "height": 2135,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Slaunger",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg",
+        "license": "CC BY 4.0",
+        "artist": "Amjad Sheikh",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Night_view_of_Alhambra,_Granada_from_Mirador_de_San_Nicolas.jpg",
         "sourceType": "core",
         "sourceArticleId": "alhambra-wp",
-        "sourceGeohash4": "eyt7"
+        "sourceGeohash4": "eyt7",
+        "mediumPath": "_m/e/y/t/7/alhambra-wp/night-view-alhambra-gr-medium.webp",
+        "smallPath": "_m/e/y/t/7/alhambra-wp/night-view-alhambra-gr-small.webp"
       },
       "images": [
         {
-          "path": "_m/e/y/t/7/alhambra-wp/france-loiret-la-bussi.jpg",
+          "path": "_m/9/t/8/z/arizona-sonora-desert-museum-wp/france-loiret-la-bussi.jpg",
           "filename": "France Loiret La Bussiere Potager 05.jpg",
           "caption": "France Loiret La Bussière Le potager\n\nPhotographie prise par GIRAUD Patrick",
           "alt": "France Loiret La Bussière Le potager\n\nPhotographie prise par GIRAUD Patrick",
@@ -41,7 +43,9 @@
             "License migration redundant",
             "Potager du château de La Bussière",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/9/t/8/z/arizona-sonora-desert-museum-wp/france-loiret-la-bussi-medium.webp",
+          "smallPath": "_m/9/t/8/z/arizona-sonora-desert-museum-wp/france-loiret-la-bussi-small.webp"
         },
         {
           "path": "_m/e/y/t/7/alhambra-wp/alhambra-gatehouse.jpg",
@@ -1153,7 +1157,9 @@
             "Spanish 19th-century paintings in the Museo del Prado",
             "Tanto Monta",
             "Tomás de Torquemada"
-          ]
+          ],
+          "mediumPath": "_m/e/y/t/7/alhambra-decree-wp/grand-inquisitor-friar-medium.webp",
+          "smallPath": "_m/e/y/t/7/alhambra-decree-wp/grand-inquisitor-friar-small.webp"
         },
         {
           "path": "_m/e/y/t/7/alhambra-decree-wp/hero.jpg",
@@ -1174,7 +1180,8 @@
             "CC-PD-Mark",
             "PD-old-100-expired",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "smallPath": "_m/e/y/t/7/alhambra-decree-wp/hero-small.webp"
         }
       ],
       "narration": [

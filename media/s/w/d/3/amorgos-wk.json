@@ -3,29 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/w/d/3/amorgos-wk/hero.jpg",
-        "filename": "Navagio Olympia.jpg",
-        "caption": "Shipwreck Olympia in Amorgos, Greece.",
-        "alt": "Shipwreck Olympia in Amorgos, Greece.",
-        "width": 1280,
-        "height": 960,
+        "path": "_m/s/w/d/3/amorgos-wk/category-4.jpg",
+        "filename": "Χαρακτηριστικά λουλούδια.jpg",
+        "caption": "This is a a picture of a Natura 2000 protected area with ID",
+        "alt": "This is a a picture of a Natura 2000 protected area with ID",
+        "width": 4272,
+        "height": 2848,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Fbarbe",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Navagio_Olympia.jpg",
-        "sourceType": "core",
+        "artist": "Kkanak",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%CE%A7%CE%B1%CF%81%CE%B1%CE%BA%CF%84%CE%B7%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AC_%CE%BB%CE%BF%CF%85%CE%BB%CE%BF%CF%8D%CE%B4%CE%B9%CE%B1.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "amorgos-wk",
         "sourceGeohash4": "swd3",
         "categories": [
           "Amorgos",
           "CC-BY-SA-4.0",
+          "Natura 2000 in Greece",
           "Self-published work",
-          "Shipwrecks in Greece"
-        ]
+          "Uploaded via Campaign:wle-gr",
+          "WLE 2020 in Greece image uploaded on 05-30"
+        ],
+        "mediumPath": "_m/s/w/d/3/amorgos-wk/category-4-medium.webp",
+        "smallPath": "_m/s/w/d/3/amorgos-wk/category-4-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/w/d/3/amorgos-wk/amorgos-plage-d-aghia-anna-img.jpg",
+          "path": "_m/s/w/d/3/amorgos-wp/amorgos-plage-d-aghia-anna-img.jpg",
           "filename": "Amorgos plage d aghia anna IMG 2757.JPG",
           "alt": "Amorgos plage d aghia anna IMG 2757.JPG",
           "width": 2048,
@@ -47,11 +51,11 @@
             "Self-published work",
             "Taken with Canon EOS 300D"
           ],
-          "mediumPath": "_m/s/w/d/3/amorgos-wk/amorgos-plage-d-aghia-anna-img-medium.webp",
-          "smallPath": "_m/s/w/d/3/amorgos-wk/amorgos-plage-d-aghia-anna-img-small.webp"
+          "mediumPath": "_m/s/w/d/3/amorgos-wp/amorgos-plage-d-aghia-anna-img-medium.webp",
+          "smallPath": "_m/s/w/d/3/amorgos-wp/amorgos-plage-d-aghia-anna-img-small.webp"
         },
         {
-          "path": "_m/s/w/d/3/amorgos-wk/hozoviotissa-monastery.jpg",
+          "path": "_m/s/w/d/3/amorgos-wp/hozoviotissa-monastery.jpg",
           "filename": "Hozoviotissa Monastery.jpg",
           "caption": "Monastery located in Amorgos, Greece.",
           "alt": "Monastery located in Amorgos, Greece.",
@@ -69,7 +73,7 @@
             "Monastery of the Panayia Chozoviotissa",
             "Self-published work"
           ],
-          "smallPath": "_m/s/w/d/3/amorgos-wk/hozoviotissa-monastery-small.webp"
+          "smallPath": "_m/s/w/d/3/amorgos-wp/hozoviotissa-monastery-small.webp"
         },
         {
           "path": "_m/s/w/d/3/amorgos-wk/l-ilot-de-nikouria-vu-depuis-a.jpg",
@@ -339,7 +343,9 @@
             "License migration redundant",
             "Media lacking author information",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/3/amorgos-wp/acropole-arkesini-amorgos-medium.webp",
+          "smallPath": "_m/s/w/d/3/amorgos-wp/acropole-arkesini-amorgos-small.webp"
         },
         {
           "path": "_m/s/w/6/p/santorini-eruption-wk/locator-map-southern-a.png",
@@ -359,7 +365,8 @@
             "Maps of the regions of Greece",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/w/6/p/santorini-eruption-wk/locator-map-southern-a-small.webp"
         },
         {
           "path": "_m/s/w/d/3/amorgos-wp/amorgos-12.jpg",
@@ -384,7 +391,9 @@
             "Staircases in Amorgos",
             "Streets in Amorgos",
             "Taken with Canon Digital IXUS 750"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/3/amorgos-wp/amorgos-12-medium.webp",
+          "smallPath": "_m/s/w/d/3/amorgos-wp/amorgos-12-small.webp"
         },
         {
           "path": "_m/s/w/d/3/amorgos-wp/amorgos-15.jpg",
@@ -409,7 +418,9 @@
             "Self-published work",
             "Taken with Canon Digital IXUS 750",
             "Tholaria"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/3/amorgos-wp/amorgos-15-medium.webp",
+          "smallPath": "_m/s/w/d/3/amorgos-wp/amorgos-15-small.webp"
         },
         {
           "path": "_m/s/w/d/3/amorgos-wp/2011-dimos-amorgou.png",
@@ -432,7 +443,9 @@
             "Locator maps of municipalities of South Aegean",
             "Maps of Amorgos",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/3/amorgos-wp/2011-dimos-amorgou-medium.webp",
+          "smallPath": "_m/s/w/d/3/amorgos-wp/2011-dimos-amorgou-small.webp"
         },
         {
           "path": "_m/s/w/d/3/amorgos-wp/amorgosmonastere.jpg",
@@ -456,7 +469,9 @@
             "Self-published work",
             "Staircases in Amorgos",
             "Taken with Canon Digital IXUS 40"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/3/amorgos-wp/amorgosmonastere-medium.webp",
+          "smallPath": "_m/s/w/d/3/amorgos-wp/amorgosmonastere-small.webp"
         },
         {
           "path": "_m/s/w/d/3/amorgos-wp/chora-amorgos-7231.jpg",
@@ -479,7 +494,9 @@
             "Taken with Sony DSC-P73",
             "Views of Amorgos (Chora)",
             "Windmills above Chora of Amorgos"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/3/amorgos-wp/chora-amorgos-7231-medium.webp",
+          "smallPath": "_m/s/w/d/3/amorgos-wp/chora-amorgos-7231-small.webp"
         },
         {
           "path": "_m/s/w/d/3/amorgos-wp/cycladic-figurine-woman-large-.jpg",
@@ -499,7 +516,9 @@
             "CC-BY-SA-3.0",
             "Female figurine in Oxford AE 176",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/3/amorgos-wp/cycladic-figurine-woman-large--medium.webp",
+          "smallPath": "_m/s/w/d/3/amorgos-wp/cycladic-figurine-woman-large--small.webp"
         },
         {
           "path": "_m/s/w/d/3/amorgos-wp/maestro-dell-ashmolean-museum-.jpg",
@@ -514,7 +533,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maestro_dell%27ashmolean_museum,_figurina_femminile_n._206,_forse_incinta,_tipo_canonico,_variet%C3%A0_dokathismata,_periodo_EC_II,_2800-2300_ac_ca.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "amorgos-wp",
-          "sourceGeohash4": "swd3"
+          "sourceGeohash4": "swd3",
+          "smallPath": "_m/s/w/d/3/amorgos-wp/maestro-dell-ashmolean-museum--small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/naxos-portara.jpg",
@@ -541,7 +561,8 @@
             "Self-published work",
             "Sunsets of Naxos",
             "Taken with Canon Digital IXUS 400"
-          ]
+          ],
+          "smallPath": "_m/s/w/d/4/naxos-wp/naxos-portara-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/portara-naxos-26.jpg",
@@ -565,7 +586,9 @@
             "Pictures by User:Oltau",
             "Portara",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/4/naxos-wp/portara-naxos-26-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/portara-naxos-26-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/portara-naxos-31.jpg",
@@ -589,7 +612,9 @@
             "Pictures by User:Oltau",
             "Portara",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/4/naxos-wp/portara-naxos-31-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/portara-naxos-31-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-03.jpg",
@@ -613,7 +638,9 @@
             "Panagia Drosiani (Naxos)",
             "Pictures by User:Oltau",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-03-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-03-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-04.jpg",
@@ -640,7 +667,9 @@
             "Quality images missing SDC depicts",
             "Quality images of Naxos",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-04-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-04-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/am-naxos-091354.jpg",
@@ -660,7 +689,9 @@
             "Archaeological Museum of Naxos",
             "Building and Lapidary around the Archaeological Museum of Naxos",
             "CC-BY-SA-3.0"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/4/naxos-wp/am-naxos-091354-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/am-naxos-091354-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/heiligtum-des-dionysos-yria-05.jpg",
@@ -675,7 +706,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heiligtum_des_Dionysos_(Yria)_05.jpg",
           "sourceType": "poi",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/heiligtum-des-dionysos-yria-05-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/heiligtum-des-dionysos-yria-05-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/tempel-der-demeter-gyroulas-15.jpg",
@@ -690,7 +723,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tempel_der_Demeter_(Gyroulas)_15.jpg",
           "sourceType": "poi",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/tempel-der-demeter-gyroulas-15-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/tempel-der-demeter-gyroulas-15-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/menhir-or-phallic-stone-tomb-9.jpg",
@@ -705,7 +740,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Menhir_or_phallic_stone_tomb_9_or_8th_c_BC,_Grotta_Naxos_091432.jpg",
           "sourceType": "poi",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/menhir-or-phallic-stone-tomb-9-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/menhir-or-phallic-stone-tomb-9-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/building-of-the-archaeological.jpg",
@@ -720,7 +757,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Building_of_the_Archaeological_Museum_of_Apeiranthos_on_Naxos,_143704.jpg",
           "sourceType": "poi",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/building-of-the-archaeological-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/building-of-the-archaeological-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/kitron-naxou-distillery-in-cha.jpg",
@@ -735,7 +774,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kitron_Naxou_distillery_in_Chalki,_085256.jpg",
           "sourceType": "poi",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/kitron-naxou-distillery-in-cha-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/kitron-naxou-distillery-in-cha-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/geological-museum-apeiranthos-.jpg",
@@ -750,7 +791,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geological_Museum,_Apeiranthos,_Naxos,_interior,_176931.jpg",
           "sourceType": "poi",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/geological-museum-apeiranthos--medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/geological-museum-apeiranthos--small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/20210716-8564-pano.jpg",
@@ -765,7 +808,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20210716_%CE%A0%CF%8D%CF%81%CE%B3%CE%BF%CF%82_%CE%9C%CF%80%CE%B1%CE%B6%CE%B1%CE%AF%CE%BF%CF%85_8564-Pano.jpg",
           "sourceType": "poi",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/20210716-8564-pano-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/20210716-8564-pano-small.webp"
         }
       ],
       "narration": [

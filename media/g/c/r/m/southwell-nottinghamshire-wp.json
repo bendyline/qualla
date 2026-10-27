@@ -3,37 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/r/m/southwell-nottinghamshire-wp/hero.jpg",
-        "filename": "Southwell Minster 2016 - north-west view.jpg",
-        "caption": "Southwell Minster, Nottinghamshire - from the north-west",
-        "alt": "Southwell Minster, Nottinghamshire - from the north-west",
-        "width": 4896,
-        "height": 3264,
+        "path": "_m/g/c/r/m/southwell-nottinghamshire-wp/cranfield-house-southw.jpg",
+        "filename": "Cranfield House, Southwell - geograph.org.uk - 6169173.jpg",
+        "caption": "Cranfield House, Southwell",
+        "alt": "Cranfield House, Southwell",
+        "width": 5042,
+        "height": 3786,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "DeFacto",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southwell_Minster_2016_-_north-west_view.jpg",
+        "license": "CC BY-SA 2.0",
+        "artist": "Neil Theasby",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cranfield_House,_Southwell_-_geograph.org.uk_-_6169173.jpg",
         "sourceType": "core",
         "sourceArticleId": "southwell-nottinghamshire-wp",
         "sourceGeohash4": "gcrm",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Church spires in Nottinghamshire",
-          "Church towers in Nottinghamshire",
-          "Churchyards in Nottinghamshire",
-          "Files with coordinates missing SDC location of creation (53° N, 1° W)",
-          "Images by DeFacto",
-          "Quality images",
-          "Quality images by DeFacto",
-          "Quality images missing SDC depicts",
-          "Quality images of Nottinghamshire",
-          "Quality images of church towers in the United Kingdom",
-          "Quality images of the United Kingdom by DeFacto",
-          "Self-published work",
-          "Southwell Minster",
-          "Twin church towers in England",
-          "United Kingdom photographs taken on 2016-11-05"
-        ]
+        "mediumPath": "_m/g/c/r/m/southwell-nottinghamshire-wp/cranfield-house-southw-medium.webp",
+        "smallPath": "_m/g/c/r/m/southwell-nottinghamshire-wp/cranfield-house-southw-small.webp"
       },
       "images": [
         {
@@ -67,7 +51,7 @@
           "smallPath": "_m/g/c/r/m/southwell-nottinghamshire-wp/workhouse-southwell-no-small.webp"
         },
         {
-          "path": "_m/g/c/r/m/southwell-nottinghamshire-wp/organ-rood-screen-sout.jpg",
+          "path": "_m/g/c/r/m/southwell-minster-wp/organ-rood-screen-sout.jpg",
           "filename": "Southwell Minster Choir, Nottinghamshire, UK - Diliff.jpg",
           "caption": "The organ and rood screen of Southwell Minster viewed from the sanctuary, in Nottinghamshire, England.",
           "alt": "The organ and rood screen of Southwell Minster viewed from the sanctuary, in Nottinghamshire, England.",
@@ -96,7 +80,9 @@
             "License migration redundant",
             "Self-published work",
             "Supported by Wikimedia UK"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/m/southwell-minster-wp/organ-rood-screen-sout-medium.webp",
+          "smallPath": "_m/g/c/r/m/southwell-minster-wp/organ-rood-screen-sout-small.webp"
         },
         {
           "path": "_m/g/c/r/m/southwell-nottinghamshire-wp/saracen-s-head-southwe.jpg",
@@ -642,7 +628,8 @@
             "Self-published work",
             "St Mary Magdalene's church, Newark",
             "Taken with Canon EOS 300D"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/q/nottinghamshire-wp/newark-on-trent-uk-market-squa-small.webp"
         },
         {
           "path": "_m/g/c/r/q/nottinghamshire-wp/beestontownhall.jpg",
@@ -662,7 +649,9 @@
             "Beeston Town Hall",
             "PD-user",
             "Taken with Pentax Optio S4"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/q/nottinghamshire-wp/beestontownhall-medium.webp",
+          "smallPath": "_m/g/c/r/q/nottinghamshire-wp/beestontownhall-small.webp"
         },
         {
           "path": "_m/g/c/r/q/nottinghamshire-wp/nottingham-skyline.jpg",
@@ -682,7 +671,8 @@
             "CC-BY-3.0",
             "Self-published work",
             "Views of Nottingham"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/q/nottinghamshire-wp/nottingham-skyline-small.webp"
         },
         {
           "path": "_m/g/c/r/q/nottinghamshire-wp/worksop-priory2.jpg",
@@ -700,7 +690,8 @@
           "sourceGeohash4": "gcrq",
           "categories": [
             "CC-BY-SA-3.0"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/q/nottinghamshire-wp/worksop-priory2-small.webp"
         },
         {
           "path": "_m/g/c/r/q/nottinghamshire-wp/mansfield-market-place.jpg",
@@ -715,7 +706,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mansfield_Market_Place.jpg",
           "sourceType": "poi",
           "sourceArticleId": "nottinghamshire-wp",
-          "sourceGeohash4": "gcrq"
+          "sourceGeohash4": "gcrq",
+          "mediumPath": "_m/g/c/r/q/nottinghamshire-wp/mansfield-market-place-medium.webp",
+          "smallPath": "_m/g/c/r/q/nottinghamshire-wp/mansfield-market-place-small.webp"
         },
         {
           "path": "_m/g/c/r/m/east-midlands-wk/national-space-centre-leiceste.jpg",
@@ -735,7 +728,8 @@
             "CC-BY-SA-2.0",
             "Flickr images reviewed by FlickreviewR",
             "National Space Centre, Leicester"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/m/east-midlands-wk/national-space-centre-leiceste-small.webp"
         },
         {
           "path": "_m/g/c/r/5/leicestershire-wp/marketstreet020.jpg",
@@ -756,7 +750,8 @@
             "CC-BY-SA-3.0-migrated-with-disclaimers",
             "GFDL-en",
             "License migration completed"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/5/leicestershire-wp/marketstreet020-small.webp"
         },
         {
           "path": "_m/g/c/r/5/leicestershire-wp/market-harborough-grammar-scho.jpg",
@@ -776,7 +771,9 @@
             "Gables in England",
             "Old Grammar School, Market Harborough",
             "PD-user"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/5/leicestershire-wp/market-harborough-grammar-scho-medium.webp",
+          "smallPath": "_m/g/c/r/5/leicestershire-wp/market-harborough-grammar-scho-small.webp"
         },
         {
           "path": "_m/g/c/r/5/leicestershire-wp/belvoir4.jpg",
@@ -798,7 +795,9 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/5/leicestershire-wp/belvoir4-medium.webp",
+          "smallPath": "_m/g/c/r/5/leicestershire-wp/belvoir4-small.webp"
         },
         {
           "path": "_m/g/c/r/h/loughborough-wp/loughborough-town-hall.jpg",
@@ -822,7 +821,8 @@
             "Information field template with formatting",
             "Loughborough Town Hall",
             "United Kingdom photographs taken on 2005-04-16"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/h/loughborough-wp/loughborough-town-hall-small.webp"
         },
         {
           "path": "_m/g/c/r/5/leicestershire-wp/clock-tower-coalville-geograph.jpg",
@@ -845,7 +845,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "United Kingdom photographs taken on 2006-07-28"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/5/leicestershire-wp/clock-tower-coalville-geograph-small.webp"
         },
         {
           "path": "_m/g/c/r/m/east-midlands-wk/leicester-landmarks-montage.jpg",
@@ -865,7 +866,9 @@
             "CC-BY-SA-3.0",
             "Images with annotations",
             "Montages of Leicester"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/m/east-midlands-wk/leicester-landmarks-montage-medium.webp",
+          "smallPath": "_m/g/c/r/m/east-midlands-wk/leicester-landmarks-montage-small.webp"
         },
         {
           "path": "_m/g/c/r/5/leicestershire-wp/appleby-magna.jpg",
@@ -886,7 +889,9 @@
             "CC-BY-3.0",
             "Self-published work",
             "Taken with Nikon Coolpix S3000"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/5/leicestershire-wp/appleby-magna-medium.webp",
+          "smallPath": "_m/g/c/r/5/leicestershire-wp/appleby-magna-small.webp"
         },
         {
           "path": "_m/g/c/r/5/leicestershire-wp/hinckley-town-centre.jpg",
@@ -901,7 +906,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hinckley_Town_Centre.jpg",
           "sourceType": "poi",
           "sourceArticleId": "leicestershire-wp",
-          "sourceGeohash4": "gcr5"
+          "sourceGeohash4": "gcr5",
+          "mediumPath": "_m/g/c/r/5/leicestershire-wp/hinckley-town-centre-medium.webp",
+          "smallPath": "_m/g/c/r/5/leicestershire-wp/hinckley-town-centre-small.webp"
         },
         {
           "path": "_m/g/c/r/5/leicestershire-wp/melton-mowbray-pork-pie.png",
@@ -916,7 +923,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Melton_Mowbray_Pork_Pie.png",
           "sourceType": "poi",
           "sourceArticleId": "leicestershire-wp",
-          "sourceGeohash4": "gcr5"
+          "sourceGeohash4": "gcr5",
+          "mediumPath": "_m/g/c/r/5/leicestershire-wp/melton-mowbray-pork-pie-medium.webp",
+          "smallPath": "_m/g/c/r/5/leicestershire-wp/melton-mowbray-pork-pie-small.webp"
         },
         {
           "path": "_m/g/c/r/5/leicestershire-wp/blue-stilton-01.jpg",
@@ -931,7 +940,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Stilton_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "leicestershire-wp",
-          "sourceGeohash4": "gcr5"
+          "sourceGeohash4": "gcr5",
+          "mediumPath": "_m/g/c/r/5/leicestershire-wp/blue-stilton-01-medium.webp",
+          "smallPath": "_m/g/c/r/5/leicestershire-wp/blue-stilton-01-small.webp"
         },
         {
           "path": "_m/g/c/r/y/lincolnshire-wp/lincoln-brayfordpool.jpg",
@@ -958,7 +969,8 @@
             "River Witham",
             "Self-published work",
             "Taken with Canon PowerShot A20"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/y/lincolnshire-wp/lincoln-brayfordpool-small.webp"
         },
         {
           "path": "_m/g/c/r/y/lincolnshire-wp/bartononhumberstpeter.jpg",
@@ -985,7 +997,8 @@
             "PD-self",
             "Self-published work",
             "St Peter's Church, Barton-upon-Humber"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/y/lincolnshire-wp/bartononhumberstpeter-small.webp"
         },
         {
           "path": "_m/g/c/r/y/lincolnshire-wp/grimsby-dock-tower.jpg",
@@ -1009,7 +1022,8 @@
             "Information field template with formatting",
             "Listed buildings in England with known IDs",
             "PeterJewell Gallery (from Geograph)"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/y/lincolnshire-wp/grimsby-dock-tower-small.webp"
         },
         {
           "path": "_m/g/c/r/y/lincolnshire-wp/grantham-town.jpg",
@@ -1033,7 +1047,9 @@
             "Self-published work",
             "Taken with Nikon D40",
             "Views of Grantham"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/y/lincolnshire-wp/grantham-town-medium.webp",
+          "smallPath": "_m/g/c/r/y/lincolnshire-wp/grantham-town-small.webp"
         },
         {
           "path": "_m/g/c/r/y/lincolnshire-wp/bostonstump.jpg",
@@ -1056,7 +1072,9 @@
             "Files with coordinates missing SDC location of creation (52° N, 1° W)",
             "Self-published work",
             "St Botolph's Church, Boston"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/y/lincolnshire-wp/bostonstump-medium.webp",
+          "smallPath": "_m/g/c/r/y/lincolnshire-wp/bostonstump-small.webp"
         },
         {
           "path": "_m/g/c/r/y/lincolnshire-wp/bourne-town-centre-geograph-or.jpg",
@@ -1071,7 +1089,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bourne_Town_Centre_-_geograph.org.uk_-_96987.jpg",
           "sourceType": "poi",
           "sourceArticleId": "lincolnshire-wp",
-          "sourceGeohash4": "gcry"
+          "sourceGeohash4": "gcry",
+          "smallPath": "_m/g/c/r/y/lincolnshire-wp/bourne-town-centre-geograph-or-small.webp"
         },
         {
           "path": "_m/g/c/r/y/lincolnshire-wp/skegness-clock-tower-geograph-.jpg",
@@ -1086,7 +1105,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skegness_Clock_Tower_-_geograph.org.uk_-_1762444.jpg",
           "sourceType": "poi",
           "sourceArticleId": "lincolnshire-wp",
-          "sourceGeohash4": "gcry"
+          "sourceGeohash4": "gcry",
+          "mediumPath": "_m/g/c/r/y/lincolnshire-wp/skegness-clock-tower-geograph--medium.webp",
+          "smallPath": "_m/g/c/r/y/lincolnshire-wp/skegness-clock-tower-geograph--small.webp"
         },
         {
           "path": "_m/g/c/r/y/lincolnshire-wp/high-street-st-martin-s-stamfo.jpg",
@@ -1101,7 +1122,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:High_Street_St_Martin%27s,_Stamford.jpg",
           "sourceType": "poi",
           "sourceArticleId": "lincolnshire-wp",
-          "sourceGeohash4": "gcry"
+          "sourceGeohash4": "gcry",
+          "mediumPath": "_m/g/c/r/y/lincolnshire-wp/high-street-st-martin-s-stamfo-medium.webp",
+          "smallPath": "_m/g/c/r/y/lincolnshire-wp/high-street-st-martin-s-stamfo-small.webp"
         },
         {
           "path": "_m/g/c/r/y/lincolnshire-wp/cleethorpes-central-promenade-.jpg",
@@ -1116,7 +1139,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cleethorpes_Central_Promenade_(June_2012).jpg",
           "sourceType": "poi",
           "sourceArticleId": "lincolnshire-wp",
-          "sourceGeohash4": "gcry"
+          "sourceGeohash4": "gcry",
+          "mediumPath": "_m/g/c/r/y/lincolnshire-wp/cleethorpes-central-promenade--medium.webp",
+          "smallPath": "_m/g/c/r/y/lincolnshire-wp/cleethorpes-central-promenade--small.webp"
         },
         {
           "path": "_m/g/c/r/y/lincolnshire-wp/lincs.jpg",
@@ -1130,7 +1155,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lincs.jpg",
           "sourceType": "poi",
           "sourceArticleId": "lincolnshire-wp",
-          "sourceGeohash4": "gcry"
+          "sourceGeohash4": "gcry",
+          "smallPath": "_m/g/c/r/y/lincolnshire-wp/lincs-small.webp"
         },
         {
           "path": "_m/g/c/r/y/lincolnshire-wp/gunby-hall-from-the-west.jpg",
@@ -1145,7 +1171,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gunby_Hall_from_the_west.jpg",
           "sourceType": "poi",
           "sourceArticleId": "lincolnshire-wp",
-          "sourceGeohash4": "gcry"
+          "sourceGeohash4": "gcry",
+          "mediumPath": "_m/g/c/r/y/lincolnshire-wp/gunby-hall-from-the-west-medium.webp",
+          "smallPath": "_m/g/c/r/y/lincolnshire-wp/gunby-hall-from-the-west-small.webp"
         }
       ],
       "narration": [

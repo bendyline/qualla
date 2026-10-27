@@ -3,23 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/hero.jpg",
-        "filename": "Mumbai Skyline from Elephanta boat.jpg",
-        "caption": "Mumbai Skyline, with Gateway of India and Taj Mahal Hotel, shot from boat to Elephanta Island",
-        "alt": "Mumbai Skyline, with Gateway of India and Taj Mahal Hotel, shot from boat to Elephanta Island",
-        "width": 14318,
-        "height": 3809,
+        "path": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/taj-hotel-grand-stairc.jpg",
+        "filename": "Pano-20230403-Taj-Mumbai-Grandstaircase.jpg",
+        "caption": "Taj Hotel, Grand Staircase, interior, Mumbai, India, panoramic 360 photo",
+        "alt": "Taj Hotel, Grand Staircase, interior, Mumbai, India, panoramic 360 photo",
+        "width": 6528,
+        "height": 3264,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Rangan Datta Wiki",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_Skyline_from_Elephanta_boat.jpg",
+        "artist": "Fuzheado",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pano-20230403-Taj-Mumbai-Grandstaircase.jpg",
         "sourceType": "core",
         "sourceArticleId": "taj-mahal-palace-hotel-wp",
-        "sourceGeohash4": "te7g"
+        "sourceGeohash4": "te7g",
+        "mediumPath": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/taj-hotel-grand-stairc-medium.webp",
+        "smallPath": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/taj-hotel-grand-stairc-small.webp"
       },
       "images": [
         {
-          "path": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/hanging-gardens-mumbai.jpg",
+          "path": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/hanging-gardens-mumbai.jpg",
           "filename": "Hanging-Gardens-5.jpg",
           "caption": "Hanging Gardens in Mumbai",
           "alt": "Hanging Gardens in Mumbai",
@@ -41,10 +43,12 @@
             "License migration redundant",
             "Sculptures in Mumbai",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/hanging-gardens-mumbai-medium.webp",
+          "smallPath": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/hanging-gardens-mumbai-small.webp"
         },
         {
-          "path": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/haji-ali-dargah-mahim.jpg",
+          "path": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/haji-ali-dargah-mahim.jpg",
           "filename": "Hajiali.jpg",
           "caption": "The Haji Ali Dargah, in the Mahim Bay can be reached from Mahalaxmi by a narrow causeway, and that only at high tide, when it is above the sea. A handsome example of Indian Islamic architecture, associated with legends about doomed lovers, the dargah contains the tomb of Saint Haji Ali.  It sits 500 yards off the coast in the waters of Mahim Bay, near the neighborhood of Worli. It is connected with the Mahalaxmi Temple via a small path that goes into the sea, only accessible during low tide.",
           "alt": "The Haji Ali Dargah, in the Mahim Bay can be reached from Mahalaxmi by a narrow causeway, and that only at high tide, when it is above the sea. A handsome example of Indian Islamic architecture, associated with legends about doomed lovers, the dargah contains the tomb of Saint Haji Ali.  It sits 500 yards off the coast in the waters of Mahim Bay, near the neighborhood of Worli. It is connected with the Mahalaxmi Temple via a small path that goes into the sea, only accessible during low tide.",
@@ -62,10 +66,12 @@
             "Flickr images reviewed by trusted users",
             "Haji Ali Dargah",
             "Orange sunsets of India"
-          ]
+          ],
+          "mediumPath": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/haji-ali-dargah-mahim-medium.webp",
+          "smallPath": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/haji-ali-dargah-mahim-small.webp"
         },
         {
-          "path": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/mumbai-skyline.jpg",
+          "path": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/mumbai-skyline.jpg",
           "filename": "Mumbai skyline.jpg",
           "alt": "Mumbai skyline.jpg",
           "width": 1024,
@@ -90,10 +96,11 @@
             "Media missing infobox template",
             "Oberoi Trident illuminated",
             "Skylines of Nariman Point"
-          ]
+          ],
+          "smallPath": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/mumbai-skyline-small.webp"
         },
         {
-          "path": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/sunset-bandstand-mumba.jpg",
+          "path": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/sunset-bandstand-mumba.jpg",
           "filename": "MumbaiClimate.jpg",
           "caption": "Sunset Over Bandstand, Mumbai",
           "alt": "Sunset Over Bandstand, Mumbai",
@@ -119,10 +126,11 @@
             "Taken with Panasonic Lumix DMC-FZ1",
             "Unidentified Arecaceae (low quality)",
             "Yellow sunsets of India"
-          ]
+          ],
+          "smallPath": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/sunset-bandstand-mumba-small.webp"
         },
         {
-          "path": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/mani-bhavan-17-laburna.jpg",
+          "path": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/mani-bhavan-17-laburna.jpg",
           "filename": "Mani Bhavan 01.jpg",
           "caption": "Mani Bhavan, 17 Laburnam Road, Mumbai India, where Mahatma Gandhi lived from 1917 to 1934.",
           "alt": "Mani Bhavan, 17 Laburnam Road, Mumbai India, where Mahatma Gandhi lived from 1917 to 1934.",
@@ -146,7 +154,9 @@
             "Self-published work",
             "Sites of Satyagrah",
             "Taken with Canon PowerShot S5 IS"
-          ]
+          ],
+          "mediumPath": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/mani-bhavan-17-laburna-medium.webp",
+          "smallPath": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/mani-bhavan-17-laburna-small.webp"
         },
         {
           "path": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/taj-mahal-palace-colab.jpg",
@@ -171,7 +181,7 @@
           "smallPath": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/taj-mahal-palace-colab-small.webp"
         },
         {
-          "path": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/taj-mahal-palace-mumba.jpg",
+          "path": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/taj-mahal-palace-mumba.jpg",
           "filename": "Taj Mahal Palace Hotel.jpg",
           "caption": "The Taj Mahal Palace in Mumbai, India.",
           "alt": "The Taj Mahal Palace in Mumbai, India.",
@@ -183,7 +193,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Palace_Hotel.jpg",
           "sourceType": "core",
           "sourceArticleId": "taj-mahal-palace-hotel-wp",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/taj-mahal-palace-mumba-medium.webp",
+          "smallPath": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/taj-mahal-palace-mumba-small.webp"
         },
         {
           "path": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/taj-mahal-tower-mumbai.jpg",
@@ -271,7 +283,7 @@
           "smallPath": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/taj-mahal-palace-hotel-1-small.webp"
         },
         {
-          "path": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/shiva-king-dance-king.jpg",
+          "path": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/shiva-king-dance-king.jpg",
           "filename": "Elephanta Caves, India, Shiva as Nataraja, King of Dance.jpg",
           "caption": "Shiva, King of Dance and King of Dancers. God is a DJ and everyone's body is a temple. As the God of Dance, Nataraja, Shiva performs the Ananda Tandava (dance of bliss), the dance in which everything is created, maintained, and finally dissolved. For Shiva adherents the final phase is the most important of all. The Elephanta Caves cut from solid basalt rock. Mumbai, India.",
           "alt": "Shiva, King of Dance and King of Dancers. God is a DJ and everyone's body is a temple. As the God of Dance, Nataraja, Shiva performs the Ananda Tandava (dance of bliss), the dance in which everything is created, maintained, and finally dissolved. For Shiva adherents the final phase is the most important of all. The Elephanta Caves cut from solid basalt rock. Mumbai, India.",
@@ -283,7 +295,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephanta_Caves,_India,_Shiva_as_Nataraja,_King_of_Dance.jpg",
           "sourceType": "core",
           "sourceArticleId": "taj-mahal-palace-hotel-wp",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/shiva-king-dance-king-medium.webp",
+          "smallPath": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/shiva-king-dance-king-small.webp"
         },
         {
           "path": "_m/t/e/7/g/taj-mahal-palace-hotel-wp/photo-describes-one-mo.jpg",
@@ -846,7 +860,9 @@
             "License migration redundant",
             "New Palace, Kolhapur",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/t/e/7/g/maharashtra-wp/kolhapur-new-palace-medium.webp",
+          "smallPath": "_m/t/e/7/g/maharashtra-wp/kolhapur-new-palace-small.webp"
         },
         {
           "path": "_m/t/e/7/g/maharashtra-wp/sitabuldi-market.jpg",
@@ -873,7 +889,9 @@
             "October 2008 in Maharashtra",
             "Self-published work",
             "Taken with Canon PowerShot A710 IS"
-          ]
+          ],
+          "mediumPath": "_m/t/e/7/g/maharashtra-wp/sitabuldi-market-medium.webp",
+          "smallPath": "_m/t/e/7/g/maharashtra-wp/sitabuldi-market-small.webp"
         },
         {
           "path": "_m/t/e/7/g/maharashtra-wp/chhatrapati-shivaji-terminus-v.jpg",
@@ -902,7 +920,9 @@
             "Taken with AF-S DX NIKKOR 18-105 mm f/3.5-5.6G ED VR",
             "Taken with Nikon D90",
             "Time 03:44"
-          ]
+          ],
+          "mediumPath": "_m/t/e/7/g/maharashtra-wp/chhatrapati-shivaji-terminus-v-medium.webp",
+          "smallPath": "_m/t/e/7/g/maharashtra-wp/chhatrapati-shivaji-terminus-v-small.webp"
         },
         {
           "path": "_m/t/e/7/g/maharashtra-wp/oriental-garden-lizard-or-bloo.jpg",
@@ -926,7 +946,9 @@
             "Reptiles of Maharashtra",
             "Self-published work",
             "Taken with Canon EOS 500D"
-          ]
+          ],
+          "mediumPath": "_m/t/e/7/g/maharashtra-wp/oriental-garden-lizard-or-bloo-medium.webp",
+          "smallPath": "_m/t/e/7/g/maharashtra-wp/oriental-garden-lizard-or-bloo-small.webp"
         },
         {
           "path": "_m/t/e/7/g/maharashtra-wp/nagzira-tiger-by-vijay-phulwad.jpg",
@@ -950,7 +972,8 @@
             "Side views of tigers",
             "Tigers looking at viewer",
             "Walking tigers"
-          ]
+          ],
+          "smallPath": "_m/t/e/7/g/maharashtra-wp/nagzira-tiger-by-vijay-phulwad-small.webp"
         },
         {
           "path": "_m/t/e/7/g/maharashtra-wp/tiger-at-tadoba.jpg",
@@ -975,7 +998,9 @@
             "Panthera tigris tigris of Tadoba Andhari Tiger Project",
             "Self-published work",
             "Taken with Nokia N73"
-          ]
+          ],
+          "mediumPath": "_m/t/e/7/g/maharashtra-wp/tiger-at-tadoba-medium.webp",
+          "smallPath": "_m/t/e/7/g/maharashtra-wp/tiger-at-tadoba-small.webp"
         },
         {
           "path": "_m/t/e/7/g/maharashtra-wp/wada-with-chatni.jpg",
@@ -990,7 +1015,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wada_with_Chatni.jpg",
           "sourceType": "poi",
           "sourceArticleId": "maharashtra-wp",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "smallPath": "_m/t/e/7/g/maharashtra-wp/wada-with-chatni-small.webp"
         },
         {
           "path": "_m/t/e/7/g/maharashtra-wp/amravati-city-bus.jpg",
@@ -1005,7 +1031,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amravati-City-Bus.jpg",
           "sourceType": "poi",
           "sourceArticleId": "maharashtra-wp",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/t/e/7/g/maharashtra-wp/amravati-city-bus-medium.webp",
+          "smallPath": "_m/t/e/7/g/maharashtra-wp/amravati-city-bus-small.webp"
         },
         {
           "path": "_m/t/e/7/g/maharashtra-wp/shaniwar-wada-main-gate-01.jpg",
@@ -1020,7 +1048,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shaniwar_Wada_Main_Gate_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "maharashtra-wp",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/t/e/7/g/maharashtra-wp/shaniwar-wada-main-gate-01-medium.webp",
+          "smallPath": "_m/t/e/7/g/maharashtra-wp/shaniwar-wada-main-gate-01-small.webp"
         },
         {
           "path": "_m/t/e/7/g/maharashtra-wp/bibi-ka-maqbara-in-the-morning.jpg",
@@ -1035,7 +1065,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bibi_Ka_Maqbara_in_the_morning_hours,_Aurangabad,_Maharashtra,_India_37.jpg",
           "sourceType": "poi",
           "sourceArticleId": "maharashtra-wp",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/t/e/7/g/maharashtra-wp/bibi-ka-maqbara-in-the-morning-medium.webp",
+          "smallPath": "_m/t/e/7/g/maharashtra-wp/bibi-ka-maqbara-in-the-morning-small.webp"
         },
         {
           "path": "_m/t/e/7/g/maharashtra-wp/maharashtra-wikivoyage-map.png",
@@ -1050,7 +1082,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maharashtra_Wikivoyage_map.png",
           "sourceType": "poi",
           "sourceArticleId": "maharashtra-wp",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "smallPath": "_m/t/e/7/g/maharashtra-wp/maharashtra-wikivoyage-map-small.webp"
         },
         {
           "path": "_m/t/e/7/g/maharashtra-wp/gandhi-talav-godavari-nashik-m.jpg",
@@ -1065,7 +1098,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gandhi_Talav_Godavari_Nashik_Maharashtra_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "maharashtra-wp",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/t/e/7/g/maharashtra-wp/gandhi-talav-godavari-nashik-m-medium.webp",
+          "smallPath": "_m/t/e/7/g/maharashtra-wp/gandhi-talav-godavari-nashik-m-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-caves-shivling.jpg",
@@ -1091,7 +1126,9 @@
             "Lingas in Maharashtra",
             "Self-published work",
             "Taken with Canon Digital IXUS 100 IS"
-          ]
+          ],
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-caves-shivling-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-caves-shivling-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-canon-2-1.jpg",
@@ -1123,7 +1160,9 @@
             "Photographs by Rangan Datta in Elephanta Caves",
             "Self-published work",
             "Uploaded via Campaign:wlm-in"
-          ]
+          ],
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-canon-2-1-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-canon-2-1-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-2.jpg",
@@ -1154,7 +1193,9 @@
             "Photographs by Rangan Datta in Elephanta Caves",
             "Self-published work",
             "Uploaded via Campaign:wlm-in"
-          ]
+          ],
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-2-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-2-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-5.jpg",
@@ -1183,7 +1224,9 @@
             "March 2020 in Maharashtra",
             "Photographs by Rangan Datta WLM 2020 in Maharashtra",
             "Photographs by Rangan Datta in Elephanta Caves"
-          ]
+          ],
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-5-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-5-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-c1.jpg",
@@ -1198,7 +1241,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephanta_Cave_1_C1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "elephanta-caves",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-c1-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-c1-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-a1.jpg",
@@ -1213,7 +1258,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephanta_Cave_1_A1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "elephanta-caves",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-a1-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-a1-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-b1.jpg",
@@ -1228,7 +1275,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephanta_Cave_1_B1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "elephanta-caves",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-b1-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-b1-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-e1.jpg",
@@ -1243,7 +1292,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephanta_Cave_1_E1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "elephanta-caves",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-e1-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-e1-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-d1.jpg",
@@ -1258,7 +1309,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephanta_Cave_1_D1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "elephanta-caves",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-d1-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-d1-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-f1.jpg",
@@ -1273,7 +1326,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephanta_Cave_1_F1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "elephanta-caves",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-f1-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-f1-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-f2.jpg",
@@ -1288,7 +1343,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephanta_Cave_1_F2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "elephanta-caves",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-f2-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-f2-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-g1.jpg",
@@ -1303,7 +1360,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephanta_Cave_1_G1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "elephanta-caves",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-g1-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-g1-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-h1.jpg",
@@ -1318,7 +1377,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephanta_Cave_1_H1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "elephanta-caves",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-h1-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-h1-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-l1.jpg",
@@ -1333,7 +1394,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephanta_Cave_1_L1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "elephanta-caves",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-l1-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-l1-small.webp"
         },
         {
           "path": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-k1.jpg",
@@ -1348,7 +1411,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephanta_Cave_1_K1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "elephanta-caves",
-          "sourceGeohash4": "te7g"
+          "sourceGeohash4": "te7g",
+          "mediumPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-k1-medium.webp",
+          "smallPath": "_m/tpc/el/ep/ha/nt/elephanta-caves/elephanta-cave-1-k1-small.webp"
         },
         {
           "path": "_m/t/e/7/u/mumbai-wp/local-train-platform.jpg",
@@ -1372,7 +1437,9 @@
             "Self-published work",
             "Taken with Nokia N95",
             "Trilingual English-Hindi-Marathi signs in India"
-          ]
+          ],
+          "mediumPath": "_m/t/e/7/u/mumbai-wp/local-train-platform-medium.webp",
+          "smallPath": "_m/t/e/7/u/mumbai-wp/local-train-platform-small.webp"
         },
         {
           "path": "_m/t/e/7/u/mumbai-wp/bandra-terminus-main-building.jpg",
@@ -1393,7 +1460,9 @@
             "CC-BY-SA-3.0",
             "Self-published work",
             "Taken with Nokia N95"
-          ]
+          ],
+          "mediumPath": "_m/t/e/7/u/mumbai-wp/bandra-terminus-main-building-medium.webp",
+          "smallPath": "_m/t/e/7/u/mumbai-wp/bandra-terminus-main-building-small.webp"
         },
         {
           "path": "_m/t/e/7/u/mumbai-wp/gokuldas-tejpal-hospital.jpg",
@@ -1415,7 +1484,8 @@
             "Gokuldas Tejpal Hospital",
             "Hospitals in Mumbai",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/t/e/7/u/mumbai-wp/gokuldas-tejpal-hospital-small.webp"
         },
         {
           "path": "_m/t/e/7/u/mumbai-wp/cama-hospital.jpg",
@@ -1437,7 +1507,8 @@
             "Cama & Albless Hospital",
             "PD-old missing SDC copyright status",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/t/e/7/u/mumbai-wp/cama-hospital-small.webp"
         },
         {
           "path": "_m/t/e/7/u/mumbai-wp/maruti-wagor-r-cool-cab-in-mum.jpg",
@@ -1462,7 +1533,9 @@
             "Maruti Wagon R (first generation)",
             "Self-published work",
             "Suzuki automobiles in India"
-          ]
+          ],
+          "mediumPath": "_m/t/e/7/u/mumbai-wp/maruti-wagor-r-cool-cab-in-mum-medium.webp",
+          "smallPath": "_m/t/e/7/u/mumbai-wp/maruti-wagor-r-cool-cab-in-mum-small.webp"
         },
         {
           "path": "_m/t/e/7/u/mumbai-wp/faluda-at-juhu-beach-mumbai.jpg",
@@ -1484,7 +1557,9 @@
             "Falooda",
             "Juhu Beach",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/t/e/7/u/mumbai-wp/faluda-at-juhu-beach-mumbai-medium.webp",
+          "smallPath": "_m/t/e/7/u/mumbai-wp/faluda-at-juhu-beach-mumbai-small.webp"
         },
         {
           "path": "_m/t/e/7/u/mumbai-wp/mumbai-vada.jpg",
@@ -1508,7 +1583,8 @@
             "Items with VRTS permission confirmed",
             "Self-published work",
             "Uploaded via Campaign:wlf"
-          ]
+          ],
+          "smallPath": "_m/t/e/7/u/mumbai-wp/mumbai-vada-small.webp"
         },
         {
           "path": "_m/t/e/7/u/mumbai-wp/mumbai-03-2016-31-gateway-of-i.jpg",
@@ -1527,7 +1603,9 @@
           "categories": [
             "FAL",
             "Files with coordinates missing SDC location of creation"
-          ]
+          ],
+          "mediumPath": "_m/t/e/7/u/mumbai-wp/mumbai-03-2016-31-gateway-of-i-medium.webp",
+          "smallPath": "_m/t/e/7/u/mumbai-wp/mumbai-03-2016-31-gateway-of-i-small.webp"
         },
         {
           "path": "_m/t/e/7/u/mumbai-wp/mumbai-03-2016-40-bombay-high-.jpg",
@@ -1542,7 +1620,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_40_Bombay_High_Court.jpg",
           "sourceType": "poi",
           "sourceArticleId": "mumbai-wp",
-          "sourceGeohash4": "te7u"
+          "sourceGeohash4": "te7u",
+          "mediumPath": "_m/t/e/7/u/mumbai-wp/mumbai-03-2016-40-bombay-high--medium.webp",
+          "smallPath": "_m/t/e/7/u/mumbai-wp/mumbai-03-2016-40-bombay-high--small.webp"
         },
         {
           "path": "_m/tpc/ch/ha/tr/ap/chhatrapati-shivaji-terminus/mumbai-03-2016-46-evening-at-m.jpg",
@@ -1557,7 +1637,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_46_evening_at_Marine_Drive.jpg",
           "sourceType": "poi",
           "sourceArticleId": "chhatrapati-shivaji-terminus",
-          "sourceGeohash4": "te7u"
+          "sourceGeohash4": "te7u",
+          "mediumPath": "_m/tpc/ch/ha/tr/ap/chhatrapati-shivaji-terminus/mumbai-03-2016-46-evening-at-m-medium.webp",
+          "smallPath": "_m/tpc/ch/ha/tr/ap/chhatrapati-shivaji-terminus/mumbai-03-2016-46-evening-at-m-small.webp"
         },
         {
           "path": "_m/t/e/7/u/mumbai-wp/mumbai-03-2016-114-airport-int.jpg",
@@ -1572,7 +1654,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_114_Airport_international_terminal_interior.jpg",
           "sourceType": "poi",
           "sourceArticleId": "mumbai-wp",
-          "sourceGeohash4": "te7u"
+          "sourceGeohash4": "te7u",
+          "mediumPath": "_m/t/e/7/u/mumbai-wp/mumbai-03-2016-114-airport-int-medium.webp",
+          "smallPath": "_m/t/e/7/u/mumbai-wp/mumbai-03-2016-114-airport-int-small.webp"
         },
         {
           "path": "_m/t/e/7/u/mumbai-wp/chatrapati-shivaji-terminus-pa.jpg",
@@ -1587,7 +1671,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chatrapati_Shivaji_Terminus_Pano.jpg",
           "sourceType": "poi",
           "sourceArticleId": "mumbai-wp",
-          "sourceGeohash4": "te7u"
+          "sourceGeohash4": "te7u",
+          "mediumPath": "_m/t/e/7/u/mumbai-wp/chatrapati-shivaji-terminus-pa-medium.webp",
+          "smallPath": "_m/t/e/7/u/mumbai-wp/chatrapati-shivaji-terminus-pa-small.webp"
         },
         {
           "path": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/chhatrapati-shivaji-te.jpg",
@@ -1602,7 +1688,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chhatrapati_shivaji_terminus,_esterno_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "chhatrapati-shivaji-terminus-wp",
-          "sourceGeohash4": "te7u"
+          "sourceGeohash4": "te7u",
+          "mediumPath": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/chhatrapati-shivaji-te-medium.webp",
+          "smallPath": "_m/t/e/7/g/chhatrapati-shivaji-terminus-wp/chhatrapati-shivaji-te-small.webp"
         },
         {
           "path": "_m/t/e/7/u/mumbai-wp/grant-medical-college-1860.jpg",
@@ -1615,7 +1703,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grant_medical_college_1860.jpg",
           "sourceType": "poi",
           "sourceArticleId": "mumbai-wp",
-          "sourceGeohash4": "te7u"
+          "sourceGeohash4": "te7u",
+          "smallPath": "_m/t/e/7/u/mumbai-wp/grant-medical-college-1860-small.webp"
         }
       ],
       "narration": [

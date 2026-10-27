@@ -46,7 +46,7 @@ Red Tarn sits at 54.528 degrees north, 3.009 degrees west, at 718 metres elevati
   - endangered status confirmed
   - relict ice-age population confirmed
   - only four British lakes confirmed
-- [Greenside Mine, Glenridding - historical records](https://en.wikipedia.org/wiki/Red_Tarn)
+- [Greenside Mine, Glenridding - historical records](https://en.wikipedia.org/?curid=5204457)
   - Greenside lead mine in Glenridding valley confirmed
   - mine closed 1962 confirmed
   - Victorian dam at Red Tarn outflow confirmed

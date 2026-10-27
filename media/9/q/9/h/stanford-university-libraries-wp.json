@@ -3,30 +3,34 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/9/h/stanford-university-libraries-wp/hero.jpg",
-        "filename": "Stanford University Green Library Bing Wing.jpg",
-        "caption": "Bing Wing of the Cecil H. Green Library, Stanford University",
-        "alt": "Bing Wing of the Cecil H. Green Library, Stanford University",
-        "width": 4728,
-        "height": 3152,
+        "path": "_m/9/q/9/h/stanford-university-libraries-wp/stanford-university-canyon-dia.jpg",
+        "filename": "Stanford University Canyon Diablo Meteorite.jpg",
+        "caption": "The largest meteorite fragment in the posession of Stanford University. It is on display at Branner Library.",
+        "alt": "The largest meteorite fragment in the posession of Stanford University. It is on display at Branner Library.",
+        "width": 3024,
+        "height": 3866,
         "mimeType": "image/jpeg",
-        "license": "CC0",
-        "artist": "LPS.1",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stanford_University_Green_Library_Bing_Wing.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Wrose03",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stanford_University_Canyon_Diablo_Meteorite.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "stanford-university-libraries-wp",
         "sourceGeohash4": "9q9h",
         "categories": [
-          "Bing Wing",
-          "CC-Zero",
+          "CC-BY-SA-4.0",
+          "Canyon Diablo (meteorite)",
           "Files with coordinates missing SDC location of creation",
+          "Iron meteorites",
+          "Meteorites",
           "Self-published work",
-          "Taken with Nikon D7000"
-        ]
+          "Stanford University libraries"
+        ],
+        "mediumPath": "_m/9/q/9/h/stanford-university-libraries-wp/stanford-university-canyon-dia-medium.webp",
+        "smallPath": "_m/9/q/9/h/stanford-university-libraries-wp/stanford-university-canyon-dia-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/9/h/stanford-university-libraries-wp/stanford-university-hoover-tow.jpg",
+          "path": "_m/9/q/9/h/stanford-university-wp/stanford-university-hoover-tow.jpg",
           "filename": "Stanford University Hoover Tower.JPG",
           "caption": "Stanford University Hoover Tower",
           "alt": "Stanford University Hoover Tower",
@@ -48,7 +52,7 @@
             "Taken on missing SDC inception",
             "Taken with Canon Digital IXUS 400"
           ],
-          "smallPath": "_m/9/q/9/h/stanford-university-libraries-wp/stanford-university-hoover-tow-small.webp"
+          "smallPath": "_m/9/q/9/h/stanford-university-wp/stanford-university-hoover-tow-small.webp"
         },
         {
           "path": "_m/9/q/9/h/stanford-university-libraries-wp/jane-stanford-1828-190.jpg",

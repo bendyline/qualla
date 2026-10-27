@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/p/u/house-of-commons-of-the-united-kingdom-wp/hero.jpg",
-        "filename": "London, Elizabeth Tower -- 2016 -- 4624.jpg",
-        "caption": "Elizabeth Tower, London, England, United Kingdom",
-        "alt": "Elizabeth Tower, London, England, United Kingdom",
-        "width": 2638,
-        "height": 4690,
+        "path": "_m/g/c/p/u/house-of-commons-of-the-united-kingdom-wp/wide-shot-house-common.jpg",
+        "filename": "Prime Minister's Questions, 7 February 2024 08.jpg",
+        "caption": "A wide shot of the House of Commons Chamber during Prime Minister's Questions, 7 February 2024.",
+        "alt": "A wide shot of the House of Commons Chamber during Prime Minister's Questions, 7 February 2024.",
+        "width": 6862,
+        "height": 4575,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Dietmar Rabich",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:London,_Elizabeth_Tower_--_2016_--_4624.jpg",
+        "license": "CC BY 3.0",
+        "artist": "© UK Parliament / Maria Unger",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prime_Minister%27s_Questions,_7_February_2024_08.jpg",
         "sourceType": "core",
         "sourceArticleId": "house-of-commons-of-the-united-kingdom-wp",
         "sourceGeohash4": "gcpu",
-        "categories": [
-          "1 building",
-          "1 tower",
-          "Buildings with addresses",
-          "CC-BY-SA-4.0",
-          "Changes of XRay's photographs of the recent weeks",
-          "Clouds in London",
-          "Exposure time 1/160 sec",
-          "Exterior of Elizabeth Tower"
-        ]
+        "mediumPath": "_m/g/c/p/u/house-of-commons-of-the-united-kingdom-wp/wide-shot-house-common-medium.webp",
+        "smallPath": "_m/g/c/p/u/house-of-commons-of-the-united-kingdom-wp/wide-shot-house-common-small.webp"
       },
       "images": [
         {
@@ -116,7 +108,7 @@
           "smallPath": "_m/g/c/p/u/house-of-commons-of-the-united-kingdom-wp/house-commons-1793-94-small.webp"
         },
         {
-          "path": "_m/g/c/p/u/house-of-commons-of-the-united-kingdom-wp/picture-british-house.jpg",
+          "path": "_m/g/c/p/u/palace-of-westminster-wp/picture-british-house.jpg",
           "filename": "Old House of Commons.jpg",
           "caption": "A picture of the British House of Commons chamber at the Palace of Westminster, prior to its destruction on 10–11 May 1941, during the Second World War.",
           "alt": "A picture of the British House of Commons chamber at the Palace of Westminster, prior to its destruction on 10–11 May 1941, during the Second World War.",
@@ -132,7 +124,8 @@
           "categories": [
             "Chamber of the House of Commons of the United Kingdom",
             "UK Government artistic works"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/u/palace-of-westminster-wp/picture-british-house-small.webp"
         },
         {
           "path": "_m/g/c/p/u/house-of-commons-of-the-united-kingdom-wp/wide-shot-house-common.jpg",
@@ -560,7 +553,9 @@
             "Lawns in the United Kingdom",
             "Royal Banner of Scotland",
             "Taken with Polaroid PDC 3350"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/balmoral-castle-medium.webp",
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/balmoral-castle-small.webp"
         },
         {
           "path": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/admiralty-house.jpg",
@@ -580,7 +575,8 @@
             "Admiralty House, Sydney",
             "PD-user",
             "Taken with Canon Digital IXUS 40"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/admiralty-house-small.webp"
         },
         {
           "path": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/kensingtonpalace.jpg",
@@ -602,7 +598,9 @@
             "License migration redundant",
             "Self-published work",
             "South facade of Kensington Palace"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/kensingtonpalace-medium.webp",
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/kensingtonpalace-small.webp"
         },
         {
           "path": "_m/g/c/p/s/windsor-castle-wp/windsor-castle-sunset.jpg",
@@ -639,7 +637,9 @@
             "Sunsets of Berkshire",
             "United Kingdom photographs taken on 2006-11-05",
             "Walkways in England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/s/windsor-castle-wp/windsor-castle-sunset-medium.webp",
+          "smallPath": "_m/g/c/p/s/windsor-castle-wp/windsor-castle-sunset-small.webp"
         },
         {
           "path": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/hampton-court-great-gatehouse.jpg",
@@ -663,7 +663,9 @@
             "Flickr images reviewed by trusted users",
             "Great Gate, Hampton Court",
             "Images with annotations"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/hampton-court-great-gatehouse-medium.webp",
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/hampton-court-great-gatehouse-small.webp"
         },
         {
           "path": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/buckingham-palace-london-april.jpg",
@@ -678,7 +680,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace,_London_-_April_2009.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "monarchy-of-the-united-kingdom-wk",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/buckingham-palace-london-april-medium.webp",
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/buckingham-palace-london-april-small.webp"
         },
         {
           "path": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/citadel-quebec-city-2010y.jpg",
@@ -693,7 +697,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Citadel_quebec_city_2010y.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "monarchy-of-the-united-kingdom-wk",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/citadel-quebec-city-2010y-medium.webp",
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/citadel-quebec-city-2010y-small.webp"
         },
         {
           "path": "_m/tpc/bu/ck/in/gh/buckingham-palace/st-jamess-palace.jpg",
@@ -708,7 +714,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Jamess_Palace.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "buckingham-palace",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/tpc/bu/ck/in/gh/buckingham-palace/st-jamess-palace-medium.webp",
+          "smallPath": "_m/tpc/bu/ck/in/gh/buckingham-palace/st-jamess-palace-small.webp"
         },
         {
           "path": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/palace-of-holyroodhouse-edinbu.jpg",
@@ -723,7 +731,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palace_of_Holyroodhouse,_Edinburgh.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "monarchy-of-the-united-kingdom-wk",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/palace-of-holyroodhouse-edinbu-medium.webp",
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/palace-of-holyroodhouse-edinbu-small.webp"
         },
         {
           "path": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/edinburgh-castle-from-the-sout.jpg",
@@ -738,7 +748,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_the_south_east.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "monarchy-of-the-united-kingdom-wk",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/edinburgh-castle-from-the-sout-medium.webp",
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/edinburgh-castle-from-the-sout-small.webp"
         },
         {
           "path": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/westminster-abbey.jpg",
@@ -753,7 +765,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Westminster-Abbey.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "monarchy-of-the-united-kingdom-wk",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/westminster-abbey-medium.webp",
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/westminster-abbey-small.webp"
         },
         {
           "path": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/britannia-4532545688.jpg",
@@ -768,7 +782,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Britannia_(4532545688).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "monarchy-of-the-united-kingdom-wk",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/britannia-4532545688-medium.webp",
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/britannia-4532545688-small.webp"
         },
         {
           "path": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/tower-of-london-viewed-from-th.jpg",
@@ -783,7 +799,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tower_of_London_viewed_from_the_River_Thames.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "monarchy-of-the-united-kingdom-wk",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/tower-of-london-viewed-from-th-medium.webp",
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/tower-of-london-viewed-from-th-small.webp"
         },
         {
           "path": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/the-dutch-house-at-kew-palace.jpg",
@@ -798,7 +816,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Dutch_House_at_Kew_Palace.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "monarchy-of-the-united-kingdom-wk",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/the-dutch-house-at-kew-palace-medium.webp",
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/the-dutch-house-at-kew-palace-small.webp"
         },
         {
           "path": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/hillsborough-castle-flag-flyin.jpg",
@@ -813,7 +833,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hillsborough_Castle_(flag_flying_day).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "monarchy-of-the-united-kingdom-wk",
-          "sourceGeohash4": "gcpu"
+          "sourceGeohash4": "gcpu",
+          "mediumPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/hillsborough-castle-flag-flyin-medium.webp",
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/hillsborough-castle-flag-flyin-small.webp"
         }
       ],
       "narration": [

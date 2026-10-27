@@ -3,26 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/8/t/u/battle-of-uman-wp/hero.jpg",
-        "filename": "Uman Cualdron formation (1-2.08.1941).jpg",
-        "caption": "The environment of Soviet troops near Uman during the Battle of Uman (1-2 August 1941)",
-        "alt": "The environment of Soviet troops near Uman during the Battle of Uman (1-2 August 1941)",
-        "width": 8945,
-        "height": 7124,
+        "path": "_m/u/8/t/u/battle-of-uman-wp/situation-around-kiev.jpg",
+        "filename": "Uman-21.07(OKH).jpg",
+        "caption": "The situation around Kiev on the evening of July 21, 1941 (by the OKH opinion)",
+        "alt": "The situation around Kiev on the evening of July 21, 1941 (by the OKH opinion)",
+        "width": 5138,
+        "height": 3806,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
         "artist": "Nicoljaus",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uman_Cualdron_formation_(1-2.08.1941).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uman-21.07(OKH).jpg",
         "sourceType": "core",
         "sourceArticleId": "battle-of-uman-wp",
         "sourceGeohash4": "u8tu",
         "categories": [
           "CC-BY-SA-4.0",
-          "Conflicts in 1941",
-          "Maps of Operation Barbarossa",
           "Military maps",
-          "Self-published work"
-        ]
+          "Self-published work",
+          "Soviet Union in World War II"
+        ],
+        "mediumPath": "_m/u/8/t/u/battle-of-uman-wp/situation-around-kiev-medium.webp",
+        "smallPath": "_m/u/8/t/u/battle-of-uman-wp/situation-around-kiev-small.webp"
       },
       "images": [
         {
@@ -168,7 +169,8 @@
             "Hand-colored photographs of Germany",
             "Images from the German Federal Archive",
             "Images with intentional borders"
-          ]
+          ],
+          "smallPath": "_m/u/8/t/u/battle-of-uman-wp/bundesarchiv-b-145-bild-f01619-small.webp"
         },
         {
           "path": "_m/w/x/4/d/museum-of-the-war-of-chinese-people-s-resistance-against-japanese-aggression-wp/antijapanesewarmemorialmuseum.jpg",
@@ -192,7 +194,9 @@
             "License migration redundant",
             "Memorial Hall of the Chinese People's War of Resistance Against Japanese Aggression",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/x/4/d/museum-of-the-war-of-chinese-people-s-resistance-against-japanese-aggression-wp/antijapanesewarmemorialmuseum-medium.webp",
+          "smallPath": "_m/w/x/4/d/museum-of-the-war-of-chinese-people-s-resistance-against-japanese-aggression-wp/antijapanesewarmemorialmuseum-small.webp"
         },
         {
           "path": "_m/tpc/wo/rl/d-/wa/world-war-ii/museum-of-the-great-patriotic-.jpg",
@@ -215,7 +219,8 @@
             "Self-published work",
             "Taken with Canon Digital IXUS 300",
             "Victory Monument (Moscow)"
-          ]
+          ],
+          "smallPath": "_m/tpc/wo/rl/d-/wa/world-war-ii/museum-of-the-great-patriotic--small.webp"
         },
         {
           "path": "_m/9/v/r/f/new-orleans-central-business-district-wp/main-entrance-to-the-national-.jpg",
@@ -238,7 +243,9 @@
             "National World War II Museum",
             "Self-published work",
             "Taken with Olympus T-105 / T-100 / X-36"
-          ]
+          ],
+          "mediumPath": "_m/9/v/r/f/new-orleans-central-business-district-wp/main-entrance-to-the-national--medium.webp",
+          "smallPath": "_m/9/v/r/f/new-orleans-central-business-district-wp/main-entrance-to-the-national--small.webp"
         },
         {
           "path": "_m/g/c/p/u/lambeth-wp/imperial-war-museum-london-uk.jpg",
@@ -264,7 +271,9 @@
             "Photographs by Ввласенко/Volodymyr Vlasenko",
             "Self-published work",
             "Unassessed QI candidates"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/lambeth-wp/imperial-war-museum-london-uk-medium.webp",
+          "smallPath": "_m/g/c/p/u/lambeth-wp/imperial-war-museum-london-uk-small.webp"
         }
       ],
       "narration": [

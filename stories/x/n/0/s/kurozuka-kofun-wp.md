@@ -33,7 +33,7 @@ Located at 34.560N, 135.843E in the city of Tenri, Nara Prefecture, in the south
 ## Sources
 
 - [Kurozuka Kofun - Wikipedia](https://en.wikipedia.org/?curid=78229793)
-- [Kurozuka Kofun - Wikipedia](https://en.wikipedia.org/wiki/Kurozuka_Kofun)
+- [Kurozuka Kofun - Wikipedia](https://en.wikipedia.org/?curid=78229793)
   - Tomb is 130 meters in total length
   - Circular mound diameter ~72 meters, height ~11 meters, three tiers
   - 33 triangular-rimmed divine beast bronze mirrors plus 1 older mirror found in situ

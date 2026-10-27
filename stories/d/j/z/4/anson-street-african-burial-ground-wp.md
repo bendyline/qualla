@@ -46,7 +46,7 @@ Located at 32.786N, 79.932W in downtown Charleston's upper peninsula, near the G
 - [Professor's Research Helps Shed Light on 18th-Century African Remains](https://today.cofc.edu/2023/02/23/professors-research-helps-shed-light-on-18th-century-african-remains-found-at-gaillard-center/)
   - DNA research and isotope mapping used to identify origins
   - Burial ground in use approximately 1760-1790
-- [Wikipedia - Anson Street African Burial Ground](https://en.wikipedia.org/wiki/Anson_Street_African_Burial_Ground)
+- [Wikipedia - Anson Street African Burial Ground](https://en.wikipedia.org/?curid=76591126)
   - 36 individuals of African descent uncovered in 2013 confirmed
   - Discovery during Gaillard Center construction on Anson Street confirmed
   - Coins in grave including one in eye socket confirmed

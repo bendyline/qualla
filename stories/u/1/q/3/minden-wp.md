@@ -36,7 +36,7 @@ Minden lies at 52.3031N, 8.9317E on both banks of the Weser in the far north-eas
 
 ## Sources
 
-- [Minden - Wikipedia](https://en.wikipedia.org/wiki/Minden)
+- [Minden - Wikipedia](https://en.wikipedia.org/?curid=182340)
   - Population 84,013 (31 December 2024); area 101.12 km2; town extends along both banks of the Weser and is crossed by the Mittelland Canal on the Minden Aqueduct
   - Town centre on a plateau on the west bank, 5 km north of the Porta Westfalica gap; Weser leaves the area at about 40 m, highest point Haeverstaedter Berg 272 m, official town altitude 42.2 m
   - 40 km north-east of Bielefeld, 60 km west of Hannover, 80 km south of Bremen, 60 km east of Osnabrueck

@@ -3,28 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/w/2/octagon-theatre-bolton-wp/hero.jpg",
-        "filename": "Bolton Parish Church 2007.jpg",
-        "caption": "St Peter's Church, the parish church of Bolton, Greater Manchester, England.",
-        "alt": "St Peter's Church, the parish church of Bolton, Greater Manchester, England.",
-        "width": 1810,
-        "height": 2516,
+        "path": "_m/g/c/w/2/octagon-theatre-bolton-wp/the-octagon-theatre-geograph-o.jpg",
+        "filename": "The Octagon Theatre - geograph.org.uk - 1886684.jpg",
+        "caption": "The Octagon Theatre",
+        "alt": "The Octagon Theatre",
+        "width": 1536,
+        "height": 1024,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "AFCR (talk) 13:36, 7 February 2008 (UTC)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bolton_Parish_Church_2007.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "David Dixon",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Octagon_Theatre_-_geograph.org.uk_-_1886684.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "octagon-theatre-bolton-wp",
         "sourceGeohash4": "gcw2",
         "categories": [
-          "CC-BY-SA-3.0",
-          "GFDL",
-          "Gothic Revival church towers in Greater Manchester",
-          "License migration redundant",
-          "Self-published work",
-          "St Peter's Church, Bolton",
-          "Taken with Fujifilm FinePix S6500fd"
-        ]
+          "CC-BY-SA-2.0",
+          "Images from Geograph Britain and Ireland",
+          "Octagon Theatre, Bolton"
+        ],
+        "smallPath": "_m/g/c/w/2/octagon-theatre-bolton-wp/the-octagon-theatre-geograph-o-small.webp"
       },
       "images": [
         {
@@ -115,7 +112,9 @@
             "Self-published work",
             "Taken with Fujifilm FinePix E510",
             "Turton Tower"
-          ]
+          ],
+          "mediumPath": "_m/g/c/w/0/westhoughton-wp/turton-tower-medium.webp",
+          "smallPath": "_m/g/c/w/0/westhoughton-wp/turton-tower-small.webp"
         },
         {
           "path": "_m/g/c/w/0/westhoughton-wp/prestolee-aqueduct-panorama.jpg",
@@ -141,7 +140,9 @@
             "Valued images of Greater Manchester",
             "Valued images promoted 2014-04",
             "Valued images sorted by promotion date"
-          ]
+          ],
+          "mediumPath": "_m/g/c/w/0/westhoughton-wp/prestolee-aqueduct-panorama-medium.webp",
+          "smallPath": "_m/g/c/w/0/westhoughton-wp/prestolee-aqueduct-panorama-small.webp"
         },
         {
           "path": "_m/g/c/w/0/westhoughton-wp/bolton-market-hall.jpg",
@@ -165,7 +166,8 @@
             "Organisations based in London",
             "Retail buildings in the Metropolitan Borough of Bolton",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/w/0/westhoughton-wp/bolton-market-hall-small.webp"
         }
       ],
       "narration": [

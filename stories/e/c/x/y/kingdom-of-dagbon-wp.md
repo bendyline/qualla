@@ -42,7 +42,7 @@ Coordinates: 9.50N, 0.25W. The Kingdom of Dagbon covers approximately 8,000 squa
   - Corrected troop figures: ~4,630 Dagomba fighters (2,500 gunmen, 130 horsemen, ~2,000 archers) vs ~368 German Schutztruppe
   - Yendi razed December 4, 1896
   - Defeat led to German Togoland protectorate over eastern Dagbon
-- [Kingdom of Dagbon - Wikipedia](https://en.wikipedia.org/wiki/Kingdom_of_Dagbon)
+- [Kingdom of Dagbon - Wikipedia](https://en.wikipedia.org/?curid=44549108)
   - Kingdom founded 15th century by Naa Gbewaa
   - Yennenga warrior princess; son Ouedraogo founded Mossi Kingdoms
   - Yaa Naa Yakubu Andani II assassinated 27 March 2002

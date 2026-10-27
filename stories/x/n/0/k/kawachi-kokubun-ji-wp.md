@@ -39,7 +39,7 @@ Located at 34.57N, 135.66E on a hillside above the Yamato River in eastern Osaka
   - Emperor Shomu's 741 AD decree to build kokubunji in every province confirmed
   - Temples served to project centralized Nara-period authority under Ritsuryo system confirmed
   - Kokubunji system included both monastery and nunnery per province confirmed
-- [Wikipedia - Kawachi Kokubun-ji (cross-check)](https://en.wikipedia.org/wiki/Kawachi_Kokubun-ji)
+- [Wikipedia - Kawachi Kokubun-ji (cross-check)](https://en.wikipedia.org/?curid=80228430)
   - Located in Higanjō-chō neighborhood of Kashiwara, Osaka Prefecture confirmed
   - Pagoda base approximately 19 meters per side, 1.54 meters high confirmed
   - Six cornerstones including central stone remain confirmed

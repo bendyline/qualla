@@ -33,7 +33,7 @@ The Caloundra Lighthouses stand at approximately 26.80S, 153.14E, on the highest
 ## Sources
 
 - [Caloundra Lighthouses - Wikipedia](https://en.wikipedia.org/?curid=51563901)
-- [Wikipedia - Caloundra Lighthouses (corrected dates)](https://en.wikipedia.org/wiki/Caloundra_Lighthouses)
+- [Wikipedia - Caloundra Lighthouses (corrected dates)](https://en.wikipedia.org/?curid=51563901)
   - Old Caloundra Light built 1896, designed in the QLD timber-frame/corrugated-iron style; New light operational 1968 (the heritage text's '1868' is a typo) confirmed
   - 1896 light moved away in 1970, timber frame collapsed during the 22 March 1999 move attempt, successfully returned 11 June 1999 confirmed
   - Marked the entrance to the North West Channel into the Port of Brisbane confirmed

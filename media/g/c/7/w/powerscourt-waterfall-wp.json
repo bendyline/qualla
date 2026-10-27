@@ -3,30 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/7/w/powerscourt-waterfall-wp/hero.jpg",
-        "filename": "Powerscourt Deerpark and Waterfall.jpg",
-        "caption": "View of Powerscourt Deerpark and Waterfall at Ride Rock, Crone Woods near Enniskerry, County Wicklow, Ireland. At 121 metres, the waterfall is the tallest in Ireland. It is fed by the River Dargle which rises in the Glensoulan valley near Djouce mountain, which can be seen in background.",
-        "alt": "View of Powerscourt Deerpark and Waterfall at Ride Rock, Crone Woods near Enniskerry, County Wicklow, Ireland. At 121 metres, the waterfall is the tallest in Ireland. It is fed by the River Dargle which rises in the Glensoulan valley near Djouce mountain, which can be seen in background.",
-        "width": 3808,
-        "height": 2142,
+        "path": "_m/g/c/7/w/powerscourt-waterfall-wp/powerscourt-waterfall-north-vi.jpg",
+        "filename": "Powerscourt Waterfall, North view 20150806 1.jpg",
+        "caption": "Powerscourt Waterfall, North view",
+        "alt": "Powerscourt Waterfall, North view",
+        "width": 6220,
+        "height": 4665,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Joe King",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Powerscourt_Deerpark_and_Waterfall.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "DXR",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Powerscourt_Waterfall,_North_view_20150806_1.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "powerscourt-waterfall-wp",
         "sourceGeohash4": "gc7w",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Djouce Mountain",
-          "Files with coordinates missing SDC location of creation",
-          "Images with annotations",
-          "Mountains of County Wicklow",
-          "Powerscourt Estate",
-          "Powerscourt Waterfall",
-          "Self-published work",
-          "Taken with Nikon D90"
-        ]
+        "mediumPath": "_m/g/c/7/w/powerscourt-waterfall-wp/powerscourt-waterfall-north-vi-medium.webp",
+        "smallPath": "_m/g/c/7/w/powerscourt-waterfall-wp/powerscourt-waterfall-north-vi-small.webp"
       },
       "images": [
         {
@@ -494,7 +485,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Powerscourt_waterfall_2.png",
           "sourceType": "commons-category",
           "sourceArticleId": "powerscourt-waterfall-wp",
-          "sourceGeohash4": "gc7w"
+          "sourceGeohash4": "gc7w",
+          "smallPath": "_m/g/c/7/w/powerscourt-waterfall-wp/powerscourt-waterfall-2-small.webp"
         },
         {
           "path": "_m/g/c/7/w/enniskerry-wp/powerscourt-gardens.jpg",
@@ -514,7 +506,8 @@
             "PD-user",
             "Powerscourt Gardens",
             "Taken with Nikon Coolpix 990"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/w/enniskerry-wp/powerscourt-gardens-small.webp"
         },
         {
           "path": "_m/g/c/7/w/enniskerry-wp/enniskerry-banner-powerscourt.jpg",
@@ -537,7 +530,9 @@
             "Powerscourt Estate",
             "Self-published work",
             "Wikivoyage banners of Ireland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/7/w/enniskerry-wp/enniskerry-banner-powerscourt-medium.webp",
+          "smallPath": "_m/g/c/7/w/enniskerry-wp/enniskerry-banner-powerscourt-small.webp"
         }
       ],
       "narration": [

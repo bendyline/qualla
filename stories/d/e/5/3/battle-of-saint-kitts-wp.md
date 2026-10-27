@@ -33,7 +33,7 @@ The Battle of Saint Kitts took place off Frigate Bay on the southeastern coast o
 ## Sources
 
 - [Battle of Saint Kitts - Wikipedia](https://en.wikipedia.org/?curid=2166298)
-- [Wikipedia - Battle of Saint Kitts](https://en.wikipedia.org/wiki/Battle_of_Saint_Kitts)
+- [Wikipedia - Battle of Saint Kitts](https://en.wikipedia.org/?curid=2166298)
   - January 25-26, 1782 dates confirmed
   - Hood's 22 ships of the line confirmed
   - British casualties 72 killed and 244 wounded confirmed

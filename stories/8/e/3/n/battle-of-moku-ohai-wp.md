@@ -29,7 +29,7 @@ The battle site is located at approximately 19.46°N, 155.92°W, south of Kealak
 ## Sources
 
 - [Battle of Mokuʻōhai - Wikipedia](https://en.wikipedia.org/?curid=12357653)
-- [Battle of Mokuohai - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Mokuohai)
+- [Battle of Mokuohai - Wikipedia](https://en.wikipedia.org/?curid=12357653)
   - Fought in 1782
   - Kalanioupu's son Kiwalao inherited kingdom
   - Kamehameha received Waipio Valley district

@@ -46,7 +46,7 @@ Located at 35.679N, 139.718E in Shinjuku, central Tokyo. The gallery sits at the
   - Marble sourcing: 56% from Mino-Akasaka in Gifu Prefecture
   - Interior features mosaic tiled floor and stained glass windows
   - Central hall beneath shell dome with marble cladding
-- [Meiji Memorial Picture Gallery - Wikipedia](https://en.wikipedia.org/wiki/Meiji_Memorial_Picture_Gallery)
+- [Meiji Memorial Picture Gallery - Wikipedia](https://en.wikipedia.org/?curid=48452699)
   - Gallery opened October 22, 1926; final paintings installed ten years later
   - Design competition in 1918 drew 156 entries won by Kobayashi Masatsugu
   - Designated Important Cultural Property in 2011

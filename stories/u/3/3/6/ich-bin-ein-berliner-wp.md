@@ -36,7 +36,7 @@ Rathaus Schöneberg and John-F.-Kennedy-Platz sit at 52.485°N, 13.344°E, about
 
 ## Sources
 
-- [Ich bin ein Berliner - Wikipedia](https://en.wikipedia.org/wiki/Ich_bin_ein_Berliner)
+- [Ich bin ein Berliner - Wikipedia](https://en.wikipedia.org/?curid=14581)
 - [Remarks of President John F. Kennedy at the Rudolph Wilde Platz, Berlin, June 26, 1963](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/berlin-w-germany-rudolph-wilde-platz-19630626)
 - [U.S. President John F. Kennedy Visits West Berlin (June 26, 1963)](https://germanhistorydocs.org/en/two-germanies-1961-1989/u-s-president-john-f-kennedy-visits-west-berlin-june-26-1963)
 - [Ich bin ein Berliner - Wikipedia](https://en.wikipedia.org/?curid=14581)

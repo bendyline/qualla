@@ -2,15 +2,10 @@
   "id": "1980-damascus-titan-missile-explosion-wp",
   "patch": {
     "media": {
-      "narration": [
-        "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq2-1980-damascus-titan-missile-explosion-flight-context.mp3",
-        "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq2-1980-damascus-titan-missile-explosion-intro.mp3",
-        "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq2-1980-damascus-titan-missile-explosion-the-silo-in-the-pasture.mp3",
-        "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq2-1980-damascus-titan-missile-explosion-eighteen-hours-of-dread.mp3",
-        "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq2-1980-damascus-titan-missile-explosion-the-explosion.mp3",
-        "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq2-1980-damascus-titan-missile-explosion-the-aftermath-and-the-reckoning.mp3",
-        "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq2-1980-damascus-titan-missile-explosion-command-and-control.mp3"
-      ],
+      "combinedCover": "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq3-1980-damascus-titan-missile-explosion-combined-cover.jpg",
+      "combinedNarration": "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq3-1980-damascus-titan-missile-explosion-combined.mp3",
+      "combinedNarrationBytes": 3831504,
+      "combinedNarrationDuration": 312,
       "hero": {
         "path": "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/hero.png",
         "filename": "308th SMW Titan II Missile Sites.png",
@@ -59,8 +54,17 @@
             "PD US Military",
             "The Swords of Armageddon by Chuck Hansen"
           ],
-          "smallPath": "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/mk6-titan-ii-small.jpg"
+          "smallPath": "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/mk6-titan-ii-small.webp"
         }
+      ],
+      "narration": [
+        "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq2-1980-damascus-titan-missile-explosion-flight-context.mp3",
+        "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq2-1980-damascus-titan-missile-explosion-intro.mp3",
+        "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq2-1980-damascus-titan-missile-explosion-the-silo-in-the-pasture.mp3",
+        "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq2-1980-damascus-titan-missile-explosion-eighteen-hours-of-dread.mp3",
+        "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq2-1980-damascus-titan-missile-explosion-the-explosion.mp3",
+        "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq2-1980-damascus-titan-missile-explosion-the-aftermath-and-the-reckoning.mp3",
+        "_m/9/y/q/3/1980-damascus-titan-missile-explosion-wp/9yq2-1980-damascus-titan-missile-explosion-command-and-control.mp3"
       ]
     }
   }

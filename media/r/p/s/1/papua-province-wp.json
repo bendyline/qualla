@@ -3,23 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/p/s/1/papua-province-wp/hero.jpg",
-        "filename": "Bukit Teletubbies, Jayapura, Papua.jpg",
-        "caption": "Bukit Teletubbies Sentani Jayapura, berlokasi di Kampung Doyo Lama, Distrik Waibu. Merupakan salah satu tempat wisata yang harus dikunjungi, saat kalian berlibur ke Sentani atau Jayapura.",
-        "alt": "Bukit Teletubbies Sentani Jayapura, berlokasi di Kampung Doyo Lama, Distrik Waibu. Merupakan salah satu tempat wisata yang harus dikunjungi, saat kalian berlibur ke Sentani atau Jayapura.",
-        "width": 1908,
-        "height": 1271,
+        "path": "_m/r/p/s/1/papua-province-wp/pantai-doromena-depapre.jpg",
+        "filename": "Pantai Doromena Depapre.jpg",
+        "caption": "Senja di Pantai Doromena Depapre",
+        "alt": "Senja di Pantai Doromena Depapre",
+        "width": 4896,
+        "height": 3672,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Andinailul",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukit_Teletubbies,_Jayapura,_Papua.jpg",
-        "sourceType": "core",
+        "artist": "Grace Mantiri",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pantai_Doromena_Depapre.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "papua-province-wp",
-        "sourceGeohash4": "rps1"
+        "sourceGeohash4": "rps1",
+        "mediumPath": "_m/r/p/s/1/papua-province-wp/pantai-doromena-depapre-medium.webp",
+        "smallPath": "_m/r/p/s/1/papua-province-wp/pantai-doromena-depapre-small.webp"
       },
       "images": [
         {
-          "path": "_m/r/p/s/1/papua-province-wp/hero.png",
+          "path": "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero.png",
           "filename": "Terra.png",
           "alt": "Terra.png",
           "width": 600,
@@ -36,10 +38,11 @@
             "Media missing infobox template",
             "PD NASA",
             "The Blue Marble"
-          ]
+          ],
+          "smallPath": "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero-small.webp"
         },
         {
-          "path": "_m/r/p/s/1/papua-province-wp/.png",
+          "path": "_m/2/0/4/m/chatham-islands-wp/image-40ee8373.png",
           "filename": "大洋.png",
           "caption": "Map of Oceania",
           "alt": "Map of Oceania",
@@ -58,7 +61,8 @@
             "Locator maps of Oceania",
             "PNG that should use vector graphics",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/2/0/4/m/chatham-islands-wp/image-40ee8373-small.webp"
         },
         {
           "path": "_m/r/p/s/1/papua-province-wp/lambang-coat-arms-kabu.jpg",
@@ -103,7 +107,8 @@
             "Photographs by Gunawan Kartapranata",
             "Self-published work",
             "Taken with Canon Digital IXUS 860 IS"
-          ]
+          ],
+          "smallPath": "_m/r/p/s/1/papua-province-wp/papeda-sago-congee-kua-small.webp"
         },
         {
           "path": "_m/r/p/s/1/papua-province-wp/papuan-dance-yapen-reg.jpg",
@@ -196,7 +201,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Memotong_sagu_Kering.jpg",
           "sourceType": "core",
           "sourceArticleId": "papua-province-wp",
-          "sourceGeohash4": "rps1"
+          "sourceGeohash4": "rps1",
+          "mediumPath": "_m/r/p/s/1/papua-province-wp/sago-typical-papuan-fo-medium.webp",
+          "smallPath": "_m/r/p/s/1/papua-province-wp/sago-typical-papuan-fo-small.webp"
         },
         {
           "path": "_m/r/p/s/1/papua-province-wp/hanasbey-tribes-kariwa.jpg",
@@ -258,7 +265,7 @@
           "smallPath": "_m/r/p/s/1/papua-province-wp/papuan-kid-small.webp"
         },
         {
-          "path": "_m/r/p/s/1/papua-province-wp/jayapura-banner.jpg",
+          "path": "_m/r/p/s/1/jayapura-wk/jayapura-banner.jpg",
           "filename": "Jayapura banner.jpg",
           "caption": "Panorama view of Jayapura City, Papua, Indonesia",
           "alt": "Panorama view of Jayapura City, Papua, Indonesia",
@@ -277,10 +284,12 @@
             "Panoramas of Indonesia",
             "Papua (province)",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/r/p/s/1/jayapura-wk/jayapura-banner-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wk/jayapura-banner-small.webp"
         },
         {
-          "path": "_m/r/p/s/1/papua-province-wp/forest-akimuga-mimika.jpg",
+          "path": "_m/r/p/2/9/central-papua-wp/forest-akimuga-mimika.jpg",
           "filename": "Forest, Akimuga, Mimika.jpg",
           "caption": "Forest in Akimuga, Mimika, Papua",
           "alt": "Forest in Akimuga, Mimika, Papua",
@@ -305,7 +314,8 @@
             "Rainforests in Indonesia",
             "Taken with Canon EOS 20D",
             "Uploaded by AVBirder"
-          ]
+          ],
+          "smallPath": "_m/r/p/2/9/central-papua-wp/forest-akimuga-mimika-small.webp"
         },
         {
           "path": "_m/r/p/s/1/papua-province-wp/awan-3.jpg",
@@ -383,7 +393,7 @@
           "smallPath": "_m/r/p/s/1/papua-province-wp/opening-ceremony-of-baliem-val-small.webp"
         },
         {
-          "path": "_m/r/p/s/1/papua-province-wp/noken.jpg",
+          "path": "_m/r/p/s/1/jayapura-wp/noken.jpg",
           "filename": "Noken.jpg",
           "caption": "Noken merupakan tas tradisional masyarakat Papua yang dibuat oleh perempuan dengan rajutan tangan dari serat tumbuhan. Masyarakat Papua biasanya menggunakannya untuk membawa hasil-hasil pertanian seperti sayuran, umbi-umbian dan juga untuk membawa barang-barang dagangan ke pasar. Noken sudah diakui UNESCO sebagai warisan budaya tak Berbenda dari tanah Papua pada 4 Desember 2012.",
           "alt": "Noken merupakan tas tradisional masyarakat Papua yang dibuat oleh perempuan dengan rajutan tangan dari serat tumbuhan. Masyarakat Papua biasanya menggunakannya untuk membawa hasil-hasil pertanian seperti sayuran, umbi-umbian dan juga untuk membawa barang-barang dagangan ke pasar. Noken sudah diakui UNESCO sebagai warisan budaya tak Berbenda dari tanah Papua pada 4 Desember 2012.",
@@ -395,7 +405,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noken.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "jayapura-wp",
-          "sourceGeohash4": "rps1"
+          "sourceGeohash4": "rps1",
+          "mediumPath": "_m/r/p/s/1/jayapura-wp/noken-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/noken-small.webp"
         },
         {
           "path": "_m/r/p/s/1/papua-province-wp/danau-sentani.jpg",
@@ -415,7 +427,7 @@
           "smallPath": "_m/r/p/s/1/papua-province-wp/danau-sentani-small.webp"
         },
         {
-          "path": "_m/r/p/s/1/papua-province-wp/munara-wampasi-wandos.jpg",
+          "path": "_m/r/p/b/d/biak-wk/munara-wampasi-wandos.jpg",
           "filename": "Munara wampasi wandos.jpg",
           "caption": "Masyarakat berbaris hingga tengah laut untuk menangkap ikan di Munara Wampasi Wandos",
           "alt": "Masyarakat berbaris hingga tengah laut untuk menangkap ikan di Munara Wampasi Wandos",
@@ -427,7 +439,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munara_wampasi_wandos.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "biak-wk",
-          "sourceGeohash4": "rps1"
+          "sourceGeohash4": "rps1",
+          "mediumPath": "_m/r/p/b/d/biak-wk/munara-wampasi-wandos-medium.webp",
+          "smallPath": "_m/r/p/b/d/biak-wk/munara-wampasi-wandos-small.webp"
         },
         {
           "path": "_m/r/p/s/1/papua-province-wp/29-kabupaten-papua.png",
@@ -462,7 +476,7 @@
           "smallPath": "_m/r/p/s/1/papua-province-wp/pantai-perbatasan-ri-dan-png-small.webp"
         },
         {
-          "path": "_m/r/p/s/1/papua-province-wp/langit-senja-di-jayapura.jpg",
+          "path": "_m/r/p/s/1/jayapura-wk/langit-senja-di-jayapura.jpg",
           "filename": "Langit senja di Jayapura.jpg",
           "caption": "Gambar menunjukkan pemandangan langit saat senja hari di entrop, bagian selatan kota Jayapura, Papua.",
           "alt": "Gambar menunjukkan pemandangan langit saat senja hari di entrop, bagian selatan kota Jayapura, Papua.",
@@ -474,7 +488,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Langit_senja_di_Jayapura.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "jayapura-wk",
-          "sourceGeohash4": "rps1"
+          "sourceGeohash4": "rps1",
+          "mediumPath": "_m/r/p/s/1/jayapura-wk/langit-senja-di-jayapura-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wk/langit-senja-di-jayapura-small.webp"
         },
         {
           "path": "_m/r/p/s/1/papua-province-wp/pegunungan-bhayangkara-jayapur.jpg",
@@ -559,7 +575,7 @@
           "smallPath": "_m/r/p/s/1/papua-province-wp/pantai-hamadi-small.webp"
         },
         {
-          "path": "_m/r/p/s/1/papua-province-wp/jayapura-bay-with-islands.jpg",
+          "path": "_m/r/p/s/1/jayapura-wk/jayapura-bay-with-islands.jpg",
           "filename": "Jayapura bay with islands.jpg",
           "caption": "A picture of Jayapura bay in Papua, Indonesia with island named Tahima Saroma and a hill named Kayubatu, taken from Swiss-belhotel Papua in Jayapura beach",
           "alt": "A picture of Jayapura bay in Papua, Indonesia with island named Tahima Saroma and a hill named Kayubatu, taken from Swiss-belhotel Papua in Jayapura beach",
@@ -571,7 +587,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jayapura_bay_with_islands.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "jayapura-wk",
-          "sourceGeohash4": "rps1"
+          "sourceGeohash4": "rps1",
+          "mediumPath": "_m/r/p/s/1/jayapura-wk/jayapura-bay-with-islands-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wk/jayapura-bay-with-islands-small.webp"
         },
         {
           "path": "_m/r/p/s/1/papua-province-wp/lski-lski-papua-provinsi-papua.jpg",
@@ -611,7 +629,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot A550"
-          ]
+          ],
+          "smallPath": "_m/r/p/s/1/jayapura-wp/jayapura1-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/jayapura3.jpg",
@@ -636,7 +655,9 @@
             "Night in Indonesia",
             "Self-published work",
             "Taken with Canon PowerShot A550"
-          ]
+          ],
+          "mediumPath": "_m/r/p/s/1/jayapura-wp/jayapura3-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/jayapura3-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/sentani-lake.jpg",
@@ -660,7 +681,9 @@
             "Lake Sentani",
             "Taken with Casio Exilim EX-Z60",
             "Uploaded by AVBirder"
-          ]
+          ],
+          "mediumPath": "_m/r/p/s/1/jayapura-wp/sentani-lake-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/sentani-lake-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/jayapura-banner-wv.jpg",
@@ -680,7 +703,9 @@
             "CC-BY-SA-3.0",
             "Derivative versions",
             "Wikivoyage banners of Indonesia"
-          ]
+          ],
+          "mediumPath": "_m/r/p/s/1/jayapura-wp/jayapura-banner-wv-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/jayapura-banner-wv-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/lake-emfote-jayapura-indonesia.jpg",
@@ -706,7 +731,9 @@
             "Northern New Guinea montane rain forests",
             "Self-published work",
             "Taken with Canon EOS-1D C"
-          ]
+          ],
+          "mediumPath": "_m/r/p/s/1/jayapura-wp/lake-emfote-jayapura-indonesia-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/lake-emfote-jayapura-indonesia-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/mendung-di-sentani-jayapura-pa.jpg",
@@ -727,7 +754,9 @@
             "Fences in Indonesia",
             "Images from Wiki Cinta Budaya 2018",
             "Jayapura"
-          ]
+          ],
+          "mediumPath": "_m/r/p/s/1/jayapura-wp/mendung-di-sentani-jayapura-pa-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/mendung-di-sentani-jayapura-pa-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/pic-001-02012018-harlembeach.jpg",
@@ -742,7 +771,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:PIC._001-02012018-harlembeach.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jayapura-wp",
-          "sourceGeohash4": "rps1"
+          "sourceGeohash4": "rps1",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/pic-001-02012018-harlembeach-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/hamadi-01.jpg",
@@ -757,7 +787,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamadi-01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jayapura-wp",
-          "sourceGeohash4": "rps1"
+          "sourceGeohash4": "rps1",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/hamadi-01-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/baseg-04.jpg",
@@ -772,7 +803,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BaseG-04.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jayapura-wp",
-          "sourceGeohash4": "rps1"
+          "sourceGeohash4": "rps1",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/baseg-04-small.webp"
         },
         {
           "path": "_m/r/p/s/1/jayapura-wp/jembatan-youtefa.jpg",
@@ -787,7 +819,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jembatan_Youtefa.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jayapura-wp",
-          "sourceGeohash4": "rps1"
+          "sourceGeohash4": "rps1",
+          "mediumPath": "_m/r/p/s/1/jayapura-wp/jembatan-youtefa-medium.webp",
+          "smallPath": "_m/r/p/s/1/jayapura-wp/jembatan-youtefa-small.webp"
         }
       ],
       "narration": [

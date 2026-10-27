@@ -3,24 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/s/p/beaufort-s-dyke-wp/hero.jpg",
-        "filename": "Beaufort's Dyke.jpg",
-        "caption": "Northern end of Beaufort's Dyke between Scotland and Ireland, highlighted in blue.",
-        "alt": "Northern end of Beaufort's Dyke between Scotland and Ireland, highlighted in blue.",
-        "width": 2000,
-        "height": 1372,
+        "path": "_m/g/c/s/p/beaufort-s-dyke-wp/nautical-chart-western.jpg",
+        "filename": "Beaufort's Dyke, cropped from Admiralty Chart No 1577, Published 1913.jpg",
+        "caption": "Nautical chart of the western approaches to the Firth of Clyde, at a scale of 1:298,000. Not current - not to be used for navigation!",
+        "alt": "Nautical chart of the western approaches to the Firth of Clyde, at a scale of 1:298,000. Not current - not to be used for navigation!",
+        "width": 4634,
+        "height": 3039,
         "mimeType": "image/jpeg",
         "license": "Public domain",
-        "artist": "K. St.B. Collins",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beaufort%27s_Dyke.jpg",
+        "artist": "H.E. Purey-Cust",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beaufort%27s_Dyke,_cropped_from_Admiralty_Chart_No_1577,_Published_1913.jpg",
         "sourceType": "core",
         "sourceArticleId": "beaufort-s-dyke-wp",
         "sourceGeohash4": "gcsp",
         "categories": [
+          "Admiralty Map Details",
           "Beaufort's Dyke",
-          "Derivative versions",
+          "Extracted images",
+          "North Channel",
+          "Old maps of Northern Ireland",
+          "Old maps of Scotland",
           "UK Government artistic works"
-        ]
+        ],
+        "mediumPath": "_m/g/c/s/p/beaufort-s-dyke-wp/nautical-chart-western-medium.webp",
+        "smallPath": "_m/g/c/s/p/beaufort-s-dyke-wp/nautical-chart-western-small.webp"
       },
       "images": [
         {
@@ -74,7 +80,7 @@
           "smallPath": "_m/g/c/s/p/beaufort-s-dyke-wp/map-showing-location-b-small.webp"
         },
         {
-          "path": "_m/g/c/s/p/beaufort-s-dyke-wp/admiralty-chart-no-2198-north-.jpg",
+          "path": "_m/g/c/g/b/larne-wk/admiralty-chart-no-2198-north-.jpg",
           "filename": "Admiralty Chart No 2198 North Channel southern part, Published 1969.jpg",
           "caption": "Nautical chart of the southern part of the North Channel, ar a scale of 1:75,000. Not current - not to be used for navigation!",
           "alt": "Nautical chart of the southern part of the North Channel, ar a scale of 1:75,000. Not current - not to be used for navigation!",
@@ -98,7 +104,9 @@
             "Maps of County Antrim",
             "Rhins of Galloway",
             "UK Government artistic works"
-          ]
+          ],
+          "mediumPath": "_m/g/c/g/b/larne-wk/admiralty-chart-no-2198-north--medium.webp",
+          "smallPath": "_m/g/c/g/b/larne-wk/admiralty-chart-no-2198-north--small.webp"
         },
         {
           "path": "_m/g/c/g/b/larne-wk/hero.png",
@@ -119,7 +127,8 @@
             "PD-old-70-expired",
             "Postcards of County Antrim",
             "The Gobbins"
-          ]
+          ],
+          "smallPath": "_m/g/c/g/b/larne-wk/hero-small.webp"
         },
         {
           "path": "_m/g/c/u/2/stranraer-wp/stranraer-castle.jpg",
@@ -139,7 +148,8 @@
             "CC-BY-2.0",
             "Flickr images reviewed by trusted users",
             "Stranraer Castle"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/2/stranraer-wp/stranraer-castle-small.webp"
         },
         {
           "path": "_m/g/c/u/2/stranraer-wp/saint-john-s-tower-stranraer.jpg",
@@ -160,7 +170,8 @@
             "Self-published work",
             "Stranraer Castle",
             "Taken with Nikon Coolpix 4600"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/2/stranraer-wp/saint-john-s-tower-stranraer-small.webp"
         },
         {
           "path": "_m/g/c/u/2/stranraer-wp/glenluce-abbey-kirkudbright-9.jpg",
@@ -190,7 +201,9 @@
             "United Kingdom photographs taken on 2018-07-23",
             "Uploaded via Campaign:wlm-gb-sct",
             "WLM-UK 2018 unfiltered 09-30"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/2/stranraer-wp/glenluce-abbey-kirkudbright-9-medium.webp",
+          "smallPath": "_m/g/c/u/2/stranraer-wp/glenluce-abbey-kirkudbright-9-small.webp"
         }
       ],
       "narration": [

@@ -3,31 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/e/f/p/baritu-national-park-wk/hero.jpg",
-        "filename": "Margaykat Leopardus wiedii.jpg",
-        "caption": "Margay cat (Leopardus wiedii)",
-        "alt": "Margay cat (Leopardus wiedii)",
-        "width": 1572,
-        "height": 1000,
+        "path": "_m/6/e/f/p/baritu-national-park-wk/parque-nacional-baritu.jpg",
+        "filename": "Parque Nacional Baritú.jpg",
+        "alt": "Parque Nacional Baritú.jpg",
+        "width": 2000,
+        "height": 2000,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Malene Thyssen (User Malene)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Margaykat_Leopardus_wiedii.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Barit%C3%BA.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "baritu-national-park-wk",
         "sourceGeohash4": "6efp",
         "categories": [
-          "CC-BY-SA-2.5",
-          "CC-BY-SA-3.0-migrated",
-          "Felidae in trees",
-          "GFDL",
-          "Images with extracted images",
-          "Leopardus wiedii",
-          "License migration redundant",
-          "Self-published work",
-          "Side views of Leopardus",
-          "Taken with Canon EOS 300D"
-        ]
+          "Baritú National Park",
+          "CC-AR-Presidency",
+          "CC-BY-SA-2.0",
+          "Files with no machine-readable author",
+          "Items with VRTS permission confirmed",
+          "Jaguars in art",
+          "Logos of national parks of Argentina",
+          "Media from the Presidency of Argentina",
+          "Tinctures not specified (nonSVG)"
+        ],
+        "mediumPath": "_m/6/e/f/p/baritu-national-park-wk/parque-nacional-baritu-medium.webp",
+        "smallPath": "_m/6/e/f/p/baritu-national-park-wk/parque-nacional-baritu-small.webp"
       },
       "images": [
         {
@@ -86,7 +85,8 @@
             "Pictures of the day (2005)",
             "Pilosa of Panama",
             "Taken with Ricoh Caplio G3"
-          ]
+          ],
+          "smallPath": "_m/d/4/e/w/rio-platano-biosphere-reserve-wk/three-toed-sloth-brady-small.webp"
         },
         {
           "path": "_m/6/x/m/q/amazon-rainforest-wk/panther-panthera-onca.jpg",
@@ -107,7 +107,8 @@
             "PD US FWS",
             "Panthera onca looking at viewer",
             "Standing Panthera onca"
-          ]
+          ],
+          "smallPath": "_m/6/x/m/q/amazon-rainforest-wk/panther-panthera-onca-small.webp"
         },
         {
           "path": "_m/6/e/f/p/baritu-national-park-wp/spectacled-bear-059.jpg",
@@ -129,7 +130,9 @@
             "License migration redundant",
             "Self-published work",
             "Tremarctos ornatus in Cincinnati Zoo"
-          ]
+          ],
+          "mediumPath": "_m/6/e/f/p/baritu-national-park-wp/spectacled-bear-059-medium.webp",
+          "smallPath": "_m/6/e/f/p/baritu-national-park-wp/spectacled-bear-059-small.webp"
         }
       ],
       "narration": [

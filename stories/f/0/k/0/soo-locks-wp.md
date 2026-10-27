@@ -37,7 +37,7 @@ The Soo Locks are located at 46.503N, 84.350W on the St. Marys River at Sault St
 ## Sources
 
 - [Soo Locks - Wikipedia](https://en.wikipedia.org/?curid=367986)
-- [Wikipedia - Soo Locks](https://en.wikipedia.org/wiki/Soo_Locks)
+- [Wikipedia - Soo Locks](https://en.wikipedia.org/?curid=367986)
   - First U.S. lock opened May 1855
   - 21-foot drop between Lake Superior and Lake Huron confirmed
   - North West Company lock built 1797-1798, destroyed during War of 1812

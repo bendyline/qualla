@@ -3,30 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/x/k/8/sedef-island-wp/hero.jpg",
-        "filename": "A view from Buyukada.JPG",
-        "caption": "A view of an island (Sedef Adası) from Büyükada island.",
-        "alt": "A view of an island (Sedef Adası) from Büyükada island.",
-        "width": 3648,
-        "height": 2736,
+        "path": "_m/s/x/k/8/sedef-island-wp/island-of-sedef-from-buyukada.jpg",
+        "filename": "Island of Sedef from Büyükada.jpg",
+        "caption": "Island of Sedef from Büyükada, Prince Islands, Istanbul, Turkey.",
+        "alt": "Island of Sedef from Büyükada, Prince Islands, Istanbul, Turkey.",
+        "width": 5827,
+        "height": 3875,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Maher27777",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_from_Buyukada.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Maurice Flesier",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Island_of_Sedef_from_B%C3%BCy%C3%BCkada.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "sedef-island-wp",
         "sourceGeohash4": "sxk8",
         "categories": [
-          "Büyükada",
-          "PD-self",
+          "CC-BY-SA-4.0",
           "Sedef Adası",
           "Self-published work",
-          "Taken with Sony DSC-S2000"
-        ]
+          "Turkey photographs taken on 2022-03-30"
+        ],
+        "mediumPath": "_m/s/x/k/8/sedef-island-wp/island-of-sedef-from-buyukada-medium.webp",
+        "smallPath": "_m/s/x/k/8/sedef-island-wp/island-of-sedef-from-buyukada-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/x/k/8/sedef-island-wp/satellite-map-en-princ.png",
+          "path": "_m/s/x/k/8/k-nal-ada-wp/satellite-map-en-princ.png",
           "filename": "Princes Islands.png",
           "caption": "Satellite map of en:Princes' Islands, with a wider map of en:Sea of Marmara",
           "alt": "Satellite map of en:Princes' Islands, with a wider map of en:Sea of Marmara",
@@ -48,7 +49,8 @@
             "Princes' Islands",
             "Satellite pictures of Turkey",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/x/k/8/k-nal-ada-wp/satellite-map-en-princ-small.webp"
         },
         {
           "path": "_m/s/x/k/8/sedef-island-wp/princesislands.jpg",
@@ -183,7 +185,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Kodak EasyShare DX7590"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pr/in/ce/s-/princes-islands/adalar-5546-medium.webp",
+          "smallPath": "_m/tpc/pr/in/ce/s-/princes-islands/adalar-5546-small.webp"
         },
         {
           "path": "_m/tpc/pr/in/ce/s-/princes-islands/john-the-orphanotrophos-exiles.jpg",
@@ -207,7 +211,8 @@
             "PD-Art (PD-old-100)",
             "PD-Art missing SDC copyright status",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "smallPath": "_m/tpc/pr/in/ce/s-/princes-islands/john-the-orphanotrophos-exiles-small.webp"
         },
         {
           "path": "_m/tpc/pr/in/ce/s-/princes-islands/princes-island-banner2.jpg",
@@ -227,7 +232,9 @@
             "CC-Zero",
             "Images from Pixabay",
             "Wikivoyage banners of Istanbul"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pr/in/ce/s-/princes-islands/princes-island-banner2-medium.webp",
+          "smallPath": "_m/tpc/pr/in/ce/s-/princes-islands/princes-island-banner2-small.webp"
         },
         {
           "path": "_m/tpc/pr/in/ce/s-/princes-islands/halki-seminary-cropped.jpg",
@@ -250,7 +257,9 @@
             "Halki seminary",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pr/in/ce/s-/princes-islands/halki-seminary-cropped-medium.webp",
+          "smallPath": "_m/tpc/pr/in/ce/s-/princes-islands/halki-seminary-cropped-small.webp"
         },
         {
           "path": "_m/tpc/pr/in/ce/s-/princes-islands/is-bank-clock-tower.jpg",
@@ -278,7 +287,9 @@
             "Self-published work",
             "Turkey photographs taken on 2022-01-06",
             "Uploaded via Campaign:wle-tr"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pr/in/ce/s-/princes-islands/is-bank-clock-tower-medium.webp",
+          "smallPath": "_m/tpc/pr/in/ce/s-/princes-islands/is-bank-clock-tower-small.webp"
         },
         {
           "path": "_m/tpc/pr/in/ce/s-/princes-islands/buyukadamainsquare.jpg",
@@ -299,7 +310,9 @@
             "Files with coordinates missing SDC location of creation",
             "July 2022 in Istanbul",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pr/in/ce/s-/princes-islands/buyukadamainsquare-medium.webp",
+          "smallPath": "_m/tpc/pr/in/ce/s-/princes-islands/buyukadamainsquare-small.webp"
         },
         {
           "path": "_m/tpc/pr/in/ce/s-/princes-islands/boyuk-ada.jpg",
@@ -314,7 +327,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BOYUK_ADA.jpg",
           "sourceType": "poi",
           "sourceArticleId": "princes-islands",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/pr/in/ce/s-/princes-islands/boyuk-ada-small.webp"
         },
         {
           "path": "_m/tpc/pr/in/ce/s-/princes-islands/istanbul-tr-burgazada-kirche-a.jpg",
@@ -329,7 +343,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Istanbul_(TR),_Burgazada,_Kirche_%22Aya_Yani%22_--_2024_--_0802.jpg",
           "sourceType": "poi",
           "sourceArticleId": "princes-islands",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/pr/in/ce/s-/princes-islands/istanbul-tr-burgazada-kirche-a-medium.webp",
+          "smallPath": "_m/tpc/pr/in/ce/s-/princes-islands/istanbul-tr-burgazada-kirche-a-small.webp"
         },
         {
           "path": "_m/tpc/pr/in/ce/s-/princes-islands/prinkipo-greek-orthodox-orphan.jpg",
@@ -344,7 +360,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prinkipo_Greek_Orthodox_Orphanage_building_from_under_the_hill,_2024.jpg",
           "sourceType": "poi",
           "sourceArticleId": "princes-islands",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/pr/in/ce/s-/princes-islands/prinkipo-greek-orthodox-orphan-medium.webp",
+          "smallPath": "_m/tpc/pr/in/ce/s-/princes-islands/prinkipo-greek-orthodox-orphan-small.webp"
         },
         {
           "path": "_m/tpc/pr/in/ce/s-/princes-islands/abandoned-house-on-buyukada.jpg",
@@ -359,7 +377,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abandoned_house_on_B%C3%BCy%C3%BCkada.jpg",
           "sourceType": "poi",
           "sourceArticleId": "princes-islands",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/pr/in/ce/s-/princes-islands/abandoned-house-on-buyukada-small.webp"
         },
         {
           "path": "_m/tpc/pr/in/ce/s-/princes-islands/image-11.jpg",
@@ -374,7 +393,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E1%83%AC%E1%83%9B%E1%83%98%E1%83%9C%E1%83%93%E1%83%90_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%9D%E1%83%9C%E1%83%90%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%98%E1%83%A1_%E1%83%AE%E1%83%90%E1%83%A2%E1%83%94%E1%83%91%E1%83%98._%E1%83%91%E1%83%A3%E1%83%98%E1%83%A3%E1%83%99%E1%83%90%E1%83%93%E1%83%90.jpg",
           "sourceType": "poi",
           "sourceArticleId": "princes-islands",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/pr/in/ce/s-/princes-islands/image-11-small.webp"
         }
       ],
       "narration": [

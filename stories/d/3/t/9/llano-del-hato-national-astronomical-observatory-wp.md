@@ -34,7 +34,7 @@ The Llano del Hato National Astronomical Observatory is located at 8.786N, 70.87
 
 - [Llano del Hato National Astronomical Observatory - Wikipedia](https://en.wikipedia.org/?curid=3718181)
 - [Centro de Investigaciones de Astronomia](https://en.wikipedia.org/wiki/Centro_de_Investigaciones_de_Astronomia)
-- [Llano del Hato National Astronomical Observatory - Wikipedia](https://en.wikipedia.org/wiki/Llano_del_Hato_National_Astronomical_Observatory)
+- [Llano del Hato National Astronomical Observatory - Wikipedia](https://en.wikipedia.org/?curid=3718181)
   - Observatory at 3,600 meters elevation - confirmed
   - Closest major optical observatory to equator at 8 degrees 47 minutes north latitude - confirmed
   - 50 minor planets discovered, credited to Naranjo, Stock, Ferrin, and Leal - confirmed

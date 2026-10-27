@@ -56,7 +56,7 @@ Located at 29.692N, 98.343W in Comal County, about 18 miles northeast of downtow
   - Largest commercial caverns in Texas confirmed
   - NNL designation 1971 confirmed
   - Artifacts dating to 5000 BCE confirmed
-- [Wikipedia - Natural Bridge Caverns](https://en.wikipedia.org/wiki/Natural_Bridge_Caverns)
+- [Wikipedia - Natural Bridge Caverns](https://en.wikipedia.org/?curid=317704)
   - Jaremy Room 1967 discovery confirmed
   - JA-RE-MY name origin from Jack Reggie Myles confirmed
   - May 2019 new exploration confirmed

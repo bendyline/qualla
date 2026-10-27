@@ -3,32 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/d/q/d/r/assateague-light-wp/hero.jpg",
-        "filename": "Chincoteague National Wildlife Refuge 1.jpg",
-        "caption": "Chincoteague National Wildlife Refuge on Assateague Island, Virginia showing the Assateague Channel with the Assateague Light in the distance.  Photograph taken in May 2008 from Maddox Boulevard facing south, showing the north side of the island.",
-        "alt": "Chincoteague National Wildlife Refuge on Assateague Island, Virginia showing the Assateague Channel with the Assateague Light in the distance.  Photograph taken in May 2008 from Maddox Boulevard facing south, showing the north side of the island.",
-        "width": 3072,
-        "height": 2304,
+        "path": "_m/d/q/d/r/assateague-light-wp/assateague-island-ligh.jpg",
+        "filename": "Assateague Lighthouse donors plaque.jpg",
+        "caption": "Assateague Island Lighthouse plaque set in 2013",
+        "alt": "Assateague Island Lighthouse plaque set in 2013",
+        "width": 4912,
+        "height": 3264,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Leonard J. DeFrancisci",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chincoteague_National_Wildlife_Refuge_1.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Geraldshields11",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Assateague_Lighthouse_donors_plaque.jpg",
         "sourceType": "core",
         "sourceArticleId": "assateague-light-wp",
         "sourceGeohash4": "dqdr",
         "categories": [
           "Assateague Lighthouse",
-          "CC-BY-SA-3.0",
-          "Chincoteague National Wildlife Refuge",
-          "GFDL",
-          "License migration redundant",
-          "Self-published work",
-          "Taken with Canon Digital IXUS 700"
-        ]
+          "CC-BY-SA-4.0",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/d/q/d/r/assateague-light-wp/assateague-island-ligh-medium.webp",
+        "smallPath": "_m/d/q/d/r/assateague-light-wp/assateague-island-ligh-small.webp"
       },
       "images": [
         {
-          "path": "_m/d/q/d/r/assateague-light-wp/virginia-beach-va-apr.jpg",
+          "path": "_m/d/q/9/f/cape-henry-lighthouses-wp/virginia-beach-va-apr.jpg",
           "filename": "Fort Story lighthouse.jpg",
           "caption": "Virginia Beach, Va. (Apr. 30, 2001) — USS Theodore Roosevelt (CVN-71) passes by the Fort Story Lighthouse on the coast of Virginia Beach, Va., after returning from sea trials.",
           "alt": "Virginia Beach, Va. (Apr. 30, 2001) — USS Theodore Roosevelt (CVN-71) passes by the Fort Story Lighthouse on the coast of Virginia Beach, Va., after returning from sea trials.",
@@ -50,10 +48,11 @@
             "National Register of Historic Places with known IDs",
             "PD US Navy",
             "Photographs by Eric A. Clement"
-          ]
+          ],
+          "smallPath": "_m/d/q/9/f/cape-henry-lighthouses-wp/virginia-beach-va-apr-small.webp"
         },
         {
-          "path": "_m/d/q/d/r/assateague-light-wp/assateaguelighthouse.jpg",
+          "path": "_m/d/q/c/m/maryland-wp/assateaguelighthouse.jpg",
           "filename": "AssateagueLighthouse.jpg",
           "caption": "Assateague Lighthouse, Aug 2007",
           "alt": "Assateague Lighthouse, Aug 2007",
@@ -72,7 +71,8 @@
             "National Register of Historic Places with known IDs",
             "PD-user",
             "Taken with Canon PowerShot A75"
-          ]
+          ],
+          "smallPath": "_m/d/q/c/m/maryland-wp/assateaguelighthouse-small.webp"
         },
         {
           "path": "_m/d/q/d/r/assateague-light-wp/assateague-island-ligh.jpg",
@@ -248,7 +248,9 @@
             "Self-published work",
             "Taken with Olympus C-900Z / D-400Z",
             "WLM 2012 United States reviewed"
-          ]
+          ],
+          "mediumPath": "_m/d/q/d/r/assateague-light-wp/assateague-lighthouse-medium.webp",
+          "smallPath": "_m/d/q/d/r/assateague-light-wp/assateague-lighthouse-small.webp"
         },
         {
           "path": "_m/d/q/d/r/assateague-light-wp/assateague-lighthouse-march-20.jpg",

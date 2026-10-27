@@ -26,7 +26,7 @@ In 2023, the Noah Purifoy Foundation — which Purifoy himself organized before 
 
 ## Flight Context
 
-Located at 34.20°N, 116.29°W near Joshua Tree, California, north of the national park entrance. The sculpture field is identifiable from low altitude as an irregular pattern of large objects on open desert terrain. Joshua Tree National Park is visible to the southeast. Nearest airports: Twentynine Palms (TNP) ~15 miles east, Desert Resorts Regional (PSP) ~30 miles south.
+Located at 34.20°N, 116.29°W near Joshua Tree, California, north of the national park entrance. The sculpture field is identifiable from low altitude as an irregular pattern of large objects on open desert terrain. Joshua Tree National Park is visible to the southeast. Nearest airports: Twentynine Palms (TNP) ~15 miles east, Palm Springs International (PSP) ~30 miles south.
 
 ## Sources
 

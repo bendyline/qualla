@@ -3,33 +3,36 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/f/q/3/assab-wp/hero.jpg",
-        "filename": "Africa relief location map.jpg",
-        "caption": "Blank physical map of political Africa, for geo-location purposes. Borders as in July 2011.",
-        "alt": "Blank physical map of political Africa, for geo-location purposes. Borders as in July 2011.",
-        "width": 1525,
-        "height": 1440,
+        "path": "_m/s/f/q/3/assab-wp/iss022-e-11416-view-of-eritrea.jpg",
+        "filename": "ISS022-E-11416 - View of Eritrea.jpg",
+        "caption": "View of Eritrea taken during ISS Expedition 22.",
+        "alt": "View of Eritrea taken during ISS Expedition 22.",
+        "width": 4288,
+        "height": 2848,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Eric Gaba (Sting - fr:Sting)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Africa_relief_location_map.jpg",
-        "sourceType": "core",
+        "license": "Public domain",
+        "artist": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ISS022-E-11416_-_View_of_Eritrea.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "assab-wp",
         "sourceGeohash4": "sfq3",
         "categories": [
-          "Blank political maps of Africa",
-          "CC-BY-SA-3.0",
-          "Files with coordinates missing SDC location of creation",
-          "GFDL",
-          "License migration redundant",
-          "Location maps of Africa",
-          "Map Lab-fr",
-          "Self-published work"
-        ]
+          "Assab",
+          "Files from NASA with known IDs",
+          "ISS Expedition 22 Crew Earth Observations (dump)",
+          "ISS photographs taken on 2009-12-15",
+          "Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
+          "Images with annotations",
+          "PD NASA",
+          "Satellite pictures of Eritrea",
+          "Taken with Nikon D2Xs"
+        ],
+        "mediumPath": "_m/s/f/q/3/assab-wp/iss022-e-11416-view-of-eritrea-medium.webp",
+        "smallPath": "_m/s/f/q/3/assab-wp/iss022-e-11416-view-of-eritrea-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/f/q/3/assab-wp/physical-map-horn-afri.jpg",
+          "path": "_m/t/1/9/8/las-anod-wp/physical-map-horn-afri.jpg",
           "filename": "Horn of Africa relief location map.jpg",
           "caption": "Physical map of the Horn of Africa, for geolocation purposes",
           "alt": "Physical map of the Horn of Africa, for geolocation purposes",
@@ -47,7 +50,8 @@
             "Location maps of Africa",
             "Maps of the Horn of Africa",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/t/1/9/8/las-anod-wp/physical-map-horn-afri-small.webp"
         },
         {
           "path": "_m/s/f/q/3/assab-wp/iss016-e-10800-view-of-eritrea.jpg",
@@ -183,7 +187,8 @@
             "Files uploaded by User:Atamari",
             "Flickr images reviewed by trusted users",
             "Taken with Pentax Optio S4i"
-          ]
+          ],
+          "smallPath": "_m/tpc/as/sa/b_/__/assab/roman-catholic-cathedral-of-as-small.webp"
         },
         {
           "path": "_m/tpc/er/it/re/a_/eritrea/keren-2008-11-01.jpg",
@@ -212,7 +217,9 @@
             "Taken on missing SDC inception",
             "Taken with Sony DSC-P12",
             "Views of Keren"
-          ]
+          ],
+          "mediumPath": "_m/tpc/er/it/re/a_/eritrea/keren-2008-11-01-medium.webp",
+          "smallPath": "_m/tpc/er/it/re/a_/eritrea/keren-2008-11-01-small.webp"
         },
         {
           "path": "_m/tpc/er/it/re/a_/eritrea/asmara-street.jpg",
@@ -238,7 +245,9 @@
             "Streets in Asmara",
             "Taken with Sony DSC-N1",
             "Utility poles in Asmara"
-          ]
+          ],
+          "mediumPath": "_m/tpc/er/it/re/a_/eritrea/asmara-street-medium.webp",
+          "smallPath": "_m/tpc/er/it/re/a_/eritrea/asmara-street-small.webp"
         },
         {
           "path": "_m/tpc/er/it/re/a_/eritrea/historic-center-massawa-panora.jpg",
@@ -260,7 +269,9 @@
             "Red Sea",
             "Self-published work",
             "Taken with Canon PowerShot SX120 IS"
-          ]
+          ],
+          "mediumPath": "_m/tpc/er/it/re/a_/eritrea/historic-center-massawa-panora-medium.webp",
+          "smallPath": "_m/tpc/er/it/re/a_/eritrea/historic-center-massawa-panora-small.webp"
         },
         {
           "path": "_m/tpc/er/it/re/a_/eritrea/eritrea-regions-map.png",
@@ -280,7 +291,9 @@
             "21st-century maps of Eritrea",
             "CC-BY-3.0",
             "Files from Wikivoyage wts"
-          ]
+          ],
+          "mediumPath": "_m/tpc/er/it/re/a_/eritrea/eritrea-regions-map-medium.webp",
+          "smallPath": "_m/tpc/er/it/re/a_/eritrea/eritrea-regions-map-small.webp"
         },
         {
           "path": "_m/tpc/er/it/re/a_/eritrea/busy-street-8384454522.jpg",
@@ -295,7 +308,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busy_Street_(8384454522).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "eritrea",
-          "sourceGeohash4": "sfq3"
+          "sourceGeohash4": "sfq3",
+          "smallPath": "_m/tpc/er/it/re/a_/eritrea/busy-street-8384454522-small.webp"
         },
         {
           "path": "_m/tpc/er/it/re/a_/eritrea/asmara-8351468351.jpg",
@@ -310,7 +324,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asmara_(8351468351).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "eritrea",
-          "sourceGeohash4": "sfq3"
+          "sourceGeohash4": "sfq3",
+          "smallPath": "_m/tpc/er/it/re/a_/eritrea/asmara-8351468351-small.webp"
         },
         {
           "path": "_m/tpc/as/sa/b_/__/assab/nakfa-village.jpg",
@@ -325,7 +340,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nakfa_Village.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "assab",
-          "sourceGeohash4": "tpc/as/sa/b_/__"
+          "sourceGeohash4": "tpc/as/sa/b_/__",
+          "smallPath": "_m/tpc/as/sa/b_/__/assab/nakfa-village-small.webp"
         },
         {
           "path": "_m/tpc/er/it/re/a_/eritrea/fiat-tagliero-09.jpg",
@@ -340,7 +356,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fiat_tagliero,_09.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "eritrea",
-          "sourceGeohash4": "sfq3"
+          "sourceGeohash4": "sfq3",
+          "mediumPath": "_m/tpc/er/it/re/a_/eritrea/fiat-tagliero-09-medium.webp",
+          "smallPath": "_m/tpc/er/it/re/a_/eritrea/fiat-tagliero-09-small.webp"
         },
         {
           "path": "_m/tpc/as/sa/b_/__/assab/massicci-nei-dintorni-di-senaf.jpg",
@@ -355,7 +373,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Massicci_nei_dintorni_di_senaf%C3%A9,_11.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "assab",
-          "sourceGeohash4": "tpc/as/sa/b_/__"
+          "sourceGeohash4": "tpc/as/sa/b_/__",
+          "mediumPath": "_m/tpc/as/sa/b_/__/assab/massicci-nei-dintorni-di-senaf-medium.webp",
+          "smallPath": "_m/tpc/as/sa/b_/__/assab/massicci-nei-dintorni-di-senaf-small.webp"
         },
         {
           "path": "_m/tpc/er/it/re/a_/eritrea/balaw-kalaw-metera-stele-axumi.jpg",
@@ -370,7 +390,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balaw_Kalaw_(metera),_stele_axumita_05.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "eritrea",
-          "sourceGeohash4": "sfq3"
+          "sourceGeohash4": "sfq3",
+          "mediumPath": "_m/tpc/er/it/re/a_/eritrea/balaw-kalaw-metera-stele-axumi-medium.webp",
+          "smallPath": "_m/tpc/er/it/re/a_/eritrea/balaw-kalaw-metera-stele-axumi-small.webp"
         },
         {
           "path": "_m/tpc/er/it/re/a_/eritrea/asmarainternationalairport.jpg",
@@ -385,7 +407,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:AsmaraInternationalAirport.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "eritrea",
-          "sourceGeohash4": "sfq3"
+          "sourceGeohash4": "sfq3",
+          "mediumPath": "_m/tpc/er/it/re/a_/eritrea/asmarainternationalairport-medium.webp",
+          "smallPath": "_m/tpc/er/it/re/a_/eritrea/asmarainternationalairport-small.webp"
         },
         {
           "path": "_m/tpc/er/it/re/a_/eritrea/debre-bizen.jpg",
@@ -400,7 +424,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Debre_Bizen.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "eritrea",
-          "sourceGeohash4": "sfq3"
+          "sourceGeohash4": "sfq3",
+          "mediumPath": "_m/tpc/er/it/re/a_/eritrea/debre-bizen-medium.webp",
+          "smallPath": "_m/tpc/er/it/re/a_/eritrea/debre-bizen-small.webp"
         },
         {
           "path": "_m/tpc/er/it/re/a_/eritrea/dahlak-islands-iss042.jpg",
@@ -415,7 +441,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dahlak_Islands_ISS042.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "eritrea",
-          "sourceGeohash4": "sfq3"
+          "sourceGeohash4": "sfq3",
+          "mediumPath": "_m/tpc/er/it/re/a_/eritrea/dahlak-islands-iss042-medium.webp",
+          "smallPath": "_m/tpc/er/it/re/a_/eritrea/dahlak-islands-iss042-small.webp"
         }
       ],
       "narration": [

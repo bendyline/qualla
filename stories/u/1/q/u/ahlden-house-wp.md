@@ -36,7 +36,7 @@ Ahlden House stands at approximately 52.7592N, 9.5579E, on the southern edge of 
 
 ## Sources
 
-- [Ahlden House - Wikipedia](https://en.wikipedia.org/wiki/Ahlden_House)
+- [Ahlden House - Wikipedia](https://en.wikipedia.org/?curid=1706364)
   - Built 1549 as a water castle on the Aller at Ahlden, Lüneburg Heath, Lower Saxony; now a private residence and art auction house
   - Bunkenburg, a 13th-century castle opposite, now in ruins
   - 1618 flood shifted the Aller east; downstream embankment sent the Leine through the old bed; 'Old Leine' a partly dried oxbow since 1648

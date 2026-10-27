@@ -42,7 +42,7 @@ The Eden filming site at Cul na Croise sits on the Ardnamurchan peninsula in wes
   - Section 11 Land Reform Act 2003 used confirmed
   - Eden: Paradise Lost premiered 7 August 2017 confirmed
   - Corrected: 'Inverailort' changed to 'Cul na Croise' as the filming site on the Ardnamurchan Estate
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Eden_(2016_TV_series))
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=51109648)
   - Restored an ellipsis in the quoted Guardian (Phil Harrison) review of Eden: Paradise Lost - the story had joined two non-adjacent fragments ('Eden is back ... oddly compelling') as continuous verbatim text; corrected to mark the omitted words, verified against the cited Wikipedia reproduction of the quote
 
 ## Review Notes

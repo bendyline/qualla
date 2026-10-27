@@ -35,7 +35,7 @@ The Battle of the Overpass site is at 42.308N, 83.156W, on the Miller Road pedes
 - [Battle of the Overpass - Wikipedia](https://en.wikipedia.org/?curid=1524926)
 - [How the Ford Motor Company Won a Battle and Lost Ground](https://www.smithsonianmag.com/history/how-the-ford-motor-company-won-a-battle-and-lost-ground-45814533/)
 - [The Battle of the Overpass](https://reuther.wayne.edu/ex/exhibits/battle.html)
-- [Battle of the Overpass - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_the_Overpass)
+- [Battle of the Overpass - Wikipedia](https://en.wikipedia.org/?curid=1524926)
   - Attack occurred May 26, 1937 confirmed
   - Walter Reuther and Richard Frankensteen present confirmed
   - Ford River Rouge employed ~90,000 workers confirmed

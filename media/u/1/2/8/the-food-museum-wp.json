@@ -3,25 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/2/8/the-food-museum-wp/hero.jpg",
-        "filename": "Abbot's Hall, Stowmarket.JPG",
-        "caption": "Abbots Hall, at the Museum of East Anglian Life, Stowmarket, Suffolk",
-        "alt": "Abbots Hall, at the Museum of East Anglian Life, Stowmarket, Suffolk",
-        "width": 3166,
-        "height": 2365,
+        "path": "_m/u/1/2/8/the-food-museum-wp/edgar-s-farmhouse-muse.jpg",
+        "filename": "Edgar's Farmhouse, interior 1.JPG",
+        "caption": "Edgar's Farmhouse, Museum of East Anglian Life, Stowmarket, Suffolk",
+        "alt": "Edgar's Farmhouse, Museum of East Anglian Life, Stowmarket, Suffolk",
+        "width": 2448,
+        "height": 3264,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
         "artist": "Martinevans123",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abbot%27s_Hall,_Stowmarket.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edgar%27s_Farmhouse,_interior_1.JPG",
         "sourceType": "core",
         "sourceArticleId": "the-food-museum-wp",
         "sourceGeohash4": "u128",
         "categories": [
-          "Abbot's Hall, Stowmarket",
           "CC-BY-SA-4.0",
-          "Museum of East Anglian Life",
+          "Edgar's Farm, Stowmarket",
+          "Museums in the United Kingdom photographed in 2015",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/u/1/2/8/the-food-museum-wp/edgar-s-farmhouse-muse-medium.webp",
+        "smallPath": "_m/u/1/2/8/the-food-museum-wp/edgar-s-farmhouse-muse-small.webp"
       },
       "images": [
         {
@@ -409,7 +411,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "United Kingdom photographs taken on 2010-05-03"
-          ]
+          ],
+          "smallPath": "_m/u/1/2/8/stowmarket-wk/falmouth-docks-number-3-middy-small.webp"
         },
         {
           "path": "_m/u/1/2/8/stowmarket-wk/st-peter-and-st-mary-s-church-.jpg",
@@ -431,7 +434,9 @@
             "Church towers in Suffolk",
             "Self-published work",
             "St Peter and St Mary, Stowmarket"
-          ]
+          ],
+          "mediumPath": "_m/u/1/2/8/stowmarket-wk/st-peter-and-st-mary-s-church--medium.webp",
+          "smallPath": "_m/u/1/2/8/stowmarket-wk/st-peter-and-st-mary-s-church--small.webp"
         },
         {
           "path": "_m/u/1/2/8/suffolk-wp/brandon-high-street.jpg",
@@ -457,7 +462,9 @@
             "Self-published work",
             "Shops in Brandon, Suffolk",
             "Taken with Sony DSC-N2"
-          ]
+          ],
+          "mediumPath": "_m/u/1/2/8/suffolk-wp/brandon-high-street-medium.webp",
+          "smallPath": "_m/u/1/2/8/suffolk-wp/brandon-high-street-small.webp"
         },
         {
           "path": "_m/u/1/2/8/suffolk-wp/felixstowe-beach-suffolk-engla.jpg",
@@ -480,7 +487,8 @@
             "Files from Martin Pettitt Flickr stream",
             "Flickr images uploaded by Flickr upload bot",
             "Taken with Sony DSLR-A100"
-          ]
+          ],
+          "smallPath": "_m/u/1/2/8/suffolk-wp/felixstowe-beach-suffolk-engla-small.webp"
         },
         {
           "path": "_m/u/1/2/8/suffolk-wp/halesworth-church-of-st-mary-t.jpg",
@@ -504,7 +512,9 @@
             "Images from Geograph Britain and Ireland",
             "St Mary the Virgin, Halesworth",
             "United Kingdom photographs taken on 2009-03-03"
-          ]
+          ],
+          "mediumPath": "_m/u/1/2/8/suffolk-wp/halesworth-church-of-st-mary-t-medium.webp",
+          "smallPath": "_m/u/1/2/8/suffolk-wp/halesworth-church-of-st-mary-t-small.webp"
         },
         {
           "path": "_m/u/1/2/8/suffolk-wp/harbour-inn-lowestoft-13th-jun.jpg",
@@ -526,7 +536,9 @@
             "Self-published work",
             "The Harbour Inn, Lowestoft",
             "United Kingdom photographs taken on 2009-06-13"
-          ]
+          ],
+          "mediumPath": "_m/u/1/2/8/suffolk-wp/harbour-inn-lowestoft-13th-jun-medium.webp",
+          "smallPath": "_m/u/1/2/8/suffolk-wp/harbour-inn-lowestoft-13th-jun-small.webp"
         },
         {
           "path": "_m/u/1/2/8/suffolk-wp/bury-st-edmunds-city-center.jpg",
@@ -549,7 +561,8 @@
             "Self-published work",
             "Shops in Bury St Edmunds",
             "Streets in Bury St Edmunds"
-          ]
+          ],
+          "smallPath": "_m/u/1/2/8/suffolk-wp/bury-st-edmunds-city-center-small.webp"
         },
         {
           "path": "_m/u/1/2/8/suffolk-wp/high-street-debenham-geograph-.jpg",
@@ -564,7 +577,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:High_Street,_Debenham_-_geograph.org.uk_-_1230269.jpg",
           "sourceType": "poi",
           "sourceArticleId": "suffolk-wp",
-          "sourceGeohash4": "u128"
+          "sourceGeohash4": "u128",
+          "smallPath": "_m/u/1/2/8/suffolk-wp/high-street-debenham-geograph--small.webp"
         },
         {
           "path": "_m/u/1/2/8/suffolk-wp/clear-sky-afternoon-on-the-ips.jpg",
@@ -579,7 +593,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clear_sky_afternoon_on_the_Ipswich_Waterfront.jpg",
           "sourceType": "poi",
           "sourceArticleId": "suffolk-wp",
-          "sourceGeohash4": "u128"
+          "sourceGeohash4": "u128",
+          "mediumPath": "_m/u/1/2/8/suffolk-wp/clear-sky-afternoon-on-the-ips-medium.webp",
+          "smallPath": "_m/u/1/2/8/suffolk-wp/clear-sky-afternoon-on-the-ips-small.webp"
         }
       ],
       "narration": [

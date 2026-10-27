@@ -47,7 +47,7 @@ The site lies in the La Reina commune of eastern Santiago, at roughly 33.44 degr
   - Judge Víctor Montiglio spelling confirmed (not 'Motiglio')
   - Jorgelino Vergara Bravo testified in 2007 confirmed
   - Case led to prosecution of DINA agents confirmed
-- [El Mocito documentary - La Tercera / Wikipedia](https://en.wikipedia.org/wiki/Cuartel_Sim%C3%B3n_Bol%C3%ADvar)
+- [El Mocito documentary - La Tercera / Wikipedia](https://en.wikipedia.org/?curid=74825138)
   - Documentary El Mocito released 2011 confirmed
   - Title translates as 'The Young Butler' confirmed
   - Documentary directed by Marcela Said and Jean de Certeau

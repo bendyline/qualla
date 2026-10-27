@@ -47,7 +47,7 @@ The Channon lies at roughly 28.67 degrees south, 153.28 degrees east, about 18 k
   - Protest led NSW government to halt commercial logging in wet rainforests — confirmed
 - [Aquarius Festival - Wikipedia](https://en.wikipedia.org/wiki/Aquarius_Festival)
   - 1973 Aquarius Festival held in Nimbin — confirmed correct
-- [The Channon, New South Wales - Wikipedia](https://en.wikipedia.org/wiki/The_Channon)
+- [The Channon, New South Wales - Wikipedia](https://en.wikipedia.org/?curid=8768271)
   - Settlement became The Channon in 1908 — consistent with article
   - Butter factory opened 1913, closed 1946 — consistent with article
   - Widjabal people as traditional owners of the land — confirmed

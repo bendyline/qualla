@@ -33,7 +33,7 @@ Located at 35.146N, 136.158E on Mount Kinugasa (433m) near the eastern shore of 
 ## Sources
 
 - [Kannonji Castle - Wikipedia](https://en.wikipedia.org/?curid=13904022)
-- [Kannonji Castle - Wikipedia](https://en.wikipedia.org/wiki/Kannonji_Castle)
+- [Kannonji Castle - Wikipedia](https://en.wikipedia.org/?curid=13904022)
   - Castle constructed during 14th century by Rokkaku clan confirmed
   - Rokkaku are cadet branch of Sasaki clan confirmed
   - Rokkaku held shugo of Omi Province but controlled only southern half confirmed

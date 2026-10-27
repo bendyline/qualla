@@ -36,7 +36,7 @@ The battlefield lies at 52.35 N, 13.30 E, about 18 km south of central Berlin on
 
 ## Sources
 
-- [Battle of Großbeeren - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Gro%C3%9Fbeeren)
+- [Battle of Großbeeren - Wikipedia](https://en.wikipedia.org/?curid=2934328)
 - [Schlacht bei Großbeeren - Wikipedia (German)](https://de.wikipedia.org/wiki/Schlacht_bei_Gro%C3%9Fbeeren)
   - torrential rain on 23 August 1813 made flintlock mechanisms unusable on both sides
   - an East Prussian reserve regiment untrained in bayonet fighting used musket butts and was nicknamed 'Hacketäuer'

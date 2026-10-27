@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/7/9/gooi-wp/hero.jpg",
-        "filename": "Gooise wei.jpg",
-        "caption": "Goois landschapstype: wei omringd door aangeplant bos.",
-        "alt": "Goois landschapstype: wei omringd door aangeplant bos.",
-        "width": 2048,
-        "height": 1536,
+        "path": "_m/u/1/7/9/gooi-wp/360-view-bussumerheide.jpg",
+        "filename": "Panorama Bussumerheide.jpg",
+        "caption": "360° view of the Bussumerheide, Bussum, The Netherlands",
+        "alt": "360° view of the Bussumerheide, Bussum, The Netherlands",
+        "width": 6920,
+        "height": 1024,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "No machine-readable author provided. Steinbach assumed (based on copyright claims).",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gooise_wei.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Sebastian Scheper",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_Bussumerheide.jpg",
         "sourceType": "core",
         "sourceArticleId": "gooi-wp",
         "sourceGeohash4": "u179",
-        "categories": [
-          "Assumed own work",
-          "Files with no machine-readable source",
-          "Het Gooi",
-          "PD-self",
-          "Photographs taken on 2006-02-26",
-          "Self-published work",
-          "Taken with Canon PowerShot A410"
-        ]
+        "mediumPath": "_m/u/1/7/9/gooi-wp/360-view-bussumerheide-medium.webp",
+        "smallPath": "_m/u/1/7/9/gooi-wp/360-view-bussumerheide-small.webp"
       },
       "images": [
         {
@@ -283,7 +276,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot A520"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/laren-brink-17juni2006-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/huizen.jpg",
@@ -306,7 +300,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/huizen-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/muiden-het-slot-en-de-flevopol.jpg",
@@ -328,7 +323,8 @@
             "Netherlands photographs taken on 2007-07-21",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/muiden-het-slot-en-de-flevopol-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/weesp-met-fort-ossenmarkt.jpg",
@@ -350,7 +346,8 @@
             "PD-self",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/weesp-wp/weesp-met-fort-ossenmarkt-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/brinklaan-bussum-2008.jpg",
@@ -377,7 +374,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot A530"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/brinklaan-bussum-2008-medium.webp",
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/brinklaan-bussum-2008-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/30282-vestingwerken-en-grachte.jpg",
@@ -392,7 +391,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:30282-Vestingwerken_en_grachten_van_Naarden.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gooi-en-vechtstreek-wk",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "mediumPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/30282-vestingwerken-en-grachte-medium.webp",
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/30282-vestingwerken-en-grachte-small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/oudkatholieke-kerk-sint-vitus-.jpg",
@@ -415,7 +416,9 @@
             "Files from Wikivoyage wts",
             "Self-published work",
             "Taken with Sony DSC-W110"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/hilversum-wp/oudkatholieke-kerk-sint-vitus--medium.webp",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/oudkatholieke-kerk-sint-vitus--small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/groest-in-hilversum-the-nether.jpg",
@@ -439,7 +442,9 @@
             "Personality rights warning",
             "Self-published work",
             "Taken with Sony DSC-W110"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/hilversum-wp/groest-in-hilversum-the-nether-medium.webp",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/groest-in-hilversum-the-nether-small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/hilvertshof-shopping-centre-in.jpg",
@@ -463,7 +468,9 @@
             "Personality rights warning",
             "Self-published work",
             "Taken with Sony DSC-W110"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/hilversum-wp/hilvertshof-shopping-centre-in-medium.webp",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/hilvertshof-shopping-centre-in-small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/mushroom-shaped-sign-near-hilv.jpg",
@@ -488,7 +495,9 @@
             "Groups of signs",
             "Images containing text not available in image description",
             "Mushroom-shaped objects"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/hilversum-wp/mushroom-shaped-sign-near-hilv-medium.webp",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/mushroom-shaped-sign-near-hilv-small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/hoorneboegse-heide-in-hilversu.jpg",
@@ -503,7 +512,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hoorneboegse_heide_in_Hilversum,_the_Netherlands.jpg",
           "sourceType": "poi",
           "sourceArticleId": "hilversum-wp",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "mediumPath": "_m/u/1/7/9/hilversum-wp/hoorneboegse-heide-in-hilversu-medium.webp",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/hoorneboegse-heide-in-hilversu-small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/raadhuis-in-hilversum-the-neth.jpg",
@@ -518,7 +529,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raadhuis_in_Hilversum,_the_Netherlands.jpg",
           "sourceType": "poi",
           "sourceArticleId": "hilversum-wp",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "mediumPath": "_m/u/1/7/9/hilversum-wp/raadhuis-in-hilversum-the-neth-medium.webp",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/raadhuis-in-hilversum-the-neth-small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/nederlands-instituut-voor-beel.jpg",
@@ -533,7 +546,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nederlands_Instituut_voor_Beeld_en_Geluid_in_Hilversum,_the_Netherlands.jpg",
           "sourceType": "poi",
           "sourceArticleId": "hilversum-wp",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "mediumPath": "_m/u/1/7/9/hilversum-wp/nederlands-instituut-voor-beel-medium.webp",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/nederlands-instituut-voor-beel-small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/vaartweg-in-hilversum-the-neth.jpg",
@@ -548,7 +563,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vaartweg_in_Hilversum,_the_Netherlands.jpg",
           "sourceType": "poi",
           "sourceArticleId": "hilversum-wp",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/vaartweg-in-hilversum-the-neth-small.webp"
         },
         {
           "path": "_m/u/1/7/b/amersfoort-wp/onze-lieve-vrouwetoren-gezien-.jpg",
@@ -571,7 +587,9 @@
             "Onze-Lieve-Vrouwetoren (Amersfoort)",
             "Self-published work",
             "Taken with Canon Digital IXUS 500"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/b/amersfoort-wp/onze-lieve-vrouwetoren-gezien--medium.webp",
+          "smallPath": "_m/u/1/7/b/amersfoort-wp/onze-lieve-vrouwetoren-gezien--small.webp"
         },
         {
           "path": "_m/u/1/7/b/amersfoort-wp/amersfoort-amersfoortse-kei.jpg",
@@ -594,7 +612,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/b/amersfoort-wp/amersfoort-amersfoortse-kei-small.webp"
         },
         {
           "path": "_m/u/1/7/b/amersfoort-wp/mathias-withoos-view-of-amersf.jpg",
@@ -630,7 +649,8 @@
             "WGA form: painting",
             "WGA time period: 1651-1700",
             "WGA type: landscape"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/b/amersfoort-wp/mathias-withoos-view-of-amersf-small.webp"
         },
         {
           "path": "_m/u/1/7/b/amersfoort-wp/amersfootoldcity.jpg",
@@ -651,7 +671,9 @@
             "CC-BY-SA-3.0",
             "Canals in Amersfoort",
             "Files by Wikivoyage user Elgaard"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/b/amersfoort-wp/amersfootoldcity-medium.webp",
+          "smallPath": "_m/u/1/7/b/amersfoort-wp/amersfootoldcity-small.webp"
         },
         {
           "path": "_m/u/1/7/b/amersfoort-wp/koppelpoortamersfoort.jpg",
@@ -666,7 +688,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:KoppelpoortAmersfoort.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amersfoort-wp",
-          "sourceGeohash4": "u17b"
+          "sourceGeohash4": "u17b",
+          "mediumPath": "_m/u/1/7/b/amersfoort-wp/koppelpoortamersfoort-medium.webp",
+          "smallPath": "_m/u/1/7/b/amersfoort-wp/koppelpoortamersfoort-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/veenendaal-winter.jpg",
@@ -689,7 +713,8 @@
             "Self-published work",
             "Taken with Canon EOS 300D",
             "Veenendaal"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/veenendaal-winter-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/rhenen-9.jpg",
@@ -710,7 +735,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FX01"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/rhenen-9-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/rhenen-9-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/martkplein-woerden.jpg",
@@ -732,7 +759,9 @@
             "Saint Peter Church (Woerden)",
             "Self-published work",
             "Taken with Sony DSC-H7"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/martkplein-woerden-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/martkplein-woerden-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/nachtegaalstraat-utrecht.jpg",
@@ -758,7 +787,9 @@
             "Nachtegaalstraat, Utrecht",
             "Self-published work",
             "Taken with Canon Digital IXUS"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/nachtegaalstraat-utrecht-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/nachtegaalstraat-utrecht-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/wijk-bij-duurstede-2009.jpg",
@@ -780,7 +811,9 @@
             "Self-published work",
             "Time 11:44",
             "Wijk bij Duurstede"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/wijk-bij-duurstede-2009-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/wijk-bij-duurstede-2009-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/koppelpoort-amersfoort-cropped.jpg",
@@ -812,7 +845,9 @@
             "On OSM",
             "Pictures of the Year (2010)",
             "Pictures of the Year (candidate)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/koppelpoort-amersfoort-cropped-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/koppelpoort-amersfoort-cropped-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/soest-netherlands-autumn-lands.jpg",
@@ -827,7 +862,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soest,_Netherlands_-_autumn_landscape_2015_(22743688092).jpg",
           "sourceType": "poi",
           "sourceArticleId": "utrecht-province-wp",
-          "sourceGeohash4": "u178"
+          "sourceGeohash4": "u178",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/soest-netherlands-autumn-lands-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/flower-market-singel-c.jpg",
@@ -857,7 +893,8 @@
             "Tulips in floristry",
             "Unidentified Tulipa cultivars",
             "Yellow tulips"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/flower-market-singel-c-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/beer-house-amsterdam-n.jpg",
@@ -880,7 +917,9 @@
             "Photos of the Netherlands by User:jorgeroyan",
             "Self-published work",
             "Taken with Canon EOS 5D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/beer-house-amsterdam-n-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/beer-house-amsterdam-n-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/street-scene-boathouse.jpg",
@@ -906,7 +945,9 @@
             "Self-published work",
             "Taken with Canon EOS 5D",
             "Water transport in Amsterdam"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/street-scene-boathouse-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/street-scene-boathouse-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/magere-brug-bridge-ams.jpg",
@@ -931,7 +972,9 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon EOS 5D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/magere-brug-bridge-ams-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/magere-brug-bridge-ams-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/map-amsterdam.png",
@@ -952,7 +995,9 @@
             "Files by Wikivoyage user Globe-trotter",
             "Files from Wikivoyage wts",
             "Locator maps of neighborhoods in Amsterdam"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/map-amsterdam-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/map-amsterdam-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/amsterdam.jpg",
@@ -967,7 +1012,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_(7758040180).jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/amsterdam-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/amsterdam-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/20130420-amsterdam-rij.jpg",
@@ -982,7 +1029,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20130420_Amsterdam_05_Rijksmuseum.JPG",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/20130420-amsterdam-rij-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/20130420-amsterdam-rij-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/begijnhof-amsterdam-ne.jpg",
@@ -997,7 +1046,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Begijnhof_--_2015_--_7215-8.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/begijnhof-amsterdam-ne-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/begijnhof-amsterdam-ne-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/centraal-station-amste.jpg",
@@ -1012,7 +1063,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Centraal_Station_--_2015_--_7269.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/centraal-station-amste-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/centraal-station-amste-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/central-station-amster.jpg",
@@ -1027,7 +1080,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_Central,_%C3%81msterdam,_Pa%C3%ADses_Bajos,_2016-05-30,_DD_01-03_HDR.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/central-station-amster-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/central-station-amster-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wp/colin-benders-installatie-in-h.jpg",
@@ -1042,7 +1097,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colin_Benders_installatie_in_het_Concertgebouw.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wp",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wp/colin-benders-installatie-in-h-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wp/colin-benders-installatie-in-h-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/flag-amsterdam.jpg",
@@ -1057,7 +1114,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_flag.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/flag-amsterdam-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/flag-amsterdam-small.webp"
         },
         {
           "path": "_m/u/1/7/2/randstad-wp/duinen-in-nationaal-park-zuid-.jpg",
@@ -1083,7 +1142,8 @@
             "Self-published work",
             "Taken with Canon PowerShot A40",
             "Vogelmeer Zuid-Kennemerland"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/2/randstad-wp/duinen-in-nationaal-park-zuid--small.webp"
         },
         {
           "path": "_m/u/1/7/7/north-holland-wp/nasa-20070501-den-helder-nl.jpg",
@@ -1109,7 +1169,8 @@
             "Photos taken with Kodak DCS 760",
             "Satellite pictures of Den Helder",
             "Tidal currents in the Netherlands"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/7/north-holland-wp/nasa-20070501-den-helder-nl-small.webp"
         },
         {
           "path": "_m/u/1/7/7/north-holland-wp/bergenruinekerk.jpg",
@@ -1131,7 +1192,9 @@
             "Images from Wiki Loves Monuments 2012 in the Netherlands",
             "Netherlands photographs taken on 2012-07-06",
             "Rijksmonumenten with known IDs"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/7/north-holland-wp/bergenruinekerk-medium.webp",
+          "smallPath": "_m/u/1/7/7/north-holland-wp/bergenruinekerk-small.webp"
         },
         {
           "path": "_m/u/1/7/7/north-holland-wp/northholland-regions.png",
@@ -1146,7 +1209,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Northholland-regions.png",
           "sourceType": "poi",
           "sourceArticleId": "north-holland-wp",
-          "sourceGeohash4": "u177"
+          "sourceGeohash4": "u177",
+          "smallPath": "_m/u/1/7/7/north-holland-wp/northholland-regions-small.webp"
         },
         {
           "path": "_m/u/1/7/2/randstad-wp/alkmaar-waag-door-het-geboomte.jpg",
@@ -1161,7 +1225,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alkmaar_Waag_door_het_geboomte.jpg",
           "sourceType": "poi",
           "sourceArticleId": "randstad-wp",
-          "sourceGeohash4": "u177"
+          "sourceGeohash4": "u177",
+          "mediumPath": "_m/u/1/7/2/randstad-wp/alkmaar-waag-door-het-geboomte-medium.webp",
+          "smallPath": "_m/u/1/7/2/randstad-wp/alkmaar-waag-door-het-geboomte-small.webp"
         },
         {
           "path": "_m/u/1/7/2/randstad-wp/haarlemgrotemarkt1.jpg",
@@ -1176,7 +1242,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:HaarlemGroteMarkt1.JPG",
           "sourceType": "poi",
           "sourceArticleId": "randstad-wp",
-          "sourceGeohash4": "u177"
+          "sourceGeohash4": "u177",
+          "mediumPath": "_m/u/1/7/2/randstad-wp/haarlemgrotemarkt1-medium.webp",
+          "smallPath": "_m/u/1/7/2/randstad-wp/haarlemgrotemarkt1-small.webp"
         },
         {
           "path": "_m/u/1/7/7/north-holland-wp/kerkbuurt-20150413.jpg",
@@ -1191,7 +1259,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerkbuurt_20150413.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-holland-wp",
-          "sourceGeohash4": "u177"
+          "sourceGeohash4": "u177",
+          "mediumPath": "_m/u/1/7/7/north-holland-wp/kerkbuurt-20150413-medium.webp",
+          "smallPath": "_m/u/1/7/7/north-holland-wp/kerkbuurt-20150413-small.webp"
         },
         {
           "path": "_m/u/1/7/7/north-holland-wp/stadtansicht-hoorn-vom-markerm.jpg",
@@ -1206,7 +1276,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stadtansicht_Hoorn_vom_Markermeer_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-holland-wp",
-          "sourceGeohash4": "u177"
+          "sourceGeohash4": "u177",
+          "mediumPath": "_m/u/1/7/7/north-holland-wp/stadtansicht-hoorn-vom-markerm-medium.webp",
+          "smallPath": "_m/u/1/7/7/north-holland-wp/stadtansicht-hoorn-vom-markerm-small.webp"
         }
       ],
       "narration": [

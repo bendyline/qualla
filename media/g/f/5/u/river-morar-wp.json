@@ -3,26 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/5/u/river-morar-wp/hero.jpg",
-        "filename": "Highland UK relief location map.jpg",
-        "caption": "Relief map of Highland, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 6.9W\nEast: 2.9W\nNorth: 58.8N\nSouth: 56.4N",
-        "alt": "Relief map of Highland, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 6.9W\nEast: 2.9W\nNorth: 58.8N\nSouth: 56.4N",
-        "width": 2000,
-        "height": 2159,
+        "path": "_m/g/f/5/u/river-morar-wp/river-morar-geograph-org-uk-23.jpg",
+        "filename": "River Morar - geograph.org.uk - 23893.jpg",
+        "caption": "River Morar.",
+        "alt": "River Morar.",
+        "width": 640,
+        "height": 475,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Nilfanion, created using Ordnance Survey data",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Highland_UK_relief_location_map.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "J M Briscoe",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:River_Morar_-_geograph.org.uk_-_23893.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "river-morar-wp",
         "sourceGeohash4": "gf5u",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Maps by Nilfanion",
-          "Maps of Highland council area",
-          "Ordnance Survey Boundary Line maps",
-          "Topographic maps of Scotland"
-        ]
+          "CC-BY-SA-2.0",
+          "Images by J M Briscoe",
+          "Images from Geograph Britain and Ireland",
+          "Images from Geograph Britain and Ireland missing SDC coordinates of the point of view",
+          "Information field template with formatting",
+          "Morar",
+          "River Morar",
+          "United Kingdom photographs taken on 2005-07-04"
+        ],
+        "smallPath": "_m/g/f/5/u/river-morar-wp/river-morar-geograph-org-uk-23-small.webp"
       },
       "images": [
         {
@@ -188,7 +192,7 @@
           "smallPath": "_m/g/f/5/u/river-morar-wp/jetty-on-river-morar-geograph--1-small.webp"
         },
         {
-          "path": "_m/g/f/5/u/river-morar-wp/a-hint-of-silver-sands-geograp.jpg",
+          "path": "_m/g/f/5/u/morar-wp/a-hint-of-silver-sands-geograp.jpg",
           "filename": "A Hint of Silver Sands - geograph.org.uk - 726648.jpg",
           "caption": "A Hint of Silver Sands River Morar",
           "alt": "A Hint of Silver Sands River Morar",
@@ -200,7 +204,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Hint_of_Silver_Sands_-_geograph.org.uk_-_726648.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "morar-wp",
-          "sourceGeohash4": "gf5u"
+          "sourceGeohash4": "gf5u",
+          "smallPath": "_m/g/f/5/u/morar-wp/a-hint-of-silver-sands-geograp-small.webp"
         },
         {
           "path": "_m/g/f/5/u/river-morar-wp/river-morar-geograph-org-uk-72.jpg",
@@ -403,7 +408,8 @@
             "License migration completed",
             "Mallaig harbour",
             "Taken with Canon PowerShot A410"
-          ]
+          ],
+          "smallPath": "_m/g/f/5/u/mallaig-wp/mallaig-from-hill-small.webp"
         },
         {
           "path": "_m/g/f/5/u/mallaig-wp/steam-train-at-mallaig-railway.jpg",
@@ -430,7 +436,9 @@
             "Preserved steam locomotives at Mallaig railway station",
             "Self-published work",
             "The Jacobite"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/u/mallaig-wp/steam-train-at-mallaig-railway-medium.webp",
+          "smallPath": "_m/g/f/5/u/mallaig-wp/steam-train-at-mallaig-railway-small.webp"
         }
       ],
       "narration": [

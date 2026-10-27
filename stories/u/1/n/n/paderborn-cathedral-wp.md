@@ -36,7 +36,7 @@ Paderborn Cathedral stands at 51.719N, 8.755E in the centre of Paderborn, easter
 
 ## Sources
 
-- [Paderborn Cathedral - Wikipedia](https://en.wikipedia.org/wiki/Paderborn_Cathedral)
+- [Paderborn Cathedral - Wikipedia](https://en.wikipedia.org/?curid=6886597)
 - [Paderborner Dom - Wikipedia (German)](https://de.wikipedia.org/wiki/Paderborner_Dom)
   - the Dreihasenfenster is early 16th century, carved in red Weser sandstone, in the cloister courtyard, read as Trinity or eternity
   - west tower 93 m; length 104 m; crypt 32 m long with an ebony shrine holding the relics of St Liborius
@@ -48,7 +48,7 @@ Paderborn Cathedral stands at 51.719N, 8.755E in the centre of Paderborn, easter
   - Allied bombing destroyed around 85% of the city
 - [Pader (river) - Wikipedia](https://en.wikipedia.org/wiki/Pader_(river))
   - the Pader is about 4 km long, fed by karstic springs, and flows into the Lippe
-- [Paderborn Cathedral - Wikipedia (final review pass)](https://en.wikipedia.org/wiki/Paderborn_Cathedral)
+- [Paderborn Cathedral - Wikipedia (final review pass)](https://en.wikipedia.org/?curid=6886597)
   - west tower 93 m, church length 104 m, crypt 32 m (among the largest in Germany) - confirmed
   - 22 March 1945 blockbuster bomb killed fourteen people in the cloister - confirmed
   - restoration undertaken 1978 to 1981 - confirmed

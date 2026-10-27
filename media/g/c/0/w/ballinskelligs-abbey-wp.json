@@ -3,27 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/0/w/ballinskelligs-abbey-wp/hero.jpg",
-        "filename": "Ballinskelligs Priory.jpg",
-        "caption": "Aerial view of Ballinskelligs Priory and seawall.",
-        "alt": "Aerial view of Ballinskelligs Priory and seawall.",
-        "width": 4056,
-        "height": 2280,
+        "path": "_m/g/c/0/w/ballinskelligs-abbey-wp/ballinskelligs-co-kerr.jpg",
+        "filename": "Ballinskelligs - The Old Abbey.jpg",
+        "caption": "Ballinskelligs, Co. Kerry , Ireland",
+        "alt": "Ballinskelligs, Co. Kerry , Ireland",
+        "width": 3456,
+        "height": 2304,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Kmcnamee",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballinskelligs_Priory.jpg",
+        "artist": "Cathal Curran Photography",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballinskelligs_-_The_Old_Abbey.jpg",
         "sourceType": "core",
         "sourceArticleId": "ballinskelligs-abbey-wp",
         "sourceGeohash4": "gc0w",
         "categories": [
-          "Aerial photographs of ruins of churches",
           "Ballinskelligs Priory",
           "CC-BY-SA-4.0",
           "Files with coordinates missing SDC location of creation",
-          "Monasteries in Ireland",
-          "Self-published work"
-        ]
+          "Images from Wiki Loves Monuments 2014",
+          "Images from Wiki Loves Monuments 2014 in Ireland",
+          "Images from Wiki Loves Monuments missing SDC depicts",
+          "Images from Wiki Loves Monuments missing SDC location of creation",
+          "Self-published work",
+          "Taken with Canon EOS 350D",
+          "Uploaded via Campaign:wlm-ie"
+        ],
+        "mediumPath": "_m/g/c/0/w/ballinskelligs-abbey-wp/ballinskelligs-co-kerr-medium.webp",
+        "smallPath": "_m/g/c/0/w/ballinskelligs-abbey-wp/ballinskelligs-co-kerr-small.webp"
       },
       "images": [
         {
@@ -444,7 +450,9 @@
             "Self-published work",
             "Skellig Michael Monastery",
             "Taken with Nikon Coolpix 3200"
-          ]
+          ],
+          "mediumPath": "_m/g/c/0/w/skellig-michael-wp/084skellig-michael-medium.webp",
+          "smallPath": "_m/g/c/0/w/skellig-michael-wp/084skellig-michael-small.webp"
         },
         {
           "path": "_m/g/c/0/w/skellig-michael-wp/092skellig-michael.jpg",
@@ -469,7 +477,9 @@
             "Self-published work",
             "Skellig Michael Lighthouse",
             "Taken with Nikon Coolpix 3200"
-          ]
+          ],
+          "mediumPath": "_m/g/c/0/w/skellig-michael-wp/092skellig-michael-medium.webp",
+          "smallPath": "_m/g/c/0/w/skellig-michael-wp/092skellig-michael-small.webp"
         },
         {
           "path": "_m/g/c/0/w/skellig-michael-wp/skelligmichael.jpg",
@@ -489,7 +499,9 @@
             "PD-user",
             "Skellig Michael",
             "Taken with Fujifilm FinePix F30"
-          ]
+          ],
+          "mediumPath": "_m/g/c/0/w/skellig-michael-wp/skelligmichael-medium.webp",
+          "smallPath": "_m/g/c/0/w/skellig-michael-wp/skelligmichael-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut.jpg",
@@ -512,7 +524,9 @@
             "License migration completed",
             "Listowel",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe.jpg",
@@ -527,7 +541,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_slugs_-_forest_and_bog_phenotypes.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir.jpg",
@@ -542,7 +558,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_Airport_(KIR).jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/portmagee.jpg",
@@ -557,7 +575,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portmagee.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/portmagee-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/portmagee-small.webp"
         }
       ],
       "narration": [

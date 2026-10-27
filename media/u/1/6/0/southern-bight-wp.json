@@ -28,7 +28,7 @@
       },
       "images": [
         {
-          "path": "_m/u/1/6/0/southern-bight-wp/north-sea-map-en.png",
+          "path": "_m/u/4/4/9/north-sea-wp/north-sea-map-en.png",
           "filename": "North Sea map-en.png",
           "caption": "Map of the North Sea — in northern Europe including sea depths and the EZZs.",
           "alt": "Map of the North Sea — in northern Europe including sea depths and the EZZs.",
@@ -51,7 +51,9 @@
             "License migration redundant",
             "Maps of maritime borders in the North Sea",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/4/4/9/north-sea-wp/north-sea-map-en-medium.webp",
+          "smallPath": "_m/u/4/4/9/north-sea-wp/north-sea-map-en-small.webp"
         }
       ],
       "narration": [
@@ -63,8 +65,9 @@
         "_m/u/1/6/0/southern-bight-wp/u160-southern-bight-what-crossing-it-means.mp3"
       ],
       "combinedNarration": "_m/u/1/6/0/southern-bight-wp/u160-southern-bight-combined.mp3",
-      "combinedNarrationBytes": 3471671,
-      "combinedNarrationDuration": 289
+      "combinedNarrationBytes": 3577209,
+      "combinedNarrationDuration": 289,
+      "combinedCover": "_m/u/1/6/0/southern-bight-wp/u160-southern-bight-combined-cover.jpg"
     }
   }
 }

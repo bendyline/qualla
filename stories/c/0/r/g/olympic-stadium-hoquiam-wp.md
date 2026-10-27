@@ -33,7 +33,7 @@ Located at 46.98°N, 123.86°W in Hoquiam, Washington, along the southern shore 
 ## Sources
 
 - [Olympic Stadium (Hoquiam) - Wikipedia](https://en.wikipedia.org/?curid=6788184)
-- [Olympic Stadium (Hoquiam) - Wikipedia](https://en.wikipedia.org/wiki/Olympic_Stadium_(Hoquiam))
+- [Olympic Stadium (Hoquiam) - Wikipedia](https://en.wikipedia.org/?curid=6788184)
   - Corrected: CWA crews in 1938 intro → WPA (Works Progress Administration); CWA grant approved 1932 but CWA dissolved 1934 before construction
   - Corrected: Born from Depression section updated to clarify CWA approved grant 1932, WPA funded 1938 construction
   - opened November 24, 1938

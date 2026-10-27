@@ -46,7 +46,7 @@ Nagata Shrine is located at 34.67N, 135.15E in Nagata-ku, western Kobe. The shri
   - Earthquake occurred January 17, 1995 at 5:46 AM
   - Magnitude 7.3
   - 6,434 people killed
-- [Final review - independent verification](https://en.wikipedia.org/wiki/Nagata_Shrine)
+- [Final review - independent verification](https://en.wikipedia.org/?curid=5502861)
   - Founded by Empress Jingu per Nihon Shoki confirmed
   - Second tier kanpei-chusha government-supported shrine confirmed
   - 1,800 years celebrated in 2001 confirmed

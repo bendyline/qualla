@@ -4,7 +4,7 @@
     {
       "filename": "Lincoln 152.jpg",
       "title": "File:Lincoln 152.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lincoln_152.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lincoln_152.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Lincoln_152.jpg",
       "width": 1536,
       "height": 2048,
@@ -12,6 +12,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "artist": "User:Neddyseagoon",
+      "credit": "Own work",
+      "source": "Lincoln 152",
       "description": "Tomb of Michael Honywood, Dean of Lincoln post-restoration",
       "dateCreated": "3 June 2006 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
       "categories": [
@@ -24,41 +26,45 @@
         "Taken with Canon Digital IXUS 50",
         "Wall mounted church monuments in Lincolnshire"
       ],
-      "sourceType": "sibling",
+      "sourceType": "core",
       "sourceArticleId": "lincoln-cathedral-library-wp",
       "sourceGeohash4": "gcrw",
       "smallPath": "_m/g/c/r/w/lincoln-cathedral-library-wp/lincoln-152-small.webp"
     },
     {
-      "filename": "Old Library, Lincoln Cathedral.jpg",
-      "title": "File:Old Library, Lincoln Cathedral.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Old_Library%2C_Lincoln_Cathedral.jpg",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Old_Library,_Lincoln_Cathedral.jpg",
-      "width": 2124,
-      "height": 1686,
+      "filename": "Wren Library - geograph.org.uk - 127737.jpg",
+      "title": "File:Wren Library - geograph.org.uk - 127737.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Wren_Library_-_geograph.org.uk_-_127737.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Wren_Library_-_geograph.org.uk_-_127737.jpg",
+      "width": 640,
+      "height": 427,
       "mime": "image/jpeg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Unknown author",
-      "description": "Old Library, Lincoln Cathedral, Lincolnshire, England, c.1923",
-      "dateCreated": "2023-08-01 17:27:40",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Richard Croft",
+      "description": "Wren Library. The medieval north arcade of the Cathedral cloister was pulled down in the early 15th century by the notorious Dean Mackworth to provide stone for his new stables and remained ruinous for over 200 years. In 1674 the new nine bay arcade of Doric columns was built in the Palladian style by Sir.Christopher Wren supporting the Cathedral library ... known as 'The Wren Library'.",
+      "dateCreated": "2006-02-25",
       "categories": [
-        "CC-BY-SA-4.0",
+        "CC-BY-SA-2.0",
+        "Cloisters of Lincoln Cathedral",
+        "Images by Richard Croft",
+        "Images from Geograph Britain and Ireland",
+        "Images from Geograph Britain and Ireland missing SDC coordinates of the point of view",
+        "Information field template with formatting",
         "Lincoln Cathedral Library",
-        "Template Unknown (author)"
+        "Taken with Canon EOS 350D"
       ],
-      "sourceType": "sibling",
+      "sourceType": "commons-category",
       "sourceArticleId": "lincoln-cathedral-library-wp",
       "sourceGeohash4": "gcrw",
-      "mediumPath": "_m/g/c/r/w/lincoln-cathedral-library-wp/old-library-lincoln-cathedral-medium.webp",
-      "smallPath": "_m/g/c/r/w/lincoln-cathedral-library-wp/old-library-lincoln-cathedral-small.webp"
+      "smallPath": "_m/g/c/r/w/lincoln-cathedral-library-wp/wren-library-geograph-org-uk-1-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/r/w/lincoln-cathedral-library-wp/lincoln-152.jpg",
-    "_m/g/c/r/w/lincoln-cathedral-library-wp/old-library-lincoln-cathedral.jpg"
+    "_m/g/c/r/w/lincoln-cathedral-library-wp/wren-library-geograph-org-uk-1.jpg"
   ],
-  "updatedAt": "2026-03-20T14:41:38.766Z",
+  "updatedAt": "2026-10-18T22:01:44.963Z",
   "narration": {
     "files": [
       "gcrw-lincoln-cathedral-library-flight-context.mp3",
@@ -79,5 +85,53 @@
       "gcrw-lincoln-cathedral-library-closed-for-the-ceiling.mp3": 42.3573333
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Old Library, Lincoln Cathedral.jpg",
+    "title": "File:Old Library, Lincoln Cathedral.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Old_Library%2C_Lincoln_Cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Old_Library,_Lincoln_Cathedral.jpg",
+    "width": 2124,
+    "height": 1686,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Unknown author",
+    "credit": "Readings in English Social History. From Pre-Roman Days to AD 1887. ed RB Morgan, Cambridge University Press, London, 1923, p.210",
+    "source": "Old Library, Lincoln Cathedral",
+    "description": "Old Library, Lincoln Cathedral, Lincolnshire, England, c.1923",
+    "dateCreated": "2023-08-01 17:27:40",
+    "categories": [
+      "CC-BY-SA-4.0",
+      "Lincoln Cathedral Library",
+      "Template Unknown (author)"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "lincoln-cathedral-library-wp",
+    "sourceGeohash4": "gcrw"
+  },
+  "thumbnail": {
+    "filename": "Old Library, Lincoln Cathedral.jpg",
+    "title": "File:Old Library, Lincoln Cathedral.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Old_Library%2C_Lincoln_Cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Old_Library,_Lincoln_Cathedral.jpg",
+    "width": 2124,
+    "height": 1686,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Unknown author",
+    "credit": "Readings in English Social History. From Pre-Roman Days to AD 1887. ed RB Morgan, Cambridge University Press, London, 1923, p.210",
+    "source": "Old Library, Lincoln Cathedral",
+    "description": "Old Library, Lincoln Cathedral, Lincolnshire, England, c.1923",
+    "dateCreated": "2023-08-01 17:27:40",
+    "categories": [
+      "CC-BY-SA-4.0",
+      "Lincoln Cathedral Library",
+      "Template Unknown (author)"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "lincoln-cathedral-library-wp",
+    "sourceGeohash4": "gcrw"
   }
 }

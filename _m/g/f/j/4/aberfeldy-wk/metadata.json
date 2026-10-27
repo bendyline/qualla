@@ -1,36 +1,7 @@
 {
   "articleId": "aberfeldy-wk",
-  "gallery": [
-    {
-      "filename": "Aberfeldy-2.jpg",
-      "title": "File:Aberfeldy-2.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Aberfeldy-2.jpg",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Aberfeldy-2.jpg",
-      "width": 2816,
-      "height": 2112,
-      "mime": "image/jpeg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "user:Garrit",
-      "description": "Aberfeldy Distillery, Scotland",
-      "dateCreated": "2007-06-11",
-      "categories": [
-        "Aberfeldy distillery",
-        "CC-BY-SA-3.0-migrated",
-        "GFDL",
-        "License migration completed",
-        "Self-published work"
-      ],
-      "sourceType": "poi",
-      "sourceArticleId": "aberfeldy-wk",
-      "sourceGeohash4": "gfj4",
-      "mediumPath": "_m/g/f/j/4/aberfeldy-wk/aberfeldy-2-medium.webp",
-      "smallPath": "_m/g/f/j/4/aberfeldy-wk/aberfeldy-2-small.webp"
-    }
-  ],
-  "galleryPaths": [
-    "_m/g/f/j/4/aberfeldy-wk/aberfeldy-2.jpg"
-  ],
+  "gallery": [],
+  "galleryPaths": [],
   "updatedAt": "2026-06-23T23:09:53.204Z",
   "narration": {
     "files": [
@@ -52,5 +23,57 @@
       "gfj4-aberfeldy-a-resort-towns-quiet-century.mp3": 60.50975
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Aberfeldy-2.jpg",
+    "title": "File:Aberfeldy-2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Aberfeldy-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Aberfeldy-2.jpg",
+    "width": 2816,
+    "height": 2112,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "user:Garrit",
+    "credit": "Own work",
+    "source": "Aberfeldy-2",
+    "description": "Aberfeldy Distillery, Scotland",
+    "dateCreated": "2007-06-11",
+    "categories": [
+      "Aberfeldy distillery",
+      "CC-BY-SA-3.0-migrated",
+      "GFDL",
+      "License migration completed",
+      "Self-published work"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "aberfeldy-wk",
+    "sourceGeohash4": "gfj4"
+  },
+  "thumbnail": {
+    "filename": "Aberfeldy-2.jpg",
+    "title": "File:Aberfeldy-2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Aberfeldy-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Aberfeldy-2.jpg",
+    "width": 2816,
+    "height": 2112,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "user:Garrit",
+    "credit": "Own work",
+    "source": "Aberfeldy-2",
+    "description": "Aberfeldy Distillery, Scotland",
+    "dateCreated": "2007-06-11",
+    "categories": [
+      "Aberfeldy distillery",
+      "CC-BY-SA-3.0-migrated",
+      "GFDL",
+      "License migration completed",
+      "Self-published work"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "aberfeldy-wk",
+    "sourceGeohash4": "gfj4"
   }
 }

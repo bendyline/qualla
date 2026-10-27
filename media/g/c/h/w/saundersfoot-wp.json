@@ -3,26 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/h/w/saundersfoot-wp/hero.jpg",
-        "filename": "Saundersfoot-harbor.jpg",
-        "caption": "Saundersfoot harbor and village",
-        "alt": "Saundersfoot harbor and village",
-        "width": 1600,
-        "height": 597,
+        "path": "_m/g/c/h/w/saundersfoot-wp/horsebox-snack-bar-saundersfoo.jpg",
+        "filename": "'Horsebox' snack bar, Saundersfoot beach (geograph 7033221).jpg",
+        "caption": "'Horsebox' snack bar, Saundersfoot beach. 'Cwlbox' being prepared for service next to base of slipway. Coppet Hall Point is at the far end of the beach; the tide is going out.",
+        "alt": "'Horsebox' snack bar, Saundersfoot beach. 'Cwlbox' being prepared for service next to base of slipway. Coppet Hall Point is at the far end of the beach; the tide is going out.",
+        "width": 5184,
+        "height": 3456,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Rollercow",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saundersfoot-harbor.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "M J Roscoe",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%27Horsebox%27_snack_bar,_Saundersfoot_beach_(geograph_7033221).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "saundersfoot-wp",
         "sourceGeohash4": "gchw",
-        "categories": [
-          "Beaches of Pembrokeshire",
-          "CC-BY-SA-3.0",
-          "Saundersfoot",
-          "Seaside resorts in the United Kingdom",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/g/c/h/w/saundersfoot-wp/horsebox-snack-bar-saundersfoo-medium.webp",
+        "smallPath": "_m/g/c/h/w/saundersfoot-wp/horsebox-snack-bar-saundersfoo-small.webp"
       },
       "images": [
         {
@@ -460,7 +455,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Fujifilm FinePix A330"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret-medium.webp",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/abercastle.jpg",
@@ -482,7 +479,9 @@
             "Images with extracted images",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-TZ3"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/w/pembrokeshire-wk/abercastle-medium.webp",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/abercastle-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/green-bridge-of-wales-1-pembro.jpg",
@@ -497,7 +496,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Bridge_of_Wales_1_-_Pembrokeshire_(2010).jpg",
           "sourceType": "poi",
           "sourceArticleId": "pembrokeshire-wk",
-          "sourceGeohash4": "gchw"
+          "sourceGeohash4": "gchw",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/green-bridge-of-wales-1-pembro-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-national-park/skomer-island-south-wales.jpg",
@@ -521,7 +521,8 @@
             "Islands of Wales",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-national-park/skomer-island-south-wales-small.webp"
         },
         {
           "path": "_m/g/c/h/q/pembrokeshire-coast-national-park-wp/ceibwr-bay-contorted-strata.jpg",
@@ -544,7 +545,9 @@
             "Pembrokeshire Coast National Park",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/q/pembrokeshire-coast-national-park-wp/ceibwr-bay-contorted-strata-medium.webp",
+          "smallPath": "_m/g/c/h/q/pembrokeshire-coast-national-park-wp/ceibwr-bay-contorted-strata-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-national-park/pembrokeshire-coast-national-p.jpg",
@@ -563,7 +566,9 @@
           "categories": [
             "Blue Lagoon, Abereiddy",
             "CC-BY-SA-3.0"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-national-park/pembrokeshire-coast-national-p-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-national-park/pembrokeshire-coast-national-p-small.webp"
         }
       ],
       "narration": [

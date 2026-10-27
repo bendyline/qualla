@@ -40,7 +40,7 @@ Located at 28.97N, 81.24W in Volusia County, Florida, just north of Deltona. Fro
   - Charter secured December 18, 1894
   - 35 acres deeded January 3, 1895
   - Colby died June 1933
-- [Cassadaga, Florida - Wikipedia](https://en.wikipedia.org/wiki/Cassadaga,_Florida)
+- [Cassadaga, Florida - Wikipedia](https://en.wikipedia.org/?curid=833627)
   - Oldest active Spiritualist community in southeastern US confirmed
   - Cassadaga is a Seneca word - meaning disputed between water beneath the rocks and rocks beneath the water
   - Carl Hiaasen Lucky You inspired by Cassadaga (Grange) confirmed

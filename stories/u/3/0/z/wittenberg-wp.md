@@ -37,7 +37,7 @@ Wittenberg lies at 51.87 degrees N, 12.65 degrees E on the north bank of the Elb
 ## Sources
 
 - [Wittenberg - Wikipedia](https://en.wikipedia.org/?curid=48827)
-- [Wittenberg - Wikipedia (EN, independent re-check)](https://en.wikipedia.org/wiki/Wittenberg)
+- [Wittenberg - Wikipedia (EN, independent re-check)](https://en.wikipedia.org/?curid=48827)
   - town rights granted 27 June 1293 by Duke Albert II confirmed
   - Charles IV raised Duke of Saxe-Wittenberg to Elector 1356 confirmed
   - coat of arms elements (crenellated wall, crossed swords, salmon/Elbe) confirmed

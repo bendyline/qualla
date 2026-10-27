@@ -36,7 +36,7 @@ The Francke Foundations occupy a large walled campus at 51.478 N, 11.972 E, imme
 
 ## Sources
 
-- [Francke Foundations - Wikipedia](https://en.wikipedia.org/wiki/Francke_Foundations)
+- [Francke Foundations - Wikipedia](https://en.wikipedia.org/?curid=32610968)
 - [Franckesche Stiftungen - Wikipedia (DE)](https://de.wikipedia.org/wiki/Franckesche_Stiftungen)
   - Alms-box sum was 'vier Talern und 16 Groschen' - four thalers and sixteen groschen, at Easter 1695 (confirmed, DE). NOTE: EN Wikipedia renders this as 'seven 50-cent pieces', an artefact of a 19th-century English translation - corrected here
   - Historic Orphanage built 1698-1700/1701; Isaiah 40:31 and the two eagles in the tympanum (confirmed)

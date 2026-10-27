@@ -36,10 +36,10 @@ The memorial occupies a walled compound at 52.542°N, 13.501°E on Genslerstraß
 
 ## Sources
 
-- [Berlin-Hohenschönhausen Memorial - Wikipedia](https://en.wikipedia.org/wiki/Berlin-Hohensch%C3%B6nhausen_Memorial)
+- [Berlin-Hohenschönhausen Memorial - Wikipedia](https://en.wikipedia.org/?curid=13151267)
 - [Stasi prison](https://www.stiftung-hsh.de/en/topics/history/stasi-prison)
 - [Mario Röllig](https://www.stiftung-hsh.de/en/media-library/biograms/mario-roellig)
-- [Berlin-Hohenschönhausen Memorial - Wikipedia](https://en.wikipedia.org/wiki/Berlin-Hohensch%C3%B6nhausen_Memorial)
+- [Berlin-Hohenschönhausen Memorial - Wikipedia](https://en.wikipedia.org/?curid=13151267)
   - Site was a red-brick welfare-kitchen factory completed 1939; Soviet NKVD ran it as Special Camp No. 3 from 1945; official death toll 886 (July 1945-Oct 1946), independent estimates up to 3,000; actor Heinrich George died at Sachsenhausen after transfer
   - Stasi reopened it as central remand prison in 1951; operated until 3 October 1990; memorial founded early 1990s by former inmates, opened to visitors 1994
 - [Gedenkstätte Berlin-Hohenschönhausen - Foundation management](https://www.stiftung-hsh.de/en/foundation/organisation/management)

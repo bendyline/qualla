@@ -40,7 +40,7 @@ Located at 37.147N, 138.206E on Mount Kasuga, a 180-meter hill rising above the 
   - Born Nagao Kagetora in 1530
   - Five confrontations with Takeda Shingen at Battles of Kawanakajima
   - Fostered trade and local industries raising living standards in Echigo
-- [Kasugayama Castle - Wikipedia](https://en.wikipedia.org/wiki/Kasugayama_Castle)
+- [Kasugayama Castle - Wikipedia](https://en.wikipedia.org/?curid=1766815)
   - Castle on 180-meter hill in Joetsu (formerly Kasugayama), Niigata Prefecture confirmed
   - Designated National Historic Site since 1935 confirmed
   - Japan's Top 100 Castles (100 Famous Japanese Castles) inclusion confirmed

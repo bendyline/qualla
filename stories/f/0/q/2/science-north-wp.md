@@ -37,7 +37,7 @@ Located at 46.47°N, 81.00°W on the southwestern shore of Ramsey Lake in Greate
 ## Sources
 
 - [Science North - Wikipedia](https://en.wikipedia.org/?curid=958508)
-- [Science North - Wikipedia](https://en.wikipedia.org/wiki/Science_North)
+- [Science North - Wikipedia](https://en.wikipedia.org/?curid=958508)
   - Opened June 19, 1984; official opening by Queen Elizabeth II on October 4, 1984
   - Designed by Raymond Moriyama with Townend, Stefura, Baleshta and Nicholls
   - Governor General's Medal for Architecture awarded in 1986

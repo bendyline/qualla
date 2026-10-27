@@ -3,25 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/y/z/2/orihuela-cathedral-wp/hero.jpg",
-        "filename": "Portada anunciación, catedral de orihuela.JPG",
-        "caption": "Portada de la Anunciación de la Catedral de Orihuela, Comunidad Valenciana, España.",
-        "alt": "Portada de la Anunciación de la Catedral de Orihuela, Comunidad Valenciana, España.",
-        "width": 3240,
-        "height": 4320,
+        "path": "_m/e/y/z/2/orihuela-cathedral-wp/catedral-d-oriola-port.jpg",
+        "filename": "Catedral d'Oriola, porta de les Cadenes.JPG",
+        "caption": "Catedral d'Oriola, Porta de les Cadenes.",
+        "alt": "Catedral d'Oriola, Porta de les Cadenes.",
+        "width": 3664,
+        "height": 2748,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Xinese-v",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portada_anunciaci%C3%B3n,_catedral_de_orihuela.JPG",
+        "license": "Public domain",
+        "artist": "Joanbanjo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral_d%27Oriola,_porta_de_les_Cadenes.JPG",
         "sourceType": "core",
         "sourceArticleId": "orihuela-cathedral-wp",
         "sourceGeohash4": "eyz2",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Cathedral of Orihuela",
-          "Self-published work",
-          "Taken with Sony DSC-W320"
-        ]
+          "Cultural heritage monuments in Spain missing SDC depicts",
+          "Cultural heritage monuments in Spain missing SDC location of creation",
+          "Cultural heritage monuments in Spain with known IDs",
+          "PD-self",
+          "Puerta de las Cadenas, Cathedral of Orihuela",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/e/y/z/2/orihuela-cathedral-wp/catedral-d-oriola-port-medium.webp",
+        "smallPath": "_m/e/y/z/2/orihuela-cathedral-wp/catedral-d-oriola-port-small.webp"
       },
       "images": [
         {
@@ -50,7 +54,7 @@
           "smallPath": "_m/e/y/z/2/orihuela-cathedral-wp/catedral-d-oriola-port-small.webp"
         },
         {
-          "path": "_m/e/y/z/2/orihuela-cathedral-wp/fp-toledo-cathedral-2025-west-.jpg",
+          "path": "_m/e/y/t/7/granada-cathedral-wp/fp-toledo-cathedral-2025-west-.jpg",
           "filename": "FP Toledo Cathedral 2025 - West façade.jpg",
           "caption": "The Cathedral of Toledo, Spain in 2025",
           "alt": "The Cathedral of Toledo, Spain in 2025",
@@ -68,7 +72,9 @@
             "Files with coordinates missing SDC location of creation",
             "Main facade (Cathedral of Toledo)",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/e/y/t/7/granada-cathedral-wp/fp-toledo-cathedral-2025-west--medium.webp",
+          "smallPath": "_m/e/y/t/7/granada-cathedral-wp/fp-toledo-cathedral-2025-west--small.webp"
         },
         {
           "path": "_m/e/y/z/2/orihuela-cathedral-wp/finestra-de-la-part-nord-del-c.jpg",
@@ -267,7 +273,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Sony DSC-W320"
-          ]
+          ],
+          "mediumPath": "_m/e/y/z/2/orihuela-wp/cimborrio-santo-domingo-orihue-medium.webp",
+          "smallPath": "_m/e/y/z/2/orihuela-wp/cimborrio-santo-domingo-orihue-small.webp"
         },
         {
           "path": "_m/e/y/z/2/orihuela-wp/orihuela-catedral-del-salvador.jpg",
@@ -288,7 +296,8 @@
             "Cathedral of Orihuela",
             "Church facades in the province of Alicante",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/e/y/z/2/orihuela-wp/orihuela-catedral-del-salvador-small.webp"
         }
       ],
       "narration": [

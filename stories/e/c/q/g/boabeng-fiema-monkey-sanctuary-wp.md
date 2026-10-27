@@ -42,7 +42,7 @@ Located at 7.72N, 1.69W in the Bono East Region of Ghana. The sanctuary occupies
   - 700 Campbell's mona monkeys
   - 300 Geoffrey's pied colobus
   - 4.4 km2 forest area
-- [Boabeng-Fiema Monkey Sanctuary - Wikipedia](https://en.wikipedia.org/wiki/Boabeng-Fiema_Monkey_Sanctuary)
+- [Boabeng-Fiema Monkey Sanctuary - Wikipedia](https://en.wikipedia.org/?curid=33263767)
   - Formally designated protected sanctuary in April 1975 by Department of Game and Wildlife
   - Nkoranza approximately 22 km away confirmed
   - Annual purification ceremony by fetish priest of Daworo confirmed

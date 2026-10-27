@@ -33,7 +33,7 @@ Located at 48.37N, 124.62W on the northwestern tip of the Olympic Peninsula. Nea
 ## Sources
 
 - [Neah Bay, Washington - Wikipedia](https://en.wikipedia.org/?curid=137848)
-- [Neah Bay, Washington - Wikipedia](https://en.wikipedia.org/wiki/Neah_Bay,_Washington)
+- [Neah Bay, Washington - Wikipedia](https://en.wikipedia.org/?curid=137848)
   - Population 935 at 2020 census confirmed
   - Captain Henry Kellett renamed 1847 confirmed
   - Corrected: 'around 1750' mudslide → 'around 1560' (radiocarbon dating of Ozette site places mudslide c.1560, not 1750)

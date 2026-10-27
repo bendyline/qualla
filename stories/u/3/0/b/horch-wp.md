@@ -36,7 +36,7 @@ The August Horch Museum and the historic Audi works site sit at 50.732 N, 12.480
 
 ## Sources
 
-- [Horch - Wikipedia](https://en.wikipedia.org/wiki/Horch)
+- [Horch - Wikipedia](https://en.wikipedia.org/?curid=2227755)
 - [Auto Union - Wikipedia](https://en.wikipedia.org/wiki/Auto_Union)
   - Auto Union used prisoners from Leitmeritz concentration camp; 2014 company-commissioned report concluded Auto Union bore moral responsibility for 4,500 deaths at Leitmeritz (confirmed)
   - Grand Prix Types A-D produced almost 550 hp; 25 wins 1935-1937; Rosemeyer 1936 European Champion (confirmed)

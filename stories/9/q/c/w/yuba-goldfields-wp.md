@@ -37,7 +37,7 @@ The Yuba Goldfields are located at 39.1848N, 121.4778W along the Yuba River, app
 ## Sources
 
 - [Yuba Goldfields - Wikipedia](https://en.wikipedia.org/?curid=5096248)
-- [Yuba Goldfields - Wikipedia](https://en.wikipedia.org/wiki/Yuba_Goldfields)
+- [Yuba Goldfields - Wikipedia](https://en.wikipedia.org/?curid=5096248)
   - Largest gold dredge field in California confirmed
   - Dredging operated 1904 to 1968 confirmed
   - Over 1 billion cubic yards dredged confirmed

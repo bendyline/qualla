@@ -3,27 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/4/1/buttes-new-british-cemetery-wp/hero.jpg",
-        "filename": "Zonnebeke - Buttes New British Cemetery 2.jpg",
-        "caption": "Buttes New British Cemetery in Zonnebeke. Zonnebeke, West Flanders, Belgium",
-        "alt": "Buttes New British Cemetery in Zonnebeke. Zonnebeke, West Flanders, Belgium",
-        "width": 2304,
-        "height": 1728,
+        "path": "_m/u/1/4/1/buttes-new-british-cemetery-wp/back-side-buttes-new-b.jpg",
+        "filename": "Buttes new british cemetery 01.jpg",
+        "caption": "Back side of Buttes New British Cemetery",
+        "alt": "Back side of Buttes New British Cemetery",
+        "width": 4608,
+        "height": 3456,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "LimoWreck",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zonnebeke_-_Buttes_New_British_Cemetery_2.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Nancy W. Beach",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buttes_new_british_cemetery_01.jpg",
         "sourceType": "core",
         "sourceArticleId": "buttes-new-british-cemetery-wp",
         "sourceGeohash4": "u141",
         "categories": [
           "Buttes New British Cemetery, Polygon Wood",
-          "CC-BY-SA-3.0",
-          "GFDL",
-          "License migration redundant",
-          "Self-published work",
-          "Taken with Sony DSC-S60"
-        ]
+          "CC-BY-SA-4.0",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/u/1/4/1/buttes-new-british-cemetery-wp/back-side-buttes-new-b-medium.webp",
+        "smallPath": "_m/u/1/4/1/buttes-new-british-cemetery-wp/back-side-buttes-new-b-small.webp"
       },
       "images": [
         {
@@ -528,7 +527,9 @@
             "PD-self",
             "Self-published work",
             "Trauerndes Elternpaar (Käthe Kollwitz)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/1/ypres-wp/het-treurende-ouderpaar-kathe--medium.webp",
+          "smallPath": "_m/u/1/4/1/ypres-wp/het-treurende-ouderpaar-kathe--small.webp"
         },
         {
           "path": "_m/u/1/4/1/ypres-wp/ypres-town-centre.jpg",
@@ -553,7 +554,8 @@
             "Files with no machine-readable source",
             "Images without source",
             "Ypres"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/1/ypres-wp/ypres-town-centre-small.webp"
         },
         {
           "path": "_m/u/1/4/1/ypres-wp/het-kasteel.jpg",
@@ -568,7 +570,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Het_kasteel.JPG",
           "sourceType": "poi",
           "sourceArticleId": "ypres-wp",
-          "sourceGeohash4": "u141"
+          "sourceGeohash4": "u141",
+          "mediumPath": "_m/u/1/4/1/ypres-wp/het-kasteel-medium.webp",
+          "smallPath": "_m/u/1/4/1/ypres-wp/het-kasteel-small.webp"
         },
         {
           "path": "_m/u/1/4/1/ypres-wp/bellewaerde-ingang.jpg",
@@ -583,7 +587,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bellewaerde_ingang.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ypres-wp",
-          "sourceGeohash4": "u141"
+          "sourceGeohash4": "u141",
+          "mediumPath": "_m/u/1/4/1/ypres-wp/bellewaerde-ingang-medium.webp",
+          "smallPath": "_m/u/1/4/1/ypres-wp/bellewaerde-ingang-small.webp"
         },
         {
           "path": "_m/u/1/4/1/ypres-wp/ieper-lakenhal-r02.jpg",
@@ -598,7 +604,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ieper_Lakenhal_R02.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ypres-wp",
-          "sourceGeohash4": "u141"
+          "sourceGeohash4": "u141",
+          "mediumPath": "_m/u/1/4/1/ypres-wp/ieper-lakenhal-r02-medium.webp",
+          "smallPath": "_m/u/1/4/1/ypres-wp/ieper-lakenhal-r02-small.webp"
         }
       ],
       "narration": [

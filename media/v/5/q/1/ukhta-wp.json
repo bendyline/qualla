@@ -3,23 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/v/5/q/1/ukhta-wp/hero.jpg",
-        "filename": "ViewFromVetlosyan.jpg",
-        "caption": "A view on Ukhta from Vetlosyan settlement.",
-        "alt": "A view on Ukhta from Vetlosyan settlement.",
-        "width": 800,
-        "height": 600,
+        "path": "_m/v/5/q/1/ukhta-wp/category-18.jpg",
+        "filename": "Польское землячество.jpg",
+        "caption": "Выступление в Польском землячестве ансамбля \"Ухтинский сувенир\" Республике Коми. Россия",
+        "alt": "Выступление в Польском землячестве ансамбля \"Ухтинский сувенир\" Республике Коми. Россия",
+        "width": 5315,
+        "height": 3543,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Dmitry Murashev",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ViewFromVetlosyan.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Новинская Г.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "ukhta-wp",
         "sourceGeohash4": "v5q1",
-        "categories": [
-          "PD-user",
-          "Transport in Ukhta"
-        ]
+        "mediumPath": "_m/v/5/q/1/ukhta-wp/category-18-medium.webp",
+        "smallPath": "_m/v/5/q/1/ukhta-wp/category-18-small.webp"
       },
       "images": [
         {
@@ -421,7 +419,9 @@
             "Self-published work",
             "Uploaded via Campaign:wlm-ru",
             "Wooden houses in Kalevalsky District"
-          ]
+          ],
+          "mediumPath": "_m/tpc/uk/ht/a_/__/ukhta/2-medium.webp",
+          "smallPath": "_m/tpc/uk/ht/a_/__/ukhta/2-small.webp"
         },
         {
           "path": "_m/tpc/uk/ht/a_/__/ukhta/kalevala-airport-panorama.jpg",
@@ -442,7 +442,9 @@
             "Files with coordinates missing SDC location of creation",
             "Kalevala Airport",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/uk/ht/a_/__/ukhta/kalevala-airport-panorama-medium.webp",
+          "smallPath": "_m/tpc/uk/ht/a_/__/ukhta/kalevala-airport-panorama-small.webp"
         },
         {
           "path": "_m/v/5/q/3/sosnogorsk-wp/image-3.jpg",
@@ -465,7 +467,8 @@
             "Self-published work",
             "Sosnogorsk",
             "Wooden churches in Komi"
-          ]
+          ],
+          "smallPath": "_m/v/5/q/3/sosnogorsk-wp/image-3-small.webp"
         }
       ],
       "narration": [

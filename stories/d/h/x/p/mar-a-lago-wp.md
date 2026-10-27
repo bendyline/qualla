@@ -32,7 +32,7 @@ Mar-a-Lago has accumulated layers of consequence that Post could never have imag
 
 ## Flight Context
 
-Located at 26.68°N, 80.04°W on Palm Beach Island, Florida. The estate is visible from the air as a large complex spanning the full width of the barrier island between the Atlantic Ocean and Lake Worth Lagoon. Best viewed at 2,000-4,000 feet AGL. Note: Temporary Flight Restrictions (TFRs) may be active in a 30 nm radius when the president is in residence. Nearest airport is Palm Beach International (KPBI), approximately 4 nm west. Palm Beach County Park Airport (KLNA) in Lantana is approximately 6 nm south.
+Located at 26.68°N, 80.04°W on Palm Beach Island, Florida. The estate is visible from the air as a large complex spanning the full width of the barrier island between the Atlantic Ocean and Lake Worth Lagoon. Best viewed at 2,000-4,000 feet AGL. Note: Temporary Flight Restrictions (TFRs) may be active in a 30 nm radius when the president is in residence. Nearest airport is President Donald J. Trump International Airport (KDJT, formerly Palm Beach International, KPBI), approximately 4 nm west. Palm Beach County Park Airport (KLNA) in Lantana is approximately 6 nm south.
 
 ## Sources
 

@@ -3,25 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/h/r/abermawr-wp/hero.jpg",
-        "filename": "Abermawr.JPG",
-        "caption": "Abermawr beach",
-        "alt": "Abermawr beach",
-        "width": 3072,
-        "height": 2304,
+        "path": "_m/g/c/h/r/abermawr-wp/abermawr-mgk28237-pano.jpg",
+        "filename": "Abermawr (MGK28237-Pano).jpg",
+        "caption": "beach",
+        "alt": "beach",
+        "width": 15221,
+        "height": 2671,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "PreseliVenture",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abermawr.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Markus G. Klötzer",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abermawr_(MGK28237-Pano).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "abermawr-wp",
         "sourceGeohash4": "gchr",
-        "categories": [
-          "Abermawr",
-          "CC-BY-SA-3.0",
-          "Self-published work",
-          "Taken with Canon Digital IXUS 75"
-        ]
+        "mediumPath": "_m/g/c/h/r/abermawr-wp/abermawr-mgk28237-pano-medium.webp",
+        "smallPath": "_m/g/c/h/r/abermawr-wp/abermawr-mgk28237-pano-small.webp"
       },
       "images": [
         {
@@ -413,7 +409,9 @@
             "Images with extracted images",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-TZ3"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/w/pembrokeshire-wk/abercastle-medium.webp",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/abercastle-small.webp"
         },
         {
           "path": "_m/g/c/h/r/abercastle-wk/10150787-10152358105634670-905.jpg",
@@ -433,7 +431,8 @@
             "CC-BY-SA-3.0",
             "Coasteering",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/h/r/abercastle-wk/10150787-10152358105634670-905-small.webp"
         },
         {
           "path": "_m/g/c/h/r/abercastle-wk/carreg-samson.jpg",
@@ -454,7 +453,9 @@
             "Carreg Sampson",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/r/abercastle-wk/carreg-samson-medium.webp",
+          "smallPath": "_m/g/c/h/r/abercastle-wk/carreg-samson-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret.jpg",
@@ -476,7 +477,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Fujifilm FinePix A330"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret-medium.webp",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/green-bridge-of-wales-1-pembro.jpg",
@@ -491,7 +494,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Bridge_of_Wales_1_-_Pembrokeshire_(2010).jpg",
           "sourceType": "poi",
           "sourceArticleId": "pembrokeshire-wk",
-          "sourceGeohash4": "gchw"
+          "sourceGeohash4": "gchw",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/green-bridge-of-wales-1-pembro-small.webp"
         }
       ],
       "narration": [

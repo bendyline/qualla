@@ -34,7 +34,7 @@ Located at 36.137N, 139.453E in the city of Gyoda, Saitama Prefecture, on the Ka
 
 - [Oshi Castle - Wikipedia](https://en.wikipedia.org/?curid=49854471)
 - [Wikipedia - Siege of Oshi](https://en.wikipedia.org/wiki/Siege_of_Oshi)
-- [Oshi Castle - Wikipedia](https://en.wikipedia.org/wiki/Oshi_Castle)
+- [Oshi Castle - Wikipedia](https://en.wikipedia.org/?curid=49854471)
   - Narita Akiyasu completed Oshi Castle around 1479 confirmed
   - Regarded as one of seven main strongholds of Kanto region confirmed
   - Narita clan served Ogigayatsu Uesugi, then shifted to Hojo after 1546 Kawagoe siege confirmed

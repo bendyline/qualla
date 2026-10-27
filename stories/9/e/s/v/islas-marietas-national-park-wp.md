@@ -37,7 +37,7 @@ Located at 20.699°N, 105.585°W, approximately 7.9 km southwest of Punta de Mit
 ## Sources
 
 - [Islas Marietas National Park - Wikipedia](https://en.wikipedia.org/?curid=15104468)
-- [Islas Marietas National Park - Wikipedia](https://en.wikipedia.org/wiki/Islas_Marietas_National_Park)
+- [Islas Marietas National Park - Wikipedia](https://en.wikipedia.org/?curid=15104468)
   - Hidden beach accessible only by swimming through tunnel confirmed
   - Visitor surge from ~27,500 to 127,000 after viral photos confirmed
   - 2,500 visitors per day in 2016 confirmed

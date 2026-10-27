@@ -44,7 +44,7 @@ The Taipei Railway Workshop occupies a large site at approximately 25.047°N, 12
 - [National Railway Museum - History](https://www.nrm.gov.tw/en/cp.aspx?n=3384)
   - Site designated for National Railway Museum and Park
   - Museum began partial public opening in 2025
-- [Sun Yat-sen Memorial Hall Station / Nanjing Sanmin Station access - Wikipedia](https://en.wikipedia.org/wiki/Taipei_Railway_Workshop)
+- [Sun Yat-sen Memorial Hall Station / Nanjing Sanmin Station access - Wikipedia](https://en.wikipedia.org/?curid=46657055)
   - Sun Yat-sen Memorial Hall Station and Nanjing Sanmin Station confirmed as nearest MRT access points
 
 ## Review Notes

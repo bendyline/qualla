@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/z/p/8/llotja-de-la-seda-wp/hero.jpg",
-        "filename": "Llonja.jpg",
-        "caption": "Llotja de la Seda (València).",
-        "alt": "Llotja de la Seda (València).",
-        "width": 2126,
-        "height": 1485,
+        "path": "_m/e/z/p/8/llotja-de-la-seda-wp/valencia-la-lonja-de-la-seda-2.jpg",
+        "filename": "Valencia - La Lonja de la Seda 2.jpg",
+        "caption": "La Lonja de la Seda, de Zijdebeurs, Valencia",
+        "alt": "La Lonja de la Seda, de Zijdebeurs, Valencia",
+        "width": 6192,
+        "height": 4128,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Felivet",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Llonja.jpg",
-        "sourceType": "core",
+        "license": "CC0",
+        "artist": "Coralma*",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valencia_-_La_Lonja_de_la_Seda_2.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "llotja-de-la-seda-wp",
         "sourceGeohash4": "ezp8",
-        "categories": [
-          "Buildings in the province of Valencia photographed in 2008",
-          "January 2008 in Valencia",
-          "Llotja de la Seda - Exterior",
-          "PD-self",
-          "Self-published work",
-          "Spain photographs taken on 2008-01-01",
-          "Taken with Canon PowerShot S70"
-        ]
+        "mediumPath": "_m/e/z/p/8/llotja-de-la-seda-wp/valencia-la-lonja-de-la-seda-2-medium.webp",
+        "smallPath": "_m/e/z/p/8/llotja-de-la-seda-wp/valencia-la-lonja-de-la-seda-2-small.webp"
       },
       "images": [
         {
@@ -81,7 +74,7 @@
           "smallPath": "_m/e/z/p/8/llotja-de-la-seda-wp/gargoyles-llotja-de-la-small.webp"
         },
         {
-          "path": "_m/e/z/p/8/llotja-de-la-seda-wp/lonja-techo-fisheye.jpg",
+          "path": "_m/e/z/p/8/valencia-wp/lonja-techo-fisheye.jpg",
           "filename": "Lonja Techo Fisheye.jpg",
           "caption": "This is a photo of a monument listed in the Spanish heritage register of Bienes de Interés Cultural under the reference RI-51-0000968.\n\nFisheye view of the ceiling of the Salón Columnario of the Lonja de la Seda de Valencia, showing its characteristic columns",
           "alt": "This is a photo of a monument listed in the Spanish heritage register of Bienes de Interés Cultural under the reference RI-51-0000968.\n\nFisheye view of the ceiling of the Salón Columnario of the Lonja de la Seda de Valencia, showing its characteristic columns",
@@ -112,7 +105,9 @@
             "Self-published work",
             "Spain photographs taken on 2015-07-18",
             "Uploaded via Campaign:wlm-es"
-          ]
+          ],
+          "mediumPath": "_m/e/z/p/8/valencia-wp/lonja-techo-fisheye-medium.webp",
+          "smallPath": "_m/e/z/p/8/valencia-wp/lonja-techo-fisheye-small.webp"
         },
         {
           "path": "_m/e/z/p/8/llotja-de-la-seda-wp/la-lonja-de-la-seda-de.jpg",
@@ -163,7 +158,7 @@
           "smallPath": "_m/e/z/p/8/llotja-de-la-seda-wp/silk-exchange-valencia-small.webp"
         },
         {
-          "path": "_m/e/z/p/8/llotja-de-la-seda-wp/valencia-loggia-della-seta-int.jpg",
+          "path": "_m/e/z/p/8/valencia-wp/valencia-loggia-della-seta-int.jpg",
           "filename": "Valencia, loggia della seta, interno, sala delle contrattazioni, 01,0.jpg",
           "caption": "Llotja de la Seda",
           "alt": "Llotja de la Seda",
@@ -175,7 +170,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valencia,_loggia_della_seta,_interno,_sala_delle_contrattazioni,_01,0.jpg",
           "sourceType": "core",
           "sourceArticleId": "llotja-de-la-seda-wp",
-          "sourceGeohash4": "ezp8"
+          "sourceGeohash4": "ezp8",
+          "mediumPath": "_m/e/z/p/8/valencia-wp/valencia-loggia-della-seta-int-medium.webp",
+          "smallPath": "_m/e/z/p/8/valencia-wp/valencia-loggia-della-seta-int-small.webp"
         },
         {
           "path": "_m/e/z/p/8/llotja-de-la-seda-wp/placamercat.jpg",
@@ -431,7 +428,8 @@
             "Photos taken by user:Marcbela",
             "Self-published work",
             "Taken with Olympus E-300"
-          ]
+          ],
+          "smallPath": "_m/d/r/t/6/lowell-mills-wk/lowell-national-histor-small.webp"
         },
         {
           "path": "_m/tpc/si/lk/__/__/silk/courtyardfranzmayer.jpg",
@@ -454,7 +452,8 @@
             "Self-published work",
             "Taken with Canon PowerShot A560",
             "Temple San Juan de Dios, Mexico City - Exterior"
-          ]
+          ],
+          "smallPath": "_m/tpc/si/lk/__/__/silk/courtyardfranzmayer-small.webp"
         },
         {
           "path": "_m/tpc/si/lk/__/__/silk/making-peruvian-inca-textiles.jpg",
@@ -479,7 +478,8 @@
             "Taken with Canon EOS 30D",
             "Textiles of Peru",
             "Weaving in Peru"
-          ]
+          ],
+          "smallPath": "_m/tpc/si/lk/__/__/silk/making-peruvian-inca-textiles-small.webp"
         },
         {
           "path": "_m/tpc/si/lk/__/__/silk/werstas-entrance.jpg",
@@ -494,7 +494,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Werstas_Entrance.JPG",
           "sourceType": "poi",
           "sourceArticleId": "silk",
-          "sourceGeohash4": "tpc/si/lk/__/__"
+          "sourceGeohash4": "tpc/si/lk/__/__",
+          "mediumPath": "_m/tpc/si/lk/__/__/silk/werstas-entrance-medium.webp",
+          "smallPath": "_m/tpc/si/lk/__/__/silk/werstas-entrance-small.webp"
         },
         {
           "path": "_m/tpc/si/lk/__/__/silk/wanha-villatehdas.jpg",
@@ -509,7 +511,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wanha_Villatehdas.jpg",
           "sourceType": "poi",
           "sourceArticleId": "silk",
-          "sourceGeohash4": "tpc/si/lk/__/__"
+          "sourceGeohash4": "tpc/si/lk/__/__",
+          "mediumPath": "_m/tpc/si/lk/__/__/silk/wanha-villatehdas-medium.webp",
+          "smallPath": "_m/tpc/si/lk/__/__/silk/wanha-villatehdas-small.webp"
         },
         {
           "path": "_m/tpc/si/lk/__/__/silk/angers-place-pdt-kennedy-2015a.jpg",
@@ -524,7 +528,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angers_place_pdt_Kennedy-2015a.JPG",
           "sourceType": "poi",
           "sourceArticleId": "silk",
-          "sourceGeohash4": "tpc/si/lk/__/__"
+          "sourceGeohash4": "tpc/si/lk/__/__",
+          "mediumPath": "_m/tpc/si/lk/__/__/silk/angers-place-pdt-kennedy-2015a-medium.webp",
+          "smallPath": "_m/tpc/si/lk/__/__/silk/angers-place-pdt-kennedy-2015a-small.webp"
         },
         {
           "path": "_m/tpc/si/lk/__/__/silk/2016-kuala-lumpur-narodowe-muz.jpg",
@@ -539,7 +545,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Narodowe_Muzeum_W%C5%82%C3%B3kiennictwa.jpg",
           "sourceType": "poi",
           "sourceArticleId": "silk",
-          "sourceGeohash4": "tpc/si/lk/__/__"
+          "sourceGeohash4": "tpc/si/lk/__/__",
+          "mediumPath": "_m/tpc/si/lk/__/__/silk/2016-kuala-lumpur-narodowe-muz-medium.webp",
+          "smallPath": "_m/tpc/si/lk/__/__/silk/2016-kuala-lumpur-narodowe-muz-small.webp"
         },
         {
           "path": "_m/tpc/si/lk/__/__/silk/national-quilt-museum.jpg",
@@ -554,7 +562,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Quilt_Museum.jpg",
           "sourceType": "poi",
           "sourceArticleId": "silk",
-          "sourceGeohash4": "tpc/si/lk/__/__"
+          "sourceGeohash4": "tpc/si/lk/__/__",
+          "mediumPath": "_m/tpc/si/lk/__/__/silk/national-quilt-museum-medium.webp",
+          "smallPath": "_m/tpc/si/lk/__/__/silk/national-quilt-museum-small.webp"
         }
       ],
       "narration": [

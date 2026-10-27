@@ -33,7 +33,7 @@ The attack occurred near central Caracas at approximately 10.481N, 66.904W, alon
 ## Sources
 
 - [Attack on Richard Nixon's motorcade - Wikipedia](https://en.wikipedia.org/?curid=53479213)
-- [Attack on Richard Nixon's motorcade - Wikipedia (fact check)](https://en.wikipedia.org/wiki/Attack_on_Richard_Nixon%27s_motorcade)
+- [Attack on Richard Nixon's motorcade - Wikipedia (fact check)](https://en.wikipedia.org/?curid=53479213)
   - May 1958 date confirmed
   - Attack lasted twelve minutes confirmed
   - Venezuelan foreign minister Oscar Garcia Velutini present and quoted confirmed

@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/c/c/camanche-reservoir-wp/hero.jpg",
-        "filename": "Camanche Reservoir From A320.jpg",
-        "caption": "Aerial image of Camanche Reservoir from an Airbus 320 en route from San Francisco to Austin.",
-        "alt": "Aerial image of Camanche Reservoir from an Airbus 320 en route from San Francisco to Austin.",
-        "width": 3885,
-        "height": 2577,
-        "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "TheAustinMan",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camanche_Reservoir_From_A320.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "camanche-reservoir-wp",
-        "sourceGeohash4": "9qcc",
-        "categories": [
-          "CC-BY-3.0",
-          "Images with extracted images",
-          "Reservoirs in California",
-          "Self-published work"
-        ]
+        "path": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero.png",
+        "filename": "Relief map of California.png",
+        "caption": "Relief map of California, USA.",
+        "alt": "Relief map of California, USA.",
+        "width": 681,
+        "height": 780,
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Nzeemin",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Relief_map_of_California.png",
+        "smallPath": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/c/c/camanche-reservoir-wp/hero.png",
+          "path": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero.png",
           "filename": "Relief map of California.png",
           "caption": "Relief map of California, USA.",
           "alt": "Relief map of California, USA.",
@@ -50,7 +42,8 @@
             "Self-published work",
             "Topographic maps of California",
             "Vaca Mountains"
-          ]
+          ],
+          "smallPath": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero-small.webp"
         }
       ],
       "narration": [
@@ -63,8 +56,9 @@
         "_m/9/q/c/c/camanche-reservoir-wp/9qcc-camanche-reservoir-fifty-six-miles-of-shoreline.mp3"
       ],
       "combinedNarration": "_m/9/q/c/c/camanche-reservoir-wp/9qcc-camanche-reservoir-combined.mp3",
-      "combinedNarrationBytes": 4355427,
-      "combinedNarrationDuration": 362
+      "combinedNarrationBytes": 4442972,
+      "combinedNarrationDuration": 362,
+      "combinedCover": "_m/9/q/c/c/camanche-reservoir-wp/9qcc-camanche-reservoir-combined-cover.jpg"
     }
   }
 }

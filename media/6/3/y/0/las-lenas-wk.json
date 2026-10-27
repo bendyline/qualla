@@ -3,17 +3,17 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/3/y/0/las-lenas-wk/hero.jpg",
-        "filename": "Las Leñas Arg.jpg",
-        "caption": "Las Leñas",
-        "alt": "Las Leñas",
-        "width": 3084,
-        "height": 4644,
+        "path": "_m/6/3/y/0/las-lenas-wk/las-lenas-nevado.jpg",
+        "filename": "Las Leñas Nevado.jpg",
+        "caption": "las Leñas",
+        "alt": "las Leñas",
+        "width": 4644,
+        "height": 3084,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
         "artist": "Calamarcito",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Las_Le%C3%B1as_Arg.jpg",
-        "sourceType": "core",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Las_Le%C3%B1as_Nevado.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "las-lenas-wk",
         "sourceGeohash4": "63y0",
         "categories": [
@@ -24,7 +24,9 @@
           "Taken with Nikon D3100",
           "Uploaded via Campaign:Wiki Tour Argentina 2014",
           "Wiki Tour Argentina 2014"
-        ]
+        ],
+        "mediumPath": "_m/6/3/y/0/las-lenas-wk/las-lenas-nevado-medium.webp",
+        "smallPath": "_m/6/3/y/0/las-lenas-wk/las-lenas-nevado-small.webp"
       },
       "images": [
         {
@@ -188,7 +190,8 @@
             "CC-BY-SA-4.0",
             "Maps of the Pan American Games",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/6/3/y/0/las-lenas-wp/1990-pan-american-games-countr-small.webp"
         },
         {
           "path": "_m/tpc/ma/la/rg/ue/malargue/cdas-building.jpg",
@@ -209,7 +212,9 @@
             "Central Campus, Pierre Auger Observatory",
             "Self-published work",
             "Taken with Olympus E-3"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ma/la/rg/ue/malargue/cdas-building-medium.webp",
+          "smallPath": "_m/tpc/ma/la/rg/ue/malargue/cdas-building-small.webp"
         }
       ],
       "narration": [

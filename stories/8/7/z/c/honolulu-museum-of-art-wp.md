@@ -28,7 +28,7 @@ Closely affiliated with the museum is Shangri La, the oceanfront estate built by
 
 ## Flight Context
 
-Located at 21.30N, 157.85W in the Makiki neighborhood of Honolulu, about 1 mile north of Waikiki. The museum's low-rise courtyard campus with tiled roofs is nestled among residential streets near Thomas Square. Best observed at 2,000-3,000 feet AGL. Nearby Shangri La (Doris Duke estate) is visible at the foot of Diamond Head to the SE. Nearest airport: PHNL (Honolulu International, 5 nm NW).
+Located at 21.30N, 157.85W in the Makiki neighborhood of Honolulu, about 1 mile north of Waikiki. The museum's low-rise courtyard campus with tiled roofs is nestled among residential streets near Thomas Square. Best observed at 2,000-3,000 feet AGL. Nearby Shangri La (Doris Duke estate) is visible at the foot of Diamond Head to the SE. Nearest airport: PHNL (Daniel K. Inouye International, formerly Honolulu International, 5 nm NW).
 
 ## Sources
 

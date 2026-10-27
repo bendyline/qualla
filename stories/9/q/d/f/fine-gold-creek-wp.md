@@ -37,7 +37,7 @@ Located at 37.05°N, 119.64°W in the Sierra Nevada foothills of Madera County, 
   - Mining first documented in early 1850s
   - Hildreth and Fresno mining districts
   - 1894 State Mining Bureau survey
-- [Fine Gold Creek - Wikipedia (final review)](https://en.wikipedia.org/wiki/Fine_Gold_Creek)
+- [Fine Gold Creek - Wikipedia (final review)](https://en.wikipedia.org/?curid=23085050)
   - Creek is 18-mile tributary of San Joaquin River
   - Begins at 4,000 feet on south slope of Thornberry Mountain
   - Mouth now empties into Millerton Lake

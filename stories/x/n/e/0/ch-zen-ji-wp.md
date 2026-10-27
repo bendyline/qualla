@@ -33,7 +33,7 @@ Located at 36.73°N, 139.49°E on the eastern shore of Lake Chuzenji at 1,269 me
 ## Sources
 
 - [Zen - Wikipedia](https://en.wikipedia.org/?curid=30153241)
-- [Chuzen-ji - Wikipedia](https://en.wikipedia.org/wiki/Ch%C5%ABzen-ji)
+- [Chuzen-ji - Wikipedia](https://en.wikipedia.org/?curid=80705515)
 - [Chuzenji Temple - Nikko-zan Rinnoji Official Site](https://www.rinnoji.or.jp/en/spot/08.html)
   - Founded by priest Shodo in 784 CE
   - Tachiki Kannon carved from katsura tree trunk

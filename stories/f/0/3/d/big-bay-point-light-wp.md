@@ -33,7 +33,7 @@ Located at 46.84°N, 87.68°W on a tall bluff over a rocky point near Big Bay, M
 ## Sources
 
 - [Big Bay Point Light - Wikipedia](https://en.wikipedia.org/?curid=7016461)
-- [Big Bay Point Light - Wikipedia and supporting sources](https://en.wikipedia.org/wiki/Big_Bay_Point_Light)
+- [Big Bay Point Light - Wikipedia and supporting sources](https://en.wikipedia.org/?curid=7016461)
   - Corrected: Prior's son named George (full name George Edward Prior), not Edward
   - William Prior disappeared June 28, 1901 after son George died June 13, 1901
   - Body found approximately 17 months later (a year and a half) hanging from a tree about a mile from the lighthouse

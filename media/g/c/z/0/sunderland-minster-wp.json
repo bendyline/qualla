@@ -3,34 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/z/0/sunderland-minster-wp/hero.jpg",
-        "filename": "Sunderland Minster (geograph 1841095).jpg",
-        "caption": "Minster Church of St Michael and All Angels and St Benedict Biscop, Church Lane, Sunderland, Tyne and Wear, seen from the south",
-        "alt": "Minster Church of St Michael and All Angels and St Benedict Biscop, Church Lane, Sunderland, Tyne and Wear, seen from the south",
-        "width": 1600,
-        "height": 1200,
+        "path": "_m/g/c/z/0/sunderland-minster-wp/minster-sunderland-1.jpg",
+        "filename": "Minster Sunderland 1.jpg",
+        "caption": "Minster, Sunderland.",
+        "alt": "Minster, Sunderland.",
+        "width": 5184,
+        "height": 3456,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Jonathan Thacker",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunderland_Minster_(geograph_1841095).jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Chabe01",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minster_Sunderland_1.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "sunderland-minster-wp",
         "sourceGeohash4": "gcz0",
-        "categories": [
-          "CC-BY-SA-2.0",
-          "Clerestories in Tyne and Wear",
-          "Clocks in Tyne and Wear",
-          "Cruciform churches in Tyne and Wear",
-          "Gothic Revival church towers in Tyne and Wear",
-          "Images by Jonathan Thacker",
-          "Images from Geograph Britain and Ireland",
-          "Information field template with formatting",
-          "Listed buildings in England with known IDs",
-          "Railings in Tyne and Wear",
-          "Sunderland Minster",
-          "Transepts in Tyne and Wear",
-          "United Kingdom photographs taken on 2009-11-18"
-        ]
+        "mediumPath": "_m/g/c/z/0/sunderland-minster-wp/minster-sunderland-1-medium.webp",
+        "smallPath": "_m/g/c/z/0/sunderland-minster-wp/minster-sunderland-1-small.webp"
       },
       "images": [
         {
@@ -238,7 +225,7 @@
           "smallPath": "_m/g/c/z/0/sunderland-minster-wp/sunderland-sunderland-minster--small.webp"
         },
         {
-          "path": "_m/g/c/z/0/sunderland-minster-wp/hero.jpg",
+          "path": "_m/g/c/z/0/bishopwearmouth-wp/hero.jpg",
           "filename": "Bishopwearmouth.jpg",
           "caption": "w:Bishopwearmouth Sunderland, depicting the city Minster and the newly created village green park in 2020.",
           "alt": "w:Bishopwearmouth Sunderland, depicting the city Minster and the newly created village green park in 2020.",
@@ -250,7 +237,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bishopwearmouth.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "bishopwearmouth-wp",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "mediumPath": "_m/g/c/z/0/bishopwearmouth-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/z/0/bishopwearmouth-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/z/0/sunderland-minster-wp/sunderland-collage-2022.jpg",
@@ -323,7 +312,8 @@
             "Self-published work",
             "Sunderland station",
             "Taken with Panasonic Lumix DMC-FZ20"
-          ]
+          ],
+          "smallPath": "_m/g/c/z/0/sunderland-wp/sunderland-station-metro-platf-small.webp"
         },
         {
           "path": "_m/g/c/z/0/sunderland-wp/sunderland-empire.jpg",
@@ -347,7 +337,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon PowerShot G5"
-          ]
+          ],
+          "smallPath": "_m/g/c/z/0/sunderland-wp/sunderland-empire-small.webp"
         },
         {
           "path": "_m/g/c/z/0/monkwearmouth-railway-bridge-wp/hero.jpg",
@@ -362,7 +353,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wearmouth_Bridge,_Sunderland.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "monkwearmouth-railway-bridge-wp",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "smallPath": "_m/g/c/z/0/monkwearmouth-railway-bridge-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/z/0/sunderland-wp/penshaw-monument-6405902427.jpg",
@@ -377,7 +369,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Penshaw_monument_(6405902427).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sunderland-wp",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "smallPath": "_m/g/c/z/0/sunderland-wp/penshaw-monument-6405902427-small.webp"
         },
         {
           "path": "_m/g/c/z/0/sunderland-wk/william-pile-s-shipyard-north-.jpg",
@@ -392,7 +385,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Pile%27s_Shipyard,_North_Sands,_Sunderland.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sunderland-wk",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "smallPath": "_m/g/c/z/0/sunderland-wk/william-pile-s-shipyard-north--small.webp"
         },
         {
           "path": "_m/g/c/z/0/sunderland-wp/sunderland-museum-and-winter-g.jpg",
@@ -407,7 +401,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunderland_Museum_and_Winter_Gardens_05.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sunderland-wp",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "smallPath": "_m/g/c/z/0/sunderland-wp/sunderland-museum-and-winter-g-small.webp"
         },
         {
           "path": "_m/tpc/ha/dr/ia/n-/hadrian-s-wall/tyne-bridge-newcastle-upon-tyn.jpg",
@@ -430,7 +425,8 @@
             "Self-published work",
             "Tuxedo Princess (ship, 1961)",
             "Tyne Bridge"
-          ]
+          ],
+          "smallPath": "_m/tpc/ha/dr/ia/n-/hadrian-s-wall/tyne-bridge-newcastle-upon-tyn-small.webp"
         },
         {
           "path": "_m/g/c/y/b/tyne-and-wear-wp/wearmouth-bridge.jpg",
@@ -457,7 +453,8 @@
             "Self-published work",
             "United Kingdom photographs taken on 2005-09-08",
             "Wearmouth Bridge"
-          ]
+          ],
+          "smallPath": "_m/g/c/y/b/tyne-and-wear-wp/wearmouth-bridge-small.webp"
         },
         {
           "path": "_m/g/c/y/b/gateshead-wp/fly-angel.jpg",
@@ -485,7 +482,9 @@
             "Freedom of panorama works possibly copyrighted in the U.S.",
             "Picture of week on the Czech Wikipedia",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/y/b/gateshead-wp/fly-angel-medium.webp",
+          "smallPath": "_m/g/c/y/b/gateshead-wp/fly-angel-small.webp"
         },
         {
           "path": "_m/g/c/y/b/tyne-and-wear-wp/washington.jpg",
@@ -505,7 +504,8 @@
             "CC-BY-SA-2.5",
             "Taken with Canon EOS 400D",
             "Washington, Tyne and Wear"
-          ]
+          ],
+          "smallPath": "_m/g/c/y/b/tyne-and-wear-wp/washington-small.webp"
         },
         {
           "path": "_m/g/c/y/b/tyne-and-wear-wp/stotty1.jpg",
@@ -532,7 +532,8 @@
             "Self-published work",
             "Taken with Sony Ericsson K750",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/c/y/b/tyne-and-wear-wp/stotty1-small.webp"
         },
         {
           "path": "_m/g/c/y/b/tyne-and-wear-wp/washingtonoldhall.jpg",
@@ -547,7 +548,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:WashingtonOldHall.jpg",
           "sourceType": "poi",
           "sourceArticleId": "tyne-and-wear-wp",
-          "sourceGeohash4": "gcyb"
+          "sourceGeohash4": "gcyb",
+          "mediumPath": "_m/g/c/y/b/tyne-and-wear-wp/washingtonoldhall-medium.webp",
+          "smallPath": "_m/g/c/y/b/tyne-and-wear-wp/washingtonoldhall-small.webp"
         },
         {
           "path": "_m/g/c/y/8/north-east-england-wk/newcastle-quayside-with-bridge.jpg",
@@ -562,7 +565,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newcastle_Quayside_with_bridges.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-east-england-wk",
-          "sourceGeohash4": "gcyb"
+          "sourceGeohash4": "gcyb",
+          "mediumPath": "_m/g/c/y/8/north-east-england-wk/newcastle-quayside-with-bridge-medium.webp",
+          "smallPath": "_m/g/c/y/8/north-east-england-wk/newcastle-quayside-with-bridge-small.webp"
         },
         {
           "path": "_m/g/c/y/b/tyne-and-wear-wp/dove-marine-laboratory.jpg",
@@ -577,7 +582,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dove_Marine_Laboratory.jpg",
           "sourceType": "poi",
           "sourceArticleId": "tyne-and-wear-wp",
-          "sourceGeohash4": "gcyb"
+          "sourceGeohash4": "gcyb",
+          "smallPath": "_m/g/c/y/b/tyne-and-wear-wp/dove-marine-laboratory-small.webp"
         },
         {
           "path": "_m/g/c/y/b/tyne-and-wear-wp/south-shields-town-hall-2013.jpg",
@@ -592,7 +598,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:South_Shields_Town_Hall_2013.jpg",
           "sourceType": "poi",
           "sourceArticleId": "tyne-and-wear-wp",
-          "sourceGeohash4": "gcyb"
+          "sourceGeohash4": "gcyb",
+          "mediumPath": "_m/g/c/y/b/tyne-and-wear-wp/south-shields-town-hall-2013-medium.webp",
+          "smallPath": "_m/g/c/y/b/tyne-and-wear-wp/south-shields-town-hall-2013-small.webp"
         }
       ],
       "narration": [

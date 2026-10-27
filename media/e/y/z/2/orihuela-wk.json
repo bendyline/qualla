@@ -3,29 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/y/z/2/orihuela-wk/hero.jpg",
-        "filename": "Cimborrio Santo Domingo Orihuela.JPG",
-        "caption": "Cimbori, cúpula i torre del colegi de Santo Domingo, Oriola.",
-        "alt": "Cimbori, cúpula i torre del colegi de Santo Domingo, Oriola.",
-        "width": 4320,
-        "height": 3240,
-        "mimeType": "image/jpeg",
+        "path": "_m/e/y/z/2/orihuela-wk/poblacion-de-orihuela.png",
+        "filename": "Población de Orihuela.png",
+        "caption": "Gráfica de la evolución de la población de Orihuela",
+        "alt": "Gráfica de la evolución de la población de Orihuela",
+        "width": 815,
+        "height": 748,
+        "mimeType": "image/png",
         "license": "Public domain",
         "artist": "Xinese-v",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cimborrio_Santo_Domingo_Orihuela.JPG",
-        "sourceType": "core",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poblaci%C3%B3n_de_Orihuela.png",
+        "sourceType": "commons-category",
         "sourceArticleId": "orihuela-wk",
         "sourceGeohash4": "eyz2",
         "categories": [
-          "Exterior of the Colegio de Santo Domingo (Orihuela)",
+          "Demographics of the Land of Valencia",
+          "Orihuela",
           "PD-self",
-          "Self-published work",
-          "Taken with Sony DSC-W320"
-        ]
+          "Self-published work"
+        ],
+        "smallPath": "_m/e/y/z/2/orihuela-wk/poblacion-de-orihuela-small.webp"
       },
       "images": [
         {
-          "path": "_m/e/y/z/2/orihuela-wk/portada-anunciacion-catedral-d.jpg",
+          "path": "_m/e/y/z/2/orihuela-wp/portada-anunciacion-catedral-d.jpg",
           "filename": "Portada anunciación, catedral de orihuela.JPG",
           "caption": "Portada de la Anunciación de la Catedral de Orihuela, Comunidad Valenciana, España.",
           "alt": "Portada de la Anunciación de la Catedral de Orihuela, Comunidad Valenciana, España.",
@@ -44,11 +45,11 @@
             "Self-published work",
             "Taken with Sony DSC-W320"
           ],
-          "mediumPath": "_m/e/y/z/2/orihuela-wk/portada-anunciacion-catedral-d-medium.webp",
-          "smallPath": "_m/e/y/z/2/orihuela-wk/portada-anunciacion-catedral-d-small.webp"
+          "mediumPath": "_m/e/y/z/2/orihuela-wp/portada-anunciacion-catedral-d-medium.webp",
+          "smallPath": "_m/e/y/z/2/orihuela-wp/portada-anunciacion-catedral-d-small.webp"
         },
         {
-          "path": "_m/e/y/z/2/orihuela-wk/orihuela-catedral-del-salvador.jpg",
+          "path": "_m/e/y/z/2/orihuela-wp/orihuela-catedral-del-salvador.jpg",
           "filename": "Orihuela - Catedral del Salvador 13.jpg",
           "caption": "Catedral del Salvador de Orihuela (Alicante)",
           "alt": "Catedral del Salvador de Orihuela (Alicante)",
@@ -67,7 +68,7 @@
             "Church facades in the province of Alicante",
             "Self-published work"
           ],
-          "smallPath": "_m/e/y/z/2/orihuela-wk/orihuela-catedral-del-salvador-small.webp"
+          "smallPath": "_m/e/y/z/2/orihuela-wp/orihuela-catedral-del-salvador-small.webp"
         },
         {
           "path": "_m/e/y/z/2/orihuela-wk/poblacion-de-orihuela.png",
@@ -156,7 +157,8 @@
             "Interior of the Cathedral of Orihuela",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/e/y/z/2/orihuela-wp/ori-018-small.webp"
         },
         {
           "path": "_m/e/y/z/2/orihuela-wp/playa-flamenca-orihuela.jpg",
@@ -176,7 +178,8 @@
             "Beaches of Orihuela",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/e/y/z/2/orihuela-wp/playa-flamenca-orihuela-small.webp"
         },
         {
           "path": "_m/e/y/z/2/orihuela-wp/conjunto-historico-de-orihuela.jpg",
@@ -196,7 +199,8 @@
             "Architecture of Orihuela",
             "CC-BY-SA-4.0",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/e/y/z/2/orihuela-wp/conjunto-historico-de-orihuela-small.webp"
         },
         {
           "path": "_m/e/y/z/2/orihuela-wp/bandera-d-oriola-anvers.png",
@@ -218,7 +222,9 @@
             "PNG that should use vector graphics",
             "Symbols of Orihuela",
             "With insignia"
-          ]
+          ],
+          "mediumPath": "_m/e/y/z/2/orihuela-wp/bandera-d-oriola-anvers-medium.webp",
+          "smallPath": "_m/e/y/z/2/orihuela-wp/bandera-d-oriola-anvers-small.webp"
         },
         {
           "path": "_m/e/y/z/0/murcia-city-wk/castillo-arabe-de-mont.jpg",
@@ -247,7 +253,8 @@
             "Images from Wiki Loves Monuments missing SDC location of creation",
             "Self-published work",
             "Spain photographs taken on 2011-09-23"
-          ]
+          ],
+          "smallPath": "_m/e/y/z/0/murcia-city-wk/castillo-arabe-de-mont-small.webp"
         },
         {
           "path": "_m/e/y/z/0/murcia-city-wk/hero.jpg",
@@ -277,7 +284,9 @@
             "Self-published work",
             "Spain photographs taken on 2011-09-25",
             "Taken with Olympus E-300"
-          ]
+          ],
+          "mediumPath": "_m/e/y/z/0/murcia-city-wk/hero-medium.webp",
+          "smallPath": "_m/e/y/z/0/murcia-city-wk/hero-small.webp"
         },
         {
           "path": "_m/e/y/z/0/murcia-city-wk/plaza-del-cardenal-bel.jpg",
@@ -300,7 +309,8 @@
             "June 2014 in Murcia",
             "Plaza del Cardenal Belluga",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/e/y/z/0/murcia-city-wk/plaza-del-cardenal-bel-small.webp"
         },
         {
           "path": "_m/e/y/z/0/murcia-city-wk/footpath-pr-mu-69-poin.jpg",
@@ -320,7 +330,9 @@
             "CC-BY-SA-4.0",
             "Files with coordinates missing SDC location of creation",
             "Forests in the Region of Murcia"
-          ]
+          ],
+          "mediumPath": "_m/e/y/z/0/murcia-city-wk/footpath-pr-mu-69-poin-medium.webp",
+          "smallPath": "_m/e/y/z/0/murcia-city-wk/footpath-pr-mu-69-poin-small.webp"
         },
         {
           "path": "_m/e/y/x/q/mar-menor-wp/airm-corvera-exterior.jpg",
@@ -335,7 +347,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:AIRM_-_Corvera_-_Exterior.jpg",
           "sourceType": "poi",
           "sourceArticleId": "mar-menor-wp",
-          "sourceGeohash4": "eyz0"
+          "sourceGeohash4": "eyz0",
+          "smallPath": "_m/e/y/x/q/mar-menor-wp/airm-corvera-exterior-small.webp"
         },
         {
           "path": "_m/e/y/z/0/murcia-cathedral-wp/murcia-2022-west-facad.jpg",
@@ -350,7 +363,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Murcia_2022_-_West_facade_1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "murcia-cathedral-wp",
-          "sourceGeohash4": "eyz0"
+          "sourceGeohash4": "eyz0",
+          "mediumPath": "_m/e/y/z/0/murcia-cathedral-wp/murcia-2022-west-facad-medium.webp",
+          "smallPath": "_m/e/y/z/0/murcia-cathedral-wp/murcia-2022-west-facad-small.webp"
         }
       ],
       "narration": [

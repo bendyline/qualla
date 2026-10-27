@@ -33,7 +33,7 @@ Located at 35.057N, 135.571E in the Kameoka Basin, approximately 20km west of ce
 ## Sources
 
 - [Chitose Kurumazuka Kofun - Wikipedia](https://en.wikipedia.org/?curid=70709020)
-- [Wikipedia - Chitose Kurumazuka Kofun](https://en.wikipedia.org/wiki/Chitose_Kurumazuka_Kofun)
+- [Wikipedia - Chitose Kurumazuka Kofun](https://en.wikipedia.org/?curid=70709020)
   - Current length 82 meters, estimated original length 88 meters confirmed
   - Largest tumulus in Tamba region confirmed
   - First half of 6th century dating confirmed

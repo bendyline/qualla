@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/hero.jpg",
-        "filename": "Tai tam reservoir road bridge.JPG",
-        "caption": "Tai Lam Upper Reservoir Masonary Bridge",
-        "alt": "Tai Lam Upper Reservoir Masonary Bridge",
-        "width": 2304,
-        "height": 1728,
+        "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/photo-historic-buildin.jpg",
+        "filename": "寶雲道古運水道.jpg",
+        "caption": "This is a photo of a historic building in Hong Kong identified by the ID",
+        "alt": "This is a photo of a historic building in Hong Kong identified by the ID",
+        "width": 4912,
+        "height": 1920,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "No machine-readable author provided. Luitk assumed (based on copyright claims).",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tai_tam_reservoir_road_bridge.JPG",
+        "license": "CC BY-SA 3.0",
+        "artist": "Ngchiyiu",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%AF%B6%E9%9B%B2%E9%81%93%E5%8F%A4%E9%81%8B%E6%B0%B4%E9%81%93.jpg",
         "sourceType": "core",
         "sourceArticleId": "tai-tam-waterworks-heritage-trail-wp",
         "sourceGeohash4": "wecn",
-        "categories": [
-          "Assumed own work",
-          "Files with no machine-readable source",
-          "PD-self",
-          "Photographs taken on 2007-04-08",
-          "Self-published work",
-          "Tai Tam Upper Reservoir Masonry Bridge",
-          "Taken with Pentax Optio S40"
-        ]
+        "mediumPath": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/photo-historic-buildin-medium.webp",
+        "smallPath": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/photo-historic-buildin-small.webp"
       },
       "images": [
         {
@@ -54,7 +47,7 @@
           "smallPath": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/photo-tai-tam-reservoi-small.webp"
         },
         {
-          "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/photo-tai-tam-upper-re.jpg",
+          "path": "_m/w/e/c/n/tai-tam-reservoirs-wp/photo-tai-tam-upper-re.jpg",
           "filename": "Tai Tam Reservoir 3.jpg",
           "caption": "Photo of Tai Tam Upper Reservoir Masonry Aqueduct",
           "alt": "Photo of Tai Tam Upper Reservoir Masonry Aqueduct",
@@ -76,7 +69,8 @@
             "Self-published work",
             "Tai Tam Upper Reservoir Masonry Aqueduct",
             "Taken with Canon PowerShot A75"
-          ]
+          ],
+          "smallPath": "_m/w/e/c/n/tai-tam-reservoirs-wp/photo-tai-tam-upper-re-small.webp"
         },
         {
           "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/gallery-3.jpg",
@@ -107,7 +101,7 @@
           "smallPath": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/gallery-3-small.webp"
         },
         {
-          "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/tai-tam-tuk-reservoir.jpg",
+          "path": "_m/w/e/c/n/tai-tam-reservoirs-wp/tai-tam-tuk-reservoir.jpg",
           "filename": "大潭篤水塘大石橋.jpg",
           "caption": "Tai Tam Tuk Reservoir Masonry Bridge",
           "alt": "Tai Tam Tuk Reservoir Masonry Bridge",
@@ -126,7 +120,9 @@
             "License migration redundant",
             "Masonry Bridge of the Tai Tam Tuk Reservoir (bridge No. 1)",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/e/c/n/tai-tam-reservoirs-wp/tai-tam-tuk-reservoir-medium.webp",
+          "smallPath": "_m/w/e/c/n/tai-tam-reservoirs-wp/tai-tam-tuk-reservoir-small.webp"
         },
         {
           "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/tai-tam-intermediate-r-1.jpg",
@@ -149,7 +145,8 @@
             "Self-published work",
             "Tai Tam Intermediate Reservoir Valve House",
             "Taken with Nikon Coolpix P510"
-          ]
+          ],
+          "smallPath": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/tai-tam-intermediate-r-1-small.webp"
         },
         {
           "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/tai-tam-byewash-reserv.jpg",
@@ -176,7 +173,7 @@
           "smallPath": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/tai-tam-byewash-reserv-small.webp"
         },
         {
-          "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/tai-tam-upper-reservoi.jpg",
+          "path": "_m/w/e/c/n/tai-tam-reservoirs-wp/tai-tam-upper-reservoi.jpg",
           "filename": "Tai Tam Upper Reservoir Dam 01.JPG",
           "caption": "Tai Tam Upper Reservoir Dam",
           "alt": "Tai Tam Upper Reservoir Dam",
@@ -191,10 +188,11 @@
           "sourceGeohash4": "wecn",
           "categories": [
             "CC-BY-3.0"
-          ]
+          ],
+          "smallPath": "_m/w/e/c/n/tai-tam-reservoirs-wp/tai-tam-upper-reservoi-small.webp"
         },
         {
-          "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/tai-tam-upper-reservoi-1.jpg",
+          "path": "_m/w/e/c/n/tai-tam-reservoirs-wp/tai-tam-upper-reservoi-1.jpg",
           "filename": "Tai Tam Upper Reservoir Valve House.JPG",
           "caption": "Tai Tam Upper Reservoir Valve House",
           "alt": "Tai Tam Upper Reservoir Valve House",
@@ -206,7 +204,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tai_Tam_Upper_Reservoir_Valve_House.JPG",
           "sourceType": "core",
           "sourceArticleId": "tai-tam-waterworks-heritage-trail-wp",
-          "sourceGeohash4": "wecn"
+          "sourceGeohash4": "wecn",
+          "smallPath": "_m/w/e/c/n/tai-tam-reservoirs-wp/tai-tam-upper-reservoi-1-small.webp"
         },
         {
           "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/tai-tam-intermediate-r-1.jpg",
@@ -241,7 +240,7 @@
           "smallPath": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/tai-tam-tuk-raw-water-small.webp"
         },
         {
-          "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/chimney-shaft-flue-tai.jpg",
+          "path": "_m/w/e/c/n/tai-tam-reservoirs-wp/chimney-shaft-flue-tai.jpg",
           "filename": "Chimney Shaft and its Flue of Tai Tam Tuk Raw Water Pumping Station.JPG",
           "caption": "Chimney Shaft and its Flue of Tai Tam Tuk Raw Water Pumping Station",
           "alt": "Chimney Shaft and its Flue of Tai Tam Tuk Raw Water Pumping Station",
@@ -253,7 +252,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chimney_Shaft_and_its_Flue_of_Tai_Tam_Tuk_Raw_Water_Pumping_Station.JPG",
           "sourceType": "core",
           "sourceArticleId": "tai-tam-waterworks-heritage-trail-wp",
-          "sourceGeohash4": "wecn"
+          "sourceGeohash4": "wecn",
+          "smallPath": "_m/w/e/c/n/tai-tam-reservoirs-wp/chimney-shaft-flue-tai-small.webp"
         },
         {
           "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/tai-tam-tuk-raw-water-2.jpg",
@@ -268,10 +268,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tai_Tam_Tuk_Raw_Water_Pumping_Station_Senior_Staff_Quarters.JPG",
           "sourceType": "core",
           "sourceArticleId": "tai-tam-waterworks-heritage-trail-wp",
-          "sourceGeohash4": "wecn"
+          "sourceGeohash4": "wecn",
+          "mediumPath": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/tai-tam-tuk-raw-water-2-medium.webp",
+          "smallPath": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/tai-tam-tuk-raw-water-2-small.webp"
         },
         {
-          "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/memorial-stone-1918-ta.jpg",
+          "path": "_m/w/e/c/n/tai-tam-reservoirs-wp/memorial-stone-1918-ta.jpg",
           "filename": "Memorial Stone of the Tai Tam Tuk Reservoir.JPG",
           "caption": "Memorial Stone (1918) of the Tai Tam Tuk Reservoir",
           "alt": "Memorial Stone (1918) of the Tai Tam Tuk Reservoir",
@@ -283,10 +285,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Memorial_Stone_of_the_Tai_Tam_Tuk_Reservoir.JPG",
           "sourceType": "core",
           "sourceArticleId": "tai-tam-waterworks-heritage-trail-wp",
-          "sourceGeohash4": "wecn"
+          "sourceGeohash4": "wecn",
+          "smallPath": "_m/w/e/c/n/tai-tam-reservoirs-wp/memorial-stone-1918-ta-small.webp"
         },
         {
-          "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/value-house-tai-tam-tu.jpg",
+          "path": "_m/w/e/c/n/tai-tam-reservoirs-wp/value-house-tai-tam-tu.jpg",
           "filename": "Value House of the Tai Tam Tuk Reservoir.JPG",
           "caption": "Value House of the Tai Tam Tuk Reservoir",
           "alt": "Value House of the Tai Tam Tuk Reservoir",
@@ -298,7 +301,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Value_House_of_the_Tai_Tam_Tuk_Reservoir.JPG",
           "sourceType": "core",
           "sourceArticleId": "tai-tam-waterworks-heritage-trail-wp",
-          "sourceGeohash4": "wecn"
+          "sourceGeohash4": "wecn",
+          "smallPath": "_m/w/e/c/n/tai-tam-reservoirs-wp/value-house-tai-tam-tu-small.webp"
         },
         {
           "path": "_m/w/e/c/n/tai-tam-waterworks-heritage-trail-wp/photo-historic-buildin.jpg",

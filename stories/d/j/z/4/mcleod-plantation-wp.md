@@ -48,7 +48,7 @@ Located at 32.76°N, 79.97°W on James Island, just southwest of downtown Charle
 - [McLeod Plantation Historic Site - Charleston County Parks](https://www.ccprc.com/1447/McLeod-Plantation-Historic-Site)
   - Gullah Geechee Cultural Heritage Corridor designation
   - Confederate field hospital use during Civil War
-- [McLeod Plantation - Wikipedia](https://en.wikipedia.org/wiki/McLeod_Plantation)
+- [McLeod Plantation - Wikipedia](https://en.wikipedia.org/?curid=10268337)
   - Six surviving cabins in Transition Row
   - 55th Massachusetts Volunteer Infantry occupation confirmed
   - Live oak estimated at up to 1,000 years old

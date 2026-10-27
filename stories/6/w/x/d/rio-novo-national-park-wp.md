@@ -36,7 +36,7 @@ Rio Novo National Park is centered at approximately 7.95S, 56.67W in southern Pa
 - [Serra do Cachimbo - Wikipedia](https://en.wikipedia.org/wiki/Serra_do_Cachimbo)
   - Serra do Cachimbo escarpment geography
   - Rivers descending in rapids and waterfalls from escarpment
-- [Rio Novo National Park - Wikipedia](https://en.wikipedia.org/wiki/Rio_Novo_National_Park)
+- [Rio Novo National Park - Wikipedia](https://en.wikipedia.org/?curid=50653980)
   - 538,151 hectares area confirmed (article rounds to 538,000 - acceptable)
   - Created by federal decree on 13 February 2006 confirmed
   - Administered by ICMBio confirmed

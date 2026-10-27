@@ -39,7 +39,7 @@ Kinnitty Castle sits at 53.10N, 7.70W, in the foothills on the northern side of 
   - Ryan family bought 1994 confirmed
   - 37 bedrooms confirmed
   - Derek Warfield of Wolfe Tones connection confirmed
-- [Kinnitty Castle hotel current status 2026](https://en.wikipedia.org/wiki/Kinnitty_Castle)
+- [Kinnitty Castle hotel current status 2026](https://en.wikipedia.org/?curid=13580742)
   - Castle still operating as hotel and conference venue confirmed
   - KBC Bank seized property 2008 banking crisis confirmed
   - Egyptian Revival pyramid in churchyard confirmed

@@ -3,35 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/0/g/deal-castle-wp/hero.jpg",
-        "filename": "Deal Castle Aerial View.jpg",
-        "caption": "Aerial view of Deal Castle on the East coast of Kent (England). Nikon D60 f=85mm f/9 at 1/1250s ISO 800. Processed using Nikon ViewNX 1.5.2 and GIMP 2.6.6.",
-        "alt": "Aerial view of Deal Castle on the East coast of Kent (England). Nikon D60 f=85mm f/9 at 1/1250s ISO 800. Processed using Nikon ViewNX 1.5.2 and GIMP 2.6.6.",
-        "width": 3040,
-        "height": 2052,
+        "path": "_m/u/1/0/g/deal-castle-wp/deal-castle-geograph-org-uk-52.jpg",
+        "filename": "Deal Castle - geograph.org.uk - 5262347.jpg",
+        "caption": "Deal Castle",
+        "alt": "Deal Castle",
+        "width": 4661,
+        "height": 2901,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Lieven Smits",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deal_Castle_Aerial_View.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Michael Garlick",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deal_Castle_-_geograph.org.uk_-_5262347.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "deal-castle-wp",
         "sourceGeohash4": "u10g",
-        "categories": [
-          "Aerial photographs of Kent",
-          "Aerial photographs of castles in England",
-          "April 2011 in Kent",
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "Castles in the United Kingdom photographed in 2011",
-          "Deal Castle",
-          "GFDL",
-          "License migration redundant",
-          "Military during the Tudor period",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/u/1/0/g/deal-castle-wp/deal-castle-geograph-org-uk-52-medium.webp",
+        "smallPath": "_m/u/1/0/g/deal-castle-wp/deal-castle-geograph-org-uk-52-small.webp"
       },
       "images": [
         {
-          "path": "_m/u/1/0/g/deal-castle-wp/pendennis-castle-keep.jpg",
+          "path": "_m/g/c/n/b/hurst-castle-wp/pendennis-castle-keep.jpg",
           "filename": "Pendennis Castle.jpg",
           "caption": "Pendennis Castle keep near Falmouth in Cornwall, taken from the south.",
           "alt": "Pendennis Castle keep near Falmouth in Cornwall, taken from the south.",
@@ -50,7 +40,8 @@
             "Pendennis Castle",
             "Self-published work",
             "September 2002 photographs"
-          ]
+          ],
+          "smallPath": "_m/g/c/n/b/hurst-castle-wp/pendennis-castle-keep-small.webp"
         },
         {
           "path": "_m/u/1/0/g/deal-castle-wp/wenceslas-hollar-deal.jpg",
@@ -553,7 +544,9 @@
             "Listed buildings in England with known IDs",
             "Self-published work",
             "Taken with Fujifilm FinePix F610"
-          ]
+          ],
+          "mediumPath": "_m/u/1/0/e/kent-wk/dartford-town-north-ke-medium.webp",
+          "smallPath": "_m/u/1/0/e/kent-wk/dartford-town-north-ke-small.webp"
         },
         {
           "path": "_m/u/1/0/e/kent-wk/cobbled-street-whitsta.jpg",
@@ -568,7 +561,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cobbled_Street_in_Whitstable.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kent-wk",
-          "sourceGeohash4": "u10e"
+          "sourceGeohash4": "u10e",
+          "mediumPath": "_m/u/1/0/e/kent-wk/cobbled-street-whitsta-medium.webp",
+          "smallPath": "_m/u/1/0/e/kent-wk/cobbled-street-whitsta-small.webp"
         },
         {
           "path": "_m/u/1/0/e/kent-wk/faversham.jpg",
@@ -583,7 +578,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Faversham_Market_(6110526770).jpg",
           "sourceType": "poi",
           "sourceArticleId": "kent-wk",
-          "sourceGeohash4": "u10e"
+          "sourceGeohash4": "u10e",
+          "mediumPath": "_m/u/1/0/e/kent-wk/faversham-medium.webp",
+          "smallPath": "_m/u/1/0/e/kent-wk/faversham-small.webp"
         },
         {
           "path": "_m/u/1/0/e/kent-wk/aerial-viking-bay-broa.jpg",
@@ -598,7 +595,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Broadstairs_aerial_image_(43480169685).jpg",
           "sourceType": "poi",
           "sourceArticleId": "kent-wk",
-          "sourceGeohash4": "u10e"
+          "sourceGeohash4": "u10e",
+          "mediumPath": "_m/u/1/0/e/kent-wk/aerial-viking-bay-broa-medium.webp",
+          "smallPath": "_m/u/1/0/e/kent-wk/aerial-viking-bay-broa-small.webp"
         },
         {
           "path": "_m/u/1/0/e/kent-wk/folkestone-aerial.jpg",
@@ -611,7 +610,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Folkestone_Aerial.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kent-wk",
-          "sourceGeohash4": "u10e"
+          "sourceGeohash4": "u10e",
+          "mediumPath": "_m/u/1/0/e/kent-wk/folkestone-aerial-medium.webp",
+          "smallPath": "_m/u/1/0/e/kent-wk/folkestone-aerial-small.webp"
         }
       ],
       "narration": [

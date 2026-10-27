@@ -3,30 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/w/f/b/battle-of-corycus-wp/hero.jpg",
-        "filename": "Agean non political.jpg",
-        "caption": "Agean non political",
-        "alt": "Agean non political",
-        "width": 1305,
-        "height": 890,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Map created from DEMIS Mapserver, which are public domain.",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agean_non_political.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "battle-of-corycus-wp",
-        "sourceGeohash4": "swfb",
-        "categories": [
-          "CC-BY-SA-3.0-migrated",
-          "Extracted images",
-          "GFDL",
-          "License migration completed",
-          "Maps of Greece"
-        ]
+        "path": "_m/s/w/b/h/battle-of-thermopylae-191-bc-wp/map-roman-syrian-war-1.png",
+        "filename": "Roman-Syrian-War.png",
+        "caption": "Map of the Roman-Syrian War from 192-188 B.C.",
+        "alt": "Map of the Roman-Syrian War from 192-188 B.C.",
+        "width": 2079,
+        "height": 1339,
+        "license": "Public domain",
+        "artist": "Kryston",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roman-Syrian-War.png",
+        "mediumPath": "_m/s/w/b/h/battle-of-thermopylae-191-bc-wp/map-roman-syrian-war-1-medium.webp",
+        "smallPath": "_m/s/w/b/h/battle-of-thermopylae-191-bc-wp/map-roman-syrian-war-1-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/w/f/b/battle-of-corycus-wp/map-roman-syrian-war-1.png",
+          "path": "_m/s/w/b/h/battle-of-thermopylae-191-bc-wp/map-roman-syrian-war-1.png",
           "filename": "Roman-Syrian-War.png",
           "caption": "Map of the Roman-Syrian War from 192-188 B.C.",
           "alt": "Map of the Roman-Syrian War from 192-188 B.C.",
@@ -49,7 +40,9 @@
             "PD-self",
             "Roman–Seleucid War",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/b/h/battle-of-thermopylae-191-bc-wp/map-roman-syrian-war-1-medium.webp",
+          "smallPath": "_m/s/w/b/h/battle-of-thermopylae-191-bc-wp/map-roman-syrian-war-1-small.webp"
         }
       ],
       "narration": [
@@ -61,8 +54,9 @@
         "_m/s/w/f/b/battle-of-corycus-wp/swfb-battle-of-corycus-what-the-victory-bought.mp3"
       ],
       "combinedNarration": "_m/s/w/f/b/battle-of-corycus-wp/swfb-battle-of-corycus-combined.mp3",
-      "combinedNarrationBytes": 2751247,
-      "combinedNarrationDuration": 229
+      "combinedNarrationBytes": 2809128,
+      "combinedNarrationDuration": 229,
+      "combinedCover": "_m/s/w/f/b/battle-of-corycus-wp/swfb-battle-of-corycus-combined-cover.jpg"
     }
   }
 }

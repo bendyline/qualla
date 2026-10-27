@@ -33,7 +33,7 @@ Located at 60.40N, 5.33E on the Bryggen wharf in central Bergen. Bergen Airport 
 ## Sources
 
 - [Hanseatic Museum and Schøtstuene - Wikipedia](https://en.wikipedia.org/?curid=2051475)
-- [Hanseatic Museum and Schotstuene - Wikipedia](https://en.wikipedia.org/wiki/Hanseatic_Museum_and_Schotstuene)
+- [Hanseatic Museum and Schotstuene - Wikipedia](https://en.wikipedia.org/?curid=2051475)
   - Hanseatic League established Bergen trading post by 1360 confirmed
   - fire prohibition on Bryggen confirmed
   - fire of 1702 rebuilt current structure confirmed

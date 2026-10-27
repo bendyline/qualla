@@ -44,7 +44,7 @@ Located at 37.262N, 119.701W in the Sierra Nevada foothills of Madera County, Ca
   - Richard Kiel lived in Coarsegold
   - Best known as steel-toothed Jaws in two James Bond films
   - Died September 10 2014
-- [Coarsegold, California - Wikipedia](https://en.wikipedia.org/wiki/Coarsegold%2C_California)
+- [Coarsegold, California - Wikipedia](https://en.wikipedia.org/?curid=1886335)
   - Texas miners found coarse gold in 1849
   - Picayune Rancheria of Chukchansi Indians headquartered in Coarsegold
   - Chukchansi belong to Yokuts peoples

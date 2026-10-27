@@ -3,26 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/j/8/perth-museum-wp/hero.jpg",
-        "filename": "Carpow logboat.jpg",
-        "caption": "The bronze age Carpow logboat on display at Perth Museum, recovered from the River Tay at Abernethy, Perthshire.",
-        "alt": "The bronze age Carpow logboat on display at Perth Museum, recovered from the River Tay at Abernethy, Perthshire.",
-        "width": 4000,
-        "height": 3000,
+        "path": "_m/g/f/j/8/perth-museum-wp/perth-museum-maori-exhibit-geo.jpg",
+        "filename": "Perth Museum - Maori Exhibit - geograph.org.uk - 7853373.jpg",
+        "caption": "Perth Museum - Maori Exhibit",
+        "alt": "Perth Museum - Maori Exhibit",
+        "width": 5152,
+        "height": 3864,
         "mimeType": "image/jpeg",
-        "license": "CC BY 4.0",
-        "artist": "Thetaywhale",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carpow_logboat.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Colin Smith",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Perth_Museum_-_Maori_Exhibit_-_geograph.org.uk_-_7853373.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "perth-museum-wp",
         "sourceGeohash4": "gfj8",
-        "categories": [
-          "Abernethy, Perth and Kinross",
-          "CC-BY-4.0",
-          "Files with coordinates missing SDC location of creation",
-          "Perth and Kinross",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/g/f/j/8/perth-museum-wp/perth-museum-maori-exhibit-geo-medium.webp",
+        "smallPath": "_m/g/f/j/8/perth-museum-wp/perth-museum-maori-exhibit-geo-small.webp"
       },
       "images": [
         {
@@ -555,7 +550,8 @@
             "Buildings in Perth and Kinross",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/1/perthshire-wp/abberfeldy-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/schiehallion-east-aspect.jpg",
@@ -577,7 +573,9 @@
             "Schiehallion",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/schiehallion-east-aspect-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/schiehallion-east-aspect-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/pitlochry-church-2007.jpg",
@@ -598,7 +596,9 @@
             "Churches in Perth and Kinross",
             "Pitlochry Parish Church",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/pitlochry-church-2007-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/pitlochry-church-2007-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/schottland-blair-castle.jpg",
@@ -619,7 +619,8 @@
             "CC-BY-SA-3.0-migrated",
             "GFDL",
             "License migration completed"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/1/perthshire-wp/schottland-blair-castle-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/main-street-birnam-scotland.jpg",
@@ -638,7 +639,9 @@
           "categories": [
             "Birnam, Perth and Kinross",
             "CC-Zero"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/main-street-birnam-scotland-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/main-street-birnam-scotland-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr.jpg",
@@ -653,7 +656,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blair_Atholl_Post_Office_-_geograph_-_3206161-by-Andrew-Abbott.jpg",
           "sourceType": "poi",
           "sourceArticleId": "perthshire-wp",
-          "sourceGeohash4": "gfj1"
+          "sourceGeohash4": "gfj1",
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr-small.webp"
         }
       ],
       "narration": [

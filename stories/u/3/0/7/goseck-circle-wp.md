@@ -44,7 +44,7 @@ The Goseck Circle lies at 51.198 N, 11.865 E on farmland between Naumburg and We
 
 ## Sources
 
-- [Goseck Circle - Wikipedia](https://en.wikipedia.org/wiki/Goseck_Circle)
+- [Goseck Circle - Wikipedia](https://en.wikipedia.org/?curid=639298)
   - Constructed around 4900 BC, in use until around 4700 BC; possibly the oldest and best known of the Central European Neolithic circular enclosures
   - Concentric ditch 75 m across with two palisade rings; southern gates aligned to winter solstice sunrise and sunset, smaller entrances to the summer solstice
   - Officially presented by state archaeologists and the local association as a ritual or cult structure; the 'solar observatory' framing comes from marketing material, and solstice sunrise/sunset are the only evident astronomical alignments

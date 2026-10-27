@@ -3,31 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/6/d/w/ubon-ratchathani-wk/hero.jpg",
-        "filename": "Pha Taem-022.jpg",
-        "caption": "Pha Taem National Park, Ubon Ratchathani province, Thailand",
-        "alt": "Pha Taem National Park, Ubon Ratchathani province, Thailand",
-        "width": 3888,
-        "height": 2592,
+        "path": "_m/w/6/d/w/ubon-ratchathani-wk/mun-river.jpg",
+        "filename": "Mun River.jpg",
+        "caption": "The Mun River in Ubon Ratchathani, Thailand.",
+        "alt": "The Mun River in Ubon Ratchathani, Thailand.",
+        "width": 4032,
+        "height": 3024,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "Ddalbiez",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pha_Taem-022.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Christophe95",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mun_River.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "ubon-ratchathani-wk",
         "sourceGeohash4": "w6dw",
-        "categories": [
-          "CC-BY-3.0",
-          "GFDL",
-          "License migration redundant",
-          "Rock art in Pha Taem National Park",
-          "Self-published work",
-          "Taken with Canon EOS 40D"
-        ]
+        "mediumPath": "_m/w/6/d/w/ubon-ratchathani-wk/mun-river-medium.webp",
+        "smallPath": "_m/w/6/d/w/ubon-ratchathani-wk/mun-river-small.webp"
       },
       "images": [
         {
-          "path": "_m/w/6/d/w/ubon-ratchathani-wk/songteaw-ubon2016-724x1024.gif",
+          "path": "_m/w/6/d/w/ubon-ratchathani-wp/songteaw-ubon2016-724x1024.gif",
           "filename": "Songteaw-ubon2016-724x1024.gif",
           "caption": "Local cab using in Ubon Ratchathani (Produce by students of Ubun Ratchathani University)",
           "alt": "Local cab using in Ubon Ratchathani (Produce by students of Ubun Ratchathani University)",
@@ -46,7 +40,7 @@
             "Transport maps of Thailand",
             "Ubon Ratchathani"
           ],
-          "smallPath": "_m/w/6/d/w/ubon-ratchathani-wk/songteaw-ubon2016-724x1024-small.gif"
+          "smallPath": "_m/w/6/d/w/ubon-ratchathani-wp/songteaw-ubon2016-724x1024-small.gif"
         },
         {
           "path": "_m/w/6/d/w/ubon-ratchathani-wk/ubon-104-86314e-15-23306n.jpg",
@@ -448,7 +442,8 @@
             "Self-published work",
             "Taken with Canon PowerShot A620",
             "Ubon Ratchathani University"
-          ]
+          ],
+          "smallPath": "_m/w/6/d/w/ubon-ratchathani-wp/ubu-gate-small.webp"
         },
         {
           "path": "_m/w/6/d/w/ubon-ratchathani-wp/candlefestivalubon.jpg",
@@ -474,7 +469,9 @@
             "Self-published work",
             "Thian Phansa",
             "Ubon Ratchathani Candle Festival"
-          ]
+          ],
+          "mediumPath": "_m/w/6/d/w/ubon-ratchathani-wp/candlefestivalubon-medium.webp",
+          "smallPath": "_m/w/6/d/w/ubon-ratchathani-wp/candlefestivalubon-small.webp"
         },
         {
           "path": "_m/w/6/d/w/ubon-ratchathani-wp/wat-thung-si-muang-ubon-ratcha.jpg",
@@ -497,7 +494,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon EOS 40D"
-          ]
+          ],
+          "mediumPath": "_m/w/6/d/w/ubon-ratchathani-wp/wat-thung-si-muang-ubon-ratcha-medium.webp",
+          "smallPath": "_m/w/6/d/w/ubon-ratchathani-wp/wat-thung-si-muang-ubon-ratcha-small.webp"
         },
         {
           "path": "_m/w/6/d/w/ubon-ratchathani-wp/ubon-ratchathani-train-station.jpg",
@@ -520,7 +519,9 @@
             "Self-published work",
             "Taken with Canon EOS 400D",
             "Ubon Ratchathani train station"
-          ]
+          ],
+          "mediumPath": "_m/w/6/d/w/ubon-ratchathani-wp/ubon-ratchathani-train-station-medium.webp",
+          "smallPath": "_m/w/6/d/w/ubon-ratchathani-wp/ubon-ratchathani-train-station-small.webp"
         },
         {
           "path": "_m/w/6/d/w/ubon-ratchathani-wp/watnongbua1.jpg",
@@ -535,7 +536,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Watnongbua1.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ubon-ratchathani-wp",
-          "sourceGeohash4": "w6dw"
+          "sourceGeohash4": "w6dw",
+          "smallPath": "_m/w/6/d/w/ubon-ratchathani-wp/watnongbua1-small.webp"
         },
         {
           "path": "_m/w/6/d/w/ubon-ratchathani-wp/carving-candle.jpg",
@@ -550,7 +552,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carving_candle.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ubon-ratchathani-wp",
-          "sourceGeohash4": "w6dw"
+          "sourceGeohash4": "w6dw",
+          "mediumPath": "_m/w/6/d/w/ubon-ratchathani-wp/carving-candle-medium.webp",
+          "smallPath": "_m/w/6/d/w/ubon-ratchathani-wp/carving-candle-small.webp"
         },
         {
           "path": "_m/w/6/d/w/ubon-ratchathani-wp/ubon-ratchathani-means-the-cit.jpg",
@@ -565,7 +569,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ubon_Ratchathani_means_the_city_of_Lotus.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ubon-ratchathani-wp",
-          "sourceGeohash4": "w6dw"
+          "sourceGeohash4": "w6dw",
+          "mediumPath": "_m/w/6/d/w/ubon-ratchathani-wp/ubon-ratchathani-means-the-cit-medium.webp",
+          "smallPath": "_m/w/6/d/w/ubon-ratchathani-wp/ubon-ratchathani-means-the-cit-small.webp"
         },
         {
           "path": "_m/w/6/d/w/ubon-ratchathani-wp/wat-sri-ubon-rattanaram.jpg",
@@ -580,7 +586,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wat_Sri_Ubon_Rattanaram.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ubon-ratchathani-wp",
-          "sourceGeohash4": "w6dw"
+          "sourceGeohash4": "w6dw",
+          "mediumPath": "_m/w/6/d/w/ubon-ratchathani-wp/wat-sri-ubon-rattanaram-medium.webp",
+          "smallPath": "_m/w/6/d/w/ubon-ratchathani-wp/wat-sri-ubon-rattanaram-small.webp"
         }
       ],
       "narration": [

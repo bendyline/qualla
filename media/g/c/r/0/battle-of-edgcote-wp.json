@@ -34,7 +34,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/r/0/battle-of-edgcote-wp/england-relief-location-map.jpg",
+          "path": "_m/g/c/p/v/london-wp/england-relief-location-map.jpg",
           "filename": "England relief location map.jpg",
           "caption": "Relief map of England, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 6.75W\nEast: 2.0E\nNorth: 56.0N\nSouth: 49.75N",
           "alt": "Relief map of England, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 6.75W\nEast: 2.0E\nNorth: 56.0N\nSouth: 49.75N",
@@ -56,7 +56,9 @@
             "Ordnance Survey Boundary Line maps",
             "Self-published work",
             "Topographic maps of England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/london-wp/england-relief-location-map-medium.webp",
+          "smallPath": "_m/g/c/p/v/london-wp/england-relief-location-map-small.webp"
         },
         {
           "path": "_m/g/c/r/0/battle-of-edgcote-wp/priory-church-st-mary.jpg",
@@ -127,7 +129,8 @@
             "Self-published work",
             "Taken with Canon PowerShot A550",
             "The Fine Lady Statue, Banbury"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/0/banbury-wp/ladyandcross-small.webp"
         },
         {
           "path": "_m/g/c/r/0/banbury-wp/banbury-cake.jpg",
@@ -153,7 +156,9 @@
             "Pastries",
             "Self-published work",
             "Taken with Canon Digital IXUS 860 IS"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/0/banbury-wp/banbury-cake-medium.webp",
+          "smallPath": "_m/g/c/r/0/banbury-wp/banbury-cake-small.webp"
         },
         {
           "path": "_m/g/c/r/0/banbury-wp/the-spencer-stadium-banbury-un.jpg",
@@ -176,7 +181,8 @@
             "Information field template with formatting",
             "Sports in Banbury",
             "United Kingdom photographs taken on 2004-05-03"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/0/banbury-wp/the-spencer-stadium-banbury-un-small.webp"
         },
         {
           "path": "_m/g/c/r/0/banbury-wp/upton-house-banbury.jpg",
@@ -205,7 +211,9 @@
             "Valued images of buildings in the United Kingdom",
             "Valued images promoted 2015-11",
             "Valued images sorted by promotion date"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/0/banbury-wp/upton-house-banbury-medium.webp",
+          "smallPath": "_m/g/c/r/0/banbury-wp/upton-house-banbury-small.webp"
         },
         {
           "path": "_m/g/c/r/0/banbury-wp/upton-house.jpg",
@@ -220,7 +228,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Upton_House.jpg",
           "sourceType": "poi",
           "sourceArticleId": "banbury-wp",
-          "sourceGeohash4": "gcr0"
+          "sourceGeohash4": "gcr0",
+          "mediumPath": "_m/g/c/r/0/banbury-wp/upton-house-medium.webp",
+          "smallPath": "_m/g/c/r/0/banbury-wp/upton-house-small.webp"
         },
         {
           "path": "_m/g/c/r/0/banbury-wp/banbury-wikivoyage-banner.jpg",
@@ -235,7 +245,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banbury_Wikivoyage_Banner.jpg",
           "sourceType": "poi",
           "sourceArticleId": "banbury-wp",
-          "sourceGeohash4": "gcr0"
+          "sourceGeohash4": "gcr0",
+          "mediumPath": "_m/g/c/r/0/banbury-wp/banbury-wikivoyage-banner-medium.webp",
+          "smallPath": "_m/g/c/r/0/banbury-wp/banbury-wikivoyage-banner-small.webp"
         }
       ],
       "narration": [

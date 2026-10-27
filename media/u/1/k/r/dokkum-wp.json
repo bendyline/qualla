@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/k/r/dokkum-wp/hero.jpg",
-        "filename": "Dokkum, stadhuis.jpg",
-        "caption": "Dokkum, town hall",
-        "alt": "Dokkum, town hall",
-        "width": 2032,
-        "height": 1524,
+        "path": "_m/u/1/k/r/dokkum-wp/dokkum-street-view-suu.jpg",
+        "filename": "Dokkum, straatzicht Suupmarkt met RM13187 IMG 7697 2020-09-20 14.24.jpg",
+        "caption": "Dokkum, street view: the Suupmarkt",
+        "alt": "Dokkum, street view: the Suupmarkt",
+        "width": 5200,
+        "height": 2761,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Bouwe Brouwer",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dokkum,_stadhuis.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Michielverbeek",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dokkum,_straatzicht_Suupmarkt_met_RM13187_IMG_7697_2020-09-20_14.24.jpg",
         "sourceType": "core",
         "sourceArticleId": "dokkum-wp",
         "sourceGeohash4": "u1kr",
-        "categories": [
-          "CC-BY-SA-2.5,2.0,1.0",
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "License migration redundant",
-          "Rijksmonumenten with known IDs",
-          "Self-published work",
-          "Stadhuis (Dokkum)"
-        ]
+        "mediumPath": "_m/u/1/k/r/dokkum-wp/dokkum-street-view-suu-medium.webp",
+        "smallPath": "_m/u/1/k/r/dokkum-wp/dokkum-street-view-suu-small.webp"
       },
       "images": [
         {
@@ -604,7 +597,9 @@
             "License migration redundant",
             "Self-published work",
             "Voorstraat (Franeker)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/k/n/friesland-wp/franeker-voorstraat-medium.webp",
+          "smallPath": "_m/u/1/k/n/friesland-wp/franeker-voorstraat-small.webp"
         },
         {
           "path": "_m/u/1/k/h/lemmer-wp/sloten-02.jpg",
@@ -629,7 +624,8 @@
             "Self-published work",
             "Taken with Nikon Coolpix L12",
             "Voorstreek (Sloten, Friesland)"
-          ]
+          ],
+          "smallPath": "_m/u/1/k/h/lemmer-wp/sloten-02-small.webp"
         },
         {
           "path": "_m/u/1/k/n/friesland-wp/heeresloot-03.jpg",
@@ -652,7 +648,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Nikon Coolpix L12"
-          ]
+          ],
+          "smallPath": "_m/u/1/k/n/friesland-wp/heeresloot-03-small.webp"
         },
         {
           "path": "_m/u/1/k/n/friesland-wp/langezwaag-kerk-2008-07-05-09-.jpg",
@@ -676,7 +673,9 @@
             "Netherlands photographs taken on 2008-07-05",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/k/n/friesland-wp/langezwaag-kerk-2008-07-05-09--medium.webp",
+          "smallPath": "_m/u/1/k/n/friesland-wp/langezwaag-kerk-2008-07-05-09--small.webp"
         },
         {
           "path": "_m/u/1/k/n/friesland-wp/drielts-2.jpg",
@@ -702,7 +701,9 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon PowerShot G5"
-          ]
+          ],
+          "mediumPath": "_m/u/1/k/n/friesland-wp/drielts-2-medium.webp",
+          "smallPath": "_m/u/1/k/n/friesland-wp/drielts-2-small.webp"
         },
         {
           "path": "_m/u/1/k/n/friesland-wp/2010-04-17-10-46-harlingen-mon.jpg",
@@ -726,7 +727,9 @@
             "Netherlands photographs taken on 2010-04-17",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/k/n/friesland-wp/2010-04-17-10-46-harlingen-mon-medium.webp",
+          "smallPath": "_m/u/1/k/n/friesland-wp/2010-04-17-10-46-harlingen-mon-small.webp"
         },
         {
           "path": "_m/u/1/k/n/friesland-wp/drachten-041.jpg",
@@ -741,7 +744,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Drachten_041.JPG",
           "sourceType": "poi",
           "sourceArticleId": "friesland-wp",
-          "sourceGeohash4": "u1kn"
+          "sourceGeohash4": "u1kn",
+          "mediumPath": "_m/u/1/k/n/friesland-wp/drachten-041-medium.webp",
+          "smallPath": "_m/u/1/k/n/friesland-wp/drachten-041-small.webp"
         },
         {
           "path": "_m/u/1/k/n/friesland-wp/t-zand-4.jpg",
@@ -756,7 +761,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%27t_Zand_4.JPG",
           "sourceType": "poi",
           "sourceArticleId": "friesland-wp",
-          "sourceGeohash4": "u1kn"
+          "sourceGeohash4": "u1kn",
+          "mediumPath": "_m/u/1/k/n/friesland-wp/t-zand-4-medium.webp",
+          "smallPath": "_m/u/1/k/n/friesland-wp/t-zand-4-small.webp"
         },
         {
           "path": "_m/u/1/k/n/friesland-wp/pad-door-zomerpolders-locatie-.jpg",
@@ -771,7 +778,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pad_door_zomerpolders._Locatie,_Noarderleech_provincie_Friesland_02.jpg",
           "sourceType": "poi",
           "sourceArticleId": "friesland-wp",
-          "sourceGeohash4": "u1kn"
+          "sourceGeohash4": "u1kn",
+          "mediumPath": "_m/u/1/k/n/friesland-wp/pad-door-zomerpolders-locatie--medium.webp",
+          "smallPath": "_m/u/1/k/n/friesland-wp/pad-door-zomerpolders-locatie--small.webp"
         },
         {
           "path": "_m/u/1/k/n/friesland-wp/goengarijpsterpoelen-frysk-goa.jpg",
@@ -786,7 +795,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Go%C3%ABngarijpsterpoelen_(Frysk)_Goai%C3%AFngarypster_Puollen_(d.j.b.)_20.jpg",
           "sourceType": "poi",
           "sourceArticleId": "friesland-wp",
-          "sourceGeohash4": "u1kn"
+          "sourceGeohash4": "u1kn",
+          "mediumPath": "_m/u/1/k/n/friesland-wp/goengarijpsterpoelen-frysk-goa-medium.webp",
+          "smallPath": "_m/u/1/k/n/friesland-wp/goengarijpsterpoelen-frysk-goa-small.webp"
         },
         {
           "path": "_m/u/1/k/n/friesland-wp/friesland-netherlands-may-june.jpg",
@@ -801,7 +812,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Friesland_(Netherlands,_May-June_2020)_-_62_(50549796598).jpg",
           "sourceType": "poi",
           "sourceArticleId": "friesland-wp",
-          "sourceGeohash4": "u1kn"
+          "sourceGeohash4": "u1kn",
+          "mediumPath": "_m/u/1/k/n/friesland-wp/friesland-netherlands-may-june-medium.webp",
+          "smallPath": "_m/u/1/k/n/friesland-wp/friesland-netherlands-may-june-small.webp"
         },
         {
           "path": "_m/u/1/k/n/leeuwarden-wp/leeuwarden-voorstreek-met-boni.jpg",
@@ -829,7 +842,8 @@
             "Taken with Kodak EasyShare CX6330",
             "Vischmarktpijp (Leeuwarden)",
             "Voorstreek (Leeuwarden)"
-          ]
+          ],
+          "smallPath": "_m/u/1/k/n/leeuwarden-wp/leeuwarden-voorstreek-met-boni-small.webp"
         },
         {
           "path": "_m/u/1/k/n/leeuwarden-wp/waaglwd.jpg",
@@ -850,7 +864,8 @@
             "Rijksmonumenten with known IDs",
             "Taken with Canon PowerShot Pro1",
             "Waag (Leeuwarden)"
-          ]
+          ],
+          "smallPath": "_m/u/1/k/n/leeuwarden-wp/waaglwd-small.webp"
         },
         {
           "path": "_m/u/1/k/n/leeuwarden-wp/leeuwarden-keramiekmuseum-prin.jpg",
@@ -876,7 +891,9 @@
             "Netherlands photographs taken on 2011-09-03",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/k/n/leeuwarden-wp/leeuwarden-keramiekmuseum-prin-medium.webp",
+          "smallPath": "_m/u/1/k/n/leeuwarden-wp/leeuwarden-keramiekmuseum-prin-small.webp"
         },
         {
           "path": "_m/u/1/k/n/leeuwarden-wp/20120519-stadhuis-leeuwarden-n.jpg",
@@ -902,7 +919,9 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Stadhuis (Leeuwarden)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/k/n/leeuwarden-wp/20120519-stadhuis-leeuwarden-n-medium.webp",
+          "smallPath": "_m/u/1/k/n/leeuwarden-wp/20120519-stadhuis-leeuwarden-n-small.webp"
         },
         {
           "path": "_m/u/1/k/n/leeuwarden-wp/fries-museum-wilhelminaplein-l.jpg",
@@ -923,7 +942,8 @@
             "Exterior of the Fries Museum",
             "Self-published work",
             "Slieker Film"
-          ]
+          ],
+          "smallPath": "_m/u/1/k/n/leeuwarden-wp/fries-museum-wilhelminaplein-l-small.webp"
         },
         {
           "path": "_m/u/1/k/n/leeuwarden-wp/20140531-fries-museum-leeuward.jpg",
@@ -938,7 +958,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20140531_Fries_Museum_Leeuwarden_Fr_NL.jpg",
           "sourceType": "poi",
           "sourceArticleId": "leeuwarden-wp",
-          "sourceGeohash4": "u1kn"
+          "sourceGeohash4": "u1kn",
+          "mediumPath": "_m/u/1/k/n/leeuwarden-wp/20140531-fries-museum-leeuward-medium.webp",
+          "smallPath": "_m/u/1/k/n/leeuwarden-wp/20140531-fries-museum-leeuward-small.webp"
         },
         {
           "path": "_m/u/1/k/n/leeuwarden-wp/20140531-grote-of-jacobijnerke.jpg",
@@ -953,7 +975,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20140531_Grote_of_Jacobijnerkerk_Leeuwarden_NL.jpg",
           "sourceType": "poi",
           "sourceArticleId": "leeuwarden-wp",
-          "sourceGeohash4": "u1kn"
+          "sourceGeohash4": "u1kn",
+          "mediumPath": "_m/u/1/k/n/leeuwarden-wp/20140531-grote-of-jacobijnerke-medium.webp",
+          "smallPath": "_m/u/1/k/n/leeuwarden-wp/20140531-grote-of-jacobijnerke-small.webp"
         },
         {
           "path": "_m/u/1/k/n/leeuwarden-wp/waag-leeuwarden-1620.jpg",
@@ -968,7 +992,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waag,_Leeuwarden_1620.jpg",
           "sourceType": "poi",
           "sourceArticleId": "leeuwarden-wp",
-          "sourceGeohash4": "u1kn"
+          "sourceGeohash4": "u1kn",
+          "mediumPath": "_m/u/1/k/n/leeuwarden-wp/waag-leeuwarden-1620-medium.webp",
+          "smallPath": "_m/u/1/k/n/leeuwarden-wp/waag-leeuwarden-1620-small.webp"
         },
         {
           "path": "_m/u/1/k/n/leeuwarden-wp/kanselarij-ljouwert.jpg",
@@ -983,7 +1009,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:K%C3%A2nselarij,_Ljouwert.jpg",
           "sourceType": "poi",
           "sourceArticleId": "leeuwarden-wp",
-          "sourceGeohash4": "u1kn"
+          "sourceGeohash4": "u1kn",
+          "mediumPath": "_m/u/1/k/n/leeuwarden-wp/kanselarij-ljouwert-medium.webp",
+          "smallPath": "_m/u/1/k/n/leeuwarden-wp/kanselarij-ljouwert-small.webp"
         },
         {
           "path": "_m/c/b/f/g/fort-gibraltar-wp/related-poi-20060711-monnaie-royale-canadi.jpg",
@@ -1007,7 +1035,9 @@
             "Royal Canadian Mint (Winnipeg)",
             "Self-published work",
             "Walkways in Manitoba"
-          ]
+          ],
+          "mediumPath": "_m/c/b/f/g/fort-gibraltar-wp/related-poi-20060711-monnaie-royale-canadi-medium.webp",
+          "smallPath": "_m/c/b/f/g/fort-gibraltar-wp/related-poi-20060711-monnaie-royale-canadi-small.webp"
         },
         {
           "path": "_m/c/b/f/g/winnipeg-wk/calm-air-c-gtjy-saab.jpg",
@@ -1032,7 +1062,8 @@
             "January 2007 in Winnipeg",
             "Saab 340 of Calm Air",
             "Taken with Nikon Coolpix 995"
-          ]
+          ],
+          "smallPath": "_m/c/b/f/g/winnipeg-wk/calm-air-c-gtjy-saab-small.webp"
         },
         {
           "path": "_m/c/b/f/g/fort-gibraltar-wp/related-poi-banks-row-main-street.jpg",
@@ -1056,7 +1087,8 @@
             "Heritage properties in Canada with known IDs",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/c/b/f/g/fort-gibraltar-wp/related-poi-banks-row-main-street-small.webp"
         },
         {
           "path": "_m/c/b/f/g/winnipeg-wk/louis-riel-haus.jpg",
@@ -1081,7 +1113,9 @@
             "Riel House",
             "Self-published work",
             "Taken with Canon PowerShot A630"
-          ]
+          ],
+          "mediumPath": "_m/c/b/f/g/winnipeg-wk/louis-riel-haus-medium.webp",
+          "smallPath": "_m/c/b/f/g/winnipeg-wk/louis-riel-haus-small.webp"
         },
         {
           "path": "_m/c/b/f/g/winnipeg-wk/manitoba-theatre-centre-july-2.jpg",
@@ -1107,7 +1141,8 @@
             "Theater facades",
             "Theatre entrances in Canada",
             "Winnipeg Fringe Theatre Festival 2006"
-          ]
+          ],
+          "smallPath": "_m/c/b/f/g/winnipeg-wk/manitoba-theatre-centre-july-2-small.webp"
         },
         {
           "path": "_m/c/b/f/g/winnipeg-wk/canadian-museum-for-human-righ.jpg",
@@ -1130,7 +1165,9 @@
             "October 2012 in Winnipeg",
             "Self-published work",
             "Taken with Nikon Coolpix P60"
-          ]
+          ],
+          "mediumPath": "_m/c/b/f/g/winnipeg-wk/canadian-museum-for-human-righ-medium.webp",
+          "smallPath": "_m/c/b/f/g/winnipeg-wk/canadian-museum-for-human-righ-small.webp"
         },
         {
           "path": "_m/c/b/f/g/winnipeg-wk/downtownwinnipeg.jpg",
@@ -1152,7 +1189,9 @@
             "Files by Wikivoyage user (not yet sorted)",
             "Files from Wikivoyage wts",
             "PD-author"
-          ]
+          ],
+          "mediumPath": "_m/c/b/f/g/winnipeg-wk/downtownwinnipeg-medium.webp",
+          "smallPath": "_m/c/b/f/g/winnipeg-wk/downtownwinnipeg-small.webp"
         },
         {
           "path": "_m/c/b/f/g/winnipeg-wk/historicalbuildingonportage.jpg",
@@ -1167,7 +1206,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Historicalbuildingonportage.JPG",
           "sourceType": "poi",
           "sourceArticleId": "winnipeg-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/c/b/f/g/winnipeg-wk/historicalbuildingonportage-medium.webp",
+          "smallPath": "_m/c/b/f/g/winnipeg-wk/historicalbuildingonportage-small.webp"
         },
         {
           "path": "_m/tpc/sa/in/t-/bo/saint-boniface/canadian-museum-for-human-righ.jpg",
@@ -1182,7 +1223,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canadian_Museum_for_Human_Rights_Winnipeg_April_2015_(16669435204).jpg",
           "sourceType": "poi",
           "sourceArticleId": "saint-boniface",
-          "sourceGeohash4": "tpc/sa/in/t-/bo"
+          "sourceGeohash4": "tpc/sa/in/t-/bo",
+          "mediumPath": "_m/tpc/sa/in/t-/bo/saint-boniface/canadian-museum-for-human-righ-medium.webp",
+          "smallPath": "_m/tpc/sa/in/t-/bo/saint-boniface/canadian-museum-for-human-righ-small.webp"
         },
         {
           "path": "_m/c/b/f/g/fort-gibraltar-wp/related-poi-birds-hill-provincial-park-man.jpg",
@@ -1197,7 +1240,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birds_Hill_Provincial_Park,_Manitoba_(370518)_(9444573628).jpg",
           "sourceType": "poi",
           "sourceArticleId": "fort-gibraltar-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/c/b/f/g/fort-gibraltar-wp/related-poi-birds-hill-provincial-park-man-small.webp"
         },
         {
           "path": "_m/9/r/b/6/eugene-wk/autokary-flixbus-na-dw.jpg",
@@ -1212,7 +1256,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flixbus_Dworzec_Autobusowy_MDA_w_Krakowie_2019.jpg",
           "sourceType": "poi",
           "sourceArticleId": "eugene-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/9/r/b/6/eugene-wk/autokary-flixbus-na-dw-medium.webp",
+          "smallPath": "_m/9/r/b/6/eugene-wk/autokary-flixbus-na-dw-small.webp"
         },
         {
           "path": "_m/c/0/z/4/comox-wk/c-fflj-yvr-26oct19.jpg",
@@ -1227,7 +1273,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:C-FFLJ@YVR_26Oct19.jpg",
           "sourceType": "poi",
           "sourceArticleId": "comox-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/c/0/z/4/comox-wk/c-fflj-yvr-26oct19-medium.webp",
+          "smallPath": "_m/c/0/z/4/comox-wk/c-fflj-yvr-26oct19-small.webp"
         },
         {
           "path": "_m/b/f/z/c/whitehorse-wk/air-canada-29-vancouve.jpg",
@@ -1242,7 +1290,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:C-FVLX@PEK_(20250503160547).jpg",
           "sourceType": "poi",
           "sourceArticleId": "whitehorse-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/b/f/z/c/whitehorse-wk/air-canada-29-vancouve-medium.webp",
+          "smallPath": "_m/b/f/z/c/whitehorse-wk/air-canada-29-vancouve-small.webp"
         }
       ],
       "narration": [

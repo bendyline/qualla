@@ -36,7 +36,7 @@ The wreck lies at approximately 59.33°N, 23.17°E, in the mouth of the Gulf of 
 
 ## Sources
 
-- [German submarine U-479 - Wikipedia](https://en.wikipedia.org/wiki/German_submarine_U-479)
+- [German submarine U-479 - Wikipedia](https://en.wikipedia.org/?curid=17082830)
   - laid down Deutsche Werke Kiel 19 November 1942, yard number 310, launched 14 August 1943, commissioned 27 October 1943 confirmed
   - Type VIIC dimensions, displacement, 230 m diving depth, 8,500 nmi at 10 kn confirmed
   - damaged Soviet submarine-chaser MO-304 (56 tons) in Vyborg Bay 18 July 1944; sank no ships confirmed

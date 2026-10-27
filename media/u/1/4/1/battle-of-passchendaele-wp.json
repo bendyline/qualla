@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/u/1/4/1/battle-of-passchendaele-wp/u142-battle-of-passchendaele-flight-context.mp3",
+        "_m/u/1/4/1/battle-of-passchendaele-wp/u141-battle-of-passchendaele-flight-context.mp3",
         "_m/u/1/4/1/battle-of-passchendaele-wp/u142-battle-of-passchendaele-intro.mp3",
         "_m/u/1/4/1/battle-of-passchendaele-wp/u142-battle-of-passchendaele-the-strategic-gamble.mp3",
         "_m/u/1/4/1/battle-of-passchendaele-wp/u142-battle-of-passchendaele-the-mud-campaign.mp3",
         "_m/u/1/4/1/battle-of-passchendaele-wp/u142-battle-of-passchendaele-the-september-victories.mp3",
-        "_m/u/1/4/1/battle-of-passchendaele-wp/u142-battle-of-passchendaele-octobers-tragedy.mp3",
+        "_m/u/1/4/1/battle-of-passchendaele-wp/u141-battle-of-passchendaele-octobers-tragedy.mp3",
         "_m/u/1/4/1/battle-of-passchendaele-wp/u142-battle-of-passchendaele-the-canadians-take-the-ridge.mp3"
       ],
       "hero": {
@@ -45,7 +45,8 @@
           "Valued images sorted by promotion date",
           "World War I aerial photographs of Belgium"
         ],
-        "smallPath": "_m/u/1/4/1/battle-of-passchendaele-wp/hero-small.webp"
+        "smallPath": "_m/u/1/4/1/battle-of-passchendaele-wp/aerial-view-village-pa-small.webp",
+        "mediumPath": "_m/u/1/4/1/battle-of-passchendaele-wp/aerial-view-village-pa-medium.webp"
       },
       "images": [
         {
@@ -63,8 +64,8 @@
           "sourceArticleId": "battle-of-passchendaele-wp",
           "sourceGeohash4": "u141",
           "accessedAt": "2026-02-22T13:55:46.886Z",
-          "mediumPath": "_m/u/1/4/1/battle-of-passchendaele-wp/aerial-view-village-pa-medium.webp",
-          "smallPath": "_m/u/1/4/1/battle-of-passchendaele-wp/aerial-view-village-pa-small.webp"
+          "mediumPath": "_m/u/1/4/1/battle-of-passchendaele-wp/hero-medium.webp",
+          "smallPath": "_m/u/1/4/1/battle-of-passchendaele-wp/hero-small.webp"
         },
         {
           "path": "_m/u/1/4/1/battle-of-passchendaele-wp/hauling-gun-out-mud-zi.jpg",
@@ -172,8 +173,8 @@
           "sourceArticleId": "battle-of-passchendaele-wp",
           "sourceGeohash4": "u141",
           "accessedAt": "2026-02-22T13:55:46.886Z",
-          "smallPath": "_m/u/1/4/1/battle-of-passchendaele-wp/disturbing-image-destr-small.jpg",
-          "mediumPath": "_m/u/1/4/1/battle-of-passchendaele-wp/disturbing-image-destr-medium.jpg"
+          "smallPath": "_m/u/1/4/1/battle-of-passchendaele-wp/disturbing-image-destr-small.webp",
+          "mediumPath": "_m/u/1/4/1/battle-of-passchendaele-wp/disturbing-image-destr-medium.webp"
         },
         {
           "path": "_m/u/1/4/1/battle-of-passchendaele-wp/hero.jpg",
@@ -189,7 +190,9 @@
           "sourceType": "core",
           "sourceArticleId": "battle-of-passchendaele-wp",
           "sourceGeohash4": "u141",
-          "accessedAt": "2026-02-22T13:55:46.886Z"
+          "accessedAt": "2026-02-22T13:55:46.886Z",
+          "mediumPath": "_m/u/1/4/1/battle-of-passchendaele-wp/hero-medium.webp",
+          "smallPath": "_m/u/1/4/1/battle-of-passchendaele-wp/hero-small.webp"
         },
         {
           "path": "_m/u/1/4/1/battle-of-passchendaele-wp/hero.jpg",
@@ -206,7 +209,8 @@
           "sourceArticleId": "battle-of-poelcappelle-wp",
           "sourceGeohash4": "u141",
           "accessedAt": "2026-02-22T13:55:46.886Z",
-          "smallPath": "_m/u/1/4/1/battle-of-passchendaele-wp/hero-small.webp"
+          "smallPath": "_m/u/1/4/1/battle-of-passchendaele-wp/hero-small.webp",
+          "mediumPath": "_m/u/1/4/1/battle-of-passchendaele-wp/hero-medium.webp"
         },
         {
           "path": "_m/u/1/4/1/battle-of-passchendaele-wp/vue-aerienne-verticale-de-leug.jpg",
@@ -546,7 +550,9 @@
             "PD-self",
             "Self-published work",
             "Trauerndes Elternpaar (Käthe Kollwitz)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/1/ypres-wp/het-treurende-ouderpaar-kathe--medium.webp",
+          "smallPath": "_m/u/1/4/1/ypres-wp/het-treurende-ouderpaar-kathe--small.webp"
         },
         {
           "path": "_m/u/1/4/1/ypres-wp/ypres-town-centre.jpg",
@@ -572,7 +578,8 @@
             "Files with no machine-readable source",
             "Images without source",
             "Ypres"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/1/ypres-wp/ypres-town-centre-small.webp"
         },
         {
           "path": "_m/u/1/4/1/ypres-wp/het-kasteel.jpg",
@@ -598,7 +605,9 @@
             "Photographs of the national flag of Canada in Belgium",
             "Photographs of the national flag of the United Kingdom in Belgium",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/1/ypres-wp/het-kasteel-medium.webp",
+          "smallPath": "_m/u/1/4/1/ypres-wp/het-kasteel-small.webp"
         },
         {
           "path": "_m/u/1/4/1/ypres-wp/bellewaerde-ingang.jpg",
@@ -617,7 +626,9 @@
           "accessedAt": "2026-02-22T13:55:46.886Z",
           "categories": [
             "Amusement park entrances"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/1/ypres-wp/bellewaerde-ingang-medium.webp",
+          "smallPath": "_m/u/1/4/1/ypres-wp/bellewaerde-ingang-small.webp"
         },
         {
           "path": "_m/u/1/4/4/west-flanders-wp/knocke-heist.jpg",
@@ -643,7 +654,9 @@
             "Promenades in Belgium",
             "Seawalls in Belgium",
             "Taken with Fujifilm FinePix E550"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/4/west-flanders-wp/knocke-heist-medium.webp",
+          "smallPath": "_m/u/1/4/4/west-flanders-wp/knocke-heist-small.webp"
         },
         {
           "path": "_m/u/1/4/4/west-flanders-wp/kortrijk-hotel-de-ville.jpg",
@@ -668,7 +681,8 @@
             "License migration redundant",
             "Self-published work",
             "Town hall of Kortrijk"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/4/west-flanders-wp/kortrijk-hotel-de-ville-small.webp"
         },
         {
           "path": "_m/u/1/4/4/west-flanders-wp/ieper25.jpg",
@@ -696,7 +710,8 @@
             "Sint-Maartenskathedraal (Ieper)",
             "Taken with Canon PowerShot G5",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/4/west-flanders-wp/ieper25-small.webp"
         },
         {
           "path": "_m/u/1/4/4/west-flanders-wp/brugge-canalrozenhoedkaai.jpg",
@@ -718,7 +733,9 @@
             "CC-BY-SA-3.0-migrated",
             "Dijver",
             "GFDL"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/4/west-flanders-wp/brugge-canalrozenhoedkaai-medium.webp",
+          "smallPath": "_m/u/1/4/4/west-flanders-wp/brugge-canalrozenhoedkaai-small.webp"
         },
         {
           "path": "_m/u/1/4/4/west-flanders-wp/de-panne-kapel-paters-oblaten-.jpg",
@@ -734,7 +751,9 @@
           "sourceType": "poi",
           "sourceArticleId": "west-flanders-wp",
           "sourceGeohash4": "u144",
-          "accessedAt": "2026-02-22T13:55:46.886Z"
+          "accessedAt": "2026-02-22T13:55:46.886Z",
+          "mediumPath": "_m/u/1/4/4/west-flanders-wp/de-panne-kapel-paters-oblaten--medium.webp",
+          "smallPath": "_m/u/1/4/4/west-flanders-wp/de-panne-kapel-paters-oblaten--small.webp"
         },
         {
           "path": "_m/u/1/4/4/west-flanders-wp/belforttielt-28-10-2008-17-45-.jpg",
@@ -750,7 +769,9 @@
           "sourceType": "poi",
           "sourceArticleId": "west-flanders-wp",
           "sourceGeohash4": "u144",
-          "accessedAt": "2026-02-22T13:55:46.886Z"
+          "accessedAt": "2026-02-22T13:55:46.886Z",
+          "mediumPath": "_m/u/1/4/4/west-flanders-wp/belforttielt-28-10-2008-17-45--medium.webp",
+          "smallPath": "_m/u/1/4/4/west-flanders-wp/belforttielt-28-10-2008-17-45--small.webp"
         },
         {
           "path": "_m/u/1/4/4/west-flanders-wp/l-hotel-de-ville-de-poperinge.jpg",
@@ -766,7 +787,9 @@
           "sourceType": "poi",
           "sourceArticleId": "west-flanders-wp",
           "sourceGeohash4": "u144",
-          "accessedAt": "2026-02-22T13:55:46.886Z"
+          "accessedAt": "2026-02-22T13:55:46.886Z",
+          "mediumPath": "_m/u/1/4/4/west-flanders-wp/l-hotel-de-ville-de-poperinge-medium.webp",
+          "smallPath": "_m/u/1/4/4/west-flanders-wp/l-hotel-de-ville-de-poperinge-small.webp"
         },
         {
           "path": "_m/u/1/4/4/west-flanders-wp/lissewege-dorp-r02.jpg",
@@ -782,7 +805,9 @@
           "sourceType": "poi",
           "sourceArticleId": "west-flanders-wp",
           "sourceGeohash4": "u144",
-          "accessedAt": "2026-02-22T13:55:46.886Z"
+          "accessedAt": "2026-02-22T13:55:46.886Z",
+          "mediumPath": "_m/u/1/4/4/west-flanders-wp/lissewege-dorp-r02-medium.webp",
+          "smallPath": "_m/u/1/4/4/west-flanders-wp/lissewege-dorp-r02-small.webp"
         },
         {
           "path": "_m/u/1/4/4/west-flanders-wp/id78010-diksmuide-stadhuis-pm-.jpg",
@@ -798,7 +823,8 @@
           "sourceType": "poi",
           "sourceArticleId": "west-flanders-wp",
           "sourceGeohash4": "u144",
-          "accessedAt": "2026-02-22T13:55:46.886Z"
+          "accessedAt": "2026-02-22T13:55:46.886Z",
+          "smallPath": "_m/u/1/4/4/west-flanders-wp/id78010-diksmuide-stadhuis-pm--small.webp"
         },
         {
           "path": "_m/u/1/4/4/west-flanders-wp/0-damme-onze-lieve-vrouw-hemel.jpg",
@@ -814,7 +840,9 @@
           "sourceType": "poi",
           "sourceArticleId": "west-flanders-wp",
           "sourceGeohash4": "u144",
-          "accessedAt": "2026-02-22T13:55:46.886Z"
+          "accessedAt": "2026-02-22T13:55:46.886Z",
+          "mediumPath": "_m/u/1/4/4/west-flanders-wp/0-damme-onze-lieve-vrouw-hemel-medium.webp",
+          "smallPath": "_m/u/1/4/4/west-flanders-wp/0-damme-onze-lieve-vrouw-hemel-small.webp"
         },
         {
           "path": "_m/u/1/4/3/kortrijk-wp/kortrijk-baggaertshof-1.jpg",
@@ -841,7 +869,8 @@
             "Onroerend erfgoed with known IDs",
             "Self-published work",
             "Taken with Sony DSC-S60"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/3/kortrijk-wp/kortrijk-baggaertshof-1-small.webp"
         },
         {
           "path": "_m/u/1/4/3/kortrijk-wp/groeningepoort.jpg",
@@ -869,7 +898,8 @@
             "Photographs taken on 2007-10-11",
             "Self-published work",
             "Taken with Nikon Coolpix 8400"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/3/kortrijk-wp/groeningepoort-small.webp"
         },
         {
           "path": "_m/u/1/4/3/kortrijk-wp/beffroi-de-courtrai.jpg",
@@ -891,7 +921,9 @@
             "CC-BY-SA-3.0",
             "Self-published work",
             "Taken with Canon EOS 600D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/3/kortrijk-wp/beffroi-de-courtrai-medium.webp",
+          "smallPath": "_m/u/1/4/3/kortrijk-wp/beffroi-de-courtrai-small.webp"
         },
         {
           "path": "_m/u/1/4/3/kortrijk-wp/kortrijk-broeltorens-r02.jpg",
@@ -907,7 +939,9 @@
           "sourceType": "poi",
           "sourceArticleId": "kortrijk-wp",
           "sourceGeohash4": "u143",
-          "accessedAt": "2026-02-22T13:55:46.886Z"
+          "accessedAt": "2026-02-22T13:55:46.886Z",
+          "mediumPath": "_m/u/1/4/3/kortrijk-wp/kortrijk-broeltorens-r02-medium.webp",
+          "smallPath": "_m/u/1/4/3/kortrijk-wp/kortrijk-broeltorens-r02-small.webp"
         },
         {
           "path": "_m/u/1/4/3/kortrijk-wp/kortrijk-straatzicht-grote-mar.jpg",
@@ -923,7 +957,9 @@
           "sourceType": "poi",
           "sourceArticleId": "kortrijk-wp",
           "sourceGeohash4": "u143",
-          "accessedAt": "2026-02-22T13:55:46.886Z"
+          "accessedAt": "2026-02-22T13:55:46.886Z",
+          "mediumPath": "_m/u/1/4/3/kortrijk-wp/kortrijk-straatzicht-grote-mar-medium.webp",
+          "smallPath": "_m/u/1/4/3/kortrijk-wp/kortrijk-straatzicht-grote-mar-small.webp"
         },
         {
           "path": "_m/u/1/4/3/kortrijk-wp/town-hall-of-kortrijk-dscf9258.jpg",
@@ -939,7 +975,9 @@
           "sourceType": "poi",
           "sourceArticleId": "kortrijk-wp",
           "sourceGeohash4": "u143",
-          "accessedAt": "2026-02-22T13:55:46.886Z"
+          "accessedAt": "2026-02-22T13:55:46.886Z",
+          "mediumPath": "_m/u/1/4/3/kortrijk-wp/town-hall-of-kortrijk-dscf9258-medium.webp",
+          "smallPath": "_m/u/1/4/3/kortrijk-wp/town-hall-of-kortrijk-dscf9258-small.webp"
         },
         {
           "path": "_m/u/1/4/3/kortrijk-wp/broeltorens-kortrijk-dscf9278.jpg",
@@ -955,7 +993,9 @@
           "sourceType": "poi",
           "sourceArticleId": "kortrijk-wp",
           "sourceGeohash4": "u143",
-          "accessedAt": "2026-02-22T13:55:46.886Z"
+          "accessedAt": "2026-02-22T13:55:46.886Z",
+          "mediumPath": "_m/u/1/4/3/kortrijk-wp/broeltorens-kortrijk-dscf9278-medium.webp",
+          "smallPath": "_m/u/1/4/3/kortrijk-wp/broeltorens-kortrijk-dscf9278-small.webp"
         },
         {
           "path": "_m/u/1/4/3/kortrijk-wp/king-hiss-alcatraz-2021.jpg",
@@ -971,9 +1011,15 @@
           "sourceType": "poi",
           "sourceArticleId": "kortrijk-wp",
           "sourceGeohash4": "u143",
-          "accessedAt": "2026-02-22T13:55:46.886Z"
+          "accessedAt": "2026-02-22T13:55:46.886Z",
+          "mediumPath": "_m/u/1/4/3/kortrijk-wp/king-hiss-alcatraz-2021-medium.webp",
+          "smallPath": "_m/u/1/4/3/kortrijk-wp/king-hiss-alcatraz-2021-small.webp"
         }
-      ]
+      ],
+      "combinedNarration": "_m/u/1/4/1/battle-of-passchendaele-wp/u141-battle-of-passchendaele-combined.mp3",
+      "combinedNarrationBytes": 3666134,
+      "combinedNarrationDuration": 295,
+      "combinedCover": "_m/u/1/4/1/battle-of-passchendaele-wp/u141-battle-of-passchendaele-combined-cover.jpg"
     }
   }
 }

@@ -30,7 +30,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/6/q/birr-castle-wp/ireland-relief-location-map.png",
+          "path": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map.png",
           "filename": "Ireland relief location map.png",
           "caption": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
           "alt": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
@@ -49,7 +49,8 @@
             "Images with extracted images",
             "Maps by Nilfanion",
             "Relief location maps of Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map-small.webp"
         },
         {
           "path": "_m/g/c/6/q/birr-castle-wp/birr-castle-offaly.jpg",
@@ -485,7 +486,8 @@
             "License migration redundant",
             "Photographs by Andreas F. Borchert",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/clonmacnois-cross-of-the-scrip-small.webp"
         },
         {
           "path": "_m/g/c/6/m/republic-of-ireland-wp/conamara-ireland.jpg",
@@ -507,7 +509,9 @@
             "Countryside in County Galway",
             "Self-published work",
             "Taken with Fujifilm FinePix F11"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/m/republic-of-ireland-wp/conamara-ireland-medium.webp",
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/conamara-ireland-small.webp"
         },
         {
           "path": "_m/g/c/3/u/shannon-region-wk/burren-karst.jpg",
@@ -528,7 +532,9 @@
             "Burren",
             "CC-BY-SA-2.5",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/u/shannon-region-wk/burren-karst-medium.webp",
+          "smallPath": "_m/g/c/3/u/shannon-region-wk/burren-karst-small.webp"
         },
         {
           "path": "_m/g/c/6/m/republic-of-ireland-wp/aer-lingus-a320-ei-dei-lhr-jul.jpg",
@@ -553,7 +559,9 @@
             "London photographs taken on 2007-07-28",
             "PD-user",
             "Taken with Nikon D50"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/m/republic-of-ireland-wp/aer-lingus-a320-ei-dei-lhr-jul-medium.webp",
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/aer-lingus-a320-ei-dei-lhr-jul-small.webp"
         },
         {
           "path": "_m/g/c/6/m/republic-of-ireland-wp/e01route.jpg",
@@ -577,7 +585,9 @@
             "Route confirmation signs in Ireland",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/m/republic-of-ireland-wp/e01route-medium.webp",
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/e01route-small.webp"
         },
         {
           "path": "_m/d/d/s/e/martinique-wp/euro-series-banknotes-2019.jpg",
@@ -592,7 +602,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Euro_Series_Banknotes_(2019).jpg",
           "sourceType": "poi",
           "sourceArticleId": "martinique-wp",
-          "sourceGeohash4": "gc6m"
+          "sourceGeohash4": "gc6m",
+          "smallPath": "_m/d/d/s/e/martinique-wp/euro-series-banknotes-2019-small.webp"
         },
         {
           "path": "_m/g/c/6/m/republic-of-ireland-wp/2019-trim-castle-4.jpg",
@@ -607,7 +618,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019_Trim_Castle_4.jpg",
           "sourceType": "poi",
           "sourceArticleId": "republic-of-ireland-wp",
-          "sourceGeohash4": "gc6m"
+          "sourceGeohash4": "gc6m",
+          "mediumPath": "_m/g/c/6/m/republic-of-ireland-wp/2019-trim-castle-4-medium.webp",
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/2019-trim-castle-4-small.webp"
         },
         {
           "path": "_m/g/c/7/x/dublin-wp/dublin-aerial-2025-07-07-01.jpg",
@@ -622,7 +635,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_-_aerial_-_2025-07-07_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dublin-wp",
-          "sourceGeohash4": "gc6m"
+          "sourceGeohash4": "gc6m",
+          "mediumPath": "_m/g/c/7/x/dublin-wp/dublin-aerial-2025-07-07-01-medium.webp",
+          "smallPath": "_m/g/c/7/x/dublin-wp/dublin-aerial-2025-07-07-01-small.webp"
         },
         {
           "path": "_m/g/c/6/w/county-offaly-wp/charleville-castle.png",
@@ -643,7 +658,8 @@
             "Images with extracted images",
             "July 2008 Ireland photographs",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/w/county-offaly-wp/charleville-castle-small.webp"
         },
         {
           "path": "_m/g/c/6/w/county-offaly-wp/clonmacnoise-2.jpg",
@@ -668,7 +684,9 @@
             "Quality images of cultural heritage monuments in County Offaly",
             "Self-published work",
             "Temple Finian"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/w/county-offaly-wp/clonmacnoise-2-medium.webp",
+          "smallPath": "_m/g/c/6/w/county-offaly-wp/clonmacnoise-2-small.webp"
         }
       ],
       "narration": [

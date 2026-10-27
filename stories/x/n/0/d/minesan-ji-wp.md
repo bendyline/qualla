@@ -32,8 +32,8 @@ Located at 34.253°N, 135.941°E near the summit of Sanjōgatake (1,719m / 5,640
 
 ## Sources
 
-- [Ominesan-ji - Wikipedia](https://en.wikipedia.org/wiki/%C5%8Cminesan-ji)
-- [Wikipedia raw article - Ominesan-ji](https://en.wikipedia.org/wiki/%C5%8Cminesan-ji)
+- [Ominesan-ji - Wikipedia](https://en.wikipedia.org/?curid=23919632)
+- [Wikipedia raw article - Ominesan-ji](https://en.wikipedia.org/?curid=23919632)
   - Founded end of 7th century by En no Gyoja
   - Main hall at 1,719 meters on Sanjo peak
   - Fujiwara no Michinaga sutra burial in gilt bronze container - designated National Treasure August 2007

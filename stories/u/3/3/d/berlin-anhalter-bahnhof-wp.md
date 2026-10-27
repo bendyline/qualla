@@ -46,7 +46,7 @@ The site sits at 52.5031 N, 13.3819 E in Berlin-Kreuzberg, roughly 700 m southea
 
 ## Sources
 
-- [Berlin Anhalter Bahnhof - Wikipedia](https://en.wikipedia.org/wiki/Berlin_Anhalter_Bahnhof)
+- [Berlin Anhalter Bahnhof - Wikipedia](https://en.wikipedia.org/?curid=6309610)
   - Construction began 15 April 1839; opened 1 July 1841 as far as Jüterbog, the inaugural train hauled by the first Borsig locomotive; named for the Anhalt line running through the historical state of Anhalt
   - Original platform just 15 m wide; Franz Heinrich Schwechten designed the replacement in 1872; temporary station 1874, old one demolished 1875, new one begun 1876
   - New terminus opened 15 June 1880 by Kaiser Wilhelm I and Chancellor Otto von Bismarck; largest station in Germany and at the time the biggest in Continental Europe

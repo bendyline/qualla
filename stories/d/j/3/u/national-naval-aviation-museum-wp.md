@@ -33,7 +33,7 @@ The National Naval Aviation Museum is located at 30.350N, 87.304W within Naval A
 ## Sources
 
 - [National Naval Aviation Museum - Wikipedia](https://en.wikipedia.org/?curid=2507180)
-- [National Naval Aviation Museum - Wikipedia / Official Website](https://en.wikipedia.org/wiki/National_Naval_Aviation_Museum)
+- [National Naval Aviation Museum - Wikipedia / Official Website](https://en.wikipedia.org/?curid=2507180)
   - World's largest naval aviation museum - confirmed
   - More than 150 aircraft and spacecraft - confirmed
   - NC-4 first aircraft to cross Atlantic 1919 - confirmed

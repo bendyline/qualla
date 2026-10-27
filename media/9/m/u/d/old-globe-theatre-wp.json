@@ -3,37 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/m/u/d/old-globe-theatre-wp/hero.jpg",
-        "filename": "Old Globe Theatre, San Diego.jpg",
-        "caption": "The Old Globe Theatre in Balboa Park, San Diego, California",
-        "alt": "The Old Globe Theatre in Balboa Park, San Diego, California",
-        "width": 3177,
-        "height": 2094,
+        "path": "_m/9/m/u/d/old-globe-theatre-wp/old-globe-theatre-balboa-park-.jpg",
+        "filename": "Old Globe Theatre, Balboa Park, San Diego DSCN0356.JPG",
+        "caption": "I took photo with Nikon camera of Old Globe Theatre in Balboa Park in San Diego, CA.",
+        "alt": "I took photo with Nikon camera of Old Globe Theatre in Balboa Park in San Diego, CA.",
+        "width": 4896,
+        "height": 3672,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "Bernard Gagnon",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Globe_Theatre,_San_Diego.jpg",
-        "sourceType": "core",
+        "artist": "Billy Hathorn",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Globe_Theatre,_Balboa_Park,_San_Diego_DSCN0356.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "old-globe-theatre-wp",
         "sourceGeohash4": "9mud",
         "categories": [
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "Files with coordinates missing SDC location of creation",
+          "CC-BY-SA-3.0",
           "GFDL",
           "License migration redundant",
-          "March 2013 in California",
           "Old Globe Theatre",
-          "Quality images",
-          "Quality images of San Diego, California",
-          "Quality images of buildings in California",
           "Self-published work",
-          "Taken with Canon EOS 1000D",
-          "United States photographs taken on 2013-03-31",
-          "Valued images by Bgag",
-          "Valued images of San Diego, California",
-          "Valued images promoted 2013-05",
-          "Valued images sorted by promotion date"
-        ]
+          "Taken with Nikon Coolpix S9400"
+        ],
+        "mediumPath": "_m/9/m/u/d/old-globe-theatre-wp/old-globe-theatre-balboa-park--medium.webp",
+        "smallPath": "_m/9/m/u/d/old-globe-theatre-wp/old-globe-theatre-balboa-park--small.webp"
       },
       "images": [
         {
@@ -243,7 +235,8 @@
             "GFDL",
             "License migration completed",
             "Taken with Canon PowerShot S40"
-          ]
+          ],
+          "smallPath": "_m/9/m/u/d/san-diego-wp/el-camino-real-california-2-small.webp"
         },
         {
           "path": "_m/9/m/u/d/san-diego-wk/tower-house-hospitalit.jpg",
@@ -269,7 +262,9 @@
             "Spanish Colonial Revival architecture in California",
             "Towers in California",
             "United States photographs taken on 2007-10-03"
-          ]
+          ],
+          "mediumPath": "_m/9/m/u/d/san-diego-wk/tower-house-hospitalit-medium.webp",
+          "smallPath": "_m/9/m/u/d/san-diego-wk/tower-house-hospitalit-small.webp"
         },
         {
           "path": "_m/9/m/u/d/san-diego-wk/one-several-shots-thes.jpg",
@@ -291,7 +286,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Panthera leo (families, captive)",
             "Panthera leo in San Diego Zoo Safari Park"
-          ]
+          ],
+          "smallPath": "_m/9/m/u/d/san-diego-wk/one-several-shots-thes-small.webp"
         },
         {
           "path": "_m/9/m/u/d/san-diego-wk/regulations-mission-be.jpg",
@@ -319,7 +315,8 @@
             "Skateboarding in San Diego, California",
             "Skateboarding prohibition signs",
             "Taken with Canon PowerShot S2 IS"
-          ]
+          ],
+          "smallPath": "_m/9/m/u/d/san-diego-wk/regulations-mission-be-small.webp"
         },
         {
           "path": "_m/9/m/u/d/san-diego-wk/hero.jpg",
@@ -344,7 +341,9 @@
             "Self-published work",
             "Sunsets of San Diego, California",
             "Taken with Nikon D90"
-          ]
+          ],
+          "mediumPath": "_m/9/m/u/d/san-diego-wk/hero-medium.webp",
+          "smallPath": "_m/9/m/u/d/san-diego-wk/hero-small.webp"
         },
         {
           "path": "_m/9/m/u/d/san-diego-wk/balboa-park-san-diego.jpg",
@@ -365,7 +364,9 @@
             "Casa del Prado",
             "Self-published work",
             "Taken with Pentax K-5"
-          ]
+          ],
+          "mediumPath": "_m/9/m/u/d/san-diego-wk/balboa-park-san-diego-medium.webp",
+          "smallPath": "_m/9/m/u/d/san-diego-wk/balboa-park-san-diego-small.webp"
         },
         {
           "path": "_m/9/m/u/d/san-diego-wk/la-jolla-cove-californ.jpg",
@@ -380,7 +381,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Jolla_Cove_view.jpg",
           "sourceType": "poi",
           "sourceArticleId": "san-diego-wk",
-          "sourceGeohash4": "9mud"
+          "sourceGeohash4": "9mud",
+          "mediumPath": "_m/9/m/u/d/san-diego-wk/la-jolla-cove-californ-medium.webp",
+          "smallPath": "_m/9/m/u/d/san-diego-wk/la-jolla-cove-californ-small.webp"
         },
         {
           "path": "_m/9/m/u/d/san-diego-wk/cabrillo-national-monu.jpg",
@@ -395,7 +398,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cabrillo_National_Monument-1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "san-diego-wk",
-          "sourceGeohash4": "9mud"
+          "sourceGeohash4": "9mud",
+          "mediumPath": "_m/9/m/u/d/san-diego-wk/cabrillo-national-monu-medium.webp",
+          "smallPath": "_m/9/m/u/d/san-diego-wk/cabrillo-national-monu-small.webp"
         },
         {
           "path": "_m/9/m/u/d/san-diego-wk/fachada-principal-del.jpg",
@@ -410,7 +415,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alpskwcrjuanew.jpg",
           "sourceType": "poi",
           "sourceArticleId": "san-diego-wk",
-          "sourceGeohash4": "9mud"
+          "sourceGeohash4": "9mud",
+          "smallPath": "_m/9/m/u/d/san-diego-wk/fachada-principal-del-small.webp"
         },
         {
           "path": "_m/9/m/u/d/san-diego-wk/rolled-tacos-topped-gu.jpg",
@@ -425,7 +431,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rolled_tacos_san_diego.jpg",
           "sourceType": "poi",
           "sourceArticleId": "san-diego-wk",
-          "sourceGeohash4": "9mud"
+          "sourceGeohash4": "9mud",
+          "mediumPath": "_m/9/m/u/d/san-diego-wk/rolled-tacos-topped-gu-medium.webp",
+          "smallPath": "_m/9/m/u/d/san-diego-wk/rolled-tacos-topped-gu-small.webp"
         },
         {
           "path": "_m/9/m/u/d/san-diego-wk/aircraft-final-approac.jpg",
@@ -440,7 +448,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Diego_Final_Approach.jpg",
           "sourceType": "poi",
           "sourceArticleId": "san-diego-wk",
-          "sourceGeohash4": "9mud"
+          "sourceGeohash4": "9mud",
+          "mediumPath": "_m/9/m/u/d/san-diego-wk/aircraft-final-approac-medium.webp",
+          "smallPath": "_m/9/m/u/d/san-diego-wk/aircraft-final-approac-small.webp"
         },
         {
           "path": "_m/9/m/u/d/heavens-gate-house-wk/cbx-terminal-exterior.jpg",
@@ -455,7 +465,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CBX_exterior.jpg",
           "sourceType": "poi",
           "sourceArticleId": "heavens-gate-house-wk",
-          "sourceGeohash4": "9mud"
+          "sourceGeohash4": "9mud",
+          "mediumPath": "_m/9/m/u/d/heavens-gate-house-wk/cbx-terminal-exterior-medium.webp",
+          "smallPath": "_m/9/m/u/d/heavens-gate-house-wk/cbx-terminal-exterior-small.webp"
         }
       ],
       "narration": [

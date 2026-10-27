@@ -28,7 +28,7 @@ Punchbowl Crater is now one of the most visited sites in Hawaii. The National Me
 
 ## Flight Context
 
-Located at 21.312N, 157.846W in central Honolulu. The tuff cone is unmistakable from the air -- a near-perfect circular crater rising above the surrounding neighborhoods. Diamond Head is 3 miles to the southeast. Honolulu International Airport (PHNL) is 4 miles to the west. The crater rim provides a useful visual reference point for orientation above the city.
+Located at 21.312N, 157.846W in central Honolulu. The tuff cone is unmistakable from the air -- a near-perfect circular crater rising above the surrounding neighborhoods. Diamond Head is 3 miles to the southeast. Daniel K. Inouye International Airport (PHNL, formerly Honolulu International) is 4 miles to the west. The crater rim provides a useful visual reference point for orientation above the city.
 
 ## Sources
 

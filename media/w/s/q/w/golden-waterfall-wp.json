@@ -3,26 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/s/q/w/golden-waterfall-wp/hero.jpg",
-        "filename": "Jiufen Golden Waterfall 08.jpg",
-        "caption": "Golden Waterfall, near Jioufen, New Taipei, Taiwan",
-        "alt": "Golden Waterfall, near Jioufen, New Taipei, Taiwan",
-        "width": 4326,
-        "height": 2951,
+        "path": "_m/w/s/q/w/golden-waterfall-wp/gold-waterfall-of-jinguashi.jpg",
+        "filename": "Gold Waterfall of Jinguashi.jpg",
+        "caption": "Gold Waterfall at Jinguashi, Rueifang Township of Taipei County.",
+        "alt": "Gold Waterfall at Jinguashi, Rueifang Township of Taipei County.",
+        "width": 4608,
+        "height": 3456,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Zairon",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jiufen_Golden_Waterfall_08.jpg",
-        "sourceType": "core",
+        "artist": "Terry850324",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gold_Waterfall_of_Jinguashi.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "golden-waterfall-wp",
         "sourceGeohash4": "wsqw",
-        "categories": [
-          "2016 photographs of New Taipei",
-          "CC-BY-SA-4.0",
-          "Golden Waterfall",
-          "Self-published work",
-          "Taiwan photographs taken on 2016-11-09"
-        ]
+        "mediumPath": "_m/w/s/q/w/golden-waterfall-wp/gold-waterfall-of-jinguashi-medium.webp",
+        "smallPath": "_m/w/s/q/w/golden-waterfall-wp/gold-waterfall-of-jinguashi-small.webp"
       },
       "images": [
         {
@@ -50,7 +45,7 @@
           "smallPath": "_m/w/s/q/w/golden-waterfall-wp/kinkaseki-small.webp"
         },
         {
-          "path": "_m/w/s/q/w/golden-waterfall-wp/gallery-2.jpg",
+          "path": "_m/w/s/q/w/jinguashi-wk/gallery-2.jpg",
           "filename": "黃金瀑布.jpg",
           "caption": "​金瓜石黃金瀑布",
           "alt": "​金瓜石黃金瀑布",
@@ -72,7 +67,7 @@
             "Taiwan photographs taken on 2011-10-28",
             "Taken with Panasonic Lumix DMC-GF1"
           ],
-          "smallPath": "_m/w/s/q/w/golden-waterfall-wp/gallery-2-small.webp"
+          "smallPath": "_m/w/s/q/w/jinguashi-wk/gallery-2-small.webp"
         },
         {
           "path": "_m/w/s/q/w/golden-waterfall-wp/gold-waterfall-of-jinguashi.jpg",
@@ -404,7 +399,9 @@
             "Taiwan photographs taken on 2003-05-23",
             "Taken with Nikon Coolpix 3100",
             "Visitors in Taiwan Taoyuan International Airport Terminal 1"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/q/new-taipei-city-wp/cks-airport-oliv-medium.webp",
+          "smallPath": "_m/w/s/q/q/new-taipei-city-wp/cks-airport-oliv-small.webp"
         },
         {
           "path": "_m/w/s/q/q/new-taipei-city-wp/hohaiyan-2006-smaller-band-she.jpg",
@@ -437,7 +434,8 @@
             "Self-published work",
             "Taiwan photographs taken on 2006-07-22",
             "Taken with Nikon Coolpix 2200"
-          ]
+          ],
+          "smallPath": "_m/w/s/q/q/new-taipei-city-wp/hohaiyan-2006-smaller-band-she-small.webp"
         },
         {
           "path": "_m/w/s/q/q/new-taipei-city-wp/agei.jpg",
@@ -456,7 +454,8 @@
           "categories": [
             "A-gei",
             "CC-BY-SA-2.0"
-          ]
+          ],
+          "smallPath": "_m/w/s/q/q/new-taipei-city-wp/agei-small.webp"
         },
         {
           "path": "_m/w/s/q/q/new-taipei-city-wp/wulai-vigor-village.jpg",
@@ -483,7 +482,9 @@
             "Self-published work",
             "Taken with Sony DSC-HX1",
             "Views from the Wulai Aerial Tramway"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/q/new-taipei-city-wp/wulai-vigor-village-medium.webp",
+          "smallPath": "_m/w/s/q/q/new-taipei-city-wp/wulai-vigor-village-small.webp"
         },
         {
           "path": "_m/w/s/q/q/new-taipei-city-wp/wuliaojian-5.jpg",
@@ -498,7 +499,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wuliaojian_5.jpg",
           "sourceType": "poi",
           "sourceArticleId": "new-taipei-city-wp",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/new-taipei-city-wp/wuliaojian-5-medium.webp",
+          "smallPath": "_m/w/s/q/q/new-taipei-city-wp/wuliaojian-5-small.webp"
         },
         {
           "path": "_m/w/s/q/q/new-taipei-city-wp/2021-jinshan-district-new-taip.jpg",
@@ -513,7 +516,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2021_Jinshan_District_New_Taipei_TAIWAN.jpg",
           "sourceType": "poi",
           "sourceArticleId": "new-taipei-city-wp",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/new-taipei-city-wp/2021-jinshan-district-new-taip-medium.webp",
+          "smallPath": "_m/w/s/q/q/new-taipei-city-wp/2021-jinshan-district-new-taip-small.webp"
         }
       ],
       "narration": [

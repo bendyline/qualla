@@ -37,7 +37,7 @@ The battle took place across the northeastern heights of Paris (48.86°N, 2.35°
 ## Sources
 
 - [Battle of Paris (1814) - Wikipedia](https://en.wikipedia.org/?curid=1812841)
-- [Battle of Paris (1814) - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Paris_(1814))
+- [Battle of Paris (1814) - Wikipedia](https://en.wikipedia.org/?curid=1812841)
   - Battle date March 30, 1814 confirmed
   - Allied force approximately 100,000-107,000 troops (not 300,000) - corrected summary
   - French defenders approximately 30,000-35,000 confirmed

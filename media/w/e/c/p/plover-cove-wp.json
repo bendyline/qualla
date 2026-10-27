@@ -2,36 +2,33 @@
   "id": "plover-cove-wp",
   "patch": {
     "media": {
+      "narration": [
+        "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-flight-context.mp3",
+        "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-intro.mp3",
+        "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-a-cove-encircled.mp3",
+        "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-eleven-villages-one-alliance.mp3",
+        "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-dam-and-reservoir.mp3",
+        "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-the-annual-crossing.mp3",
+        "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-edges-of-the-city.mp3"
+      ],
+      "hero": {
+        "path": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-1.jpg",
+        "filename": "Plover Cove 04-10-2024(1).jpg",
+        "caption": "​這張照片在巴士上拍攝。",
+        "alt": "​這張照片在巴士上拍攝。",
+        "width": 8064,
+        "height": 6048,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 4.0",
+        "artist": "LN9267",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plover_Cove_04-10-2024(1).jpg",
+        "sourceType": "commons-category",
+        "sourceArticleId": "plover-cove-wp",
+        "sourceGeohash4": "wecp",
+        "mediumPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-1-medium.webp",
+        "smallPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-1-small.webp"
+      },
       "images": [
-        {
-          "path": "_m/w/e/c/p/plover-cove-wp/hk-yimtintsai-east-mariculture.jpg",
-          "filename": "HK YimTinTsai East MaricultureRaft.JPG",
-          "caption": "​鹽田仔（東部）魚類養殖區",
-          "alt": "​鹽田仔（東部）魚類養殖區",
-          "width": 3264,
-          "height": 2448,
-          "mimeType": "image/jpeg",
-          "license": "CC BY-SA 3.0",
-          "artist": "Chong Fat",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:HK_YimTinTsai_East_MaricultureRaft.JPG",
-          "sourceType": "core",
-          "sourceArticleId": "plover-cove-wp",
-          "sourceGeohash4": "wecp",
-          "categories": [
-            "CC-BY-SA-3.0",
-            "Fish farming at Yim Tin Tsai (Tai Po)",
-            "GFDL",
-            "Images with annotations",
-            "License migration redundant",
-            "Ma Shi Chau",
-            "Main dam of Plover Cove Reservoir",
-            "Mariculture",
-            "Plover Cove",
-            "Plover Cove Reservoir",
-            "Self-published work",
-            "Taken with Nikon Coolpix L21"
-          ]
-        },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/shuen-wan.jpg",
           "filename": "Shuen Wan 2018.jpg",
@@ -93,7 +90,7 @@
           "smallPath": "_m/w/e/c/p/plover-cove-wp/hkfyg-taimeitukoutdooractiviti-small.webp"
         },
         {
-          "path": "_m/w/e/c/p/plover-cove-wp/hk-plovercove.jpg",
+          "path": "_m/w/e/c/p/ma-shi-chau-wp/hk-plovercove.jpg",
           "filename": "HK PloverCove.JPG",
           "caption": "船灣海. Plover Cove with Plover Cove Reservoir in the background",
           "alt": "船灣海. Plover Cove with Plover Cove Reservoir in the background",
@@ -114,7 +111,8 @@
             "PD-user",
             "Plover Cove",
             "Plover Cove Reservoir"
-          ]
+          ],
+          "smallPath": "_m/w/e/c/p/ma-shi-chau-wp/hk-plovercove-small.webp"
         },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/plover-cove-park.jpg",
@@ -166,11 +164,11 @@
             "Self-published work",
             "Taken with Nikon Coolpix L21"
           ],
-          "mediumPath": "_m/w/e/c/p/plover-cove-wp/hk-yimtintsai-east-mariculture-1-medium.webp",
-          "smallPath": "_m/w/e/c/p/plover-cove-wp/hk-yimtintsai-east-mariculture-1-small.webp"
+          "smallPath": "_m/w/e/c/p/plover-cove-wp/hk-yimtintsai-east-mariculture-1-small.webp",
+          "mediumPath": "_m/w/e/c/p/plover-cove-wp/hk-yimtintsai-east-mariculture-1-medium.webp"
         },
         {
-          "path": "_m/w/e/c/p/plover-cove-wp/pat-sin-leng-and-tai-mei-tuk.jpg",
+          "path": "_m/w/e/c/p/pat-sin-leng-wp/pat-sin-leng-and-tai-mei-tuk.jpg",
           "filename": "Pat Sin Leng and Tai Mei Tuk.jpg",
           "caption": "Pat Sin Leng serves as a beautiful backdrop for Tai Mei Tuk",
           "alt": "Pat Sin Leng serves as a beautiful backdrop for Tai Mei Tuk",
@@ -194,10 +192,12 @@
             "Lung Mei, Tai Po District",
             "Ng Uk Tsuen, Tai Po",
             "Pat Sin Leng"
-          ]
+          ],
+          "smallPath": "_m/w/e/c/p/pat-sin-leng-wp/pat-sin-leng-and-tai-mei-tuk-small.webp",
+          "mediumPath": "_m/w/e/c/p/pat-sin-leng-wp/pat-sin-leng-and-tai-mei-tuk-medium.webp"
         },
         {
-          "path": "_m/w/e/c/p/plover-cove-wp/pat-sin-leng-and-plover-cove-w.jpg",
+          "path": "_m/w/e/c/p/pat-sin-leng-wp/pat-sin-leng-and-plover-cove-w.jpg",
           "filename": "Pat Sin Leng and Plover Cove (West).JPG",
           "caption": "Pat Sin Leng and Plover Cove (West)",
           "alt": "Pat Sin Leng and Plover Cove (West)",
@@ -209,10 +209,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pat_Sin_Leng_and_Plover_Cove_(West).JPG",
           "sourceType": "commons-category",
           "sourceArticleId": "pat-sin-leng-wp",
-          "sourceGeohash4": "wecp"
+          "sourceGeohash4": "wecp",
+          "smallPath": "_m/w/e/c/p/pat-sin-leng-wp/pat-sin-leng-and-plover-cove-w-small.webp",
+          "mediumPath": "_m/w/e/c/p/pat-sin-leng-wp/pat-sin-leng-and-plover-cove-w-medium.webp"
         },
         {
-          "path": "_m/w/e/c/p/plover-cove-wp/pat-sin-leng-and-plover-cove-e.jpg",
+          "path": "_m/w/e/c/p/pat-sin-leng-wp/pat-sin-leng-and-plover-cove-e.jpg",
           "filename": "Pat Sin Leng and Plover Cove (East).JPG",
           "caption": "Pat Sin Leng and Plover Cove (East)",
           "alt": "Pat Sin Leng and Plover Cove (East)",
@@ -224,7 +226,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pat_Sin_Leng_and_Plover_Cove_(East).JPG",
           "sourceType": "commons-category",
           "sourceArticleId": "pat-sin-leng-wp",
-          "sourceGeohash4": "wecp"
+          "sourceGeohash4": "wecp",
+          "smallPath": "_m/w/e/c/p/pat-sin-leng-wp/pat-sin-leng-and-plover-cove-e-small.webp",
+          "mediumPath": "_m/w/e/c/p/pat-sin-leng-wp/pat-sin-leng-and-plover-cove-e-medium.webp"
         },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/little-mangrove-tai-po-1973882.jpg",
@@ -240,8 +244,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "plover-cove-wp",
           "sourceGeohash4": "wecp",
-          "mediumPath": "_m/w/e/c/p/plover-cove-wp/little-mangrove-tai-po-1973882-medium.webp",
-          "smallPath": "_m/w/e/c/p/plover-cove-wp/little-mangrove-tai-po-1973882-small.webp"
+          "smallPath": "_m/w/e/c/p/plover-cove-wp/little-mangrove-tai-po-1973882-small.webp",
+          "mediumPath": "_m/w/e/c/p/plover-cove-wp/little-mangrove-tai-po-1973882-medium.webp"
         },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/distant-view-of-lungmeibeach-m.jpg",
@@ -257,8 +261,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "plover-cove-wp",
           "sourceGeohash4": "wecp",
-          "mediumPath": "_m/w/e/c/p/plover-cove-wp/distant-view-of-lungmeibeach-m-medium.webp",
-          "smallPath": "_m/w/e/c/p/plover-cove-wp/distant-view-of-lungmeibeach-m-small.webp"
+          "smallPath": "_m/w/e/c/p/plover-cove-wp/distant-view-of-lungmeibeach-m-small.webp",
+          "mediumPath": "_m/w/e/c/p/plover-cove-wp/distant-view-of-lungmeibeach-m-medium.webp"
         },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/a-view-of-sam-mun-tsai.jpg",
@@ -274,8 +278,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "plover-cove-wp",
           "sourceGeohash4": "wecp",
-          "mediumPath": "_m/w/e/c/p/plover-cove-wp/a-view-of-sam-mun-tsai-medium.webp",
-          "smallPath": "_m/w/e/c/p/plover-cove-wp/a-view-of-sam-mun-tsai-small.webp"
+          "smallPath": "_m/w/e/c/p/plover-cove-wp/a-view-of-sam-mun-tsai-small.webp",
+          "mediumPath": "_m/w/e/c/p/plover-cove-wp/a-view-of-sam-mun-tsai-medium.webp"
         },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/a-lot-of-stone-piles-in-sam-mu.jpg",
@@ -291,8 +295,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "plover-cove-wp",
           "sourceGeohash4": "wecp",
-          "mediumPath": "_m/w/e/c/p/plover-cove-wp/a-lot-of-stone-piles-in-sam-mu-medium.webp",
-          "smallPath": "_m/w/e/c/p/plover-cove-wp/a-lot-of-stone-piles-in-sam-mu-small.webp"
+          "smallPath": "_m/w/e/c/p/plover-cove-wp/a-lot-of-stone-piles-in-sam-mu-small.webp",
+          "mediumPath": "_m/w/e/c/p/plover-cove-wp/a-lot-of-stone-piles-in-sam-mu-medium.webp"
         },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/lung-mei-25-06-2020.jpg",
@@ -308,8 +312,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "plover-cove-wp",
           "sourceGeohash4": "wecp",
-          "mediumPath": "_m/w/e/c/p/plover-cove-wp/lung-mei-25-06-2020-medium.webp",
-          "smallPath": "_m/w/e/c/p/plover-cove-wp/lung-mei-25-06-2020-small.webp"
+          "smallPath": "_m/w/e/c/p/plover-cove-wp/lung-mei-25-06-2020-small.webp",
+          "mediumPath": "_m/w/e/c/p/plover-cove-wp/lung-mei-25-06-2020-medium.webp"
         },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/passengers-use-sang-lee-boat-r.jpg",
@@ -325,8 +329,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "plover-cove-wp",
           "sourceGeohash4": "wecp",
-          "mediumPath": "_m/w/e/c/p/plover-cove-wp/passengers-use-sang-lee-boat-r-medium.webp",
-          "smallPath": "_m/w/e/c/p/plover-cove-wp/passengers-use-sang-lee-boat-r-small.webp"
+          "smallPath": "_m/w/e/c/p/plover-cove-wp/passengers-use-sang-lee-boat-r-small.webp",
+          "mediumPath": "_m/w/e/c/p/plover-cove-wp/passengers-use-sang-lee-boat-r-medium.webp"
         },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/passengers-use-sang-lee-boat-r-1.jpg",
@@ -342,8 +346,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "plover-cove-wp",
           "sourceGeohash4": "wecp",
-          "mediumPath": "_m/w/e/c/p/plover-cove-wp/passengers-use-sang-lee-boat-r-1-medium.webp",
-          "smallPath": "_m/w/e/c/p/plover-cove-wp/passengers-use-sang-lee-boat-r-1-small.webp"
+          "smallPath": "_m/w/e/c/p/plover-cove-wp/passengers-use-sang-lee-boat-r-1-small.webp",
+          "mediumPath": "_m/w/e/c/p/plover-cove-wp/passengers-use-sang-lee-boat-r-1-medium.webp"
         },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/people-ride-bicycle-in-plover-.jpg",
@@ -359,8 +363,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "plover-cove-wp",
           "sourceGeohash4": "wecp",
-          "mediumPath": "_m/w/e/c/p/plover-cove-wp/people-ride-bicycle-in-plover--medium.webp",
-          "smallPath": "_m/w/e/c/p/plover-cove-wp/people-ride-bicycle-in-plover--small.webp"
+          "smallPath": "_m/w/e/c/p/plover-cove-wp/people-ride-bicycle-in-plover--small.webp",
+          "mediumPath": "_m/w/e/c/p/plover-cove-wp/people-ride-bicycle-in-plover--medium.webp"
         },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/people-ride-bicycle-in-plover--1.jpg",
@@ -376,8 +380,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "plover-cove-wp",
           "sourceGeohash4": "wecp",
-          "mediumPath": "_m/w/e/c/p/plover-cove-wp/people-ride-bicycle-in-plover--1-medium.webp",
-          "smallPath": "_m/w/e/c/p/plover-cove-wp/people-ride-bicycle-in-plover--1-small.webp"
+          "smallPath": "_m/w/e/c/p/plover-cove-wp/people-ride-bicycle-in-plover--1-small.webp",
+          "mediumPath": "_m/w/e/c/p/plover-cove-wp/people-ride-bicycle-in-plover--1-medium.webp"
         },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/plover-cove-28861990660.jpg",
@@ -393,8 +397,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "plover-cove-wp",
           "sourceGeohash4": "wecp",
-          "mediumPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-28861990660-medium.webp",
-          "smallPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-28861990660-small.webp"
+          "smallPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-28861990660-small.webp",
+          "mediumPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-28861990660-medium.webp"
         },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-1.jpg",
@@ -410,8 +414,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "plover-cove-wp",
           "sourceGeohash4": "wecp",
-          "mediumPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-1-medium.webp",
-          "smallPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-1-small.webp"
+          "smallPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-1-small.webp",
+          "mediumPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-1-medium.webp"
         },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-2.jpg",
@@ -427,8 +431,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "plover-cove-wp",
           "sourceGeohash4": "wecp",
-          "mediumPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-2-medium.webp",
-          "smallPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-2-small.webp"
+          "smallPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-2-small.webp",
+          "mediumPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-2-medium.webp"
         },
         {
           "path": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-3.jpg",
@@ -444,18 +448,9 @@
           "sourceType": "commons-category",
           "sourceArticleId": "plover-cove-wp",
           "sourceGeohash4": "wecp",
-          "mediumPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-3-medium.webp",
-          "smallPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-3-small.webp"
+          "smallPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-3-small.webp",
+          "mediumPath": "_m/w/e/c/p/plover-cove-wp/plover-cove-04-10-2024-3-medium.webp"
         }
-      ],
-      "narration": [
-        "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-flight-context.mp3",
-        "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-intro.mp3",
-        "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-a-cove-encircled.mp3",
-        "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-eleven-villages-one-alliance.mp3",
-        "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-dam-and-reservoir.mp3",
-        "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-the-annual-crossing.mp3",
-        "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-edges-of-the-city.mp3"
       ],
       "combinedNarration": "_m/w/e/c/p/plover-cove-wp/wecp-plover-cove-combined.mp3",
       "combinedNarrationBytes": 3903455,

@@ -36,7 +36,7 @@ The camp site lies at 52.091 N, 13.130 E, in the Frankenfelde district on the ed
 
 ## Sources
 
-- [Stalag III-A - Wikipedia](https://en.wikipedia.org/wiki/Stalag_III-A)
+- [Stalag III-A - Wikipedia](https://en.wikipedia.org/?curid=3192565)
 - [Luckenwalde - Wikipedia (German)](https://de.wikipedia.org/wiki/Luckenwalde)
   - the camp stood in the Frankenfelde district of Luckenwalde
   - more than 5,000 prisoners, especially from the Soviet Union, died of hunger and illness

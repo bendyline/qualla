@@ -33,7 +33,7 @@ The crash site is approximately 1.5 miles offshore from Pinones, east of San Jua
 ## Sources
 
 - [1972 Puerto Rico DC-7 crash - Wikipedia](https://en.wikipedia.org/?curid=47261363)
-- [Wikipedia - 1972 Puerto Rico DC-7 crash](https://en.wikipedia.org/wiki/1972_Puerto_Rico_DC-7_crash)
+- [Wikipedia - 1972 Puerto Rico DC-7 crash](https://en.wikipedia.org/?curid=47261363)
   - Clemente's 3000th hit September 30, 1972 confirmed
   - He was the 11th MLB player to reach 3000 hits confirmed
   - Nicaragua earthquake 6.2 magnitude December 23, 1972 confirmed (story says 6.3 — minor rounding; both cited in sources)

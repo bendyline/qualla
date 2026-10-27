@@ -33,7 +33,7 @@ Located at 34.44N, 135.56E in the hills south of Osaka, at an elevation of 182 m
 ## Sources
 
 - [Eboshigata Castle - Wikipedia](https://en.wikipedia.org/?curid=70000198)
-- [Eboshigata Castle - Wikipedia](https://en.wikipedia.org/wiki/Eboshigata_Castle)
+- [Eboshigata Castle - Wikipedia](https://en.wikipedia.org/?curid=70000198)
   - Castle built 1332 by Kusunoki Masashige
   - One of seven castles in Masashige's network
   - 182 meters elevation

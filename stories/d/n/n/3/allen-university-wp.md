@@ -44,7 +44,7 @@ Allen University sits at 34.011°N, 81.020°W, just east of downtown Columbia at
   - National Historic Landmark designation year confirmed as 1976 (not 1975)
   - designed by John Anderson Lankford confirmed
   - named for William D. Chappelle confirmed
-- [Allen University Yellow Jackets - NCAA Division II / SIAC](https://en.wikipedia.org/wiki/Allen_University)
+- [Allen University Yellow Jackets - NCAA Division II / SIAC](https://en.wikipedia.org/?curid=3114831)
   - Football reinstated 2018 confirmed
   - SIAC membership 2020 confirmed
   - Full NCAA Division II status achieved 2022-23 confirmed

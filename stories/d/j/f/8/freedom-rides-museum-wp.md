@@ -46,7 +46,7 @@ Located at 32.37°N, 86.31°W in downtown Montgomery, Alabama, at 210 South Cour
   - May 20, 1961 violence
   - John Seigenthaler beaten
   - Bus arrived 10:23 AM
-- [Freedom Rides Museum - Wikipedia](https://en.wikipedia.org/wiki/Freedom_Rides_Museum)
+- [Freedom Rides Museum - Wikipedia](https://en.wikipedia.org/?curid=24809451)
   - Station opened August 1951
   - Colored Entrance door directed African Americans to rear
   - Station directly behind U.S. District Courthouse on Lee Street

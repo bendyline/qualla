@@ -30,7 +30,7 @@ Joshua Tree has accumulated these places over decades. The Integratron stands ne
 
 ## Flight Context
 
-Located at approximately 34.13°N, 116.31°W in the town of Joshua Tree, California, west of Twentynine Palms and north of the national park's main entrance. The building is small and low-profile from altitude but the acid-green paint makes it identifiable at low altitude on approach. Nearest airports: Twentynine Palms (TNP) ~15 miles east, Desert Resorts Regional (PSP) ~30 miles south.
+Located at approximately 34.13°N, 116.31°W in the town of Joshua Tree, California, west of Twentynine Palms and north of the national park's main entrance. The building is small and low-profile from altitude but the acid-green paint makes it identifiable at low altitude on approach. Nearest airports: Twentynine Palms (TNP) ~15 miles east, Palm Springs International (PSP) ~30 miles south.
 
 ## Sources
 

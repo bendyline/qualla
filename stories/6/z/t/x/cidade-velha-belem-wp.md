@@ -1,44 +1,68 @@
 # Cidade Velha (Belém)
 
-The oldest neighborhood in Belém grew from a wooden fort built in 1616 to defend the Amazon, and still carries four centuries of Portuguese colonial architecture along its riverbank streets.
+Belém's oldest quarter, grown from a straw-roofed fort raised in 1616 to hold the Amazon for Portugal, and refaced three centuries later in tile bought with rubber money.
 
 **Location:** -1.4626, -48.5044
 
-**Categories:** Belém, Pará, Portuguese Empire, colonial architecture, Amazon rubber cycle
+**Categories:** neighborhood, history, colonial, amazon, brazil, architecture, portuguese-empire
 
 ## Introduction
 
-On January 12, 1616, a Portuguese captain-mor named Francisco Caldeira Castelo Branco drove wooden posts into the mud at the mouth of a small creek called the Piry, raised a stockade he named Forte do Presépio, and claimed the mouth of the Amazon for an empire that technically no longer existed as an independent crown. Portugal and Spain were briefly one country under the Iberian Union, and the Amazon was, in theory, Spanish. None of that mattered to Castelo Branco. What mattered was that the Dutch and the French kept sailing into the estuary, and somebody had to stop them. The fort held. The settlement that grew up behind it is now called Cidade Velha, the Old City, and it is where Belém begins.
+The creek is gone now, filled in and paved over, but on 12 January 1616 it was the reason for everything. Francisco Caldeira Castelo Branco put his ships in at the mouth of the Piry, a tidal channel opening into Guajará Bay, and had his men drive posts into the mud for a stockade he called the Forte do Presépio — the Fort of the Nativity Scene. It was wood and straw, and it was meant to keep Dutch and French traders out of the Amazon. The dozen or so blocks that grew up behind it are called Cidade Velha, the Old City, and they are where Belém, and Portuguese Amazonia, begin.
 
-## Before the Fort
+## Mairi
 
-The land Castelo Branco called Feliz Lusitânia already had a name. The Tupinambá and Pacajá people called it Mairi, and under the cacique Guaimiaba they had lived along the Guamá River for generations, harvesting fish from the bay and moving through the igapó forests that flooded with the tides. The arrival of 150 Portuguese men in three small ships did not politely displace them. It set off decades of warfare, enslavement, and disease that reshaped the entire lower Amazon. The streets of Cidade Velha run, in some places, exactly where indigenous paths once ran. The stones came later. The geography is older than any of the names it has been given.
+The place already had a name before the Portuguese gave it one. The Tupinambá and Pacajá who lived along the Guamá called it Mairi, and the people of the surrounding villages answered to the cacique Guaimiaba. They fished the bay, moved through forests that flooded and drained with the tide, and had done so for generations before a stockade appeared on the bluff. What followed was not a peaceful handover. The conquest of Pará was carried out through warfare, enslavement and epidemic disease, and the Indigenous population of the lower Amazon was shattered by it. The colonial grid that survives here was laid over somebody else's landscape, and the tides that still time the day in Cidade Velha are the same tides the Tupinambá read.
 
-## The Rubber That Paid For Everything
+## The Fort on the Bluff
 
-Walk down Rua Siqueira Mendes or Avenida Portugal today and you are walking through money that came out of trees. Between roughly 1880 and the 1910s, the Amazon rubber boom made Belém one of the richest cities in South America. Intendant Antônio Lemos drained the swamps, paved the streets with stone shipped from Portugal, and imported iron monuments from European foundries. The Antônio Lemos Palace went up in 1883, a sumptuous municipal building that now houses the Museu de Arte de Belém and nearly a thousand works of art. The Solar Barão de Guajará, finished in 1873, is tiled from floor to roofline in Portuguese azulejo. The Pinho Mansion, completed in 1897, carries the same blue-and-white ceramic skin. When world rubber prices collapsed after 1912, the money stopped. The façades did not.
+Wood gave way to stone, and the Presépio became the Forte do Castelo, a masonry work looking straight down the water where enemy sail would have appeared. Its original cannons are still mounted. Inside, the collection is older than anything Portugal built here: Marajoara and Tapajônica ceramics, painted vessels and burial urns made by cultures that flourished on Marajó Island and the Tapajós River centuries before European contact. The fort now anchors the Feliz Lusitânia complex, the restored cluster of colonial buildings that gave the settlement its first, short-lived name — Fortunate Lusitania — and it remains the single best place to understand why the city sits where it does.
 
-## Stones, Saints, and Italian Architects
+## Our Lady of Grace
 
-Most of the truly old buildings in Cidade Velha owe their shape to an unlikely figure: Antonio José Landi, an architect from Bologna who arrived in the Amazon in 1753 and never left. Landi designed Our Lady of Grace Cathedral, completed in 1771, whose altar was later donated by Pope Pius XI and whose interior holds twenty-eight bronze chandeliers imported from England. He redesigned the Church of Our Lady of Mount Carmel, the oldest church in Belém. He built the small octagonal Church of Saint John the Baptist in 1777, with its elaborate central dome and quadrature paintings. Beside these stands the Church of Saint Alexander, completed in 1719 in a muscular Amazonian baroque, its Jesuit convent still the most important of its kind in Brazil, now holding the Museum of Sacred Art.
+A short walk uphill stands the cathedral, Nossa Senhora da Graça, completed in 1771 and known simply as the Sé. Its design owes much to Antônio José Landi, born Giuseppe Antonio Landi in Bologna, who came to the Amazon with a technical commission in 1753 and never left, spending nearly forty years redrawing the city's churches and streets. The interior is deliberately overwhelming for a building at the edge of the rainforest: ten side altars, a wall of paintings, twenty-eight bronze chandeliers made in England, and a main altar donated by Pope Pius XI. Nearby, the Church of Saint Alexander — its present building finished in 1719 in a heavy Amazonian baroque — holds the most important Jesuit complex in Brazil, restored to house the Museum of Sacred Art.
 
-## The Fort, the Palace, the Eleven Windows
+## Streets Named for Elsewhere
 
-The original fort still sits on the bluff above the Feira do Açaí, renamed the Forte do Castelo. Its cannons face the water exactly where Dutch and French ships once tried to enter the bay. Inside, glass cases hold Marajoara and Tapajó ceramics older than the fort itself, painted vessels and burial urns from cultures that flourished on Marajó Island and the Tapajós River a thousand years before any Portuguese sail appeared. A short walk away is the Palace of the Eleven Windows, an eighteenth-century house of a wealthy colonist named Domingos da Costa Barcelar, converted in 1768 into a military hospital and only released from military use in 2001. Casa Rosada, built in 1760 on Rua Siqueira Mendes, belonged to a captain-engineer who helped defend the region against a suspected French invasion in 1795. The neighborhood is a list of such houses, about 2,800 of them listed as heritage by IPHAN.
+Read the street signs and you get a map of somewhere else. Avenida Portugal. Rua de Aveiro. Rua de Óbidos, Rua de Breves, Avenida Almirante Tamandaré, Rua Ângelo Custódio — which locals long called the Rua Longa, the Long Street, and which was laid out in the 1600s. The third street the Portuguese cut was named for its horsemen, Rua dos Cavaleiros, before being renamed for a physician-governor. Taken together with the adjoining quarter, the historic centre gathers roughly 2,800 buildings protected as national heritage by IPHAN: townhouses with shops on the ground floor, warehouses, chapels, palaces. Almost nowhere else in Brazil holds this much colonial fabric on this scale.
 
-## The Squares
+## Tiles Paid For by Latex
 
-Belém's plazas work as outdoor rooms. Dom Pedro II Square, finished in 1772, is the oldest in the city, planted with regional flora around small artificial lakes. Dom Frei Caetano Brandão Square, also called the Largo da Sé, was the original meeting point between Portuguese and indigenous peoples; a bronze bishop stands at its center today. Siqueira Campos Square, inaugurated in 1931, is better known as Praça do Relógio for the twelve-meter clock tower that English foundries built and local hands assembled. Mangal das Garças runs forty thousand square meters along the Guamá River, with scarlet ibis in the aviary, almost eight hundred butterflies in the butterfly house, and a tower that offers a 360-degree view of a city whose old quarter still tells you, stone by stone, where the Amazon began to be colonial.
+The neighborhood you walk through today is only partly colonial. Between roughly 1880 and 1912, rubber money washed over Belém, and the old quarter was refaced in it — European façades, imported ironwork, and above all azulejo, the glazed Portuguese tile that sheathes entire buildings here and still throws back the afternoon light. The Solar Barão de Guajará, finished in 1873, is tiled from pavement to roofline. Casa Rosada, built in 1760 on Rua Siqueira Mendes for a captain-engineer who helped prepare the region's defences against a feared French attack in 1795, sits a few doors from mansions raised a century later on latex. When the boom collapsed, the money left and the surfaces stayed. That is the particular character of Cidade Velha: a fortified colonial village wearing the clothes of a brief and spectacular fortune.
 
 ## Flight Context
 
-Cidade Velha occupies the tip of the Belém peninsula at 1.4626°S, 48.5044°W, where the Guamá River opens into Guajará Bay. From altitude, look for the compact grid of red-tiled roofs at the water's edge, with the distinctive star-shaped Forte do Castelo on the bluff. Recommended viewing altitude 2,500-4,000 feet. Nearest airport is Belém/Val de Cans International (SBBE), 9 km north. Morning visibility is usually best; afternoon brings Amazonian thunderstorms.
+Cidade Velha occupies the southern tip of the Belém peninsula at 1.4626°S, 48.5044°W, where the Guamá River opens into Guajará Bay. From the air, look for the compact quarter of low tiled roofs at the waterline just south of the modern skyline, with the Forte do Castelo on the bluff at the water's edge and the Ver-o-Peso quays immediately north. Recommended viewing altitude 2,000–4,000 feet. Nearest airport is Belém/Val-de-Cans International (SBBE/BEL), 9 km north. Mornings offer the best visibility; afternoon convective storms are routine year-round and heaviest December through May.
 
 ## Sources
 
 - [Cidade Velha (Belém) - Wikipedia](https://en.wikipedia.org/?curid=73613521)
+- [Cidade Velha (Belém) - Wikipedia (fact-check pass)](https://en.wikipedia.org/?curid=73613521)
+  - Forte do Presépio founded 12 January 1616 by Francisco Caldeira Castelo Branco
+  - Tupinambá and Pacajá peoples of Mairi, cacique Guaimiaba
+  - Cathedral Nossa Senhora da Graça (the Sé) completed 1771, designed with Antônio José Landi
+  - Church of Saint Alexander's current building completed 1719
+  - ~2,800 buildings protected as national heritage (IPHAN) in the historic centre
+  - Solar Barão de Guajará completed 1873; Casa Rosada built 1760
+- [Antônio José Landi - Wikipedia (Portuguese)](https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Jos%C3%A9_Landi)
+  - Born Giuseppe Antonio Landi in Bologna (29 October 1713)
+  - Departed for Pará on 2 June 1753 as part of a boundary-demarcation technical commission
+  - Died in Belém on 22 June 1791, after nearly 38 years in the region
+
+## Review Notes
+
+**Reviewed:** 2026-09-05 · 8 facts verified · 0 corrections
+
+Fact-checked founding date, fort, cathedral/Landi, church, IPHAN building count, rubber-era architecture. All verified accurate against primary Wikipedia source plus pt.wikipedia Landi biography. No factual errors found; no empathy/dignity issues (Indigenous groups named specifically, no dehumanizing language). Added verification sources and editorial (spiciness 2).
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- The colonial grid that survives here was laid over somebody else's landscape
+- That is the particular character of Cidade Velha: a fortified colonial village wearing the clothes of a brief and spectacular fortune
 
 ---
 
-*Word count: 810*
+*Word count: 741*
 *Read time: 4 minutes*

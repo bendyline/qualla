@@ -36,8 +36,8 @@ Located at 35.161°N, 136.283°E in the forested foothills east of Lake Biwa in 
 
 ## Sources
 
-- [Kongorin-ji - Wikipedia](https://en.wikipedia.org/wiki/Kong%C5%8Drin-ji)
-- [Kongōrin-ji - Wikipedia](https://en.wikipedia.org/wiki/Kong%C5%8Drin-ji)
+- [Kongorin-ji - Wikipedia](https://en.wikipedia.org/?curid=68722276)
+- [Kongōrin-ji - Wikipedia](https://en.wikipedia.org/?curid=68722276)
   - Temple founded 737/741 AD by monk Gyoki at request of Emperor Shomu
   - Monk Ennin revived temple and brought it into Tendai sect during Kajo era (848-851)
   - Main Hall metal altar fittings inscribed with date 1288 commemorating Mongol invasion victory

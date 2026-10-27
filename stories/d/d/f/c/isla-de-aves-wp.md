@@ -33,7 +33,7 @@ Isla de Aves is located at approximately 15.67N, 63.62W in the open Caribbean Se
 ## Sources
 
 - [Isla de Aves - Wikipedia](https://en.wikipedia.org/?curid=931913)
-- [Isla de Aves - Wikipedia](https://en.wikipedia.org/wiki/Isla_de_Aves)
+- [Isla de Aves - Wikipedia](https://en.wikipedia.org/?curid=931913)
   - Island 375 meters long, 50 meters wide, 4 meters above sea level confirmed
   - Hurricane Allen split island in 1980 confirmed
   - Hurricane Dean struck in 2007 confirmed

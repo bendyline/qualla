@@ -37,14 +37,14 @@ The National Congress building housing the Federal Senate stands at 15.80 S, 47.
 ## Sources
 
 - [Federal Senate (Brazil) - Wikipedia](https://en.wikipedia.org/?curid=6132308)
-- [Federal Senate of Brazil - Wikipedia](https://en.wikipedia.org/wiki/Federal_Senate_of_Brazil)
+- [Federal Senate of Brazil - Wikipedia](https://en.wikipedia.org/?curid=6132308)
   - 81 senators confirmed
   - three per state confirmed
   - eight-year terms confirmed
   - Imperial Senate established 1824 confirmed
   - Dilma Rousseff impeachment 2016 confirmed
   - Fernando Collor resigned during trial 1992 confirmed
-- [Davi Alcolumbre - Federal Senate President 2025](https://en.wikipedia.org/wiki/Federal_Senate_of_Brazil)
+- [Davi Alcolumbre - Federal Senate President 2025](https://en.wikipedia.org/?curid=6132308)
   - Davi Alcolumbre of UNIAO party from Amapa serving as Senate president as of February 2025 confirmed
 
 ## Review Notes

@@ -33,7 +33,7 @@ Adams Mine at 48.067N, 79.916W in the Timiskaming District, about 30 km south of
 ## Sources
 
 - [Adams Mine - Wikipedia](https://en.wikipedia.org/?curid=2207166)
-- [Wikipedia - Adams Mine](https://en.wikipedia.org/wiki/Adams_Mine)
+- [Wikipedia - Adams Mine](https://en.wikipedia.org/?curid=2207166)
   - Iron ore discovery in 1906 confirmed
   - Jones and Laughlin Steel Corp of Pittsburgh developed site, first production 1964 confirmed
   - Sold to Dofasco of Hamilton in 1971 confirmed

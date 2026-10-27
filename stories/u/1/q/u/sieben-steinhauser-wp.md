@@ -36,7 +36,7 @@ The Sieben Steinhäuser lie at approximately 52.8006N, 9.7975E, near the centre 
 
 ## Sources
 
-- [Sieben Steinhäuser - Wikipedia](https://en.wikipedia.org/wiki/Sieben_Steinh%C3%A4user)
+- [Sieben Steinhäuser - Wikipedia](https://en.wikipedia.org/?curid=4120251)
   - Group of five dolmens on the Lüneburg Heath in the NATO Bergen-Hohne Training Area, Lower Saxony
   - Attributed to the funnelbeaker culture (3500-2800 BC), built by the first settled farmers in the third millennium BC
   - Protected cultural monument status granted 1923

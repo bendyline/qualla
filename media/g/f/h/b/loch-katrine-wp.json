@@ -29,7 +29,7 @@
       },
       "images": [
         {
-          "path": "_m/g/f/h/b/loch-katrine-wp/relief-map-stirling-uk.jpg",
+          "path": "_m/g/c/u/z/inchcailloch-wp/relief-map-stirling-uk.jpg",
           "filename": "Stirling UK relief location map.jpg",
           "caption": "Relief map of Stirling, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 175%\nGeographic limits:\n\nWest: 4.90W\nEast: 3.76W\nNorth: 56.60N\nSouth: 55.93N",
           "alt": "Relief map of Stirling, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 175%\nGeographic limits:\n\nWest: 4.90W\nEast: 3.76W\nNorth: 56.60N\nSouth: 55.93N",
@@ -48,7 +48,9 @@
             "Maps of Stirling council area",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/z/inchcailloch-wp/relief-map-stirling-uk-medium.webp",
+          "smallPath": "_m/g/c/u/z/inchcailloch-wp/relief-map-stirling-uk-small.webp"
         },
         {
           "path": "_m/g/f/h/b/loch-katrine-wp/glen-finglas-works-ope.jpg",
@@ -519,7 +521,8 @@
             "Photographs taken on 2005-09-20",
             "Self-published work",
             "Taken with Canon Digital IXUS 400"
-          ]
+          ],
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/church-crianlarich-sco-small.webp"
         },
         {
           "path": "_m/g/c/u/x/loch-lomond-and-the-trossachs-national-park-wp/ben-lomond-from-afar.jpg",
@@ -539,7 +542,8 @@
             "Ben Lomond, Scotland",
             "CC-BY-2.0",
             "Flickr images uploaded by Flickr upload bot"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/x/loch-lomond-and-the-trossachs-national-park-wp/ben-lomond-from-afar-small.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/main-street-balmaha.jpg",
@@ -554,7 +558,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_Street,_Balmaha.JPG",
           "sourceType": "poi",
           "sourceArticleId": "west-highland-way-wk",
-          "sourceGeohash4": "gcuz"
+          "sourceGeohash4": "gcuz",
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/main-street-balmaha-small.webp"
         },
         {
           "path": "_m/g/c/u/x/loch-lomond-and-the-trossachs-national-park-wp/loch-katrine-the-sir-walter-sc.jpg",
@@ -569,7 +574,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:LOCH_KATRINE_THE_SIR_WALTER_SCOTT_STEAMER_APPROACHING_ITS_BERTH.JPG",
           "sourceType": "poi",
           "sourceArticleId": "loch-lomond-and-the-trossachs-national-park-wp",
-          "sourceGeohash4": "gcuz"
+          "sourceGeohash4": "gcuz",
+          "mediumPath": "_m/g/c/u/x/loch-lomond-and-the-trossachs-national-park-wp/loch-katrine-the-sir-walter-sc-medium.webp",
+          "smallPath": "_m/g/c/u/x/loch-lomond-and-the-trossachs-national-park-wp/loch-katrine-the-sir-walter-sc-small.webp"
         },
         {
           "path": "_m/g/c/u/x/loch-lomond-and-the-trossachs-national-park-wp/loch-lomond-and-balloch-castle.jpg",
@@ -584,7 +591,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Loch_Lomond_and_Balloch_Castle_(2013).jpg",
           "sourceType": "poi",
           "sourceArticleId": "loch-lomond-and-the-trossachs-national-park-wp",
-          "sourceGeohash4": "gcuz"
+          "sourceGeohash4": "gcuz",
+          "mediumPath": "_m/g/c/u/x/loch-lomond-and-the-trossachs-national-park-wp/loch-lomond-and-balloch-castle-medium.webp",
+          "smallPath": "_m/g/c/u/x/loch-lomond-and-the-trossachs-national-park-wp/loch-lomond-and-balloch-castle-small.webp"
         },
         {
           "path": "_m/g/c/v/q/falkirk-wheel-wp/falkirk-wheel-side-200.jpg",
@@ -616,7 +625,9 @@
             "RMJM",
             "Self-published work",
             "Taken with Olympus C-8080WZ"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/q/falkirk-wheel-wp/falkirk-wheel-side-200-medium.webp",
+          "smallPath": "_m/g/c/v/q/falkirk-wheel-wp/falkirk-wheel-side-200-small.webp"
         },
         {
           "path": "_m/g/c/v/p/stirlingshire-wp/stirling-castle-5456317714.jpg",
@@ -631,7 +642,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stirling_Castle_(5456317714).jpg",
           "sourceType": "poi",
           "sourceArticleId": "stirlingshire-wp",
-          "sourceGeohash4": "gcvp"
+          "sourceGeohash4": "gcvp",
+          "smallPath": "_m/g/c/v/p/stirlingshire-wp/stirling-castle-5456317714-small.webp"
         },
         {
           "path": "_m/g/c/v/p/stirlingshire-wp/stirling-castle-5456321758.jpg",
@@ -646,7 +658,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stirling_Castle_(5456321758).jpg",
           "sourceType": "poi",
           "sourceArticleId": "stirlingshire-wp",
-          "sourceGeohash4": "gcvp"
+          "sourceGeohash4": "gcvp",
+          "mediumPath": "_m/g/c/v/p/stirlingshire-wp/stirling-castle-5456321758-medium.webp",
+          "smallPath": "_m/g/c/v/p/stirlingshire-wp/stirling-castle-5456321758-small.webp"
         },
         {
           "path": "_m/g/c/v/q/central-belt-wp/stirling-castle-5455709703.jpg",
@@ -661,7 +675,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stirling_Castle_(5455709703).jpg",
           "sourceType": "poi",
           "sourceArticleId": "central-belt-wp",
-          "sourceGeohash4": "gcvp"
+          "sourceGeohash4": "gcvp",
+          "mediumPath": "_m/g/c/v/q/central-belt-wp/stirling-castle-5455709703-medium.webp",
+          "smallPath": "_m/g/c/v/q/central-belt-wp/stirling-castle-5455709703-small.webp"
         },
         {
           "path": "_m/g/c/v/q/falkirk-wp/dunmore-pineapple-april-2021.jpg",
@@ -676,7 +692,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dunmore_Pineapple_April_2021.jpg",
           "sourceType": "poi",
           "sourceArticleId": "falkirk-wp",
-          "sourceGeohash4": "gcvp"
+          "sourceGeohash4": "gcvp",
+          "mediumPath": "_m/g/c/v/q/falkirk-wp/dunmore-pineapple-april-2021-medium.webp",
+          "smallPath": "_m/g/c/v/q/falkirk-wp/dunmore-pineapple-april-2021-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/abberfeldy.jpg",
@@ -697,7 +715,8 @@
             "Buildings in Perth and Kinross",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/1/perthshire-wp/abberfeldy-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/schiehallion-east-aspect.jpg",
@@ -719,7 +738,9 @@
             "Schiehallion",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/schiehallion-east-aspect-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/schiehallion-east-aspect-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/pitlochry-church-2007.jpg",
@@ -740,7 +761,9 @@
             "Churches in Perth and Kinross",
             "Pitlochry Parish Church",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/pitlochry-church-2007-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/pitlochry-church-2007-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/schottland-blair-castle.jpg",
@@ -761,7 +784,8 @@
             "CC-BY-SA-3.0-migrated",
             "GFDL",
             "License migration completed"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/1/perthshire-wp/schottland-blair-castle-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/main-street-birnam-scotland.jpg",
@@ -780,7 +804,9 @@
           "categories": [
             "Birnam, Perth and Kinross",
             "CC-Zero"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/main-street-birnam-scotland-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/main-street-birnam-scotland-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr.jpg",
@@ -795,7 +821,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blair_Atholl_Post_Office_-_geograph_-_3206161-by-Andrew-Abbott.jpg",
           "sourceType": "poi",
           "sourceArticleId": "perthshire-wp",
-          "sourceGeohash4": "gfj1"
+          "sourceGeohash4": "gfj1",
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr-small.webp"
         }
       ],
       "narration": [

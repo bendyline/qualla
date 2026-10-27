@@ -3,32 +3,22 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/d/n/z/4/snowshoe-wk/hero.jpg",
-        "filename": "The Village at Snowshoe.jpg",
-        "caption": "Snowshoe Mountain, Snowshoe, West Virginia",
-        "alt": "Snowshoe Mountain, Snowshoe, West Virginia",
-        "width": 800,
-        "height": 533,
-        "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "Marvin Kuo",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Village_at_Snowshoe.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "snowshoe-wk",
-        "sourceGeohash4": "dnz4",
-        "categories": [
-          "Allegheny Mountains",
-          "CC-BY-2.0",
-          "Flickr images uploaded by Flickr upload bot",
-          "Pocahontas County, West Virginia",
-          "Snowshoe, West Virginia",
-          "Taken with Canon EOS 400D",
-          "Visitor attractions in West Virginia"
-        ]
+        "path": "_m/d/n/z/4/green-bank-quiet-zone-wk/hero.jpg",
+        "filename": "Green Banks - GBT 4.jpg",
+        "caption": "Green Bank Telescope at National Radio Astronomy Observatory in Green Bank, West Virginia.",
+        "alt": "Green Bank Telescope at National Radio Astronomy Observatory in Green Bank, West Virginia.",
+        "width": 3872,
+        "height": 2592,
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Jarek Tuszyński",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Banks_-_GBT_4.jpg",
+        "mediumPath": "_m/d/n/z/4/green-bank-quiet-zone-wk/hero-medium.webp",
+        "smallPath": "_m/d/n/z/4/green-bank-quiet-zone-wk/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/d/n/z/4/snowshoe-wk/cass-scenic-railroad-h.jpg",
+          "path": "_m/d/n/z/4/cass-scenic-railroad-wk/cass-scenic-railroad-h.jpg",
           "filename": "Cass Scenic Railroad State Park - Heisler 6 and Shay 11.jpg",
           "caption": "Cass Scenic Railroad Heisler #6 along with Shay #11 lead a loaded log train down the former C&amp;O mainline. Note the Cass Country store which was built in 1902 in the background and that the locomotives have been temporarily lettered for predecessor logging railroads that operated at Cass. Photo Walter Scriptunas II",
           "alt": "Cass Scenic Railroad Heisler #6 along with Shay #11 lead a loaded log train down the former C&amp;O mainline. Note the Cass Country store which was built in 1902 in the background and that the locomotives have been temporarily lettered for predecessor logging railroads that operated at Cass. Photo Walter Scriptunas II",
@@ -50,10 +40,11 @@
             "PD-user",
             "Steam locomotive smoke",
             "Taken with Canon EOS 30D"
-          ]
+          ],
+          "smallPath": "_m/d/n/z/4/cass-scenic-railroad-wk/cass-scenic-railroad-h-small.webp"
         },
         {
-          "path": "_m/d/n/z/4/snowshoe-wk/hero.jpg",
+          "path": "_m/d/n/z/4/green-bank-quiet-zone-wk/hero.jpg",
           "filename": "Green Banks - GBT 4.jpg",
           "caption": "Green Bank Telescope at National Radio Astronomy Observatory in Green Bank, West Virginia.",
           "alt": "Green Bank Telescope at National Radio Astronomy Observatory in Green Bank, West Virginia.",
@@ -76,7 +67,9 @@
             "Photographs by Jarek Tuszyński from 2009",
             "Self-published work",
             "Taken with Nikon D80"
-          ]
+          ],
+          "mediumPath": "_m/d/n/z/4/green-bank-quiet-zone-wk/hero-medium.webp",
+          "smallPath": "_m/d/n/z/4/green-bank-quiet-zone-wk/hero-small.webp"
         },
         {
           "path": "_m/tpc/sn/ow/sh/oe/snowshoe/ojibwa-dance.jpg",
@@ -102,7 +95,8 @@
             "PD-Art missing SDC copyright status",
             "PD-old missing SDC copyright status",
             "Snowshoeing in art"
-          ]
+          ],
+          "smallPath": "_m/tpc/sn/ow/sh/oe/snowshoe/ojibwa-dance-small.webp"
         },
         {
           "path": "_m/tpc/sn/ow/sh/oe/snowshoe/snowshoe2.jpg",
@@ -122,7 +116,8 @@
             "FAL",
             "Photographs taken on 2007-05-09",
             "Snowshoes"
-          ]
+          ],
+          "smallPath": "_m/tpc/sn/ow/sh/oe/snowshoe/snowshoe2-small.webp"
         },
         {
           "path": "_m/tpc/sn/ow/sh/oe/snowshoe/snowshoe-reverse.jpg",
@@ -145,7 +140,9 @@
             "Self-published work",
             "Snowshoes",
             "User-created GFDL images"
-          ]
+          ],
+          "mediumPath": "_m/tpc/sn/ow/sh/oe/snowshoe/snowshoe-reverse-medium.webp",
+          "smallPath": "_m/tpc/sn/ow/sh/oe/snowshoe/snowshoe-reverse-small.webp"
         },
         {
           "path": "_m/tpc/sn/ow/sh/oe/snowshoe/couple-snowshoeing.jpg",
@@ -169,7 +166,8 @@
             "PD Canada",
             "PD US expired",
             "Snowshoeing in Canada"
-          ]
+          ],
+          "smallPath": "_m/tpc/sn/ow/sh/oe/snowshoe/couple-snowshoeing-small.webp"
         },
         {
           "path": "_m/tpc/sn/ow/sh/oe/snowshoe/snow-shoes-siberia-russia-no-1.jpg",
@@ -184,7 +182,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snow_shoes,_Siberia,_Russia,_No._1880.04.0463_-_Etnografiska_museet_-_Stockholm,_Sweden_-_DSC01256.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "snowshoe",
-          "sourceGeohash4": "tpc/sn/ow/sh/oe"
+          "sourceGeohash4": "tpc/sn/ow/sh/oe",
+          "mediumPath": "_m/tpc/sn/ow/sh/oe/snowshoe/snow-shoes-siberia-russia-no-1-medium.webp",
+          "smallPath": "_m/tpc/sn/ow/sh/oe/snowshoe/snow-shoes-siberia-russia-no-1-small.webp"
         },
         {
           "path": "_m/tpc/sn/ow/sh/oe/snowshoe/fmib-41386-types-of-snowshoes-.jpg",
@@ -199,7 +199,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:FMIB_41386_Types_of_snowshoes_used_in_the_Yukon_Valley_The_smaller_sized_ones_are_used_when_breaking_a_trail_The_broken_portion_shows.jpeg",
           "sourceType": "sibling",
           "sourceArticleId": "snowshoe",
-          "sourceGeohash4": "tpc/sn/ow/sh/oe"
+          "sourceGeohash4": "tpc/sn/ow/sh/oe",
+          "smallPath": "_m/tpc/sn/ow/sh/oe/snowshoe/fmib-41386-types-of-snowshoes--small.webp"
         },
         {
           "path": "_m/tpc/sn/ow/sh/oe/snowshoe/snowshoes-6000454673.jpg",
@@ -214,7 +215,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snowshoes_(6000454673).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "snowshoe",
-          "sourceGeohash4": "tpc/sn/ow/sh/oe"
+          "sourceGeohash4": "tpc/sn/ow/sh/oe",
+          "smallPath": "_m/tpc/sn/ow/sh/oe/snowshoe/snowshoes-6000454673-small.webp"
         },
         {
           "path": "_m/tpc/sn/ow/sh/oe/snowshoe/snowshoe-img-9650.jpg",
@@ -228,7 +230,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snowshoe-IMG_9650.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "snowshoe",
-          "sourceGeohash4": "tpc/sn/ow/sh/oe"
+          "sourceGeohash4": "tpc/sn/ow/sh/oe",
+          "mediumPath": "_m/tpc/sn/ow/sh/oe/snowshoe/snowshoe-img-9650-medium.webp",
+          "smallPath": "_m/tpc/sn/ow/sh/oe/snowshoe/snowshoe-img-9650-small.webp"
         },
         {
           "path": "_m/tpc/sn/ow/sh/oe/snowshoe/beaver-tail-snowshoes-montagna.jpg",
@@ -243,7 +247,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beaver-tail_snowshoes,_Montagnais,_1800s,_wood,_gut_-_Ch%C3%A2teau_Ramezay_-_Montreal,_Canada_-_DSC07387.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "snowshoe",
-          "sourceGeohash4": "tpc/sn/ow/sh/oe"
+          "sourceGeohash4": "tpc/sn/ow/sh/oe",
+          "mediumPath": "_m/tpc/sn/ow/sh/oe/snowshoe/beaver-tail-snowshoes-montagna-medium.webp",
+          "smallPath": "_m/tpc/sn/ow/sh/oe/snowshoe/beaver-tail-snowshoes-montagna-small.webp"
         },
         {
           "path": "_m/tpc/sn/ow/sh/oe/snowshoe/maranois.jpg",
@@ -258,7 +264,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mara%C3%B1ois.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "snowshoe",
-          "sourceGeohash4": "tpc/sn/ow/sh/oe"
+          "sourceGeohash4": "tpc/sn/ow/sh/oe",
+          "mediumPath": "_m/tpc/sn/ow/sh/oe/snowshoe/maranois-medium.webp",
+          "smallPath": "_m/tpc/sn/ow/sh/oe/snowshoe/maranois-small.webp"
         },
         {
           "path": "_m/tpc/sn/ow/sh/oe/snowshoe/prehistoric-and-medieval-skis-.png",
@@ -273,7 +281,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prehistoric_and_Medieval_Skis_from_Glaciers_and_Ice_Patches_in_Norway_Fig_3_The_Lendbreen_ski-snowshoe.png",
           "sourceType": "sibling",
           "sourceArticleId": "snowshoe",
-          "sourceGeohash4": "tpc/sn/ow/sh/oe"
+          "sourceGeohash4": "tpc/sn/ow/sh/oe",
+          "mediumPath": "_m/tpc/sn/ow/sh/oe/snowshoe/prehistoric-and-medieval-skis--medium.webp",
+          "smallPath": "_m/tpc/sn/ow/sh/oe/snowshoe/prehistoric-and-medieval-skis--small.webp"
         },
         {
           "path": "_m/tpc/sn/ow/sh/oe/snowshoe/samojede-mercier-cropped.jpg",
@@ -288,7 +298,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samojede,_Mercier_(cropped).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "snowshoe",
-          "sourceGeohash4": "tpc/sn/ow/sh/oe"
+          "sourceGeohash4": "tpc/sn/ow/sh/oe",
+          "smallPath": "_m/tpc/sn/ow/sh/oe/snowshoe/samojede-mercier-cropped-small.webp"
         },
         {
           "path": "_m/tpc/sn/ow/sh/oe/snowshoe/a-mazamas-class-snowshoes-down.png",
@@ -303,7 +314,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Mazamas_class_snowshoes_down_Hardy_Ridge_in_Beacon_Rock_State_Park.png",
           "sourceType": "sibling",
           "sourceArticleId": "snowshoe",
-          "sourceGeohash4": "tpc/sn/ow/sh/oe"
+          "sourceGeohash4": "tpc/sn/ow/sh/oe",
+          "mediumPath": "_m/tpc/sn/ow/sh/oe/snowshoe/a-mazamas-class-snowshoes-down-medium.webp",
+          "smallPath": "_m/tpc/sn/ow/sh/oe/snowshoe/a-mazamas-class-snowshoes-down-small.webp"
         },
         {
           "path": "_m/d/n/z/4/snowshoe-mountain-wp/top-snowshoe-western-t.jpg",
@@ -324,7 +337,9 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work",
             "Views from mountains in West Virginia"
-          ]
+          ],
+          "mediumPath": "_m/d/n/z/4/snowshoe-mountain-wp/top-snowshoe-western-t-medium.webp",
+          "smallPath": "_m/d/n/z/4/snowshoe-mountain-wp/top-snowshoe-western-t-small.webp"
         },
         {
           "path": "_m/d/n/y/v/west-virginia-wp/elkins-west-virginia-davis-ave.jpg",
@@ -352,7 +367,9 @@
             "Roads in Randolph County, West Virginia",
             "Self-published work",
             "Streets in West Virginia"
-          ]
+          ],
+          "mediumPath": "_m/d/n/y/v/west-virginia-wp/elkins-west-virginia-davis-ave-medium.webp",
+          "smallPath": "_m/d/n/y/v/west-virginia-wp/elkins-west-virginia-davis-ave-small.webp"
         },
         {
           "path": "_m/d/n/y/v/west-virginia-wp/monnatforest.jpg",
@@ -381,7 +398,9 @@
             "Summer 2007 in the United States",
             "Summer in West Virginia",
             "Trees in West Virginia"
-          ]
+          ],
+          "mediumPath": "_m/d/n/y/v/west-virginia-wp/monnatforest-medium.webp",
+          "smallPath": "_m/d/n/y/v/west-virginia-wp/monnatforest-small.webp"
         },
         {
           "path": "_m/d/n/z/j/elkins-wk/davis-and-elkins-liberal-arts-.jpg",
@@ -407,7 +426,9 @@
             "Self-published work",
             "Taken with Canon EOS 5D Mark II",
             "Uploaded via Campaign:wsm"
-          ]
+          ],
+          "mediumPath": "_m/d/n/z/j/elkins-wk/davis-and-elkins-liberal-arts--medium.webp",
+          "smallPath": "_m/d/n/z/j/elkins-wk/davis-and-elkins-liberal-arts--small.webp"
         },
         {
           "path": "_m/d/n/z/j/elkins-wk/elkins-downtown-aerial-panoram.jpg",
@@ -426,7 +447,9 @@
           "categories": [
             "CC-BY-SA-4.0",
             "Elkins, West Virginia"
-          ]
+          ],
+          "mediumPath": "_m/d/n/z/j/elkins-wk/elkins-downtown-aerial-panoram-medium.webp",
+          "smallPath": "_m/d/n/z/j/elkins-wk/elkins-downtown-aerial-panoram-small.webp"
         }
       ],
       "narration": [

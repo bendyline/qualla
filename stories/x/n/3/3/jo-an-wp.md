@@ -32,7 +32,7 @@ Located at 35.39N, 136.94E within the Urakuen gardens in Inuyama, Aichi Prefectu
 
 ## Sources
 
-- [Jo-an - Wikipedia](https://en.wikipedia.org/wiki/Jo-an)
+- [Jo-an - Wikipedia](https://en.wikipedia.org/?curid=31622559)
 - [Oda Nagamasu - Wikipedia](https://en.wikipedia.org/wiki/Oda_Nagamasu)
   - Born Oda Nagamasu, 11th son of Oda Nobuhide
   - Younger half-brother of Oda Nobunaga

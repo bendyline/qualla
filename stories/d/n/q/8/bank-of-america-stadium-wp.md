@@ -52,7 +52,7 @@ Located at 35.2258°N, 80.8528°W in the southwest quadrant of Uptown Charlotte,
 - [Bank of America Stadium renovation - Axios Charlotte](https://www.axios.com/local/charlotte/2026/02/23/charlotte-bank-of-america-stadium-800-million-renovation-uptown-panthers-charlotte-fc-2045-deal)
   - $800 million renovation confirmed, starting 2026
   - Final phase 2029-2030, overall project completion 2030 confirmed
-- [Good Samaritan Hospital Charlotte lynching history - EJI](https://en.wikipedia.org/wiki/Bank_of_America_Stadium)
+- [Good Samaritan Hospital Charlotte lynching history - EJI](https://en.wikipedia.org/?curid=626674)
   - Good Samaritan Hospital footprint on stadium site confirmed
   - 2019 Equal Justice Initiative Community Remembrance Project reference confirmed
   - First known lynching at site in 1913 consistent with historical record

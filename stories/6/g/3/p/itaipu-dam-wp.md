@@ -37,7 +37,7 @@ Itaipu Dam sits at approximately 25.41S, 54.59W on the Parana River, 15 km north
 ## Sources
 
 - [Itaipu Dam - Wikipedia](https://en.wikipedia.org/?curid=70565)
-- [Itaipu Dam - Wikipedia (fact-check)](https://en.wikipedia.org/wiki/Itaipu_Dam)
+- [Itaipu Dam - Wikipedia (fact-check)](https://en.wikipedia.org/?curid=70565)
   - Corrected: '101.6 terawatt-hours in 2016' → '103.1 terawatt-hours in 2016' (actual record was 103,098 GWh)
   - Dam height 196 meters confirmed
   - Iguacu Act signed July 22, 1966 confirmed

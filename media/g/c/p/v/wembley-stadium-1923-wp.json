@@ -3,19 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/p/v/wembley-stadium-1923-wp/hero.jpg",
-        "filename": "Postcard British Empire Exhibition 1924 25.jpg",
-        "caption": "Postcard depicting the Wembley Stadium in London.",
-        "alt": "Postcard depicting the Wembley Stadium in London.",
-        "width": 2527,
-        "height": 1604,
+        "path": "_m/g/c/p/v/wembley-stadium-1923-wp/old-wembley-stadium-empty2resc.jpg",
+        "filename": "Old Wembley Stadium empty2rescan.jpg",
+        "caption": "Photo of the inside of the old Wembley Stadium scanned from film",
+        "alt": "Photo of the inside of the old Wembley Stadium scanned from film",
+        "width": 4396,
+        "height": 2815,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Campbell Gray (credited)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Postcard_British_Empire_Exhibition_1924_25.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Geni",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Wembley_Stadium_empty2rescan.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "wembley-stadium-1923-wp",
-        "sourceGeohash4": "gcpv"
+        "sourceGeohash4": "gcpv",
+        "mediumPath": "_m/g/c/p/v/wembley-stadium-1923-wp/old-wembley-stadium-empty2resc-medium.webp",
+        "smallPath": "_m/g/c/p/v/wembley-stadium-1923-wp/old-wembley-stadium-empty2resc-small.webp"
       },
       "images": [
         {
@@ -142,7 +144,7 @@
           "smallPath": "_m/g/c/p/v/wembley-stadium-1923-wp/bundesarchiv-bild-183-33419-00-small.webp"
         },
         {
-          "path": "_m/g/c/p/v/wembley-stadium-1923-wp/the-old-wembley-stadium.jpg",
+          "path": "_m/g/c/p/v/wembley-arena-wp/the-old-wembley-stadium.jpg",
           "filename": "The old Wembley Stadium.jpg",
           "caption": "Wembley Stadium, London, England",
           "alt": "Wembley Stadium, London, England",
@@ -168,7 +170,8 @@
             "November 1991 in London",
             "Wembley Arena",
             "Wembley Stadium (1922-2003)"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/wembley-arena-wp/the-old-wembley-stadium-small.webp"
         },
         {
           "path": "_m/g/c/p/v/wembley-stadium-1923-wp/royal-box-at-wembley-stadium-1.jpg",
@@ -215,7 +218,7 @@
           "smallPath": "_m/g/c/p/v/wembley-stadium-1923-wp/old-wembley-stadium-empty2resc-small.webp"
         },
         {
-          "path": "_m/g/c/p/v/wembley-stadium-1923-wp/london-defended-torchl.jpg",
+          "path": "_m/g/c/p/v/british-empire-exhibition-wp/london-defended-torchl.jpg",
           "filename": "LONDON DEFENDED Torchlight and Searchlight spectacle.jpg",
           "caption": "London Defended Torchlight and Searchlight spectacle, The Stadium Wembley May 9 to June 1, 1925",
           "alt": "London Defended Torchlight and Searchlight spectacle, The Stadium Wembley May 9 to June 1, 1925",
@@ -227,7 +230,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:LONDON_DEFENDED_Torchlight_and_Searchlight_spectacle.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "british-empire-exhibition-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/british-empire-exhibition-wp/london-defended-torchl-medium.webp",
+          "smallPath": "_m/g/c/p/v/british-empire-exhibition-wp/london-defended-torchl-small.webp"
         },
         {
           "path": "_m/g/c/p/v/wembley-stadium-1923-wp/olympic-way-1986-geograph-org-.jpg",
@@ -295,7 +300,7 @@
           "smallPath": "_m/g/c/p/v/wembley-stadium-1923-wp/fundament-relict-of-watkin-s-t-small.webp"
         },
         {
-          "path": "_m/g/c/p/v/wembley-stadium-1923-wp/wembly-park-map-1938.jpg",
+          "path": "_m/g/c/p/v/wembley-park-wp/wembly-park-map-1938.jpg",
           "filename": "Wembly Park map 1938.jpg",
           "caption": "Ordnance Survey Map of Wembley Park area, London.",
           "alt": "Ordnance Survey Map of Wembley Park area, London.",
@@ -307,7 +312,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wembly_Park_map_1938.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "wembley-park-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "smallPath": "_m/g/c/p/v/wembley-park-wp/wembly-park-map-1938-small.webp"
         },
         {
           "path": "_m/g/c/p/v/wembley-stadium-1923-wp/wembley-stadium-1923.jpg",
@@ -369,7 +375,9 @@
             "Rain in London",
             "Taken with Canon PowerShot A640",
             "Train stations with rain"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/north-london-wp/bruce-grove-railway-station-1-medium.webp",
+          "smallPath": "_m/g/c/p/v/north-london-wp/bruce-grove-railway-station-1-small.webp"
         },
         {
           "path": "_m/g/c/p/v/north-london-wp/crouch-hill-stn-entrance.jpg",
@@ -394,7 +402,8 @@
             "Railway station entrances in London",
             "Self-published work",
             "Taken with Fujifilm FinePix A900"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/north-london-wp/crouch-hill-stn-entrance-small.webp"
         },
         {
           "path": "_m/g/c/p/v/north-london-wp/belarusian-library-london.jpg",
@@ -417,7 +426,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon Coolpix 7900"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/north-london-wp/belarusian-library-london-small.webp"
         },
         {
           "path": "_m/g/c/p/v/north-london-wp/highgate-wood.jpg",
@@ -437,7 +447,8 @@
             "Nature reserves in the London Borough of Haringey",
             "PD-user",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/north-london-wp/highgate-wood-small.webp"
         },
         {
           "path": "_m/g/c/p/v/north-london-wp/bentley-priory-summerhouse-lak.jpg",
@@ -457,7 +468,9 @@
             "Bentley Priory",
             "CC-BY-SA-3.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/north-london-wp/bentley-priory-summerhouse-lak-medium.webp",
+          "smallPath": "_m/g/c/p/v/north-london-wp/bentley-priory-summerhouse-lak-small.webp"
         },
         {
           "path": "_m/g/c/p/v/north-london-wp/harrow-museum-tithe-barn.jpg",
@@ -472,7 +485,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harrow_Museum_Tithe_Barn.JPG",
           "sourceType": "poi",
           "sourceArticleId": "north-london-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/north-london-wp/harrow-museum-tithe-barn-medium.webp",
+          "smallPath": "_m/g/c/p/v/north-london-wp/harrow-museum-tithe-barn-small.webp"
         },
         {
           "path": "_m/g/c/p/v/north-london-wp/arriva-london-lt599-on-route-1.jpg",
@@ -487,7 +502,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arriva_London_LT599_on_Route_149,_London_Bridge_(23176798540).jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-london-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/north-london-wp/arriva-london-lt599-on-route-1-medium.webp",
+          "smallPath": "_m/g/c/p/v/north-london-wp/arriva-london-lt599-on-route-1-small.webp"
         },
         {
           "path": "_m/g/c/p/v/north-london-wp/church-of-st-cyril-of-turau-an.jpg",
@@ -502,7 +519,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_St_Cyril_of_Turau_and_All_the_Patron_Saints_of_the_Belarusian_People_(2016-11-24).jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-london-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/north-london-wp/church-of-st-cyril-of-turau-an-medium.webp",
+          "smallPath": "_m/g/c/p/v/north-london-wp/church-of-st-cyril-of-turau-an-small.webp"
         },
         {
           "path": "_m/g/c/p/v/north-london-wp/apalace-1.jpg",
@@ -517,7 +536,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:APalace_1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-london-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/north-london-wp/apalace-1-medium.webp",
+          "smallPath": "_m/g/c/p/v/north-london-wp/apalace-1-small.webp"
         },
         {
           "path": "_m/g/c/p/v/north-london-wp/bruce-castle-front-2024-02-24-.jpg",
@@ -532,7 +553,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruce_Castle_front_2024-02-24_(2).jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-london-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/north-london-wp/bruce-castle-front-2024-02-24--medium.webp",
+          "smallPath": "_m/g/c/p/v/north-london-wp/bruce-castle-front-2024-02-24--small.webp"
         },
         {
           "path": "_m/g/c/p/v/north-london-wp/forty-hall-geograph-org-uk-687.jpg",
@@ -547,7 +570,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Forty_Hall_-_geograph.org.uk_-_6874806.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-london-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "smallPath": "_m/g/c/p/v/north-london-wp/forty-hall-geograph-org-uk-687-small.webp"
         }
       ],
       "narration": [

@@ -3,43 +3,35 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/p/2/k/siege-of-lerida-wp/hero.jpg",
-        "filename": "Remond - Siège de Lerida par le général Suchet, le 14 mai 1810.jpg",
-        "alt": "Remond - Siège de Lerida par le général Suchet, le 14 mai 1810.jpg",
-        "width": 709,
-        "height": 640,
+        "path": "_m/s/p/2/k/siege-of-lerida-wp/t10-n-86-siege-lerida.jpg",
+        "filename": "T10 N° 86 siége LERIDA.jpg",
+        "caption": "T10_de Victoire conquête .... des français Panckouke &amp; Lecointe, carte N°_86_siége_de LERIDA.",
+        "alt": "T10_de Victoire conquête .... des français Panckouke &amp; Lecointe, carte N°_86_siége_de LERIDA.",
+        "width": 5339,
+        "height": 3804,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Jean-Charles-Joseph Rémond / After Adolphe Roehn",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Remond_-_Si%C3%A8ge_de_Lerida_par_le_g%C3%A9n%C3%A9ral_Suchet,_le_14_mai_1810.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "inconnu,Garitan",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:T10_N%C2%B0_86_si%C3%A9ge_LERIDA.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "siege-of-lerida-wp",
         "sourceGeohash4": "sp2k",
         "categories": [
-          "1836 paintings",
-          "19th-century paintings in the Musée national du Château de Versailles",
-          "Base Joconde",
-          "Battle of El Pla",
-          "CC-PD-Mark",
-          "Conflicts in 1810",
-          "History of Catalonia",
-          "History paintings in the Musée national du Château de Versailles",
-          "Jean Charles Joseph Remond",
-          "Lleida in art",
-          "Louis Gabriel Suchet",
-          "PD-Art (PD-old-100)",
-          "PD-Art missing SDC copyright status",
-          "PD-old files by User:Jimmy from fr.wikipedia",
-          "PD-old missing SDC copyright status",
-          "Paintings from completely indexed collections",
-          "Paintings without Wikidata item",
-          "Siege of Lérida",
-          "Spanish War of Independence"
-        ]
+          "CC-BY-SA-3.0",
+          "GFDL",
+          "Historical images of Lleida",
+          "License migration redundant",
+          "Old maps of cities in Catalonia",
+          "Panckouke et Lecointe",
+          "Self-published work",
+          "Siege of Lérida"
+        ],
+        "mediumPath": "_m/s/p/2/k/siege-of-lerida-wp/t10-n-86-siege-lerida-medium.webp",
+        "smallPath": "_m/s/p/2/k/siege-of-lerida-wp/t10-n-86-siege-lerida-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/p/2/k/siege-of-lerida-wp/jean-isidore-harispe-1.jpg",
+          "path": "_m/e/z/p/c/battle-of-saguntum-wp/jean-isidore-harispe-1.jpg",
           "filename": "Jean Isidore Harispe (1768-1855).jpg",
           "caption": "Jean Isidore Harispe (1768-1855)",
           "alt": "Jean Isidore Harispe (1768-1855)",
@@ -59,7 +51,8 @@
             "PD-old-70-expired",
             "PD-old missing SDC copyright status",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/e/z/p/c/battle-of-saguntum-wp/jean-isidore-harispe-1-small.webp"
         },
         {
           "path": "_m/s/p/2/k/siege-of-lerida-wp/prise-de-lerida.png",
@@ -133,7 +126,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Casio QV-R41"
-          ]
+          ],
+          "smallPath": "_m/s/p/2/k/lleida-wk/la-nova-seu-del-museu-small.webp"
         },
         {
           "path": "_m/s/p/2/k/lleida-wk/hero.jpg",
@@ -158,7 +152,9 @@
             "Taken with Olympus E-PL1",
             "Taken with Olympus M.Zuiko Digital ED 14-42mm f/3.5-5.6",
             "Views of the Old Cathedral of Lleida"
-          ]
+          ],
+          "mediumPath": "_m/s/p/2/k/lleida-wk/hero-medium.webp",
+          "smallPath": "_m/s/p/2/k/lleida-wk/hero-small.webp"
         },
         {
           "path": "_m/s/p/2/k/lleida-wk/fachada-calle-mayor-de.jpg",
@@ -181,7 +177,9 @@
             "Exterior of the Palace of la Paeria de Lleida",
             "Night in Lleida",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/p/2/k/lleida-wk/fachada-calle-mayor-de-medium.webp",
+          "smallPath": "_m/s/p/2/k/lleida-wk/fachada-calle-mayor-de-small.webp"
         },
         {
           "path": "_m/s/p/2/k/lleida-wk/caixaforum-lleida.jpg",
@@ -201,7 +199,9 @@
             "CC-BY-SA-4.0",
             "CaixaForum Lleida",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/p/2/k/lleida-wk/caixaforum-lleida-medium.webp",
+          "smallPath": "_m/s/p/2/k/lleida-wk/caixaforum-lleida-small.webp"
         },
         {
           "path": "_m/s/p/2/k/lleida-wk/aeroport-de-lleida-alg.jpg",
@@ -219,7 +219,8 @@
           "sourceGeohash4": "sp2k",
           "categories": [
             "2010 in aviation in Catalonia"
-          ]
+          ],
+          "smallPath": "_m/s/p/2/k/lleida-wk/aeroport-de-lleida-alg-small.webp"
         },
         {
           "path": "_m/s/p/2/k/lleida-wk/old-cathedral-lleida-s.jpg",
@@ -234,7 +235,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:FP_Seu_Vella_2026_-_view_from_lift.jpg",
           "sourceType": "poi",
           "sourceArticleId": "lleida-wk",
-          "sourceGeohash4": "sp2k"
+          "sourceGeohash4": "sp2k",
+          "mediumPath": "_m/s/p/2/k/lleida-wk/old-cathedral-lleida-s-medium.webp",
+          "smallPath": "_m/s/p/2/k/lleida-wk/old-cathedral-lleida-s-small.webp"
         }
       ],
       "narration": [

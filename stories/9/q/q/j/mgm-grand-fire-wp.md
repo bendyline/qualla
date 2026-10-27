@@ -32,7 +32,7 @@ The MGM Grand was rebuilt over eight months at a cost of $50 million and reopene
 
 ## Flight Context
 
-The original MGM Grand, now Horseshoe Las Vegas, stands at 36.114N, 115.172W on the Las Vegas Strip in Paradise, Nevada. The 26-story tower is visible from the air as part of the distinctive Strip corridor. McCarran International Airport (KLAS) lies approximately 2 nautical miles to the south. The current MGM Grand Las Vegas, opened in 1993, is a separate property located at Las Vegas Boulevard and Tropicana Avenue, recognizable by its distinctive green glass exterior. The Strip provides excellent visual navigation reference, running north-south through the valley floor.
+The original MGM Grand, now Horseshoe Las Vegas, stands at 36.114N, 115.172W on the Las Vegas Strip in Paradise, Nevada. The 26-story tower is visible from the air as part of the distinctive Strip corridor. Harry Reid International Airport (KLAS, formerly McCarran International) lies approximately 2 nautical miles to the south. The current MGM Grand Las Vegas, opened in 1993, is a separate property located at Las Vegas Boulevard and Tropicana Avenue, recognizable by its distinctive green glass exterior. The Strip provides excellent visual navigation reference, running north-south through the valley floor.
 
 ## Sources
 

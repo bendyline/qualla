@@ -3,33 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/7/c/netherlands-wk/hero.jpg",
-        "filename": "Deltawerke-Oosterschelde-Sturmflutwehr Straße.jpg",
-        "caption": "Delta Works – Oosterschelde - Netherlands",
-        "alt": "Delta Works – Oosterschelde - Netherlands",
-        "width": 2400,
-        "height": 1700,
+        "path": "_m/u/1/7/c/netherlands-wk/streetblackwhite.jpg",
+        "filename": "StreetBlackWhite.jpg",
+        "caption": "Straat foto in zwart wit",
+        "alt": "Straat foto in zwart wit",
+        "width": 5184,
+        "height": 3456,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Raimond Spekking",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deltawerke-Oosterschelde-Sturmflutwehr_Stra%C3%9Fe.jpg",
-        "sourceType": "core",
+        "artist": "BartLaridon",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:StreetBlackWhite.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "netherlands-wk",
         "sourceGeohash4": "u17c",
         "categories": [
-          "2004 in Zeeland",
           "CC-BY-SA-4.0",
-          "Files by User:Raymond from de.wikipedia/Provinz Zeeland",
-          "Files with coordinates missing SDC location of creation (51° N, 3° E)",
-          "Information field template with formatting",
-          "June 2004 in the Netherlands",
-          "Oosterscheldekering",
+          "Graffiti",
+          "Netherlands",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/u/1/7/c/netherlands-wk/streetblackwhite-medium.webp",
+        "smallPath": "_m/u/1/7/c/netherlands-wk/streetblackwhite-small.webp"
       },
       "images": [
         {
-          "path": "_m/u/1/7/c/netherlands-wk/thalys.jpg",
+          "path": "_m/tpc/ho/ll/an/d_/holland/thalys.jpg",
           "filename": "Thalys.jpg",
           "caption": "Traction unit of a Thalys train at Aachen Hauptbahnhof",
           "alt": "Traction unit of a Thalys train at Aachen Hauptbahnhof",
@@ -52,10 +50,10 @@
             "Self-published work",
             "Trains at Aachen Hauptbahnhof"
           ],
-          "smallPath": "_m/u/1/7/c/netherlands-wk/thalys-small.webp"
+          "smallPath": "_m/tpc/ho/ll/an/d_/holland/thalys-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/maastrichtaltstadt.jpg",
+          "path": "_m/u/1/4/0/heuvelland-wp/maastrichtaltstadt.jpg",
           "filename": "MaastrichtAltstadt.jpg",
           "caption": "die limburgische Hauptstadt Maastricht",
           "alt": "die limburgische Hauptstadt Maastricht",
@@ -76,10 +74,11 @@
             "Meuse River in Maastricht",
             "Netherlands photographs taken on 2004-07-03",
             "Sint-Servaasbrug (Maastricht)"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/0/heuvelland-wp/maastrichtaltstadt-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/see-original-image.jpg",
+          "path": "_m/u/1/5/r/kinderdijk-windmills-wp/see-original-image.jpg",
           "filename": "KinderdijkMolens02.jpg",
           "caption": "See the original image",
           "alt": "See the original image",
@@ -106,10 +105,11 @@
             "Pictures of the Year (candidate)",
             "Pictures of the day (2009)",
             "Taken with Epson PhotoPC L-400"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/r/kinderdijk-windmills-wp/see-original-image-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/wegafzettingpolicenetherlands.jpg",
+          "path": "_m/tpc/ho/ll/an/d_/holland/wegafzettingpolicenetherlands.jpg",
           "filename": "Wegafzettingpolicenetherlands.JPG",
           "caption": "Self made picture.",
           "alt": "Self made picture.",
@@ -122,10 +122,10 @@
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
           "sourceGeohash4": "u17c",
-          "smallPath": "_m/u/1/7/c/netherlands-wk/wegafzettingpolicenetherlands-small.webp"
+          "smallPath": "_m/tpc/ho/ll/an/d_/holland/wegafzettingpolicenetherlands-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/emmeloord-20041105-2379.jpg",
+          "path": "_m/u/1/7/2/randstad-wp/emmeloord-20041105-2379.jpg",
           "filename": "Emmeloord 20041105 2379.jpg",
           "caption": "Emmeloord\n\nEmmeloord",
           "alt": "Emmeloord\n\nEmmeloord",
@@ -137,10 +137,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emmeloord_20041105_2379.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/2/randstad-wp/emmeloord-20041105-2379-medium.webp",
+          "smallPath": "_m/u/1/7/2/randstad-wp/emmeloord-20041105-2379-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/centrum-eindhoven.jpg",
+          "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/centrum-eindhoven.jpg",
           "filename": "Centrum Eindhoven.jpg",
           "caption": "Centrum van Eindhoven vanuit een luchtballon. (8 juli 2005)",
           "alt": "Centrum van Eindhoven vanuit een luchtballon. (8 juli 2005)",
@@ -152,10 +154,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Centrum_Eindhoven.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/centrum-eindhoven-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/zaanse-schans-windmills-3.jpg",
+          "path": "_m/u/1/7/6/zaanstreek-waterland-wk/zaanse-schans-windmills-3.jpg",
           "filename": "Zaanse Schans - Windmills 3.jpg",
           "caption": "Windmills in village Zaanse Schans in the municipality of Zaanstad in the Netherlands, in the province of North Holland.",
           "alt": "Windmills in village Zaanse Schans in the municipality of Zaanstad in the Netherlands, in the province of North Holland.",
@@ -167,10 +170,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zaanse_Schans_-_Windmills_3.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/6/zaanstreek-waterland-wk/zaanse-schans-windmills-3-medium.webp",
+          "smallPath": "_m/u/1/7/6/zaanstreek-waterland-wk/zaanse-schans-windmills-3-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/catinclog.jpg",
+          "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/catinclog.jpg",
           "filename": "Catinclog.jpg",
           "caption": "A Cat in a clog, in a clog shop in Amsterdam",
           "alt": "A Cat in a clog, in a clog shop in Amsterdam",
@@ -182,10 +187,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catinclog.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/catinclog-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/coffeeshopamsterdam.jpg",
+          "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/coffeeshopamsterdam.jpg",
           "filename": "CoffeeShopAmsterdam.jpg",
           "caption": "A view of a neon sign of a cannabis coffee shop in Arnhem, The Netherlands.",
           "alt": "A view of a neon sign of a cannabis coffee shop in Arnhem, The Netherlands.",
@@ -197,10 +203,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CoffeeShopAmsterdam.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/coffeeshopamsterdam-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/coffeeshopamsterdam-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/taxi-schiphol.jpg",
+          "path": "_m/tpc/ho/ll/an/d_/holland/taxi-schiphol.jpg",
           "filename": "Taxi Schiphol.JPG",
           "caption": "Taxicabs in Schiphol Airport",
           "alt": "Taxicabs in Schiphol Airport",
@@ -213,11 +221,11 @@
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
           "sourceGeohash4": "u17c",
-          "mediumPath": "_m/u/1/7/c/netherlands-wk/taxi-schiphol-medium.webp",
-          "smallPath": "_m/u/1/7/c/netherlands-wk/taxi-schiphol-small.webp"
+          "mediumPath": "_m/tpc/ho/ll/an/d_/holland/taxi-schiphol-medium.webp",
+          "smallPath": "_m/tpc/ho/ll/an/d_/holland/taxi-schiphol-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/hoge-der-aa2.jpg",
+          "path": "_m/tpc/ho/ll/an/d_/holland/hoge-der-aa2.jpg",
           "filename": "Hoge der Aa2.jpg",
           "caption": "Old warehouses along the Hoge der Aa canal in the city of Groningen, the Netherlands. In the background, the tower of the A-kerk (A-church) can be seen",
           "alt": "Old warehouses along the Hoge der Aa canal in the city of Groningen, the Netherlands. In the background, the tower of the A-kerk (A-church) can be seen",
@@ -230,11 +238,11 @@
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
           "sourceGeohash4": "u17c",
-          "mediumPath": "_m/u/1/7/c/netherlands-wk/hoge-der-aa2-medium.webp",
-          "smallPath": "_m/u/1/7/c/netherlands-wk/hoge-der-aa2-small.webp"
+          "mediumPath": "_m/tpc/ho/ll/an/d_/holland/hoge-der-aa2-medium.webp",
+          "smallPath": "_m/tpc/ho/ll/an/d_/holland/hoge-der-aa2-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/nachtegaalstraat-utrecht.jpg",
+          "path": "_m/u/1/7/8/utrecht-province-wp/nachtegaalstraat-utrecht.jpg",
           "filename": "Nachtegaalstraat Utrecht.jpg",
           "alt": "Nachtegaalstraat Utrecht.jpg",
           "width": 2272,
@@ -244,10 +252,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nachtegaalstraat_Utrecht.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/nachtegaalstraat-utrecht-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/nachtegaalstraat-utrecht-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/a30-barneveld.jpg",
+          "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/a30-barneveld.jpg",
           "filename": "A30 Barneveld.jpg",
           "caption": "A30 afslag Thorbeckelaan Barneveld",
           "alt": "A30 afslag Thorbeckelaan Barneveld",
@@ -259,10 +269,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A30_Barneveld.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/a30-barneveld-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/a30-barneveld-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/koffie-verkeerd-cafe-mp-amster.jpg",
+          "path": "_m/tpc/ho/ll/an/d_/holland/koffie-verkeerd-cafe-mp-amster.jpg",
           "filename": "Koffie verkeerd cafe MP Amsterdam.jpg",
           "caption": "A \"koffie verkeerd\" in Amsterdam. Literally it's Dutch for \"coffee wrong\", meaning that it contains too much milk compared with a \"normal\" coffee with milk. It is the Dutch version of the Italian \"caffèlatte\"/\"latte\". A traditional Dutch koffie verkeerd is made with filter coffee and resembles a French \"café au lait\" but due to the fact that most venues now use espresso machines, the Italian version with a \"caffè lungo\" at its base, is more commonly found.",
           "alt": "A \"koffie verkeerd\" in Amsterdam. Literally it's Dutch for \"coffee wrong\", meaning that it contains too much milk compared with a \"normal\" coffee with milk. It is the Dutch version of the Italian \"caffèlatte\"/\"latte\". A traditional Dutch koffie verkeerd is made with filter coffee and resembles a French \"café au lait\" but due to the fact that most venues now use espresso machines, the Italian version with a \"caffè lungo\" at its base, is more commonly found.",
@@ -275,10 +287,10 @@
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
           "sourceGeohash4": "u17c",
-          "smallPath": "_m/u/1/7/c/netherlands-wk/koffie-verkeerd-cafe-mp-amster-small.webp"
+          "smallPath": "_m/tpc/ho/ll/an/d_/holland/koffie-verkeerd-cafe-mp-amster-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/gay-pride-amsterdam-2009c.jpg",
+          "path": "_m/tpc/ho/ll/an/d_/holland/gay-pride-amsterdam-2009c.jpg",
           "filename": "Gay Pride Amsterdam 2009c.jpg",
           "caption": "Olanda, Amsterdam",
           "alt": "Olanda, Amsterdam",
@@ -291,11 +303,11 @@
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
           "sourceGeohash4": "u17c",
-          "mediumPath": "_m/u/1/7/c/netherlands-wk/gay-pride-amsterdam-2009c-medium.webp",
-          "smallPath": "_m/u/1/7/c/netherlands-wk/gay-pride-amsterdam-2009c-small.webp"
+          "mediumPath": "_m/tpc/ho/ll/an/d_/holland/gay-pride-amsterdam-2009c-medium.webp",
+          "smallPath": "_m/tpc/ho/ll/an/d_/holland/gay-pride-amsterdam-2009c-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/zaanse-schans-il-borgo.jpg",
+          "path": "_m/u/1/7/6/zaanstreek-waterland-wk/zaanse-schans-il-borgo.jpg",
           "filename": "Zaanse schans - il borgo.jpg",
           "caption": "die Siedlung",
           "alt": "die Siedlung",
@@ -307,10 +319,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zaanse_schans_-_il_borgo.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/6/zaanstreek-waterland-wk/zaanse-schans-il-borgo-medium.webp",
+          "smallPath": "_m/u/1/7/6/zaanstreek-waterland-wk/zaanse-schans-il-borgo-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/amsterdam-schiphol-airport-ent.jpg",
+          "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/amsterdam-schiphol-airport-ent.jpg",
           "filename": "Amsterdam Schiphol Airport entrance.jpg",
           "caption": "Amsterdam Schiphol Airport entrance",
           "alt": "Amsterdam Schiphol Airport entrance",
@@ -322,10 +336,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_Schiphol_Airport_entrance.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/amsterdam-schiphol-airport-ent-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/amsterdam-schiphol-airport-ent-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/amsterdam-centraal-facade.jpg",
+          "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/amsterdam-centraal-facade.jpg",
           "filename": "Amsterdam Centraal Façade.jpg",
           "caption": "Summer 2011",
           "alt": "Summer 2011",
@@ -337,10 +353,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_Centraal_Fa%C3%A7ade.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/amsterdam-centraal-facade-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/amsterdam-centraal-facade-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/netherlands-regions-new.png",
+          "path": "_m/tpc/ho/ll/an/d_/holland/netherlands-regions-new.png",
           "filename": "Netherlands-regions-new.png",
           "caption": "Map of the Netherlands.",
           "alt": "Map of the Netherlands.",
@@ -353,10 +371,10 @@
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
           "sourceGeohash4": "u17c",
-          "smallPath": "_m/u/1/7/c/netherlands-wk/netherlands-regions-new-small.webp"
+          "smallPath": "_m/tpc/ho/ll/an/d_/holland/netherlands-regions-new-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/bernard-hitch.jpg",
+          "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/bernard-hitch.jpg",
           "filename": "Bernard Hitch.JPG",
           "caption": "Bernard Hitch.",
           "alt": "Bernard Hitch.",
@@ -368,10 +386,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bernard_Hitch.JPG",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/bernard-hitch-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/bernard-hitch-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/detail-ingangspartij-met-natuu.jpg",
+          "path": "_m/tpc/ho/ll/an/d_/holland/detail-ingangspartij-met-natuu.jpg",
           "filename": "Detail ingangspartij met natuurstenen omlijsting en huisnummer, gemeentewapen en VVV-uithangbord - Winsum - 20416323 - RCE.jpg",
           "caption": "Voormalig raadhuis: Detail ingangspartij met natuurstenen omlijsting en huisnummer, gemeentewapen en VVV-uithangbord (opmerking: Het voormalige raadhuis, nu VVV-kantoor, maakt deel uit van nieuwe gemeentelijke bouwplannen)",
           "alt": "Voormalig raadhuis: Detail ingangspartij met natuurstenen omlijsting en huisnummer, gemeentewapen en VVV-uithangbord (opmerking: Het voormalige raadhuis, nu VVV-kantoor, maakt deel uit van nieuwe gemeentelijke bouwplannen)",
@@ -384,11 +404,11 @@
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
           "sourceGeohash4": "u17c",
-          "mediumPath": "_m/u/1/7/c/netherlands-wk/detail-ingangspartij-met-natuu-medium.webp",
-          "smallPath": "_m/u/1/7/c/netherlands-wk/detail-ingangspartij-met-natuu-small.webp"
+          "mediumPath": "_m/tpc/ho/ll/an/d_/holland/detail-ingangspartij-met-natuu-medium.webp",
+          "smallPath": "_m/tpc/ho/ll/an/d_/holland/detail-ingangspartij-met-natuu-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/ice-skating-fun-6861180671.jpg",
+          "path": "_m/tpc/ho/ll/an/d_/holland/ice-skating-fun-6861180671.jpg",
           "filename": "Ice Skating Fun (6861180671).jpg",
           "caption": "Noorderhaven - Groningen - the Netherlands",
           "alt": "Noorderhaven - Groningen - the Netherlands",
@@ -401,11 +421,11 @@
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
           "sourceGeohash4": "u17c",
-          "mediumPath": "_m/u/1/7/c/netherlands-wk/ice-skating-fun-6861180671-medium.webp",
-          "smallPath": "_m/u/1/7/c/netherlands-wk/ice-skating-fun-6861180671-small.webp"
+          "mediumPath": "_m/tpc/ho/ll/an/d_/holland/ice-skating-fun-6861180671-medium.webp",
+          "smallPath": "_m/tpc/ho/ll/an/d_/holland/ice-skating-fun-6861180671-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/kaart-met-plateaus-en-dalen-zu.png",
+          "path": "_m/u/0/g/r/southern-netherlands-wp/kaart-met-plateaus-en-dalen-zu.png",
           "filename": "Kaart met plateaus en dalen Zuid-Limburg.PNG",
           "caption": "Kaart met plateaus en dalen van Zuid-Limburg, NederlandLegenda: \n\n\n\n\n\nB\n Plateau van Bocholtz\n\n\nCa\n Plateau van Caestert\n\n\nCP\n Centraal Plateau\n\n\nCr\n Plateau van Crapoel\n\n\nD\n Plateau van Doenrade\n\n\nGr\n Plateau van Graetheide\n\n\nHb\n Heksenberg\n\n\nK\n Plateau van Kerkrade\n\n\nM\n Plateau van Margraten\n\n\nN\n Plateau van Nieuwenhagen\n\n\nS\n Plateau van Spekholzerheide\n\n\nU\n Plateau van Ubachsberg\n\n\nV\n Plateau van Vijlen\n\n\n\n\n\nA\n Anstelerbeek\n\n\nC\n Caumerbeek\n\n\nDC\n Droogdal van Colmont\n\n\nE\n Eyserbeek\n\n\nG\n Gerendal\n\n\nGb\n Geleenbeek\n\n\nGe\n Geul\n\n\nGu\n Gulp\n\n\nH\n Bekken van Heerlen\n\n\nJ\n Jeker\n\n\nMa\n Maas\n\n\nR\n Bekken van de Roode Beek\n\n\nSe\n Selzerbeek\n\n\nSt\n Strijthagerbeek\n\n\nW\n Worm",
           "alt": "Kaart met plateaus en dalen van Zuid-Limburg, NederlandLegenda: \n\n\n\n\n\nB\n Plateau van Bocholtz\n\n\nCa\n Plateau van Caestert\n\n\nCP\n Centraal Plateau\n\n\nCr\n Plateau van Crapoel\n\n\nD\n Plateau van Doenrade\n\n\nGr\n Plateau van Graetheide\n\n\nHb\n Heksenberg\n\n\nK\n Plateau van Kerkrade\n\n\nM\n Plateau van Margraten\n\n\nN\n Plateau van Nieuwenhagen\n\n\nS\n Plateau van Spekholzerheide\n\n\nU\n Plateau van Ubachsberg\n\n\nV\n Plateau van Vijlen\n\n\n\n\n\nA\n Anstelerbeek\n\n\nC\n Caumerbeek\n\n\nDC\n Droogdal van Colmont\n\n\nE\n Eyserbeek\n\n\nG\n Gerendal\n\n\nGb\n Geleenbeek\n\n\nGe\n Geul\n\n\nGu\n Gulp\n\n\nH\n Bekken van Heerlen\n\n\nJ\n Jeker\n\n\nMa\n Maas\n\n\nR\n Bekken van de Roode Beek\n\n\nSe\n Selzerbeek\n\n\nSt\n Strijthagerbeek\n\n\nW\n Worm",
@@ -417,10 +437,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaart_met_plateaus_en_dalen_Zuid-Limburg.PNG",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/u/0/g/r/southern-netherlands-wp/kaart-met-plateaus-en-dalen-zu-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/de-hoge-veluwe-landscape.jpg",
+          "path": "_m/u/1/k/0/gelderland-wp/de-hoge-veluwe-landscape.jpg",
           "filename": "De Hoge Veluwe landscape.jpg",
           "caption": "de Hoge Veluwe, statue of Generaal de Wet, in the sand",
           "alt": "de Hoge Veluwe, statue of Generaal de Wet, in the sand",
@@ -433,11 +454,11 @@
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
           "sourceGeohash4": "u17c",
-          "mediumPath": "_m/u/1/7/c/netherlands-wk/de-hoge-veluwe-landscape-medium.webp",
-          "smallPath": "_m/u/1/7/c/netherlands-wk/de-hoge-veluwe-landscape-small.webp"
+          "mediumPath": "_m/u/1/k/0/gelderland-wp/de-hoge-veluwe-landscape-medium.webp",
+          "smallPath": "_m/u/1/k/0/gelderland-wp/de-hoge-veluwe-landscape-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/leiden-nl-banner-2.jpg",
+          "path": "_m/tpc/ho/ll/an/d_/holland/leiden-nl-banner-2.jpg",
           "filename": "Leiden-NL-Banner-2.jpg",
           "caption": "Leiden",
           "alt": "Leiden",
@@ -450,11 +471,11 @@
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
           "sourceGeohash4": "u17c",
-          "mediumPath": "_m/u/1/7/c/netherlands-wk/leiden-nl-banner-2-medium.webp",
-          "smallPath": "_m/u/1/7/c/netherlands-wk/leiden-nl-banner-2-small.webp"
+          "mediumPath": "_m/tpc/ho/ll/an/d_/holland/leiden-nl-banner-2-medium.webp",
+          "smallPath": "_m/tpc/ho/ll/an/d_/holland/leiden-nl-banner-2-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/rijsttafel-den-haag-javastraat.jpg",
+          "path": "_m/u/1/7/0/the-hague-wk/rijsttafel-den-haag-javastraat.jpg",
           "filename": "Rijsttafel Den Haag Javastraat.jpg",
           "caption": "A very elaborate rijsttafel in a restaurant in The Hague, Netherlands.",
           "alt": "A very elaborate rijsttafel in a restaurant in The Hague, Netherlands.",
@@ -466,10 +487,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rijsttafel_Den_Haag_Javastraat.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/u/1/7/0/the-hague-wk/rijsttafel-den-haag-javastraat-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/related-poi-erasmusbrug-seen-from-euromast.jpg",
+          "path": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbrug-seen-from-euromast.jpg",
           "filename": "Erasmusbrug seen from Euromast.jpg",
           "caption": "Erasmusbrug and the 'Kop van Zuid' (Rotterdam) seen from the Euromast tower",
           "alt": "Erasmusbrug and the 'Kop van Zuid' (Rotterdam) seen from the Euromast tower",
@@ -481,10 +503,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erasmusbrug_seen_from_Euromast.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbrug-seen-from-euromast-medium.webp",
+          "smallPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbrug-seen-from-euromast-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/arriva-6474-leeuwarden-wilhelm.jpg",
+          "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/arriva-6474-leeuwarden-wilhelm.jpg",
           "filename": "Arriva 6474, Leeuwarden Wilhelminaplein (9701736225).jpg",
           "caption": "Arriva 6474, een Irisbus Citelis GNC, als lijn 36 naar het Leeuwardense Busstation, op het Wilhelminaplein in het hart van het Leeuwardense centrum.",
           "alt": "Arriva 6474, een Irisbus Citelis GNC, als lijn 36 naar het Leeuwardense Busstation, op het Wilhelminaplein in het hart van het Leeuwardense centrum.",
@@ -496,10 +520,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arriva_6474,_Leeuwarden_Wilhelminaplein_(9701736225).jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/arriva-6474-leeuwarden-wilhelm-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/arriva-6474-leeuwarden-wilhelm-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/cannabis-seed-bank-amsterdam.jpg",
+          "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/cannabis-seed-bank-amsterdam.jpg",
           "filename": "Cannabis seed bank Amsterdam.jpg",
           "caption": "Logo of a seed bank in Amsterdam.",
           "alt": "Logo of a seed bank in Amsterdam.",
@@ -511,10 +537,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cannabis_seed_bank_Amsterdam.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/cannabis-seed-bank-amsterdam-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/cannabis-seed-bank-amsterdam-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/amstel-hotel-2034.jpg",
+          "path": "_m/u/1/7/c/netherlands-wp/amstel-hotel-2034.jpg",
           "filename": "Amstel Hotel 2034.jpg",
           "caption": "Amstel Hotel as seen from Hoge Sluis",
           "alt": "Amstel Hotel as seen from Hoge Sluis",
@@ -527,11 +555,11 @@
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
           "sourceGeohash4": "u17c",
-          "mediumPath": "_m/u/1/7/c/netherlands-wk/amstel-hotel-2034-medium.webp",
-          "smallPath": "_m/u/1/7/c/netherlands-wk/amstel-hotel-2034-small.webp"
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/amstel-hotel-2034-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/amstel-hotel-2034-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/overwaard-mill-no-4-sunrise.jpg",
+          "path": "_m/tpc/ho/ll/an/d_/holland/overwaard-mill-no-4-sunrise.jpg",
           "filename": "Overwaard Mill No.4, sunrise.jpg",
           "caption": "Windmills at Kinderdijk",
           "alt": "Windmills at Kinderdijk",
@@ -544,11 +572,11 @@
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
           "sourceGeohash4": "u17c",
-          "mediumPath": "_m/u/1/7/c/netherlands-wk/overwaard-mill-no-4-sunrise-medium.webp",
-          "smallPath": "_m/u/1/7/c/netherlands-wk/overwaard-mill-no-4-sunrise-small.webp"
+          "mediumPath": "_m/tpc/ho/ll/an/d_/holland/overwaard-mill-no-4-sunrise-medium.webp",
+          "smallPath": "_m/tpc/ho/ll/an/d_/holland/overwaard-mill-no-4-sunrise-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/rental-trailers-at-camping-zee.jpg",
+          "path": "_m/tpc/ho/ll/an/d_/holland/rental-trailers-at-camping-zee.jpg",
           "filename": "Rental trailers at Camping Zeeburg, Amsterdam (26212654801).jpg",
           "caption": "Rental trailers at Camping Zeeburg, Amsterdam",
           "alt": "Rental trailers at Camping Zeeburg, Amsterdam",
@@ -561,11 +589,11 @@
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
           "sourceGeohash4": "u17c",
-          "mediumPath": "_m/u/1/7/c/netherlands-wk/rental-trailers-at-camping-zee-medium.webp",
-          "smallPath": "_m/u/1/7/c/netherlands-wk/rental-trailers-at-camping-zee-small.webp"
+          "mediumPath": "_m/tpc/ho/ll/an/d_/holland/rental-trailers-at-camping-zee-medium.webp",
+          "smallPath": "_m/tpc/ho/ll/an/d_/holland/rental-trailers-at-camping-zee-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/00-0781-canal-in-delft-nl.jpg",
+          "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-0781-canal-in-delft-nl.jpg",
           "filename": "00 0781 Canal in Delft (NL).jpg",
           "caption": "Vrauwjutteland Kanaal in Delft: Blick von der Brücke Choorstraat, im Hintergrund die Nieuwe Kerk.",
           "alt": "Vrauwjutteland Kanaal in Delft: Blick von der Brücke Choorstraat, im Hintergrund die Nieuwe Kerk.",
@@ -577,10 +605,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_0781_Canal_in_Delft_(NL).jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-0781-canal-in-delft-nl-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-0781-canal-in-delft-nl-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/00-1865-leiden-netherlands.jpg",
+          "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-1865-leiden-netherlands.jpg",
           "filename": "00 1865 Leiden - Netherlands.jpg",
           "caption": "Zentrum der Stadt Leiden (NL): Blauwpoortshaven,  Beestenmarkt, Turfmarktbrug und Windmühle De Valk.",
           "alt": "Zentrum der Stadt Leiden (NL): Blauwpoortshaven,  Beestenmarkt, Turfmarktbrug und Windmühle De Valk.",
@@ -592,10 +622,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_1865_Leiden_-_Netherlands.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-1865-leiden-netherlands-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-1865-leiden-netherlands-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/the-hague-montage-2021.png",
+          "path": "_m/u/1/5/e/benelux-wk/the-hague-montage-2021.png",
           "filename": "The Hague Montage 2021.png",
           "caption": "A montage of important buildings and cityscapes in The Hague, Netherlands.",
           "alt": "A montage of important buildings and cityscapes in The Hague, Netherlands.",
@@ -607,10 +639,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Hague_Montage_2021.png",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/5/e/benelux-wk/the-hague-montage-2021-medium.webp",
+          "smallPath": "_m/u/1/5/e/benelux-wk/the-hague-montage-2021-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/2009-05-01-in-nijmegen-01.jpg",
+          "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/2009-05-01-in-nijmegen-01.jpg",
           "filename": "2009-05-01 in Nijmegen 01.jpg",
           "caption": "Nijmegeni részlet",
           "alt": "Nijmegeni részlet",
@@ -622,10 +656,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2009-05-01_in_Nijmegen_01.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/2009-05-01-in-nijmegen-01-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/2009-05-01-in-nijmegen-01-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/beer-at-wbf-2019-at-night.jpg",
+          "path": "_m/u/1/7/c/netherlands-wp/beer-at-wbf-2019-at-night.jpg",
           "filename": "Beer at WBF 2019 at night.jpg",
           "caption": "A plastic cup full of beer served at the World Bodypainting Festival 2019 in Klagenfurt, Carinthia, Austria at night time.",
           "alt": "A plastic cup full of beer served at the World Bodypainting Festival 2019 in Klagenfurt, Carinthia, Austria at night time.",
@@ -638,11 +674,11 @@
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
           "sourceGeohash4": "u17c",
-          "mediumPath": "_m/u/1/7/c/netherlands-wk/beer-at-wbf-2019-at-night-medium.webp",
-          "smallPath": "_m/u/1/7/c/netherlands-wk/beer-at-wbf-2019-at-night-small.webp"
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/beer-at-wbf-2019-at-night-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/beer-at-wbf-2019-at-night-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/efteling-the-house-of-the-five.jpg",
+          "path": "_m/u/0/g/r/southern-netherlands-wp/efteling-the-house-of-the-five.jpg",
           "filename": "Efteling The House of the Five Senses.jpg",
           "caption": "The House of the Five Senses, the entrance to the Efteling theme park, Kaatsheuvel, Netherlands",
           "alt": "The House of the Five Senses, the entrance to the Efteling theme park, Kaatsheuvel, Netherlands",
@@ -654,7 +690,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Efteling_The_House_of_the_Five_Senses.jpg",
           "sourceType": "core",
           "sourceArticleId": "netherlands-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/0/g/r/southern-netherlands-wp/efteling-the-house-of-the-five-medium.webp",
+          "smallPath": "_m/u/0/g/r/southern-netherlands-wp/efteling-the-house-of-the-five-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wk/streetblackwhite.jpg",
@@ -790,7 +828,7 @@
           "smallPath": "_m/u/1/7/c/netherlands-wk/the-perfect-architect-in-milit-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/bond-of-union-m-c-escher.jpg",
+          "path": "_m/u/1/7/0/escher-in-the-palace-wp/bond-of-union-m-c-escher.jpg",
           "filename": "\"Bond of Union\", M.C. Escher.jpg",
           "caption": "Work “Bond of Union”, by the Dutch artist M.C. Escher, from the Escher in Het Paleis Museum, The Hague (Netherlands).",
           "alt": "Work “Bond of Union”, by the Dutch artist M.C. Escher, from the Escher in Het Paleis Museum, The Hague (Netherlands).",
@@ -802,10 +840,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Bond_of_Union%22,_M.C._Escher.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "escher-in-the-palace-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/u/1/7/0/escher-in-the-palace-wp/bond-of-union-m-c-escher-small.webp"
         },
         {
-          "path": "_m/u/1/7/c/netherlands-wk/ontmaskerd-unmasked-1915-still.png",
+          "path": "_m/u/1/7/3/holland-wp/ontmaskerd-unmasked-1915-still.png",
           "filename": "Ontmaskerd (Unmasked) 1915 still.png",
           "caption": "Ontmaskerd (Unmasked) 1915 Dutch silent film. Annie Bos is lying down, others are not identified.",
           "alt": "Ontmaskerd (Unmasked) 1915 Dutch silent film. Annie Bos is lying down, others are not identified.",
@@ -817,7 +856,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ontmaskerd_(Unmasked)_1915_still.png",
           "sourceType": "commons-category",
           "sourceArticleId": "holland-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/u/1/7/3/holland-wp/ontmaskerd-unmasked-1915-still-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/utrecht-uithof-from-cambridgel.jpg",
@@ -841,7 +881,8 @@
             "Universiteitsbibliotheek Utrecht",
             "Utrecht Science Park",
             "Willem C. van Unnikgebouw"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/c/netherlands-wp/utrecht-uithof-from-cambridgel-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/hutspot-met-stooflap-op-bord.jpg",
@@ -862,7 +903,8 @@
             "GFDL",
             "Hutspot",
             "License migration completed"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/c/netherlands-wp/hutspot-met-stooflap-op-bord-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/franks-expansion.gif",
@@ -891,7 +933,8 @@
             "License migration completed",
             "Maps of the Frankish territory",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/franks-expansion-small.gif"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/dutch-empire35.png",
@@ -912,7 +955,8 @@
             "File accuracy disputes",
             "GFDL",
             "License migration redundant"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/c/netherlands-wp/dutch-empire35-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/a1-hoog-buurlo.jpg",
@@ -927,7 +971,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A1-Hoog_Buurlo.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/a1-hoog-buurlo-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/a1-hoog-buurlo-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/graftombe-ridder-arnold-van-de.jpg",
@@ -942,7 +988,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Graftombe_Ridder_Arnold_van_der_Sluijs.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/graftombe-ridder-arnold-van-de-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/bulb-fields.jpg",
@@ -956,7 +1003,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bulb_Fields.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/bulb-fields-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/bulb-fields-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/hendrick-avercamp-ijsvermaak-b.jpg",
@@ -971,7 +1020,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hendrick_Avercamp_-_IJsvermaak_bij_een_stad.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/hendrick-avercamp-ijsvermaak-b-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/hendrick-avercamp-ijsvermaak-b-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/christmas-flood-1717.jpg",
@@ -986,7 +1037,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christmas_flood_1717.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/christmas-flood-1717-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/christmas-flood-1717-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/pieter-brueghel-the-elder-the-.jpg",
@@ -1000,7 +1053,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/pieter-brueghel-the-elder-the--medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/pieter-brueghel-the-elder-the--small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/nijlannermolen-workum.jpg",
@@ -1015,7 +1070,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nijl%C3%A2nnermolen_Workum.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/nijlannermolen-workum-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/nijlannermolen-workum-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/ned-den-euro-2012-10.jpg",
@@ -1030,7 +1087,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:NED-DEN_Euro_2012_(10).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/ned-den-euro-2012-10-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/carlos-v-en-muhlberg-by-titian.jpg",
@@ -1060,7 +1118,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kleine_Bonaire-Underwater_life(js).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/kleine-bonaire-underwater-life-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/kleine-bonaire-underwater-life-small.webp"
         },
         {
           "path": "_m/u/1/7/0/dutch-republic-wp/bust-facing-right-seve.jpg",
@@ -1075,7 +1135,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_I,_Prince_of_Orange_by_Adriaen_Thomasz._Key_Rijksmuseum_Amsterdam_SK-A-3148.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "dutch-republic-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/0/dutch-republic-wp/bust-facing-right-seve-medium.webp",
+          "smallPath": "_m/u/1/7/0/dutch-republic-wp/bust-facing-right-seve-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/red-light-district-of-amsterda.jpg",
@@ -1090,7 +1152,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red-light_district_of_Amsterdam_by_day._2012.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/red-light-district-of-amsterda-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/red-light-district-of-amsterda-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/bike-entrance-rotterdam-centra.jpg",
@@ -1105,7 +1169,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bike_entrance_Rotterdam_Central_Station.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/bike-entrance-rotterdam-centra-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/bike-entrance-rotterdam-centra-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/meander-mc-noordzijde-1.jpg",
@@ -1120,7 +1186,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meander_MC_noordzijde_1.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/meander-mc-noordzijde-1-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/meander-mc-noordzijde-1-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/nsr-sprinter-lighttrain-slt-wi.jpg",
@@ -1135,7 +1203,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:NSR_-_Sprinter_Lighttrain_(SLT)_-_Wieldrechtse_Zeedijk_-_Dordrecht_(22087244596).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/nsr-sprinter-lighttrain-slt-wi-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/nsr-sprinter-lighttrain-slt-wi-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/coldplay-perform-up-up-amsterd.jpg",
@@ -1150,7 +1220,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coldplay_perform_%22Up%26Up%22,_Amsterdam_Arena,_June_2016_(5).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/coldplay-perform-up-up-amsterd-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/coldplay-perform-up-up-amsterd-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/grote-drukte-zomercarnaval-rot.jpg",
@@ -1165,7 +1237,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grote_drukte_zomercarnaval_Rotterdam.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/grote-drukte-zomercarnaval-rot-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/grote-drukte-zomercarnaval-rot-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/koningsdag-2017-amstel.jpg",
@@ -1180,7 +1254,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koningsdag_2017_Amstel.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/koningsdag-2017-amstel-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/koningsdag-2017-amstel-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/rijksmuseum-2022.jpg",
@@ -1195,7 +1271,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rijksmuseum_2022.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/rijksmuseum-2022-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/rijksmuseum-2022-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/relax-flickr-rob-oo.jpg",
@@ -1210,7 +1288,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Relax_-_Flickr_-_Rob_Oo.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/relax-flickr-rob-oo-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/relax-flickr-rob-oo-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/zijne-majesteit-koning-willem-.jpg",
@@ -1225,7 +1305,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zijne_Majesteit_Koning_Willem-Alexander_met_koningsmantel_april_2013_(cropped).jpeg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/zijne-majesteit-koning-willem--small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/eu-netherlands-orthographic-pr.png",
@@ -1240,7 +1321,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:EU-Netherlands_(orthographic_projection).png",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/eu-netherlands-orthographic-pr-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/eu-netherlands-orthographic-pr-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/economic-growth-of-the-netherl.jpg",
@@ -1255,7 +1338,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Economic_growth_of_the_Netherlands.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/economic-growth-of-the-netherl-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/thehague-peacepalace-016-5771.jpg",
@@ -1270,7 +1354,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:TheHague_PeacePalace_016_5771.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/thehague-peacepalace-016-5771-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/thehague-peacepalace-016-5771-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/haven-van-rotterdam-2023-06.jpg",
@@ -1285,7 +1371,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haven_van_Rotterdam_2023_(06).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/haven-van-rotterdam-2023-06-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/haven-van-rotterdam-2023-06-small.webp"
         },
         {
           "path": "_m/u/1/4/t/delta-works-wp/karte-der-bauwerke-des-deltapr.png",
@@ -1300,7 +1388,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karte_der_Bauwerke_des_Deltaprojekts.png",
           "sourceType": "sibling",
           "sourceArticleId": "delta-works-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/u/1/4/t/delta-works-wp/karte-der-bauwerke-des-deltapr-small.webp"
         },
         {
           "path": "_m/u/1/7/c/netherlands-wp/basilica-of-saint-nicholas-ams.jpg",
@@ -1315,7 +1404,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_of_Saint_Nicholas,_Amsterdam_(50383493366).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "netherlands-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/7/c/netherlands-wp/basilica-of-saint-nicholas-ams-medium.webp",
+          "smallPath": "_m/u/1/7/c/netherlands-wp/basilica-of-saint-nicholas-ams-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/hans-holbein-d-j-erasmus-louvr.jpg",
@@ -1340,7 +1431,9 @@
             "PD-Art (PD-old-auto-expired)",
             "PD-Art (Yorck Project)",
             "PD-old-100-expired"
-          ]
+          ],
+          "mediumPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/hans-holbein-d-j-erasmus-louvr-medium.webp",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/hans-holbein-d-j-erasmus-louvr-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/old-amsterdam-1891-street-1.jpg",
@@ -1365,7 +1458,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Information field template with formatting",
             "Vijzelstraat, Amsterdam"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/old-amsterdam-1891-street-1-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/verenigd-koninkrijk-der-nederl.png",
@@ -1386,7 +1480,8 @@
             "Files by User:Känsterle from nl.wikipedia",
             "GFDL",
             "License migration completed"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/verenigd-koninkrijk-der-nederl-small.webp"
         },
         {
           "path": "_m/u/1/5/b/prince-bishopric-of-liege-wp/low-countries-map-1556.png",
@@ -1401,7 +1496,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Low_Countries.png",
           "sourceType": "history",
           "sourceArticleId": "prince-bishopric-of-liege-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/u/1/5/b/prince-bishopric-of-liege-wp/low-countries-map-1556-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/nederlandgodsdienst1849.png",
@@ -1416,7 +1512,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nederlandgodsdienst1849.PNG",
           "sourceType": "history",
           "sourceArticleId": "history-of-holland",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/nederlandgodsdienst1849-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/statenvertaling-title-page.jpg",
@@ -1431,7 +1528,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statenvertaling_title_page.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-holland",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/statenvertaling-title-page-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/willibrord-e.jpg",
@@ -1446,7 +1544,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Willibrord_e.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-holland",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/willibrord-e-small.webp"
         },
         {
           "path": "_m/k/3/v/n/cape-town-wk/related-history-charles-bell-jan-van-riebeeck-.jpg",
@@ -1461,7 +1560,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Bell_-_Jan_van_Riebeeck_se_aankoms_aan_die_Kaap.jpg",
           "sourceType": "history",
           "sourceArticleId": "cape-town-wk",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/k/3/v/n/cape-town-wk/related-history-charles-bell-jan-van-riebeeck--small.webp"
         },
         {
           "path": "_m/u/1/h/n/nijmegen-wp/valkhofkapel.jpg",
@@ -1474,7 +1574,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valkhofkapel.JPG",
           "sourceType": "history",
           "sourceArticleId": "nijmegen-wp",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/u/1/h/n/nijmegen-wp/valkhofkapel-medium.webp",
+          "smallPath": "_m/u/1/h/n/nijmegen-wp/valkhofkapel-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/aernout-smit-table-bay-1683-wi.jpg",
@@ -1488,7 +1590,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aernout_Smit_Table_Bay,_1683_William_Fehr_Collection_Cape_Town.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-holland",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/aernout-smit-table-bay-1683-wi-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/de-lannoy-surrender.jpg",
@@ -1503,7 +1606,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:De_Lannoy_Surrender.JPG",
           "sourceType": "history",
           "sourceArticleId": "history-of-holland",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/de-lannoy-surrender-medium.webp",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/de-lannoy-surrender-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/rochussen-egmond.jpg",
@@ -1518,7 +1623,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rochussen_Egmond.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-holland",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/rochussen-egmond-medium.webp",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/rochussen-egmond-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/van-gogh-bauerin-sitzend-mit-w.jpg",
@@ -1532,7 +1639,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_B%C3%A4uerin,_sitzend,_mit_wei%C3%9Fer_Haube.jpeg",
           "sourceType": "history",
           "sourceArticleId": "history-of-holland",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/van-gogh-bauerin-sitzend-mit-w-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/isaac-claesz-van-swanenburg-th.jpg",
@@ -1546,7 +1654,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isaac_Claesz._van_Swanenburg_-_The_Removal_of_the_Wool_from_the_Skins_and_the_Combing_-_WGA21986.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-holland",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/isaac-claesz-van-swanenburg-th-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/netherlands-in-the-time-of-the.png",
@@ -1561,7 +1670,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Netherlands_in_the_time_of_the_Roman_empire.png",
           "sourceType": "history",
           "sourceArticleId": "history-of-holland",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/netherlands-in-the-time-of-the-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/landing-willem-frederik-scheve.png",
@@ -1576,7 +1686,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Landing_Willem_Frederik_Scheveningen_1813.png",
           "sourceType": "history",
           "sourceArticleId": "history-of-holland",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/landing-willem-frederik-scheve-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/revolution-belge-de-1830-la-ru.jpg",
@@ -1591,7 +1702,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:R%C3%A9volution_belge_de_1830_-_La_rue_de_Flandre_le_jeudi_23_septembre_1830.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-holland",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/revolution-belge-de-1830-la-ru-medium.webp",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/revolution-belge-de-1830-la-ru-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/president-trump-meets-with-the.jpg",
@@ -1606,7 +1719,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Trump_Meets_with_the_Prime_Minister_of_the_Netherlands_(48317652116).jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-holland",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/president-trump-meets-with-the-medium.webp",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/president-trump-meets-with-the-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/portrait-of-pope-adrian-vi-aft.jpg",
@@ -1621,7 +1736,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Adrian_VI_(after_Jan_van_Scorel).jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-holland",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "mediumPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/portrait-of-pope-adrian-vi-aft-medium.webp",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/portrait-of-pope-adrian-vi-aft-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ho/ll/an/history-of-holland/petrus-peter-pieter-stuyvesant.jpg",
@@ -1636,7 +1753,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Petrus_(Peter_Pieter)_Stuyvesant_portrait_c1660.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-holland",
-          "sourceGeohash4": "u17c"
+          "sourceGeohash4": "u17c",
+          "smallPath": "_m/tpc/_ho/ho/ll/an/history-of-holland/petrus-peter-pieter-stuyvesant-small.webp"
         }
       ],
       "narration": [

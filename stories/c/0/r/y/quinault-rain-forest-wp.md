@@ -33,7 +33,7 @@ Located at 47.51°N, 123.82°W in the Quinault Valley on the western slope of th
 ## Sources
 
 - [Quinault Rain Forest - Wikipedia](https://en.wikipedia.org/?curid=3453199)
-- [Quinault Rain Forest - Wikipedia fact-check](https://en.wikipedia.org/wiki/Quinault_Rain_Forest)
+- [Quinault Rain Forest - Wikipedia fact-check](https://en.wikipedia.org/?curid=3453199)
   - Five of the ten largest Douglas-firs confirmed
   - World's largest western red cedar confirmed
   - World's largest Sitka spruce confirmed

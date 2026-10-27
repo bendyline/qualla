@@ -31,7 +31,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/9/u/carrowmore-wp/ireland-relief-location-map.png",
+          "path": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map.png",
           "filename": "Ireland relief location map.png",
           "caption": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
           "alt": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
@@ -50,7 +50,8 @@
             "Images with extracted images",
             "Maps by Nilfanion",
             "Relief location maps of Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map-small.webp"
         },
         {
           "path": "_m/g/c/9/u/carrowmore-wp/map-carrowmore-megalit.png",
@@ -521,7 +522,9 @@
             "Self-published work",
             "Sligo",
             "Taken with Fujifilm FinePix S5100"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/sligo-wp/rockwood-parade-sligo-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-wp/rockwood-parade-sligo-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/creevelea-friary-s-2007-08-16.jpg",
@@ -547,7 +550,9 @@
             "Photographs by Andreas F. Borchert",
             "Self-published work",
             "Taken with Canon EOS 30D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/sligo-wp/creevelea-friary-s-2007-08-16-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-wp/creevelea-friary-s-2007-08-16-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/parkes-castle-in-winter.jpg",
@@ -566,7 +571,9 @@
           "categories": [
             "PD-user",
             "Parke's Castle"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/sligo-wp/parkes-castle-in-winter-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-wp/parkes-castle-in-winter-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/lola-montez-caricature-departu.jpg",
@@ -588,7 +595,8 @@
             "PD-US missing SDC copyright status",
             "PD US",
             "Works by David Claypoole Johnston"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/u/sligo-wp/lola-montez-caricature-departu-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/glencar-waterfall.jpg",
@@ -610,7 +618,8 @@
             "Files from Wikivoyage wts",
             "Glencar Waterfall",
             "Taken with Fujifilm FinePix S5100"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/u/sligo-wp/glencar-waterfall-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/sligo-town-nite.jpg",
@@ -631,7 +640,8 @@
             "Self-published work",
             "Sligo",
             "Taken with Pentax K-r"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/u/sligo-wp/sligo-town-nite-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/the-glass-house.jpg",
@@ -646,7 +656,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Glass_House.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sligo-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "smallPath": "_m/g/c/9/u/sligo-wp/the-glass-house-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-abbey-wp/sligo-abbey-friary.jpg",
@@ -661,7 +672,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sligo_Abbey_Friary_-_Cloisters.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sligo-abbey-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "smallPath": "_m/g/c/9/u/sligo-abbey-wp/sligo-abbey-friary-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-abbey-wp/south-east-view-choir.jpg",
@@ -676,7 +688,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sligo_Priory_of_the_Holy_Cross_Choir_SE_2015_09_08.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sligo-abbey-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "mediumPath": "_m/g/c/9/u/sligo-abbey-wp/south-east-view-choir-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-abbey-wp/south-east-view-choir-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/grave-of-w-b-yeats.jpg",
@@ -691,7 +705,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grave_of_W.B._Yeats.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sligo-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "mediumPath": "_m/g/c/9/u/sligo-wp/grave-of-w-b-yeats-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-wp/grave-of-w-b-yeats-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/sean-mac-diarmada-42977572542.png",
@@ -706,7 +722,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sean_Mac_Diarmada_(42977572542).png",
           "sourceType": "poi",
           "sourceArticleId": "sligo-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "smallPath": "_m/g/c/9/u/sligo-wp/sean-mac-diarmada-42977572542-small.webp"
         },
         {
           "path": "_m/g/c/e/3/drogheda-wp/newgrange.jpg",
@@ -728,7 +745,8 @@
             "License migration completed",
             "Media lacking author information",
             "Newgrange"
-          ]
+          ],
+          "smallPath": "_m/g/c/e/3/drogheda-wp/newgrange-small.webp"
         },
         {
           "path": "_m/tpc/ne/wg/ra/ng/newgrange/newgrangetombentrance.jpg",
@@ -749,7 +767,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ne/wg/ra/ng/newgrange/newgrangetombentrance-medium.webp",
+          "smallPath": "_m/tpc/ne/wg/ra/ng/newgrange/newgrangetombentrance-small.webp"
         }
       ],
       "narration": [

@@ -3,28 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/5/c/museum-of-contemporary-art-los-angeles-wp/hero.jpg",
-        "filename": "MOCA LA 04.jpg",
-        "caption": "Museum of Contemporary Art (MOCA) in downtown Los Angeles, California",
-        "alt": "Museum of Contemporary Art (MOCA) in downtown Los Angeles, California",
-        "width": 2992,
-        "height": 1533,
+        "path": "_m/9/q/5/c/museum-of-contemporary-art-los-angeles-wp/downtown-la-nancy-rubi.jpg",
+        "filename": "MOCA downtown buildings and Mark Thompson's Airplane Parts.JPG",
+        "caption": "Downtown LA with Nancy Rubins' Airplane Parts sculpture at nighttime. December 2011",
+        "alt": "Downtown LA with Nancy Rubins' Airplane Parts sculpture at nighttime. December 2011",
+        "width": 5184,
+        "height": 3456,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "Minnaert",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:MOCA_LA_04.jpg",
+        "artist": "Sgerbic",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:MOCA_downtown_buildings_and_Mark_Thompson%27s_Airplane_Parts.JPG",
         "sourceType": "core",
         "sourceArticleId": "museum-of-contemporary-art-los-angeles-wp",
         "sourceGeohash4": "9q5c",
         "categories": [
+          "Buildings in Bunker Hill, Los Angeles",
           "CC-BY-SA-3.0",
-          "GFDL",
-          "High-rises in Los Angeles",
-          "License migration redundant",
+          "Downtown Los Angeles",
           "Museum of Contemporary Art, Los Angeles",
+          "Outdoor sculptures in Los Angeles",
           "Self-published work",
-          "Taken with Canon Digital IXUS 850 IS"
-        ]
+          "Taken with Canon EOS 550D"
+        ],
+        "mediumPath": "_m/9/q/5/c/museum-of-contemporary-art-los-angeles-wp/downtown-la-nancy-rubi-medium.webp",
+        "smallPath": "_m/9/q/5/c/museum-of-contemporary-art-los-angeles-wp/downtown-la-nancy-rubi-small.webp"
       },
       "images": [
         {
@@ -316,7 +318,9 @@
             "June 2018 in Pasadena, California",
             "Photographs by Ted Eytan",
             "Rose Bowl"
-          ]
+          ],
+          "mediumPath": "_m/9/q/5/f/pasadena-california-wp/2018-06-17-over-the-rose-bowl--medium.webp",
+          "smallPath": "_m/9/q/5/f/pasadena-california-wp/2018-06-17-over-the-rose-bowl--small.webp"
         },
         {
           "path": "_m/9/q/5/c/bmo-stadium-wp/east-side-banc-califor.jpg",
@@ -337,7 +341,9 @@
             "Association football matches at BMO Stadium",
             "CC-BY-SA-4.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/9/q/5/c/bmo-stadium-wp/east-side-banc-califor-medium.webp",
+          "smallPath": "_m/9/q/5/c/bmo-stadium-wp/east-side-banc-califor-small.webp"
         },
         {
           "path": "_m/9/q/5/c/los-angeles-2028-wk/intuit-dome-facade.jpg",
@@ -358,7 +364,9 @@
             "Exterior of Intuit Dome",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/9/q/5/c/los-angeles-2028-wk/intuit-dome-facade-medium.webp",
+          "smallPath": "_m/9/q/5/c/los-angeles-2028-wk/intuit-dome-facade-small.webp"
         }
       ],
       "narration": [

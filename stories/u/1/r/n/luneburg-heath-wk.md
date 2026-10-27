@@ -36,7 +36,7 @@ The heath centres on roughly 53.169 degrees N, 9.940 degrees E, spreading across
 
 ## Sources
 
-- [Lüneburg Heath - Wikivoyage](https://en.wikivoyage.org/wiki/L%C3%BCneburg_Heath)
+- [Lüneburg Heath - Wikivoyage](https://en.wikivoyage.org/?curid=19286)
   - Heath is anthropogenic; maintained by Heidschnucke grazing (confirmed)
   - Five natural sub-regions: High Heath, South Heath, East Heath, Uelzen Basin, Luhe Heath (confirmed)
   - Wilsede car parks at Overhaverbeek and Niederhaverbeek; horse and carriage access (confirmed)

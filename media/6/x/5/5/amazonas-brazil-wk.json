@@ -3,19 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/x/5/5/amazonas-brazil-wk/hero.jpg",
-        "filename": "Parintins Amazonas Brazil.jpg",
-        "caption": "The famous Brazilian city of Parintins, located in the state of Amazonas. Every year the Folk Festival takes place, which attracts tourists from all over the world.",
-        "alt": "The famous Brazilian city of Parintins, located in the state of Amazonas. Every year the Folk Festival takes place, which attracts tourists from all over the world.",
-        "width": 5334,
-        "height": 3579,
+        "path": "_m/6/x/5/5/amazonas-brazil-wk/dsc-0141mod-16127432358.jpg",
+        "filename": "DSC 0141mod (16127432358).jpg",
+        "caption": "DSC_0141mod",
+        "alt": "DSC_0141mod",
+        "width": 4512,
+        "height": 2992,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Mário Oliveira - MTUR",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parintins_Amazonas_Brazil.jpg",
-        "sourceType": "core",
+        "license": "CC BY 2.0",
+        "artist": "Larissa Saud",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:DSC_0141mod_(16127432358).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "amazonas-brazil-wk",
-        "sourceGeohash4": "6x55"
+        "sourceGeohash4": "6x55",
+        "categories": [
+          "Amazonas (Brazil)",
+          "CC-BY-2.0",
+          "Flickr images reviewed by FlickreviewR 2"
+        ],
+        "mediumPath": "_m/6/x/5/5/amazonas-brazil-wk/dsc-0141mod-16127432358-medium.webp",
+        "smallPath": "_m/6/x/5/5/amazonas-brazil-wk/dsc-0141mod-16127432358-small.webp"
       },
       "images": [
         {
@@ -130,7 +137,7 @@
           "smallPath": "_m/6/x/5/5/amazonas-brazil-wk/photomontage-tabatinga-small.webp"
         },
         {
-          "path": "_m/6/x/5/5/amazonas-brazil-wk/montagem-de-manaus.png",
+          "path": "_m/6/v/d/2/brazil-wk/montagem-de-manaus.png",
           "filename": "Collage Manaus.png",
           "caption": "Montagem de Manaus",
           "alt": "Montagem de Manaus",
@@ -142,7 +149,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collage_Manaus.png",
           "sourceType": "core",
           "sourceArticleId": "amazonas-brazil-wk",
-          "sourceGeohash4": "6x55"
+          "sourceGeohash4": "6x55",
+          "smallPath": "_m/6/v/d/2/brazil-wk/montagem-de-manaus-small.webp"
         },
         {
           "path": "_m/6/x/5/5/amazonas-brazil-wk/reserva-de-desenvolvim.jpg",
@@ -586,7 +594,8 @@
             "Files with derivative versions",
             "Self-published work",
             "Teatro Amazonas in 2005"
-          ]
+          ],
+          "smallPath": "_m/u/0/9/w/palais-garnier-wp/teatro-amazonas-manaus-small.webp"
         },
         {
           "path": "_m/tpc/am/az/on/as/amazonas-brazil/festival-folclorico-de-parinti.jpg",
@@ -608,7 +617,8 @@
             "Files by User:Dantadd",
             "Photographs by Agencia Brasil",
             "Photographs by Ricardo Stuckert"
-          ]
+          ],
+          "smallPath": "_m/tpc/am/az/on/as/amazonas-brazil/festival-folclorico-de-parinti-small.webp"
         },
         {
           "path": "_m/tpc/am/az/on/as/amazonas-brazil/millenniumcenter.jpg",
@@ -631,7 +641,9 @@
             "License migration redundant",
             "Millennium Shopping (Manaus)",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/am/az/on/as/amazonas-brazil/millenniumcenter-medium.webp",
+          "smallPath": "_m/tpc/am/az/on/as/amazonas-brazil/millenniumcenter-small.webp"
         },
         {
           "path": "_m/tpc/am/az/on/as/amazonas-brazil/amazon14-5641588550.jpg",
@@ -651,7 +663,9 @@
             "Aerial photographs of Brazil",
             "Aerial photographs of the Amazon Rainforest",
             "CC-BY-SA-2.0"
-          ]
+          ],
+          "mediumPath": "_m/tpc/am/az/on/as/amazonas-brazil/amazon14-5641588550-medium.webp",
+          "smallPath": "_m/tpc/am/az/on/as/amazonas-brazil/amazon14-5641588550-small.webp"
         },
         {
           "path": "_m/tpc/am/az/on/as/amazonas-brazil/pico-da-neblina-amazonas-brasi.jpg",
@@ -666,7 +680,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pico_da_Neblina_-_Amazonas_-_Brasil.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "amazonas-brazil",
-          "sourceGeohash4": "tpc/am/az/on/as"
+          "sourceGeohash4": "tpc/am/az/on/as",
+          "mediumPath": "_m/tpc/am/az/on/as/amazonas-brazil/pico-da-neblina-amazonas-brasi-medium.webp",
+          "smallPath": "_m/tpc/am/az/on/as/amazonas-brazil/pico-da-neblina-amazonas-brasi-small.webp"
         },
         {
           "path": "_m/tpc/am/az/on/as/amazonas-brazil/sao-gabriel-da-cachoeira.jpg",
@@ -681,7 +697,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sao_Gabriel_da_Cachoeira.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "amazonas-brazil",
-          "sourceGeohash4": "tpc/am/az/on/as"
+          "sourceGeohash4": "tpc/am/az/on/as",
+          "mediumPath": "_m/tpc/am/az/on/as/amazonas-brazil/sao-gabriel-da-cachoeira-medium.webp",
+          "smallPath": "_m/tpc/am/az/on/as/amazonas-brazil/sao-gabriel-da-cachoeira-small.webp"
         },
         {
           "path": "_m/tpc/am/az/on/as/amazonas-brazil/mercado-municipal-adolpho-lisb.jpg",
@@ -696,7 +714,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_Municipal_Adolpho_Lisboa_em_16-04-2015-.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "amazonas-brazil",
-          "sourceGeohash4": "tpc/am/az/on/as"
+          "sourceGeohash4": "tpc/am/az/on/as",
+          "mediumPath": "_m/tpc/am/az/on/as/amazonas-brazil/mercado-municipal-adolpho-lisb-medium.webp",
+          "smallPath": "_m/tpc/am/az/on/as/amazonas-brazil/mercado-municipal-adolpho-lisb-small.webp"
         },
         {
           "path": "_m/6/x/m/q/manaus-wp/encontro-das-aguas-manaus.jpg",
@@ -711,7 +731,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Encontro_das_%C3%81guas_-_Manaus.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "manaus-wp",
-          "sourceGeohash4": "6x55"
+          "sourceGeohash4": "6x55",
+          "mediumPath": "_m/6/x/m/q/manaus-wp/encontro-das-aguas-manaus-medium.webp",
+          "smallPath": "_m/6/x/m/q/manaus-wp/encontro-das-aguas-manaus-small.webp"
         },
         {
           "path": "_m/tpc/am/az/on/as/amazonas-brazil/vista-parcial-de-manaus.jpg",
@@ -726,7 +748,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vista_Parcial_de_Manaus.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "amazonas-brazil",
-          "sourceGeohash4": "tpc/am/az/on/as"
+          "sourceGeohash4": "tpc/am/az/on/as",
+          "mediumPath": "_m/tpc/am/az/on/as/amazonas-brazil/vista-parcial-de-manaus-medium.webp",
+          "smallPath": "_m/tpc/am/az/on/as/amazonas-brazil/vista-parcial-de-manaus-small.webp"
         },
         {
           "path": "_m/tpc/am/az/on/as/amazonas-brazil/praca-15-de-novembro-manaus-am.jpg",
@@ -740,7 +764,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_15_de_novembro,_Manaus_(AM).tif",
           "sourceType": "sibling",
           "sourceArticleId": "amazonas-brazil",
-          "sourceGeohash4": "tpc/am/az/on/as"
+          "sourceGeohash4": "tpc/am/az/on/as",
+          "mediumPath": "_m/tpc/am/az/on/as/amazonas-brazil/praca-15-de-novembro-manaus-am-medium.webp",
+          "smallPath": "_m/tpc/am/az/on/as/amazonas-brazil/praca-15-de-novembro-manaus-am-small.webp"
         },
         {
           "path": "_m/tpc/am/az/on/as/amazonas-brazil/mapa-do-estado-do-amazonas.jpg",
@@ -754,7 +780,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapa_do_Estado_do_Amazonas.tif",
           "sourceType": "sibling",
           "sourceArticleId": "amazonas-brazil",
-          "sourceGeohash4": "tpc/am/az/on/as"
+          "sourceGeohash4": "tpc/am/az/on/as",
+          "mediumPath": "_m/tpc/am/az/on/as/amazonas-brazil/mapa-do-estado-do-amazonas-medium.webp",
+          "smallPath": "_m/tpc/am/az/on/as/amazonas-brazil/mapa-do-estado-do-amazonas-small.webp"
         },
         {
           "path": "_m/tpc/am/az/on/as/amazonas-brazil/estado-do-amazonas-1906.jpg",
@@ -769,7 +797,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Estado_do_Amazonas_1906.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "amazonas-brazil",
-          "sourceGeohash4": "tpc/am/az/on/as"
+          "sourceGeohash4": "tpc/am/az/on/as",
+          "mediumPath": "_m/tpc/am/az/on/as/amazonas-brazil/estado-do-amazonas-1906-medium.webp",
+          "smallPath": "_m/tpc/am/az/on/as/amazonas-brazil/estado-do-amazonas-1906-small.webp"
         },
         {
           "path": "_m/tpc/am/az/on/as/amazonas-brazil/global-forest-change-tree-cove.png",
@@ -784,7 +814,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Global_Forest_Change_tree-cover_loss_year_in_Amazonas,_2001-2024.png",
           "sourceType": "sibling",
           "sourceArticleId": "amazonas-brazil",
-          "sourceGeohash4": "tpc/am/az/on/as"
+          "sourceGeohash4": "tpc/am/az/on/as",
+          "smallPath": "_m/tpc/am/az/on/as/amazonas-brazil/global-forest-change-tree-cove-small.webp"
         }
       ],
       "narration": [

@@ -36,8 +36,8 @@ Located at 34.669°N, 135.503°E in Osaka's Chuo ward. The Dotonbori canal runs 
 
 ## Sources
 
-- [Dotonbori - Wikipedia](https://en.wikipedia.org/wiki/D%C5%8Dtonbori)
-- [Wikipedia - Dotonbori history and canal origins](https://en.wikipedia.org/wiki/D%C5%8Dtonbori)
+- [Dotonbori - Wikipedia](https://en.wikipedia.org/?curid=998084)
+- [Wikipedia - Dotonbori history and canal origins](https://en.wikipedia.org/?curid=998084)
   - Canal construction began 1612 by Nariyasu Doton with Yasui Jihe, Yasui Kuhe, and Hirano Tojiro
   - Yasui Jihe died of illness, Nariyasu Doton killed summer 1615 during Siege of Osaka
   - Canal completed September 1615 by Yasui Kuhe and Hirano Tojiro

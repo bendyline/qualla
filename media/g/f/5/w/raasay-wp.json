@@ -21,7 +21,7 @@
       },
       "images": [
         {
-          "path": "_m/g/f/5/w/raasay-wp/hebridesmap.png",
+          "path": "_m/g/f/6/e/flannan-isles-wk/hebridesmap.png",
           "filename": "Hebridesmap.png",
           "alt": "Hebridesmap.png",
           "width": 935,
@@ -45,7 +45,8 @@
             "PNG that should use vector graphics",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/6/e/flannan-isles-wk/hebridesmap-small.webp"
         },
         {
           "path": "_m/g/f/5/w/raasay-wp/raasay-island-taken-su.jpg",
@@ -99,7 +100,7 @@
           "smallPath": "_m/g/f/5/w/raasay-wp/dun-caan-loch-na-mna-r-small.webp"
         },
         {
-          "path": "_m/g/f/5/w/raasay-wp/relief-map-isle-skye-u.jpg",
+          "path": "_m/g/f/5/q/dunvegan-castle-wp/relief-map-isle-skye-u.jpg",
           "filename": "Isle of Skye UK relief location map.jpg",
           "caption": "Relief map of the Isle of Skye, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 6.85W\nEast: 5.5W\nNorth: 57.8N\nSouth: 57.0N",
           "alt": "Relief map of the Isle of Skye, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 6.85W\nEast: 5.5W\nNorth: 57.8N\nSouth: 57.0N",
@@ -111,7 +112,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isle_of_Skye_UK_relief_location_map.jpg",
           "sourceType": "core",
           "sourceArticleId": "raasay-wp",
-          "sourceGeohash4": "gf5w"
+          "sourceGeohash4": "gf5w",
+          "mediumPath": "_m/g/f/5/q/dunvegan-castle-wp/relief-map-isle-skye-u-medium.webp",
+          "smallPath": "_m/g/f/5/q/dunvegan-castle-wp/relief-map-isle-skye-u-small.webp"
         },
         {
           "path": "_m/g/f/5/w/raasay-wp/hamlet-clachan-isle-ra.jpg",
@@ -577,7 +580,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Kodak EasyShare V570"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ra/as/ay/__/raasay/brochelcastle2008-medium.webp",
+          "smallPath": "_m/tpc/ra/as/ay/__/raasay/brochelcastle2008-small.webp"
         },
         {
           "path": "_m/tpc/ra/as/ay/__/raasay/ruined-building-hallaig-geogra.jpg",
@@ -597,7 +602,8 @@
             "CC-BY-SA-2.0",
             "Hallaig",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/tpc/ra/as/ay/__/raasay/ruined-building-hallaig-geogra-small.webp"
         }
       ],
       "narration": [

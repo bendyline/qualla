@@ -33,7 +33,7 @@ Turret Peak is located at 34.248N, 111.865W in the rugged terrain of central Ari
 ## Sources
 
 - [Battle of Turret Peak - Wikipedia](https://en.wikipedia.org/?curid=15662494)
-- [Wikipedia - Battle of Turret Peak](https://en.wikipedia.org/wiki/Battle_of_Turret_Peak)
+- [Wikipedia - Battle of Turret Peak](https://en.wikipedia.org/?curid=15662494)
   - Date March 27, 1873 confirmed
   - Captain George M. Randall commanded the assault confirmed
   - Crook arrived in Southwest June 1871 confirmed

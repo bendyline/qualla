@@ -3,31 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/q/w/7/tugu-yogyakarta-wp/hero.jpg",
-        "filename": "Jogja - Tugu Monument (2025) - img 06.jpg",
-        "caption": "Tugu Monument, Yogyakarta",
-        "alt": "Tugu Monument, Yogyakarta",
-        "width": 5377,
-        "height": 4033,
+        "path": "_m/q/q/w/7/tugu-yogyakarta-wp/tugu-jogja.jpg",
+        "filename": "Tugu Jogja.jpg",
+        "caption": "Tugu Pal Putih yang dulunya disebut Tugu Golong Gilig adalah ikon yang sangat terkenal di Yogyakarta. Tugu ini memiliki makna semangat persatuan antara rakyat dengan rajanya. Lokasinya berada di Cokrodiningratan, Jetis, Yogyakarta, DIY.",
+        "alt": "Tugu Pal Putih yang dulunya disebut Tugu Golong Gilig adalah ikon yang sangat terkenal di Yogyakarta. Tugu ini memiliki makna semangat persatuan antara rakyat dengan rajanya. Lokasinya berada di Cokrodiningratan, Jetis, Yogyakarta, DIY.",
+        "width": 6000,
+        "height": 3376,
         "mimeType": "image/jpeg",
-        "license": "CC BY 4.0",
-        "artist": "Chainwit.",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jogja_-_Tugu_Monument_(2025)_-_img_06.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Zen Artwork",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tugu_Jogja.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "tugu-yogyakarta-wp",
         "sourceGeohash4": "qqw7",
-        "categories": [
-          "CC-BY-4.0",
-          "Files with coordinates missing SDC location of creation",
-          "Quality images",
-          "Quality images missing SDC depicts",
-          "Self-published work",
-          "Tugu Yogyakarta"
-        ]
+        "mediumPath": "_m/q/q/w/7/tugu-yogyakarta-wp/tugu-jogja-medium.webp",
+        "smallPath": "_m/q/q/w/7/tugu-yogyakarta-wp/tugu-jogja-small.webp"
       },
       "images": [
         {
-          "path": "_m/q/q/w/7/tugu-yogyakarta-wp/related-sibling-kraton-yogyakarta-pagelaran.jpg",
+          "path": "_m/q/q/w/7/yogyakarta-wk/related-sibling-kraton-yogyakarta-pagelaran.jpg",
           "filename": "Kraton Yogyakarta Pagelaran.jpg",
           "caption": "\"Pagelaran\", the front hall of Kraton of Yogyakarta, Indonesia. The hall facing \"Alun-alun Lor\" or nothern city square. The hall is a multipurpose building.",
           "alt": "\"Pagelaran\", the front hall of Kraton of Yogyakarta, Indonesia. The hall facing \"Alun-alun Lor\" or nothern city square. The hall is a multipurpose building.",
@@ -50,7 +44,8 @@
             "Photographs by Gunawan Kartapranata",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/related-sibling-kraton-yogyakarta-pagelaran-small.webp"
         },
         {
           "path": "_m/q/q/w/7/tugu-yogyakarta-wp/collectie-tropenmuseum-de-toeg.jpg",
@@ -474,7 +469,8 @@
             "Self-published work",
             "Taken with Casio Exilim EX-Z110",
             "Views of Borobudur"
-          ]
+          ],
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/borobudur-view-taken-n-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/garuda-indonesia-boein.jpg",
@@ -503,7 +499,8 @@
             "Photographs by Gunawan Kartapranata",
             "Self-published work",
             "Taken with Canon Digital IXUS 860 IS"
-          ]
+          ],
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/garuda-indonesia-boein-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/adisucipto-internation.jpg",
@@ -526,7 +523,9 @@
             "CC-BY-SA-3.0",
             "Indonesia photographs taken on 2009-12-28",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/adisucipto-internation-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/adisucipto-internation-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/fort-vredeburg-museum.jpg",
@@ -547,7 +546,9 @@
             "Fort Vredeburg Museum",
             "Self-published work",
             "Taken with Canon EOS 30D"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/fort-vredeburg-museum-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/fort-vredeburg-museum-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/dsc00428-java-jogyakar.jpg",
@@ -562,7 +563,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bird_Market_Building_in_Yogyakarta_(6265682015).jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/dsc00428-java-jogyakar-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/dsc00428-java-jogyakar-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/giwangan.jpg",
@@ -575,7 +578,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giwangan.jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/giwangan-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/prambanan-s-hindu-temp.jpg",
@@ -590,7 +594,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017-05-12_16h_Prambanan.jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/prambanan-s-hindu-temp-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/prambanan-s-hindu-temp-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/masjid-gedhe-kauman-ka.jpg",
@@ -605,7 +611,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jogja_-_Mesjid_Gedhe_Kauman_Karaton_Ngayogyakarta_Hadiningrat_(2025)_-_img_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/masjid-gedhe-kauman-ka-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/masjid-gedhe-kauman-ka-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/art-deco-facade-yogyak.jpg",
@@ -620,7 +628,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jogja_-_Yogyakarta_Station_-_Art_Deco_Facade_(2025)_-_img_04.jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/art-deco-facade-yogyak-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/art-deco-facade-yogyak-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/central-area-umbul-pas.jpg",
@@ -635,7 +645,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Central_area_(Umbul_Pasiraman)_of_Taman_Sari_Jogja_(2025)_-_img_02.jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/central-area-umbul-pas-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/central-area-umbul-pas-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/bringharjo-market-pasa.jpg",
@@ -650,7 +662,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bringharjo_Market_Yogyakarta_-_Pasar_Bringharjo_Jogja_(2025)_-_img_06.jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/bringharjo-market-pasa-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/bringharjo-market-pasa-small.webp"
         },
         {
           "path": "_m/tpc/mo/un/t-/ma/mount-marapi/blethrow-merapi1.jpg",
@@ -675,7 +689,8 @@
             "Media missing infobox template",
             "Merapi in 2005",
             "Views of Mount Merapi"
-          ]
+          ],
+          "smallPath": "_m/tpc/mo/un/t-/ma/mount-marapi/blethrow-merapi1-small.webp"
         },
         {
           "path": "_m/tpc/mo/un/t-/ma/mount-marapi/mt-merapi-from-mt-merbabu.jpg",
@@ -697,7 +712,9 @@
             "Merapi in 1998",
             "Mount Merapi",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/mo/un/t-/ma/mount-marapi/mt-merapi-from-mt-merbabu-medium.webp",
+          "smallPath": "_m/tpc/mo/un/t-/ma/mount-marapi/mt-merapi-from-mt-merbabu-small.webp"
         },
         {
           "path": "_m/tpc/mo/un/t-/ma/mount-marapi/papan-penanda-di-area-museum-u.jpg",
@@ -718,7 +735,9 @@
             "Kaliurang",
             "Self-published work",
             "Ullen Sentalu Museum"
-          ]
+          ],
+          "mediumPath": "_m/tpc/mo/un/t-/ma/mount-marapi/papan-penanda-di-area-museum-u-medium.webp",
+          "smallPath": "_m/tpc/mo/un/t-/ma/mount-marapi/papan-penanda-di-area-museum-u-small.webp"
         }
       ],
       "narration": [

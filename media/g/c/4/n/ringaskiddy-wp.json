@@ -3,25 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/4/n/ringaskiddy-wp/hero.jpg",
-        "filename": "Beaufort building.jpg",
-        "caption": "Environmental Research Institute Beaufort Building, Ringaskiddy, Cork",
-        "alt": "Environmental Research Institute Beaufort Building, Ringaskiddy, Cork",
-        "width": 5745,
-        "height": 3830,
+        "path": "_m/g/c/4/n/ringaskiddy-wp/castle-warren.jpg",
+        "filename": "Castle Warren - geograph.org.uk - 1852983.jpg",
+        "caption": "Castle Warren",
+        "alt": "Castle Warren",
+        "width": 3456,
+        "height": 2304,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Corcoranaoife",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beaufort_building.jpg",
+        "license": "CC BY-SA 2.0",
+        "artist": "Andrew Wood",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle_Warren_-_geograph.org.uk_-_1852983.jpg",
         "sourceType": "core",
         "sourceArticleId": "ringaskiddy-wp",
         "sourceGeohash4": "gc4n",
         "categories": [
-          "Buildings in County Cork",
-          "CC-BY-SA-4.0",
-          "Ringaskiddy",
-          "Self-published work"
-        ]
+          "CC-BY-SA-2.0",
+          "Castle Warren (Ringaskiddy)",
+          "Images from Geograph Britain and Ireland"
+        ],
+        "mediumPath": "_m/g/c/4/n/ringaskiddy-wp/castle-warren-medium.webp",
+        "smallPath": "_m/g/c/4/n/ringaskiddy-wp/castle-warren-small.webp"
       },
       "images": [
         {
@@ -240,7 +241,7 @@
           "smallPath": "_m/g/c/4/n/ringaskiddy-wp/ringaskiddy-terminal-geograph--small.webp"
         },
         {
-          "path": "_m/g/c/4/n/ringaskiddy-wp/aerial-photograph-cork-harbour.jpg",
+          "path": "_m/g/c/4/n/cork-harbour-wp/aerial-photograph-cork-harbour.jpg",
           "filename": "Aerial photograph, Cork Harbour (cropped).jpg",
           "caption": "Aerial photograph of Cork Harbour in Ireland, taken in August 2006, with: Cobh (centre/rearground), Spike Island (right/middleground), Haulbowline Island (centre/middleground), and Ringaskiddy (left/foreground).",
           "alt": "Aerial photograph of Cork Harbour in Ireland, taken in August 2006, with: Cobh (centre/rearground), Spike Island (right/middleground), Haulbowline Island (centre/middleground), and Ringaskiddy (left/foreground).",
@@ -255,7 +256,8 @@
           "sourceGeohash4": "gc4n",
           "categories": [
             "Aerial photographs of County Cork"
-          ]
+          ],
+          "smallPath": "_m/g/c/4/n/cork-harbour-wp/aerial-photograph-cork-harbour-small.webp"
         },
         {
           "path": "_m/g/c/4/n/ringaskiddy-wp/damaged-statue-geograph-org-uk.jpg",
@@ -453,7 +455,8 @@
             "Files with coordinates missing SDC location of creation",
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Photographs by psyberartist"
-          ]
+          ],
+          "smallPath": "_m/g/c/4/n/cobh-wp/cobh-ireland-8104088631-small.webp"
         },
         {
           "path": "_m/d/z/k/m/titanic-wreck-wk/cobh-8103174972.jpg",
@@ -484,7 +487,9 @@
             "Titanic (ship, 1912)",
             "White buildings in Ireland",
             "White shops"
-          ]
+          ],
+          "mediumPath": "_m/d/z/k/m/titanic-wreck-wk/cobh-8103174972-medium.webp",
+          "smallPath": "_m/d/z/k/m/titanic-wreck-wk/cobh-8103174972-small.webp"
         },
         {
           "path": "_m/g/c/4/n/cobh-wp/entry-of-fort-mitchel-on-spike.jpg",
@@ -505,7 +510,9 @@
             "Files with coordinates missing SDC location of creation",
             "Republic of Ireland photographs taken on 2015-08-14",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/4/n/cobh-wp/entry-of-fort-mitchel-on-spike-medium.webp",
+          "smallPath": "_m/g/c/4/n/cobh-wp/entry-of-fort-mitchel-on-spike-small.webp"
         },
         {
           "path": "_m/g/c/4/n/cobh-wp/annie-moore-statue-by-by-jeann.jpg",
@@ -520,7 +527,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Annie_Moore_Statue_by_by_Jeanne_Rynhart,_Cobh.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cobh-wp",
-          "sourceGeohash4": "gc4n"
+          "sourceGeohash4": "gc4n",
+          "mediumPath": "_m/g/c/4/n/cobh-wp/annie-moore-statue-by-by-jeann-medium.webp",
+          "smallPath": "_m/g/c/4/n/cobh-wp/annie-moore-statue-by-by-jeann-small.webp"
         },
         {
           "path": "_m/g/c/4/n/cobh-wp/st-colman-s-cathedral-cobh.jpg",
@@ -535,7 +544,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Colman%27s_Cathedral,_Cobh.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cobh-wp",
-          "sourceGeohash4": "gc4n"
+          "sourceGeohash4": "gc4n",
+          "mediumPath": "_m/g/c/4/n/cobh-wp/st-colman-s-cathedral-cobh-medium.webp",
+          "smallPath": "_m/g/c/4/n/cobh-wp/st-colman-s-cathedral-cobh-small.webp"
         },
         {
           "path": "_m/g/c/4/n/cobh-wp/the-roaring-donkey-on-orilia-t.jpg",
@@ -550,7 +561,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Roaring_Donkey_on_Orilia_Terrace,_Cobh_-_geograph.org.uk_-_5851082.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cobh-wp",
-          "sourceGeohash4": "gc4n"
+          "sourceGeohash4": "gc4n",
+          "smallPath": "_m/g/c/4/n/cobh-wp/the-roaring-donkey-on-orilia-t-small.webp"
         },
         {
           "path": "_m/g/c/4/n/cobh-wp/cobh-deck-of-cards-12.jpg",
@@ -565,7 +577,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cobh_Deck_of_Cards_12.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cobh-wp",
-          "sourceGeohash4": "gc4n"
+          "sourceGeohash4": "gc4n",
+          "mediumPath": "_m/g/c/4/n/cobh-wp/cobh-deck-of-cards-12-medium.webp",
+          "smallPath": "_m/g/c/4/n/cobh-wp/cobh-deck-of-cards-12-small.webp"
         },
         {
           "path": "_m/g/c/4/n/cobh-wp/titanic-poster-in-the-queensto.jpg",
@@ -580,7 +594,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Titanic_poster_in_the_Queenstown_Experience_-_geograph.org.uk_-_7564546.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cobh-wp",
-          "sourceGeohash4": "gc4n"
+          "sourceGeohash4": "gc4n",
+          "mediumPath": "_m/g/c/4/n/cobh-wp/titanic-poster-in-the-queensto-medium.webp",
+          "smallPath": "_m/g/c/4/n/cobh-wp/titanic-poster-in-the-queensto-small.webp"
         },
         {
           "path": "_m/g/c/4/n/crosshaven-wp/camdenfortmeaghercorkbilletsex.jpg",
@@ -601,7 +617,9 @@
             "Camden Fort Meagher",
             "Self-published work",
             "Taken with iPhone 4S"
-          ]
+          ],
+          "mediumPath": "_m/g/c/4/n/crosshaven-wp/camdenfortmeaghercorkbilletsex-medium.webp",
+          "smallPath": "_m/g/c/4/n/crosshaven-wp/camdenfortmeaghercorkbilletsex-small.webp"
         },
         {
           "path": "_m/g/c/4/n/crosshaven-wp/camden-fort-meagher.jpg",
@@ -626,7 +644,8 @@
             "Images from Wiki Loves Monuments missing SDC location of creation",
             "Self-published work",
             "Uploaded via Campaign:wlm-ie"
-          ]
+          ],
+          "smallPath": "_m/g/c/4/n/crosshaven-wp/camden-fort-meagher-small.webp"
         },
         {
           "path": "_m/g/c/4/n/crosshaven-wp/crosshaven-st-bridgid-s-church.jpg",
@@ -651,7 +670,9 @@
             "Self-published work",
             "St Bridgid's Church (Crosshaven)",
             "Uploaded with Monumental"
-          ]
+          ],
+          "mediumPath": "_m/g/c/4/n/crosshaven-wp/crosshaven-st-bridgid-s-church-medium.webp",
+          "smallPath": "_m/g/c/4/n/crosshaven-wp/crosshaven-st-bridgid-s-church-small.webp"
         },
         {
           "path": "_m/g/c/4/n/crosshaven-wp/cork-week-sunset-flickr-mozzer.jpg",
@@ -675,7 +696,8 @@
             "Photographs taken on 2006-07-24",
             "Photos in Flickr Explore",
             "Sailboats"
-          ]
+          ],
+          "smallPath": "_m/g/c/4/n/crosshaven-wp/cork-week-sunset-flickr-mozzer-small.webp"
         },
         {
           "path": "_m/tpc/co/rk/-c/it/cork-city/corkairport2.jpg",
@@ -701,7 +723,8 @@
             "Self-published work",
             "September 2006 Ireland photographs",
             "Taken with Sony DSC-P32"
-          ]
+          ],
+          "smallPath": "_m/tpc/co/rk/-c/it/cork-city/corkairport2-small.webp"
         },
         {
           "path": "_m/tpc/co/rk/-c/it/cork-city/corkcathedralsunlight.jpg",
@@ -721,7 +744,8 @@
             "CC-BY-2.0",
             "Flickr images reviewed by FlickreviewR",
             "St Finbarre's Cathedral"
-          ]
+          ],
+          "smallPath": "_m/tpc/co/rk/-c/it/cork-city/corkcathedralsunlight-small.webp"
         },
         {
           "path": "_m/tpc/co/rk/-c/it/cork-city/glucksman2.jpg",
@@ -749,7 +773,9 @@
             "Museums in Cork",
             "Recipients of Civic Trust Awards",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/co/rk/-c/it/cork-city/glucksman2-medium.webp",
+          "smallPath": "_m/tpc/co/rk/-c/it/cork-city/glucksman2-small.webp"
         },
         {
           "path": "_m/tpc/co/rk/-c/it/cork-city/crawford-art-gallery-cork-city.jpg",
@@ -764,7 +790,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crawford_Art_Gallery,_Cork_City.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cork-city",
-          "sourceGeohash4": "gc1z"
+          "sourceGeohash4": "gc1z",
+          "mediumPath": "_m/tpc/co/rk/-c/it/cork-city/crawford-art-gallery-cork-city-medium.webp",
+          "smallPath": "_m/tpc/co/rk/-c/it/cork-city/crawford-art-gallery-cork-city-small.webp"
         },
         {
           "path": "_m/tpc/co/rk/-c/it/cork-city/barryscourt-castle-cork.jpg",
@@ -779,7 +807,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barryscourt_Castle,_Cork.JPG",
           "sourceType": "poi",
           "sourceArticleId": "cork-city",
-          "sourceGeohash4": "gc1z"
+          "sourceGeohash4": "gc1z",
+          "mediumPath": "_m/tpc/co/rk/-c/it/cork-city/barryscourt-castle-cork-medium.webp",
+          "smallPath": "_m/tpc/co/rk/-c/it/cork-city/barryscourt-castle-cork-small.webp"
         },
         {
           "path": "_m/tpc/co/rk/-c/it/cork-city/englishmarketcork.jpg",
@@ -794,7 +824,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:EnglishMarketCork.JPG",
           "sourceType": "poi",
           "sourceArticleId": "cork-city",
-          "sourceGeohash4": "gc1z"
+          "sourceGeohash4": "gc1z",
+          "mediumPath": "_m/tpc/co/rk/-c/it/cork-city/englishmarketcork-medium.webp",
+          "smallPath": "_m/tpc/co/rk/-c/it/cork-city/englishmarketcork-small.webp"
         },
         {
           "path": "_m/tpc/co/rk/-c/it/cork-city/crawford-art-gallery-cork.jpg",
@@ -809,7 +841,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crawford_Art_Gallery,_Cork.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cork-city",
-          "sourceGeohash4": "gc1z"
+          "sourceGeohash4": "gc1z",
+          "mediumPath": "_m/tpc/co/rk/-c/it/cork-city/crawford-art-gallery-cork-medium.webp",
+          "smallPath": "_m/tpc/co/rk/-c/it/cork-city/crawford-art-gallery-cork-small.webp"
         },
         {
           "path": "_m/tpc/co/rk/-c/it/cork-city/berwick-fountain-cork-city-cen.jpg",
@@ -824,7 +858,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berwick_Fountain,_Cork_City_centre.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cork-city",
-          "sourceGeohash4": "gc1z"
+          "sourceGeohash4": "gc1z",
+          "mediumPath": "_m/tpc/co/rk/-c/it/cork-city/berwick-fountain-cork-city-cen-medium.webp",
+          "smallPath": "_m/tpc/co/rk/-c/it/cork-city/berwick-fountain-cork-city-cen-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/glengarriff-co-cork-ireland.jpg",
@@ -847,7 +883,8 @@
             "Glengarriff",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/1/z/county-cork-wp/glengarriff-co-cork-ireland-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/blarneycastleview1.jpg",
@@ -869,7 +906,9 @@
             "GFDL",
             "License migration completed",
             "Views from Blarney Castle"
-          ]
+          ],
+          "mediumPath": "_m/g/c/1/z/county-cork-wp/blarneycastleview1-medium.webp",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/blarneycastleview1-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/crosshaven.jpg",
@@ -891,7 +930,9 @@
             "Flickr images reviewed by FlickreviewR",
             "Information field template with formatting",
             "Ports and harbours in the Republic of Ireland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/1/z/county-cork-wp/crosshaven-medium.webp",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/crosshaven-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/clonakilty2.jpg",
@@ -921,7 +962,8 @@
             "Self-published work",
             "Statues in County Cork",
             "Taken with Samsung 420"
-          ]
+          ],
+          "smallPath": "_m/g/c/1/z/county-cork-wp/clonakilty2-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/ballymaloe.jpg",
@@ -936,7 +978,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballymaloe.JPG",
           "sourceType": "poi",
           "sourceArticleId": "county-cork-wp",
-          "sourceGeohash4": "gc1z"
+          "sourceGeohash4": "gc1z",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/ballymaloe-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/cork-county-banner.jpg",
@@ -951,7 +994,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cork_county_banner.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-cork-wp",
-          "sourceGeohash4": "gc1z"
+          "sourceGeohash4": "gc1z",
+          "mediumPath": "_m/g/c/1/z/county-cork-wp/cork-county-banner-medium.webp",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/cork-county-banner-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/cable-car-dursey-island2.jpg",
@@ -966,7 +1011,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cable_car_dursey-Island2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-cork-wp",
-          "sourceGeohash4": "gc1z"
+          "sourceGeohash4": "gc1z",
+          "mediumPath": "_m/g/c/1/z/county-cork-wp/cable-car-dursey-island2-medium.webp",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/cable-car-dursey-island2-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/blarney-castle-2017.jpg",
@@ -981,7 +1028,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blarney_Castle_2017.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-cork-wp",
-          "sourceGeohash4": "gc1z"
+          "sourceGeohash4": "gc1z",
+          "mediumPath": "_m/g/c/1/z/county-cork-wp/blarney-castle-2017-medium.webp",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/blarney-castle-2017-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/bantry-from-above.jpg",
@@ -996,7 +1045,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bantry_From_above.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-cork-wp",
-          "sourceGeohash4": "gc1z"
+          "sourceGeohash4": "gc1z",
+          "mediumPath": "_m/g/c/1/z/county-cork-wp/bantry-from-above-medium.webp",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/bantry-from-above-small.webp"
         },
         {
           "path": "_m/g/c/1/z/county-cork-wp/county-cork-clock-gate-youghal.jpg",
@@ -1011,7 +1062,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:County_Cork_-_Clock_Gate,_Youghal_-_20170618114758.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-cork-wp",
-          "sourceGeohash4": "gc1z"
+          "sourceGeohash4": "gc1z",
+          "mediumPath": "_m/g/c/1/z/county-cork-wp/county-cork-clock-gate-youghal-medium.webp",
+          "smallPath": "_m/g/c/1/z/county-cork-wp/county-cork-clock-gate-youghal-small.webp"
         }
       ],
       "narration": [

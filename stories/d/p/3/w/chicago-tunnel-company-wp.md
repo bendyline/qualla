@@ -44,7 +44,7 @@ Located at 41.88°N, 87.63°W beneath downtown Chicago. The tunnel network is en
   - 1992 flood sequence: Merchandise Mart 5:57am, City Hall 6:02am, Fed Reserve 8:29am
   - tunnel air used for theater air conditioning
   - inspired London Post Office Railway
-- [Chicago Tunnel Company - Wikipedia](https://en.wikipedia.org/wiki/Chicago_Tunnel_Company)
+- [Chicago Tunnel Company - Wikipedia](https://en.wikipedia.org/?curid=839868)
   - 1899 construction start under telephone cable pretext confirmed
   - egg-shaped tunnels in soft blue clay confirmed
   - 1992 flood sequence timestamps confirmed

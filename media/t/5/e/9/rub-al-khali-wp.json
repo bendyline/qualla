@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/t/5/e/9/rub-al-khali-wp/hero.jpg",
-        "filename": "Rub al khali sunset Nov 2007.jpg",
-        "caption": "Rub al-Khali desert in Saudi Arabia — sunset",
-        "alt": "Rub al-Khali desert in Saudi Arabia — sunset",
-        "width": 4000,
-        "height": 3000,
+        "path": "_m/t/5/e/9/rub-al-khali-wp/rub-al-chali.jpg",
+        "filename": "Rub al-Chali.jpg",
+        "caption": "Schotterebene mit Sanddünen im Panorama",
+        "alt": "Schotterebene mit Sanddünen im Panorama",
+        "width": 25000,
+        "height": 4090,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Javierblas",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rub_al_khali_sunset_Nov_2007.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Valerie277",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rub_al-Chali.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "rub-al-khali-wp",
         "sourceGeohash4": "t5e9",
-        "categories": [
-          "Ar-Rub' Al-Khali (Saudi Arabia)",
-          "CC-BY-SA-3.0-migrated",
-          "Empty Quarter",
-          "GFDL",
-          "License migration redundant",
-          "Orange sunsets of Saudi Arabia",
-          "Self-published work",
-          "Taken with Canon PowerShot G9"
-        ]
+        "mediumPath": "_m/t/5/e/9/rub-al-khali-wp/rub-al-chali-medium.webp",
+        "smallPath": "_m/t/5/e/9/rub-al-khali-wp/rub-al-chali-small.webp"
       },
       "images": [
         {
@@ -240,7 +232,7 @@
           "smallPath": "_m/t/5/e/9/rub-al-khali-wp/empty-quarter-arabia-small.webp"
         },
         {
-          "path": "_m/t/5/e/9/rub-al-khali-wp/deserts-banner.jpg",
+          "path": "_m/tpc/de/se/rt/__/desert/deserts-banner.jpg",
           "filename": "Deserts Banner.jpg",
           "caption": "Rub' al Khali or Empty Quarter is the largest sand desert on earth.",
           "alt": "Rub' al Khali or Empty Quarter is the largest sand desert on earth.",
@@ -252,7 +244,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deserts_Banner.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "desert",
-          "sourceGeohash4": "t5e9"
+          "sourceGeohash4": "t5e9",
+          "mediumPath": "_m/tpc/de/se/rt/__/desert/deserts-banner-medium.webp",
+          "smallPath": "_m/tpc/de/se/rt/__/desert/deserts-banner-small.webp"
         },
         {
           "path": "_m/t/5/e/9/rub-al-khali-wp/rub-al-khali-desert-esa1467613.jpg",
@@ -422,7 +416,8 @@
             "PD World Wind",
             "Satellite pictures of the Namib Desert",
             "Sossusvlei"
-          ]
+          ],
+          "smallPath": "_m/tpc/de/se/rt/__/desert/namib-desert-surface-small.webp"
         },
         {
           "path": "_m/tpc/de/se/rt/__/desert/valleluna-002.jpg",
@@ -444,7 +439,9 @@
             "Media with estimated locations",
             "Truncated spurs",
             "Valle de la Luna (Chile)"
-          ]
+          ],
+          "mediumPath": "_m/tpc/de/se/rt/__/desert/valleluna-002-medium.webp",
+          "smallPath": "_m/tpc/de/se/rt/__/desert/valleluna-002-small.webp"
         },
         {
           "path": "_m/tpc/de/se/rt/__/desert/taklamakan-d43.jpg",
@@ -465,7 +462,8 @@
             "Media missing infobox template",
             "Taken with Canon PowerShot A510",
             "Taklamakan"
-          ]
+          ],
+          "smallPath": "_m/tpc/de/se/rt/__/desert/taklamakan-d43-small.webp"
         },
         {
           "path": "_m/tpc/de/se/rt/__/desert/sahara-satellite-hires.jpg",
@@ -491,7 +489,9 @@
             "PD NASA",
             "Picture of week on the Malay Wikipedia",
             "Satellite pictures of the Sahara"
-          ]
+          ],
+          "mediumPath": "_m/tpc/de/se/rt/__/desert/sahara-satellite-hires-medium.webp",
+          "smallPath": "_m/tpc/de/se/rt/__/desert/sahara-satellite-hires-small.webp"
         },
         {
           "path": "_m/tpc/de/se/rt/__/desert/omnogovilandscape.jpg",
@@ -514,7 +514,8 @@
             "Landscapes of Ömnögovi Aimag",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/de/se/rt/__/desert/omnogovilandscape-small.webp"
         },
         {
           "path": "_m/tpc/de/se/rt/__/desert/judeandesert.jpg",
@@ -536,7 +537,8 @@
             "Judean Desert",
             "License migration completed",
             "Menuha Formation"
-          ]
+          ],
+          "smallPath": "_m/tpc/de/se/rt/__/desert/judeandesert-small.webp"
         },
         {
           "path": "_m/tpc/de/se/rt/__/desert/neuquen-river-1.jpg",
@@ -559,7 +561,9 @@
             "Geography of Neuquén Province",
             "License migration redundant",
             "Neuquén River"
-          ]
+          ],
+          "mediumPath": "_m/tpc/de/se/rt/__/desert/neuquen-river-1-medium.webp",
+          "smallPath": "_m/tpc/de/se/rt/__/desert/neuquen-river-1-small.webp"
         },
         {
           "path": "_m/tpc/de/se/rt/__/desert/kalahari.png",
@@ -574,7 +578,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalahari.png",
           "sourceType": "poi",
           "sourceArticleId": "desert",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/de/se/rt/__/desert/kalahari-small.webp"
         },
         {
           "path": "_m/tpc/de/se/rt/__/desert/aguereberry-point-view-south-3.jpg",
@@ -589,7 +594,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aguereberry_Point_-_View_South_(3811736781).jpg",
           "sourceType": "poi",
           "sourceArticleId": "desert",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/de/se/rt/__/desert/aguereberry-point-view-south-3-small.webp"
         }
       ],
       "narration": [

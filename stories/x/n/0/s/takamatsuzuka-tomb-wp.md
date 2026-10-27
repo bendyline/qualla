@@ -41,7 +41,7 @@ Located at 34.46N, 135.81E in the village of Asuka, Nara Prefecture, Japan. The 
   - Shoroon Bumbagar tomb discovered and excavated in 2011 (corrected from 2012 in original text)
   - First painted tomb discovered in Mongolia, seventh-century Turkic burial
   - Murals include white tiger and azure/green dragon motifs
-- [Wikipedia - Takamatsuzuka Tomb (occupant candidates)](https://en.wikipedia.org/wiki/Takamatsuzuka_Tomb)
+- [Wikipedia - Takamatsuzuka Tomb (occupant candidates)](https://en.wikipedia.org/?curid=5177176)
   - Chamber dimensions approximately 2.65m north-south, 1.03m east-west, 1.13m high
   - Discovery: October 1970 by villagers digging hole to store ginger
   - Full excavation opened March 1972 by Nara Prefectural Kashihara Archaeological Institute

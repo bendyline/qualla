@@ -42,7 +42,7 @@ Nantucket Island sits at 41.2828N, 70.0994W, roughly 30 nm south of Cape Cod. Th
   - Great Fire July 13 1846 confirmed
   - Mayhew sold island to Coffin 1659 for thirty pounds plus two beaver hats confirmed
   - Andrea Doria collision 1956 51 killed confirmed
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Nantucket)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=62254)
   - Added an ellipsis to a compressed Philbrick quote and converted an unverifiable "bridge of whale ships" phrase to indirect speech.
 
 ## Review Notes

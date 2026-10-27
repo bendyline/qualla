@@ -32,7 +32,7 @@ Today the burial site sits enclosed by fencing at the southwest corner of 25th S
 
 ## Flight Context
 
-Located at 26.74°N, 80.06°W in West Palm Beach, Florida, near the intersection of 25th Street and Tamarind Avenue between I-95 and U.S. Route 1. The site is a small urban parcel not easily distinguished from the air, but its location in the broader West Palm Beach urban grid is identifiable. Best approached at lower altitudes. Nearest airport is Palm Beach International (KPBI), approximately 3 nm to the south. Palm Beach County Park Airport (KLNA) in Lantana is approximately 9 nm south.
+Located at 26.74°N, 80.06°W in West Palm Beach, Florida, near the intersection of 25th Street and Tamarind Avenue between I-95 and U.S. Route 1. The site is a small urban parcel not easily distinguished from the air, but its location in the broader West Palm Beach urban grid is identifiable. Best approached at lower altitudes. Nearest airport is President Donald J. Trump International Airport (KDJT, formerly Palm Beach International, KPBI), approximately 3 nm to the south. Palm Beach County Park Airport (KLNA) in Lantana is approximately 9 nm south.
 
 ## Sources
 

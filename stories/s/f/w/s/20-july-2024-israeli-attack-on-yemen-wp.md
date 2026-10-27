@@ -36,7 +36,7 @@ Coordinates: 14.830°N, 42.935°E. Hudaydah Port sits on Yemen's Red Sea coast, 
 
 ## Sources
 
-- [20 July 2024 Israeli attack on Yemen - Wikipedia](https://en.wikipedia.org/wiki/20_July_2024_Israeli_attack_on_Yemen)
+- [20 July 2024 Israeli attack on Yemen - Wikipedia](https://en.wikipedia.org/?curid=77397252)
   - At least six killed (HRW; toll rose from an initial 3), 80+ injured - note: the '12 YPC workers killed' figure belongs to the separate 29 Sept 2024 strike, not this one
   - 87 injured, most with severe burns confirmed
   - Strike on 20 July 2024 confirmed

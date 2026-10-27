@@ -41,7 +41,7 @@ Located at 28.74S, 24.75E, near Hopetown on the Orange River in the Northern Cap
 ## Sources
 
 - [Eureka Diamond - Wikipedia](https://en.wikipedia.org/?curid=24499082)
-- [Eureka Diamond - Wikipedia (fact check)](https://en.wikipedia.org/wiki/Eureka_Diamond)
+- [Eureka Diamond - Wikipedia (fact check)](https://en.wikipedia.org/?curid=24499082)
   - Erasmus Stephanus Jacobs age 15 confirmed
   - Discovery 1867 near Hopetown on Orange River confirmed
   - Original weight 21.25 carats confirmed

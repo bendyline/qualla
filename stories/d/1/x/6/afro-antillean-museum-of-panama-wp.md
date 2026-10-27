@@ -39,7 +39,7 @@ Located at 8.963N, 79.539W in Panama City's El Maranon neighborhood, near the Pa
   - Silver Roll segregated pay system documented confirmed
   - Law 43 (2017) transferred property to National Institute of Culture confirmed
   - 2,408 square meter plot including building, garden, and outbuildings confirmed
-- [Gold Roll and Silver Roll - Panama Canal era](https://en.wikipedia.org/wiki/Afro-Antillean_Museum_of_Panama)
+- [Gold Roll and Silver Roll - Panama Canal era](https://en.wikipedia.org/?curid=51453526)
   - Gold Roll (U.S. citizens, paid in gold/USD) vs Silver Roll (West Indian workers, paid in local currency) system confirmed
   - Workers recruited from Barbados, Jamaica, Trinidad, Martinique confirmed
 

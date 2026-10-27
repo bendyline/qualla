@@ -36,7 +36,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/m/x/rhuddlan-castle-wp/photo-listed-building.jpg",
+          "path": "_m/g/c/k/v/criccieth-castle-wp/photo-listed-building.jpg",
           "filename": "SDJ Harlech Castle Gatehouse.jpg",
           "caption": "This is a photo of listed building number",
           "alt": "This is a photo of listed building number",
@@ -56,7 +56,8 @@
             "License migration completed",
             "Listed buildings in Wales with known IDs",
             "Taken with Canon PowerShot A300"
-          ]
+          ],
+          "smallPath": "_m/g/c/k/v/criccieth-castle-wp/photo-listed-building-small.webp"
         },
         {
           "path": "_m/g/c/m/x/rhuddlan-castle-wp/daguerreotype-view-rhu.jpg",
@@ -207,7 +208,8 @@
             "Rhuddlan Castle",
             "Self-published work",
             "Taken with Canon PowerShot A610"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/x/rhuddlan-wp/franceenglandcard2-1072-small.webp"
         },
         {
           "path": "_m/tpc/de/nb/ig/hs/denbighshire/benkid77-church-street-flint-2.jpg",
@@ -233,7 +235,8 @@
             "Self-published work",
             "Streets in Flintshire",
             "Taken with Fujifilm Axia iX-100"
-          ]
+          ],
+          "smallPath": "_m/tpc/de/nb/ig/hs/denbighshire/benkid77-church-street-flint-2-small.webp"
         },
         {
           "path": "_m/tpc/de/nb/ig/hs/denbighshire/llandudno-junction-railway-sta.jpg",
@@ -262,7 +265,9 @@
             "Quality images",
             "Quality images of Conwy County Borough",
             "Quality images of rolling stock and railways in Wales"
-          ]
+          ],
+          "mediumPath": "_m/tpc/de/nb/ig/hs/denbighshire/llandudno-junction-railway-sta-medium.webp",
+          "smallPath": "_m/tpc/de/nb/ig/hs/denbighshire/llandudno-junction-railway-sta-small.webp"
         },
         {
           "path": "_m/g/c/m/m/north-wales-wp/afon-ddyfrdwy-yn-llangollen-ri.jpg",
@@ -277,7 +282,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Afon_Ddyfrdwy_yn_Llangollen_-_River_Dee_flowing_through_Llangollen;_June_2023;_AONB_08.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-wales-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/g/c/m/m/north-wales-wp/afon-ddyfrdwy-yn-llangollen-ri-medium.webp",
+          "smallPath": "_m/g/c/m/m/north-wales-wp/afon-ddyfrdwy-yn-llangollen-ri-small.webp"
         },
         {
           "path": "_m/tpc/de/nb/ig/hs/denbighshire/bodfari-bryniau-clwyd-a-dyffry.jpg",
@@ -292,7 +299,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bodfari,_Bryniau_Clwyd_a_Dyffryn_Clwyd_gyda_dron_-_Bodfari_and_the_Vale_of_Clwyd,_Denbighshire,_Cymru_(Wales)_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "denbighshire",
-          "sourceGeohash4": "tpc/de/nb/ig/hs"
+          "sourceGeohash4": "tpc/de/nb/ig/hs",
+          "mediumPath": "_m/tpc/de/nb/ig/hs/denbighshire/bodfari-bryniau-clwyd-a-dyffry-medium.webp",
+          "smallPath": "_m/tpc/de/nb/ig/hs/denbighshire/bodfari-bryniau-clwyd-a-dyffry-small.webp"
         }
       ],
       "videos": [

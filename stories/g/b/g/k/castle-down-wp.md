@@ -53,7 +53,7 @@ Castle Down occupies the northern half of Tresco at 49.96 N, 6.34 W, a 35-metre 
   - Gun platform added around 1739 during War of Jenkins' Ear
   - Built on foundation of sixteenth-century blockhouse
   - Both castles are English Heritage sites
-- [Piper's Hole - Castle Down Wikipedia](https://en.wikipedia.org/wiki/Castle_Down)
+- [Piper's Hole - Castle Down Wikipedia](https://en.wikipedia.org/?curid=37740502)
   - Springtail Onychiurus argus found new to Britain in 1993 by Peter and Myrtle Ashmore
   - Previously recorded in Belgium, France and Spain but not British Isles
 

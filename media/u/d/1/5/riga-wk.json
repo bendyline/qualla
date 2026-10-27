@@ -12,20 +12,30 @@
         "_m/u/d/1/5/riga-wk/ud15-riga-the-river.mp3"
       ],
       "hero": {
-        "path": "_m/u/d/1/5/riga-wp/riga-1612-panorama-by-heinrich.jpg",
-        "filename": "Riga 1612 panorama by Heinrich Thum.jpg",
-        "caption": "Panorama of the city of Riga in 1612.",
-        "alt": "Panorama of the city of Riga in 1612.",
-        "width": 4443,
-        "height": 1984,
+        "path": "_m/u/d/1/5/riga-wk/hero.jpg",
+        "filename": "Riga centralstation.jpg",
+        "caption": "Impressions of Riga, Central Train Station",
+        "alt": "Impressions of Riga, Central Train Station",
+        "width": 3264,
+        "height": 2448,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Heinrich Thum; Nicolaus Mollin Typography (Printed by Nikolaus Mollyn). \"Mollyn was able to prepare books in two-color printing (red and black). He used not only high-quality paper, but also printed on parchment. The activities of the first known Riga bookbinders are associated with Mollyns' printing house. The first and for a long time the only bookstore in Riga operated at Mollyns' printing house on Krāmu Street. Mollyn printed images in woodcut, copper engraving, etching techniques and thus established the beginnings of book graphics and printed graphics as an art genre in Riga. In 1602, the first Riga copper engraver, Heinrich Thum, began working at Mollyn's printing house. The Riga panoramas (1589, 1625) and the surrounding area plan (1622) printed in Mollyn' printing house are the first city views drawn in Riga on the spot (in situ) and published there. Mollyn provided and commissioned a unique large-scale copper engraving – the Riga Panorama of 1612, and the first Riga bookplates were also printed (1602, 1605).\"",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riga_1612_panorama_by_Heinrich_Thum.jpg",
-        "sourceType": "sibling",
-        "sourceArticleId": "riga-wp",
+        "license": "CC BY-SA 3.0",
+        "artist": "Philipp Hertzog",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riga_centralstation.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "riga-wk",
         "sourceGeohash4": "ud15",
         "accessedAt": "2026-02-22T15:15:39.463Z",
+        "categories": [
+          "CC-BY-SA-3.0",
+          "GFDL",
+          "Latvia photographs taken on 2009-08-06",
+          "Latvian Academy of Sciences (building)",
+          "License migration redundant",
+          "Platforms of Riga Central train station",
+          "Self-published work",
+          "Taken with Canon PowerShot A650 IS"
+        ],
         "mediumPath": "_m/u/d/1/5/riga-wk/hero-medium.webp",
         "smallPath": "_m/u/d/1/5/riga-wk/hero-small.webp"
       },
@@ -331,8 +341,8 @@
             "Self-published work",
             "Taken with Canon PowerShot A650 IS"
           ],
-          "mediumPath": "_m/u/d/1/5/riga-wk/hero-medium.jpg",
-          "smallPath": "_m/u/d/1/5/riga-wk/hero-small.jpg"
+          "mediumPath": "_m/u/d/1/5/riga-wk/hero-medium.webp",
+          "smallPath": "_m/u/d/1/5/riga-wk/hero-small.webp"
         },
         {
           "path": "_m/u/6/n/c/liep-ja-massacres-wp/location-map-latvia.jpg",
@@ -348,7 +358,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "liep-ja-massacres-wp",
           "sourceGeohash4": "ud15",
-          "accessedAt": "2026-02-22T15:15:39.463Z"
+          "accessedAt": "2026-02-22T15:15:39.463Z",
+          "smallPath": "_m/u/6/n/c/liep-ja-massacres-wp/location-map-latvia-small.webp"
         },
         {
           "path": "_m/u/d/1/5/riga-wp/sergei-eisenstein-03.jpg",
@@ -650,7 +661,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "bruges-wp",
           "sourceGeohash4": "ud15",
-          "accessedAt": "2026-02-22T15:15:39.463Z"
+          "accessedAt": "2026-02-22T15:15:39.463Z",
+          "mediumPath": "_m/u/1/4/7/bruges-wp/hansestadt-lubeck-tatiana-yagu-medium.webp",
+          "smallPath": "_m/u/1/4/7/bruges-wp/hansestadt-lubeck-tatiana-yagu-small.webp"
         },
         {
           "path": "_m/u/d/1/5/riga-wp/bank-of-latvia-01.jpg",
@@ -898,7 +911,9 @@
             "Riga in the 19th century",
             "Riga on photochrome prints",
             "Template Unknown (author)"
-          ]
+          ],
+          "mediumPath": "_m/tpc/_ho/ri/ga/__/history-of-riga/riga-old-medium.webp",
+          "smallPath": "_m/tpc/_ho/ri/ga/__/history-of-riga/riga-old-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ri/ga/__/history-of-riga/riga-woodcut-1575.gif",
@@ -929,7 +944,9 @@
             "PD-old missing SDC copyright status",
             "Riga in art",
             "Sebastian Münster"
-          ]
+          ],
+          "mediumPath": "_m/tpc/_ho/ri/ga/__/history-of-riga/riga-woodcut-1575-medium.gif",
+          "smallPath": "_m/tpc/_ho/ri/ga/__/history-of-riga/riga-woodcut-1575-small.gif"
         },
         {
           "path": "_m/tpc/_ho/ri/ga/__/history-of-riga/latvia-riga-cathedral-weather-.jpg",
@@ -958,7 +975,9 @@
             "User:Wojsyl/Latvia",
             "Weathercocks",
             "Weathercocks in Latvia"
-          ]
+          ],
+          "mediumPath": "_m/tpc/_ho/ri/ga/__/history-of-riga/latvia-riga-cathedral-weather--medium.webp",
+          "smallPath": "_m/tpc/_ho/ri/ga/__/history-of-riga/latvia-riga-cathedral-weather--small.webp"
         },
         {
           "path": "_m/tpc/_ho/ri/ga/__/history-of-riga/riga-26-dom-church-courtyard.jpg",
@@ -974,7 +993,8 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-riga",
           "sourceGeohash4": "tpc/_ho/ri/ga/__",
-          "accessedAt": "2026-02-22T15:15:39.463Z"
+          "accessedAt": "2026-02-22T15:15:39.463Z",
+          "smallPath": "_m/tpc/_ho/ri/ga/__/history-of-riga/riga-26-dom-church-courtyard-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ri/ga/__/history-of-riga/rigaskyline.jpg",
@@ -990,7 +1010,9 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-riga",
           "sourceGeohash4": "tpc/_ho/ri/ga/__",
-          "accessedAt": "2026-02-22T15:15:39.463Z"
+          "accessedAt": "2026-02-22T15:15:39.463Z",
+          "mediumPath": "_m/tpc/_ho/ri/ga/__/history-of-riga/rigaskyline-medium.webp",
+          "smallPath": "_m/tpc/_ho/ri/ga/__/history-of-riga/rigaskyline-small.webp"
         }
       ],
       "combinedNarration": "_m/u/d/1/5/riga-wk/ud15-riga-combined.mp3",

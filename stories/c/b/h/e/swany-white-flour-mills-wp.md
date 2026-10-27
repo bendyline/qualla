@@ -45,7 +45,7 @@ Located at 45.662N, 94.688W in the agricultural flatlands of Stearns County, cen
   - National Register of Historic Places in 1980 confirmed
   - Fire damage estimated at $850,000 confirmed
 - [Fire destroys iconic Freeport flour mill - St. Cloud Times](http://www.sctimes.com/article/20111228/NEWS01/112270034/Fire-destroys-iconic-Freeport-flour-mill)
-- [Swany White Flour Mills - Wikipedia](https://en.wikipedia.org/wiki/Swany_White_Flour_Mills)
+- [Swany White Flour Mills - Wikipedia](https://en.wikipedia.org/?curid=13583352)
   - Anton Hoeschen built original mill 1898 confirmed
   - Thelen brothers purchased 1903 confirmed
   - Faith Best flour brand 60 percent of sales confirmed

@@ -3,29 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/7/5/g/tam-toa-church-wp/hero.jpg",
-        "filename": "TamToa.jpg",
-        "caption": "Tam Toa Church in Dong Hoi, Quang Binh, Vietnam",
-        "alt": "Tam Toa Church in Dong Hoi, Quang Binh, Vietnam",
-        "width": 3264,
-        "height": 2448,
+        "path": "_m/w/7/5/g/tam-toa-church-wp/tam-toa-church-dong-hoi.jpg",
+        "filename": "Tam Toa Church, Dong Hoi.jpg",
+        "caption": "Tam Toa Church in Dong Hoi City, Quang Binh Province.",
+        "alt": "Tam Toa Church in Dong Hoi City, Quang Binh Province.",
+        "width": 3456,
+        "height": 2304,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Toanvungtau",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:TamToa.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Michael Anranter",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tam_Toa_Church,_Dong_Hoi.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "tam-toa-church-wp",
         "sourceGeohash4": "w75g",
         "categories": [
-          "PD-self",
-          "Self-published work",
-          "Taken with Canon Digital IXUS 860 IS",
+          "CC-BY-SA-2.0",
+          "Flickr images uploaded by Flickr upload bot",
+          "Taken with Nikon D3100",
           "Tam Tòa Church"
-        ]
+        ],
+        "mediumPath": "_m/w/7/5/g/tam-toa-church-wp/tam-toa-church-dong-hoi-medium.webp",
+        "smallPath": "_m/w/7/5/g/tam-toa-church-wp/tam-toa-church-dong-hoi-small.webp"
       },
       "images": [
         {
-          "path": "_m/w/7/5/g/tam-toa-church-wp/nhathocoquangbinh.jpg",
+          "path": "_m/tpc/tu/y-/ho/a_/tuy-hoa/nhathocoquangbinh.jpg",
           "filename": "Nhathocoquangbinh.jpg",
           "caption": "Tam Toa Church",
           "alt": "Tam Toa Church",
@@ -41,7 +43,8 @@
           "categories": [
             "PD-user",
             "Tam Tòa Church"
-          ]
+          ],
+          "smallPath": "_m/tpc/tu/y-/ho/a_/tuy-hoa/nhathocoquangbinh-small.webp"
         },
         {
           "path": "_m/w/7/5/g/tam-toa-church-wp/tam-toa-church-dong-hoi.jpg",
@@ -135,7 +138,8 @@
             "Dong Hoi Station",
             "Files from Chris Yunker Flickr stream",
             "Flickr images uploaded by Flickr upload bot"
-          ]
+          ],
+          "smallPath": "_m/tpc/on/g-/ho/i_/ong-hoi/ga-dong-hoi-small.webp"
         },
         {
           "path": "_m/tpc/on/g-/ho/i_/ong-hoi/bao-ninh-beach.jpg",
@@ -157,7 +161,9 @@
             "Dong Hoi",
             "Self-published work",
             "Taken with Canon PowerShot A3150 IS"
-          ]
+          ],
+          "mediumPath": "_m/tpc/on/g-/ho/i_/ong-hoi/bao-ninh-beach-medium.webp",
+          "smallPath": "_m/tpc/on/g-/ho/i_/ong-hoi/bao-ninh-beach-small.webp"
         }
       ],
       "narration": [

@@ -52,7 +52,7 @@ Located at 30.02N, 89.92W in New Orleans East, the massive Michoud complex is un
   - February 7, 2017 EF3 tornado confirmed
   - Five people injured confirmed
   - Contributed to SLS launch delay to late 2022 confirmed
-- [Michoud Assembly Facility - Wikipedia](https://en.wikipedia.org/wiki/Michoud_Assembly_Facility)
+- [Michoud Assembly Facility - Wikipedia](https://en.wikipedia.org/?curid=1247115)
   - Andrew Jackson Higgins built original facility confirmed
   - C-76 production never materialized, two C-46 Commando produced confirmed
   - $180 million cost confirmed

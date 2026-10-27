@@ -3,29 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/b/3/0/bitung-wp/hero.jpg",
-        "filename": "Bitung Pelabuhan Samudera and Cooking Oil.JPG",
-        "caption": "Port of Bitung, North Sulawesi, Indonesia",
-        "alt": "Port of Bitung, North Sulawesi, Indonesia",
-        "width": 3550,
-        "height": 2376,
+        "path": "_m/w/b/3/0/bitung-wp/pulau-serena-besar-di.jpg",
+        "filename": "Pulau Serena Besar.jpg",
+        "caption": "Pulau Serena Besar di Selat Lembeh, Bitung, Sulawesi Utara, Indonesia.",
+        "alt": "Pulau Serena Besar di Selat Lembeh, Bitung, Sulawesi Utara, Indonesia.",
+        "width": 4000,
+        "height": 2250,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.5",
-        "artist": "Sakurai Midori",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bitung_Pelabuhan_Samudera_and_Cooking_Oil.JPG",
+        "license": "CC BY-SA 4.0",
+        "artist": "Marwan Mohamad",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pulau_Serena_Besar.jpg",
         "sourceType": "core",
         "sourceArticleId": "bitung-wp",
         "sourceGeohash4": "wb30",
         "categories": [
-          "Bitung",
-          "CC-BY-2.5",
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "License migration redundant",
-          "Ports and harbours in Sulawesi",
-          "Self-published work",
-          "Taken with Sony DSLR-A200"
-        ]
+          "CC-BY-SA-4.0",
+          "Files with coordinates missing SDC location of creation",
+          "Islands of Indonesia",
+          "Nature of Bitung",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/w/b/3/0/bitung-wp/pulau-serena-besar-di-medium.webp",
+        "smallPath": "_m/w/b/3/0/bitung-wp/pulau-serena-besar-di-small.webp"
       },
       "images": [
         {
@@ -465,7 +464,8 @@
             "Sulawesi Lowland Rain Forests",
             "Taken with Canon EOS-1D Mark II",
             "Tangkoko Batuangus Nature Reserve"
-          ]
+          ],
+          "smallPath": "_m/q/x/q/c/sulawesi-lowland-rain-forests-wp/hero-small.webp"
         },
         {
           "path": "_m/w/b/2/b/manado-wp/ban-hin-kiong.jpg",
@@ -491,7 +491,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Fujifilm FinePix F31fd"
-          ]
+          ],
+          "mediumPath": "_m/w/b/2/b/manado-wp/ban-hin-kiong-medium.webp",
+          "smallPath": "_m/w/b/2/b/manado-wp/ban-hin-kiong-small.webp"
         },
         {
           "path": "_m/w/b/2/b/manado-wp/food-tinutuan.jpg",
@@ -517,7 +519,9 @@
             "Self-published work",
             "Taken with Nikon D70",
             "Tinutuan"
-          ]
+          ],
+          "mediumPath": "_m/w/b/2/b/manado-wp/food-tinutuan-medium.webp",
+          "smallPath": "_m/w/b/2/b/manado-wp/food-tinutuan-small.webp"
         },
         {
           "path": "_m/w/b/2/b/manado-wp/megamall-manado-building.jpg",
@@ -564,7 +568,8 @@
             "Photographs taken on 2005-05-22",
             "Self-published work",
             "Taken with Canon Digital IXUS 40"
-          ]
+          ],
+          "smallPath": "_m/q/x/w/h/sulawesi-wk/bunaken2-small.webp"
         },
         {
           "path": "_m/w/b/2/9/bunaken-wk/bunaken-marine-park.jpg",
@@ -589,7 +594,9 @@
             "License migration completed",
             "Self-published work",
             "Taken with Fujifilm FinePix F31fd"
-          ]
+          ],
+          "mediumPath": "_m/w/b/2/9/bunaken-wk/bunaken-marine-park-medium.webp",
+          "smallPath": "_m/w/b/2/9/bunaken-wk/bunaken-marine-park-small.webp"
         },
         {
           "path": "_m/q/x/w/h/sulawesi-wk/governor-office-of-gorontalo-p.jpg",
@@ -615,7 +622,9 @@
             "Media needing category review with 2 suggested categories",
             "Self-published work",
             "Taken with Sony DSLR-A200"
-          ]
+          ],
+          "mediumPath": "_m/q/x/w/h/sulawesi-wk/governor-office-of-gorontalo-p-medium.webp",
+          "smallPath": "_m/q/x/w/h/sulawesi-wk/governor-office-of-gorontalo-p-small.webp"
         },
         {
           "path": "_m/q/x/w/h/sulawesi-wk/tompaluan130910.jpg",
@@ -635,7 +644,9 @@
             "2013 eruptions in Indonesia",
             "CC-BY-SA-3.0",
             "Eruption columns in Indonesia"
-          ]
+          ],
+          "mediumPath": "_m/q/x/w/h/sulawesi-wk/tompaluan130910-medium.webp",
+          "smallPath": "_m/q/x/w/h/sulawesi-wk/tompaluan130910-small.webp"
         },
         {
           "path": "_m/q/x/w/h/sulawesi-wk/babirusa-mainunggu.jpg",
@@ -650,7 +661,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Babirusa_Mainunggu.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sulawesi-wk",
-          "sourceGeohash4": "wb0z"
+          "sourceGeohash4": "wb0z",
+          "mediumPath": "_m/q/x/w/h/sulawesi-wk/babirusa-mainunggu-medium.webp",
+          "smallPath": "_m/q/x/w/h/sulawesi-wk/babirusa-mainunggu-small.webp"
         },
         {
           "path": "_m/w/b/0/z/north-sulawesi-wp/pemandangankotamobagubarat.jpg",
@@ -665,7 +678,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:PemandanganKotamobaguBarat.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-sulawesi-wp",
-          "sourceGeohash4": "wb0z"
+          "sourceGeohash4": "wb0z",
+          "mediumPath": "_m/w/b/0/z/north-sulawesi-wp/pemandangankotamobagubarat-medium.webp",
+          "smallPath": "_m/w/b/0/z/north-sulawesi-wp/pemandangankotamobagubarat-small.webp"
         },
         {
           "path": "_m/w/b/0/z/north-sulawesi-wp/desa-modisi.jpg",
@@ -680,7 +695,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Desa_modisi.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-sulawesi-wp",
-          "sourceGeohash4": "wb0z"
+          "sourceGeohash4": "wb0z",
+          "smallPath": "_m/w/b/0/z/north-sulawesi-wp/desa-modisi-small.webp"
         },
         {
           "path": "_m/q/x/w/h/sulawesi-wk/bangkaisland-sulawesi-s2-2022.png",
@@ -695,7 +711,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BangkaIsland_Sulawesi_S2_2022.png",
           "sourceType": "poi",
           "sourceArticleId": "sulawesi-wk",
-          "sourceGeohash4": "wb0z"
+          "sourceGeohash4": "wb0z",
+          "smallPath": "_m/q/x/w/h/sulawesi-wk/bangkaisland-sulawesi-s2-2022-small.webp"
         }
       ],
       "narration": [

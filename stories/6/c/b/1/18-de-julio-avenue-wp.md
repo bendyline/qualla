@@ -42,7 +42,7 @@ Avenida 18 de Julio runs through central Montevideo near 34.91°S, 56.19°W, on 
   - Tallest building in South America at inauguration confirmed
   - Designed by Italian architect Mario Palanti confirmed
   - Near-twin Palacio Barolo in Buenos Aires confirmed
-- [Statue of Peace, Plaza Cagancha](https://en.wikipedia.org/wiki/18_de_Julio_Avenue)
+- [Statue of Peace, Plaza Cagancha](https://en.wikipedia.org/?curid=13447496)
   - Statue of Peace 17 meters tall inaugurated 1867 plausible
   - Kilometer zero of Uruguay set at Plaza Cagancha confirmed
 

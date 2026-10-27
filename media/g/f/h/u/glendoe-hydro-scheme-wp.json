@@ -3,30 +3,34 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/h/u/glendoe-hydro-scheme-wp/hero.jpg",
-        "filename": "Highland UK relief location map.jpg",
-        "caption": "Relief map of Highland, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 6.9W\nEast: 2.9W\nNorth: 58.8N\nSouth: 56.4N",
-        "alt": "Relief map of Highland, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 6.9W\nEast: 2.9W\nNorth: 58.8N\nSouth: 56.4N",
-        "width": 2000,
-        "height": 2159,
+        "path": "_m/g/f/h/u/glendoe-hydro-scheme-wp/digger-on-meallon-odhar-geogra.jpg",
+        "filename": "Digger on Meallon Odhar - geograph.org.uk - 806544.jpg",
+        "caption": "Digger on Meallon Odhar The digger seemed to be building new Hydro works on road above one coming from Stronelairg Lodge up Coire an Eich. Tree lined Allt Coire an Eich can be seen in foreground, Coire an Eich road above then new road with digger.",
+        "alt": "Digger on Meallon Odhar The digger seemed to be building new Hydro works on road above one coming from Stronelairg Lodge up Coire an Eich. Tree lined Allt Coire an Eich can be seen in foreground, Coire an Eich road above then new road with digger.",
+        "width": 640,
+        "height": 480,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Nilfanion, created using Ordnance Survey data",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Highland_UK_relief_location_map.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Sarah McGuire",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Digger_on_Meallon_Odhar_-_geograph.org.uk_-_806544.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "glendoe-hydro-scheme-wp",
         "sourceGeohash4": "gfhu",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Maps by Nilfanion",
-          "Maps of Highland council area",
-          "Ordnance Survey Boundary Line maps",
-          "Topographic maps of Scotland"
-        ]
+          "Allt Coire an Eich",
+          "CC-BY-SA-2.0",
+          "Glendoe hydro-electric scheme",
+          "Images by Sarah McGuire",
+          "Images from Geograph Britain and Ireland",
+          "Information field template with formatting",
+          "Media needing category review as of 27 May 2017",
+          "United Kingdom photographs taken on 2008-05-16"
+        ],
+        "smallPath": "_m/g/f/h/u/glendoe-hydro-scheme-wp/digger-on-meallon-odhar-geogra-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/h/u/glendoe-hydro-scheme-wp/a-hydro-scheme-under-construct.jpg",
+          "path": "_m/g/f/h/v/loch-ness-wk/a-hydro-scheme-under-construct.jpg",
           "filename": "A hydro scheme under construction on Loch Ness - geograph.org.uk - 758542.jpg",
           "caption": "A hydro scheme under construction on Loch Ness",
           "alt": "A hydro scheme under construction on Loch Ness",
@@ -48,7 +52,8 @@
             "Information field template with formatting",
             "Loch Ness",
             "United Kingdom photographs taken on 2008-04-09"
-          ]
+          ],
+          "smallPath": "_m/g/f/h/v/loch-ness-wk/a-hydro-scheme-under-construct-small.webp"
         },
         {
           "path": "_m/g/f/h/u/glendoe-hydro-scheme-wp/digger-on-meallon-odhar-geogra.jpg",
@@ -235,7 +240,9 @@
             "Fort Augustus Lighthouse",
             "Images from Geograph Britain and Ireland",
             "Loch Ness"
-          ]
+          ],
+          "mediumPath": "_m/tpc/fo/rt/-a/ug/fort-augustus/lighthouse-loch-ness-geograph--medium.webp",
+          "smallPath": "_m/tpc/fo/rt/-a/ug/fort-augustus/lighthouse-loch-ness-geograph--small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/oban-harbour-14839d.jpg",
@@ -257,7 +264,8 @@
             "Isle of Mull (ship, 1988)",
             "License migration completed",
             "Oban harbour"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/oban-harbour-14839d-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/bute-satellite.jpg",
@@ -278,7 +286,8 @@
             "Landsat images of the United Kingdom",
             "NASA World Wind",
             "PD World Wind"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/bute-satellite-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden.jpg",
@@ -302,7 +311,9 @@
             "PD-Art (PD-old-auto-expired)",
             "PD-old-100-expired",
             "Paintings without Wikidata item"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j.jpg",
@@ -321,7 +332,9 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Eilean Donan Castle viewed from south"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/scottish-highlands-wv-region-m.png",
@@ -336,7 +349,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scottish_Highlands_WV_region_map_EN.png",
           "sourceType": "poi",
           "sourceArticleId": "scottish-highlands-wp",
-          "sourceGeohash4": "gfhs"
+          "sourceGeohash4": "gfhs",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/scottish-highlands-wv-region-m-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr.jpg",
@@ -351,7 +365,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:62005_Glenfinnan_Viaduct_-_geograph.org.uk_-_2308595.jpg",
           "sourceType": "poi",
           "sourceArticleId": "scottish-highlands-wp",
-          "sourceGeohash4": "gfhs"
+          "sourceGeohash4": "gfhs",
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr-small.webp"
         },
         {
           "path": "_m/tpc/lo/ch/-n/es/loch-ness/caledonian-canal.jpg",
@@ -375,7 +391,9 @@
             "License migration redundant",
             "PD-author",
             "Taken with Canon PowerShot A530"
-          ]
+          ],
+          "mediumPath": "_m/tpc/lo/ch/-n/es/loch-ness/caledonian-canal-medium.webp",
+          "smallPath": "_m/tpc/lo/ch/-n/es/loch-ness/caledonian-canal-small.webp"
         },
         {
           "path": "_m/tpc/lo/ch/-n/es/loch-ness/scotland-urquhart-castle1.jpg",
@@ -401,7 +419,9 @@
             "Self-published work",
             "Taken with Canon PowerShot A530",
             "Urquhart Castle"
-          ]
+          ],
+          "mediumPath": "_m/tpc/lo/ch/-n/es/loch-ness/scotland-urquhart-castle1-medium.webp",
+          "smallPath": "_m/tpc/lo/ch/-n/es/loch-ness/scotland-urquhart-castle1-small.webp"
         },
         {
           "path": "_m/tpc/lo/ch/-n/es/loch-ness/loch-ness-steamer.jpg",
@@ -429,7 +449,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot A530"
-          ]
+          ],
+          "mediumPath": "_m/tpc/lo/ch/-n/es/loch-ness/loch-ness-steamer-medium.webp",
+          "smallPath": "_m/tpc/lo/ch/-n/es/loch-ness/loch-ness-steamer-small.webp"
         },
         {
           "path": "_m/tpc/lo/ch/-n/es/loch-ness/urquhart-castle-2499058382.jpg",
@@ -450,7 +472,9 @@
             "Files with coordinates missing SDC location of creation",
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Photographs by Bert Kaufmann"
-          ]
+          ],
+          "mediumPath": "_m/tpc/lo/ch/-n/es/loch-ness/urquhart-castle-2499058382-medium.webp",
+          "smallPath": "_m/tpc/lo/ch/-n/es/loch-ness/urquhart-castle-2499058382-small.webp"
         },
         {
           "path": "_m/tpc/lo/ch/-n/es/loch-ness/2018-07-11-schottland-39.jpg",
@@ -465,7 +489,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2018_07_11_Schottland_(39).jpg",
           "sourceType": "poi",
           "sourceArticleId": "loch-ness",
-          "sourceGeohash4": "gfhv"
+          "sourceGeohash4": "gfhv",
+          "mediumPath": "_m/tpc/lo/ch/-n/es/loch-ness/2018-07-11-schottland-39-medium.webp",
+          "smallPath": "_m/tpc/lo/ch/-n/es/loch-ness/2018-07-11-schottland-39-small.webp"
         },
         {
           "path": "_m/tpc/lo/ch/-n/es/loch-ness/loch-ness-42064602492.jpg",
@@ -480,7 +506,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Loch_Ness_(42064602492).jpg",
           "sourceType": "poi",
           "sourceArticleId": "loch-ness",
-          "sourceGeohash4": "gfhv"
+          "sourceGeohash4": "gfhv",
+          "mediumPath": "_m/tpc/lo/ch/-n/es/loch-ness/loch-ness-42064602492-medium.webp",
+          "smallPath": "_m/tpc/lo/ch/-n/es/loch-ness/loch-ness-42064602492-small.webp"
         }
       ],
       "narration": [

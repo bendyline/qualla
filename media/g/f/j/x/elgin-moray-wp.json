@@ -3,33 +3,34 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/j/x/elgin-moray-wp/hero.jpg",
-        "filename": "Elgin cathedral 2.jpg",
-        "caption": "View of Elgin Cathedral with River Lossie in foreground. Taken by Bill Reid.",
-        "alt": "View of Elgin Cathedral with River Lossie in foreground. Taken by Bill Reid.",
-        "width": 2576,
-        "height": 1932,
+        "path": "_m/g/f/j/x/elgin-moray-wp/360-degree-panorama-el.jpg",
+        "filename": "Elgin Panorama 01.jpg",
+        "caption": "A 360 degree panorama of Elgin, from the northern spire of Elgin Cathedral.",
+        "alt": "A 360 degree panorama of Elgin, from the northern spire of Elgin Cathedral.",
+        "width": 27521,
+        "height": 3290,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Billreid at English Wikipedia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elgin_cathedral_2.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Spike",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elgin_Panorama_01.jpg",
         "sourceType": "core",
         "sourceArticleId": "elgin-moray-wp",
         "sourceGeohash4": "gfjx",
         "categories": [
-          "August 2006 in Moray",
-          "CC-BY-SA-2.5,2.0,1.0",
-          "CC-BY-SA-3.0-migrated-with-disclaimers",
+          "CC-BY-SA-4.0",
           "Elgin Cathedral",
-          "GFDL-en",
-          "License migration completed",
-          "Self-published work",
-          "Taken with Kodak EasyShare Z740"
-        ]
+          "Files with coordinates missing SDC location of creation",
+          "Large images",
+          "October 2018 in Moray",
+          "Panoramics of Elgin, Moray",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/g/f/j/x/elgin-moray-wp/360-degree-panorama-el-medium.webp",
+        "smallPath": "_m/g/f/j/x/elgin-moray-wp/360-degree-panorama-el-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/j/x/elgin-moray-wp/scotlandmoray.png",
+          "path": "_m/g/f/j/r/forres-wp/scotlandmoray.png",
           "filename": "ScotlandMoray.png",
           "alt": "ScotlandMoray.png",
           "width": 2733,
@@ -49,7 +50,9 @@
             "Maps of Moray",
             "Media missing infobox template",
             "Vector version available"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/r/forres-wp/scotlandmoray-medium.webp",
+          "smallPath": "_m/g/f/j/r/forres-wp/scotlandmoray-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-moray-wp/360-degree-panorama-el.jpg",
@@ -130,7 +133,7 @@
           "smallPath": "_m/g/f/j/x/elgin-moray-wp/panoramic-view-elgin-s-small.webp"
         },
         {
-          "path": "_m/g/f/j/x/elgin-moray-wp/elgin-cathedral-from-newmill-r.jpg",
+          "path": "_m/g/f/j/w/moray-wk/elgin-cathedral-from-newmill-r.jpg",
           "filename": "Elgin Cathedral from Newmill Road.jpg",
           "caption": "The historic ruins of Elgin Cathedral, dating back to the 13th century, was once the seat of the Bishop of Moray. The photograph is taken from the south-west on Newmill Road, next to the Landshut bridge.",
           "alt": "The historic ruins of Elgin Cathedral, dating back to the 13th century, was once the seat of the Bishop of Moray. The photograph is taken from the south-west on Newmill Road, next to the Landshut bridge.",
@@ -142,7 +145,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elgin_Cathedral_from_Newmill_Road.jpg",
           "sourceType": "core",
           "sourceArticleId": "elgin-moray-wp",
-          "sourceGeohash4": "gfjx"
+          "sourceGeohash4": "gfjx",
+          "mediumPath": "_m/g/f/j/w/moray-wk/elgin-cathedral-from-newmill-r-medium.webp",
+          "smallPath": "_m/g/f/j/w/moray-wk/elgin-cathedral-from-newmill-r-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-moray-wp/duke-gordon-s-monument.jpg",
@@ -632,7 +637,8 @@
             "License migration completed",
             "Self-published work",
             "Taken with Canon EOS 300D"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/x/elgin-wk/glen-moray-speyside-single-mal-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-wk/glen-moray-distillery.jpg",
@@ -655,7 +661,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Traveler Super Slim XS80"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/x/elgin-wk/glen-moray-distillery-medium.webp",
+          "smallPath": "_m/g/f/j/x/elgin-wk/glen-moray-distillery-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-wk/elgin-cathedral-view-from-rear.jpg",
@@ -674,7 +682,9 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Elgin Cathedral"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/x/elgin-wk/elgin-cathedral-view-from-rear-medium.webp",
+          "smallPath": "_m/g/f/j/x/elgin-wk/elgin-cathedral-view-from-rear-small.webp"
         },
         {
           "path": "_m/g/f/j/x/elgin-wk/elgin-museum-moray.jpg",
@@ -689,7 +699,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elgin_museum_Moray.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "elgin-wk",
-          "sourceGeohash4": "gfjx"
+          "sourceGeohash4": "gfjx",
+          "mediumPath": "_m/g/f/j/x/elgin-wk/elgin-museum-moray-medium.webp",
+          "smallPath": "_m/g/f/j/x/elgin-wk/elgin-museum-moray-small.webp"
         }
       ],
       "narration": [

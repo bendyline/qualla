@@ -3,30 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/6/v/abbeyleix-wp/hero.jpg",
-        "filename": "Main Street, Abbeyleix, Ireland.JPG",
-        "caption": "Main Street, Abbeyleix",
-        "alt": "Main Street, Abbeyleix",
-        "width": 2592,
-        "height": 1944,
+        "path": "_m/g/c/6/v/abbeyleix-wp/the-abbeyleix-manor-hotel.jpg",
+        "filename": "The Abbeyleix Manor Hotel.jpg",
+        "caption": "The Abbeyleix Manor Hotel (hotel in Abbeyleix, Ireland)",
+        "alt": "The Abbeyleix Manor Hotel (hotel in Abbeyleix, Ireland)",
+        "width": 4032,
+        "height": 2016,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Sarah777 at English Wikipedia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_Street,_Abbeyleix,_Ireland.JPG",
-        "sourceType": "core",
+        "license": "CC0",
+        "artist": "A.-K. D.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Abbeyleix_Manor_Hotel.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "abbeyleix-wp",
         "sourceGeohash4": "gc6v",
-        "categories": [
-          "2005 in County Laois",
-          "Abbeyleix",
-          "April 2005 in Ireland",
-          "Images from Geograph Britain and Ireland",
-          "PD-user",
-          "Pictures by Sarah777",
-          "Street lights in County Laois",
-          "Streets in County Laois",
-          "Taken with Canon PowerShot S60"
-        ]
+        "mediumPath": "_m/g/c/6/v/abbeyleix-wp/the-abbeyleix-manor-hotel-medium.webp",
+        "smallPath": "_m/g/c/6/v/abbeyleix-wp/the-abbeyleix-manor-hotel-small.webp"
       },
       "images": [
         {
@@ -493,7 +484,8 @@
             "License migration redundant",
             "Photographs taken on 2007-02-07",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/ag/ha/bo/e_/aghaboe/durrow-castle-small.webp"
         },
         {
           "path": "_m/tpc/ag/ha/bo/e_/aghaboe/durrow-castle3.jpg",
@@ -520,7 +512,8 @@
             "License migration redundant",
             "Photographs taken on 2007-02-07",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/ag/ha/bo/e_/aghaboe/durrow-castle3-small.webp"
         },
         {
           "path": "_m/tpc/ag/ha/bo/e_/aghaboe/river-erkina-at-durrow-ireland.jpg",
@@ -543,7 +536,9 @@
             "Flickr images uploaded by Flickr upload bot",
             "June 2006 Ireland photographs",
             "Taken with Fujifilm FinePix S602 ZOOM"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ag/ha/bo/e_/aghaboe/river-erkina-at-durrow-ireland-medium.webp",
+          "smallPath": "_m/tpc/ag/ha/bo/e_/aghaboe/river-erkina-at-durrow-ireland-small.webp"
         },
         {
           "path": "_m/tpc/ag/ha/bo/e_/aghaboe/ballinakill-1696493589.jpg",
@@ -569,7 +564,8 @@
             "Heywood Gardens",
             "Taken with Pentax K100D",
             "Trees in County Laois"
-          ]
+          ],
+          "smallPath": "_m/tpc/ag/ha/bo/e_/aghaboe/ballinakill-1696493589-small.webp"
         },
         {
           "path": "_m/g/c/6/t/county-laois-wp/mountmellick3824.jpg",
@@ -598,7 +594,9 @@
             "Self-published work",
             "Taken with Canon EOS 400D",
             "Utility poles in County Laois"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/t/county-laois-wp/mountmellick3824-medium.webp",
+          "smallPath": "_m/g/c/6/t/county-laois-wp/mountmellick3824-small.webp"
         },
         {
           "path": "_m/g/c/6/t/county-laois-wp/ireland-location-laois.jpg",
@@ -619,7 +617,8 @@
             "Maps of County Laois",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/t/county-laois-wp/ireland-location-laois-small.webp"
         },
         {
           "path": "_m/g/c/6/t/county-laois-wp/mountrath-4273c.jpg",
@@ -641,7 +640,9 @@
             "PD-user",
             "Pictures by Sarah777",
             "Taken with Canon PowerShot S60"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/t/county-laois-wp/mountrath-4273c-medium.webp",
+          "smallPath": "_m/g/c/6/t/county-laois-wp/mountrath-4273c-small.webp"
         },
         {
           "path": "_m/g/c/6/w/slieve-bloom-mountains-wp/portlaoise-main-street-2010-09.jpg",
@@ -656,7 +657,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portlaoise_Main_Street_2010_09_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "slieve-bloom-mountains-wp",
-          "sourceGeohash4": "gc6t"
+          "sourceGeohash4": "gc6t",
+          "mediumPath": "_m/g/c/6/w/slieve-bloom-mountains-wp/portlaoise-main-street-2010-09-medium.webp",
+          "smallPath": "_m/g/c/6/w/slieve-bloom-mountains-wp/portlaoise-main-street-2010-09-small.webp"
         },
         {
           "path": "_m/g/c/6/t/county-laois-wp/rock-of-dunamase-cliff.jpg",
@@ -671,7 +674,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rock_of_Dunamase_Cliff.JPG",
           "sourceType": "poi",
           "sourceArticleId": "county-laois-wp",
-          "sourceGeohash4": "gc6t"
+          "sourceGeohash4": "gc6t",
+          "mediumPath": "_m/g/c/6/t/county-laois-wp/rock-of-dunamase-cliff-medium.webp",
+          "smallPath": "_m/g/c/6/t/county-laois-wp/rock-of-dunamase-cliff-small.webp"
         },
         {
           "path": "_m/g/c/6/t/county-laois-wp/ballaghmore-castle-county-laoi.jpg",
@@ -686,7 +691,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballaghmore_Castle,_County_Laois_-_geograph-2329546.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-laois-wp",
-          "sourceGeohash4": "gc6t"
+          "sourceGeohash4": "gc6t",
+          "mediumPath": "_m/g/c/6/t/county-laois-wp/ballaghmore-castle-county-laoi-medium.webp",
+          "smallPath": "_m/g/c/6/t/county-laois-wp/ballaghmore-castle-county-laoi-small.webp"
         },
         {
           "path": "_m/g/c/6/v/portlaoise-wp/electric-picnic-basement-jaxx-.jpg",
@@ -709,7 +716,9 @@
             "Electric Picnic",
             "Flickr images uploaded by Flickr upload bot",
             "Taken with Canon Digital IXUS 750"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/v/portlaoise-wp/electric-picnic-basement-jaxx--medium.webp",
+          "smallPath": "_m/g/c/6/v/portlaoise-wp/electric-picnic-basement-jaxx--small.webp"
         },
         {
           "path": "_m/g/c/6/v/portlaoise-wp/timahoeroundtower2.jpg",
@@ -733,7 +742,9 @@
             "September 2008 Ireland photographs",
             "Taken with Canon EOS 400D",
             "Timahoe Round Tower"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/v/portlaoise-wp/timahoeroundtower2-medium.webp",
+          "smallPath": "_m/g/c/6/v/portlaoise-wp/timahoeroundtower2-small.webp"
         },
         {
           "path": "_m/g/c/6/v/portlaoise-wp/castle-of-dunamase-im-abendlic.jpg",
@@ -757,7 +768,8 @@
             "Rock of Dunamase",
             "Self-published work",
             "Taken with Olympus E-M5"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/v/portlaoise-wp/castle-of-dunamase-im-abendlic-small.webp"
         },
         {
           "path": "_m/g/c/6/t/ballyfin-wp/hero.jpg",
@@ -778,7 +790,9 @@
             "CC-BY-SA-4.0",
             "Neoclassical architecture in Ireland",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/t/ballyfin-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/6/t/ballyfin-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/6/v/portlaoise-wp/emo-court-co-laois-july-2013.jpg",
@@ -805,7 +819,9 @@
             "Self-published work",
             "Taken with Nikon D40",
             "Uploaded via Campaign:wlm-ie"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/v/portlaoise-wp/emo-court-co-laois-july-2013-medium.webp",
+          "smallPath": "_m/g/c/6/v/portlaoise-wp/emo-court-co-laois-july-2013-small.webp"
         },
         {
           "path": "_m/g/c/6/v/portlaoise-wp/rock-of-dunamase.jpg",
@@ -832,7 +848,9 @@
             "Irish ruin",
             "Rock of Dunamase",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/v/portlaoise-wp/rock-of-dunamase-medium.webp",
+          "smallPath": "_m/g/c/6/v/portlaoise-wp/rock-of-dunamase-small.webp"
         },
         {
           "path": "_m/g/c/6/v/portlaoise-wp/stradbally-woodland-railway-no.png",
@@ -847,7 +865,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stradbally_Woodland_Railway_No._2_Andrew_Barclay_0-4-0WT_locomotive.PNG",
           "sourceType": "poi",
           "sourceArticleId": "portlaoise-wp",
-          "sourceGeohash4": "gc6v"
+          "sourceGeohash4": "gc6v",
+          "smallPath": "_m/g/c/6/v/portlaoise-wp/stradbally-woodland-railway-no-small.webp"
         },
         {
           "path": "_m/g/c/6/m/republic-of-ireland-wp/clonmacnois-cross-of-the-scrip.jpg",
@@ -872,7 +891,8 @@
             "License migration redundant",
             "Photographs by Andreas F. Borchert",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/clonmacnois-cross-of-the-scrip-small.webp"
         },
         {
           "path": "_m/g/c/6/m/republic-of-ireland-wp/conamara-ireland.jpg",
@@ -894,7 +914,9 @@
             "Countryside in County Galway",
             "Self-published work",
             "Taken with Fujifilm FinePix F11"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/m/republic-of-ireland-wp/conamara-ireland-medium.webp",
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/conamara-ireland-small.webp"
         },
         {
           "path": "_m/g/c/3/u/shannon-region-wk/burren-karst.jpg",
@@ -915,7 +937,9 @@
             "Burren",
             "CC-BY-SA-2.5",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/u/shannon-region-wk/burren-karst-medium.webp",
+          "smallPath": "_m/g/c/3/u/shannon-region-wk/burren-karst-small.webp"
         },
         {
           "path": "_m/g/c/6/m/republic-of-ireland-wp/aer-lingus-a320-ei-dei-lhr-jul.jpg",
@@ -940,7 +964,9 @@
             "London photographs taken on 2007-07-28",
             "PD-user",
             "Taken with Nikon D50"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/m/republic-of-ireland-wp/aer-lingus-a320-ei-dei-lhr-jul-medium.webp",
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/aer-lingus-a320-ei-dei-lhr-jul-small.webp"
         },
         {
           "path": "_m/g/c/6/m/republic-of-ireland-wp/e01route.jpg",
@@ -964,7 +990,9 @@
             "Route confirmation signs in Ireland",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/m/republic-of-ireland-wp/e01route-medium.webp",
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/e01route-small.webp"
         },
         {
           "path": "_m/d/d/s/e/martinique-wp/euro-series-banknotes-2019.jpg",
@@ -979,7 +1007,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Euro_Series_Banknotes_(2019).jpg",
           "sourceType": "poi",
           "sourceArticleId": "martinique-wp",
-          "sourceGeohash4": "gc6m"
+          "sourceGeohash4": "gc6m",
+          "smallPath": "_m/d/d/s/e/martinique-wp/euro-series-banknotes-2019-small.webp"
         },
         {
           "path": "_m/g/c/6/m/republic-of-ireland-wp/2019-trim-castle-4.jpg",
@@ -994,7 +1023,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019_Trim_Castle_4.jpg",
           "sourceType": "poi",
           "sourceArticleId": "republic-of-ireland-wp",
-          "sourceGeohash4": "gc6m"
+          "sourceGeohash4": "gc6m",
+          "mediumPath": "_m/g/c/6/m/republic-of-ireland-wp/2019-trim-castle-4-medium.webp",
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/2019-trim-castle-4-small.webp"
         },
         {
           "path": "_m/g/c/7/x/dublin-wp/dublin-aerial-2025-07-07-01.jpg",
@@ -1009,7 +1040,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_-_aerial_-_2025-07-07_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dublin-wp",
-          "sourceGeohash4": "gc6m"
+          "sourceGeohash4": "gc6m",
+          "mediumPath": "_m/g/c/7/x/dublin-wp/dublin-aerial-2025-07-07-01-medium.webp",
+          "smallPath": "_m/g/c/7/x/dublin-wp/dublin-aerial-2025-07-07-01-small.webp"
         }
       ],
       "narration": [

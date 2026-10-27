@@ -28,7 +28,7 @@ In April 2018, Texas businessman and philanthropist Carl Allen purchased Walker'
 
 ## Flight Context
 
-Walker's Cay is at 27.26N, 78.39W, the northernmost island in the Bahamas. The cay is approximately 100 acres and sits on the edge of the Little Bahama Bank - look for the dramatic color transition from shallow turquoise to deep blue Atlantic on the north side. Walker's Cay Airport (MYAW) has a 2,500-foot runway suitable for light aircraft, though operational status should be confirmed before flight planning. The island is 53 miles northeast of West End, Grand Bahama, and 105 miles northeast of Jupiter, Florida. Nearest major airports: Grand Bahama International (MYGF) to the southwest, Palm Beach International (KPBI) to the west. Grand Cay is the closest neighboring island. Expect typical Bahamian marine weather; hurricane season runs June through November.
+Walker's Cay is at 27.26N, 78.39W, the northernmost island in the Bahamas. The cay is approximately 100 acres and sits on the edge of the Little Bahama Bank - look for the dramatic color transition from shallow turquoise to deep blue Atlantic on the north side. Walker's Cay Airport (MYAW) has a 2,500-foot runway suitable for light aircraft, though operational status should be confirmed before flight planning. The island is 53 miles northeast of West End, Grand Bahama, and 105 miles northeast of Jupiter, Florida. Nearest major airports: Grand Bahama International (MYGF) to the southwest, President Donald J. Trump International Airport (KDJT, formerly Palm Beach International, KPBI) to the west. Grand Cay is the closest neighboring island. Expect typical Bahamian marine weather; hurricane season runs June through November.
 
 ## Sources
 

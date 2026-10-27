@@ -36,8 +36,8 @@ Located at 35.024°N, 135.797°E in the Higashiyama foothills of eastern Kyoto. 
 
 ## Sources
 
-- [Honen-in - Wikipedia](https://en.wikipedia.org/wiki/H%C5%8Dnen-in)
-- [Wikipedia - Honen-in](https://en.wikipedia.org/wiki/H%C5%8Dnen-in)
+- [Honen-in - Wikipedia](https://en.wikipedia.org/?curid=51017613)
+- [Wikipedia - Honen-in](https://en.wikipedia.org/?curid=51017613)
   - Junichiro Tanizaki buried at Honen-in confirmed
   - temple founded 1680 confirmed
   - Honen as founder of Jodo-shu Pure Land sect confirmed

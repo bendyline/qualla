@@ -3,29 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/9/h/kleiner-perkins-wp/hero.jpg",
-        "filename": "SF From Marin Highlands3.jpg",
-        "caption": "San Francisco from en:Marin Headlands",
-        "alt": "San Francisco from en:Marin Headlands",
-        "width": 2672,
-        "height": 1885,
+        "path": "_m/9/q/9/h/kleiner-perkins-wp/svb-kleiner-perkins-menlo-park.jpg",
+        "filename": "SVB Kleiner Perkins Menlo Park April 2023.jpg",
+        "caption": "Offices of Silicon Valley Bank and Kleiner Perkins, Menlo Park, California.",
+        "alt": "Offices of Silicon Valley Bank and Kleiner Perkins, Menlo Park, California.",
+        "width": 4032,
+        "height": 3024,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "en:User:Paul.h",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SF_From_Marin_Highlands3.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "King of Hearts",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SVB_Kleiner_Perkins_Menlo_Park_April_2023.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "kleiner-perkins-wp",
         "sourceGeohash4": "9q9h",
         "categories": [
-          "Bridges in the United States photographed in 2006",
-          "Golden Gate Bridge from the Marin Headlands",
-          "Golden Gate Bridge in the 2000s",
-          "November 2006 in San Francisco",
-          "PD-user",
-          "San Francisco skylines",
-          "Taken with Canon Digital IXUS 800 IS",
-          "United States photographs taken on 2006-11-05"
-        ]
+          "Buildings in Menlo Park, California",
+          "CC-BY-SA-4.0",
+          "Files with coordinates missing SDC location of creation",
+          "Kleiner Perkins",
+          "Sand Hill Road",
+          "Self-published work",
+          "Silicon Valley Bank",
+          "Taken with iPhone SE (3rd generation)"
+        ],
+        "mediumPath": "_m/9/q/9/h/kleiner-perkins-wp/svb-kleiner-perkins-menlo-park-medium.webp",
+        "smallPath": "_m/9/q/9/h/kleiner-perkins-wp/svb-kleiner-perkins-menlo-park-small.webp"
       },
       "images": [
         {
@@ -76,7 +78,9 @@
             "PD US NPS",
             "Rancho Camulos",
             "United States photographs taken on 1934-03-22"
-          ]
+          ],
+          "mediumPath": "_m/9/q/9/k/santa-clara-valley-wp/rancho-camulos-medium.webp",
+          "smallPath": "_m/9/q/9/k/santa-clara-valley-wp/rancho-camulos-small.webp"
         },
         {
           "path": "_m/9/q/9/k/santa-clara-valley-wp/santa-paula-and-oxnard-califor.jpg",
@@ -105,7 +109,9 @@
             "Photographs by Ken Lund",
             "September 2015 in California",
             "South Mountain (Ventura County)"
-          ]
+          ],
+          "mediumPath": "_m/9/q/9/k/santa-clara-valley-wp/santa-paula-and-oxnard-califor-medium.webp",
+          "smallPath": "_m/9/q/9/k/santa-clara-valley-wp/santa-paula-and-oxnard-califor-small.webp"
         },
         {
           "path": "_m/9/q/9/k/santa-clara-valley-wp/fillmore-and-santa-clara-river.jpg",
@@ -128,7 +134,8 @@
             "Fillmore, California",
             "Santa Clara River Valley (California)",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/9/q/9/k/santa-clara-valley-wp/fillmore-and-santa-clara-river-small.webp"
         }
       ],
       "narration": [

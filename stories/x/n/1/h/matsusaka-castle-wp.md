@@ -33,7 +33,7 @@ Located at 34.576N, 136.526E on a low hill in central Matsusaka city, Mie Prefec
 ## Sources
 
 - [Matsusaka Castle - Wikipedia](https://en.wikipedia.org/?curid=17579022)
-- [Wikipedia - Matsusaka Castle (fact-check)](https://en.wikipedia.org/wiki/Matsusaka_Castle)
+- [Wikipedia - Matsusaka Castle (fact-check)](https://en.wikipedia.org/?curid=17579022)
   - 123,000-koku domain figure - confirmed (some sources cite 120,000; 123,000 is well-sourced)
   - National Historic Site designation in 2011 - confirmed
   - Gamo Ujisato built Matsusaka Castle, moving from Matsugashima Castle - confirmed

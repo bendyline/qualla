@@ -34,7 +34,7 @@ Belle Isle is at 42.340N, 82.987W, an unmistakable island in the Detroit River d
 
 - [Belle Isle Park - Wikipedia](https://en.wikipedia.org/?curid=18952775)
 - [Detroit's Belle Isle Island Park Gem](http://www.arcadiapublishing.com/mm5/merchant.mvc?Screen=VPROD&Product_Code=9780738523156)
-- [Belle Isle Park - Wikipedia](https://en.wikipedia.org/wiki/Belle_Isle_Park)
+- [Belle Isle Park - Wikipedia](https://en.wikipedia.org/?curid=18952775)
   - 982 acres confirmed
   - Largest city-owned island park in the United States confirmed
   - Second most-visited state park (after Niagara Falls) confirmed

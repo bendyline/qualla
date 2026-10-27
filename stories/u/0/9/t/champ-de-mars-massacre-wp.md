@@ -37,7 +37,7 @@ The Champ de Mars (48.856°N, 2.298°E) is the large rectangular park stretching
 ## Sources
 
 - [Champ de Mars massacre - Wikipedia](https://en.wikipedia.org/?curid=27288389)
-- [Champ de Mars massacre - Wikipedia](https://en.wikipedia.org/wiki/Champ_de_Mars_massacre)
+- [Champ de Mars massacre - Wikipedia](https://en.wikipedia.org/?curid=27288389)
   - Massacre date July 17, 1791 confirmed
   - Fete de la Federation date July 14, 1790 confirmed
   - Corrected: 'Exactly one year before' → 'Just over a year before' (Fete was July 14; massacre was July 17 — 3 days more than a year)

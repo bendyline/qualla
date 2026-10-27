@@ -36,14 +36,14 @@ The story's Berlin anchor is Rungestraße 22–24 in Mitte, at roughly 52.5124°
 
 ## Sources
 
-- [Juno (cigarette)](https://en.wikipedia.org/wiki/Juno_(cigarette))
+- [Juno (cigarette)](https://en.wikipedia.org/?curid=55822753)
 - [Garbáty (German Wikipedia)](https://de.wikipedia.org/wiki/Garb%C3%A1ty)
   - Josef Garbáty-Rosenthal (1851-1939), Jewish family emigrated from Lida in the Russian Empire - source
   - began making cigarettes in 1879, founded the firm in 1881, moved to Berlin-Pankow in 1906 - source
   - in 1938 the Garbáty property was forcibly sold to the Koerfer group of Cologne and Reemtsma of Hamburg - source
   - family emigrated to the United States in 1939; Josef Garbáty-Rosenthal died in Berlin on 29 June 1939 - source
   - the square was renamed Garbátyplatz in 2000 - source
-- [Juno (cigarette) - source article facts](https://en.wikipedia.org/wiki/Juno_(cigarette))
+- [Juno (cigarette) - source article facts](https://en.wikipedia.org/?curid=55822753)
   - launched 1896 by Berliner Cigarettenfabrik Josetti with Virginia tobacco; round shape chosen against flat oriental cigarettes; launch slogan 'Dick und rund' - source
   - 'Josetti Juno' registered 9 February 1898 at the DPMA under no. 34169 - source
   - company founded 1888 by Oskar Josetti at Hamburger Straße 8; he emigrated to the US in 1892; traded from 1895 as Cigarettenfabrik Josetti, Inh. Meier & Peters oHG - source
@@ -56,7 +56,7 @@ The story's Berlin anchor is Rungestraße 22–24 in Mitte, at roughly 52.5124°
   - 'Berlin raucht Juno' bus advertising in the 1920s; 1951 jingle by Just Scheu recorded by Bully Buhlan with the Erich Börschel orchestra - source
   - West Juno cut to filter version in the 1970s, withdrawn, re-placed on the German market in 1983 - source
   - May 2016 Reemtsma discontinued the brand, citing focus on major brands and the new EU pictorial packaging rules - source
-- [Juno (cigarette) / Garbáty - Wikipedia (independent final-review re-check)](https://en.wikipedia.org/wiki/Juno_(cigarette))
+- [Juno (cigarette) / Garbáty - Wikipedia (independent final-review re-check)](https://en.wikipedia.org/?curid=55822753)
   - trademark and slogan registration dates (9 Feb 1898, 18 Feb 1928, 26 April 1934) re-confirmed against EN Wikipedia
   - Garbáty forced sale in 1938 to the Koerfer group of Cologne and Reemtsma of Hamburg; family emigrated to the US in 1939; Josef Garbáty-Rosenthal died in Berlin 29 June 1939, two days after his 88th birthday - re-confirmed against DE Wikipedia
   - Garbátyplatz named 16 September 2000 - re-confirmed

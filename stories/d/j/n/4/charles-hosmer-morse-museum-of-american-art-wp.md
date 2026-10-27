@@ -33,7 +33,7 @@ Located at 28.60N, 81.35W in Winter Park, Florida, just north of downtown Orland
 ## Sources
 
 - [Charles Hosmer Morse Museum of American Art - Wikipedia](https://en.wikipedia.org/?curid=1706794)
-- [Wikipedia - Charles Hosmer Morse Museum of American Art](https://en.wikipedia.org/wiki/Charles_Hosmer_Morse_Museum_of_American_Art)
+- [Wikipedia - Charles Hosmer Morse Museum of American Art](https://en.wikipedia.org/?curid=1706794)
   - Founded by Jeannette Genius McKean in 1942 confirmed
   - Named for grandfather Charles Hosmer Morse Chicago industrialist confirmed
   - First home on Rollins College campus confirmed

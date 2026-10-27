@@ -28,7 +28,7 @@ From that third-floor balcony, you can look down at the most unusual restaurant 
 
 ## Flight Context
 
-The Lightner Museum is located at approximately 29.892N, 81.314W in the heart of downtown St. Augustine's historic district. From the air, look for the distinctive Spanish Renaissance Revival towers and red-tiled roofline of the former Hotel Alcazar, situated directly across King Street from Flagler College (the former Ponce de Leon Hotel). The Matanzas River and Anastasia Island are visible to the east, with the Bridge of Lions connecting the historic district to the island. Nearest airport: St. Augustine Airport (KSGJ), approximately 4nm northwest. The building sits near the Plaza de la Constitucion, the heart of the colonial-era street grid. Best viewed at altitudes of 1,500-3,000 feet in clear conditions.
+The Lightner Museum is located at approximately 29.892N, 81.314W in the heart of downtown St. Augustine's historic district. From the air, look for the distinctive Spanish Renaissance Revival towers and red-tiled roofline of the former Hotel Alcazar, situated directly across King Street from Flagler College (the former Ponce de Leon Hotel). The Matanzas River and Anastasia Island are visible to the east, with the Bridge of Lions connecting the historic district to the island. Nearest airport: Northeast Florida Regional Airport (KSGJ, formerly St. Augustine Airport), approximately 4nm northwest. The building sits near the Plaza de la Constitucion, the heart of the colonial-era street grid. Best viewed at altitudes of 1,500-3,000 feet in clear conditions.
 
 ## Sources
 

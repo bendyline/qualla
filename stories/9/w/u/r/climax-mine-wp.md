@@ -33,7 +33,7 @@ Located at 39.37N, 106.19W on Fremont Pass along the Continental Divide in Lake 
 ## Sources
 
 - [Climax mine - Wikipedia](https://en.wikipedia.org/?curid=20604934)
-- [Wikipedia - Climax mine](https://en.wikipedia.org/wiki/Climax_mine)
+- [Wikipedia - Climax mine](https://en.wikipedia.org/?curid=20604934)
   - Charles Senter 1879 discovery confirmed
   - Molybdenite identified 1895 confirmed
   - Senter sold claims for $40,000 in 1918 confirmed

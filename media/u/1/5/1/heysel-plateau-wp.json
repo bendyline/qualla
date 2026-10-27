@@ -3,26 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/5/1/heysel-plateau-wp/hero.jpg",
-        "filename": "Planetarium Royal Observatory Belgium.jpg",
-        "caption": "The Planetarium of the Royal Observatory of Belgium.",
-        "alt": "The Planetarium of the Royal Observatory of Belgium.",
-        "width": 2272,
-        "height": 1704,
+        "path": "_m/u/1/5/1/heysel-plateau-wp/panoramic-view-of-brussels.jpg",
+        "filename": "Panoramic view of brussels.jpg",
+        "caption": "Panoramic view of Brussels, picture taken from the top globe of the Atomium.",
+        "alt": "Panoramic view of Brussels, picture taken from the top globe of the Atomium.",
+        "width": 12472,
+        "height": 3123,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "ZombieLeChuck",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Planetarium_Royal_Observatory_Belgium.jpg",
-        "sourceType": "core",
+        "license": "CC BY 3.0 nl",
+        "artist": "Niels Mickers",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_brussels.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "heysel-plateau-wp",
         "sourceGeohash4": "u151",
         "categories": [
-          "Files with coordinates missing SDC location of creation (50° N, 4° E)",
-          "PD-self",
-          "Planetarium of the Royal Observatory of Belgium",
+          "CC-BY-3.0-NL",
+          "Heysel/Heizel",
+          "Panoramas of Brussels",
+          "Photographs by Niels Mickers",
           "Self-published work",
-          "Taken with Nikon Coolpix L4"
-        ]
+          "Taken with Sony SLT-A55",
+          "Views from the Atomium"
+        ],
+        "mediumPath": "_m/u/1/5/1/heysel-plateau-wp/panoramic-view-of-brussels-medium.webp",
+        "smallPath": "_m/u/1/5/1/heysel-plateau-wp/panoramic-view-of-brussels-small.webp"
       },
       "images": [
         {
@@ -145,7 +149,7 @@
           "smallPath": "_m/u/1/5/1/heysel-plateau-wp/belgique-bruxelles-anc-small.webp"
         },
         {
-          "path": "_m/u/1/5/1/heysel-plateau-wp/bruxelas-belgica.jpg",
+          "path": "_m/u/1/5/1/brussels-wk/bruxelas-belgica.jpg",
           "filename": "Atomium .jpg",
           "caption": "Bruxelas, Bélgica",
           "alt": "Bruxelas, Bélgica",
@@ -157,7 +161,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atomium_.jpg",
           "sourceType": "core",
           "sourceArticleId": "heysel-plateau-wp",
-          "sourceGeohash4": "u151"
+          "sourceGeohash4": "u151",
+          "mediumPath": "_m/u/1/5/1/brussels-wk/bruxelas-belgica-medium.webp",
+          "smallPath": "_m/u/1/5/1/brussels-wk/bruxelas-belgica-small.webp"
         },
         {
           "path": "_m/u/1/5/1/heysel-plateau-wp/view-atomium-expositio.jpg",

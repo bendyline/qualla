@@ -43,7 +43,7 @@ Ekenäs Archipelago National Park is centred near 59.8228°N, 23.4542°E, in the
   - 59,400 visitors in 2021 and 51,100 visitors in 2025
   - trail lengths: 2 km on Älgö, 1.5 km on Modermagan, 4.7 km on Jussarö
   - landing/movement forbidden 1 April - 31 July on many islands to protect nesting birds and vegetation, some islands closed year-round
-- [Ekenäs Archipelago National Park - Wikipedia](https://en.wikipedia.org/wiki/Eken%C3%A4s_Archipelago_National_Park)
+- [Ekenäs Archipelago National Park - Wikipedia](https://en.wikipedia.org/?curid=4466477)
   - European Diploma of Protected Areas awarded 19 June 1996, current validity through 19 June 2031
   - Ramsar wetland status
 - [Jussarö - Finnish Wikipedia](https://fi.wikipedia.org/wiki/Jussar%C3%B6)

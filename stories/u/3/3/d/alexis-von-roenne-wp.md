@@ -46,7 +46,7 @@ The coordinates fixed to this story, 52.5079 N, 13.3622 E, mark the Bendlerblock
 
 ## Sources
 
-- [Alexis von Roenne - Wikipedia](https://en.wikipedia.org/wiki/Alexis_von_Roenne)
+- [Alexis von Roenne - Wikipedia](https://en.wikipedia.org/?curid=55868797)
   - Born 22 February 1903 in Tukums, Courland Governorate of the Russian Empire; died 12 October 1944
   - German Army colonel (Oberst) and senior intelligence analyst; headed Fremde Heere West, the western-front intelligence branch; described as 'Hitler's favourite intelligence analyst'; held anti-Nazi convictions
   - Married Ursula von Bülow of the Bülow family

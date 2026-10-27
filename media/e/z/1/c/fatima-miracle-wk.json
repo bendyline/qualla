@@ -12,27 +12,24 @@
         "_m/e/z/1/c/fatima-miracle-wk/ez1c-the-miracle-of-the-sun-when-70-000-people-saw-the--the-mystery.mp3"
       ],
       "hero": {
-        "path": "_m/e/z/1/c/fatima-miracle-wk/related-sibling-chapel-fatima.jpg",
-        "filename": "Chapel Fatima.jpg",
-        "caption": "A Chapel at Fatima",
-        "alt": "A Chapel at Fatima",
-        "width": 3460,
-        "height": 2404,
+        "path": "_m/e/z/1/c/fatima-miracle-wk/hero.jpg",
+        "filename": "046CupolaSPietro.jpg",
+        "caption": "Città del Vaticano - Cupola della Basilica di S. Pietro",
+        "alt": "Città del Vaticano - Cupola della Basilica di S. Pietro",
+        "width": 800,
+        "height": 600,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.5",
-        "artist": "Andreas Trepte",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chapel_Fatima.jpg",
-        "sourceType": "sibling",
+        "license": "CC BY-SA 3.0",
+        "artist": "MarkusMark",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+        "sourceType": "core",
         "sourceArticleId": "fatima-miracle-wk",
         "sourceGeohash4": "ez1c",
         "accessedAt": "2026-02-22T12:43:39.328Z",
         "categories": [
-          "Andreas Trepte",
-          "CC-BY-SA-2.5",
-          "Capelinha das Aparições, Fátima",
-          "Files with coordinates missing SDC location of creation",
-          "Pilgrims in Santuário de Fátima",
-          "Taken with Canon PowerShot S80"
+          "CC-BY-SA-3.0",
+          "Dome of Saint Peter's Basilica from the roof",
+          "Self-published work"
         ],
         "mediumPath": "_m/e/z/1/c/fatima-miracle-wk/hero-medium.webp",
         "smallPath": "_m/e/z/1/c/fatima-miracle-wk/hero-small.webp"
@@ -58,7 +55,8 @@
             "Dome of Saint Peter's Basilica from the roof",
             "Self-published work"
           ],
-          "smallPath": "_m/e/z/1/c/fatima-miracle-wk/related-sibling-chapel-fatima-small.jpg"
+          "smallPath": "_m/e/z/1/c/fatima-miracle-wk/hero-small.webp",
+          "mediumPath": "_m/e/z/1/c/fatima-miracle-wk/hero-medium.webp"
         },
         {
           "path": "_m/e/z/1/c/fatima-miracle-wk/tuam-cathedral-assumpt.jpg",
@@ -170,8 +168,8 @@
             "Photographs by Alvesgaspar",
             "Self-published work"
           ],
-          "mediumPath": "_m/e/z/1/c/fatima-miracle-wk/hero-medium.jpg",
-          "smallPath": "_m/e/z/1/c/fatima-miracle-wk/hero-small.jpg"
+          "mediumPath": "_m/e/z/1/c/fatima-miracle-wk/hero-medium.webp",
+          "smallPath": "_m/e/z/1/c/fatima-miracle-wk/hero-small.webp"
         },
         {
           "path": "_m/e/z/1/c/fatima-miracle-wk/related-sibling-our-lady-of-fatima-statue-in-t.jpg",
@@ -401,7 +399,8 @@
             "Flickr images missing SDC source of file",
             "Flickr images reviewed by FlickreviewR",
             "Images with extracted images"
-          ]
+          ],
+          "smallPath": "_m/tpc/ou/re/m_/__/ourem/ourem-ccbysa-small.webp"
         },
         {
           "path": "_m/tpc/ou/re/m_/__/ourem/church-of-ourem.jpg",
@@ -423,7 +422,9 @@
             "Igreja Paroquial de Ourém",
             "Portugal photographs taken on 2017-03-14",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ou/re/m_/__/ourem/church-of-ourem-medium.webp",
+          "smallPath": "_m/tpc/ou/re/m_/__/ourem/church-of-ourem-small.webp"
         },
         {
           "path": "_m/tpc/ou/re/m_/__/ourem/statue-of-nuno-alvares-pereira.jpg",
@@ -446,7 +447,9 @@
             "Portugal photographs taken on 2017-03-14",
             "Self-published work",
             "Statue of Nuno Álvares Pereira in Ourém"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ou/re/m_/__/ourem/statue-of-nuno-alvares-pereira-medium.webp",
+          "smallPath": "_m/tpc/ou/re/m_/__/ourem/statue-of-nuno-alvares-pereira-small.webp"
         },
         {
           "path": "_m/tpc/ou/re/m_/__/ourem/ourem-wikivoyage-banner.jpg",
@@ -468,7 +471,9 @@
             "Castelo de Ourém",
             "Extracted images",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ou/re/m_/__/ourem/ourem-wikivoyage-banner-medium.webp",
+          "smallPath": "_m/tpc/ou/re/m_/__/ourem/ourem-wikivoyage-banner-small.webp"
         },
         {
           "path": "_m/tpc/ou/re/m_/__/ourem/frente-da-casa-do-administrado.jpg",
@@ -490,7 +495,9 @@
             "Casa do Administrador",
             "Portugal photographs taken on 2021-09-04",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ou/re/m_/__/ourem/frente-da-casa-do-administrado-medium.webp",
+          "smallPath": "_m/tpc/ou/re/m_/__/ourem/frente-da-casa-do-administrado-small.webp"
         }
       ],
       "combinedNarration": "_m/e/z/1/c/fatima-miracle-wk/ez1c-fatima-miracle-combined.mp3",

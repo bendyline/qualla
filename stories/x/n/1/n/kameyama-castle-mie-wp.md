@@ -33,7 +33,7 @@ Kameyama Castle ruins sit at 34.8561N, 136.4506E in the city of Kameyama, northe
 ## Sources
 
 - [Kameyama Castle (Mie) - Wikipedia](https://en.wikipedia.org/?curid=17438218)
-- [Kameyama Castle (Mie) - Wikipedia](https://en.wikipedia.org/wiki/Kameyama_Castle_(Mie))
+- [Kameyama Castle (Mie) - Wikipedia](https://en.wikipedia.org/?curid=17438218)
   - Tenshu demolished in 1632 by Horio Torizane who confused it with Kameyama Castle in Tanba Province - confirmed
   - Shogunate refused permission to rebuild the tower - confirmed
   - Honda Toshitsugu received permission in 1636 to build a yagura (Tamon-yagura) - confirmed

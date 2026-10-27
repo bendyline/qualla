@@ -3,28 +3,16 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/q/2/siege-of-worcester-wp/hero.jpg",
-        "filename": "Worcester from Fort Royal Hill.jpg",
-        "caption": "Worcester Cathedral",
-        "alt": "Worcester Cathedral",
-        "width": 680,
-        "height": 1024,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Philip Halling",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Worcester_from_Fort_Royal_Hill.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "siege-of-worcester-wp",
-        "sourceGeohash4": "gcq2",
-        "categories": [
-          "CC-BY-SA-2.0",
-          "Church towers in Worcestershire",
-          "Images by Philip Halling",
-          "Images from Geograph Britain and Ireland",
-          "Information field template with formatting",
-          "United Kingdom photographs taken on 2013-09-04",
-          "Worcester Cathedral"
-        ]
+        "path": "_m/g/c/q/2/siege-of-worcester-1643-wp/worcester-1651.jpg",
+        "filename": "Worcester Nash Map.jpg",
+        "caption": "Worcester in 1651",
+        "alt": "Worcester in 1651",
+        "width": 933,
+        "height": 673,
+        "license": "Public domain",
+        "artist": "Dr Threadway Nash - No Treadway Nash",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Worcester_Nash_Map.jpg",
+        "smallPath": "_m/g/c/q/2/siege-of-worcester-1643-wp/worcester-1651-small.webp"
       },
       "images": [
         {
@@ -54,7 +42,7 @@
           "smallPath": "_m/g/c/q/2/siege-of-worcester-wp/1610-map-worcester-small.webp"
         },
         {
-          "path": "_m/g/c/q/2/siege-of-worcester-wp/worcester-1651.jpg",
+          "path": "_m/g/c/q/2/siege-of-worcester-1643-wp/worcester-1651.jpg",
           "filename": "Worcester Nash Map.jpg",
           "caption": "Worcester in 1651",
           "alt": "Worcester in 1651",
@@ -78,10 +66,11 @@
             "PD-US missing SDC copyright status",
             "PD-old missing SDC copyright status",
             "Worcester city walls"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/2/siege-of-worcester-1643-wp/worcester-1651-small.webp"
         },
         {
-          "path": "_m/g/c/q/2/siege-of-worcester-wp/relief-map-worcestersh.jpg",
+          "path": "_m/g/c/q/2/battle-of-upton-wp/relief-map-worcestersh.jpg",
           "filename": "Worcestershire UK relief location map.jpg",
           "caption": "Relief map of Worcestershire, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 160%\nGeographic limits:\n\nWest: 2.68W\nEast: 1.74W\nNorth: 52.47N\nSouth: 51.95N",
           "alt": "Relief map of Worcestershire, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 160%\nGeographic limits:\n\nWest: 2.68W\nEast: 1.74W\nNorth: 52.47N\nSouth: 51.95N",
@@ -100,7 +89,9 @@
             "Maps of Worcestershire",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/2/battle-of-upton-wp/relief-map-worcestersh-medium.webp",
+          "smallPath": "_m/g/c/q/2/battle-of-upton-wp/relief-map-worcestersh-small.webp"
         },
         {
           "path": "_m/g/c/q/c/warwickshire-wp/bedworth-civic-hall-30s07.jpg",
@@ -128,7 +119,9 @@
             "Self-published work",
             "September 2007 in Warwickshire",
             "Traffic bollards in Bedworth"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/c/warwickshire-wp/bedworth-civic-hall-30s07-medium.webp",
+          "smallPath": "_m/g/c/q/c/warwickshire-wp/bedworth-civic-hall-30s07-small.webp"
         },
         {
           "path": "_m/g/c/q/c/warwickshire-wp/rugby-town-hall.jpg",
@@ -149,7 +142,9 @@
             "Local government in England",
             "PD-user",
             "Rugby Town Hall"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/c/warwickshire-wp/rugby-town-hall-medium.webp",
+          "smallPath": "_m/g/c/q/c/warwickshire-wp/rugby-town-hall-small.webp"
         },
         {
           "path": "_m/g/c/q/b/stratford-upon-avon-wp/shakespeare-s-birthplace-strat.jpg",
@@ -164,7 +159,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shakespeare%27s_Birthplace,_Stratford-upon-Avon_-_Sept_2012.jpg",
           "sourceType": "poi",
           "sourceArticleId": "stratford-upon-avon-wp",
-          "sourceGeohash4": "gcqc"
+          "sourceGeohash4": "gcqc",
+          "mediumPath": "_m/g/c/q/b/stratford-upon-avon-wp/shakespeare-s-birthplace-strat-medium.webp",
+          "smallPath": "_m/g/c/q/b/stratford-upon-avon-wp/shakespeare-s-birthplace-strat-small.webp"
         },
         {
           "path": "_m/g/c/q/c/warwickshire-wp/st-giles-church-chesterton.jpg",
@@ -179,7 +176,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Giles_Church,_Chesterton.jpg",
           "sourceType": "poi",
           "sourceArticleId": "warwickshire-wp",
-          "sourceGeohash4": "gcqc"
+          "sourceGeohash4": "gcqc",
+          "mediumPath": "_m/g/c/q/c/warwickshire-wp/st-giles-church-chesterton-medium.webp",
+          "smallPath": "_m/g/c/q/c/warwickshire-wp/st-giles-church-chesterton-small.webp"
         },
         {
           "path": "_m/g/c/q/c/warwickshire-wp/kenilworth-clocktower-sse.jpg",
@@ -194,7 +193,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kenilworth_ClockTower_SSE.jpg",
           "sourceType": "poi",
           "sourceArticleId": "warwickshire-wp",
-          "sourceGeohash4": "gcqc"
+          "sourceGeohash4": "gcqc",
+          "smallPath": "_m/g/c/q/c/warwickshire-wp/kenilworth-clocktower-sse-small.webp"
         },
         {
           "path": "_m/g/c/q/c/warwickshire-wp/the-parade-leamington-spa-2.jpg",
@@ -209,7 +209,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Parade,_Leamington_Spa_(2).jpg",
           "sourceType": "poi",
           "sourceArticleId": "warwickshire-wp",
-          "sourceGeohash4": "gcqc"
+          "sourceGeohash4": "gcqc",
+          "mediumPath": "_m/g/c/q/c/warwickshire-wp/the-parade-leamington-spa-2-medium.webp",
+          "smallPath": "_m/g/c/q/c/warwickshire-wp/the-parade-leamington-spa-2-small.webp"
         }
       ],
       "narration": [

@@ -2,35 +2,6 @@
   "id": "battle-of-san-cala-wp",
   "patch": {
     "media": {
-      "images": [
-        {
-          "path": "_m/6/d/3/w/battle-of-san-cala-wp/flag-argentine-adopted.png",
-          "filename": "Bandera argentina unitaria de guerra.png",
-          "caption": "Flag of Argentine adopted by the Unitarians exiled at Montevideo. This war used as the naval jack until 1852.",
-          "alt": "Flag of Argentine adopted by the Unitarians exiled at Montevideo. This war used as the naval jack until 1852.",
-          "width": 800,
-          "height": 600,
-          "mimeType": "image/png",
-          "license": "Public domain",
-          "artist": "Unknown author",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bandera_argentina_unitaria_de_guerra.png",
-          "sourceType": "core",
-          "sourceArticleId": "battle-of-san-cala-wp",
-          "sourceGeohash4": "6d3w",
-          "categories": [
-            "Flags with Inti",
-            "Historical flags of Argentina",
-            "Naval jacks of Argentina",
-            "PD-AR-Anonymous",
-            "PD-US missing SDC copyright status",
-            "PD US expired",
-            "PNG flags of Argentina",
-            "Template Unknown (author)",
-            "Vector version available"
-          ],
-          "smallPath": "_m/6/d/3/w/battle-of-san-cala-wp/flag-argentine-adopted-small.webp"
-        }
-      ],
       "narration": [
         "_m/6/d/3/w/battle-of-san-cala-wp/6d3w-battle-of-san-cala-flight-context.mp3",
         "_m/6/d/3/w/battle-of-san-cala-wp/6d3w-battle-of-san-cala-intro.mp3",
@@ -39,6 +10,32 @@
         "_m/6/d/3/w/battle-of-san-cala-wp/6d3w-battle-of-san-cala-what-followed-the-killing.mp3",
         "_m/6/d/3/w/battle-of-san-cala-wp/6d3w-battle-of-san-cala-the-village-that-moved-away.mp3"
       ],
+      "hero": {
+        "path": "_m/6/d/3/w/battle-of-san-cala-wp/hero.png",
+        "filename": "Bandera argentina unitaria de guerra.png",
+        "caption": "Flag of Argentine adopted by the Unitarians exiled at Montevideo. This war used as the naval jack until 1852.",
+        "alt": "Flag of Argentine adopted by the Unitarians exiled at Montevideo. This war used as the naval jack until 1852.",
+        "width": 800,
+        "height": 600,
+        "mimeType": "image/png",
+        "license": "Public domain",
+        "artist": "Unknown author",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bandera_argentina_unitaria_de_guerra.png",
+        "sourceType": "core",
+        "sourceArticleId": "battle-of-san-cala-wp",
+        "sourceGeohash4": "6d3w",
+        "categories": [
+          "Flags with Inti",
+          "Historical flags of Argentina",
+          "Naval jacks of Argentina",
+          "PD-AR-Anonymous",
+          "PD-US missing SDC copyright status",
+          "PD US expired",
+          "PNG flags of Argentina",
+          "Template Unknown (author)",
+          "Vector version available"
+        ]
+      },
       "combinedNarration": "_m/6/d/3/w/battle-of-san-cala-wp/6d3w-battle-of-san-cala-combined.mp3",
       "combinedNarrationBytes": 2975155,
       "combinedNarrationDuration": 246,

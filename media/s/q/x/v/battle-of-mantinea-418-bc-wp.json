@@ -3,32 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/q/x/v/battle-of-mantinea-418-bc-wp/hero.jpg",
-        "filename": "Greece relief location map.jpg",
-        "caption": "Location map of Greece",
-        "alt": "Location map of Greece",
-        "width": 1003,
-        "height": 825,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Greece_location_map.svg: Lencer / derivative work: Uwe Dedering (talk)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greece_relief_location_map.jpg",
-        "sourceType": "core",
+        "path": "_m/s/q/x/v/battle-of-mantinea-418-bc-wp/slag-bij-mantinea.png",
+        "filename": "Slag bij Mantinea.PNG",
+        "caption": "Battle of Mantinea (418 BC)",
+        "alt": "Battle of Mantinea (418 BC)",
+        "width": 520,
+        "height": 513,
+        "mimeType": "image/png",
+        "license": "CC0",
+        "artist": "Leonidas1206",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slag_bij_Mantinea.PNG",
+        "sourceType": "commons-category",
         "sourceArticleId": "battle-of-mantinea-418-bc-wp",
         "sourceGeohash4": "sqxv",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Files by Uwe Dedering",
-          "GFDL",
-          "JPG images that should use vector graphics",
-          "License migration redundant",
-          "Map images that should use vector graphics",
-          "Maps with equirectangular projection",
-          "Relief location maps of Greece",
-          "Retouched pictures",
-          "Self-published work",
-          "Uploaded with derivativeFX"
-        ]
+          "Battle of Mantinea (418 BC)",
+          "CC-Zero",
+          "Self-published work"
+        ],
+        "smallPath": "_m/s/q/x/v/battle-of-mantinea-418-bc-wp/slag-bij-mantinea-small.webp"
       },
       "images": [
         {
@@ -83,7 +76,8 @@
             "Magna Graecia",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "smallPath": "_m/t/q/x/9/siege-of-bactra-wp/hero-small.webp"
         },
         {
           "path": "_m/s/q/x/f/sparta-wp/the-entrance-to-the-archaeolog.jpg",
@@ -105,7 +99,9 @@
             "Greece photographs taken on 2019-05-15",
             "Self-published work",
             "Statues in the Archaeological Museum of Sparti"
-          ]
+          ],
+          "mediumPath": "_m/s/q/x/f/sparta-wp/the-entrance-to-the-archaeolog-medium.webp",
+          "smallPath": "_m/s/q/x/f/sparta-wp/the-entrance-to-the-archaeolog-small.webp"
         },
         {
           "path": "_m/s/w/8/m/epidaurus-wp/07epidaurus-theater07.jpg",
@@ -127,7 +123,9 @@
             "Fingalo 2007g",
             "Taken with Panasonic Lumix DMC-FZ30",
             "Theatre of Epidaurus"
-          ]
+          ],
+          "mediumPath": "_m/s/w/8/m/epidaurus-wp/07epidaurus-theater07-medium.webp",
+          "smallPath": "_m/s/w/8/m/epidaurus-wp/07epidaurus-theater07-small.webp"
         }
       ],
       "narration": [

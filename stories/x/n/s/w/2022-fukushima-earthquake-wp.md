@@ -37,7 +37,7 @@ Epicenter located at 37.73N, 141.60E, in the Pacific Ocean off the Fukushima coa
 ## Sources
 
 - [2022 Fukushima earthquake - Wikipedia](https://en.wikipedia.org/?curid=70324638)
-- [2022 Fukushima earthquake - Wikipedia](https://en.wikipedia.org/wiki/2022_Fukushima_earthquake)
+- [2022 Fukushima earthquake - Wikipedia](https://en.wikipedia.org/?curid=70324638)
   - magnitude 7.4 JMA / 7.3 USGS confirmed
   - depth 57 kilometers confirmed
   - 2.2 million households lost power confirmed

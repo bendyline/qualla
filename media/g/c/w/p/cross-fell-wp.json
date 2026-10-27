@@ -3,28 +3,24 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/w/p/cross-fell-wp/hero.jpg",
-        "filename": "Schiehallion 01.jpg",
-        "caption": "Schiehallion viewed across the River Tay, with its characteristic symmetry.",
-        "alt": "Schiehallion viewed across the River Tay, with its characteristic symmetry.",
-        "width": 3072,
-        "height": 2048,
+        "path": "_m/g/c/w/p/cross-fell-wp/garethdennisplateau.jpg",
+        "filename": "Garethdennisplateau.jpg",
+        "caption": "Taken on the northern Pennine plateau during a two day trip over the fells.",
+        "alt": "Taken on the northern Pennine plateau during a two day trip over the fells.",
+        "width": 1622,
+        "height": 1402,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "The original uploader was Andrew2606 at English Wikipedia.",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schiehallion_01.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "GARETHenterprises©",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garethdennisplateau.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "cross-fell-wp",
         "sourceGeohash4": "gcwp",
-        "categories": [
-          "CC-BY-3.0",
-          "Schiehallion",
-          "Taken with Canon EOS 300D"
-        ]
+        "smallPath": "_m/g/c/w/p/cross-fell-wp/garethdennisplateau-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/w/p/cross-fell-wp/personal-photograph-ta.jpg",
+          "path": "_m/g/c/m/j/snowdon-wp/personal-photograph-ta.jpg",
           "filename": "Slioch from Loch Maree.jpg",
           "caption": "Personal photograph taken by Mick Knapton in May 1992",
           "alt": "Personal photograph taken by Mick Knapton in May 1992",
@@ -44,10 +40,11 @@
             "Loch Maree",
             "Self-published work",
             "Slioch"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/j/snowdon-wp/personal-photograph-ta-small.webp"
         },
         {
-          "path": "_m/g/c/w/p/cross-fell-wp/relief-map-cumbria-uk.jpg",
+          "path": "_m/g/c/t/e/barrow-lifeboat-station-wp/relief-map-cumbria-uk.jpg",
           "filename": "Cumbria UK relief location map.jpg",
           "caption": "Relief map of Cumbria, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 3.80W\nEast: 2.10W\nNorth: 55.20N\nSouth: 54.02N",
           "alt": "Relief map of Cumbria, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 3.80W\nEast: 2.10W\nNorth: 55.20N\nSouth: 54.02N",
@@ -66,7 +63,9 @@
             "Maps of Cumbria",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/e/barrow-lifeboat-station-wp/relief-map-cumbria-uk-medium.webp",
+          "smallPath": "_m/g/c/t/e/barrow-lifeboat-station-wp/relief-map-cumbria-uk-small.webp"
         },
         {
           "path": "_m/g/c/w/p/cross-fell-wp/crossfell.jpg",
@@ -473,7 +472,8 @@
             "Photographs taken on 2007-02-18",
             "Self-published work",
             "Taken with Canon PowerShot A80"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/w/cumbria-wp/coniston-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/cartmell-village.jpg",
@@ -497,7 +497,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot A80"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/w/cumbria-wp/cartmell-village-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/cockermouth-church.jpg",
@@ -521,7 +522,8 @@
             "Gothic Revival church towers in Cumbria",
             "Gothic Revival spires in Cumbria",
             "Taken with Canon PowerShot S3 IS"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/w/cumbria-wp/cockermouth-church-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/cumberland-sausage.jpg",
@@ -543,7 +545,9 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Food named after places",
             "Food of Cumbria"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/w/cumbria-wp/cumberland-sausage-medium.webp",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/cumberland-sausage-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/bowness-on-windermere.jpg",
@@ -558,7 +562,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bowness_on_Windermere.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cumbria-wp",
-          "sourceGeohash4": "gctw"
+          "sourceGeohash4": "gctw",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/bowness-on-windermere-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/church-hill-grange-over-sands-.jpg",
@@ -573,7 +578,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_Hill,_Grange_over_Sands_-_geograph.org.uk_-_1835284.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cumbria-wp",
-          "sourceGeohash4": "gctw"
+          "sourceGeohash4": "gctw",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/church-hill-grange-over-sands--small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/barrow-montage2.jpg",
@@ -588,7 +594,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barrow_montage2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cumbria-wp",
-          "sourceGeohash4": "gctw"
+          "sourceGeohash4": "gctw",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/barrow-montage2-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/1326913-clock-tower-market-squ.jpg",
@@ -603,7 +610,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1326913_Clock_Tower,_Market_Square_Penrith_20240527_0058.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cumbria-wp",
-          "sourceGeohash4": "gctw"
+          "sourceGeohash4": "gctw",
+          "mediumPath": "_m/g/c/t/w/cumbria-wp/1326913-clock-tower-market-squ-medium.webp",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/1326913-clock-tower-market-squ-small.webp"
         }
       ],
       "narration": [

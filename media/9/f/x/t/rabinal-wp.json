@@ -3,28 +3,37 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/f/x/t/rabinal-wp/hero.png",
-        "filename": "Terra.png",
-        "alt": "Terra.png",
-        "width": 600,
-        "height": 600,
-        "mimeType": "image/png",
-        "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terra.png",
-        "sourceType": "core",
+        "path": "_m/9/f/x/t/rabinal-wp/jesus-tecu-osorio.jpg",
+        "filename": "Jesus Tecu Osorio.jpg",
+        "caption": "Jesús Tecú Osorio sits in front of the Rabinal school that he founded.",
+        "alt": "Jesús Tecú Osorio sits in front of the Rabinal school that he founded.",
+        "width": 1728,
+        "height": 2304,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 3.0",
+        "artist": "The younger brother of User:DragonflySixtyseven",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jesus_Tecu_Osorio.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "rabinal-wp",
         "sourceGeohash4": "9fxt",
         "categories": [
-          "Files with no machine-readable author",
-          "Files with no machine-readable source",
-          "Media missing infobox template",
-          "PD NASA",
-          "The Blue Marble"
-        ]
+          "2006 in Guatemala",
+          "April 2006 photographs",
+          "CC-BY-SA-3.0-migrated",
+          "GFDL",
+          "Human rights activists from Guatemala",
+          "License migration completed",
+          "Maya peoples",
+          "People of Guatemala in 2006",
+          "Rabinal",
+          "Schools in Guatemala",
+          "Taken with Kodak EasyShare C330"
+        ],
+        "smallPath": "_m/9/f/x/t/rabinal-wp/jesus-tecu-osorio-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/f/x/t/rabinal-wp/relief-map-of-guatemala.jpg",
+          "path": "_m/9/f/x/6/antigua-guatemala-wp/relief-map-of-guatemala.jpg",
           "filename": "Relief map of Guatemala.jpg",
           "caption": "Физическая карта Гватемалы\nПроекция — равноугольная цилиндрическая\nКоординаты краёв карты:\n| top    = 18.0436\n| bottom = 13.5235\n| left   = -92.3592\n| right  = -88.0458",
           "alt": "Физическая карта Гватемалы\nПроекция — равноугольная цилиндрическая\nКоординаты краёв карты:\n| top    = 18.0436\n| bottom = 13.5235\n| left   = -92.3592\n| right  = -88.0458",
@@ -41,7 +50,8 @@
             "CC-BY-SA-2.0",
             "Files with derivative versions",
             "Relief location maps of Guatemala"
-          ]
+          ],
+          "smallPath": "_m/9/f/x/6/antigua-guatemala-wp/relief-map-of-guatemala-small.webp"
         },
         {
           "path": "_m/9/f/x/t/rabinal-wp/jesus-tecu-osorio.jpg",
@@ -225,7 +235,9 @@
             "Self-published work",
             "Taken with Nikon Coolpix S2900",
             "Xutixtiox"
-          ]
+          ],
+          "mediumPath": "_m/tpc/sa/ca/pu/la/sacapulas/xutixtiox-10-medium.webp",
+          "smallPath": "_m/tpc/sa/ca/pu/la/sacapulas/xutixtiox-10-small.webp"
         },
         {
           "path": "_m/tpc/co/ba/n_/__/coban/coban-central-park-guatemala.jpg",
@@ -247,7 +259,8 @@
             "Colorful buildings in Guatemala",
             "Self-published work",
             "Verapaz Government Palace"
-          ]
+          ],
+          "smallPath": "_m/tpc/co/ba/n_/__/coban/coban-central-park-guatemala-small.webp"
         }
       ],
       "narration": [

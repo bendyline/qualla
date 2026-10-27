@@ -3,27 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/2/b/cromane-wp/hero.jpg",
-        "filename": "Cromane Aerial Shot.jpg",
-        "caption": "Cromane by drone, taken in July 2020.",
-        "alt": "Cromane by drone, taken in July 2020.",
-        "width": 3512,
-        "height": 2242,
+        "path": "_m/g/c/2/b/cromane-wp/sign-cromane-geograph-org-uk-5.jpg",
+        "filename": "Sign, Cromane - geograph.org.uk - 5044739.jpg",
+        "caption": "Sign, Cromane",
+        "alt": "Sign, Cromane",
+        "width": 640,
+        "height": 538,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "BenToogood",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cromane_Aerial_Shot.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Rossographer",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sign,_Cromane_-_geograph.org.uk_-_5044739.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "cromane-wp",
         "sourceGeohash4": "gc2b",
         "categories": [
-          "Aerial photographs of County Kerry",
-          "CC-BY-SA-4.0",
+          "CC-BY-SA-2.0",
           "Cromane",
-          "Files with coordinates missing SDC location of creation",
-          "Populated places in County Kerry",
-          "Self-published work"
-        ]
+          "Images from Geograph Britain and Ireland",
+          "Road signs in County Kerry",
+          "Roads in County Kerry"
+        ],
+        "smallPath": "_m/g/c/2/b/cromane-wp/sign-cromane-geograph-org-uk-5-small.webp"
       },
       "images": [
         {
@@ -150,7 +150,8 @@
             "Self-published work",
             "Statue of King Puck",
             "Taken with Canon PowerShot A80"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/0/killorglin-wp/king-puck-small.webp"
         },
         {
           "path": "_m/g/c/3/0/killorglin-wp/kerry-bog-village-museum-02.jpg",
@@ -172,7 +173,9 @@
             "Kerry Bog Village Museum",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/0/killorglin-wp/kerry-bog-village-museum-02-medium.webp",
+          "smallPath": "_m/g/c/3/0/killorglin-wp/kerry-bog-village-museum-02-small.webp"
         },
         {
           "path": "_m/g/c/3/0/killorglin-wp/rossbeigh.jpg",
@@ -192,7 +195,8 @@
             "Beaches of County Kerry",
             "CC-BY-SA-3.0",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/0/killorglin-wp/rossbeigh-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/blasket-harbour.jpg",
@@ -214,7 +218,9 @@
             "Ports and harbours in the Republic of Ireland",
             "Self-published work",
             "Taken with Canon Digital IXUS 65"
-          ]
+          ],
+          "mediumPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/blasket-harbour-medium.webp",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/blasket-harbour-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory.jpg",
@@ -242,7 +248,9 @@
             "Quality images of Ireland by Ingo Mehling",
             "Quality images of cultural heritage monuments in County Kerry",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory-medium.webp",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/dolphin-fungie-memorial-dingle.jpg",
@@ -262,7 +270,8 @@
             "CC-BY-SA-3.0",
             "Fungie",
             "Monuments and memorials in County Kerry"
-          ]
+          ],
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/dolphin-fungie-memorial-dingle-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/seal-in-dingle-last-year-58114.jpg",
@@ -277,7 +286,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seal_in_Dingle_last_Year_(5811421838).jpg",
           "sourceType": "poi",
           "sourceArticleId": "dingle-peninsula",
-          "sourceGeohash4": "gc2b"
+          "sourceGeohash4": "gc2b",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/seal-in-dingle-last-year-58114-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din.jpg",
@@ -291,7 +301,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strand_Street_-_Sr%C3%A1id_na_Tr%C3%A1,_Dingle_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "dingle-peninsula",
-          "sourceGeohash4": "gc2b"
+          "sourceGeohash4": "gc2b",
+          "mediumPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din-medium.webp",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din-small.webp"
         }
       ],
       "narration": [

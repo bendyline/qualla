@@ -45,7 +45,7 @@ Located at 30.009N, 90.725W on the west bank of the Mississippi River in Vacheri
   - Farm workers in cabins until 1977, six original slave quarters survive
   - One of 30 substantial Creole raised houses in Louisiana
   - National Register of Historic Places listing confirmed
-- [Wikipedia - Alcee Fortier and Brer Rabbit tales](https://en.wikipedia.org/wiki/Laura_Plantation)
+- [Wikipedia - Alcee Fortier and Brer Rabbit tales](https://en.wikipedia.org/?curid=9009066)
   - Fortier collected Compair Lapin stories in 1870s at Laura Plantation
   - Published 1894 as Louisiana Folk Tales
   - Stories originated in Senegal, brought by enslaved Senegalese circa 1720s

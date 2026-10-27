@@ -40,7 +40,7 @@ Nozawaonsen is located at 36.923N, 138.441E in the mountains of Nagano Prefectur
 - [Nozawa Onsen Dosojin Matsuri](http://nozawa-onsen.com/nozawa-fire-festival)
 - [Enjoy a hot night out at Nozawa Onsen](http://www.japantimes.co.jp/text/fv20120101a1.html)
 - [Nozawaonsen Village official statistics](http://www.vill.nozawaonsen.nagano.jp)
-- [Nozawaonsen - Wikipedia](https://en.wikipedia.org/wiki/Nozawaonsen)
+- [Nozawaonsen - Wikipedia](https://en.wikipedia.org/?curid=624580)
   - Dosojin Fire Festival designated Important Intangible Folk Cultural Property in December 1993 confirmed
   - Festival held annually on January 15 confirmed
   - Nozawa Onsen hosted biathlon events during 1998 Winter Olympics confirmed

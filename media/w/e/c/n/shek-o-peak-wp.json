@@ -3,37 +3,22 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/e/c/n/shek-o-peak-wp/hero.jpg",
-        "filename": "Shek O Peak - at the Dragons Back (8117559516).jpg",
-        "caption": "Shek O Peak - at the Dragon's Back",
-        "alt": "Shek O Peak - at the Dragon's Back",
-        "width": 1024,
-        "height": 684,
-        "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "Roger Price from Hong Kong, Hong Kong",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shek_O_Peak_-_at_the_Dragons_Back_(8117559516).jpg",
-        "sourceType": "core",
-        "sourceArticleId": "shek-o-peak-wp",
-        "sourceGeohash4": "wecn",
-        "categories": [
-          "Big Wave Bay Beach",
-          "CC-BY-2.0",
-          "Dragon's Back",
-          "Flickr images reviewed by File Upload Bot (Magnus Manske)",
-          "Images with annotations",
-          "Photos by antwerpenR",
-          "Photos uploaded from Flickr by Fæ using a script",
-          "Romanization of Cantonese",
-          "Shek O Peak",
-          "Shek O Peninsula",
-          "Signs in Hong Kong",
-          "Taken with Panasonic Lumix DMC-GX1"
-        ]
+        "path": "_m/w/e/c/n/lantau-island-wp/lantau-montane-grassland.jpg",
+        "filename": "Lantau montane grassland.jpg",
+        "caption": "Montane grassland during the dry season (December) in Lantau Country Park, Lantau Island, Hong Kong SAR, China.",
+        "alt": "Montane grassland during the dry season (December) in Lantau Country Park, Lantau Island, Hong Kong SAR, China.",
+        "width": 8422,
+        "height": 4271,
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "LiquidGhoul",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lantau_montane_grassland.jpg",
+        "mediumPath": "_m/w/e/c/n/lantau-island-wp/lantau-montane-grassland-medium.webp",
+        "smallPath": "_m/w/e/c/n/lantau-island-wp/lantau-montane-grassland-small.webp"
       },
       "images": [
         {
-          "path": "_m/w/e/c/n/shek-o-peak-wp/location-hk-island-hon.png",
+          "path": "_m/w/e/c/n/aberdeen-country-park-wp/location-hk-island-hon.png",
           "filename": "Hongkongisland.png",
           "caption": "Location of HK Island in Hong Kong",
           "alt": "Location of HK Island in Hong Kong",
@@ -50,10 +35,11 @@
             "CC-BY-2.0",
             "Hong Kong Island",
             "Locator maps of Hong Kong"
-          ]
+          ],
+          "smallPath": "_m/w/e/c/n/aberdeen-country-park-wp/location-hk-island-hon-small.webp"
         },
         {
-          "path": "_m/w/e/c/n/shek-o-peak-wp/lantau-montane-grassland.jpg",
+          "path": "_m/w/e/c/n/lantau-island-wp/lantau-montane-grassland.jpg",
           "filename": "Lantau montane grassland.jpg",
           "caption": "Montane grassland during the dry season (December) in Lantau Country Park, Lantau Island, Hong Kong SAR, China.",
           "alt": "Montane grassland during the dry season (December) in Lantau Country Park, Lantau Island, Hong Kong SAR, China.",
@@ -74,10 +60,12 @@
             "Montane grasslands and shrublands",
             "Self-published work",
             "Taken with Canon EOS 7D"
-          ]
+          ],
+          "mediumPath": "_m/w/e/c/n/lantau-island-wp/lantau-montane-grassland-medium.webp",
+          "smallPath": "_m/w/e/c/n/lantau-island-wp/lantau-montane-grassland-small.webp"
         },
         {
-          "path": "_m/w/e/c/n/shek-o-peak-wp/gallery-1.jpg",
+          "path": "_m/w/e/c/n/d-aguilar-peak-wp/gallery-1.jpg",
           "filename": "DragonBack1.jpg",
           "caption": "​龍脊，飛翔傘的熱門地點",
           "alt": "​龍脊，飛翔傘的熱門地點",
@@ -102,7 +90,8 @@
             "Shek O Country Club",
             "Shek O Peninsula",
             "Tai Tau Chau, Southern District"
-          ]
+          ],
+          "smallPath": "_m/w/e/c/n/d-aguilar-peak-wp/gallery-1-small.webp"
         }
       ],
       "narration": [
@@ -113,8 +102,9 @@
         "_m/w/e/c/n/shek-o-peak-wp/wecn-shek-o-peak-between-two-worlds.mp3"
       ],
       "combinedNarration": "_m/w/e/c/n/shek-o-peak-wp/wecn-shek-o-peak-combined.mp3",
-      "combinedNarrationBytes": 2434035,
-      "combinedNarrationDuration": 202
+      "combinedNarrationBytes": 2525409,
+      "combinedNarrationDuration": 202,
+      "combinedCover": "_m/w/e/c/n/shek-o-peak-wp/wecn-shek-o-peak-combined-cover.jpg"
     }
   }
 }

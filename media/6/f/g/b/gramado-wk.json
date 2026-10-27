@@ -3,29 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/f/g/b/gramado-wk/hero.jpg",
-        "filename": "Igreja Matriz São Pedro.jpg",
-        "caption": "Igreja em Gramado",
-        "alt": "Igreja em Gramado",
-        "width": 3072,
-        "height": 2304,
+        "path": "_m/6/f/g/b/gramado-wk/agua-em-pedra.jpg",
+        "filename": "Agua em pedra.jpg",
+        "caption": "Imagem de fluxo de agua em Gramado.",
+        "alt": "Imagem de fluxo de agua em Gramado.",
+        "width": 5472,
+        "height": 3648,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "User:Fernando S. Aldado",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_Matriz_S%C3%A3o_Pedro.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Bertachini",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agua_em_pedra.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "gramado-wk",
         "sourceGeohash4": "6fgb",
-        "categories": [
-          "Igreja São Pedro (Gramado)",
-          "PD-self",
-          "Self-published work",
-          "Taken with Sony DSC-W7"
-        ]
+        "mediumPath": "_m/6/f/g/b/gramado-wk/agua-em-pedra-medium.webp",
+        "smallPath": "_m/6/f/g/b/gramado-wk/agua-em-pedra-small.webp"
       },
       "images": [
         {
-          "path": "_m/6/f/g/b/gramado-wk/lago-negro-2.jpg",
+          "path": "_m/6/f/g/b/gramado-wp/lago-negro-2.jpg",
           "filename": "Lago Negro 2.jpg",
           "caption": "I take this picture in 29/12/05",
           "alt": "I take this picture in 29/12/05",
@@ -47,11 +43,11 @@
             "Self-published work",
             "Taken with Sony DSC-W7"
           ],
-          "mediumPath": "_m/6/f/g/b/gramado-wk/lago-negro-2-medium.webp",
-          "smallPath": "_m/6/f/g/b/gramado-wk/lago-negro-2-small.webp"
+          "mediumPath": "_m/6/f/g/b/gramado-wp/lago-negro-2-medium.webp",
+          "smallPath": "_m/6/f/g/b/gramado-wp/lago-negro-2-small.webp"
         },
         {
-          "path": "_m/6/f/g/b/gramado-wk/gramado-rotula.jpg",
+          "path": "_m/6/f/g/b/gramado-wp/gramado-rotula.jpg",
           "filename": "Gramado rótula.jpg",
           "caption": "I take this picture in 29/12/05.",
           "alt": "I take this picture in 29/12/05.",
@@ -72,11 +68,11 @@
             "Self-published work",
             "Taken with Sony DSC-W7"
           ],
-          "mediumPath": "_m/6/f/g/b/gramado-wk/gramado-rotula-medium.webp",
-          "smallPath": "_m/6/f/g/b/gramado-wk/gramado-rotula-small.webp"
+          "mediumPath": "_m/6/f/g/b/gramado-wp/gramado-rotula-medium.webp",
+          "smallPath": "_m/6/f/g/b/gramado-wp/gramado-rotula-small.webp"
         },
         {
-          "path": "_m/6/f/g/b/gramado-wk/lago-negro12.jpg",
+          "path": "_m/6/f/g/b/gramado-wp/lago-negro12.jpg",
           "filename": "Lago Negro12.jpg",
           "caption": "I took this picture in 29/12/05.",
           "alt": "I took this picture in 29/12/05.",
@@ -99,8 +95,8 @@
             "Self-published work",
             "Taken with Sony DSC-W7"
           ],
-          "mediumPath": "_m/6/f/g/b/gramado-wk/lago-negro12-medium.webp",
-          "smallPath": "_m/6/f/g/b/gramado-wk/lago-negro12-small.webp"
+          "mediumPath": "_m/6/f/g/b/gramado-wp/lago-negro12-medium.webp",
+          "smallPath": "_m/6/f/g/b/gramado-wp/lago-negro12-small.webp"
         },
         {
           "path": "_m/6/f/g/b/gramado-wk/anjo-na-igreja-matriz-sao-pedr.jpg",
@@ -469,7 +465,8 @@
             "License migration completed",
             "Media missing infobox template",
             "Taken with Pentax Optio 750Z"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/b/gramado-wp/lagonegro3-small.webp"
         },
         {
           "path": "_m/6/f/g/b/gramado-wp/joaquina-bier-02.jpg",
@@ -490,7 +487,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Lago Joaquina Rita Bier (Gramado)",
             "Taken with Canon PowerShot S80"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/b/gramado-wp/joaquina-bier-02-small.webp"
         },
         {
           "path": "_m/6/f/g/b/gramado-wp/papainoelgramado.jpg",
@@ -512,7 +510,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/b/gramado-wp/papainoelgramado-small.webp"
         },
         {
           "path": "_m/6/f/g/b/gramado-wp/brasao-gramado.png",
@@ -532,7 +531,9 @@
             "PD Brazil Government",
             "Symbols of Gramado",
             "Tinctures not specified (nonSVG)"
-          ]
+          ],
+          "mediumPath": "_m/6/f/g/b/gramado-wp/brasao-gramado-medium.webp",
+          "smallPath": "_m/6/f/g/b/gramado-wp/brasao-gramado-small.webp"
         },
         {
           "path": "_m/6/f/g/b/gramado-wp/bandeira-de-gramado.jpg",
@@ -553,7 +554,8 @@
             "Images with inappropriate JPEG compression",
             "PD Brazil Government",
             "Symbols of Gramado"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/b/gramado-wp/bandeira-de-gramado-small.webp"
         },
         {
           "path": "_m/6/f/g/b/gramado-wp/caracol-chocolates.jpg",
@@ -576,7 +578,9 @@
             "Self-published work",
             "Shops in Gramado",
             "Taken with Nikon Coolpix S3100"
-          ]
+          ],
+          "mediumPath": "_m/6/f/g/b/gramado-wp/caracol-chocolates-medium.webp",
+          "smallPath": "_m/6/f/g/b/gramado-wp/caracol-chocolates-small.webp"
         },
         {
           "path": "_m/6/f/g/b/gramado-wp/le-jardin-parque-de-lavanda-2-.jpg",
@@ -597,7 +601,9 @@
             "Gardens and parks in Gramado",
             "Nature of Brazil",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/6/f/g/b/gramado-wp/le-jardin-parque-de-lavanda-2--medium.webp",
+          "smallPath": "_m/6/f/g/b/gramado-wp/le-jardin-parque-de-lavanda-2--small.webp"
         },
         {
           "path": "_m/6/f/g/b/gramado-wp/chocofest-2014.jpg",
@@ -618,7 +624,9 @@
             "Chocofest (Gramado)",
             "Easter 2014",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/6/f/g/b/gramado-wp/chocofest-2014-medium.webp",
+          "smallPath": "_m/6/f/g/b/gramado-wp/chocofest-2014-small.webp"
         },
         {
           "path": "_m/6/f/g/b/gramado-wp/gramado-rs-2022.jpg",
@@ -633,7 +641,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gramado_RS_2022.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gramado-wp",
-          "sourceGeohash4": "6fgb"
+          "sourceGeohash4": "6fgb",
+          "mediumPath": "_m/6/f/g/b/gramado-wp/gramado-rs-2022-medium.webp",
+          "smallPath": "_m/6/f/g/b/gramado-wp/gramado-rs-2022-small.webp"
         },
         {
           "path": "_m/6/f/g/b/gramado-wp/panorama-of-centro-de-gramado-.jpg",
@@ -648,7 +658,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_of_Centro_de_Gramado_at_night_(24884860720).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gramado-wp",
-          "sourceGeohash4": "6fgb"
+          "sourceGeohash4": "6fgb",
+          "mediumPath": "_m/6/f/g/b/gramado-wp/panorama-of-centro-de-gramado--medium.webp",
+          "smallPath": "_m/6/f/g/b/gramado-wp/panorama-of-centro-de-gramado--small.webp"
         },
         {
           "path": "_m/6/f/g/b/gramado-wp/gramado-rio-grande-do-sul-bras.jpg",
@@ -663,7 +675,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:GRAMADO_-_RIO_GRANDE_DO_SUL_-_BRASIL_BY_AUGUSTO_JANISCKI_JUNIOR_(14281900109).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gramado-wp",
-          "sourceGeohash4": "6fgb"
+          "sourceGeohash4": "6fgb",
+          "mediumPath": "_m/6/f/g/b/gramado-wp/gramado-rio-grande-do-sul-bras-medium.webp",
+          "smallPath": "_m/6/f/g/b/gramado-wp/gramado-rio-grande-do-sul-bras-small.webp"
         },
         {
           "path": "_m/6/f/g/b/canela-wk/catedral-natal.jpg",
@@ -687,7 +701,9 @@
             "Photographs taken on 2005-12-29",
             "Self-published work",
             "Taken with Sony DSC-W7"
-          ]
+          ],
+          "mediumPath": "_m/6/f/g/b/canela-wk/catedral-natal-medium.webp",
+          "smallPath": "_m/6/f/g/b/canela-wk/catedral-natal-small.webp"
         },
         {
           "path": "_m/6/f/g/b/canela-wk/cascata-caracol2.jpg",
@@ -710,7 +726,9 @@
             "Pictures of the day (2006)",
             "Self-published work",
             "Taken with Sony DSC-W7"
-          ]
+          ],
+          "mediumPath": "_m/6/f/g/b/canela-wk/cascata-caracol2-medium.webp",
+          "smallPath": "_m/6/f/g/b/canela-wk/cascata-caracol2-small.webp"
         },
         {
           "path": "_m/6/f/g/b/canela-wk/rio-paranhana.jpg",
@@ -730,7 +748,8 @@
             "PD-self",
             "Rivers of Igrejinha",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/b/canela-wk/rio-paranhana-small.webp"
         },
         {
           "path": "_m/6/f/g/b/canela-wk/cascata-caracol-2.jpg",
@@ -757,7 +776,8 @@
             "Self-published work",
             "Taken with Samsung NX300M",
             "Uploaded via Campaign:wle-br"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/b/canela-wk/cascata-caracol-2-small.webp"
         },
         {
           "path": "_m/6/f/g/b/canela-wk/parque-da-ferradura-canela-rs-.jpg",
@@ -786,7 +806,9 @@
             "Self-published work",
             "Unidentified trees in Brazil",
             "Uploaded via Campaign:wle-br"
-          ]
+          ],
+          "mediumPath": "_m/6/f/g/b/canela-wk/parque-da-ferradura-canela-rs--medium.webp",
+          "smallPath": "_m/6/f/g/b/canela-wk/parque-da-ferradura-canela-rs--small.webp"
         },
         {
           "path": "_m/6/f/g/d/caxias-do-sul-wp/catedraldecaxias2.jpg",
@@ -811,7 +833,8 @@
             "Photographs by Ricardo André Frantz",
             "Praça Dante Alighieri",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/d/caxias-do-sul-wp/catedraldecaxias2-small.webp"
         },
         {
           "path": "_m/6/f/g/d/caxias-do-sul-wp/igrejasaopelegrino-caxiasdosul.jpg",
@@ -836,7 +859,8 @@
             "License migration redundant",
             "Photographs by Ricardo André Frantz",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/d/caxias-do-sul-wp/igrejasaopelegrino-caxiasdosul-small.webp"
         },
         {
           "path": "_m/6/f/g/d/caxias-do-sul-wp/parreiral-em-caxias.jpg",
@@ -859,7 +883,8 @@
             "Nature of Caxias do Sul",
             "Photographs by Ricardo André Frantz",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/d/caxias-do-sul-wp/parreiral-em-caxias-small.webp"
         },
         {
           "path": "_m/6/f/g/d/caxias-do-sul-wp/casa-de-pedra.jpg",
@@ -882,7 +907,8 @@
             "Museu Ambiência Casa de Pedra",
             "Photographs by Ricardo André Frantz",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/d/caxias-do-sul-wp/casa-de-pedra-small.webp"
         },
         {
           "path": "_m/6/f/g/d/caxias-do-sul-wp/galopolis.jpg",
@@ -904,7 +930,8 @@
             "Rivers of Caxias do Sul",
             "Taken with Sony DSC-S40",
             "Waterfalls in Caxias do Sul"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/d/caxias-do-sul-wp/galopolis-small.webp"
         },
         {
           "path": "_m/6/f/g/d/caxias-do-sul-wp/caxias-do-sul-praca-dante-1933.jpg",
@@ -929,7 +956,8 @@
             "PD-Art (PD-old default)",
             "Praça Dante Alighieri",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/d/caxias-do-sul-wp/caxias-do-sul-praca-dante-1933-small.webp"
         },
         {
           "path": "_m/6/f/g/d/caxias-do-sul-wp/rodoviaria-de-caxias-do-sul.jpg",
@@ -952,7 +980,8 @@
             "License migration redundant",
             "Photographs by Ricardo André Frantz",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/d/caxias-do-sul-wp/rodoviaria-de-caxias-do-sul-small.webp"
         },
         {
           "path": "_m/6/f/g/d/caxias-do-sul-wp/onibus-de-caxias-do-sul.jpg",
@@ -972,7 +1001,8 @@
             "Buses in Brazil built in unknown years",
             "Buses in Brazil photographed in 2010",
             "Buses in Caxias do Sul"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/d/caxias-do-sul-wp/onibus-de-caxias-do-sul-small.webp"
         },
         {
           "path": "_m/6/f/g/d/caxias-do-sul-wp/museu-da-uva-e-do-vinho-primo-.jpg",
@@ -987,7 +1017,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museu_da_Uva_e_do_Vinho_Primo_Slomp2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "caxias-do-sul-wp",
-          "sourceGeohash4": "6fgd"
+          "sourceGeohash4": "6fgd",
+          "mediumPath": "_m/6/f/g/d/caxias-do-sul-wp/museu-da-uva-e-do-vinho-primo--medium.webp",
+          "smallPath": "_m/6/f/g/d/caxias-do-sul-wp/museu-da-uva-e-do-vinho-primo--small.webp"
         },
         {
           "path": "_m/6/f/g/6/bento-goncalves-wk/br-453.png",
@@ -1002,7 +1034,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BR-453.png",
           "sourceType": "poi",
           "sourceArticleId": "bento-goncalves-wk",
-          "sourceGeohash4": "6fgd"
+          "sourceGeohash4": "6fgd",
+          "smallPath": "_m/6/f/g/6/bento-goncalves-wk/br-453-small.webp"
         },
         {
           "path": "_m/6/f/e/t/porto-alegre-wp/br-116-rs.png",
@@ -1017,7 +1050,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BR-116-rs.png",
           "sourceType": "poi",
           "sourceArticleId": "porto-alegre-wp",
-          "sourceGeohash4": "6fgd"
+          "sourceGeohash4": "6fgd",
+          "smallPath": "_m/6/f/e/t/porto-alegre-wp/br-116-rs-small.webp"
         },
         {
           "path": "_m/6/f/g/8/nova-petropolis-wk/hero.jpg",
@@ -1040,7 +1074,8 @@
             "Igreja da Aldeia do Imigrante",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/6/f/g/8/nova-petropolis-wk/hero-small.webp"
         }
       ],
       "narration": [

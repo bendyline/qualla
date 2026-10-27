@@ -36,7 +36,7 @@ Located at 35.93°N, 84.40°W on the western edge of Oak Ridge, Tennessee, along
 
 ## Sources
 
-- [K-25 - Wikipedia](https://en.wikipedia.org/wiki/K-25)
+- [K-25 - Wikipedia](https://en.wikipedia.org/?curid=1351125)
   - K-25 was the largest building in the world when built in 1944
   - 25,000 workers at peak construction
   - Enriched uranium used in Little Boy bomb dropped on Hiroshima August 6, 1945

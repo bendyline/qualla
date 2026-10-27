@@ -33,7 +33,7 @@ Located at 36.316N, 140.570E on the coast of Ibaraki Prefecture, near the town o
 ## Sources
 
 - [Isohama Kofun Cluster - Wikipedia](https://en.wikipedia.org/?curid=67492923)
-- [Isohama Kofun Cluster - Wikipedia (fact-check)](https://en.wikipedia.org/wiki/Isohama_Kofun_Cluster)
+- [Isohama Kofun Cluster - Wikipedia (fact-check)](https://en.wikipedia.org/?curid=67492923)
   - Hisagezuka Kofun total length 101.4 meters, one of largest in Ibaraki confirmed
   - Circular portion 65 meters in diameter confirmed
   - Haniwa clay figures recovered from slopes confirmed

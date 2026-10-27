@@ -32,7 +32,7 @@ The fort was deactivated in 1933 after 251 years of continuous military use and 
 
 ## Flight Context
 
-The Castillo de San Marcos is immediately recognizable from the air as a star-shaped masonry fort on the western shore of Matanzas Bay in downtown St. Augustine, at approximately 29.898N, 81.311W. The distinctive diamond-shaped bastions, surrounding moat, and green glacis stand out against the urban grid. The Matanzas River runs along the east side, with the Bridge of Lions visible to the south. The St. Augustine Inlet is to the northeast. Nearest airports: St. Augustine Airport (KSGJ) approximately 4nm northwest, Jacksonville International (KJAX) 35nm north. The fort is best viewed at low to moderate altitude; the star shape becomes clearly defined above 1,500 feet AGL.
+The Castillo de San Marcos is immediately recognizable from the air as a star-shaped masonry fort on the western shore of Matanzas Bay in downtown St. Augustine, at approximately 29.898N, 81.311W. The distinctive diamond-shaped bastions, surrounding moat, and green glacis stand out against the urban grid. The Matanzas River runs along the east side, with the Bridge of Lions visible to the south. The St. Augustine Inlet is to the northeast. Nearest airports: Northeast Florida Regional Airport (KSGJ, formerly St. Augustine Airport) approximately 4nm northwest, Jacksonville International (KJAX) 35nm north. The fort is best viewed at low to moderate altitude; the star shape becomes clearly defined above 1,500 feet AGL.
 
 ## Sources
 

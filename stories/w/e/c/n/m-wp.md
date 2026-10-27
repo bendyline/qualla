@@ -46,7 +46,7 @@ M+ is located at approximately 22.3010°N, 114.1596°E in the West Kowloon Cultu
 
 ## Sources
 
-- [M+ - Wikipedia](https://en.wikipedia.org/wiki/M%2B)
+- [M+ - Wikipedia](https://en.wikipedia.org/?curid=43739011)
   - Opened 12 November 2021 confirmed
   - HK$5.9 billion cost confirmed
   - 700,000 sq ft total floor area confirmed

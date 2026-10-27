@@ -33,7 +33,7 @@ Operation Neuland covered a broad area of the southern Caribbean. Key locations:
 ## Sources
 
 - [Operation Neuland - Wikipedia](https://en.wikipedia.org/?curid=36582553)
-- [Operation Neuland - Wikipedia](https://en.wikipedia.org/wiki/Operation_Neuland)
+- [Operation Neuland - Wikipedia](https://en.wikipedia.org/?curid=36582553)
   - Six German U-boats (U-156, U-67, U-502, U-161, U-129, U-126) and five Italian submarines confirmed
   - U-156 under Werner Hartenstein torpedoed Pedernales and Oranjestad at Aruba confirmed
   - Deck gun tampion incident killing one gunner at Aruba confirmed

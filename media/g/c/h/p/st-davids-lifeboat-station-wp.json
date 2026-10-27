@@ -3,25 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/h/p/st-davids-lifeboat-station-wp/hero.jpg",
-        "filename": "St Davids Lifeboat Station 2016.jpg",
-        "caption": "Three boathouses shown in October 2016",
-        "alt": "Three boathouses shown in October 2016",
-        "width": 5788,
-        "height": 3922,
+        "path": "_m/g/c/h/p/st-davids-lifeboat-station-wp/st-davids-rnli-station-st-just.jpg",
+        "filename": "St Davids RNLI station, St Justinian - geograph.org.uk - 4576876.jpg",
+        "caption": "St Davids RNLI station, St Justinian",
+        "alt": "St Davids RNLI station, St Justinian",
+        "width": 6016,
+        "height": 4000,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "SovalValtos",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Davids_Lifeboat_Station_2016.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Philip Pankhurst",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Davids_RNLI_station,_St_Justinian_-_geograph.org.uk_-_4576876.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "st-davids-lifeboat-station-wp",
         "sourceGeohash4": "gchp",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Files with coordinates missing SDC location of creation",
-          "Self-published work",
-          "St David's Lifeboat Station"
-        ]
+        "mediumPath": "_m/g/c/h/p/st-davids-lifeboat-station-wp/st-davids-rnli-station-st-just-medium.webp",
+        "smallPath": "_m/g/c/h/p/st-davids-lifeboat-station-wp/st-davids-rnli-station-st-just-small.webp"
       },
       "images": [
         {
@@ -501,7 +497,9 @@
             "Self-published work",
             "St. David's Bishop's Palace",
             "Taken with Nikon D300"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/r/st-davids-wp/stdavids-palace1-medium.webp",
+          "smallPath": "_m/g/c/h/r/st-davids-wp/stdavids-palace1-small.webp"
         },
         {
           "path": "_m/g/c/h/r/st-davids-wp/porth-mawr-whitesands-bay-near.jpg",
@@ -527,7 +525,9 @@
             "Self-published work",
             "Uploaded via Campaign:wle-gb-wls",
             "Whitesands Bay, Pembrokeshire"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/r/st-davids-wp/porth-mawr-whitesands-bay-near-medium.webp",
+          "smallPath": "_m/g/c/h/r/st-davids-wp/porth-mawr-whitesands-bay-near-small.webp"
         },
         {
           "path": "_m/g/c/h/r/solva-wp/solvaharbor-garethrees.jpg",
@@ -549,7 +549,8 @@
             "License migration completed",
             "Self-published work",
             "Solva"
-          ]
+          ],
+          "smallPath": "_m/g/c/h/r/solva-wp/solvaharbor-garethrees-small.webp"
         },
         {
           "path": "_m/g/c/h/r/solva-wp/solva-mill-3960.jpg",
@@ -572,7 +573,9 @@
             "Solva Woollen Mill",
             "Supported by Wikimedia UK",
             "Uploaded with VicuñaUploader"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/r/solva-wp/solva-mill-3960-medium.webp",
+          "smallPath": "_m/g/c/h/r/solva-wp/solva-mill-3960-small.webp"
         },
         {
           "path": "_m/g/c/h/q/haverfordwest-wp/02-picton-castle-pembrokeshire.jpg",
@@ -592,7 +595,8 @@
             "CC-BY-SA-3.0-migrated",
             "Picton Castle",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/h/q/haverfordwest-wp/02-picton-castle-pembrokeshire-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret.jpg",
@@ -614,7 +618,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Fujifilm FinePix A330"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret-medium.webp",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/abercastle.jpg",
@@ -636,7 +642,9 @@
             "Images with extracted images",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-TZ3"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/w/pembrokeshire-wk/abercastle-medium.webp",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/abercastle-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/green-bridge-of-wales-1-pembro.jpg",
@@ -651,7 +659,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Bridge_of_Wales_1_-_Pembrokeshire_(2010).jpg",
           "sourceType": "poi",
           "sourceArticleId": "pembrokeshire-wk",
-          "sourceGeohash4": "gchw"
+          "sourceGeohash4": "gchw",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/green-bridge-of-wales-1-pembro-small.webp"
         }
       ],
       "narration": [

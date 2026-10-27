@@ -36,7 +36,7 @@ The Marrah Mountains are centered at approximately 12.95°N, 24.27°E in central
 
 ## Sources
 
-- [Marrah Mountains - Wikipedia](https://en.wikipedia.org/wiki/Marrah_Mountains)
+- [Marrah Mountains - Wikipedia](https://en.wikipedia.org/?curid=680029)
   - Deriba Caldera peak elevation 3,042 meters confirmed
   - Caldera roughly 5 km across confirmed
   - Two lakes in caldera confirmed

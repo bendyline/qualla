@@ -3,27 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/0/w/ballinskelligs-wp/hero.jpg",
-        "filename": "Ballinskelligs Priory.jpg",
-        "caption": "Aerial view of Ballinskelligs Priory and seawall.",
-        "alt": "Aerial view of Ballinskelligs Priory and seawall.",
-        "width": 4056,
-        "height": 2280,
+        "path": "_m/g/c/0/w/ballinskelligs-wp/ballinskelligs-beach-2015.jpg",
+        "filename": "Ballinskelligs Beach 2015.JPG",
+        "caption": "Beach of Ballinskelligs",
+        "alt": "Beach of Ballinskelligs",
+        "width": 4896,
+        "height": 3264,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Kmcnamee",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballinskelligs_Priory.jpg",
-        "sourceType": "core",
+        "license": "CC BY 3.0",
+        "artist": "Benreis",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballinskelligs_Beach_2015.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "ballinskelligs-wp",
         "sourceGeohash4": "gc0w",
-        "categories": [
-          "Aerial photographs of ruins of churches",
-          "Ballinskelligs Priory",
-          "CC-BY-SA-4.0",
-          "Files with coordinates missing SDC location of creation",
-          "Monasteries in Ireland",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/g/c/0/w/ballinskelligs-wp/ballinskelligs-beach-2015-medium.webp",
+        "smallPath": "_m/g/c/0/w/ballinskelligs-wp/ballinskelligs-beach-2015-small.webp"
       },
       "images": [
         {
@@ -433,7 +427,7 @@
           "smallPath": "_m/g/c/0/w/ballinskelligs-wp/horse-island-cottage-ballinske-small.webp"
         },
         {
-          "path": "_m/g/c/0/w/ballinskelligs-wp/priory-ruins-from-the-road-to-.jpg",
+          "path": "_m/g/c/0/w/ballinskelligs-abbey-wp/priory-ruins-from-the-road-to-.jpg",
           "filename": "Priory ruins from the road to the quay - geograph.org.uk - 4483743.jpg",
           "caption": "Priory ruins from the  road to the quay",
           "alt": "Priory ruins from the  road to the quay",
@@ -445,7 +439,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Priory_ruins_from_the_road_to_the_quay_-_geograph.org.uk_-_4483743.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "ballinskelligs-abbey-wp",
-          "sourceGeohash4": "gc0w"
+          "sourceGeohash4": "gc0w",
+          "smallPath": "_m/g/c/0/w/ballinskelligs-abbey-wp/priory-ruins-from-the-road-to--small.webp"
         },
         {
           "path": "_m/g/c/0/w/ballinskelligs-wp/ballinskelligs-quay-horse-isla.jpg",
@@ -486,7 +481,9 @@
             "Self-published work",
             "Skellig Michael Monastery",
             "Taken with Nikon Coolpix 3200"
-          ]
+          ],
+          "mediumPath": "_m/g/c/0/w/skellig-michael-wp/084skellig-michael-medium.webp",
+          "smallPath": "_m/g/c/0/w/skellig-michael-wp/084skellig-michael-small.webp"
         },
         {
           "path": "_m/g/c/0/w/skellig-michael-wp/092skellig-michael.jpg",
@@ -511,7 +508,9 @@
             "Self-published work",
             "Skellig Michael Lighthouse",
             "Taken with Nikon Coolpix 3200"
-          ]
+          ],
+          "mediumPath": "_m/g/c/0/w/skellig-michael-wp/092skellig-michael-medium.webp",
+          "smallPath": "_m/g/c/0/w/skellig-michael-wp/092skellig-michael-small.webp"
         },
         {
           "path": "_m/g/c/0/w/skellig-michael-wp/skelligmichael.jpg",
@@ -531,7 +530,9 @@
             "PD-user",
             "Skellig Michael",
             "Taken with Fujifilm FinePix F30"
-          ]
+          ],
+          "mediumPath": "_m/g/c/0/w/skellig-michael-wp/skelligmichael-medium.webp",
+          "smallPath": "_m/g/c/0/w/skellig-michael-wp/skelligmichael-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut.jpg",
@@ -554,7 +555,9 @@
             "License migration completed",
             "Listowel",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe.jpg",
@@ -569,7 +572,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_slugs_-_forest_and_bog_phenotypes.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir.jpg",
@@ -584,7 +589,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_Airport_(KIR).jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/portmagee.jpg",
@@ -599,7 +606,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portmagee.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/portmagee-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/portmagee-small.webp"
         }
       ],
       "narration": [

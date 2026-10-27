@@ -36,7 +36,7 @@ The Glienicke Bridge crosses the Havel narrows at 52.413°N, 13.090°E, between 
 
 ## Sources
 
-- [Glienicke Bridge - Wikipedia](https://en.wikipedia.org/wiki/Glienicke_Bridge)
+- [Glienicke Bridge - Wikipedia](https://en.wikipedia.org/?curid=1487520)
 - [Glienicke Bridge - Wikipedia](https://en.wikipedia.org/?curid=1487520)
   - Schinkel's 1834 bridge replaced by the iron bridge inaugurated 16 November 1907 (Johann Caspar Harkort Company)
   - East German authorities closed the bridge to West Berliners/West Germans 27 May 1952

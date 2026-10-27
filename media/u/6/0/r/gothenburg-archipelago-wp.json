@@ -11,28 +11,25 @@
         "_m/u/6/0/r/gothenburg-archipelago-wp/u60r-gothenburg-archipelago-the-southernmost-outpost.mp3"
       ],
       "hero": {
-        "path": "_m/u/6/0/r/gothenburg-archipelago-wk/gothenburg-archipelago-gaveska.jpg",
-        "filename": "Gothenburg Archipelago Gaveskär Banner.jpg",
-        "caption": "Göteborg (SE) - Schäreninsel",
-        "alt": "Göteborg (SE) - Schäreninsel",
-        "width": 4752,
-        "height": 679,
+        "path": "_m/u/6/0/r/gothenburg-archipelago-wp/hero.jpg",
+        "filename": "Göteborg Archipelago.JPG",
+        "caption": "View of small part of the archipelago from the highest point of Donsö.",
+        "alt": "View of small part of the archipelago from the highest point of Donsö.",
+        "width": 3200,
+        "height": 2400,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Eduard47",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gothenburg_Archipelago_Gavesk%C3%A4r_Banner.jpg",
-        "sourceType": "sibling",
-        "sourceArticleId": "gothenburg-archipelago-wk",
+        "license": "CC BY-SA 3.0",
+        "artist": "Anditamas",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:G%C3%B6teborg_Archipelago.JPG",
+        "sourceType": "core",
+        "sourceArticleId": "gothenburg-archipelago-wp",
         "sourceGeohash4": "u60r",
         "accessedAt": "2026-02-22T14:26:46.431Z",
         "categories": [
-          "CC-BY-SA-4.0",
-          "Extracted images",
-          "Gäveskär",
+          "CC-BY-SA-3.0",
+          "Donsö",
           "Göteborg Archipelago",
-          "July 2015 in Göteborg",
-          "Self-published work",
-          "Wikivoyage banners of Götaland"
+          "Self-published work"
         ],
         "mediumPath": "_m/u/6/0/r/gothenburg-archipelago-wp/hero-medium.webp",
         "smallPath": "_m/u/6/0/r/gothenburg-archipelago-wp/hero-small.webp"
@@ -576,8 +573,8 @@
             "Göteborg Archipelago",
             "Self-published work"
           ],
-          "mediumPath": "_m/u/6/0/r/gothenburg-archipelago-wp/hero-medium.jpg",
-          "smallPath": "_m/u/6/0/r/gothenburg-archipelago-wp/hero-small.jpg"
+          "mediumPath": "_m/u/6/0/r/gothenburg-archipelago-wp/hero-medium.webp",
+          "smallPath": "_m/u/6/0/r/gothenburg-archipelago-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/va/st/er/go/vastergotland/lindome-centrum-den-16-april-2.jpg",
@@ -600,7 +597,9 @@
             "License migration completed",
             "Lindome",
             "Sweden photographs taken on 2006-04-16"
-          ]
+          ],
+          "mediumPath": "_m/tpc/va/st/er/go/vastergotland/lindome-centrum-den-16-april-2-medium.webp",
+          "smallPath": "_m/tpc/va/st/er/go/vastergotland/lindome-centrum-den-16-april-2-small.webp"
         },
         {
           "path": "_m/tpc/va/st/er/go/vastergotland/bysten-av-jonas-alstromer-pa-s.jpg",
@@ -625,7 +624,8 @@
             "License migration completed",
             "Stora torget, Alingsås",
             "Sweden photographs taken on 2006-05-08"
-          ]
+          ],
+          "smallPath": "_m/tpc/va/st/er/go/vastergotland/bysten-av-jonas-alstromer-pa-s-small.webp"
         },
         {
           "path": "_m/u/6/6/k/karlsborg-fortress-wp/hero.jpg",
@@ -651,7 +651,9 @@
             "License migration completed",
             "Military architecture of Sweden",
             "Sweden photographs taken on 2006-06-09"
-          ]
+          ],
+          "mediumPath": "_m/u/6/6/k/karlsborg-fortress-wp/hero-medium.webp",
+          "smallPath": "_m/u/6/6/k/karlsborg-fortress-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/va/st/er/go/vastergotland/stadshotellet-i-tidaholm-den-2.jpg",
@@ -678,7 +680,9 @@
             "License migration redundant",
             "Self-published work",
             "Tidaholm"
-          ]
+          ],
+          "mediumPath": "_m/tpc/va/st/er/go/vastergotland/stadshotellet-i-tidaholm-den-2-medium.webp",
+          "smallPath": "_m/tpc/va/st/er/go/vastergotland/stadshotellet-i-tidaholm-den-2-small.webp"
         },
         {
           "path": "_m/tpc/va/st/er/go/vastergotland/town-of-skene-sweden.jpg",
@@ -702,7 +706,8 @@
             "License migration redundant",
             "Self-published work",
             "Skene"
-          ]
+          ],
+          "smallPath": "_m/tpc/va/st/er/go/vastergotland/town-of-skene-sweden-small.webp"
         },
         {
           "path": "_m/tpc/va/st/er/go/vastergotland/trollhattans-vattentorn.jpg",
@@ -726,7 +731,9 @@
             "Strandgatan, Trollhättan",
             "Svan 7, Trollhättan",
             "Taken with Nikon Coolpix 5700"
-          ]
+          ],
+          "mediumPath": "_m/tpc/va/st/er/go/vastergotland/trollhattans-vattentorn-medium.webp",
+          "smallPath": "_m/tpc/va/st/er/go/vastergotland/trollhattans-vattentorn-small.webp"
         },
         {
           "path": "_m/tpc/va/st/er/go/vastergotland/boras.jpg",
@@ -742,7 +749,9 @@
           "sourceType": "poi",
           "sourceArticleId": "vastergotland",
           "sourceGeohash4": "tpc/va/st/er/go",
-          "accessedAt": "2026-02-22T14:26:46.431Z"
+          "accessedAt": "2026-02-22T14:26:46.431Z",
+          "mediumPath": "_m/tpc/va/st/er/go/vastergotland/boras-medium.webp",
+          "smallPath": "_m/tpc/va/st/er/go/vastergotland/boras-small.webp"
         },
         {
           "path": "_m/tpc/va/st/er/go/vastergotland/skara-centrum.jpg",
@@ -758,7 +767,9 @@
           "sourceType": "poi",
           "sourceArticleId": "vastergotland",
           "sourceGeohash4": "tpc/va/st/er/go",
-          "accessedAt": "2026-02-22T14:26:46.431Z"
+          "accessedAt": "2026-02-22T14:26:46.431Z",
+          "mediumPath": "_m/tpc/va/st/er/go/vastergotland/skara-centrum-medium.webp",
+          "smallPath": "_m/tpc/va/st/er/go/vastergotland/skara-centrum-small.webp"
         },
         {
           "path": "_m/tpc/va/st/er/go/vastergotland/hertig-johans-torg-skovde-2014.jpg",
@@ -774,7 +785,9 @@
           "sourceType": "poi",
           "sourceArticleId": "vastergotland",
           "sourceGeohash4": "tpc/va/st/er/go",
-          "accessedAt": "2026-02-22T14:26:46.431Z"
+          "accessedAt": "2026-02-22T14:26:46.431Z",
+          "mediumPath": "_m/tpc/va/st/er/go/vastergotland/hertig-johans-torg-skovde-2014-medium.webp",
+          "smallPath": "_m/tpc/va/st/er/go/vastergotland/hertig-johans-torg-skovde-2014-small.webp"
         },
         {
           "path": "_m/tpc/va/st/er/go/vastergotland/torghuset-mariestad.jpg",
@@ -790,7 +803,9 @@
           "sourceType": "poi",
           "sourceArticleId": "vastergotland",
           "sourceGeohash4": "tpc/va/st/er/go",
-          "accessedAt": "2026-02-22T14:26:46.431Z"
+          "accessedAt": "2026-02-22T14:26:46.431Z",
+          "mediumPath": "_m/tpc/va/st/er/go/vastergotland/torghuset-mariestad-medium.webp",
+          "smallPath": "_m/tpc/va/st/er/go/vastergotland/torghuset-mariestad-small.webp"
         },
         {
           "path": "_m/tpc/va/st/er/go/vastergotland/hornborgasjon-2016.jpg",
@@ -806,7 +821,9 @@
           "sourceType": "poi",
           "sourceArticleId": "vastergotland",
           "sourceGeohash4": "tpc/va/st/er/go",
-          "accessedAt": "2026-02-22T14:26:46.431Z"
+          "accessedAt": "2026-02-22T14:26:46.431Z",
+          "mediumPath": "_m/tpc/va/st/er/go/vastergotland/hornborgasjon-2016-medium.webp",
+          "smallPath": "_m/tpc/va/st/er/go/vastergotland/hornborgasjon-2016-small.webp"
         },
         {
           "path": "_m/u/6/2/8/gothenburg-wp/goteborg-sweden-july-2.jpg",
@@ -822,7 +839,9 @@
           "sourceType": "poi",
           "sourceArticleId": "gothenburg-wp",
           "sourceGeohash4": "",
-          "accessedAt": "2026-02-22T14:26:46.431Z"
+          "accessedAt": "2026-02-22T14:26:46.431Z",
+          "mediumPath": "_m/u/6/2/8/gothenburg-wp/goteborg-sweden-july-2-medium.webp",
+          "smallPath": "_m/u/6/2/8/gothenburg-wp/goteborg-sweden-july-2-small.webp"
         },
         {
           "path": "_m/tpc/va/st/er/go/vastergotland/lidkopings-radhus-01.jpg",
@@ -838,7 +857,9 @@
           "sourceType": "poi",
           "sourceArticleId": "vastergotland",
           "sourceGeohash4": "tpc/va/st/er/go",
-          "accessedAt": "2026-02-22T14:26:46.431Z"
+          "accessedAt": "2026-02-22T14:26:46.431Z",
+          "mediumPath": "_m/tpc/va/st/er/go/vastergotland/lidkopings-radhus-01-medium.webp",
+          "smallPath": "_m/tpc/va/st/er/go/vastergotland/lidkopings-radhus-01-small.webp"
         },
         {
           "path": "_m/tpc/bo/hu/sl/an/bohuslan/tanum-2004-boats.jpg",
@@ -864,7 +885,8 @@
             "Petroglyphs of ships",
             "Taken with Canon Digital IXUS 300",
             "Vitlyckehällen (RAÄ-nr Tanum 1:1)"
-          ]
+          ],
+          "smallPath": "_m/tpc/bo/hu/sl/an/bohuslan/tanum-2004-boats-small.webp"
         }
       ],
       "combinedNarration": "_m/u/6/0/r/gothenburg-archipelago-wp/u60r-gothenburg-archipelago-combined.mp3",

@@ -3,32 +3,38 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/b/f/1969-santa-rosa-earthquakes-wp/hero.png",
-        "filename": "Bullseye1.png",
-        "caption": "Bull's eye graphic for use with earthquake location maps",
-        "alt": "Bull's eye graphic for use with earthquake location maps",
-        "width": 1610,
-        "height": 1610,
+        "path": "_m/9/q/b/f/1969-santa-rosa-earthquakes-wp/santa-rosa-geological-structur.png",
+        "filename": "Santa Rosa Geological Structure.png",
+        "caption": "Map showing principal faults and folds and locations of structure sections in the Santa Rosa and western Kenwood quadrangles. Sonoma Volcanics are shown in pink, Quaternary deposits are shown in beige. Locations of the mainshocks of the 1969 Santa Rosa earthquake sequence (Wong and Bott, 1995) shown as red stars. Open squares show the locations of the cities of Santa Rosa, Bellevue, and Melita. Numbered magenta circles correspond to localities mentioned in the pamphlet text. Holocene traces of the Rodgers Creek and Healdsburg fault zones are shown in red, adopted from Graymer and others, 2006a. Heavy black lines with barbs delineate possible locations of traces of buried thrust faults on basement surface inferred from gravity data (Chapter B), along the southwest side of Trenton Ridge and east side of Bellevue basin.",
+        "alt": "Map showing principal faults and folds and locations of structure sections in the Santa Rosa and western Kenwood quadrangles. Sonoma Volcanics are shown in pink, Quaternary deposits are shown in beige. Locations of the mainshocks of the 1969 Santa Rosa earthquake sequence (Wong and Bott, 1995) shown as red stars. Open squares show the locations of the cities of Santa Rosa, Bellevue, and Melita. Numbered magenta circles correspond to localities mentioned in the pamphlet text. Holocene traces of the Rodgers Creek and Healdsburg fault zones are shown in red, adopted from Graymer and others, 2006a. Heavy black lines with barbs delineate possible locations of traces of buried thrust faults on basement surface inferred from gravity data (Chapter B), along the southwest side of Trenton Ridge and east side of Bellevue basin.",
+        "width": 1214,
+        "height": 749,
         "mimeType": "image/png",
-        "license": "CC BY-SA 3.0",
-        "artist": "Mikenorton",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bullseye1.png",
-        "sourceType": "core",
+        "license": "Public domain",
+        "artist": "R.J. McLaughlin, V.E. Langenheim, A.M. Sarna-Wojcicki, R.J. Fleck, D.K. McPhee, C.W. Roberts, C.A. McCabe and Elmira Wan, USGS",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santa_Rosa_Geological_Structure.png",
+        "sourceType": "commons-category",
         "sourceArticleId": "1969-santa-rosa-earthquakes-wp",
         "sourceGeohash4": "9qbf",
         "categories": [
-          "CC-BY-SA-3.0",
+          "1969 Santa Rosa earthquakes",
           "Files with derivative versions",
-          "GFDL",
-          "License migration redundant",
-          "Map pointers",
-          "Self-published work",
-          "Vector version available"
-        ]
+          "Geological maps of California",
+          "Holocene geology of California",
+          "Maps of Sonoma County, California",
+          "Maps of earthquakes in California",
+          "PD USGS",
+          "Quaternary deposits in California",
+          "Sonoma Volcanics",
+          "Thrust faults in California",
+          "Thrust faults in the United States",
+          "Thrust faults of the Rocky Mountains"
+        ],
+        "smallPath": "_m/9/q/b/f/1969-santa-rosa-earthquakes-wp/santa-rosa-geological-structur-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/b/f/1969-santa-rosa-earthquakes-wp/hero.png",
+          "path": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero.png",
           "filename": "Relief map of California.png",
           "caption": "Relief map of California, USA.",
           "alt": "Relief map of California, USA.",
@@ -53,7 +59,8 @@
             "Self-published work",
             "Topographic maps of California",
             "Vaca Mountains"
-          ]
+          ],
+          "smallPath": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero-small.webp"
         },
         {
           "path": "_m/9/q/b/f/1969-santa-rosa-earthquakes-wp/santa-rosa-geological-structur.png",

@@ -3,26 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/9/z/h/casa-real-de-iloilo-wp/hero.jpg",
-        "filename": "Eusebio Villanueva Building, May 2015.jpg",
-        "caption": "Calle Real, Iloilo City",
-        "alt": "Calle Real, Iloilo City",
-        "width": 4320,
-        "height": 3240,
+        "path": "_m/w/9/z/h/casa-real-de-iloilo-wp/iloilo-old-capitol-bld.jpg",
+        "filename": "Iloilo Old Capitol Bldg., Iloilo City, Aug 2024.jpg",
+        "caption": "Iloilo Old Capitol Bldg., Iloilo City, Aug 2024",
+        "alt": "Iloilo Old Capitol Bldg., Iloilo City, Aug 2024",
+        "width": 8160,
+        "height": 6144,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Ryomaandres",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eusebio_Villanueva_Building,_May_2015.jpg",
+        "artist": "Ralff Nestor Nacor",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iloilo_Old_Capitol_Bldg.,_Iloilo_City,_Aug_2024.jpg",
         "sourceType": "core",
         "sourceArticleId": "casa-real-de-iloilo-wp",
         "sourceGeohash4": "w9zh",
         "categories": [
           "CC-BY-SA-4.0",
-          "Eusebio Villanueva Building",
-          "PD-Philippines FoP work",
-          "Philippines photographs taken on 2015-05-06",
+          "Casa Real de Iloilo",
+          "Philippine Panorama Project/Ancestral Houses",
+          "Philippine Panorama Project/Iloilo City",
+          "Photographs by User:Ralffralff",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/w/9/z/h/casa-real-de-iloilo-wp/iloilo-old-capitol-bld-medium.webp",
+        "smallPath": "_m/w/9/z/h/casa-real-de-iloilo-wp/iloilo-old-capitol-bld-small.webp"
       },
       "images": [
         {
@@ -202,7 +205,7 @@
           "smallPath": "_m/w/9/z/h/casa-real-de-iloilo-wp/the-iloilo-old-capitol-small.webp"
         },
         {
-          "path": "_m/w/9/z/h/casa-real-de-iloilo-wp/iloilo-provincial-capitol-casa.jpg",
+          "path": "_m/w/9/z/h/iloilo-city-wp/iloilo-provincial-capitol-casa.jpg",
           "filename": "Iloilo Provincial Capitol Casa Real front (Bonifacio Drive, Iloilo City; 10-22-2022).jpg",
           "caption": "Iloilo Provincial Capitol Casa Real at Bonifacio Drive, Iloilo City",
           "alt": "Iloilo Provincial Capitol Casa Real at Bonifacio Drive, Iloilo City",
@@ -224,8 +227,8 @@
             "Photographs by Patrick Roque",
             "Self-published work"
           ],
-          "mediumPath": "_m/w/9/z/h/casa-real-de-iloilo-wp/iloilo-provincial-capitol-casa-medium.webp",
-          "smallPath": "_m/w/9/z/h/casa-real-de-iloilo-wp/iloilo-provincial-capitol-casa-small.webp"
+          "mediumPath": "_m/w/9/z/h/iloilo-city-wp/iloilo-provincial-capitol-casa-medium.webp",
+          "smallPath": "_m/w/9/z/h/iloilo-city-wp/iloilo-provincial-capitol-casa-small.webp"
         },
         {
           "path": "_m/w/9/z/h/casa-real-de-iloilo-wp/iloilo-provincial-capitol-casa-1.jpg",
@@ -313,7 +316,9 @@
             "PD-Philippines FoP work",
             "Self-published work",
             "Uploaded via Campaign:wlm-ph"
-          ]
+          ],
+          "mediumPath": "_m/w/9/z/h/iloilo-city-wp/camina-balay-nga-bato-lola-ruf-medium.webp",
+          "smallPath": "_m/w/9/z/h/iloilo-city-wp/camina-balay-nga-bato-lola-ruf-small.webp"
         },
         {
           "path": "_m/w/9/z/h/calle-real-iloilo-wp/edificio-elizalde-y-ci.jpg",
@@ -328,7 +333,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edificio_Elizalde_y_Cia_(JM_Basa-Ortiz,_Iloilo_City;_01-21-2023).jpg",
           "sourceType": "poi",
           "sourceArticleId": "calle-real-iloilo-wp",
-          "sourceGeohash4": "w9zh"
+          "sourceGeohash4": "w9zh",
+          "mediumPath": "_m/w/9/z/h/calle-real-iloilo-wp/edificio-elizalde-y-ci-medium.webp",
+          "smallPath": "_m/w/9/z/h/calle-real-iloilo-wp/edificio-elizalde-y-ci-small.webp"
         },
         {
           "path": "_m/w/9/z/h/iloilo-city-wp/casa-de-emperador-megaworld-bo.jpg",
@@ -343,7 +350,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_De_Emperador_(Megaworld_Boulevard,_Mandurriao,_Iloilo_City;_10-22-2022).jpg",
           "sourceType": "poi",
           "sourceArticleId": "iloilo-city-wp",
-          "sourceGeohash4": "w9zh"
+          "sourceGeohash4": "w9zh",
+          "mediumPath": "_m/w/9/z/h/iloilo-city-wp/casa-de-emperador-megaworld-bo-medium.webp",
+          "smallPath": "_m/w/9/z/h/iloilo-city-wp/casa-de-emperador-megaworld-bo-small.webp"
         },
         {
           "path": "_m/w/9/z/h/iloilo-city-wp/jaro-belfry-corner-view-jaro-i.jpg",
@@ -358,7 +367,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaro_Belfry_corner_view_(Jaro,_Iloilo_City;_01-26-2023)_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "iloilo-city-wp",
-          "sourceGeohash4": "w9zh"
+          "sourceGeohash4": "w9zh",
+          "smallPath": "_m/w/9/z/h/iloilo-city-wp/jaro-belfry-corner-view-jaro-i-small.webp"
         },
         {
           "path": "_m/w/9/z/h/calle-real-iloilo-wp/iloilo-city-proper-jm-basa-ald.jpg",
@@ -373,7 +383,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iloilo_City_proper,_JM_Basa-Aldeguer_(Iloilo_City;_04-04-2024).jpg",
           "sourceType": "poi",
           "sourceArticleId": "calle-real-iloilo-wp",
-          "sourceGeohash4": "w9zh"
+          "sourceGeohash4": "w9zh",
+          "mediumPath": "_m/w/9/z/h/calle-real-iloilo-wp/iloilo-city-proper-jm-basa-ald-medium.webp",
+          "smallPath": "_m/w/9/z/h/calle-real-iloilo-wp/iloilo-city-proper-jm-basa-ald-small.webp"
         },
         {
           "path": "_m/w/9/z/h/iloilo-city-wp/iloilo-public-market01-cropped.jpg",
@@ -388,7 +400,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iloilo.Public.Market01_(cropped)1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "iloilo-city-wp",
-          "sourceGeohash4": "w9zh"
+          "sourceGeohash4": "w9zh",
+          "smallPath": "_m/w/9/z/h/iloilo-city-wp/iloilo-public-market01-cropped-small.webp"
         }
       ],
       "narration": [

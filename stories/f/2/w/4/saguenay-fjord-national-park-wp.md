@@ -35,7 +35,7 @@ Saguenay Fjord National Park is centered around 48.276N, 70.263W. The fjord is u
 - [Saguenay Fjord National Park - Wikipedia](https://en.wikipedia.org/?curid=24662761)
 - [Saguenay River Fjord](https://www.thecanadianencyclopedia.ca/en/article/fjord-du-saguenay)
 - [Parc national du Fjord-du-Saguenay](https://www.sepaq.com/pq/sag/index.dot?language_id=1)
-- [Saguenay Fjord National Park - Wikipedia](https://en.wikipedia.org/wiki/Saguenay_Fjord_National_Park)
+- [Saguenay Fjord National Park - Wikipedia](https://en.wikipedia.org/?curid=24662761)
   - 105 km fjord length from Saint-Fulgence to Tadoussac confirmed
   - average depth 210m, maximum 270m confirmed
   - cliff average 150m height, max 350m confirmed

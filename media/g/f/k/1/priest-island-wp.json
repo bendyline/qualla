@@ -32,7 +32,7 @@
       },
       "images": [
         {
-          "path": "_m/g/f/k/1/priest-island-wp/hebridesmap.png",
+          "path": "_m/g/f/6/e/flannan-isles-wk/hebridesmap.png",
           "filename": "Hebridesmap.png",
           "alt": "Hebridesmap.png",
           "width": 935,
@@ -56,10 +56,11 @@
             "PNG that should use vector graphics",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/6/e/flannan-isles-wk/hebridesmap-small.webp"
         },
         {
-          "path": "_m/g/f/k/1/priest-island-wp/relief-map-highland-uk.jpg",
+          "path": "_m/g/f/h/6/clachaig-inn-wp/relief-map-highland-uk.jpg",
           "filename": "Highland UK relief location map.jpg",
           "caption": "Relief map of Highland, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 6.9W\nEast: 2.9W\nNorth: 58.8N\nSouth: 56.4N",
           "alt": "Relief map of Highland, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 6.9W\nEast: 2.9W\nNorth: 58.8N\nSouth: 56.4N",
@@ -78,10 +79,12 @@
             "Maps of Highland council area",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/6/clachaig-inn-wp/relief-map-highland-uk-medium.webp",
+          "smallPath": "_m/g/f/h/6/clachaig-inn-wp/relief-map-highland-uk-small.webp"
         },
         {
-          "path": "_m/g/f/k/1/priest-island-wp/hero.png",
+          "path": "_m/g/f/k/1/gruinard-island-wp/hero.png",
           "filename": "Loch broom islands topographic map.png",
           "caption": "A topographic map of the islands of Loch Broom (The Summer Isles, Gruinard Island, and Isle Martin)\ngeographic limits:\nWEST: -5.540W\nEAST: -5.195W\nNORTH: 58.070N\n\nSOUTH: 57.865N",
           "alt": "A topographic map of the islands of Loch Broom (The Summer Isles, Gruinard Island, and Isle Martin)\ngeographic limits:\nWEST: -5.540W\nEAST: -5.195W\nNORTH: 58.070N\n\nSOUTH: 57.865N",
@@ -101,7 +104,9 @@
             "Self-published work",
             "Summer Isles",
             "Topographic maps of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/1/gruinard-island-wp/hero-medium.webp",
+          "smallPath": "_m/g/f/k/1/gruinard-island-wp/hero-small.webp"
         },
         {
           "path": "_m/g/f/k/1/priest-island-wp/acarsaideileanachleirich.jpg",
@@ -306,7 +311,7 @@
           "smallPath": "_m/g/f/k/1/priest-island-wp/admiralty-chart-no-2501-priest-small.webp"
         },
         {
-          "path": "_m/g/f/k/1/priest-island-wp/admiralty-chart-no-2500-approa.jpg",
+          "path": "_m/g/f/k/1/gruinard-island-wp/admiralty-chart-no-2500-approa.jpg",
           "filename": "Admiralty Chart No 2500 Approaches to Loch Broom and to Little Loch Broom, Published 1911.jpg",
           "caption": "Nautical chart of the approaches to Loch Broom and to Little Loch Broom at a scale of 1:29,080. Not current - not to be used for navigation!",
           "alt": "Nautical chart of the approaches to Loch Broom and to Little Loch Broom at a scale of 1:29,080. Not current - not to be used for navigation!",
@@ -318,10 +323,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_2500_Approaches_to_Loch_Broom_and_to_Little_Loch_Broom,_Published_1911.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "gruinard-island-wp",
-          "sourceGeohash4": "gfk1"
+          "sourceGeohash4": "gfk1",
+          "mediumPath": "_m/g/f/k/1/gruinard-island-wp/admiralty-chart-no-2500-approa-medium.webp",
+          "smallPath": "_m/g/f/k/1/gruinard-island-wp/admiralty-chart-no-2500-approa-small.webp"
         },
         {
-          "path": "_m/g/f/k/1/priest-island-wp/admiralty-chart-no-2509-red-po.jpg",
+          "path": "_m/g/f/k/1/loch-ewe-wp/admiralty-chart-no-2509-red-po.jpg",
           "filename": "Admiralty Chart No 2509 Red Point to Priest Island, Published 1911.jpg",
           "caption": "Nautical chart of Red Point to Priest Island, at a scale of 1:37,480. Not current - not to be used for navigation!",
           "alt": "Nautical chart of Red Point to Priest Island, at a scale of 1:37,480. Not current - not to be used for navigation!",
@@ -333,7 +340,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_2509_Red_Point_to_Priest_Island,_Published_1911.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "loch-ewe-wp",
-          "sourceGeohash4": "gfk1"
+          "sourceGeohash4": "gfk1",
+          "mediumPath": "_m/g/f/k/1/loch-ewe-wp/admiralty-chart-no-2509-red-po-medium.webp",
+          "smallPath": "_m/g/f/k/1/loch-ewe-wp/admiralty-chart-no-2509-red-po-small.webp"
         },
         {
           "path": "_m/g/f/k/1/priest-island-wp/priest-island-an-chleirich-geo.jpg",

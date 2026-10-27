@@ -28,7 +28,7 @@ Fifteen miles from Independence, in Grandview, Missouri, the Truman Farm Home an
 
 ## Flight Context
 
-Located at 39.0933°N, 94.4231°W in Independence, Missouri, in the eastern Kansas City metropolitan area. The Truman Home sits in a residential neighborhood with tree-lined streets; the property is not easily distinguishable from the air. The Truman Farm Home is 15 miles south at 39.0°N, 94.5°W in Grandview. Kansas City International (KMCI) is approximately 30 miles northwest. Lee's Summit Municipal Airport (KLXT) is about 10 miles south. Charles B. Wheeler Downtown Airport (KMKC) is roughly 12 miles west. Independence's historic courthouse square and the Harry S. Truman Presidential Library nearby provide better visual reference points from 3,000-5,000 feet.
+Located at 39.0933°N, 94.4231°W in Independence, Missouri, in the eastern Kansas City metropolitan area. The Truman Home sits in a residential neighborhood with tree-lined streets; the property is not easily distinguishable from the air. The Truman Farm Home is 15 miles south at 39.0°N, 94.5°W in Grandview. Kansas City International (KMCI) is approximately 30 miles northwest. Kansas City - Lee's Summit Regional Airport (KLXT, formerly Lee's Summit Municipal) is about 10 miles south. Charles B. Wheeler Downtown Airport (KMKC) is roughly 12 miles west. Independence's historic courthouse square and the Harry S. Truman Presidential Library nearby provide better visual reference points from 3,000-5,000 feet.
 
 ## Sources
 

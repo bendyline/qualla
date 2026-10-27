@@ -3,19 +3,20 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/e/j/z/makuria-wp/hero.jpg",
-        "filename": "King Moses George of Makuria.jpg",
-        "caption": "Wall painting from Faras (12th century). The inscription identifies the individual as Moses George (Mouses Georgios), who probably ruled the unified kingdoms of Makuria and Alodia from circa 1155-1191. For more see Varia Nubica XXI-XIX",
-        "alt": "Wall painting from Faras (12th century). The inscription identifies the individual as Moses George (Mouses Georgios), who probably ruled the unified kingdoms of Makuria and Alodia from circa 1155-1191. For more see Varia Nubica XXI-XIX",
-        "width": 2400,
-        "height": 2552,
+        "path": "_m/s/e/j/z/makuria-wp/funerary-stele-meinart.jpg",
+        "filename": "Funerary stele Meinarti 1063 NCAM.jpg",
+        "alt": "Funerary stele Meinarti 1063 NCAM.jpg",
+        "width": 4297,
+        "height": 6445,
         "mimeType": "image/jpeg",
         "license": "Public domain",
-        "artist": "Unknown author",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_Moses_George_of_Makuria.jpg",
+        "artist": "Marie-Lan Nguyen",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Funerary_stele_Meinarti_1063_NCAM.jpg",
         "sourceType": "core",
         "sourceArticleId": "makuria-wp",
-        "sourceGeohash4": "sejz"
+        "sourceGeohash4": "sejz",
+        "mediumPath": "_m/s/e/j/z/makuria-wp/funerary-stele-meinart-medium.webp",
+        "smallPath": "_m/s/e/j/z/makuria-wp/funerary-stele-meinart-small.webp"
       },
       "images": [
         {
@@ -122,7 +123,7 @@
           "smallPath": "_m/s/e/j/z/makuria-wp/autor-nieznany-sw-piot-small.webp"
         },
         {
-          "path": "_m/s/e/j/z/makuria-wp/autor-nieznany-archanio-gabrie.jpg",
+          "path": "_m/s/e/y/q/faras-wp/autor-nieznany-archanio-gabrie.jpg",
           "filename": "Autor nieznany, Archanioł Gabriel. Malowidło ścienne.jpg",
           "alt": "Autor nieznany, Archanioł Gabriel. Malowidło ścienne.jpg",
           "width": 601,
@@ -134,7 +135,7 @@
           "sourceType": "core",
           "sourceArticleId": "makuria-wp",
           "sourceGeohash4": "sejz",
-          "smallPath": "_m/s/e/j/z/makuria-wp/autor-nieznany-archanio-gabrie-small.webp"
+          "smallPath": "_m/s/e/y/q/faras-wp/autor-nieznany-archanio-gabrie-small.webp"
         },
         {
           "path": "_m/s/e/j/z/makuria-wp/muzeum-narodowe-w-wars.jpg",
@@ -332,7 +333,7 @@
           "smallPath": "_m/s/e/j/z/makuria-wp/map-makuria-about-1000-small.webp"
         },
         {
-          "path": "_m/s/e/j/z/makuria-wp/paper-graffito-banganarti.jpg",
+          "path": "_m/s/e/j/z/banganarti-wp/paper-graffito-banganarti.jpg",
           "filename": "Paper graffito Banganarti.jpg",
           "caption": "Graffito from Banganarti in Sudan, late 13th-first half of the 14th century. It mentions Paper, a self-proclaimed \"small king\" of Dongola, who is generally assumed to be the ruler of a post-Makurian successor state. In Lajtar \"A Late Christian Pilgrimage Centre in Nubia. The Evidence of Wall Inscriptions in the Upper Church at Banganarti\" p. 135 the full inscription is translated as follows:\n\"That grace is given to us by the Archangel, the salvation of our souls. I, Paper, the Small King of the town of Toungoul, wrote (this).\"",
           "alt": "Graffito from Banganarti in Sudan, late 13th-first half of the 14th century. It mentions Paper, a self-proclaimed \"small king\" of Dongola, who is generally assumed to be the ruler of a post-Makurian successor state. In Lajtar \"A Late Christian Pilgrimage Centre in Nubia. The Evidence of Wall Inscriptions in the Upper Church at Banganarti\" p. 135 the full inscription is translated as follows:\n\"That grace is given to us by the Archangel, the salvation of our souls. I, Paper, the Small King of the town of Toungoul, wrote (this).\"",
@@ -344,7 +345,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paper_graffito_Banganarti.jpg",
           "sourceType": "core",
           "sourceArticleId": "makuria-wp",
-          "sourceGeohash4": "sejz"
+          "sourceGeohash4": "sejz",
+          "smallPath": "_m/s/e/j/z/banganarti-wp/paper-graffito-banganarti-small.webp"
         },
         {
           "path": "_m/s/e/j/z/makuria-wp/edward-lear-kulat-adde.jpg",
@@ -627,7 +629,9 @@
             "Files created by COSV",
             "Items with VRTS permission confirmed",
             "Pyramids of Meroe"
-          ]
+          ],
+          "mediumPath": "_m/tpc/nu/bi/an/s_/nubians/nubia-2008-piramidi-khartoum-medium.webp",
+          "smallPath": "_m/tpc/nu/bi/an/s_/nubians/nubia-2008-piramidi-khartoum-small.webp"
         }
       ],
       "narration": [

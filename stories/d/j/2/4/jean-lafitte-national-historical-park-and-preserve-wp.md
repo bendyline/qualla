@@ -37,7 +37,7 @@ The Chalmette unit is located at 29.94N, 89.99W, about 6 miles southeast of down
 ## Sources
 
 - [Jean Lafitte National Historical Park and Preserve - Wikipedia](https://en.wikipedia.org/?curid=1938175)
-- [Jean Lafitte NHP&P - Wikipedia](https://en.wikipedia.org/wiki/Jean_Lafitte_National_Historical_Park_and_Preserve)
+- [Jean Lafitte NHP&P - Wikipedia](https://en.wikipedia.org/?curid=1938175)
   - Park established 1978 by Congress confirmed
   - Six sites confirmed
   - Acadiana unit added 1988 confirmed

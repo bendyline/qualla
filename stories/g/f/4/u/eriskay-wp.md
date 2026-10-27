@@ -42,10 +42,10 @@ Coordinates 57.075N, 7.290W. Eriskay lies between South Uist (north, by causeway
   - Nineteen men sentenced confirmed
   - Compton Mackenzie 1947 novel, 1949 Ealing film, 2016 remake confirmed
   - Causeway opened 2001 confirmed
-- [Eriskay Pony - Wikipedia](https://en.wikipedia.org/wiki/Eriskay_Pony)
+- [Eriskay Pony - Wikipedia](https://en.wikipedia.org/?curid=877152)
   - Corrected: pony population from 'fewer than three hundred' to 'around four hundred' (2024 figure ~400 worldwide)
   - Critically endangered classification confirmed
-- [Wikipedia - Werner Kissling / Eriskay documentary](https://en.wikipedia.org/wiki/Eriskay)
+- [Wikipedia - Werner Kissling / Eriskay documentary](https://en.wikipedia.org/?curid=386554)
   - 1934 documentary Eriskay: A Poem of Remote Lives by Werner Kissling confirmed
   - Rathad Kissling connection to island's first road confirmed
 

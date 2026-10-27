@@ -28,7 +28,7 @@ Perhaps the most unexpected chapter came in 2023, when the National Leprechaun M
 
 ## Flight Context
 
-Located at 30.70°N, 88.11°W in the Crichton neighborhood of Mobile, Alabama. The neighborhood sits between Toulminville and Interstate 65, visible as part of Mobile's inland residential grid. From the air, Crichton blends into Mobile's broader urban fabric north of downtown. The nearest airport is Mobile Downtown Airport (BFM), approximately 4 nautical miles south, and Mobile Regional Airport (MOB) lies about 8 nautical miles west-southwest. Best viewed at 2,000-3,000 feet AGL for neighborhood-level detail.
+Located at 30.70°N, 88.11°W in the Crichton neighborhood of Mobile, Alabama. The neighborhood sits between Toulminville and Interstate 65, visible as part of Mobile's inland residential grid. From the air, Crichton blends into Mobile's broader urban fabric north of downtown. The nearest airport is Mobile International Airport (BFM, formerly Mobile Downtown), approximately 4 nautical miles south, and Mobile Regional Airport (MOB) lies about 8 nautical miles west-southwest. Best viewed at 2,000-3,000 feet AGL for neighborhood-level detail.
 
 ## Sources
 

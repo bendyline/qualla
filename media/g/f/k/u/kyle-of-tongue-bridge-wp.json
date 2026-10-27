@@ -30,7 +30,7 @@
       },
       "images": [
         {
-          "path": "_m/g/f/k/u/kyle-of-tongue-bridge-wp/relief-map-sutherland.jpg",
+          "path": "_m/g/f/k/6/loch-assynt-wp/relief-map-sutherland.jpg",
           "filename": "Sutherland UK relief location map.jpg",
           "caption": "Relief map of Sutherland, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 5.5W\nEast: 3.3W\nNorth: 58.7N\nSouth: 57.7N",
           "alt": "Relief map of Sutherland, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 5.5W\nEast: 3.3W\nNorth: 58.7N\nSouth: 57.7N",
@@ -50,7 +50,9 @@
             "Maps of Sutherland",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/6/loch-assynt-wp/relief-map-sutherland-medium.webp",
+          "smallPath": "_m/g/f/k/6/loch-assynt-wp/relief-map-sutherland-small.webp"
         },
         {
           "path": "_m/g/f/k/t/durness-wp/chapel-durness-scotland.jpg",
@@ -77,7 +79,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot G5"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/t/durness-wp/chapel-durness-scotland-medium.webp",
+          "smallPath": "_m/g/f/k/t/durness-wp/chapel-durness-scotland-small.webp"
         },
         {
           "path": "_m/g/f/k/t/durness-wp/smoo-cave-130609-02.jpg",
@@ -99,7 +103,8 @@
             "License migration redundant",
             "Self-published work",
             "Smoo Cave"
-          ]
+          ],
+          "smallPath": "_m/g/f/k/t/durness-wp/smoo-cave-130609-02-small.webp"
         }
       ],
       "narration": [

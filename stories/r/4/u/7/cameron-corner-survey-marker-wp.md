@@ -40,7 +40,7 @@ Cameron Corner lies at almost exactly 29.00 degrees south, 141.00 degrees east, 
 - [Cameron Corner - Queensland Heritage Register](https://apps.des.qld.gov.au/heritage-register/detail/?id=602806)
   - Added to Queensland Heritage Register on 9 November 2012 confirmed
   - Classified as State Heritage Place of type 'Survey mark/peg/post' confirmed
-- [Queensland Colony separation from NSW 1859 - historical records](https://en.wikipedia.org/wiki/Cameron_Corner_Survey_Marker)
+- [Queensland Colony separation from NSW 1859 - historical records](https://en.wikipedia.org/?curid=52443531)
   - Queensland separated from NSW by letters patent in 1859 confirmed
   - Border defined as 29th parallel of south latitude to the 141st meridian of east longitude confirmed
 

@@ -37,7 +37,7 @@ Located at 35.765°N, 140.386°E, directly adjacent to and surrounding Narita In
 ## Sources
 
 - [Sanrizuka Struggle - Wikipedia](https://en.wikipedia.org/?curid=58776322)
-- [Wikipedia - Sanrizuka Struggle](https://en.wikipedia.org/wiki/Sanrizuka_Struggle)
+- [Wikipedia - Sanrizuka Struggle](https://en.wikipedia.org/?curid=58776322)
   - November 18 1965 announcement by Chief Cabinet Secretary (Tomisaburo Hashimoto) confirmed
   - Airport to be built in Tomisato (half the town to be consumed) confirmed
   - Farmers learned from news broadcast confirmed

@@ -3,29 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/p/r/b/zamora-ecuador-wk/hero.jpg",
-        "filename": "Zamora Ecuador banner.jpg",
-        "caption": "746 especies de aves en la provincia",
-        "alt": "746 especies de aves en la provincia",
-        "width": 4493,
-        "height": 642,
+        "path": "_m/6/p/r/b/zamora-ecuador-wk/zamora-ciudad.jpg",
+        "filename": "Zamora Ciudad.jpg",
+        "caption": "Ciudad de Zamora, capital de la provincia",
+        "alt": "Ciudad de Zamora, capital de la provincia",
+        "width": 3872,
+        "height": 2592,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
         "artist": "Carlosmedinav77",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zamora_Ecuador_banner.jpg",
-        "sourceType": "core",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zamora_Ciudad.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "zamora-ecuador-wk",
         "sourceGeohash4": "6prb",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Extracted images",
-          "Self-published work",
-          "Wikivoyage banners of Ecuador"
-        ]
+        "mediumPath": "_m/6/p/r/b/zamora-ecuador-wk/zamora-ciudad-medium.webp",
+        "smallPath": "_m/6/p/r/b/zamora-ecuador-wk/zamora-ciudad-small.webp"
       },
       "images": [
         {
-          "path": "_m/6/p/r/b/zamora-ecuador-wk/rio-zamora.jpg",
+          "path": "_m/6/p/r/b/zamora-ecuador-wp/rio-zamora.jpg",
           "filename": "Río Zamora.JPG",
           "caption": "Está es una fotografía autentica del Río Zamora, en la ciudad de su mismo nombre, fue tomada el 17 de septiembre de 2010.\n\nEsta fotografía es propiedad exclusiva de AndFer PRODUCCIONES y Andrea Valencia su propietaria.",
           "alt": "Está es una fotografía autentica del Río Zamora, en la ciudad de su mismo nombre, fue tomada el 17 de septiembre de 2010.\n\nEsta fotografía es propiedad exclusiva de AndFer PRODUCCIONES y Andrea Valencia su propietaria.",
@@ -51,8 +47,8 @@
             "Taken with Sony DSC-S500",
             "Zamora (Ecuador)"
           ],
-          "mediumPath": "_m/6/p/r/b/zamora-ecuador-wk/rio-zamora-medium.webp",
-          "smallPath": "_m/6/p/r/b/zamora-ecuador-wk/rio-zamora-small.webp"
+          "mediumPath": "_m/6/p/r/b/zamora-ecuador-wp/rio-zamora-medium.webp",
+          "smallPath": "_m/6/p/r/b/zamora-ecuador-wp/rio-zamora-small.webp"
         },
         {
           "path": "_m/6/p/r/b/zamora-ecuador-wk/ama-la-vida-flickr-panoramica-.jpg",
@@ -377,7 +373,9 @@
             "Lagunas del Compadre",
             "Self-published work",
             "Zamora Canton"
-          ]
+          ],
+          "mediumPath": "_m/6/p/p/z/podocarpus-national-park-wp/laguna-del-compadre-medium.webp",
+          "smallPath": "_m/6/p/p/z/podocarpus-national-park-wp/laguna-del-compadre-small.webp"
         },
         {
           "path": "_m/6/p/p/z/podocarpus-national-park-wp/parque-nacional-podocarpus-ban.jpg",
@@ -401,7 +399,9 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-TZ61",
             "Wikivoyage banners of Ecuador"
-          ]
+          ],
+          "mediumPath": "_m/6/p/p/z/podocarpus-national-park-wp/parque-nacional-podocarpus-ban-medium.webp",
+          "smallPath": "_m/6/p/p/z/podocarpus-national-park-wp/parque-nacional-podocarpus-ban-small.webp"
         }
       ],
       "narration": [

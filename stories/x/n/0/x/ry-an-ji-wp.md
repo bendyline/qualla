@@ -32,7 +32,7 @@ Located at 35.034N, 135.718E in northwest Kyoto near the base of the Kinugasa hi
 
 ## Sources
 
-- [Ryoan-ji - Wikipedia](https://en.wikipedia.org/wiki/Ry%C5%8Dan-ji)
+- [Ryoan-ji - Wikipedia](https://en.wikipedia.org/?curid=1172660)
 - [Ryoanji - World History Encyclopedia](https://www.worldhistory.org/Ryoanji/)
   - Fifteen stones arranged so at least one is always hidden - confirmed
   - Garden is 25 meters by 10 meters - confirmed

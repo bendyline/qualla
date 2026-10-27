@@ -3,23 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/x/k/9/byzantine-empire-wk/hero.png",
-        "filename": "Area at the time of Justinian I's death in the Byzantine Empire.png",
-        "caption": "area at the time of Justinian I's death in the Byzantine Empire",
-        "alt": "area at the time of Justinian I's death in the Byzantine Empire",
-        "width": 2500,
-        "height": 1431,
-        "mimeType": "image/png",
-        "license": "CC BY-SA 4.0",
-        "artist": "Tōjichi",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Area_at_the_time_of_Justinian_I%27s_death_in_the_Byzantine_Empire.png",
+        "path": "_m/s/x/k/9/byzantine-empire-wk/zagnos-valley-view-tra.jpg",
+        "filename": "Trabzon City walls and Aquaduct.JPG",
+        "caption": "Zagnos valley view of Trabzon, Turkey.",
+        "alt": "Zagnos valley view of Trabzon, Turkey.",
+        "width": 5184,
+        "height": 3456,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 3.0",
+        "artist": "İhsan Deniz Kılıçoğlu",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trabzon_City_walls_and_Aquaduct.JPG",
         "sourceType": "core",
         "sourceArticleId": "byzantine-empire-wk",
-        "sourceGeohash4": "sxk9"
+        "sourceGeohash4": "sxk9",
+        "mediumPath": "_m/s/x/k/9/byzantine-empire-wk/zagnos-valley-view-tra-medium.webp",
+        "smallPath": "_m/s/x/k/9/byzantine-empire-wk/zagnos-valley-view-tra-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/antioch-saint-pierre-church-fr.jpg",
+          "path": "_m/s/x/k/9/byzantine-empire-wp/antioch-saint-pierre-church-fr.jpg",
           "filename": "Antioch Saint Pierre Church Front.JPG",
           "caption": "The church of Saint Pierre in Antioch.",
           "alt": "The church of Saint Pierre in Antioch.",
@@ -42,10 +44,11 @@
             "Photographs taken on 2003-05-22",
             "Self-published work",
             "Taken with Canon PowerShot G2"
-          ]
+          ],
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/antioch-saint-pierre-church-fr-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/hagia-sophia-istanbul-2006.jpg",
+          "path": "_m/s/x/k/9/byzantine-empire-wp/hagia-sophia-istanbul-2006.jpg",
           "filename": "Hagia Sophia, Istanbul 2006.jpg",
           "alt": "Hagia Sophia, Istanbul 2006.jpg",
           "width": 1200,
@@ -62,10 +65,11 @@
             "License migration completed",
             "Media missing infobox template",
             "SE exterior of the of Hagia Sophia"
-          ]
+          ],
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/hagia-sophia-istanbul-2006-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/four-tetrarchs-porphyr.jpg",
+          "path": "_m/u/2/0/f/piazza-san-marco-wp/four-tetrarchs-porphyr.jpg",
           "filename": "Venice – The Tetrarchs 03.jpg",
           "caption": "The Four Tetrarchs, a porphyry sculpture sacked from the Byzantine Philadelphion palace in 1204, on a corner of Saint Mark's in Venice, next to the \"Porta della Carta\"",
           "alt": "The Four Tetrarchs, a porphyry sculpture sacked from the Byzantine Philadelphion palace in 1204, on a corner of Saint Mark's in Venice, next to the \"Porta della Carta\"",
@@ -93,10 +97,12 @@
             "Photos by User:Nino Barbieri",
             "Self-published work",
             "Statues of the Tetrarchs (Venice)"
-          ]
+          ],
+          "mediumPath": "_m/u/2/0/f/piazza-san-marco-wp/four-tetrarchs-porphyr-medium.webp",
+          "smallPath": "_m/u/2/0/f/piazza-san-marco-wp/four-tetrarchs-porphyr-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/nessebarvieillemetropole.jpg",
+          "path": "_m/s/x/k/9/byzantine-empire-wp/nessebarvieillemetropole.jpg",
           "filename": "NessebarVieilleMetropole.jpg",
           "alt": "NessebarVieilleMetropole.jpg",
           "width": 2048,
@@ -115,7 +121,9 @@
             "GFDL",
             "License migration completed",
             "Media missing infobox template"
-          ]
+          ],
+          "mediumPath": "_m/s/x/k/9/byzantine-empire-wp/nessebarvieillemetropole-medium.webp",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/nessebarvieillemetropole-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wk/santa-croce-gerusalemm.jpg",
@@ -141,7 +149,7 @@
           "smallPath": "_m/s/x/k/9/byzantine-empire-wk/santa-croce-gerusalemm-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/byzantine-constantinople-en.png",
+          "path": "_m/tpc/cr/us/ad/es/crusades/byzantine-constantinople-en.png",
           "filename": "Byzantine Constantinople-en.png",
           "caption": "Topographical map of Constantinople during the Byzantine period.",
           "alt": "Topographical map of Constantinople during the Byzantine period.",
@@ -165,7 +173,9 @@
             "Maps of Constantinople",
             "Maps with the walls of Constantinople",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/cr/us/ad/es/crusades/byzantine-constantinople-en-medium.webp",
+          "smallPath": "_m/tpc/cr/us/ad/es/crusades/byzantine-constantinople-en-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wk/6th-century-byzantine.jpg",
@@ -188,7 +198,7 @@
           "smallPath": "_m/s/x/k/9/byzantine-empire-wk/6th-century-byzantine-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/theodosia-01.jpg",
+          "path": "_m/s/w/b/7/classical-greece-wp/theodosia-01.jpg",
           "filename": "THEODOSIA 01.jpg",
           "caption": "Genoese fortress in Theodosia (Feodosia, Crimea)",
           "alt": "Genoese fortress in Theodosia (Feodosia, Crimea)",
@@ -200,7 +210,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:THEODOSIA_01.jpg",
           "sourceType": "core",
           "sourceArticleId": "byzantine-empire-wk",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/w/b/7/classical-greece-wp/theodosia-01-medium.webp",
+          "smallPath": "_m/s/w/b/7/classical-greece-wp/theodosia-01-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wk/old-school-zeytinbag-b.jpg",
@@ -237,7 +249,7 @@
           "smallPath": "_m/s/x/k/9/byzantine-empire-wk/morning-view-city-vize-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/kerch-obeliskofglory.jpg",
+          "path": "_m/s/w/b/7/classical-greece-wp/kerch-obeliskofglory.jpg",
           "filename": "Kerch ObeliskOfGlory.jpg",
           "caption": "Kerch. Obelisk of Glory on Mount Mithridates",
           "alt": "Kerch. Obelisk of Glory on Mount Mithridates",
@@ -249,7 +261,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerch_ObeliskOfGlory.jpg",
           "sourceType": "core",
           "sourceArticleId": "byzantine-empire-wk",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "smallPath": "_m/s/w/b/7/classical-greece-wp/kerch-obeliskofglory-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wk/shrine-john-baptist-um.jpg",
@@ -286,7 +299,7 @@
           "smallPath": "_m/s/x/k/9/byzantine-empire-wk/sevastopol-chersonesus-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/mt-athos-3939757657.jpg",
+          "path": "_m/s/x/k/9/byzantine-empire-wp/mt-athos-3939757657.jpg",
           "filename": "Mt. Athos (3939757657).jpg",
           "caption": "Mt. Athos",
           "alt": "Mt. Athos",
@@ -298,7 +311,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mt._Athos_(3939757657).jpg",
           "sourceType": "core",
           "sourceArticleId": "byzantine-empire-wk",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/mt-athos-3939757657-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wk/zagnos-valley-view-tra.jpg",
@@ -318,7 +332,7 @@
           "smallPath": "_m/s/x/k/9/byzantine-empire-wk/zagnos-valley-view-tra-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/column-phokas-forum-ro.jpg",
+          "path": "_m/s/r/2/y/roman-forum-wp/column-phokas-forum-ro.jpg",
           "filename": "Colonna di Foca Forum Romanum Rome.jpg",
           "caption": "The column of Phokas, Forum Romanum, Rome, Italy.",
           "alt": "The column of Phokas, Forum Romanum, Rome, Italy.",
@@ -330,10 +344,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colonna_di_Foca_Forum_Romanum_Rome.jpg",
           "sourceType": "core",
           "sourceArticleId": "byzantine-empire-wk",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/r/2/y/roman-forum-wp/column-phokas-forum-ro-medium.webp",
+          "smallPath": "_m/s/r/2/y/roman-forum-wp/column-phokas-forum-ro-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/nicaea-s-byzantine-fortificati.jpg",
+          "path": "_m/s/x/k/9/byzantine-empire-wp/nicaea-s-byzantine-fortificati.jpg",
           "filename": "Nicaea's Byzantine fortifications, Iznik, Turkey (26739763189).jpg",
           "caption": "Nicaea's Byzantine fortifications, Iznik, Turkey",
           "alt": "Nicaea's Byzantine fortifications, Iznik, Turkey",
@@ -345,10 +361,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nicaea%27s_Byzantine_fortifications,_Iznik,_Turkey_(26739763189).jpg",
           "sourceType": "core",
           "sourceArticleId": "byzantine-empire-wk",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/x/k/9/byzantine-empire-wp/nicaea-s-byzantine-fortificati-medium.webp",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/nicaea-s-byzantine-fortificati-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/korfu-gr-korfu-altstadt-2018-1.jpg",
+          "path": "_m/s/r/n/1/corfu-wp/korfu-gr-korfu-altstadt-2018-1.jpg",
           "filename": "Korfu (GR), Korfu, Altstadt -- 2018 -- 1114-21.jpg",
           "caption": "Old town, Corfu, Greece",
           "alt": "Old town, Corfu, Greece",
@@ -360,7 +378,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korfu_(GR),_Korfu,_Altstadt_--_2018_--_1114-21.jpg",
           "sourceType": "core",
           "sourceArticleId": "byzantine-empire-wk",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/r/n/1/corfu-wp/korfu-gr-korfu-altstadt-2018-1-medium.webp",
+          "smallPath": "_m/s/r/n/1/corfu-wp/korfu-gr-korfu-altstadt-2018-1-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wk/built-2nd-century-so-r.jpg",
@@ -379,7 +399,7 @@
           "smallPath": "_m/s/x/k/9/byzantine-empire-wk/built-2nd-century-so-r-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/kemalpasa-in-winter.jpg",
+          "path": "_m/s/x/k/9/byzantine-empire-wp/kemalpasa-in-winter.jpg",
           "filename": "Kemalpaşa in winter.jpg",
           "caption": "Kemalpaşa, İzmir, Turkey in winter.",
           "alt": "Kemalpaşa, İzmir, Turkey in winter.",
@@ -391,10 +411,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kemalpa%C5%9Fa_in_winter.jpg",
           "sourceType": "core",
           "sourceArticleId": "byzantine-empire-wk",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/x/k/9/byzantine-empire-wp/kemalpasa-in-winter-medium.webp",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/kemalpasa-in-winter-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/00-0541-kloster-agia-triada-me.jpg",
+          "path": "_m/tpc/je/su/it/s_/jesuits/00-0541-kloster-agia-triada-me.jpg",
           "filename": "00 0541 Kloster Agía Triáda (Meteora) - Griechenland.jpg",
           "caption": "Das Kloster Agía Triáda, ein griechisch-orthodoxes Kloster in der Region Thessalien. Das Kloster ist ein Teil der nahezu unzugängliche liegenden Meteora Klöstern, die auf hohen Felsspitzen liegen und die zum UNESCO-Welterbe gehören.",
           "alt": "Das Kloster Agía Triáda, ein griechisch-orthodoxes Kloster in der Region Thessalien. Das Kloster ist ein Teil der nahezu unzugängliche liegenden Meteora Klöstern, die auf hohen Felsspitzen liegen und die zum UNESCO-Welterbe gehören.",
@@ -406,10 +428,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_0541_Kloster_Ag%C3%ADa_Tri%C3%A1da_(Meteora)_-_Griechenland.jpg",
           "sourceType": "core",
           "sourceArticleId": "byzantine-empire-wk",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/tpc/je/su/it/s_/jesuits/00-0541-kloster-agia-triada-me-medium.webp",
+          "smallPath": "_m/tpc/je/su/it/s_/jesuits/00-0541-kloster-agia-triada-me-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/panorama-kavala-port.jpg",
+          "path": "_m/s/w/b/7/greece-wk/panorama-kavala-port.jpg",
           "filename": "Port of Kavala.jpg",
           "caption": "Panorama of Kavala port",
           "alt": "Panorama of Kavala port",
@@ -421,10 +445,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Port_of_Kavala.jpg",
           "sourceType": "core",
           "sourceArticleId": "byzantine-empire-wk",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/w/b/7/greece-wk/panorama-kavala-port-medium.webp",
+          "smallPath": "_m/s/w/b/7/greece-wk/panorama-kavala-port-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/ohrid-seen-samuel-s-fo.jpg",
+          "path": "_m/s/r/q/c/ohrid-wk/ohrid-seen-samuel-s-fo.jpg",
           "filename": "Ohrid from Samuel's Fortress 2.jpg",
           "caption": "Ohrid seen from Samuel's Fortress.",
           "alt": "Ohrid seen from Samuel's Fortress.",
@@ -436,7 +462,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ohrid_from_Samuel%27s_Fortress_2.jpg",
           "sourceType": "core",
           "sourceArticleId": "byzantine-empire-wk",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/r/q/c/ohrid-wk/ohrid-seen-samuel-s-fo-medium.webp",
+          "smallPath": "_m/s/r/q/c/ohrid-wk/ohrid-seen-samuel-s-fo-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wk/suda.jpg",
@@ -672,7 +700,7 @@
           "smallPath": "_m/s/x/k/9/byzantine-empire-wk/amulette-anonyme-empire-byzant-1-small.webp"
         },
         {
-          "path": "_m/s/x/k/9/byzantine-empire-wk/greecepiraeusstatueconstantine.jpg",
+          "path": "_m/s/w/8/z/hagia-triada-cathedral-piraeus-wp/greecepiraeusstatueconstantine.jpg",
           "filename": "Greecepiraeusstatueconstantinepalaliogus01.jpg",
           "caption": "Statue of Constantine XI Palaliogus in front of Hagia Triada Cathedral in Piraeus, Greece",
           "alt": "Statue of Constantine XI Palaliogus in front of Hagia Triada Cathedral in Piraeus, Greece",
@@ -684,7 +712,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greecepiraeusstatueconstantinepalaliogus01.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "hagia-triada-cathedral-piraeus-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "smallPath": "_m/s/w/8/z/hagia-triada-cathedral-piraeus-wp/greecepiraeusstatueconstantine-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wk/amulette-empire-byzantin-indet.jpg",
@@ -824,7 +853,9 @@
             "PD-Art (Yorck Project)",
             "Paintings in St. Panteleimon's Church, Nerezi",
             "Yorck Project paintings missing described by source"
-          ]
+          ],
+          "mediumPath": "_m/s/x/k/9/byzantine-empire-wp/meister-von-nerezi-001-medium.webp",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/meister-von-nerezi-001-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/the-seizure-of-edessa-in-syria.jpg",
@@ -845,7 +876,8 @@
             "CC-PD-Mark",
             "Edessa, Mesopotamia",
             "Files with no machine-readable author"
-          ]
+          ],
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/the-seizure-of-edessa-in-syria-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/walls-of-constantinople.jpg",
@@ -860,7 +892,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walls_of_Constantinople.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/x/k/9/byzantine-empire-wp/walls-of-constantinople-medium.webp",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/walls-of-constantinople-small.webp"
         },
         {
           "path": "_m/s/x/0/y/byzantine-empire-under-the-palaiologos-dynasty-wp/hero.png",
@@ -875,7 +909,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:LatinEmpire2.png",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-under-the-palaiologos-dynasty-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "smallPath": "_m/s/x/0/y/byzantine-empire-under-the-palaiologos-dynasty-wp/hero-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/hippodrome-constantinople-2007.jpg",
@@ -890,7 +925,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippodrome_Constantinople_2007_007.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/hippodrome-constantinople-2007-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/liquid-fire-granades-chania.jpg",
@@ -905,7 +941,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liquid_fire_granades_Chania.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/liquid-fire-granades-chania-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/tetrarchy-map3.jpg",
@@ -920,7 +957,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tetrarchy_map3.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/tetrarchy-map3-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/horses-of-basilica-san-marco.jpg",
@@ -935,7 +973,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Horses_of_Basilica_San_Marco.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/x/k/9/byzantine-empire-wp/horses-of-basilica-san-marco-medium.webp",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/horses-of-basilica-san-marco-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/john-the-grammarian-as-ambassa.jpg",
@@ -950,7 +990,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_the_Grammarian_as_ambassador_before_Theophilos_and_Mamun.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/john-the-grammarian-as-ambassa-small.webp"
         },
         {
           "path": "_m/s/x/k/9/hagia-sophia-wp/gallery-11.jpg",
@@ -965,7 +1006,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Comnenus_mosaics_Hagia_Sophia.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "hagia-sophia-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/x/k/9/hagia-sophia-wp/gallery-11-medium.webp",
+          "smallPath": "_m/s/x/k/9/hagia-sophia-wp/gallery-11-small.webp"
         },
         {
           "path": "_m/s/x/k/9/hagia-sophia-wp/2013-12-03-istanbul.jpg",
@@ -980,7 +1023,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20131203_Istanbul_048.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "hagia-sophia-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/x/k/9/hagia-sophia-wp/2013-12-03-istanbul-medium.webp",
+          "smallPath": "_m/s/x/k/9/hagia-sophia-wp/2013-12-03-istanbul-small.webp"
         },
         {
           "path": "_m/s/w/b/4/hosios-loukas-wp/mosaics-hosios-loukas.jpg",
@@ -995,7 +1040,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hosios_Loukas_Katholikon_(nave,_South-West_squinch)_-_Baptism_-_detail_02.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "hosios-loukas-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "smallPath": "_m/s/w/b/4/hosios-loukas-wp/mosaics-hosios-loukas-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/belisarius-mosaic.jpg",
@@ -1010,7 +1056,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belisarius_mosaic.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/belisarius-mosaic-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/mosaic-of-justinianus-i-basili.jpg",
@@ -1025,7 +1072,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/mosaic-of-justinianus-i-basili-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/sousosi-cyrila-a-metodeje-09.jpg",
@@ -1040,7 +1088,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Souso%C5%A1%C3%AD_Cyrila_a_Metod%C4%9Bje_09.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/x/k/9/byzantine-empire-wp/sousosi-cyrila-a-metodeje-09-medium.webp",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/sousosi-cyrila-a-metodeje-09-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/anna-comnena-alexiade-forse-da.jpg",
@@ -1055,7 +1105,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anna_comnena,_alexiade,_forse_da_costantinopoli,_XII_secolo_(pluteo_70.2).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/x/k/9/byzantine-empire-wp/anna-comnena-alexiade-forse-da-medium.webp",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/anna-comnena-alexiade-forse-da-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/aya-sophia-7144824757.jpg",
@@ -1070,7 +1122,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aya_Sophia_(7144824757).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/x/k/9/byzantine-empire-wp/aya-sophia-7144824757-medium.webp",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/aya-sophia-7144824757-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/hagia-sophia-in-istanbul-focus.jpg",
@@ -1085,7 +1139,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_in_Istanbul_(focused_on_the_original_Roman_building).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/x/k/9/byzantine-empire-wp/hagia-sophia-in-istanbul-focus-medium.webp",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/hagia-sophia-in-istanbul-focus-small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/statua-di-costantino-ai-musei-.jpg",
@@ -1100,7 +1156,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statua_di_Costantino_ai_musei_capitolini.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/x/k/9/byzantine-empire-wp/statua-di-costantino-ai-musei--medium.webp",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/statua-di-costantino-ai-musei--small.webp"
         },
         {
           "path": "_m/s/x/k/9/byzantine-empire-wp/ivoire-barberini-musee-du-louv.jpg",
@@ -1114,7 +1172,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ivoire_Barberini_-_Mus%C3%A9e_du_Louvre_Objets_d%27art_OA_9063_;_MND_211.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "byzantine-empire-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/x/k/9/byzantine-empire-wp/ivoire-barberini-musee-du-louv-medium.webp",
+          "smallPath": "_m/s/x/k/9/byzantine-empire-wp/ivoire-barberini-musee-du-louv-small.webp"
         },
         {
           "path": "_m/s/w/8/7/battle-of-settepozzi-wp/map-byzantine-empire-1.jpg",
@@ -1147,7 +1207,8 @@
             "PD Old",
             "PD US",
             "Romania in the 13th century"
-          ]
+          ],
+          "smallPath": "_m/s/w/8/7/battle-of-settepozzi-wp/map-byzantine-empire-1-small.webp"
         },
         {
           "path": "_m/tpc/_ho/gr/ee/ce/history-of-greece/greekfire-madridskylitzes1.jpg",
@@ -1182,7 +1243,9 @@
             "Template Unknown (author)",
             "Thomas the Slav",
             "Unidentified men in art"
-          ]
+          ],
+          "mediumPath": "_m/tpc/_ho/gr/ee/ce/history-of-greece/greekfire-madridskylitzes1-medium.webp",
+          "smallPath": "_m/tpc/_ho/gr/ee/ce/history-of-greece/greekfire-madridskylitzes1-small.webp"
         },
         {
           "path": "_m/s/r/2/y/raphael-rooms-wp/raphael-baptism-consta.jpg",
@@ -1196,7 +1259,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raphael_Baptism_Constantine.jpg",
           "sourceType": "history",
           "sourceArticleId": "raphael-rooms-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "smallPath": "_m/s/r/2/y/raphael-rooms-wp/raphael-baptism-consta-small.webp"
         },
         {
           "path": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/constantinople-1453.jpg",
@@ -1211,7 +1275,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Constantinople_1453.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-byzantine-empire",
-          "sourceGeohash4": "tpc/_ho/by/za/nt"
+          "sourceGeohash4": "tpc/_ho/by/za/nt",
+          "mediumPath": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/constantinople-1453-medium.webp",
+          "smallPath": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/constantinople-1453-small.webp"
         },
         {
           "path": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/romanos-et-eudoxie.jpg",
@@ -1226,7 +1292,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Romanos_et_Eudoxie.JPG",
           "sourceType": "history",
           "sourceArticleId": "history-of-byzantine-empire",
-          "sourceGeohash4": "tpc/_ho/by/za/nt"
+          "sourceGeohash4": "tpc/_ho/by/za/nt",
+          "smallPath": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/romanos-et-eudoxie-small.webp"
         },
         {
           "path": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/leo-i-louvre-ma1012.jpg",
@@ -1240,7 +1307,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leo_I_Louvre_Ma1012.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-byzantine-empire",
-          "sourceGeohash4": "tpc/_ho/by/za/nt"
+          "sourceGeohash4": "tpc/_ho/by/za/nt",
+          "smallPath": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/leo-i-louvre-ma1012-small.webp"
         },
         {
           "path": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/oleg-tsargrad.jpg",
@@ -1253,7 +1321,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oleg_tsargrad.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-byzantine-empire",
-          "sourceGeohash4": "tpc/_ho/by/za/nt"
+          "sourceGeohash4": "tpc/_ho/by/za/nt",
+          "mediumPath": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/oleg-tsargrad-medium.webp",
+          "smallPath": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/oleg-tsargrad-small.webp"
         },
         {
           "path": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/the-roman-empire-ca-400-ad.png",
@@ -1268,7 +1338,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Roman_Empire_ca_400_AD.png",
           "sourceType": "history",
           "sourceArticleId": "history-of-byzantine-empire",
-          "sourceGeohash4": "tpc/_ho/by/za/nt"
+          "sourceGeohash4": "tpc/_ho/by/za/nt",
+          "mediumPath": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/the-roman-empire-ca-400-ad-medium.webp",
+          "smallPath": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/the-roman-empire-ca-400-ad-small.webp"
         },
         {
           "path": "_m/s/w/b/b/platonic-academy-wp/meister-von-san-vitale.jpg",
@@ -1282,7 +1354,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meister_von_San_Vitale_in_Ravenna.jpg",
           "sourceType": "history",
           "sourceArticleId": "platonic-academy-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "smallPath": "_m/s/w/b/b/platonic-academy-wp/meister-von-san-vitale-small.webp"
         },
         {
           "path": "_m/tpc/_ho/co/rs/ic/history-of-corsica/justinian555ad.png",
@@ -1297,7 +1370,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Justinian555AD.png",
           "sourceType": "history",
           "sourceArticleId": "history-of-corsica",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/tpc/_ho/co/rs/ic/history-of-corsica/justinian555ad-medium.webp",
+          "smallPath": "_m/tpc/_ho/co/rs/ic/history-of-corsica/justinian555ad-small.webp"
         },
         {
           "path": "_m/s/x/k/9/hagia-sophia-wp/deesis-mosaic-13th-cen.jpg",
@@ -1312,7 +1387,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deesis_mosaic_Hagia_Sophia.jpg",
           "sourceType": "history",
           "sourceArticleId": "hagia-sophia-wp",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/s/x/k/9/hagia-sophia-wp/deesis-mosaic-13th-cen-medium.webp",
+          "smallPath": "_m/s/x/k/9/hagia-sophia-wp/deesis-mosaic-13th-cen-small.webp"
         },
         {
           "path": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/jean-ii-comnene.jpg",
@@ -1326,7 +1403,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jean_II_Comnene.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-byzantine-empire",
-          "sourceGeohash4": "tpc/_ho/by/za/nt"
+          "sourceGeohash4": "tpc/_ho/by/za/nt",
+          "smallPath": "_m/tpc/_ho/by/za/nt/history-of-byzantine-empire/jean-ii-comnene-small.webp"
         },
         {
           "path": "_m/tpc/an/dr/ea/-p/andrea-palladio/hagia-sophia-mars-2013.jpg",
@@ -1341,7 +1419,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg",
           "sourceType": "history",
           "sourceArticleId": "andrea-palladio",
-          "sourceGeohash4": "sxk9"
+          "sourceGeohash4": "sxk9",
+          "mediumPath": "_m/tpc/an/dr/ea/-p/andrea-palladio/hagia-sophia-mars-2013-medium.webp",
+          "smallPath": "_m/tpc/an/dr/ea/-p/andrea-palladio/hagia-sophia-mars-2013-small.webp"
         }
       ],
       "narration": [

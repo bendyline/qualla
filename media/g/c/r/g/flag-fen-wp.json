@@ -3,29 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/r/g/flag-fen-wp/hero.jpg",
-        "filename": "Flag Fen visitor's entrance.jpg",
-        "caption": "The entrance to the visitor's centre at Flag Fen, designed after a prehistoric roundhouse.",
-        "alt": "The entrance to the visitor's centre at Flag Fen, designed after a prehistoric roundhouse.",
-        "width": 960,
-        "height": 574,
+        "path": "_m/g/c/r/g/flag-fen-wp/bronze-age-dwelling-at-flag-fe.jpg",
+        "filename": "Bronze age dwelling at Flag Fen.JPG",
+        "caption": "Photograph by Ian and Viv Hamilton, taken at Flag Fen on 10 August, 2006",
+        "alt": "Photograph by Ian and Viv Hamilton, taken at Flag Fen on 10 August, 2006",
+        "width": 2272,
+        "height": 1704,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "User:Midnightblueowl",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_Fen_visitor%27s_entrance.jpg",
-        "sourceType": "core",
+        "license": "Public domain",
+        "artist": "Viv Hamilton at English Wikipedia",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bronze_age_dwelling_at_Flag_Fen.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "flag-fen-wp",
         "sourceGeohash4": "gcrg",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Files uploaded with For the Common Good",
           "Flag Fen",
-          "Self-published work"
-        ]
+          "PD-user",
+          "Reconstructions of Bronze Age roundhouses in the United Kingdom",
+          "Taken with Olympus u30D / S-410D / u410D"
+        ],
+        "mediumPath": "_m/g/c/r/g/flag-fen-wp/bronze-age-dwelling-at-flag-fe-medium.webp",
+        "smallPath": "_m/g/c/r/g/flag-fen-wp/bronze-age-dwelling-at-flag-fe-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/r/g/flag-fen-wp/flag-fen-roundhouse.jpg",
+          "path": "_m/g/c/r/g/peterborough-wp/flag-fen-roundhouse.jpg",
           "filename": "Flag fen roundhouse.jpg",
           "caption": "Flag fen iron age roundhouse reconstruction",
           "alt": "Flag fen iron age roundhouse reconstruction",
@@ -45,7 +47,8 @@
             "License migration completed",
             "Reconstructions of Iron Age roundhouses in England",
             "Taken with Kodak EasyShare DX3700"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/g/peterborough-wp/flag-fen-roundhouse-small.webp"
         },
         {
           "path": "_m/g/c/r/g/flag-fen-wp/wet-room-flag-fen-camb.jpg",
@@ -424,7 +427,9 @@
             "March 2010 in Cambridgeshire",
             "Self-published work",
             "West facade of Peterborough Cathedral"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/g/peterborough-wp/peterborough-cathedral-march-2-medium.webp",
+          "smallPath": "_m/g/c/r/g/peterborough-wp/peterborough-cathedral-march-2-small.webp"
         },
         {
           "path": "_m/g/c/r/g/peterborough-wp/peterborough-museum-and-art-ga.jpg",
@@ -446,7 +451,9 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Peterborough Museum and Art Gallery"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/g/peterborough-wp/peterborough-museum-and-art-ga-medium.webp",
+          "smallPath": "_m/g/c/r/g/peterborough-wp/peterborough-museum-and-art-ga-small.webp"
         },
         {
           "path": "_m/g/c/r/g/peterborough-wp/peterborough-cathedral-exterio.jpg",
@@ -469,7 +476,9 @@
             "License migration redundant",
             "Self-published work",
             "West facade of Peterborough Cathedral"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/g/peterborough-wp/peterborough-cathedral-exterio-medium.webp",
+          "smallPath": "_m/g/c/r/g/peterborough-wp/peterborough-cathedral-exterio-small.webp"
         },
         {
           "path": "_m/g/c/r/g/peterborough-wp/nene-valley-railway-polish-tan.jpg",
@@ -491,7 +500,9 @@
             "April 2011 in rail transport in the United Kingdom",
             "CC-BY-SA-4.0",
             "Fablok T2D Śląsk 5485"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/g/peterborough-wp/nene-valley-railway-polish-tan-medium.webp",
+          "smallPath": "_m/g/c/r/g/peterborough-wp/nene-valley-railway-polish-tan-small.webp"
         },
         {
           "path": "_m/g/c/r/g/peterborough-wp/peterborough-town-hall-1.jpg",
@@ -506,7 +517,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peterborough_Town_Hall_1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "peterborough-wp",
-          "sourceGeohash4": "gcrg"
+          "sourceGeohash4": "gcrg",
+          "mediumPath": "_m/g/c/r/g/peterborough-wp/peterborough-town-hall-1-medium.webp",
+          "smallPath": "_m/g/c/r/g/peterborough-wp/peterborough-town-hall-1-small.webp"
         }
       ],
       "narration": [

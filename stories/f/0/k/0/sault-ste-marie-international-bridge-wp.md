@@ -37,7 +37,7 @@ The Sault Ste. Marie International Bridge is located at 46.507N, 84.361W, spanni
 ## Sources
 
 - [Sault Ste. Marie International Bridge - Wikipedia](https://en.wikipedia.org/?curid=514712)
-- [Wikipedia - Sault Ste. Marie International Bridge](https://en.wikipedia.org/wiki/Sault_Ste._Marie_International_Bridge)
+- [Wikipedia - Sault Ste. Marie International Bridge](https://en.wikipedia.org/?curid=514712)
   - Bridge opened October 31, 1962 confirmed
   - 100 millionth crossing reached March 1, 2018 confirmed
   - Ferry service began 1865 confirmed

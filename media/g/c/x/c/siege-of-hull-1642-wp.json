@@ -3,30 +3,35 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/x/c/siege-of-hull-1642-wp/hero.jpg",
-        "filename": "Charles I Demanding Entrance at the Beverley Gate, Hull, 23 April 1642.jpg",
-        "caption": "Charles I demanding entrance to the Hull prior to the English Civil Wars.",
-        "alt": "Charles I demanding entrance to the Hull prior to the English Civil Wars.",
-        "width": 1200,
-        "height": 968,
+        "path": "_m/g/c/x/c/siege-of-hull-1642-wp/wenceslas-hollar-hull.jpg",
+        "filename": "Wenceslas Hollar - Hull.jpg",
+        "alt": "Wenceslas Hollar - Hull.jpg",
+        "width": 3183,
+        "height": 2749,
         "mimeType": "image/jpeg",
         "license": "Public domain",
-        "artist": "George Arnald",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_I_Demanding_Entrance_at_the_Beverley_Gate,_Hull,_23_April_1642.jpg",
+        "artist": "Wenceslaus Hollar",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wenceslas_Hollar_-_Hull.jpg",
         "sourceType": "core",
         "sourceArticleId": "siege-of-hull-1642-wp",
         "sourceGeohash4": "gcxc",
         "categories": [
-          "19th-century paintings in the United Kingdom",
-          "Beverley Gate, Kingston upon Hull",
+          "Architectural prints by Wenzel Hollar",
+          "Artworks with known accession number",
+          "Artworks without Wikidata item",
           "CC-PD-Mark",
-          "Charles I of England in art",
-          "Ferens Art Gallery",
-          "George Arnald",
-          "PD-Art (PD-old-auto-expired)",
+          "Fortifications of Kingston upon Hull",
+          "Maps by Wenzel Hollar",
+          "Old maps of Kingston upon Hull",
+          "PD-Art (PD-old-100-expired)",
+          "PD-Art missing SDC copyright status",
           "PD-old-100-expired",
-          "Paintings without Wikidata item"
-        ]
+          "PD-old missing SDC copyright status",
+          "University of Toronto Wenceslas Hollar Digital Collection",
+          "Unknown date"
+        ],
+        "mediumPath": "_m/g/c/x/c/siege-of-hull-1642-wp/wenceslas-hollar-hull-medium.webp",
+        "smallPath": "_m/g/c/x/c/siege-of-hull-1642-wp/wenceslas-hollar-hull-small.webp"
       },
       "images": [
         {
@@ -61,7 +66,7 @@
           "smallPath": "_m/g/c/x/c/siege-of-hull-1642-wp/wenceslas-hollar-hull-small.webp"
         },
         {
-          "path": "_m/g/c/x/c/siege-of-hull-1642-wp/hero.png",
+          "path": "_m/g/c/v/b/siege-of-carlisle-1644-wp/hero.png",
           "filename": "Northern England location map.PNG",
           "caption": "Location map of Northern England",
           "alt": "Location map of Northern England",
@@ -80,7 +85,8 @@
             "Retouched pictures",
             "Self-published work",
             "Uploaded with derivativeFX"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/b/siege-of-carlisle-1644-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/x/c/siege-of-hull-1642-wp/line-engraving-sir-joh.png",
@@ -161,7 +167,9 @@
             "Seawalls in the East Riding of Yorkshire",
             "Street lights in the East Riding of Yorkshire",
             "Taken with Canon PowerShot S70"
-          ]
+          ],
+          "mediumPath": "_m/g/c/x/d/east-riding-of-yorkshire-wp/hornsea-2-medium.webp",
+          "smallPath": "_m/g/c/x/d/east-riding-of-yorkshire-wp/hornsea-2-small.webp"
         },
         {
           "path": "_m/g/c/x/d/east-riding-of-yorkshire-wp/driffield.jpg",
@@ -191,7 +199,8 @@
             "The Buck, Driffield",
             "Trees in the East Riding of Yorkshire",
             "United Kingdom photographs taken on 2005-05-15"
-          ]
+          ],
+          "smallPath": "_m/g/c/x/d/east-riding-of-yorkshire-wp/driffield-small.webp"
         },
         {
           "path": "_m/g/c/x/d/east-riding-of-yorkshire-wp/pier-towers-withernsea.jpg",
@@ -213,7 +222,9 @@
             "CC-BY-SA-3.0-migrated",
             "Fences in the East Riding of Yorkshire",
             "Files by User:Keith D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/x/d/east-riding-of-yorkshire-wp/pier-towers-withernsea-medium.webp",
+          "smallPath": "_m/g/c/x/d/east-riding-of-yorkshire-wp/pier-towers-withernsea-small.webp"
         },
         {
           "path": "_m/g/c/x/d/east-riding-of-yorkshire-wp/boothferry-road-goole.jpg",
@@ -228,7 +239,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boothferry_Road,_Goole.jpg",
           "sourceType": "poi",
           "sourceArticleId": "east-riding-of-yorkshire-wp",
-          "sourceGeohash4": "gcxd"
+          "sourceGeohash4": "gcxd",
+          "mediumPath": "_m/g/c/x/d/east-riding-of-yorkshire-wp/boothferry-road-goole-medium.webp",
+          "smallPath": "_m/g/c/x/d/east-riding-of-yorkshire-wp/boothferry-road-goole-small.webp"
         },
         {
           "path": "_m/g/c/x/d/east-riding-of-yorkshire-wp/flamborough-head-lighthouse-ge.jpg",
@@ -243,7 +256,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flamborough_Head_Lighthouse_-_geograph.org.uk_-_5785382.jpg",
           "sourceType": "poi",
           "sourceArticleId": "east-riding-of-yorkshire-wp",
-          "sourceGeohash4": "gcxd"
+          "sourceGeohash4": "gcxd",
+          "smallPath": "_m/g/c/x/d/east-riding-of-yorkshire-wp/flamborough-head-lighthouse-ge-small.webp"
         }
       ],
       "narration": [

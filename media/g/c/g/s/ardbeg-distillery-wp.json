@@ -32,7 +32,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/g/s/ardbeg-distillery-wp/wfm-islay-landsat.jpg",
+          "path": "_m/g/c/g/m/bruichladdich-distillery-wp/wfm-islay-landsat.jpg",
           "filename": "Wfm islay landsat.jpg",
           "alt": "Wfm islay landsat.jpg",
           "width": 1280,
@@ -52,7 +52,8 @@
             "NASA World Wind",
             "PD World Wind",
             "Satellite pictures of the Hebrides"
-          ]
+          ],
+          "smallPath": "_m/g/c/g/m/bruichladdich-distillery-wp/wfm-islay-landsat-small.webp"
         },
         {
           "path": "_m/g/c/g/s/ardbeg-distillery-wp/ardbeg-across-bay-canthusus.jpg",
@@ -471,7 +472,8 @@
             "CC-BY-SA-2.5",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/is/la/y_/__/islay/bunnahabhain-destillery-small.webp"
         },
         {
           "path": "_m/g/c/g/m/bruichladdich-distillery-wp/hero.jpg",
@@ -492,7 +494,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon D2X"
-          ]
+          ],
+          "mediumPath": "_m/g/c/g/m/bruichladdich-distillery-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/g/m/bruichladdich-distillery-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/bowmore-dist.jpg",
@@ -512,7 +516,9 @@
             "Bowmore distillery",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/is/la/y_/__/islay/bowmore-dist-medium.webp",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/bowmore-dist-small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/ardbeg-whiskybrennerei-islay-s.jpg",
@@ -536,7 +542,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Sony DSC-T100"
-          ]
+          ],
+          "mediumPath": "_m/tpc/is/la/y_/__/islay/ardbeg-whiskybrennerei-islay-s-medium.webp",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/ardbeg-whiskybrennerei-islay-s-small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/finlaggan.jpg",
@@ -557,7 +565,9 @@
             "Jura, Scotland",
             "Kilfinlaggan Chapel",
             "Loch Finlaggan"
-          ]
+          ],
+          "mediumPath": "_m/tpc/is/la/y_/__/islay/finlaggan-medium.webp",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/finlaggan-small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/kilchoman-distillery-on-islay-.jpg",
@@ -572,7 +582,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kilchoman_Distillery_on_Islay,_Scotland.jpg",
           "sourceType": "poi",
           "sourceArticleId": "islay",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/is/la/y_/__/islay/kilchoman-distillery-on-islay--medium.webp",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/kilchoman-distillery-on-islay--small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/kildalton-high-cross-from-the-.jpg",
@@ -587,7 +599,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kildalton_High_Cross_from_the_West_-_geograph.org.uk_-_2971870.jpg",
           "sourceType": "poi",
           "sourceArticleId": "islay",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/kildalton-high-cross-from-the--small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/oban-harbour-14839d.jpg",
@@ -609,7 +622,8 @@
             "Isle of Mull (ship, 1988)",
             "License migration completed",
             "Oban harbour"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/oban-harbour-14839d-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/lochgilphead-1.jpg",
@@ -632,7 +646,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "May 1975 in Scotland"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/lochgilphead-1-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/bute-satellite.jpg",
@@ -652,7 +667,8 @@
             "Isle of Bute",
             "Landsat images of the United Kingdom",
             "NASA World Wind"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/bute-satellite-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/inveraray-castle-south-west-fa.jpg",
@@ -667,7 +683,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inveraray_Castle_-_south-west_facade.jpg",
           "sourceType": "poi",
           "sourceArticleId": "argyll-and-bute",
-          "sourceGeohash4": "tpc/ar/gy/ll/-a"
+          "sourceGeohash4": "tpc/ar/gy/ll/-a",
+          "mediumPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/inveraray-castle-south-west-fa-medium.webp",
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/inveraray-castle-south-west-fa-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/hill-house-helensburgh-geograp.jpg",
@@ -682,7 +700,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hill_House_Helensburgh_-_geograph.org.uk_-_2691059.jpg",
           "sourceType": "poi",
           "sourceArticleId": "argyll-and-bute",
-          "sourceGeohash4": "tpc/ar/gy/ll/-a"
+          "sourceGeohash4": "tpc/ar/gy/ll/-a",
+          "mediumPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/hill-house-helensburgh-geograp-medium.webp",
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/hill-house-helensburgh-geograp-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/springbank-distillery-no-3-bon.jpg",
@@ -697,7 +717,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Springbank_Distillery_No_3_Bond_-_geograph.org.uk_-_2813368.jpg",
           "sourceType": "poi",
           "sourceArticleId": "argyll-and-bute",
-          "sourceGeohash4": "tpc/ar/gy/ll/-a"
+          "sourceGeohash4": "tpc/ar/gy/ll/-a",
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/springbank-distillery-no-3-bon-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/clansman-in-oban-bay-geograph-.jpg",
@@ -712,7 +733,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clansman_in_Oban_Bay_-_geograph.org.uk_-_4173819.jpg",
           "sourceType": "poi",
           "sourceArticleId": "argyll-and-bute",
-          "sourceGeohash4": "tpc/ar/gy/ll/-a"
+          "sourceGeohash4": "tpc/ar/gy/ll/-a",
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/clansman-in-oban-bay-geograph--small.webp"
         }
       ],
       "narration": [

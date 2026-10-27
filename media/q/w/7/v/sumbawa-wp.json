@@ -3,31 +3,32 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/w/7/v/sumbawa-wp/hero.jpg",
-        "filename": "Moyo Island, North Sumbawa.JPG",
-        "caption": "South Sea Nomads off Moyo Island in Northern Sumbawa",
-        "alt": "South Sea Nomads off Moyo Island in Northern Sumbawa",
-        "width": 3648,
-        "height": 2048,
+        "path": "_m/q/w/7/v/sumbawa-wp/pacuan-kuda-traditiona.jpg",
+        "filename": "Pacoa Jara.jpg",
+        "caption": "Pacuan Kuda traditional Bima",
+        "alt": "Pacuan Kuda traditional Bima",
+        "width": 6720,
+        "height": 4480,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Katiebowl",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moyo_Island,_North_Sumbawa.JPG",
+        "license": "CC BY-SA 4.0",
+        "artist": "Tofifoto",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pacoa_Jara.jpg",
         "sourceType": "core",
         "sourceArticleId": "sumbawa-wp",
         "sourceGeohash4": "qw7v",
         "categories": [
-          "Beaches of Sumbawa",
-          "CC-BY-SA-3.0",
-          "Images with extracted images",
-          "Moyo Island",
-          "Self-published work",
-          "Taken with Canon PowerShot G12"
-        ]
+          "CC-BY-SA-4.0",
+          "Horse racing in Indonesia",
+          "Java pony",
+          "Kuda lumping",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/q/w/7/v/sumbawa-wp/pacuan-kuda-traditiona-medium.webp",
+        "smallPath": "_m/q/w/7/v/sumbawa-wp/pacuan-kuda-traditiona-small.webp"
       },
       "images": [
         {
-          "path": "_m/q/w/7/v/sumbawa-wp/topographic-map-sumbaw.png",
+          "path": "_m/q/w/e/c/tambora-wk/topographic-map-sumbaw.png",
           "filename": "Sumbawa Topography.png",
           "caption": "Topographic map of Sumbawa, Indonesia. Created with GMT from SRTM data.",
           "alt": "Topographic map of Sumbawa, Indonesia. Created with GMT from SRTM data.",
@@ -49,7 +50,9 @@
             "Maps of volcanoes in Indonesia",
             "Self-published work",
             "Topographic maps of Indonesia"
-          ]
+          ],
+          "mediumPath": "_m/q/w/e/c/tambora-wk/topographic-map-sumbaw-medium.webp",
+          "smallPath": "_m/q/w/e/c/tambora-wk/topographic-map-sumbaw-small.webp"
         },
         {
           "path": "_m/q/w/7/v/sumbawa-wp/view-batu-hijau-mine-v.jpg",
@@ -310,7 +313,7 @@
           "smallPath": "_m/q/w/7/v/sumbawa-wp/sunrise-over-sumbawa-small.webp"
         },
         {
-          "path": "_m/q/w/7/v/sumbawa-wp/sumbawapaddyfields.jpg",
+          "path": "_m/tpc/le/ss/er/-s/lesser-sunda-islands/sumbawapaddyfields.jpg",
           "filename": "SumbawaPaddyFields.JPG",
           "caption": "Paddy fields near Sumbawa Besar, Sumbawa, Indonesia",
           "alt": "Paddy fields near Sumbawa Besar, Sumbawa, Indonesia",
@@ -330,8 +333,8 @@
             "Sumbawa",
             "Taken with Canon PowerShot SX120 IS"
           ],
-          "mediumPath": "_m/q/w/7/v/sumbawa-wp/sumbawapaddyfields-medium.webp",
-          "smallPath": "_m/q/w/7/v/sumbawa-wp/sumbawapaddyfields-small.webp"
+          "mediumPath": "_m/tpc/le/ss/er/-s/lesser-sunda-islands/sumbawapaddyfields-medium.webp",
+          "smallPath": "_m/tpc/le/ss/er/-s/lesser-sunda-islands/sumbawapaddyfields-small.webp"
         },
         {
           "path": "_m/q/w/7/v/sumbawa-wp/labuanhajischule.jpg",
@@ -620,7 +623,8 @@
             "PD World Wind",
             "Saleh Bay",
             "Satellite pictures of Mount Tambora"
-          ]
+          ],
+          "smallPath": "_m/tpc/le/ss/er/-s/lesser-sunda-islands/tambora-volc-small.webp"
         },
         {
           "path": "_m/q/w/p/y/east-nusa-tenggara-wp/caldera-mt-tambora-sumbawa-ind.jpg",
@@ -643,7 +647,8 @@
             "Self-published work",
             "Taken with Canon EOS 550D",
             "Volcanic degassing in 2011"
-          ]
+          ],
+          "smallPath": "_m/q/w/p/y/east-nusa-tenggara-wp/caldera-mt-tambora-sumbawa-ind-small.webp"
         },
         {
           "path": "_m/q/w/7/v/sumbawa-wk/bus-in-sumbawa.jpg",
@@ -666,7 +671,9 @@
             "Self-published work",
             "Taken with Motorola Moto X Style",
             "Transport in Sumbawa"
-          ]
+          ],
+          "mediumPath": "_m/q/w/7/v/sumbawa-wk/bus-in-sumbawa-medium.webp",
+          "smallPath": "_m/q/w/7/v/sumbawa-wk/bus-in-sumbawa-small.webp"
         }
       ],
       "narration": [

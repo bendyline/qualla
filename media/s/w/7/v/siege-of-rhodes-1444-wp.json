@@ -3,31 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/w/7/v/siege-of-rhodes-1444-wp/hero.jpg",
-        "filename": "Naval Flags Sovereign Military Order of Malta.jpg",
-        "caption": "Zwei im Laufe der Jahrhunderte benutzte Flaggen der Marine des Malteserordens",
-        "alt": "Zwei im Laufe der Jahrhunderte benutzte Flaggen der Marine des Malteserordens",
-        "width": 9000,
-        "height": 6300,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0 de",
-        "artist": "McKarri 09:47, 17. Jan. 2012 (CET)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Flags_Sovereign_Military_Order_of_Malta.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "siege-of-rhodes-1444-wp",
-        "sourceGeohash4": "sw7v",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "CC-BY-SA-3.0-DE",
-          "Flags of the Order of Saint John of Jerusalem",
-          "Flags of the Sovereign Military Order of Malta",
-          "GFDL",
-          "License migration not eligible"
-        ]
+        "path": "_m/9/y/7/t/woolaroc-museum-wk/hero.jpg",
+        "filename": "046CupolaSPietro.jpg",
+        "caption": "Città del Vaticano - Cupola della Basilica di S. Pietro",
+        "alt": "Città del Vaticano - Cupola della Basilica di S. Pietro",
+        "width": 800,
+        "height": 600,
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "MarkusMark",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+        "smallPath": "_m/9/y/7/t/woolaroc-museum-wk/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/w/7/v/siege-of-rhodes-1444-wp/hero.jpg",
+          "path": "_m/9/y/7/t/woolaroc-museum-wk/hero.jpg",
           "filename": "046CupolaSPietro.jpg",
           "caption": "Città del Vaticano - Cupola della Basilica di S. Pietro",
           "alt": "Città del Vaticano - Cupola della Basilica di S. Pietro",
@@ -44,7 +34,8 @@
             "CC-BY-SA-3.0",
             "Dome of Saint Peter's Basilica from the roof",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/9/y/7/t/woolaroc-museum-wk/hero-small.webp"
         }
       ],
       "narration": [
@@ -57,8 +48,9 @@
         "_m/s/w/7/v/siege-of-rhodes-1444-wp/sw7v-siege-of-rhodes-1444-what-came-after.mp3"
       ],
       "combinedNarration": "_m/s/w/7/v/siege-of-rhodes-1444-wp/sw7v-siege-of-rhodes-1444-combined.mp3",
-      "combinedNarrationBytes": 4167099,
-      "combinedNarrationDuration": 347
+      "combinedNarrationBytes": 4261502,
+      "combinedNarrationDuration": 347,
+      "combinedCover": "_m/s/w/7/v/siege-of-rhodes-1444-wp/sw7v-siege-of-rhodes-1444-combined-cover.jpg"
     }
   }
 }

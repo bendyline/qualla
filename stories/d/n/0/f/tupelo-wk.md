@@ -28,7 +28,7 @@ Tupelo has grown from the Depression-era town of Elvis's childhood into a region
 
 ## Mississippi Hills Position
 
-Tupelo has no commercial airport; Memphis International (90 minutes northwest) and Birmingham-Shuttlesworth (2.5 hours southeast) provide airline service. US-78 connects Memphis and Birmingham; the Natchez Trace Parkway runs south to Jackson. Oxford, home of Ole Miss, is 45 minutes west; Memphis's musical legacy is within easy day-trip range. The city sits in Mississippi's Hill Country, the northern uplands that differ from the flat Delta to the west. From altitude, Tupelo appears as development along the highway corridors, the Natchez Trace a ribbon of parkland curving past. What appears from the air as a modest Mississippi city is where Elvis Presley was born in poverty, where he first sang in church, and where the two-room house where it all started still stands.
+Tupelo has no commercial airport; Frederick W. Smith International Airport (formerly Memphis International, 90 minutes northwest) and Birmingham-Shuttlesworth (2.5 hours southeast) provide airline service. US-78 connects Memphis and Birmingham; the Natchez Trace Parkway runs south to Jackson. Oxford, home of Ole Miss, is 45 minutes west; Memphis's musical legacy is within easy day-trip range. The city sits in Mississippi's Hill Country, the northern uplands that differ from the flat Delta to the west. From altitude, Tupelo appears as development along the highway corridors, the Natchez Trace a ribbon of parkland curving past. What appears from the air as a modest Mississippi city is where Elvis Presley was born in poverty, where he first sang in church, and where the two-room house where it all started still stands.
 
 ## Flight Context
 

@@ -42,7 +42,7 @@ The surrounding area has embraced the mythology. The town of Rachel hosts the Li
 
 ## Flight Context
 
-Area 51/Groom Lake (37.24N, 115.81W) lies within the Nevada Test and Training Range, approximately 83 miles northwest of Las Vegas. The airspace (R-4808) is heavily restricted - unauthorized aircraft face interception. The base is not visible from any public vantage point without powerful optics. The dry lakebed and facilities can be seen in satellite imagery. Las Vegas McCarran International (KLAS) is the nearest major airport. The terrain is desert basin surrounded by mountains. Flight into or near the restricted area is prohibited.
+Area 51/Groom Lake (37.24N, 115.81W) lies within the Nevada Test and Training Range, approximately 83 miles northwest of Las Vegas. The airspace (R-4808) is heavily restricted - unauthorized aircraft face interception. The base is not visible from any public vantage point without powerful optics. The dry lakebed and facilities can be seen in satellite imagery. Harry Reid International Airport (KLAS, formerly McCarran) is the nearest major airport. The terrain is desert basin surrounded by mountains. Flight into or near the restricted area is prohibited.
 
 ## Sources
 

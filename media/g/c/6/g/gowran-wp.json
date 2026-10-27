@@ -3,38 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/6/g/gowran-wp/hero.jpg",
-        "filename": "Neale(1826) p3.250 - Gowran Castle, Kilkenny.jpg",
-        "alt": "Neale(1826) p3.250 - Gowran Castle, Kilkenny.jpg",
-        "width": 1840,
-        "height": 1276,
+        "path": "_m/g/c/6/g/gowran-wp/restored-ruins-st-mary.jpg",
+        "filename": "St Mary's Church, Gowran.jpg",
+        "caption": "The restored ruins of St. Mary's Church, Gowran, Co. Kilkenny, Ireland, on a sunny day in May 2022",
+        "alt": "The restored ruins of St. Mary's Church, Gowran, Co. Kilkenny, Ireland, on a sunny day in May 2022",
+        "width": 4000,
+        "height": 3000,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "John Preston Neale",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neale(1826)_p3.250_-_Gowran_Castle,_Kilkenny.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "GenesisNZ",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Mary%27s_Church,_Gowran.jpg",
         "sourceType": "core",
         "sourceArticleId": "gowran-wp",
         "sourceGeohash4": "gc6g",
         "categories": [
-          "Artworks with known accession number",
-          "Artworks without Wikidata item",
-          "CC-PD-Mark",
-          "Files from Flickr's 'The Commons'",
-          "Flickr images missing SDC Flickr photo ID",
-          "Flickr images missing SDC creator",
-          "Flickr images missing SDC inception",
-          "Flickr images missing SDC published in",
-          "Flickr images missing SDC source of file",
-          "Flickr images reviewed by FlickreviewR",
-          "Gowran",
-          "Gowran Castle",
-          "Images from the British Library",
-          "Images from the British Library Mechanical Curator collection",
-          "PD-old-70-expired",
-          "Public domain",
-          "Uploaded by the British Library",
-          "Views of the Seats of Noblemen and Gentlemen in England, Wales, Scotland and Ireland (1824) by John Preston Neale"
-        ]
+          "CC-BY-SA-4.0",
+          "Self-published work",
+          "St. Mary's Collegiate Church Gowran"
+        ],
+        "mediumPath": "_m/g/c/6/g/gowran-wp/restored-ruins-st-mary-medium.webp",
+        "smallPath": "_m/g/c/6/g/gowran-wp/restored-ruins-st-mary-small.webp"
       },
       "images": [
         {
@@ -455,7 +443,8 @@
             "PD-self",
             "Photographs taken on 2004-06-25",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/kilkenny-castle-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/graiguenamanach-view-from-rive.jpg",
@@ -482,7 +471,9 @@
             "Photographs by Andreas F. Borchert",
             "River Barrow",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/graiguenamanach-view-from-rive-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/graiguenamanach-view-from-rive-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/thomastown.jpg",
@@ -505,7 +496,9 @@
             "Self-published work",
             "Taken with Canon EOS 400D",
             "Thomastown, County Kilkenny"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/thomastown-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/thomastown-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/brandonhill116.jpg",
@@ -528,7 +521,9 @@
             "Pictures by Sarah777",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/brandonhill116-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/brandonhill116-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/waterford-by-night.jpg",
@@ -551,7 +546,8 @@
             "Information field template with formatting",
             "Republic of Ireland photographs taken on 2007-07-07",
             "Waterford"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/waterford-by-night-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/bridge-in-inistioge-in-2008.jpg",
@@ -574,7 +570,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Fujifilm FinePix F11"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/bridge-in-inistioge-in-2008-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/bridge-in-inistioge-in-2008-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/kellskilkvillage.jpg",
@@ -599,7 +597,9 @@
             "Roads in County Kilkenny",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/kellskilkvillage-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/kellskilkvillage-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/castlecomer-in-county-kilkenny.jpg",
@@ -618,7 +618,9 @@
           "categories": [
             "Buildings in Castlecomer",
             "Castlecomer"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/castlecomer-in-county-kilkenny-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/castlecomer-in-county-kilkenny-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/img-freshfordshop1817.jpg",
@@ -633,7 +635,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:IMG_FreshfordShop1817.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kilkenny-wp",
-          "sourceGeohash4": "gc6g"
+          "sourceGeohash4": "gc6g",
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/img-freshfordshop1817-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/img-freshfordshop1817-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/new-ross-aerial-2026-04-18-04.jpg",
@@ -648,7 +652,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Ross_-_aerial_-_2026-04-18_04.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kilkenny-wp",
-          "sourceGeohash4": "gc6g"
+          "sourceGeohash4": "gc6g",
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/new-ross-aerial-2026-04-18-04-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/new-ross-aerial-2026-04-18-04-small.webp"
         }
       ],
       "narration": [

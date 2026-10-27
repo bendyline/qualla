@@ -33,7 +33,7 @@ The Columbia Bar is located at approximately 46.250N, 124.033W at the mouth of t
 ## Sources
 
 - [Columbia Bar - Wikipedia](https://en.wikipedia.org/?curid=1673669)
-- [Columbia Bar - Wikipedia](https://en.wikipedia.org/wiki/Columbia_Bar)
+- [Columbia Bar - Wikipedia](https://en.wikipedia.org/?curid=1673669)
   - Approximately 2,000 large vessels have wrecked since 1792 confirmed
   - More than 700 people have drowned confirmed
   - Bar is roughly three miles wide and six miles long confirmed

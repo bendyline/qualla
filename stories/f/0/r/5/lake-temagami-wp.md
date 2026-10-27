@@ -37,7 +37,7 @@ Located at 46.95°N, 80.08°W in Nipissing District, northeastern Ontario, appro
 ## Sources
 
 - [Lake Temagami - Wikipedia](https://en.wikipedia.org/?curid=1529432)
-- [Lake Temagami - Wikipedia](https://en.wikipedia.org/wiki/Lake_Temagami)
+- [Lake Temagami - Wikipedia](https://en.wikipedia.org/?curid=1529432)
   - 1,259 islands - confirmed
   - Five major arms (north, northeast, southwest, northwest, south) - confirmed
   - Keewaydin Canoe Camp founding year: story said 1892, corrected to 1893 per official Keewaydin website and Wikipedia

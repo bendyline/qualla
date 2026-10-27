@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/y/z/9/tabarca-wk/hero.jpg",
-        "filename": "Playa Tabarca.jpg",
-        "caption": "The beach of Tabarca island in Alicante, Spain.Tabarca",
-        "alt": "The beach of Tabarca island in Alicante, Spain.Tabarca",
-        "width": 1600,
-        "height": 1200,
+        "path": "_m/e/y/z/9/tabarca-wk/tabarca-desde-el-sur.jpg",
+        "filename": "Tabarca desde el sur.jpg",
+        "caption": "Tabarca, Alicante.",
+        "alt": "Tabarca, Alicante.",
+        "width": 4912,
+        "height": 2760,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "benidormone",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Playa_Tabarca.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Jorge Sanz from Aldaia, Spain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tabarca_desde_el_sur.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "tabarca-wk",
         "sourceGeohash4": "eyz9",
-        "categories": [
-          "Beaches of Tabarca",
-          "CC-BY-2.0",
-          "Espacio marino de Tabarca",
-          "Files from Flickr with changed licenses",
-          "Flickr images reviewed by trusted users",
-          "Information field template with formatting",
-          "Views of Tabarca"
-        ]
+        "mediumPath": "_m/e/y/z/9/tabarca-wk/tabarca-desde-el-sur-medium.webp",
+        "smallPath": "_m/e/y/z/9/tabarca-wk/tabarca-desde-el-sur-small.webp"
       },
       "images": [
         {
@@ -321,7 +314,9 @@
             "Valued images missing SDC source of file",
             "Valued images promoted 2016-12",
             "Valued images sorted by promotion date"
-          ]
+          ],
+          "mediumPath": "_m/e/y/z/9/tabarca-wp/tabarca-planol-de-la-ciutat-medium.webp",
+          "smallPath": "_m/e/y/z/9/tabarca-wp/tabarca-planol-de-la-ciutat-small.webp"
         },
         {
           "path": "_m/e/y/z/9/santa-pola-wk/santa-pola-castillo-fortaleza.jpg",
@@ -343,7 +338,9 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work",
             "Taken with Canon Digital IXUS 105"
-          ]
+          ],
+          "mediumPath": "_m/e/y/z/9/santa-pola-wk/santa-pola-castillo-fortaleza-medium.webp",
+          "smallPath": "_m/e/y/z/9/santa-pola-wk/santa-pola-castillo-fortaleza-small.webp"
         }
       ],
       "narration": [

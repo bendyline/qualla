@@ -3,33 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/j/1/n/samye-wp/hero.jpg",
-        "filename": "A grand view of Samye.jpg",
-        "alt": "A grand view of Samye.jpg",
-        "width": 800,
-        "height": 600,
+        "path": "_m/w/j/1/n/samye-wp/samye-monastery-22433452223.jpg",
+        "filename": "Samye Monastery (22433452223).jpg",
+        "caption": "Samye Monastery",
+        "alt": "Samye Monastery",
+        "width": 4608,
+        "height": 3456,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 2.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_grand_view_of_Samye.jpg",
-        "sourceType": "core",
+        "artist": "Laika ac from UK",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samye_Monastery_(22433452223).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "samye-wp",
         "sourceGeohash4": "wj1n",
-        "categories": [
-          "Architecture of Tibet",
-          "CC-BY-SA-2.0",
-          "Clouds in Tibet",
-          "Files with no machine-readable author",
-          "Files with no machine-readable source",
-          "Images with annotations",
-          "Media missing infobox template",
-          "Mountains of Tibet",
-          "Prayer flags in Tibet",
-          "Samye",
-          "Taken with Canon Digital IXUS 400",
-          "Tibetan Buddhist monasteries",
-          "Trees in Tibet",
-          "Vajra in Tibet"
-        ]
+        "mediumPath": "_m/w/j/1/n/samye-wp/samye-monastery-22433452223-medium.webp",
+        "smallPath": "_m/w/j/1/n/samye-wp/samye-monastery-22433452223-small.webp"
       },
       "images": [
         {
@@ -59,7 +47,7 @@
           "smallPath": "_m/w/j/1/n/samye-wp/entering-impressive-sa-small.webp"
         },
         {
-          "path": "_m/w/j/1/n/samye-wp/lage-des-regierungsbez.png",
+          "path": "_m/w/j/0/s/yamdrok-lake-wp/lage-des-regierungsbez.png",
           "filename": "Map of Shannan, 2005.png",
           "caption": "Lage des Regierungsbezirks Shannan im Autonomen Gebiet Tibet",
           "alt": "Lage des Regierungsbezirks Shannan im Autonomen Gebiet Tibet",
@@ -79,7 +67,8 @@
             "GFDL",
             "License migration completed",
             "Maps of Lhokha"
-          ]
+          ],
+          "smallPath": "_m/w/j/0/s/yamdrok-lake-wp/lage-des-regierungsbez-small.webp"
         },
         {
           "path": "_m/w/j/1/n/samye-wp/prayer-wheels-in-samye.jpg",
@@ -384,7 +373,7 @@
           "smallPath": "_m/w/j/1/n/samye-wp/samye-monastery-22433452223-small.webp"
         },
         {
-          "path": "_m/w/j/1/n/samye-wp/1903-routes-between-tibet-and-.jpg",
+          "path": "_m/w/j/0/s/yamdrok-lake-wp/1903-routes-between-tibet-and-.jpg",
           "filename": "1903 Routes between Tibet and India by O'Connor.jpg",
           "caption": "1903-04-13 Routes between Tibet and India by Captain W. F. O'Connor, Royal Artillery",
           "alt": "1903-04-13 Routes between Tibet and India by Captain W. F. O'Connor, Royal Artillery",
@@ -396,7 +385,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1903_Routes_between_Tibet_and_India_by_O%27Connor.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "yamdrok-lake-wp",
-          "sourceGeohash4": "wj1n"
+          "sourceGeohash4": "wj1n",
+          "mediumPath": "_m/w/j/0/s/yamdrok-lake-wp/1903-routes-between-tibet-and--medium.webp",
+          "smallPath": "_m/w/j/0/s/yamdrok-lake-wp/1903-routes-between-tibet-and--small.webp"
         },
         {
           "path": "_m/w/j/1/n/samye-wp/samye-aerial-2.jpg",
@@ -459,7 +450,9 @@
             "Self-published work",
             "Self-published work missing SDC copyright license",
             "Wikivoyage banners of China"
-          ]
+          ],
+          "mediumPath": "_m/tpc/sa/my/e_/__/samye/samye-banner-medium.webp",
+          "smallPath": "_m/tpc/sa/my/e_/__/samye/samye-banner-small.webp"
         },
         {
           "path": "_m/w/j/2/b/lhasa-wk/hero.jpg",
@@ -491,7 +484,9 @@
             "Valued images of China",
             "Valued images promoted 2009-03",
             "Valued images sorted by promotion date"
-          ]
+          ],
+          "mediumPath": "_m/w/j/2/b/lhasa-wk/hero-medium.webp",
+          "smallPath": "_m/w/j/2/b/lhasa-wk/hero-small.webp"
         },
         {
           "path": "_m/w/j/2/b/lhasa-wk/tibetan-museum-lhasa.jpg",
@@ -515,7 +510,9 @@
             "License migration redundant",
             "Self-published work",
             "Tibet Museum (Lhasa)"
-          ]
+          ],
+          "mediumPath": "_m/w/j/2/b/lhasa-wk/tibetan-museum-lhasa-medium.webp",
+          "smallPath": "_m/w/j/2/b/lhasa-wk/tibetan-museum-lhasa-small.webp"
         },
         {
           "path": "_m/w/j/2/b/lhasa-wk/potala-palace.jpg",
@@ -541,7 +538,9 @@
             "Potala Palace in the 2000s",
             "Self-published work",
             "Taken with Samsung GX10"
-          ]
+          ],
+          "mediumPath": "_m/w/j/2/b/lhasa-wk/potala-palace-medium.webp",
+          "smallPath": "_m/w/j/2/b/lhasa-wk/potala-palace-small.webp"
         },
         {
           "path": "_m/w/j/2/b/lhasa-wk/sera-monastery.jpg",
@@ -564,7 +563,9 @@
             "Self-published work",
             "Sera Monastery",
             "Taken with Samsung GX10"
-          ]
+          ],
+          "mediumPath": "_m/w/j/2/b/lhasa-wk/sera-monastery-medium.webp",
+          "smallPath": "_m/w/j/2/b/lhasa-wk/sera-monastery-small.webp"
         },
         {
           "path": "_m/w/j/2/b/lhasa-wk/inside-main-hall-first.jpg",
@@ -587,7 +588,9 @@
             "Norbulingka",
             "Photographs of Tibet by Dennis G. Jarvis",
             "Taken with Nikon Coolpix 8800"
-          ]
+          ],
+          "mediumPath": "_m/w/j/2/b/lhasa-wk/inside-main-hall-first-medium.webp",
+          "smallPath": "_m/w/j/2/b/lhasa-wk/inside-main-hall-first-small.webp"
         },
         {
           "path": "_m/w/j/2/b/lhasa-wk/gallery-5.jpg",
@@ -607,7 +610,9 @@
             "CC-BY-SA-4.0",
             "Lhasa",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/j/2/b/lhasa-wk/gallery-5-medium.webp",
+          "smallPath": "_m/w/j/2/b/lhasa-wk/gallery-5-small.webp"
         }
       ],
       "narration": [

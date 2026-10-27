@@ -31,7 +31,7 @@
       },
       "images": [
         {
-          "path": "_m/r/5/4/y/diamantina-river-wp/map-lake-eyre-drainage.png",
+          "path": "_m/q/g/w/q/finke-river-wp/map-lake-eyre-drainage.png",
           "filename": "Lake eyre basin map.png",
           "caption": "This is a map of the Lake Eyre drainage basin including the major rivers. Note that the river courses shown are usually dry.",
           "alt": "This is a map of the Lake Eyre drainage basin including the major rivers. Note that the river courses shown are usually dry.",
@@ -50,7 +50,8 @@
             "Lake Eyre",
             "Lake Eyre Basin",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/q/g/w/q/finke-river-wp/map-lake-eyre-drainage-small.webp"
         },
         {
           "path": "_m/r/5/4/y/diamantina-river-wp/crossing-diamantina-ri.jpg",
@@ -222,7 +223,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon Coolpix 5700"
-          ]
+          ],
+          "smallPath": "_m/tpc/ce/nt/ra/l-/central-west-queensland/kangaroo-small.webp"
         },
         {
           "path": "_m/tpc/bi/rd/sv/il/birdsville-track/birdsville-overhead.jpg",
@@ -245,7 +247,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon PowerShot G7"
-          ]
+          ],
+          "smallPath": "_m/tpc/bi/rd/sv/il/birdsville-track/birdsville-overhead-small.webp"
         },
         {
           "path": "_m/tpc/ce/nt/ra/l-/central-west-queensland/mulga-parrot-currawinya.jpg",
@@ -268,7 +271,9 @@
             "Psittaculidae of Queensland",
             "Self-published work",
             "Taken with Nikon Coolpix 990"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ce/nt/ra/l-/central-west-queensland/mulga-parrot-currawinya-medium.webp",
+          "smallPath": "_m/tpc/ce/nt/ra/l-/central-west-queensland/mulga-parrot-currawinya-small.webp"
         },
         {
           "path": "_m/tpc/ce/nt/ra/l-/central-west-queensland/blackall-mitchell-memorial.jpg",
@@ -288,7 +293,9 @@
             "Blackall, Queensland",
             "CC-BY-SA-3.0",
             "Clocks without numbers (with hour and minute marks)"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ce/nt/ra/l-/central-west-queensland/blackall-mitchell-memorial-medium.webp",
+          "smallPath": "_m/tpc/ce/nt/ra/l-/central-west-queensland/blackall-mitchell-memorial-small.webp"
         },
         {
           "path": "_m/tpc/ce/nt/ra/l-/central-west-queensland/cunnamulla-qld.jpg",
@@ -303,7 +310,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cunnamulla_QLD.JPG",
           "sourceType": "poi",
           "sourceArticleId": "central-west-queensland",
-          "sourceGeohash4": "tpc/ce/nt/ra/l-"
+          "sourceGeohash4": "tpc/ce/nt/ra/l-",
+          "mediumPath": "_m/tpc/ce/nt/ra/l-/central-west-queensland/cunnamulla-qld-medium.webp",
+          "smallPath": "_m/tpc/ce/nt/ra/l-/central-west-queensland/cunnamulla-qld-small.webp"
         },
         {
           "path": "_m/r/4/z/p/eulo-queensland-wp/entrance-sign-eulo-aus.jpg",
@@ -318,7 +327,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entry_to_Eulo.jpg",
           "sourceType": "poi",
           "sourceArticleId": "eulo-queensland-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/r/4/z/p/eulo-queensland-wp/entrance-sign-eulo-aus-medium.webp",
+          "smallPath": "_m/r/4/z/p/eulo-queensland-wp/entrance-sign-eulo-aus-small.webp"
         },
         {
           "path": "_m/tpc/bi/rd/sv/il/birdsville-track/bedourie-community-centre-2016.jpg",
@@ -333,7 +344,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bedourie_Community_Centre,_2016.jpg",
           "sourceType": "poi",
           "sourceArticleId": "birdsville-track",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/bi/rd/sv/il/birdsville-track/bedourie-community-centre-2016-small.webp"
         }
       ],
       "narration": [

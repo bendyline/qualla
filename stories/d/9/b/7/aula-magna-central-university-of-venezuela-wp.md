@@ -33,7 +33,7 @@ The Aula Magna sits at 10.491N, 66.891W within the University City of Caracas ca
 ## Sources
 
 - [Aula Magna (Central University of Venezuela) - Wikipedia](https://en.wikipedia.org/?curid=58270674)
-- [Aula Magna (Central University of Venezuela) - Wikipedia (fact check)](https://en.wikipedia.org/wiki/Aula_Magna_(Central_University_of_Venezuela))
+- [Aula Magna (Central University of Venezuela) - Wikipedia (fact check)](https://en.wikipedia.org/?curid=58270674)
   - Construction contract awarded November 28 1952 confirmed
   - Deadline March 31 1953 (four months) confirmed
   - Completed on time confirmed

@@ -3,30 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/k/8/st-dogmaels-wp/hero.jpg",
-        "filename": "Start-end point of the Wales Coast Path at St Dogmaels.jpg",
-        "caption": "start/end point of the Pembrokeshire Coast Path at St Dogmaels",
-        "alt": "start/end point of the Pembrokeshire Coast Path at St Dogmaels",
-        "width": 2250,
-        "height": 4000,
+        "path": "_m/g/c/k/8/st-dogmaels-wp/a-quay-in-the-teifi-estuary-ge.jpg",
+        "filename": "A quay in the Teifi estuary - geograph.org.uk - 2594770.jpg",
+        "caption": "A quay in the Teifi estuary",
+        "alt": "A quay in the Teifi estuary",
+        "width": 3872,
+        "height": 2592,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Hogyn Lleol",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Start-end_point_of_the_Wales_Coast_Path_at_St_Dogmaels.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Bill Boaden",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_quay_in_the_Teifi_estuary_-_geograph.org.uk_-_2594770.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "st-dogmaels-wp",
         "sourceGeohash4": "gck8",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Pembrokeshire Coast Path",
-          "Self-published work",
-          "St Dogmaels",
-          "Wales Coast Path"
-        ]
+        "mediumPath": "_m/g/c/k/8/st-dogmaels-wp/a-quay-in-the-teifi-estuary-ge-medium.webp",
+        "smallPath": "_m/g/c/k/8/st-dogmaels-wp/a-quay-in-the-teifi-estuary-ge-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/k/8/st-dogmaels-wp/stdogmaelsabbey.jpg",
+          "path": "_m/g/c/k/8/abbey-of-st-mary-st-dogmaels-wp/stdogmaelsabbey.jpg",
           "filename": "StDogmaelsAbbey.jpg",
           "caption": "Remains of St Dogmaels Abbey",
           "alt": "Remains of St Dogmaels Abbey",
@@ -46,7 +41,9 @@
             "Self-published work",
             "St Dogmaels Abbey",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/k/8/abbey-of-st-mary-st-dogmaels-wp/stdogmaelsabbey-medium.webp",
+          "smallPath": "_m/g/c/k/8/abbey-of-st-mary-st-dogmaels-wp/stdogmaelsabbey-small.webp"
         },
         {
           "path": "_m/g/c/k/8/st-dogmaels-wp/blaenwaun-baptistry-geograph-o.jpg",
@@ -297,7 +294,7 @@
           "smallPath": "_m/g/c/k/8/st-dogmaels-wp/blaenwaen-baptistry-in-cwm-dog-small.webp"
         },
         {
-          "path": "_m/g/c/k/8/st-dogmaels-wp/a-glimpse-of-the-teifi-estuary.jpg",
+          "path": "_m/g/c/k/8/cardigan-ceredigion-wp/a-glimpse-of-the-teifi-estuary.jpg",
           "filename": "A glimpse of the Teifi estuary - geograph.org.uk - 4505543.jpg",
           "caption": "A glimpse of the Teifi estuary",
           "alt": "A glimpse of the Teifi estuary",
@@ -309,7 +306,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_glimpse_of_the_Teifi_estuary_-_geograph.org.uk_-_4505543.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "cardigan-ceredigion-wp",
-          "sourceGeohash4": "gck8"
+          "sourceGeohash4": "gck8",
+          "smallPath": "_m/g/c/k/8/cardigan-ceredigion-wp/a-glimpse-of-the-teifi-estuary-small.webp"
         },
         {
           "path": "_m/g/c/k/8/st-dogmaels-wp/bluebells-on-cemaes-head-geogr.jpg",
@@ -413,7 +411,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Fujifilm FinePix A330"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret-medium.webp",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/abercastle.jpg",
@@ -435,7 +435,9 @@
             "Images with extracted images",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-TZ3"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/w/pembrokeshire-wk/abercastle-medium.webp",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/abercastle-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/green-bridge-of-wales-1-pembro.jpg",
@@ -450,7 +452,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Bridge_of_Wales_1_-_Pembrokeshire_(2010).jpg",
           "sourceType": "poi",
           "sourceArticleId": "pembrokeshire-wk",
-          "sourceGeohash4": "gchw"
+          "sourceGeohash4": "gchw",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/green-bridge-of-wales-1-pembro-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/llangrannog-from-south-cliffs.jpg",
@@ -472,7 +475,8 @@
             "License migration completed",
             "Llangrannog",
             "Taken with Nikon Coolpix 5700"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/llangrannog-from-south-cliffs-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/borth-2008-03-01.jpg",
@@ -499,7 +503,9 @@
             "Self-published work",
             "Taken with Sony DSC-P12",
             "United Kingdom photographs taken on 2008-03-01"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/borth-2008-03-01-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/borth-2008-03-01-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/lampeter-high-street.jpg",
@@ -518,7 +524,9 @@
           "categories": [
             "High Street, Lampeter",
             "PD-user"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/lampeter-high-street-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/lampeter-high-street-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/llandysul.jpg",
@@ -540,7 +548,8 @@
             "Self-published work",
             "Streets in Llandysul (town)",
             "Taken with Sony DSC-P100"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/llandysul-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/ceredigion-banner-01.jpg",
@@ -555,7 +564,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceredigion-banner-01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gcm1"
+          "sourceGeohash4": "gcm1",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/ceredigion-banner-01-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/ceredigion-banner-01-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/ceinewydd-ceredigion-cymru-wal.jpg",
@@ -570,7 +581,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceinewydd,_Ceredigion,_Cymru_(Wales)_-_Mehefin_2024_-_15.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gcm1"
+          "sourceGeohash4": "gcm1",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/ceinewydd-ceredigion-cymru-wal-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/ceinewydd-ceredigion-cymru-wal-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/aberaeron-ceredigion-cymru-wal.jpg",
@@ -585,7 +598,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aberaeron,_Ceredigion,_Cymru_(Wales)_-_Gorllewin_Cymru_Forol_-_SAC_Special_Areas_of_Conservation_82.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gcm1"
+          "sourceGeohash4": "gcm1",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/aberaeron-ceredigion-cymru-wal-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/aberaeron-ceredigion-cymru-wal-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/arfordir-aberystwyth-ceredigio.jpg",
@@ -600,7 +615,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arfordir_Aberystwyth,_Ceredigion_-_Aberystwyth_SAC_Special_Areas_of_Conservation,_West_Wales_Marine_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gcm1"
+          "sourceGeohash4": "gcm1",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/arfordir-aberystwyth-ceredigio-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/arfordir-aberystwyth-ceredigio-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/afon-teifi-ger-aberteifi-o-r-a.jpg",
@@ -615,7 +632,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Afon_Teifi_ger_Aberteifi_o%27r_awyr_-_the_river_teifi_near_Cardigan,_Ceredigion,_Wales_from_the_air_05.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gcm1"
+          "sourceGeohash4": "gcm1",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/afon-teifi-ger-aberteifi-o-r-a-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/afon-teifi-ger-aberteifi-o-r-a-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/castellnewydd-emlyn.jpg",
@@ -630,7 +649,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castellnewydd_Emlyn.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gcm1"
+          "sourceGeohash4": "gcm1",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/castellnewydd-emlyn-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/castellnewydd-emlyn-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/the-bridges-ceredigion.png",
@@ -645,7 +666,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_bridges_Ceredigion.png",
           "sourceType": "poi",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gcm1"
+          "sourceGeohash4": "gcm1",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/the-bridges-ceredigion-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/the-bridges-ceredigion-small.webp"
         }
       ],
       "narration": [

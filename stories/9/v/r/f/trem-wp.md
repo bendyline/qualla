@@ -33,7 +33,7 @@ Tremé is located at 29.968°N, 90.074°W, immediately north of the French Quart
 ## Sources
 
 - [Trem - Wikipedia](https://en.wikipedia.org/?curid=7391447)
-- [Wikipedia - Tremé](https://en.wikipedia.org/wiki/Trem%C3%A9)
+- [Wikipedia - Tremé](https://en.wikipedia.org/?curid=627632)
   - Oldest African-American neighborhood in the United States
   - Population 8,853 in 2000 and 4,590 by 2020
   - Faubourg Tremé created from Claude Tremé's land in 1810

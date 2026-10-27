@@ -42,7 +42,7 @@ The Temple of the Tooth (7.294N, 80.641E) is located on the north shore of Kandy
   - Defence Minister Anuruddha Ratwatte resigned
   - Sri Lankan government banned LTTE for first time as result of attack
   - In October 2003 Kandy high court convicted three LTTE cadres
-- [UNESCO - Director General condemnation 1998](https://en.wikipedia.org/wiki/1998_Temple_of_the_Tooth_attack)
+- [UNESCO - Director General condemnation 1998](https://en.wikipedia.org/?curid=35470941)
   - UNESCO Director General Federico Mayor Zaragoza condemned attack
   - UN Secretary General Kofi Annan expressed outrage
   - Prince Charles called bombing 'a brutal and malign act'

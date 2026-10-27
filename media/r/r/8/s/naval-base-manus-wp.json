@@ -3,23 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/r/8/s/naval-base-manus-wp/hero.jpg",
-        "filename": "Seeadler Harbor with floating drydocks in September 1945.jpg",
-        "caption": "The U.S. Naval Amphibious Base, Manus, Admiralty Islands: Floating drydocks ABSD-2 (foreground) and ABSD-4 in Seeadler Harbor, Manus, 18 September 1945.",
-        "alt": "The U.S. Naval Amphibious Base, Manus, Admiralty Islands: Floating drydocks ABSD-2 (foreground) and ABSD-4 in Seeadler Harbor, Manus, 18 September 1945.",
-        "width": 4787,
-        "height": 3533,
+        "path": "_m/r/r/8/s/naval-base-manus-wp/explosion-u-s-navy-amm-1.jpg",
+        "filename": "USS Mount Hood (AE-11) explodes at Seeadler Harbor on 10 November 1944.jpg",
+        "caption": "The explosion of the U.S. Navy ammunition ship USS Mount Hood (AE-11) in Seeadler Harbor, Manus, Admiralty Islands on 10 November 1944. The smoke trails are left by fragments ejected by the explosion. The cause of the explosion could not be determined.",
+        "alt": "The explosion of the U.S. Navy ammunition ship USS Mount Hood (AE-11) in Seeadler Harbor, Manus, Admiralty Islands on 10 November 1944. The smoke trails are left by fragments ejected by the explosion. The cause of the explosion could not be determined.",
+        "width": 5685,
+        "height": 4260,
         "mimeType": "image/jpeg",
         "license": "Public domain",
-        "artist": "U.S. Navy",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seeadler_Harbor_with_floating_drydocks_in_September_1945.jpg",
+        "artist": "U.S. Navy, photographed by a photographer of the 57th Construction Battalion, who had set up his camera to take pictures of the Battalion's camp.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:USS_Mount_Hood_(AE-11)_explodes_at_Seeadler_Harbor_on_10_November_1944.jpg",
         "sourceType": "core",
         "sourceArticleId": "naval-base-manus-wp",
-        "sourceGeohash4": "rr8s"
+        "sourceGeohash4": "rr8s",
+        "categories": [
+          "CC-PD-Mark",
+          "PD US Navy",
+          "Pacific War in November 1944",
+          "Seeadler Harbor in World War II",
+          "USS Mount Hood (AE-11)",
+          "United States photographs taken on 1944-11-10"
+        ],
+        "mediumPath": "_m/r/r/8/s/naval-base-manus-wp/explosion-u-s-navy-amm-1-medium.webp",
+        "smallPath": "_m/r/r/8/s/naval-base-manus-wp/explosion-u-s-navy-amm-1-small.webp"
       },
       "images": [
         {
-          "path": "_m/r/r/8/s/naval-base-manus-wp/uss-iowa-bb-61-floatin.jpg",
+          "path": "_m/r/r/8/u/lombrum-naval-base-wp/uss-iowa-bb-61-floatin.jpg",
           "filename": "USS Iowa Floating Drydock.jpg",
           "caption": "USS Iowa (BB-61) in a floating drydock at Manus Island, Admirality Islands, 28 December 1944.",
           "alt": "USS Iowa (BB-61) in a floating drydock at Manus Island, Admirality Islands, 28 December 1944.",
@@ -45,10 +55,10 @@
             "USS AFDB-2 (ship, 1944)",
             "USS Iowa (BB-61)"
           ],
-          "smallPath": "_m/r/r/8/s/naval-base-manus-wp/uss-iowa-bb-61-floatin-small.webp"
+          "smallPath": "_m/r/r/8/u/lombrum-naval-base-wp/uss-iowa-bb-61-floatin-small.webp"
         },
         {
-          "path": "_m/r/r/8/s/naval-base-manus-wp/admiralty-islands-topography-w.png",
+          "path": "_m/r/r/8/k/admiralty-islands-wp/admiralty-islands-topography-w.png",
           "filename": "Admiralty Islands Topography with labels.png",
           "caption": "Topographical map of Admiralty Island in Papua New Guinea. Largest islands have been named. Created with GMT from publicly released SRTM data.",
           "alt": "Topographical map of Admiralty Island in Papua New Guinea. Largest islands have been named. Created with GMT from publicly released SRTM data.",
@@ -70,7 +80,9 @@
             "Self-published work",
             "Topographic maps of New Guinea",
             "Topographic maps of Papua New Guinea"
-          ]
+          ],
+          "mediumPath": "_m/r/r/8/k/admiralty-islands-wp/admiralty-islands-topography-w-medium.webp",
+          "smallPath": "_m/r/r/8/k/admiralty-islands-wp/admiralty-islands-topography-w-small.webp"
         },
         {
           "path": "_m/r/r/8/s/naval-base-manus-wp/explosion-u-s-navy-amm.jpg",
@@ -129,7 +141,7 @@
           "smallPath": "_m/r/r/8/s/naval-base-manus-wp/explosion-u-s-navy-amm-1-small.webp"
         },
         {
-          "path": "_m/r/r/8/s/naval-base-manus-wp/admiralty-islands-camp.jpg",
+          "path": "_m/r/r/8/s/admiralty-islands-campaign-wp/admiralty-islands-camp.jpg",
           "filename": "WW2 Admiralty Islands ops.jpg",
           "caption": "Admiralty Islands Campaign",
           "alt": "Admiralty Islands Campaign",
@@ -147,10 +159,12 @@
             "Manus Naval Base",
             "Maps of the New Guinea campaign",
             "PD US Army USACMH"
-          ]
+          ],
+          "mediumPath": "_m/r/r/8/s/admiralty-islands-campaign-wp/admiralty-islands-camp-medium.webp",
+          "smallPath": "_m/r/r/8/s/admiralty-islands-campaign-wp/admiralty-islands-camp-small.webp"
         },
         {
-          "path": "_m/r/r/8/s/naval-base-manus-wp/operations-los-negros.jpg",
+          "path": "_m/r/r/8/s/admiralty-islands-campaign-wp/operations-los-negros.jpg",
           "filename": "Admiralties-day08.JPG",
           "caption": "Operations on Los Negros, 5-7 March 1944",
           "alt": "Operations on Los Negros, 5-7 March 1944",
@@ -167,7 +181,8 @@
             "Admiralty Islands campaign",
             "Los Negros Island",
             "Manus Naval Base"
-          ]
+          ],
+          "smallPath": "_m/r/r/8/s/admiralty-islands-campaign-wp/operations-los-negros-small.webp"
         },
         {
           "path": "_m/r/r/8/s/naval-base-manus-wp/explosion-u-s-navy-amm.jpg",
@@ -187,7 +202,7 @@
           "smallPath": "_m/r/r/8/s/naval-base-manus-wp/explosion-u-s-navy-amm-small.webp"
         },
         {
-          "path": "_m/r/r/8/s/naval-base-manus-wp/u-s-navy-destroyer-uss.jpg",
+          "path": "_m/r/r/8/u/lombrum-naval-base-wp/u-s-navy-destroyer-uss.jpg",
           "filename": "USS Claxton (DD-571), USS Canberra (CA-70) and USS Killen (DD-593) in floating dry dock ABSD-2 on 2 December 1944 (80-G-304088).jpg",
           "caption": "The U.S. Navy destroyer USS Claxton (DD-571), at left, the heavy cruiser USS Canberra (CA-70), center, and USS Killen (DD-593), right undergoing battle damage repairs in the floating drydock ABSD-2 at Manus, Admiralty Islands, 2 December 1944.",
           "alt": "The U.S. Navy destroyer USS Claxton (DD-571), at left, the heavy cruiser USS Canberra (CA-70), center, and USS Killen (DD-593), right undergoing battle damage repairs in the floating drydock ABSD-2 at Manus, Admiralty Islands, 2 December 1944.",
@@ -199,11 +214,11 @@
           "sourceType": "core",
           "sourceArticleId": "naval-base-manus-wp",
           "sourceGeohash4": "rr8s",
-          "mediumPath": "_m/r/r/8/s/naval-base-manus-wp/u-s-navy-destroyer-uss-medium.webp",
-          "smallPath": "_m/r/r/8/s/naval-base-manus-wp/u-s-navy-destroyer-uss-small.webp"
+          "mediumPath": "_m/r/r/8/u/lombrum-naval-base-wp/u-s-navy-destroyer-uss-medium.webp",
+          "smallPath": "_m/r/r/8/u/lombrum-naval-base-wp/u-s-navy-destroyer-uss-small.webp"
         },
         {
-          "path": "_m/r/r/8/s/naval-base-manus-wp/small-u-s-navy-floatin.jpg",
+          "path": "_m/r/r/8/u/lombrum-naval-base-wp/small-u-s-navy-floatin.jpg",
           "filename": "Small floating drydock at Seeadler Harbor in September 1944.jpg",
           "caption": "A small U.S. Navy floating dry dock showing the submarine chaser PC-1121 therein at Seeadler Harbor, Manus Island, Admiralty Islands, Papua New Guinea, in September 1944. Note the Quonset huts attached to dry dock.",
           "alt": "A small U.S. Navy floating dry dock showing the submarine chaser PC-1121 therein at Seeadler Harbor, Manus Island, Admiralty Islands, Papua New Guinea, in September 1944. Note the Quonset huts attached to dry dock.",
@@ -216,11 +231,11 @@
           "sourceType": "core",
           "sourceArticleId": "naval-base-manus-wp",
           "sourceGeohash4": "rr8s",
-          "mediumPath": "_m/r/r/8/s/naval-base-manus-wp/small-u-s-navy-floatin-medium.webp",
-          "smallPath": "_m/r/r/8/s/naval-base-manus-wp/small-u-s-navy-floatin-small.webp"
+          "mediumPath": "_m/r/r/8/u/lombrum-naval-base-wp/small-u-s-navy-floatin-medium.webp",
+          "smallPath": "_m/r/r/8/u/lombrum-naval-base-wp/small-u-s-navy-floatin-small.webp"
         },
         {
-          "path": "_m/r/r/8/s/naval-base-manus-wp/u-s-navy-motor-torpedo.jpg",
+          "path": "_m/r/r/8/u/lombrum-naval-base-wp/u-s-navy-motor-torpedo.jpg",
           "filename": "USS Oyster Bay (AGP-6) tending PT boats in Seeadler Harbor on 25 March 1944.jpg",
           "caption": "The U.S. Navy motor torpedo boat tender USS Oyster Bay (AGP-6) tending PT boats in Seeadler Harbor, Admiralty Islands, on 25 March 1944.",
           "alt": "The U.S. Navy motor torpedo boat tender USS Oyster Bay (AGP-6) tending PT boats in Seeadler Harbor, Admiralty Islands, on 25 March 1944.",
@@ -233,11 +248,11 @@
           "sourceType": "core",
           "sourceArticleId": "naval-base-manus-wp",
           "sourceGeohash4": "rr8s",
-          "mediumPath": "_m/r/r/8/s/naval-base-manus-wp/u-s-navy-motor-torpedo-medium.webp",
-          "smallPath": "_m/r/r/8/s/naval-base-manus-wp/u-s-navy-motor-torpedo-small.webp"
+          "mediumPath": "_m/r/r/8/u/lombrum-naval-base-wp/u-s-navy-motor-torpedo-medium.webp",
+          "smallPath": "_m/r/r/8/u/lombrum-naval-base-wp/u-s-navy-motor-torpedo-small.webp"
         },
         {
-          "path": "_m/r/r/8/s/naval-base-manus-wp/map-of-manus-and-los-negros.jpg",
+          "path": "_m/r/r/8/s/admiralty-islands-campaign-wp/map-of-manus-and-los-negros.jpg",
           "filename": "Map of Manus and Los Negros.jpg",
           "caption": "Map of Manus and Los Negros during World War II",
           "alt": "Map of Manus and Los Negros during World War II",
@@ -249,7 +264,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Map_of_Manus_and_Los_Negros.jpg",
           "sourceType": "core",
           "sourceArticleId": "naval-base-manus-wp",
-          "sourceGeohash4": "rr8s"
+          "sourceGeohash4": "rr8s",
+          "smallPath": "_m/r/r/8/s/admiralty-islands-campaign-wp/map-of-manus-and-los-negros-small.webp"
         }
       ],
       "narration": [

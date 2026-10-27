@@ -37,7 +37,7 @@ Located at 41.878°N, 71.383°W in Pawtucket, Rhode Island, on the Blackstone Ri
 ## Sources
 
 - [Slater Mill - Wikipedia](https://en.wikipedia.org/?curid=4104491)
-- [Slater Mill - Wikipedia](https://en.wikipedia.org/wiki/Slater_Mill)
+- [Slater Mill - Wikipedia](https://en.wikipedia.org/?curid=4104491)
   - Samuel Slater apprenticed under Jedediah Strutt in Belper, England confirmed
   - Slater sailed for America 1789 confirmed
   - Moses Brown was the Providence merchant who partnered with Slater confirmed

@@ -3,31 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/5/k/d/lake-yamma-yamma-wp/hero.jpg",
-        "filename": "AustralianPelicansMcArthurRiverMouth.jpg",
-        "caption": "Australian Pelicans (Pelecanus conspicillatus) at the mouth of the McArthur River in the Northern Territory",
-        "alt": "Australian Pelicans (Pelecanus conspicillatus) at the mouth of the McArthur River in the Northern Territory",
-        "width": 1280,
-        "height": 715,
-        "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "djambalawa (talk)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:AustralianPelicansMcArthurRiverMouth.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "lake-yamma-yamma-wp",
-        "sourceGeohash4": "r5kd",
-        "categories": [
-          "CC-BY-3.0",
-          "Files uploaded with For the Common Good",
-          "Pelecaniformes of the Northern Territory",
-          "Pelecanus conspicillatus in Australia",
-          "Self-published work",
-          "Taken with Nikon D300"
-        ]
+        "path": "_m/r/n/j/5/green-hill-fort-wp/hero.jpg",
+        "filename": "Australia Queensland relief location map.jpg",
+        "caption": "Location map of Queensland, Australia\nEquirectangular projection, N/S stretching 106 %. Geographic limits of the map:\n\nN: 9.0° S\nS: 29.5° S\nW: 137.5° E\nE: 154.0° E\nBorders and Reefs from the other map by NNW.",
+        "alt": "Location map of Queensland, Australia\nEquirectangular projection, N/S stretching 106 %. Geographic limits of the map:\n\nN: 9.0° S\nS: 29.5° S\nW: 137.5° E\nE: 154.0° E\nBorders and Reefs from the other map by NNW.",
+        "width": 973,
+        "height": 1285,
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Uwe Dedering",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Australia_Queensland_relief_location_map.jpg",
+        "smallPath": "_m/r/n/j/5/green-hill-fort-wp/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/r/5/k/d/lake-yamma-yamma-wp/hero.jpg",
+          "path": "_m/r/n/j/5/green-hill-fort-wp/hero.jpg",
           "filename": "Australia Queensland relief location map.jpg",
           "caption": "Location map of Queensland, Australia\nEquirectangular projection, N/S stretching 106 %. Geographic limits of the map:\n\nN: 9.0° S\nS: 29.5° S\nW: 137.5° E\nE: 154.0° E\nBorders and Reefs from the other map by NNW.",
           "alt": "Location map of Queensland, Australia\nEquirectangular projection, N/S stretching 106 %. Geographic limits of the map:\n\nN: 9.0° S\nS: 29.5° S\nW: 137.5° E\nE: 154.0° E\nBorders and Reefs from the other map by NNW.",
@@ -48,7 +38,8 @@
             "Location maps of Queensland",
             "Relief location maps of Australia",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/r/n/j/5/green-hill-fort-wp/hero-small.webp"
         }
       ],
       "narration": [
@@ -60,8 +51,9 @@
         "_m/r/5/k/d/lake-yamma-yamma-wp/r5kd-lake-yamma-yamma-reading-the-flood-from-the-sky.mp3"
       ],
       "combinedNarration": "_m/r/5/k/d/lake-yamma-yamma-wp/r5kd-lake-yamma-yamma-combined.mp3",
-      "combinedNarrationBytes": 3207945,
-      "combinedNarrationDuration": 267
+      "combinedNarrationBytes": 3296615,
+      "combinedNarrationDuration": 267,
+      "combinedCover": "_m/r/5/k/d/lake-yamma-yamma-wp/r5kd-lake-yamma-yamma-combined-cover.jpg"
     }
   }
 }

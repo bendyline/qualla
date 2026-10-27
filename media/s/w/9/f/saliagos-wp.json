@@ -3,24 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/w/9/f/saliagos-wp/hero.jpg",
-        "filename": "PAM Pomos 2857.jpg",
-        "caption": "Vénus stéatopyge de Saliagos. 5e millénaire avant l’ère commune. Marbre. Musée Archéologique, Paros.",
-        "alt": "Vénus stéatopyge de Saliagos. 5e millénaire avant l’ère commune. Marbre. Musée Archéologique, Paros.",
-        "width": 2304,
-        "height": 1728,
+        "path": "_m/s/w/9/f/saliagos-wp/saliagos-247265.jpg",
+        "filename": "Saliagos, 247265.jpg",
+        "caption": "Saliagos from the ferry from Pounta (on Paros) to Antiparos. On the right edge of t picture is the islet of Revmatonisi.",
+        "alt": "Saliagos from the ferry from Pounta (on Paros) to Antiparos. On the right edge of t picture is the islet of Revmatonisi.",
+        "width": 6048,
+        "height": 4024,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0 gr",
-        "artist": "Geraki",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PAM_Pomos_2857.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Zde",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saliagos,_247265.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "saliagos-wp",
         "sourceGeohash4": "sw9f",
         "categories": [
-          "CC-BY-SA-3.0-GR",
-          "Fat Lady of Saliagos",
-          "Images by Geraki"
-        ]
+          "CC-BY-SA-4.0",
+          "Saliagos",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/s/w/9/f/saliagos-wp/saliagos-247265-medium.webp",
+        "smallPath": "_m/s/w/9/f/saliagos-wp/saliagos-247265-small.webp"
       },
       "images": [
         {
@@ -376,7 +378,8 @@
             "Port of Antiparos",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-LS75"
-          ]
+          ],
+          "smallPath": "_m/s/w/9/f/antiparos-wk/hero-small.webp"
         },
         {
           "path": "_m/s/w/9/f/paros-wp/naoussa-paros.jpg",
@@ -397,7 +400,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon D2X"
-          ]
+          ],
+          "smallPath": "_m/s/w/9/f/paros-wp/naoussa-paros-small.webp"
         },
         {
           "path": "_m/s/w/9/f/paros-wp/leykes-of-paros.jpg",
@@ -420,7 +424,9 @@
             "Images by Geraki",
             "July 2006 Greece photographs",
             "Lefkes"
-          ]
+          ],
+          "mediumPath": "_m/s/w/9/f/paros-wp/leykes-of-paros-medium.webp",
+          "smallPath": "_m/s/w/9/f/paros-wp/leykes-of-paros-small.webp"
         },
         {
           "path": "_m/s/w/9/f/paros-wp/paros-paroikia-crop.jpg",
@@ -446,7 +452,8 @@
             "Flags in Paros",
             "Parikia",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/w/9/f/paros-wp/paros-paroikia-crop-small.webp"
         },
         {
           "path": "_m/s/w/9/f/paros-wp/gr-paros-map.png",
@@ -470,7 +477,8 @@
             "License migration redundant",
             "Maps of Paros",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/w/9/f/paros-wp/gr-paros-map-small.webp"
         },
         {
           "path": "_m/s/w/9/f/paros-wp/church-on-paros-island.jpg",
@@ -493,7 +501,8 @@
             "PD-author",
             "Paros",
             "Taken with Kodak EasyShare DX7590"
-          ]
+          ],
+          "smallPath": "_m/s/w/9/f/paros-wp/church-on-paros-island-small.webp"
         },
         {
           "path": "_m/s/w/9/f/paros-wp/ekatontapyliani-16.jpg",
@@ -518,7 +527,9 @@
             "Pictures by User:Oltau",
             "Self-published work",
             "Taken with Sony DSC-HX9V"
-          ]
+          ],
+          "mediumPath": "_m/s/w/9/f/paros-wp/ekatontapyliani-16-medium.webp",
+          "smallPath": "_m/s/w/9/f/paros-wp/ekatontapyliani-16-small.webp"
         },
         {
           "path": "_m/s/w/6/p/santorini-wk/greece-santorini-oia-coast-by-.jpg",
@@ -541,7 +552,9 @@
             "License migration redundant",
             "Self-published work",
             "Views of Oia with the caldera"
-          ]
+          ],
+          "mediumPath": "_m/s/w/6/p/santorini-wk/greece-santorini-oia-coast-by--medium.webp",
+          "smallPath": "_m/s/w/6/p/santorini-wk/greece-santorini-oia-coast-by--small.webp"
         },
         {
           "path": "_m/s/w/9/f/cyclades-wk/andros-town-chora.jpg",
@@ -564,7 +577,9 @@
             "Self-published work",
             "Taken with Olympus C-5000Z",
             "Views of Andros (town)"
-          ]
+          ],
+          "mediumPath": "_m/s/w/9/f/cyclades-wk/andros-town-chora-medium.webp",
+          "smallPath": "_m/s/w/9/f/cyclades-wk/andros-town-chora-small.webp"
         },
         {
           "path": "_m/s/w/9/f/cyclades-wk/view-chora-seen-church.jpg",
@@ -589,7 +604,9 @@
             "Self-published work",
             "Taken with Olympus FE-280 / X-820 / C-520",
             "Views of Chora of Folegandros"
-          ]
+          ],
+          "mediumPath": "_m/s/w/9/f/cyclades-wk/view-chora-seen-church-medium.webp",
+          "smallPath": "_m/s/w/9/f/cyclades-wk/view-chora-seen-church-small.webp"
         },
         {
           "path": "_m/s/w/9/f/cyclades-wk/katapola-moundoulia-hi.jpg",
@@ -612,7 +629,9 @@
             "Katapola (Amorgos)",
             "Self-published work",
             "Taken with Canon Digital IXUS 750"
-          ]
+          ],
+          "mediumPath": "_m/s/w/9/f/cyclades-wk/katapola-moundoulia-hi-medium.webp",
+          "smallPath": "_m/s/w/9/f/cyclades-wk/katapola-moundoulia-hi-small.webp"
         },
         {
           "path": "_m/s/w/9/f/antiparos-wp/antiparos-seeview.jpg",
@@ -636,7 +655,8 @@
             "Pyroclastic cones in Greece",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-LS75"
-          ]
+          ],
+          "smallPath": "_m/s/w/9/f/antiparos-wp/antiparos-seeview-small.webp"
         },
         {
           "path": "_m/s/w/6/p/santorini-wk/12063-santorin-fira-de-nuit.jpg",
@@ -658,7 +678,8 @@
             "GFDL",
             "Hotel Atlantis (Fira)",
             "License migration redundant"
-          ]
+          ],
+          "smallPath": "_m/s/w/6/p/santorini-wk/12063-santorin-fira-de-nuit-small.webp"
         },
         {
           "path": "_m/s/w/9/f/cyclades-wk/inselgruppe-kykladen-e.png",
@@ -673,7 +694,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kykladen-einteil.png",
           "sourceType": "poi",
           "sourceArticleId": "cyclades-wk",
-          "sourceGeohash4": "sw9f"
+          "sourceGeohash4": "sw9f",
+          "smallPath": "_m/s/w/9/f/cyclades-wk/inselgruppe-kykladen-e-small.webp"
         },
         {
           "path": "_m/s/w/9/f/cyclades-wk/gallery-13.jpg",
@@ -688,7 +710,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kimolos.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cyclades-wk",
-          "sourceGeohash4": "sw9f"
+          "sourceGeohash4": "sw9f",
+          "mediumPath": "_m/s/w/9/f/cyclades-wk/gallery-13-medium.webp",
+          "smallPath": "_m/s/w/9/f/cyclades-wk/gallery-13-small.webp"
         },
         {
           "path": "_m/s/w/9/f/cyclades-wk/hero.jpg",
@@ -703,7 +727,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chora_of_Serifos,_Cyclades,_152325.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cyclades-wk",
-          "sourceGeohash4": "sw9f"
+          "sourceGeohash4": "sw9f",
+          "mediumPath": "_m/s/w/9/f/cyclades-wk/hero-medium.webp",
+          "smallPath": "_m/s/w/9/f/cyclades-wk/hero-small.webp"
         },
         {
           "path": "_m/s/w/9/f/cyclades-wk/chora-anafi-cyclades.jpg",
@@ -718,7 +744,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chora_of_Anafi,_176426.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cyclades-wk",
-          "sourceGeohash4": "sw9f"
+          "sourceGeohash4": "sw9f",
+          "mediumPath": "_m/s/w/9/f/cyclades-wk/chora-anafi-cyclades-medium.webp",
+          "smallPath": "_m/s/w/9/f/cyclades-wk/chora-anafi-cyclades-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/naxos-portara.jpg",
@@ -745,7 +773,8 @@
             "Self-published work",
             "Sunsets of Naxos",
             "Taken with Canon Digital IXUS 400"
-          ]
+          ],
+          "smallPath": "_m/s/w/d/4/naxos-wp/naxos-portara-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/portara-naxos-26.jpg",
@@ -769,7 +798,9 @@
             "Pictures by User:Oltau",
             "Portara",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/4/naxos-wp/portara-naxos-26-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/portara-naxos-26-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/portara-naxos-31.jpg",
@@ -793,7 +824,9 @@
             "Pictures by User:Oltau",
             "Portara",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/4/naxos-wp/portara-naxos-31-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/portara-naxos-31-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-03.jpg",
@@ -817,7 +850,9 @@
             "Panagia Drosiani (Naxos)",
             "Pictures by User:Oltau",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-03-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-03-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-04.jpg",
@@ -844,7 +879,9 @@
             "Quality images missing SDC depicts",
             "Quality images of Naxos",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-04-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/naos-drosianis-naxos-04-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/am-naxos-091354.jpg",
@@ -864,7 +901,9 @@
             "Archaeological Museum of Naxos",
             "Building and Lapidary around the Archaeological Museum of Naxos",
             "CC-BY-SA-3.0"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/4/naxos-wp/am-naxos-091354-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/am-naxos-091354-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/heiligtum-des-dionysos-yria-05.jpg",
@@ -879,7 +918,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heiligtum_des_Dionysos_(Yria)_05.jpg",
           "sourceType": "poi",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/heiligtum-des-dionysos-yria-05-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/heiligtum-des-dionysos-yria-05-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/tempel-der-demeter-gyroulas-15.jpg",
@@ -894,7 +935,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tempel_der_Demeter_(Gyroulas)_15.jpg",
           "sourceType": "poi",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/tempel-der-demeter-gyroulas-15-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/tempel-der-demeter-gyroulas-15-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/menhir-or-phallic-stone-tomb-9.jpg",
@@ -909,7 +952,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Menhir_or_phallic_stone_tomb_9_or_8th_c_BC,_Grotta_Naxos_091432.jpg",
           "sourceType": "poi",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/menhir-or-phallic-stone-tomb-9-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/menhir-or-phallic-stone-tomb-9-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/building-of-the-archaeological.jpg",
@@ -924,7 +969,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Building_of_the_Archaeological_Museum_of_Apeiranthos_on_Naxos,_143704.jpg",
           "sourceType": "poi",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/building-of-the-archaeological-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/building-of-the-archaeological-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/kitron-naxou-distillery-in-cha.jpg",
@@ -939,7 +986,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kitron_Naxou_distillery_in_Chalki,_085256.jpg",
           "sourceType": "poi",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/kitron-naxou-distillery-in-cha-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/kitron-naxou-distillery-in-cha-small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/geological-museum-apeiranthos-.jpg",
@@ -954,7 +1003,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geological_Museum,_Apeiranthos,_Naxos,_interior,_176931.jpg",
           "sourceType": "poi",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/geological-museum-apeiranthos--medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/geological-museum-apeiranthos--small.webp"
         },
         {
           "path": "_m/s/w/d/4/naxos-wp/20210716-8564-pano.jpg",
@@ -969,7 +1020,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20210716_%CE%A0%CF%8D%CF%81%CE%B3%CE%BF%CF%82_%CE%9C%CF%80%CE%B1%CE%B6%CE%B1%CE%AF%CE%BF%CF%85_8564-Pano.jpg",
           "sourceType": "poi",
           "sourceArticleId": "naxos-wp",
-          "sourceGeohash4": "swd4"
+          "sourceGeohash4": "swd4",
+          "mediumPath": "_m/s/w/d/4/naxos-wp/20210716-8564-pano-medium.webp",
+          "smallPath": "_m/s/w/d/4/naxos-wp/20210716-8564-pano-small.webp"
         },
         {
           "path": "_m/s/w/d/j/mykonos-wp/brainsik-mykonoshora.jpg",
@@ -993,7 +1046,8 @@
             "PD-self",
             "Ports and harbours in Mykonos",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/w/d/j/mykonos-wp/brainsik-mykonoshora-small.webp"
         },
         {
           "path": "_m/s/w/d/j/mykonos-wp/elias-beach-on-mykonos.jpg",
@@ -1013,7 +1067,9 @@
             "Beaches of Mykonos",
             "PD-user",
             "Taken with Nikon Coolpix 4600"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/j/mykonos-wp/elias-beach-on-mykonos-medium.webp",
+          "smallPath": "_m/s/w/d/j/mykonos-wp/elias-beach-on-mykonos-small.webp"
         },
         {
           "path": "_m/s/w/d/j/mykonos-wp/chiesa-paraportiani-mykonos.jpg",
@@ -1034,7 +1090,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Sony DSC-S730"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/j/mykonos-wp/chiesa-paraportiani-mykonos-medium.webp",
+          "smallPath": "_m/s/w/d/j/mykonos-wp/chiesa-paraportiani-mykonos-small.webp"
         },
         {
           "path": "_m/s/w/d/j/mykonos-wp/windmills-in-mykonos-02.jpg",
@@ -1058,7 +1116,9 @@
             "Lower windmills (Mykonos)",
             "Self-published work",
             "Taken with Sony DSC-HX1"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/j/mykonos-wp/windmills-in-mykonos-02-medium.webp",
+          "smallPath": "_m/s/w/d/j/mykonos-wp/windmills-in-mykonos-02-small.webp"
         },
         {
           "path": "_m/s/w/d/j/mykonos-wp/mykonos-little-venice-2.jpg",
@@ -1084,7 +1144,9 @@
             "PD-author",
             "Restaurants in Mykonos",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/j/mykonos-wp/mykonos-little-venice-2-medium.webp",
+          "smallPath": "_m/s/w/d/j/mykonos-wp/mykonos-little-venice-2-small.webp"
         },
         {
           "path": "_m/s/w/d/j/mykonos-wp/mykonos-sunset-at-paraportiani.jpg",
@@ -1110,7 +1172,9 @@
             "Media lacking a description",
             "PD-author",
             "Pink sunsets of Greece"
-          ]
+          ],
+          "mediumPath": "_m/s/w/d/j/mykonos-wp/mykonos-sunset-at-paraportiani-medium.webp",
+          "smallPath": "_m/s/w/d/j/mykonos-wp/mykonos-sunset-at-paraportiani-small.webp"
         },
         {
           "path": "_m/s/w/d/j/mykonos-wp/mykonos-windmills-2.jpg",
@@ -1125,7 +1189,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mykonos_Windmills_2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "mykonos-wp",
-          "sourceGeohash4": "swdj"
+          "sourceGeohash4": "swdj",
+          "mediumPath": "_m/s/w/d/j/mykonos-wp/mykonos-windmills-2-medium.webp",
+          "smallPath": "_m/s/w/d/j/mykonos-wp/mykonos-windmills-2-small.webp"
         },
         {
           "path": "_m/s/w/d/j/mykonos-wp/mykon-amm-060329.jpg",
@@ -1140,7 +1206,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mykon_AMM_060329.jpg",
           "sourceType": "poi",
           "sourceArticleId": "mykonos-wp",
-          "sourceGeohash4": "swdj"
+          "sourceGeohash4": "swdj",
+          "mediumPath": "_m/s/w/d/j/mykonos-wp/mykon-amm-060329-medium.webp",
+          "smallPath": "_m/s/w/d/j/mykonos-wp/mykon-amm-060329-small.webp"
         },
         {
           "path": "_m/s/w/d/j/mykonos-wp/entrance-to-am-of-mykonos-1435.jpg",
@@ -1155,7 +1223,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_to_AM_of_Mykonos,_143546.jpg",
           "sourceType": "poi",
           "sourceArticleId": "mykonos-wp",
-          "sourceGeohash4": "swdj"
+          "sourceGeohash4": "swdj",
+          "mediumPath": "_m/s/w/d/j/mykonos-wp/entrance-to-am-of-mykonos-1435-medium.webp",
+          "smallPath": "_m/s/w/d/j/mykonos-wp/entrance-to-am-of-mykonos-1435-small.webp"
         }
       ],
       "narration": [

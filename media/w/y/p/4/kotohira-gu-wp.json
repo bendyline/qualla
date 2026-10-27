@@ -3,31 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/y/p/4/kotohira-gu-wp/hero.jpg",
-        "filename": "Kotohira-gu01s.jpg",
-        "caption": "金刀比羅宮（本宮） - 日本国香川県琴平町",
-        "alt": "金刀比羅宮（本宮） - 日本国香川県琴平町",
-        "width": 3648,
-        "height": 2432,
+        "path": "_m/w/y/p/4/kotohira-gu-wp/kotohira-gu-shrine-52005829370.jpg",
+        "filename": "Kotohira-gu shrine (52005829370).jpg",
+        "caption": "金刀比羅宮",
+        "alt": "金刀比羅宮",
+        "width": 5926,
+        "height": 3951,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Toto-tarou",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kotohira-gu01s.jpg",
-        "sourceType": "core",
+        "license": "CC BY 2.0",
+        "artist": "Raita Futo from Tokyo, Japan",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kotohira-gu_shrine_(52005829370).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "kotohira-gu-wp",
         "sourceGeohash4": "wyp4",
-        "categories": [
-          "CC-BY-SA-2.5",
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "Haiden, Gohongu, Kotohira Gu",
-          "License migration redundant",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/w/y/p/4/kotohira-gu-wp/kotohira-gu-shrine-52005829370-medium.webp",
+        "smallPath": "_m/w/y/p/4/kotohira-gu-wp/kotohira-gu-shrine-52005829370-small.webp"
       },
       "images": [
         {
-          "path": "_m/w/y/p/4/kotohira-gu-wp/wood-block-print-repro.jpg",
+          "path": "_m/x/n/7/7/akihabara-wp/wood-block-print-repro.jpg",
           "filename": "Hiroshige27 kakegawa.jpg",
           "caption": "wood-block print, reproduction from a miniature edition by Takamizawa, Japan\n\nTitle: Kakegawa",
           "alt": "wood-block print, reproduction from a miniature edition by Takamizawa, Japan\n\nTitle: Kakegawa",
@@ -46,7 +40,9 @@
             "Kakegawa (The Fifty-three Stations of the Tōkaidō)",
             "PD-Art (PD-old-100-expired)",
             "PD-old-100-expired"
-          ]
+          ],
+          "mediumPath": "_m/x/n/7/7/akihabara-wp/wood-block-print-repro-medium.webp",
+          "smallPath": "_m/x/n/7/7/akihabara-wp/wood-block-print-repro-small.webp"
         },
         {
           "path": "_m/w/y/p/4/kotohira-gu-wp/kotohira-gu-kotohira-k.jpg",
@@ -623,7 +619,9 @@
             "Self-published work",
             "Street of Hiketa",
             "Taken with Sony DSLR-A100"
-          ]
+          ],
+          "mediumPath": "_m/w/y/p/7/kagawa-prefecture-wp/hiketa-02s3872-medium.webp",
+          "smallPath": "_m/w/y/p/7/kagawa-prefecture-wp/hiketa-02s3872-small.webp"
         },
         {
           "path": "_m/w/y/p/7/kagawa-prefecture-wp/zenigata-sunae.jpg",
@@ -646,7 +644,9 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FX30",
             "Zenigata sunae"
-          ]
+          ],
+          "mediumPath": "_m/w/y/p/7/kagawa-prefecture-wp/zenigata-sunae-medium.webp",
+          "smallPath": "_m/w/y/p/7/kagawa-prefecture-wp/zenigata-sunae-small.webp"
         },
         {
           "path": "_m/w/y/p/7/kagawa-prefecture-wp/seto-inland-sea.jpg",
@@ -671,7 +671,9 @@
             "Self-published work",
             "Seto-naikai",
             "Views from Misen (Hiroshima)"
-          ]
+          ],
+          "mediumPath": "_m/w/y/p/7/kagawa-prefecture-wp/seto-inland-sea-medium.webp",
+          "smallPath": "_m/w/y/p/7/kagawa-prefecture-wp/seto-inland-sea-small.webp"
         },
         {
           "path": "_m/w/y/p/7/kagawa-prefecture-wp/syodoshima-landsat.jpg",
@@ -694,7 +696,8 @@
             "Landsat images with Kashmir 3D",
             "License migration completed",
             "Shodo Island"
-          ]
+          ],
+          "smallPath": "_m/w/y/p/7/kagawa-prefecture-wp/syodoshima-landsat-small.webp"
         },
         {
           "path": "_m/w/y/p/7/kagawa-prefecture-wp/nagaoji-04.jpg",
@@ -717,7 +720,9 @@
             "License migration redundant",
             "Nagaoji",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/y/p/7/kagawa-prefecture-wp/nagaoji-04-medium.webp",
+          "smallPath": "_m/w/y/p/7/kagawa-prefecture-wp/nagaoji-04-small.webp"
         },
         {
           "path": "_m/w/y/p/7/kagawa-prefecture-wp/zentsu-ji-in-zentsu-ji-city-ka.jpg",
@@ -739,7 +744,9 @@
             "GFDL",
             "Golden Hall, Zentsuji",
             "License migration redundant"
-          ]
+          ],
+          "mediumPath": "_m/w/y/p/7/kagawa-prefecture-wp/zentsu-ji-in-zentsu-ji-city-ka-medium.webp",
+          "smallPath": "_m/w/y/p/7/kagawa-prefecture-wp/zentsu-ji-in-zentsu-ji-city-ka-small.webp"
         },
         {
           "path": "_m/w/y/p/7/kagawa-prefecture-wp/setouchi-triennale-teshima-yok.jpg",
@@ -754,7 +761,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Setouchi_Triennale_-Teshima_Yokoo_House_%EF%BC%88%E8%B1%8A%E5%B3%B6%E6%A8%AA%E5%B0%BE%E9%A4%A8%EF%BC%89%E6%A8%AA%E5%B0%BE%E5%BF%A0%E5%89%87-%E6%B0%B8%E5%B1%B1%E8%A3%95%E5%AD%90_DSCF2297.JPG",
           "sourceType": "poi",
           "sourceArticleId": "kagawa-prefecture-wp",
-          "sourceGeohash4": "wyp7"
+          "sourceGeohash4": "wyp7",
+          "mediumPath": "_m/w/y/p/7/kagawa-prefecture-wp/setouchi-triennale-teshima-yok-medium.webp",
+          "smallPath": "_m/w/y/p/7/kagawa-prefecture-wp/setouchi-triennale-teshima-yok-small.webp"
         },
         {
           "path": "_m/w/y/p/7/kagawa-prefecture-wp/ibukizima01.jpg",
@@ -769,7 +778,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ibukizima01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kagawa-prefecture-wp",
-          "sourceGeohash4": "wyp7"
+          "sourceGeohash4": "wyp7",
+          "smallPath": "_m/w/y/p/7/kagawa-prefecture-wp/ibukizima01-small.webp"
         },
         {
           "path": "_m/w/y/p/7/kagawa-prefecture-wp/image-9.jpg",
@@ -784,7 +794,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%80%AC%E6%88%B8%E5%A4%A7%E6%A9%8B%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92.JPG",
           "sourceType": "poi",
           "sourceArticleId": "kagawa-prefecture-wp",
-          "sourceGeohash4": "wyp7"
+          "sourceGeohash4": "wyp7",
+          "smallPath": "_m/w/y/p/7/kagawa-prefecture-wp/image-9-small.webp"
         },
         {
           "path": "_m/w/y/p/7/kagawa-prefecture-wp/teshima-fields.jpg",
@@ -799,7 +810,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teshima_fields.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kagawa-prefecture-wp",
-          "sourceGeohash4": "wyp7"
+          "sourceGeohash4": "wyp7",
+          "mediumPath": "_m/w/y/p/7/kagawa-prefecture-wp/teshima-fields-medium.webp",
+          "smallPath": "_m/w/y/p/7/kagawa-prefecture-wp/teshima-fields-small.webp"
         },
         {
           "path": "_m/w/v/y/z/shikoku-wp/naoshima-town-office.jpg",
@@ -814,7 +827,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naoshima_town-office.jpg",
           "sourceType": "poi",
           "sourceArticleId": "shikoku-wp",
-          "sourceGeohash4": "wyp7"
+          "sourceGeohash4": "wyp7",
+          "smallPath": "_m/w/v/y/z/shikoku-wp/naoshima-town-office-small.webp"
         },
         {
           "path": "_m/w/v/y/z/shikoku-wp/marugame-city-hall-2021-08-ac-.jpg",
@@ -829,7 +843,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marugame_City_Hall_2021-08_ac_(2).jpg",
           "sourceType": "poi",
           "sourceArticleId": "shikoku-wp",
-          "sourceGeohash4": "wyp7"
+          "sourceGeohash4": "wyp7",
+          "mediumPath": "_m/w/v/y/z/shikoku-wp/marugame-city-hall-2021-08-ac--medium.webp",
+          "smallPath": "_m/w/v/y/z/shikoku-wp/marugame-city-hall-2021-08-ac--small.webp"
         }
       ],
       "videos": [

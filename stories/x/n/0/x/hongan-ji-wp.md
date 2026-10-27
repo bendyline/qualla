@@ -37,7 +37,7 @@ Located at 34.991N, 135.751E in central Kyoto, Japan. Both Nishi and Higashi Hon
 ## Sources
 
 - [Hongan-ji - Wikipedia](https://en.wikipedia.org/?curid=1733437)
-- [Hongan-ji - Wikipedia](https://en.wikipedia.org/wiki/Hongan-ji)
+- [Hongan-ji - Wikipedia](https://en.wikipedia.org/?curid=1733437)
   - Hongan-ji established 1321 at Higashi Otani confirmed
   - Kakue tended site Kakunyo became first chief priest confirmed
   - Rennyo eighth monshu 15th century confirmed

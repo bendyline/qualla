@@ -28,7 +28,7 @@ Ghost stories have clung to the Boyington Oak for generations. Visitors report h
 
 ## Flight Context
 
-Located at 30.686°N, 88.052°W in downtown Mobile, Alabama. Church Street Graveyard is a small historic cemetery that may be difficult to spot from altitude -- look for the tree canopy at the corner of Bayou Street and the cemetery's northwestern edge. Best viewed below 2,000 feet AGL. The dense live oak canopy of downtown Mobile is distinctive from the air. Nearby airports: KBFM (Mobile Downtown Airport, 2 nm southwest), KMOB (Mobile Regional Airport, 8 nm west). The tree is roughly 0.5 nm northwest of the Cathedral Basilica of the Immaculate Conception.
+Located at 30.686°N, 88.052°W in downtown Mobile, Alabama. Church Street Graveyard is a small historic cemetery that may be difficult to spot from altitude -- look for the tree canopy at the corner of Bayou Street and the cemetery's northwestern edge. Best viewed below 2,000 feet AGL. The dense live oak canopy of downtown Mobile is distinctive from the air. Nearby airports: KBFM (Mobile International Airport, formerly Mobile Downtown, 2 nm southwest), KMOB (Mobile Regional Airport, 8 nm west). The tree is roughly 0.5 nm northwest of the Cathedral Basilica of the Immaculate Conception.
 
 ## Sources
 

@@ -37,7 +37,7 @@ Les Invalides (48.857°N, 2.313°E) occupies a large complex in the 7th arrondis
 ## Sources
 
 - [Les Invalides - Wikipedia](https://en.wikipedia.org/?curid=62633)
-- [Les Invalides - Wikipedia](https://en.wikipedia.org/wiki/Les_Invalides)
+- [Les Invalides - Wikipedia](https://en.wikipedia.org/?curid=62633)
   - Corrected: six coffins listed as tin, mahogany, two lead, ebony, oak (added missing 'oak' coffin); story now correctly shows all six before the outer quartzite sarcophagus
   - Outer sarcophagus: Shoksha quartzite from Russia; described as 'red' in story but more precisely purple-red (Shoksha quartzite); 'red' is an accepted older description used in some authoritative sources
   - Architect Louis Visconti designed Napoleon's tomb - verified

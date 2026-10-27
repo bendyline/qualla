@@ -33,7 +33,7 @@ Located at 37.15N, 49.87E in Gilan Province, northern Iran, in forested mountain
 ## Sources
 
 - [Siahkal - Wikipedia](https://en.wikipedia.org/?curid=24378147)
-- [Siahkal - Wikipedia](https://en.wikipedia.org/wiki/Siahkal)
+- [Siahkal - Wikipedia](https://en.wikipedia.org/?curid=24378147)
   - Population 19,924 by 2016 census - confirmed
   - City serves as capital of Siahkal County and Central District - confirmed
   - Jewish community claimed descent from King David - confirmed

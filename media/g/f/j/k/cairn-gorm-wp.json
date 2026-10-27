@@ -3,32 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/j/k/cairn-gorm-wp/hero.jpg",
-        "filename": "Cairn Gorm funicular dsc06413.jpg",
-        "caption": "en:Cairn Gorm funicular, Scotland",
-        "alt": "en:Cairn Gorm funicular, Scotland",
-        "width": 2592,
-        "height": 1944,
+        "path": "_m/g/f/j/k/cairn-gorm-wp/automatic-weather-stat.jpg",
+        "filename": "Cairn Gorm weather station 2.jpg",
+        "caption": "An automatic weather station on Cairn Gorm, designed and built by Heriot-Watt University in March 1977.",
+        "alt": "An automatic weather station on Cairn Gorm, designed and built by Heriot-Watt University in March 1977.",
+        "width": 3072,
+        "height": 3076,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "David Monniaux",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairn_Gorm_funicular_dsc06413.jpg",
+        "license": "CC0",
+        "artist": "Mx. Granger",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairn_Gorm_weather_station_2.jpg",
         "sourceType": "core",
         "sourceArticleId": "cairn-gorm-wp",
         "sourceGeohash4": "gfjk",
         "categories": [
-          "CC-BY-SA-2.0",
-          "CC-BY-SA-2.0-FR",
-          "CC-BY-SA-3.0-migrated",
-          "Cairngorm Mountain Railway",
-          "GFDL",
-          "License migration completed",
-          "Taken with Sony DSC-P92"
-        ]
+          "CC-Zero",
+          "Cairn Gorm weather station",
+          "Files with coordinates missing SDC location of creation",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/g/f/j/k/cairn-gorm-wp/automatic-weather-stat-medium.webp",
+        "smallPath": "_m/g/f/j/k/cairn-gorm-wp/automatic-weather-stat-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/j/k/cairn-gorm-wp/i-created-file-myself.jpg",
+          "path": "_m/g/f/j/k/cairngorm-mountain-railway-wp/i-created-file-myself.jpg",
           "filename": "Cairn gorm funicular.jpg",
           "caption": "I created this file myself.",
           "alt": "I created this file myself.",
@@ -45,7 +44,8 @@
             "Abtsche Weiche",
             "Cairngorm Mountain Railway",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/k/cairngorm-mountain-railway-wp/i-created-file-myself-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairn-gorm-wp/photograph-taken-02apr.jpg",
@@ -527,7 +527,8 @@
             "Taken with Fujifilm FinePix A330",
             "Trains on the Strathspey Railway (preserved)",
             "United Kingdom photographs taken on 2005-10-12"
-          ]
+          ],
+          "smallPath": "_m/tpc/av/ie/mo/re/aviemore/strathspey-railway-aviemore-small.webp"
         },
         {
           "path": "_m/tpc/av/ie/mo/re/aviemore/aviemore-stone-circle-2.jpg",
@@ -549,7 +550,9 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work",
             "Stone circles in Scotland"
-          ]
+          ],
+          "mediumPath": "_m/tpc/av/ie/mo/re/aviemore/aviemore-stone-circle-2-medium.webp",
+          "smallPath": "_m/tpc/av/ie/mo/re/aviemore/aviemore-stone-circle-2-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/braemar-from-morrone.jpg",
@@ -574,7 +577,8 @@
             "Mar Lodge Estate",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/braemar-from-morrone-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/grantown-on-spey-winter.jpg",
@@ -600,7 +604,9 @@
             "Snow in Highland council area",
             "United Kingdom photographs taken on 2006-03-05",
             "Winter in Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/k/cairngorms-national-park-wp/grantown-on-spey-winter-medium.webp",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/grantown-on-spey-winter-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/carl-haag-morning-in-the-highl.jpg",
@@ -614,7 +620,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carl_Haag_-_Morning_in_the_Highlands-_the_royal_family_ascending_Lochnagar_-_Google_Art_Project.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/g/f/j/k/cairngorms-national-park-wp/carl-haag-morning-in-the-highl-medium.webp",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/carl-haag-morning-in-the-highl-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr.jpg",
@@ -629,7 +637,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blair_Atholl_Post_Office_-_geograph_-_3206161-by-Andrew-Abbott.jpg",
           "sourceType": "poi",
           "sourceArticleId": "perthshire-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/ski-slopes-on-cairngorm-geogra.jpg",
@@ -644,7 +654,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ski_Slopes_On_Cairngorm_-_geograph.org.uk_-_2280829.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/ski-slopes-on-cairngorm-geogra-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/highland-cattle-at-kingussie-w.jpg",
@@ -659,7 +670,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Highland_Cattle_at_Kingussie_Wildlife_Park_-_geograph.org.uk_-_2398705.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/highland-cattle-at-kingussie-w-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/cairngorms-national-park-pairc.jpg",
@@ -674,7 +686,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairngorms_National_Park_(P%C3%A0irc_N%C3%A0iseanta_a%27_Mhonaidh_Ruaidh)_28.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/g/f/j/k/cairngorms-national-park-wp/cairngorms-national-park-pairc-medium.webp",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/cairngorms-national-park-pairc-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/balmoral-castle-cropped.jpg",
@@ -689,7 +703,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balmoral_Castle_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/balmoral-castle-cropped-small.webp"
         }
       ],
       "narration": [

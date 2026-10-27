@@ -47,7 +47,7 @@ Located at 28.60S, 24.61E, between Kimberley and Barkly West in the Northern Cap
 ## Sources
 
 - [Nooitgedacht Glacial Pavements - Wikipedia](https://en.wikipedia.org/?curid=24068456)
-- [Nooitgedacht Glacial Pavements - Wikipedia](https://en.wikipedia.org/wiki/Nooitgedacht_Glacial_Pavements)
+- [Nooitgedacht Glacial Pavements - Wikipedia](https://en.wikipedia.org/?curid=24068456)
   - 300-million-year-old Dwyka glaciation confirmed
   - 80,000 diamonds recovered confirmed
   - Site declared National Monument 1936 confirmed

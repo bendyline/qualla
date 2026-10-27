@@ -3,32 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/5/j/4/wilson-river-queensland-wp/hero.jpg",
-        "filename": "Australia Queensland relief location map.jpg",
-        "caption": "Location map of Queensland, Australia\nEquirectangular projection, N/S stretching 106 %. Geographic limits of the map:\n\nN: 9.0° S\nS: 29.5° S\nW: 137.5° E\nE: 154.0° E\nBorders and Reefs from the other map by NNW.",
-        "alt": "Location map of Queensland, Australia\nEquirectangular projection, N/S stretching 106 %. Geographic limits of the map:\n\nN: 9.0° S\nS: 29.5° S\nW: 137.5° E\nE: 154.0° E\nBorders and Reefs from the other map by NNW.",
-        "width": 973,
-        "height": 1285,
-        "mimeType": "image/jpeg",
+        "path": "_m/q/g/w/q/finke-river-wp/map-lake-eyre-drainage.png",
+        "filename": "Lake eyre basin map.png",
+        "caption": "This is a map of the Lake Eyre drainage basin including the major rivers. Note that the river courses shown are usually dry.",
+        "alt": "This is a map of the Lake Eyre drainage basin including the major rivers. Note that the river courses shown are usually dry.",
+        "width": 990,
+        "height": 990,
         "license": "CC BY-SA 3.0",
-        "artist": "Uwe Dedering",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Australia_Queensland_relief_location_map.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "wilson-river-queensland-wp",
-        "sourceGeohash4": "r5j4",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Files by Uwe Dedering",
-          "GFDL",
-          "License migration redundant",
-          "Location maps of Queensland",
-          "Relief location maps of Australia",
-          "Self-published work"
-        ]
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Kmusser",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_eyre_basin_map.png",
+        "smallPath": "_m/q/g/w/q/finke-river-wp/map-lake-eyre-drainage-small.webp"
       },
       "images": [
         {
-          "path": "_m/r/5/j/4/wilson-river-queensland-wp/map-lake-eyre-drainage.png",
+          "path": "_m/q/g/w/q/finke-river-wp/map-lake-eyre-drainage.png",
           "filename": "Lake eyre basin map.png",
           "caption": "This is a map of the Lake Eyre drainage basin including the major rivers. Note that the river courses shown are usually dry.",
           "alt": "This is a map of the Lake Eyre drainage basin including the major rivers. Note that the river courses shown are usually dry.",
@@ -47,7 +36,8 @@
             "Lake Eyre",
             "Lake Eyre Basin",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/q/g/w/q/finke-river-wp/map-lake-eyre-drainage-small.webp"
         }
       ],
       "narration": [
@@ -59,8 +49,9 @@
         "_m/r/5/j/4/wilson-river-queensland-wp/r5j4-wilson-river-queensland-the-logic-of-the-channel-country.mp3"
       ],
       "combinedNarration": "_m/r/5/j/4/wilson-river-queensland-wp/r5j4-wilson-river-queensland-combined.mp3",
-      "combinedNarrationBytes": 2726771,
-      "combinedNarrationDuration": 227
+      "combinedNarrationBytes": 2797596,
+      "combinedNarrationDuration": 227,
+      "combinedCover": "_m/r/5/j/4/wilson-river-queensland-wp/r5j4-wilson-river-queensland-combined-cover.jpg"
     }
   }
 }

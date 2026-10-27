@@ -50,7 +50,7 @@ Daisy Bates is associated with the Pilbara coast near Cossack at approximately 2
   - Controversy over claims of Aboriginal cannibalism confirmed
   - paternalistic views confirmed as documented and historically accurate
   - language dignity: story appropriately frames harmful views without adopting them
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Daisy_Bates_(author))
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=909449)
   - Added that her cannibalism allegations were later rejected by anthropologists as unsubstantiated and grossly exaggerated.
 
 ## Review Notes

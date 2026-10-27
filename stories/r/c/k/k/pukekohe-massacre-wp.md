@@ -32,7 +32,7 @@ Located at 37.17°S, 174.87°E in the rural Paerata area south of Pukekohe, Auck
 
 ## Sources
 
-- [Pukekohe massacre - Wikipedia](https://en.wikipedia.org/wiki/Pukekohe_massacre)
+- [Pukekohe massacre - Wikipedia](https://en.wikipedia.org/?curid=70029590)
   - Date 20 May 1992 confirmed
   - Brian Schlaepfer age 64 confirmed
   - Nine-year-old Linda hid in wardrobe and spoke to police confirmed

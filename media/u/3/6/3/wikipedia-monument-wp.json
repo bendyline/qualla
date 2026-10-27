@@ -3,33 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/3/6/3/wikipedia-monument-wp/hero.jpg",
-        "filename": "Wikipedia Monument 2.JPG",
-        "caption": "The Wikipedia Monument",
-        "alt": "The Wikipedia Monument",
-        "width": 2459,
-        "height": 3834,
+        "path": "_m/u/3/6/3/wikipedia-monument-wp/maquette-wikipedia-mon.jpg",
+        "filename": "Wikipedia sculpture Poland Slubice.jpg",
+        "caption": "Maquette of the Wikipedia Monument in Slubice, Poland",
+        "alt": "Maquette of the Wikipedia Monument in Slubice, Poland",
+        "width": 885,
+        "height": 1371,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Nostrix",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wikipedia_Monument_2.JPG",
+        "artist": "Statue: Mihran Hakobyan",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wikipedia_sculpture_Poland_Slubice.jpg",
         "sourceType": "core",
         "sourceArticleId": "wikipedia-monument-wp",
         "sourceGeohash4": "u363",
         "categories": [
-          "Artworks without Wikidata item",
           "CC-BY-SA-4.0",
-          "Files with coordinates missing SDC location of creation",
-          "FoP-Poland",
-          "Images with extracted images",
-          "On OSM",
+          "Draft version of the Wikipedia Monument",
+          "Items with VRTS permission confirmed",
           "Self-published work",
-          "Trademarks and logos of Wikimedia",
-          "Valued images promoted 2015-12",
-          "Valued images sorted by promotion date",
-          "Wikimedia Foundation Memory Bank",
-          "Wikipedia Monument in 2014"
-        ]
+          "Trademarks and logos of Wikimedia"
+        ],
+        "smallPath": "_m/u/3/6/3/wikipedia-monument-wp/maquette-wikipedia-mon-small.webp"
       },
       "images": [
         {
@@ -73,7 +67,8 @@
             "Aleja Młodzieży Polskiej in Słubice",
             "CC-BY-2.5",
             "Twin town signs in Poland"
-          ]
+          ],
+          "smallPath": "_m/u/3/6/3/s-ubice-wk/informacja-o-miastach-small.webp"
         },
         {
           "path": "_m/u/3/6/3/s-ubice-wk/polski-collegium-polon.jpg",
@@ -96,7 +91,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/3/6/3/s-ubice-wk/polski-collegium-polon-small.webp"
         },
         {
           "path": "_m/u/3/6/3/s-ubice-wk/hero.jpg",
@@ -120,7 +116,8 @@
             "Frankfurt (Oder) city bridge 2002",
             "PD-author",
             "Taken with Canon PowerShot A550"
-          ]
+          ],
+          "smallPath": "_m/u/3/6/3/s-ubice-wk/hero-small.webp"
         }
       ],
       "narration": [

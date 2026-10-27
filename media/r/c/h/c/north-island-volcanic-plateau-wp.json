@@ -3,37 +3,32 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/c/h/c/north-island-volcanic-plateau-wp/hero.jpg",
-        "filename": "CentralPlateauNZ.jpg",
-        "caption": "Central Plateau of the North Island of New Zealand.",
-        "alt": "Central Plateau of the North Island of New Zealand.",
-        "width": 9926,
-        "height": 1025,
+        "path": "_m/r/c/h/c/north-island-volcanic-plateau-wp/aerial-view-south-side.jpg",
+        "filename": "MountTarawera3.jpg",
+        "caption": "Aerial view of the south side of  Mount Tarawera, Bay of Plenty region, North Island, New Zealand.  Taken during a seaplane ride out of nearby Rotorua.",
+        "alt": "Aerial view of the south side of  Mount Tarawera, Bay of Plenty region, North Island, New Zealand.  Taken during a seaplane ride out of nearby Rotorua.",
+        "width": 1536,
+        "height": 1024,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Deanpemberton",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:CentralPlateauNZ.jpg",
+        "license": "CC BY 2.5",
+        "artist": "Carl Lindberg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:MountTarawera3.jpg",
         "sourceType": "core",
         "sourceArticleId": "north-island-volcanic-plateau-wp",
         "sourceGeohash4": "rchc",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Files with coordinates missing SDC location of creation",
+          "Aerial photographs of New Zealand",
+          "CC-BY-2.5",
+          "CC-BY-SA-3.0-migrated",
+          "Eruption fissures dissecting older volcanic edifices",
+          "Eruption fissures in New Zealand",
           "GFDL",
-          "Images with annotations",
           "License migration redundant",
-          "Mount Ngauruhoe in 2008",
-          "Mount Ruapehu",
-          "Mount Ruapehu in 2008",
-          "Mount Tongariro",
-          "Mount Tongariro in 2008",
-          "Panoramics of volcanoes in New Zealand",
-          "Plateaus",
-          "Rangipo Desert",
-          "Self-published work",
-          "Taupo Volcanic Zone",
-          "Tongariro Volcanic Centre in 2008"
-        ]
+          "Rift zones of Mount Tarawera",
+          "Rows of volcanic plugs",
+          "Self-published work"
+        ],
+        "smallPath": "_m/r/c/h/c/north-island-volcanic-plateau-wp/aerial-view-south-side-small.webp"
       },
       "images": [
         {
@@ -65,7 +60,7 @@
           "smallPath": "_m/r/c/h/c/north-island-volcanic-plateau-wp/aerial-view-south-side-small.webp"
         },
         {
-          "path": "_m/r/c/h/c/north-island-volcanic-plateau-wp/tongariro-national-park-mount-.jpg",
+          "path": "_m/r/c/h/c/mount-tongariro-wp/tongariro-national-park-mount-.jpg",
           "filename": "Tongariro National Park - Mount Ngauruhoe (2291 NN).jpg",
           "caption": "Tongariro National Park late autumn 2014  - Mount Ngauruhoe (2291 NN)",
           "alt": "Tongariro National Park late autumn 2014  - Mount Ngauruhoe (2291 NN)",
@@ -84,7 +79,9 @@
             "Mount Ngauruhoe in 2014",
             "Mount Tongariro",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/r/c/h/c/mount-tongariro-wp/tongariro-national-park-mount--medium.webp",
+          "smallPath": "_m/r/c/h/c/mount-tongariro-wp/tongariro-national-park-mount--small.webp"
         },
         {
           "path": "_m/r/c/h/b/mount-ruapehu-wp/turoa-base.jpg",
@@ -105,7 +102,8 @@
             "Mount Ruapehu in 2002",
             "PD-user",
             "Turoa Ski Area"
-          ]
+          ],
+          "smallPath": "_m/r/c/h/b/mount-ruapehu-wp/turoa-base-small.webp"
         },
         {
           "path": "_m/r/c/h/b/mount-ruapehu-wp/mount-ruapehu-january2005.jpg",
@@ -128,7 +126,9 @@
             "Mount Ruapehu",
             "Mount Ruapehu in 2005",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/r/c/h/b/mount-ruapehu-wp/mount-ruapehu-january2005-medium.webp",
+          "smallPath": "_m/r/c/h/b/mount-ruapehu-wp/mount-ruapehu-january2005-small.webp"
         },
         {
           "path": "_m/r/c/h/b/mount-ruapehu-wp/emerald-lakes-pano.jpg",
@@ -157,7 +157,9 @@
             "Red Crater (New Zealand)",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/r/c/h/b/mount-ruapehu-wp/emerald-lakes-pano-medium.webp",
+          "smallPath": "_m/r/c/h/b/mount-ruapehu-wp/emerald-lakes-pano-small.webp"
         },
         {
           "path": "_m/r/c/h/b/mount-ruapehu-wp/lavaline.jpg",
@@ -179,7 +181,9 @@
             "Files from Wikivoyage wts",
             "Taken with Canon PowerShot A80",
             "Taranaki Falls Walking Track"
-          ]
+          ],
+          "mediumPath": "_m/r/c/h/b/mount-ruapehu-wp/lavaline-medium.webp",
+          "smallPath": "_m/r/c/h/b/mount-ruapehu-wp/lavaline-small.webp"
         }
       ],
       "narration": [

@@ -32,7 +32,7 @@ Located at 35.060°N, 135.678°E in the Togano mountain valley northwest of Kyot
 
 ## Sources
 
-- [Kozan-ji - Wikipedia](https://en.wikipedia.org/wiki/K%C5%8Dzan-ji)
+- [Kozan-ji - Wikipedia](https://en.wikipedia.org/?curid=6083034)
 - [Choju-jinbutsu-giga - Wikipedia](https://en.wikipedia.org/wiki/Ch%C5%8Dj%C5%AB-jinbutsu-giga)
   - Four picture scrolls from 12th and 13th centuries
   - First two scrolls generally dated to mid-12th century

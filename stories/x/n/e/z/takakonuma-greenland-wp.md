@@ -48,7 +48,7 @@ Located at 37.805N, 140.519E on the outskirts of Hobara, within the city of Date
 - [日本の観覧車一覧（過去）](https://www.fwgp.com/fwdb/oldfwdata/)
 - [https://rcdb.com/3163.htm](https://rcdb.com/3163.htm)
 - [https://rcdb.com/3164.htm](https://rcdb.com/3164.htm)
-- [Takakonuma Greenland - Wikipedia](https://en.wikipedia.org/wiki/Takakonuma_Greenland)
+- [Takakonuma Greenland - Wikipedia](https://en.wikipedia.org/?curid=74668887)
   - opened 1973 confirmed
   - permanently closed October 1999 confirmed
   - reopened 1982 under Takakonuma Greenland Co. Ltd. confirmed

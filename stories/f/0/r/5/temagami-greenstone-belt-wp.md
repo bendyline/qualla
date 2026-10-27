@@ -37,7 +37,7 @@ Located at 47.08°N, 79.81°W in the Temagami region of northeastern Ontario, Ca
 ## Sources
 
 - [Temagami Greenstone Belt - Wikipedia](https://en.wikipedia.org/?curid=14392038)
-- [Temagami Greenstone Belt - Wikipedia](https://en.wikipedia.org/wiki/Temagami_Greenstone_Belt)
+- [Temagami Greenstone Belt - Wikipedia](https://en.wikipedia.org/?curid=14392038)
   - 2.7 billion year age of belt confirmed
   - Iceland Lake Pluton dated at 2,736 million years old via U-Pb dating confirmed
   - Kenorland rifting began approximately 2.45 billion years ago confirmed

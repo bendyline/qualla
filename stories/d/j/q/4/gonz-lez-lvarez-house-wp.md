@@ -28,7 +28,7 @@ After the Alvarez family's long tenure ended in 1882, the house passed through s
 
 ## Flight Context
 
-The Gonzalez-Alvarez House is located in the residential area south of downtown St. Augustine, at approximately 29.888N, 81.310W, on the north side of St. Francis Street between Charlotte and Marine Streets. From the air, the two-story structure with its hip roof and coquina-and-wood construction blends into the historic residential fabric south of the Cathedral Basilica. The Castillo de San Marcos is visible approximately three blocks to the north, and Matanzas Bay lies to the east. Nearest airports: St. Augustine Airport (KSGJ) approximately 4nm northwest, Jacksonville International (KJAX) 35nm north. Best viewed at lower altitudes (under 1,500 feet AGL) to distinguish the historic house from surrounding residential structures.
+The Gonzalez-Alvarez House is located in the residential area south of downtown St. Augustine, at approximately 29.888N, 81.310W, on the north side of St. Francis Street between Charlotte and Marine Streets. From the air, the two-story structure with its hip roof and coquina-and-wood construction blends into the historic residential fabric south of the Cathedral Basilica. The Castillo de San Marcos is visible approximately three blocks to the north, and Matanzas Bay lies to the east. Nearest airports: Northeast Florida Regional Airport (KSGJ, formerly St. Augustine Airport) approximately 4nm northwest, Jacksonville International (KJAX) 35nm north. Best viewed at lower altitudes (under 1,500 feet AGL) to distinguish the historic house from surrounding residential structures.
 
 ## Sources
 

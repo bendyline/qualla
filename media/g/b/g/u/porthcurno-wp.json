@@ -3,33 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/b/g/u/porthcurno-wp/hero.jpg",
-        "filename": "Porthcurno Aerial photo TomCorser2005.jpg",
-        "alt": "Porthcurno Aerial photo TomCorser2005.jpg",
-        "width": 3072,
-        "height": 2304,
+        "path": "_m/g/b/g/u/porthcurno-wp/porthcurnow-beach-sea.jpg",
+        "filename": "Porthcurnow beach from the sea - extremely busy in the summer.jpg",
+        "caption": "Porthcurnow beach from the sea - extremely busy in the summer",
+        "alt": "Porthcurnow beach from the sea - extremely busy in the summer",
+        "width": 6000,
+        "height": 4000,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0 uk",
-        "artist": "Tom Corser",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porthcurno_Aerial_photo_TomCorser2005.jpg",
+        "license": "CC BY-SA 3.0",
+        "artist": "Kernow Skies",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porthcurnow_beach_from_the_sea_-_extremely_busy_in_the_summer.jpg",
         "sourceType": "core",
         "sourceArticleId": "porthcurno-wp",
         "sourceGeohash4": "gbgu",
-        "categories": [
-          "Aerial photographs of Cornwall",
-          "CC-BY-SA-2.0-UK",
-          "Images with annotations",
-          "Media lacking a description",
-          "Minack Theatre",
-          "Pedn Vounder",
-          "Photos by Tom Corser",
-          "Porthcurno Beach",
-          "Taken with Canon PowerShot S70"
-        ]
+        "mediumPath": "_m/g/b/g/u/porthcurno-wp/porthcurnow-beach-sea-medium.webp",
+        "smallPath": "_m/g/b/g/u/porthcurno-wp/porthcurnow-beach-sea-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/b/g/u/porthcurno-wp/hero.jpg",
+          "path": "_m/g/b/g/u/logan-rock-wp/hero.jpg",
           "filename": "PednVounderBeach.JPG",
           "caption": "Treen beach, with the Logan Rock headland in the background, near Porthcurno, Cornwall, United Kingdom\nAuthor Chris Ango\n\nMarch 2006",
           "alt": "Treen beach, with the Logan Rock headland in the background, near Porthcurno, Cornwall, United Kingdom\nAuthor Chris Ango\n\nMarch 2006",
@@ -50,7 +42,8 @@
             "Pedn Vounder",
             "Self-published work",
             "Taken with Nikon Coolpix 775"
-          ]
+          ],
+          "smallPath": "_m/g/b/g/u/logan-rock-wp/hero-small.webp"
         },
         {
           "path": "_m/g/b/g/u/porthcurno-wp/porthcurno-valley-look.jpg",
@@ -125,7 +118,7 @@
           "smallPath": "_m/g/b/g/u/porthcurno-wp/original-mast-pivot-us-small.webp"
         },
         {
-          "path": "_m/g/b/g/u/porthcurno-wp/st-levan-church-porthcurno.jpg",
+          "path": "_m/g/b/g/u/st-levan-wp/st-levan-church-porthcurno.jpg",
           "filename": "St levan church porthcurno.jpg",
           "caption": "Parish church of St Levan, near Porthcurno, Cornwall",
           "alt": "Parish church of St Levan, near Porthcurno, Cornwall",
@@ -150,11 +143,11 @@
             "St Levan's Church, St Levan",
             "Taken with Nikon Coolpix 3100"
           ],
-          "mediumPath": "_m/g/b/g/u/porthcurno-wp/st-levan-church-porthcurno-medium.webp",
-          "smallPath": "_m/g/b/g/u/porthcurno-wp/st-levan-church-porthcurno-small.webp"
+          "mediumPath": "_m/g/b/g/u/st-levan-wp/st-levan-church-porthcurno-medium.webp",
+          "smallPath": "_m/g/b/g/u/st-levan-wp/st-levan-church-porthcurno-small.webp"
         },
         {
-          "path": "_m/g/b/g/u/porthcurno-wp/porthcurno-bay-and-logan-rock-.jpg",
+          "path": "_m/g/b/g/u/logan-rock-wp/porthcurno-bay-and-logan-rock-.jpg",
           "filename": "Porthcurno Bay and Logan Rock Headland.jpg",
           "caption": "Porthcurno Bay and Logan Rock Headland taken from the top of Mansel's Hill, Porthcurno, Cornwall, United Kingdom:\nby Chris Angove\n+44-1245-353646\n\ncangove@iee.org",
           "alt": "Porthcurno Bay and Logan Rock Headland taken from the top of Mansel's Hill, Porthcurno, Cornwall, United Kingdom:\nby Chris Angove\n+44-1245-353646\n\ncangove@iee.org",
@@ -172,7 +165,8 @@
             "PD-user",
             "Pedn Vounder",
             "Taken with Nikon Coolpix 775"
-          ]
+          ],
+          "smallPath": "_m/g/b/g/u/logan-rock-wp/porthcurno-bay-and-logan-rock--small.webp"
         },
         {
           "path": "_m/g/b/g/u/porthcurno-wp/porth-chapel-beach-ped.jpg",
@@ -195,7 +189,7 @@
           "smallPath": "_m/g/b/g/u/porthcurno-wp/porth-chapel-beach-ped-small.webp"
         },
         {
-          "path": "_m/g/b/g/u/porthcurno-wp/treen-logan-rock.jpg",
+          "path": "_m/g/b/g/u/logan-rock-wp/treen-logan-rock.jpg",
           "filename": "Logan Rock Treen Fossick.jpg",
           "caption": "Treen and Logan Rock",
           "alt": "Treen and Logan Rock",
@@ -207,7 +201,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Logan_Rock_Treen_Fossick.jpg",
           "sourceType": "core",
           "sourceArticleId": "porthcurno-wp",
-          "sourceGeohash4": "gbgu"
+          "sourceGeohash4": "gbgu",
+          "mediumPath": "_m/g/b/g/u/logan-rock-wp/treen-logan-rock-medium.webp",
+          "smallPath": "_m/g/b/g/u/logan-rock-wp/treen-logan-rock-small.webp"
         },
         {
           "path": "_m/g/b/g/u/porthcurno-wp/porth-chapel-beach-cor.jpg",
@@ -350,7 +346,7 @@
           "smallPath": "_m/g/b/g/u/porthcurno-wp/footpath-through-the-maize-tow-small.webp"
         },
         {
-          "path": "_m/g/b/g/u/porthcurno-wp/interesting-flower-geograph-or.jpg",
+          "path": "_m/g/b/g/u/minack-theatre-wp/interesting-flower-geograph-or.jpg",
           "filename": "Interesting Flower - geograph.org.uk - 297860.jpg",
           "caption": "Interesting Flower Found in the garden of the Minack Theatre.",
           "alt": "Interesting Flower Found in the garden of the Minack Theatre.",
@@ -362,7 +358,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interesting_Flower_-_geograph.org.uk_-_297860.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "minack-theatre-wp",
-          "sourceGeohash4": "gbgu"
+          "sourceGeohash4": "gbgu",
+          "smallPath": "_m/g/b/g/u/minack-theatre-wp/interesting-flower-geograph-or-small.webp"
         },
         {
           "path": "_m/g/b/g/u/porthcurno-wp/allium-triquetrum-three-corner.jpg",
@@ -628,7 +625,8 @@
           "categories": [
             "Minack Theatre",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/g/b/g/u/st-levan-wp/minack-theatre-small.webp"
         },
         {
           "path": "_m/g/b/g/u/st-levan-wp/logan-rock-treen-closeup.jpg",
@@ -652,7 +650,9 @@
             "License migration redundant",
             "Logan Rock, Cornwall",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/b/g/u/st-levan-wp/logan-rock-treen-closeup-medium.webp",
+          "smallPath": "_m/g/b/g/u/st-levan-wp/logan-rock-treen-closeup-small.webp"
         },
         {
           "path": "_m/g/b/g/u/land-s-end-wp/landsend.jpg",
@@ -673,7 +673,9 @@
             "People at Land's End",
             "Self-published work",
             "Taken with HP PhotoSmart C850"
-          ]
+          ],
+          "mediumPath": "_m/g/b/g/u/land-s-end-wp/landsend-medium.webp",
+          "smallPath": "_m/g/b/g/u/land-s-end-wp/landsend-small.webp"
         },
         {
           "path": "_m/g/b/g/u/land-s-end-wp/lands-end-tourist-centre.jpg",
@@ -696,7 +698,9 @@
             "Flickr images uploaded by Flickr upload bot",
             "Images by David Jones",
             "Taken with Canon Digital IXUS 970 IS"
-          ]
+          ],
+          "mediumPath": "_m/g/b/g/u/land-s-end-wp/lands-end-tourist-centre-medium.webp",
+          "smallPath": "_m/g/b/g/u/land-s-end-wp/lands-end-tourist-centre-small.webp"
         },
         {
           "path": "_m/g/b/g/u/land-s-end-wp/sign-at-land-s-end.jpg",
@@ -721,7 +725,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Nikon D90"
-          ]
+          ],
+          "mediumPath": "_m/g/b/g/u/land-s-end-wp/sign-at-land-s-end-medium.webp",
+          "smallPath": "_m/g/b/g/u/land-s-end-wp/sign-at-land-s-end-small.webp"
         },
         {
           "path": "_m/g/b/g/u/land-s-end-wp/lands-end-airport-terminal.jpg",
@@ -741,7 +747,9 @@
             "CC-BY-SA-4.0",
             "Land's End Aerodrome",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/b/g/u/land-s-end-wp/lands-end-airport-terminal-medium.webp",
+          "smallPath": "_m/g/b/g/u/land-s-end-wp/lands-end-airport-terminal-small.webp"
         },
         {
           "path": "_m/g/b/g/u/land-s-end-wp/land-s-end-banner-longships-li.jpg",
@@ -766,7 +774,9 @@
             "Longships, Cornwall",
             "Self-published work",
             "Wikivoyage banners of England"
-          ]
+          ],
+          "mediumPath": "_m/g/b/g/u/land-s-end-wp/land-s-end-banner-longships-li-medium.webp",
+          "smallPath": "_m/g/b/g/u/land-s-end-wp/land-s-end-banner-longships-li-small.webp"
         },
         {
           "path": "_m/g/b/u/j/newlyn-wp/newlyn-banner-fishing-boats-in.jpg",
@@ -791,7 +801,9 @@
             "Supported by Wikimedia UK",
             "Uploaded with VicuñaUploader",
             "Wikivoyage banners of England"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/j/newlyn-wp/newlyn-banner-fishing-boats-in-medium.webp",
+          "smallPath": "_m/g/b/u/j/newlyn-wp/newlyn-banner-fishing-boats-in-small.webp"
         },
         {
           "path": "_m/g/b/u/j/newlyn-wp/nag-ext.jpg",
@@ -811,7 +823,8 @@
             "CC-BY-SA-4.0",
             "Items with VRTS permission confirmed",
             "Newlyn Art Gallery"
-          ]
+          ],
+          "smallPath": "_m/g/b/u/j/newlyn-wp/nag-ext-small.webp"
         },
         {
           "path": "_m/g/b/u/j/penzance-wp/chysauster.jpg",
@@ -835,7 +848,8 @@
             "July 2003 in Cornwall",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/b/u/j/penzance-wp/chysauster-small.webp"
         },
         {
           "path": "_m/g/b/u/j/penzance-wp/st-michaels-mount.jpg",
@@ -860,7 +874,9 @@
             "Taken with Canon EOS 400D",
             "United Kingdom photographs taken on 2007-09-22",
             "Views of St Michael's Mount"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/j/penzance-wp/st-michaels-mount-medium.webp",
+          "smallPath": "_m/g/b/u/j/penzance-wp/st-michaels-mount-small.webp"
         },
         {
           "path": "_m/g/b/u/j/penzance-wp/the-market-house-penzance-geog.jpg",
@@ -885,7 +901,8 @@
             "Market House, Penzance",
             "Taken with Nikon Coolpix 4300",
             "United Kingdom photographs taken on 2006-01-14"
-          ]
+          ],
+          "smallPath": "_m/g/b/u/j/penzance-wp/the-market-house-penzance-geog-small.webp"
         },
         {
           "path": "_m/g/b/u/j/penzance-wp/penzance-morrab-gardens-01.jpg",
@@ -900,7 +917,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Penzance,_Morrab_Gardens_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "penzance-wp",
-          "sourceGeohash4": "gbuj"
+          "sourceGeohash4": "gbuj",
+          "mediumPath": "_m/g/b/u/j/penzance-wp/penzance-morrab-gardens-01-medium.webp",
+          "smallPath": "_m/g/b/u/j/penzance-wp/penzance-morrab-gardens-01-small.webp"
         },
         {
           "path": "_m/g/b/u/j/penzance-wp/scillonian-ferry-leaving-penza.jpg",
@@ -915,7 +934,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scillonian_ferry_leaving_Penzance_on_a_sunny_day.jpg",
           "sourceType": "poi",
           "sourceArticleId": "penzance-wp",
-          "sourceGeohash4": "gbuj"
+          "sourceGeohash4": "gbuj",
+          "smallPath": "_m/g/b/u/j/penzance-wp/scillonian-ferry-leaving-penza-small.webp"
         },
         {
           "path": "_m/g/b/u/j/penzance-wp/morrab-library.jpg",
@@ -930,7 +950,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morrab_Library.jpg",
           "sourceType": "poi",
           "sourceArticleId": "penzance-wp",
-          "sourceGeohash4": "gbuj"
+          "sourceGeohash4": "gbuj",
+          "mediumPath": "_m/g/b/u/j/penzance-wp/morrab-library-medium.webp",
+          "smallPath": "_m/g/b/u/j/penzance-wp/morrab-library-small.webp"
         }
       ],
       "narration": [

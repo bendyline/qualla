@@ -41,7 +41,7 @@ Located at 42.38°N, 83.03°W on East Grand Boulevard on Detroit's east side. Th
   - Banksy mural sold for $137,500
   - Demolition ordered April 7, 2022
   - Demolition largely complete by late December 2024
-- [Packard Automotive Plant - Wikipedia](https://en.wikipedia.org/wiki/Packard_Automotive_Plant)
+- [Packard Automotive Plant - Wikipedia](https://en.wikipedia.org/?curid=26326433)
   - Opened 1903 confirmed
   - Albert Kahn design confirmed
   - Reinforced concrete: article says 'first reinforced concrete in American industrial construction' - more precisely it was Building 10 (ca. 1905) that first used Kahn System reinforced concrete, not the original 1903 building; the broader claim is directionally accurate but slightly imprecise

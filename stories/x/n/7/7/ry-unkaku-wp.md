@@ -32,7 +32,7 @@ The Ryounkaku's former site is at 35.716N, 139.793E in the Asakusa district of T
 
 ## Sources
 
-- [Ryounkaku - Wikipedia](https://en.wikipedia.org/wiki/Ryounkaku)
+- [Ryounkaku - Wikipedia](https://en.wikipedia.org/?curid=3643498)
   - completed 1890 in Asakusa
   - twelve floors, red brick over wooden frame
   - designed by W.K. Burton (Scottish engineer)

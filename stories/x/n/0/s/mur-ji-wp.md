@@ -32,7 +32,7 @@ Located at 34.538N, 136.041E in the forested mountains east of the Yamato Basin,
 
 ## Sources
 
-- [Muro-ji - Wikipedia](https://en.wikipedia.org/wiki/Mur%C5%8D-ji)
+- [Muro-ji - Wikipedia](https://en.wikipedia.org/?curid=22478500)
 - [Muroji Temple - Japan Guide](https://www.japan-guide.com/e/e4187.html)
   - five-story pagoda is smallest outdoor five-story pagoda in Japan confirmed
   - 1998 typhoon damage from falling tree confirmed

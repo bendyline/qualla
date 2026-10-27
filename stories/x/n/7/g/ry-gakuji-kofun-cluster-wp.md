@@ -33,7 +33,7 @@ Located at 35.821°N, 140.277°E on the Shimosa Plateau between the town of Saka
 ## Sources
 
 - [Ryūgakuji Kofun Cluster - Wikipedia](https://en.wikipedia.org/?curid=67618715)
-- [Wikipedia - Ryūgakuji Kofun Cluster](https://en.wikipedia.org/wiki/Ry%C5%ABgakuji_Kofun_Cluster)
+- [Wikipedia - Ryūgakuji Kofun Cluster](https://en.wikipedia.org/?curid=67618715)
   - 114 burial mounds total confirmed
   - Largest concentration of kofun in Kanto region confirmed
   - National Historic Site designation 1941 confirmed

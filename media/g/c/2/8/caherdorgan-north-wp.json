@@ -3,35 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/2/8/caherdorgan-north-wp/hero.jpg",
-        "filename": "CustomHouseDublin.JPG",
-        "caption": "Fachada sur de la Custom House de Dublín a uno de los lados del rio Liffey.",
-        "alt": "Fachada sur de la Custom House de Dublín a uno de los lados del rio Liffey.",
-        "width": 2200,
-        "height": 1499,
+        "path": "_m/g/c/2/8/caherdorgan-north-wp/gallarus-oratory-1210112-dingl.jpg",
+        "filename": "Gallarus Oratory-1210112, Dingle Peninsula, Co. Kerry, Ireland.jpg",
+        "caption": "Medieval (12th century) Celtic oratory/church, known as Gallarus Oratory, with corbelled roof.",
+        "alt": "Medieval (12th century) Celtic oratory/church, known as Gallarus Oratory, with corbelled roof.",
+        "width": 4896,
+        "height": 3672,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "Elemaki",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:CustomHouseDublin.JPG",
-        "sourceType": "core",
+        "license": "CC BY 4.0",
+        "artist": "Mucklagh",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gallarus_Oratory-1210112,_Dingle_Peninsula,_Co._Kerry,_Ireland.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "caherdorgan-north-wp",
         "sourceGeohash4": "gc28",
-        "categories": [
-          "CC-BY-3.0",
-          "Dublin Custom House",
-          "Elemaki",
-          "GFDL",
-          "License migration redundant",
-          "Quality Images by Elemaki",
-          "Quality images",
-          "Quality images missing SDC depicts",
-          "Quality images missing SDC inception",
-          "Quality images of Dublin",
-          "Quality images of buildings in Ireland",
-          "Quality images of cultural heritage monuments in County Dublin",
-          "Self-published work",
-          "Taken with Olympus E-510"
-        ]
+        "mediumPath": "_m/g/c/2/8/caherdorgan-north-wp/gallarus-oratory-1210112-dingl-medium.webp",
+        "smallPath": "_m/g/c/2/8/caherdorgan-north-wp/gallarus-oratory-1210112-dingl-small.webp"
       },
       "images": [
         {
@@ -441,7 +427,9 @@
             "Ports and harbours in the Republic of Ireland",
             "Self-published work",
             "Taken with Canon Digital IXUS 65"
-          ]
+          ],
+          "mediumPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/blasket-harbour-medium.webp",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/blasket-harbour-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory.jpg",
@@ -469,7 +457,9 @@
             "Quality images of Ireland by Ingo Mehling",
             "Quality images of cultural heritage monuments in County Kerry",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory-medium.webp",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/dolphin-fungie-memorial-dingle.jpg",
@@ -489,7 +479,8 @@
             "CC-BY-SA-3.0",
             "Fungie",
             "Monuments and memorials in County Kerry"
-          ]
+          ],
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/dolphin-fungie-memorial-dingle-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/seal-in-dingle-last-year-58114.jpg",
@@ -504,7 +495,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seal_in_Dingle_last_Year_(5811421838).jpg",
           "sourceType": "poi",
           "sourceArticleId": "dingle-peninsula",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/seal-in-dingle-last-year-58114-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din.jpg",
@@ -518,7 +510,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strand_Street_-_Sr%C3%A1id_na_Tr%C3%A1,_Dingle_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "dingle-peninsula",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "mediumPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din-medium.webp",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut.jpg",
@@ -541,7 +535,9 @@
             "License migration completed",
             "Listowel",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe.jpg",
@@ -556,7 +552,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_slugs_-_forest_and_bog_phenotypes.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir.jpg",
@@ -571,7 +569,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_Airport_(KIR).jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory.jpg",
@@ -586,7 +586,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballinskelligs_Priory.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/portmagee.jpg",
@@ -601,7 +603,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portmagee.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/portmagee-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/portmagee-small.webp"
         }
       ],
       "narration": [

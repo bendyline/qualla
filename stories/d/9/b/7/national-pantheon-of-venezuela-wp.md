@@ -33,7 +33,7 @@ The National Pantheon of Venezuela is located at 10.513N, 66.913W on the norther
 ## Sources
 
 - [National Pantheon of Venezuela - Wikipedia](https://en.wikipedia.org/?curid=5237709)
-- [National Pantheon of Venezuela - Wikipedia (reviewed 2026-03-12)](https://en.wikipedia.org/wiki/National_Pantheon_of_Venezuela)
+- [National Pantheon of Venezuela - Wikipedia (reviewed 2026-03-12)](https://en.wikipedia.org/?curid=5237709)
   - Original Santísima Trinidad church construction began 1744, inaugurated 1780 confirmed
   - 1812 earthquake reduced church to ruins confirmed
   - Pantheon created March 27, 1874 under Antonio Guzman Blanco confirmed

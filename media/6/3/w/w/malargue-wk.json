@@ -3,25 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/3/w/w/malargue-wk/hero.jpg",
-        "filename": "CDAS building.JPG",
-        "caption": "The control building of the Pierre Auger Observatory in Malargue.",
-        "alt": "The control building of the Pierre Auger Observatory in Malargue.",
-        "width": 3648,
-        "height": 2736,
+        "path": "_m/6/3/w/w/malargue-wk/vegas-veranada-del-callao.jpg",
+        "filename": "Vegas veranada del Callao.jpg",
+        "caption": "Vegas que retienen agua de deshielo y donde se desarrolla la Ranita del Pehuenche, un anfibio endémico de la zona en peligro crítico de extinción. En esas vegas se hacen las veranadas en las que crianceros llevan su ganado a pastar durante los meses estivales.",
+        "alt": "Vegas que retienen agua de deshielo y donde se desarrolla la Ranita del Pehuenche, un anfibio endémico de la zona en peligro crítico de extinción. En esas vegas se hacen las veranadas en las que crianceros llevan su ganado a pastar durante los meses estivales.",
+        "width": 4608,
+        "height": 3456,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Lorenzo Caccianiga",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:CDAS_building.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Gdebandi",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vegas_veranada_del_Callao.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "malargue-wk",
         "sourceGeohash4": "63ww",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Central Campus, Pierre Auger Observatory",
-          "Self-published work",
-          "Taken with Olympus E-3"
-        ]
+        "mediumPath": "_m/6/3/w/w/malargue-wk/vegas-veranada-del-callao-medium.webp",
+        "smallPath": "_m/6/3/w/w/malargue-wk/vegas-veranada-del-callao-small.webp"
       },
       "images": [
         {
@@ -424,7 +420,8 @@
             "November 2005 in Argentina",
             "Photographs taken on 2005-11-05",
             "Pozo de las Ánimas"
-          ]
+          ],
+          "smallPath": "_m/6/3/w/w/malargue-wp/pozo-de-las-animas-mendoza-arg-small.webp"
         },
         {
           "path": "_m/6/3/w/w/malargue-wp/observatorio-pierre-auger.jpg",
@@ -448,7 +445,9 @@
             "PD-self",
             "Postmodern architecture in Argentina",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/6/3/w/w/malargue-wp/observatorio-pierre-auger-medium.webp",
+          "smallPath": "_m/6/3/w/w/malargue-wp/observatorio-pierre-auger-small.webp"
         },
         {
           "path": "_m/tpc/la/s-/le/na/las-lenas/las-lenas-arg.jpg",
@@ -472,7 +471,9 @@
             "Taken with Nikon D3100",
             "Uploaded via Campaign:Wiki Tour Argentina 2014",
             "Wiki Tour Argentina 2014"
-          ]
+          ],
+          "mediumPath": "_m/tpc/la/s-/le/na/las-lenas/las-lenas-arg-medium.webp",
+          "smallPath": "_m/tpc/la/s-/le/na/las-lenas/las-lenas-arg-small.webp"
         }
       ],
       "narration": [

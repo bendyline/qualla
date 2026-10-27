@@ -3,28 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/q/e/lichfield-wk/hero.jpg",
-        "filename": "Lichfield Panorama.jpg",
-        "caption": "View of Lichfield from Cathedral Spire",
-        "alt": "View of Lichfield from Cathedral Spire",
-        "width": 3872,
-        "height": 1050,
+        "path": "_m/g/c/q/e/lichfield-wk/a51-bridge-over-a38-south-east.jpg",
+        "filename": "A51 bridge over A38, south-east of Lichfield - geograph.org.uk - 7194318.jpg",
+        "caption": "A51 bridge over A38, south-east of Lichfield",
+        "alt": "A51 bridge over A38, south-east of Lichfield",
+        "width": 3200,
+        "height": 1996,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "Bs0u10e0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lichfield_Panorama.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "David Smith",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A51_bridge_over_A38,_south-east_of_Lichfield_-_geograph.org.uk_-_7194318.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "lichfield-wk",
         "sourceGeohash4": "gcqe",
-        "categories": [
-          "CC-BY-3.0",
-          "Lichfield",
-          "Taken with Nikon D80"
-        ]
+        "mediumPath": "_m/g/c/q/e/lichfield-wk/a51-bridge-over-a38-south-east-medium.webp",
+        "smallPath": "_m/g/c/q/e/lichfield-wk/a51-bridge-over-a38-south-east-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/q/e/lichfield-wk/view-over-national-memorial-ar.jpg",
+          "path": "_m/g/c/q/e/lichfield-wp/view-over-national-memorial-ar.jpg",
           "filename": "View over National Memorial Arboretum.JPG",
           "caption": "View across NMA towards Armed Forces Memorial",
           "alt": "View across NMA towards Armed Forces Memorial",
@@ -42,10 +39,12 @@
             "National Memorial Arboretum, Armed Forces Memorial",
             "Self-published work",
             "Taken with Samsung S850"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/view-over-national-memorial-ar-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/view-over-national-memorial-ar-small.webp"
         },
         {
-          "path": "_m/g/c/q/e/lichfield-wk/lichfield-cathedral-st.jpg",
+          "path": "_m/g/c/q/e/lichfield-cathedral-wp/lichfield-cathedral-st.jpg",
           "filename": "LichCathedral5.jpg",
           "caption": "Lichfield Cathedral in Staffordshire, England, Britain.",
           "alt": "Lichfield Cathedral in Staffordshire, England, Britain.",
@@ -68,10 +67,12 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FX01",
             "West facade of Lichfield Cathedral"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/e/lichfield-cathedral-wp/lichfield-cathedral-st-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-cathedral-wp/lichfield-cathedral-st-small.webp"
         },
         {
-          "path": "_m/g/c/q/e/lichfield-wk/lichfield-garrick-theatre.jpg",
+          "path": "_m/g/c/q/e/lichfield-wp/lichfield-garrick-theatre.jpg",
           "filename": "Lichfield Garrick Theatre.jpg",
           "caption": "The Lichfield Garrick Theatre",
           "alt": "The Lichfield Garrick Theatre",
@@ -89,10 +90,12 @@
             "Lichfield Garrick Theatre",
             "Self-published work",
             "Taken with Nikon D80"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/lichfield-garrick-theatre-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/lichfield-garrick-theatre-small.webp"
         },
         {
-          "path": "_m/g/c/q/e/lichfield-wk/plaque-of-martyrs.jpg",
+          "path": "_m/g/c/q/e/lichfield-wp/plaque-of-martyrs.jpg",
           "filename": "Plaque of Martyrs.jpg",
           "caption": "The Plaque of Martyrs in the Recreation Grounds in Beacon Park, Lichfield",
           "alt": "The Plaque of Martyrs in the Recreation Grounds in Beacon Park, Lichfield",
@@ -109,10 +112,12 @@
             "Beacon Park, Lichfield",
             "CC-BY-3.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/plaque-of-martyrs-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/plaque-of-martyrs-small.webp"
         },
         {
-          "path": "_m/g/c/q/e/lichfield-wk/johnsons-birthplace.jpg",
+          "path": "_m/g/c/q/e/lichfield-wp/johnsons-birthplace.jpg",
           "filename": "Johnsons Birthplace.jpg",
           "caption": "Samuel Johnson's Birthplace Museum, Lichfield, Staffordshire, UK.",
           "alt": "Samuel Johnson's Birthplace Museum, Lichfield, Staffordshire, UK.",
@@ -130,10 +135,12 @@
             "Listed buildings in England with known IDs",
             "Samuel Johnson Birthplace Museum",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/johnsons-birthplace-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/johnsons-birthplace-small.webp"
         },
         {
-          "path": "_m/g/c/q/e/lichfield-wk/erasmus-darwin-house.jpg",
+          "path": "_m/g/c/q/e/lichfield-wp/erasmus-darwin-house.jpg",
           "filename": "Erasmus Darwin House.jpg",
           "caption": "Erasmus Darwin House, Lichfield",
           "alt": "Erasmus Darwin House, Lichfield",
@@ -152,7 +159,9 @@
             "Listed buildings in England with known IDs",
             "Self-published work",
             "Taken with Nikon D80"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/erasmus-darwin-house-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/erasmus-darwin-house-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wk/a-glimpse-of-the-cathedral-geo.jpg",
@@ -569,7 +578,8 @@
             "Paintings without Wikidata item",
             "Taken with Nikon D200",
             "Template Unknown (source)"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/e/lichfield-wp/portrait-of-erasmus-darwin-by--small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/julian-arguelles.jpg",
@@ -590,7 +600,8 @@
             "Flickr images missing SDC source of file",
             "Flickr images reviewed by FlickreviewR",
             "Julian Argüelles"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/e/lichfield-wp/julian-arguelles-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/anna-seward-by-tilly-kettle.jpg",
@@ -624,7 +635,9 @@
             "Portrait paintings of women in the National Portrait Gallery, London",
             "Portrait paintings of women with books",
             "Unknown date"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/anna-seward-by-tilly-kettle-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/anna-seward-by-tilly-kettle-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/elias-ashmole-by-john-riley.jpg",
@@ -659,7 +672,9 @@
             "PD-Art (PD-old-100-expired)",
             "PD-old-100-expired",
             "Portrait of Elias Ashmole (after John Riley - National Portrait Gallery, NPG 1602)"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/elias-ashmole-by-john-riley-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/elias-ashmole-by-john-riley-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/staffordshire-hoard-annotated.jpg",
@@ -674,7 +689,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Staffordshire_hoard_annotated.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/staffordshire-hoard-annotated-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/beacon-park-museum-gardens.jpg",
@@ -689,7 +705,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beacon_Park_Museum_Gardens.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/beacon-park-museum-gardens-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/beacon-park-museum-gardens-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/john-snape-lichfield-plan.jpg",
@@ -704,7 +722,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Snape_Lichfield_Plan.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/john-snape-lichfield-plan-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/john-snape-lichfield-plan-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/the-entrance-to-cathedral-clos.jpg",
@@ -719,7 +739,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_entrance_to_Cathedral_Close,_Lichfield,_with_Lichfield_Cathedral_in_the_background.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/the-entrance-to-cathedral-clos-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/the-entrance-to-cathedral-clos-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/cockle-lucas-johnson.jpg",
@@ -734,7 +756,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cockle_Lucas_Johnson.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/cockle-lucas-johnson-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/lichfield-harehurst-hill-2.jpg",
@@ -749,7 +772,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lichfield_Harehurst_Hill_2.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/lichfield-harehurst-hill-2-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/lichfield-harehurst-hill-2-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/lichfield-canal-water.jpg",
@@ -764,7 +789,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lichfield_Canal_Water.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/lichfield-canal-water-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/lichfield-canal-water-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/hospital-of-st-johns.jpg",
@@ -779,7 +806,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hospital_of_St_Johns.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/hospital-of-st-johns-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/hospital-of-st-johns-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/lichfield-campus.jpg",
@@ -794,7 +823,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lichfield_Campus.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/lichfield-campus-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/lichfield-campus-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/edvardus-wetenhall.jpg",
@@ -809,7 +840,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edvardus_Wetenhall.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/edvardus-wetenhall-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-cathedral-wp/exterior-lichfield-cat.jpg",
@@ -824,7 +856,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lichfield_Cathedral_Exterior_from_NE,_Staffordshire,_UK_-_Diliff.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-cathedral-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "mediumPath": "_m/g/c/q/e/lichfield-cathedral-wp/exterior-lichfield-cat-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-cathedral-wp/exterior-lichfield-cat-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/lichfield-cathedral-school-538.jpg",
@@ -839,7 +873,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lichfield_Cathedral_School_(5380279663).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/lichfield-cathedral-school-538-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/lichfield-cathedral-school-538-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/lichfield-cathedral-2010-10-13.jpg",
@@ -854,7 +890,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lichfield_Cathedral_2010-10-13.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/lichfield-cathedral-2010-10-13-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-cathedral-wp/hero.jpg",
@@ -869,7 +906,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lichfield-Cathedral-June2020.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-cathedral-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "mediumPath": "_m/g/c/q/e/lichfield-cathedral-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-cathedral-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/michael-lieber.jpg",
@@ -884,7 +923,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michael_Lieber.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/michael-lieber-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/lichfield-city-station-geograp.jpg",
@@ -899,7 +939,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lichfield_City_Station_-_geograph.org.uk_-_5852117.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/lichfield-city-station-geograp-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/the-tudor-of-lichfield-geograp.jpg",
@@ -914,7 +955,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Tudor_of_Lichfield_-_geograph.org.uk_-_6386785.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/the-tudor-of-lichfield-geograp-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/lichfield-library-geograph-org.jpg",
@@ -929,7 +971,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lichfield_Library_-_geograph.org.uk_-_6996207.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/lichfield-library-geograph-org-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/lichfield-library-geograph-org-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/lichfield-guildhall-geograph-o.jpg",
@@ -944,7 +988,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lichfield,_Guildhall_-_geograph.org.uk_-_6996441.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/lichfield-guildhall-geograph-o-medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/lichfield-guildhall-geograph-o-small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/lichfield-market-geograph-org-.jpg",
@@ -959,7 +1005,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lichfield_Market_-_geograph.org.uk_-_6996456.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "mediumPath": "_m/g/c/q/e/lichfield-wp/lichfield-market-geograph-org--medium.webp",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/lichfield-market-geograph-org--small.webp"
         },
         {
           "path": "_m/g/c/q/e/lichfield-wp/lichfield-market-square-and-st.jpg",
@@ -974,7 +1022,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lichfield_Market_Square_and_St_Mary%27s_Church_-_geograph.org.uk_-_7788988.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "lichfield-wp",
-          "sourceGeohash4": "gcqe"
+          "sourceGeohash4": "gcqe",
+          "smallPath": "_m/g/c/q/e/lichfield-wp/lichfield-market-square-and-st-small.webp"
         }
       ],
       "narration": [

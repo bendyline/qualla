@@ -3,26 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/p/4/3/llevant-de-mallorca-wk/hero.jpg",
-        "filename": "Cala Millor Platja 06.jpg",
-        "caption": "Beach of Cala Millor, Sant Llorenç des Cardassar, Mallorca, Spain",
-        "alt": "Beach of Cala Millor, Sant Llorenç des Cardassar, Mallorca, Spain",
-        "width": 3318,
-        "height": 2487,
+        "path": "_m/s/p/4/3/llevant-de-mallorca-wk/default.jpg",
+        "filename": "Cala Rayada, en el municipio de Capdepera (Baleares, España).jpg",
+        "caption": "default",
+        "alt": "default",
+        "width": 3022,
+        "height": 1702,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Olaf Tausch",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cala_Millor_Platja_06.jpg",
+        "license": "CC BY 2.0",
+        "artist": "dronepicr",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cala_Rayada,_en_el_municipio_de_Capdepera_(Baleares,_Espa%C3%B1a).jpg",
         "sourceType": "core",
         "sourceArticleId": "llevant-de-mallorca-wk",
         "sourceGeohash4": "sp43",
         "categories": [
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "License migration redundant",
-          "Platja de Sant Llorenç",
-          "Self-published work"
-        ]
+          "Aerial photographs of Mallorca",
+          "CC-BY-2.0",
+          "Cala Rajada",
+          "Extracted images",
+          "Files from dronepicr Flickr stream",
+          "Files with coordinates missing SDC location of creation",
+          "Spain photographs taken on 2019-04-15",
+          "Taken with Hasselblad L1D-20c"
+        ],
+        "mediumPath": "_m/s/p/4/3/llevant-de-mallorca-wk/default-medium.webp",
+        "smallPath": "_m/s/p/4/3/llevant-de-mallorca-wk/default-small.webp"
       },
       "images": [
         {
@@ -76,7 +81,9 @@
             "Self-published work",
             "September 2009 in Mallorca",
             "Taken with Canon Digital IXUS 980 IS"
-          ]
+          ],
+          "mediumPath": "_m/s/p/4/4/can-picafort-wk/necropolis-de-son-real-06-medium.webp",
+          "smallPath": "_m/s/p/4/4/can-picafort-wk/necropolis-de-son-real-06-small.webp"
         },
         {
           "path": "_m/s/p/4/4/can-picafort-wk/can-picafort-in-der-nacht.jpg",
@@ -101,7 +108,8 @@
             "License migration redundant",
             "Night in Mallorca",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/p/4/4/can-picafort-wk/can-picafort-in-der-nacht-small.webp"
         },
         {
           "path": "_m/s/p/4/4/can-picafort-wk/son-real-necropolis-y-su-parqu.jpg",
@@ -130,7 +138,9 @@
             "Self-published work",
             "Special Areas of Conservation in Spain with known IDs",
             "Uploaded via Campaign:wle-es"
-          ]
+          ],
+          "mediumPath": "_m/s/p/4/4/can-picafort-wk/son-real-necropolis-y-su-parqu-medium.webp",
+          "smallPath": "_m/s/p/4/4/can-picafort-wk/son-real-necropolis-y-su-parqu-small.webp"
         },
         {
           "path": "_m/s/p/4/4/can-picafort-wk/can-picafort-r03-wv-banner.jpg",
@@ -154,7 +164,9 @@
             "Images by MJJR",
             "Self-published work",
             "Taken with Canon EOS 6D"
-          ]
+          ],
+          "mediumPath": "_m/s/p/4/4/can-picafort-wk/can-picafort-r03-wv-banner-medium.webp",
+          "smallPath": "_m/s/p/4/4/can-picafort-wk/can-picafort-r03-wv-banner-small.webp"
         },
         {
           "path": "_m/s/p/4/1/pla-de-mallorca-wk/els-calderers-courtyard.jpg",
@@ -174,7 +186,9 @@
             "CC-BY-SA-4.0",
             "Els Calderers",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/p/4/1/pla-de-mallorca-wk/els-calderers-courtyard-medium.webp",
+          "smallPath": "_m/s/p/4/1/pla-de-mallorca-wk/els-calderers-courtyard-small.webp"
         },
         {
           "path": "_m/s/p/4/1/pla-de-mallorca-wk/ca-n-picafort-en-baleares-espa.jpg",
@@ -198,7 +212,9 @@
             "Images by MJJR",
             "Self-published work",
             "Taken with Canon EOS 6D"
-          ]
+          ],
+          "mediumPath": "_m/s/p/4/1/pla-de-mallorca-wk/ca-n-picafort-en-baleares-espa-medium.webp",
+          "smallPath": "_m/s/p/4/1/pla-de-mallorca-wk/ca-n-picafort-en-baleares-espa-small.webp"
         },
         {
           "path": "_m/s/p/4/1/pla-de-mallorca-wk/can-picafort-y-la-obra-pot-d-a.jpg",
@@ -226,7 +242,9 @@
             "Son Real",
             "Special Areas of Conservation in Spain with known IDs",
             "Uploaded via Campaign:wle-es"
-          ]
+          ],
+          "mediumPath": "_m/s/p/4/1/pla-de-mallorca-wk/can-picafort-y-la-obra-pot-d-a-medium.webp",
+          "smallPath": "_m/s/p/4/1/pla-de-mallorca-wk/can-picafort-y-la-obra-pot-d-a-small.webp"
         }
       ],
       "narration": [

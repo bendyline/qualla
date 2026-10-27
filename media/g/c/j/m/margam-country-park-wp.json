@@ -3,34 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/j/m/margam-country-park-wp/hero.jpg",
-        "filename": "Margam Park - Orangery Gardens.JPG",
-        "caption": "Taken from within the Orangery Gardens of Margam County Park.",
-        "alt": "Taken from within the Orangery Gardens of Margam County Park.",
-        "width": 2560,
-        "height": 1920,
+        "path": "_m/g/c/j/m/margam-country-park-wp/margam-park-railway-s-margam-c.jpg",
+        "filename": "Margam Park Railway's 'Margam Castle'.jpg",
+        "caption": "Steam outline 0-4-0 2 ft narrow gauge diesel built by Alan Keef Ltd in 2001 at Margam Country Park.",
+        "alt": "Steam outline 0-4-0 2 ft narrow gauge diesel built by Alan Keef Ltd in 2001 at Margam Country Park.",
+        "width": 4896,
+        "height": 3481,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "FruitMonkey",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Margam_Park_-_Orangery_Gardens.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Train Photos",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Margam_Park_Railway%27s_%27Margam_Castle%27.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "margam-country-park-wp",
         "sourceGeohash4": "gcjm",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "GFDL",
-          "Gardens in Wales",
-          "Ivy Cottage, Margam",
-          "License migration redundant",
-          "Listed buildings in Wales with known IDs",
-          "Margam Abbey",
-          "Self-published work",
-          "Taken with 5MP-9Y9"
-        ]
+        "mediumPath": "_m/g/c/j/m/margam-country-park-wp/margam-park-railway-s-margam-c-medium.webp",
+        "smallPath": "_m/g/c/j/m/margam-country-park-wp/margam-park-railway-s-margam-c-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/j/m/margam-country-park-wp/hero.jpg",
+          "path": "_m/g/c/j/m/margam-abbey-wp/hero.jpg",
           "filename": "Margam Abbey ruin chapter house.jpg",
           "caption": "This is a photo of listed building number",
           "alt": "This is a photo of listed building number",
@@ -48,7 +39,9 @@
             "Flickr images uploaded by Flickr upload bot",
             "Listed buildings in Wales with known IDs",
             "Margam Abbey"
-          ]
+          ],
+          "mediumPath": "_m/g/c/j/m/margam-abbey-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/j/m/margam-abbey-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/j/m/margam-country-park-wp/teitl-cymraeg-welsh-ti.jpg",
@@ -539,7 +532,9 @@
             "Sunsets of Wales",
             "Taken with Pentax K-x",
             "Wales photographs taken on 2010-09-03"
-          ]
+          ],
+          "mediumPath": "_m/g/c/j/m/port-talbot-wp/maesteg-mmb-05-sunset-medium.webp",
+          "smallPath": "_m/g/c/j/m/port-talbot-wp/maesteg-mmb-05-sunset-small.webp"
         },
         {
           "path": "_m/g/c/j/m/port-talbot-wp/margam-stones-museum-wales.jpg",
@@ -562,7 +557,9 @@
             "Margam Stones Museum",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ38"
-          ]
+          ],
+          "mediumPath": "_m/g/c/j/m/port-talbot-wp/margam-stones-museum-wales-medium.webp",
+          "smallPath": "_m/g/c/j/m/port-talbot-wp/margam-stones-museum-wales-small.webp"
         }
       ],
       "narration": [

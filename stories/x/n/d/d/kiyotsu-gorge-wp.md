@@ -44,7 +44,7 @@ Located at 36.95N, 138.76E in the mountainous interior of Niigata Prefecture, Ja
   - Five elements theme: wood, earth, metal, fire, water
   - Light Cave uses semi-polished stainless steel and shallow pool
   - Periscope station includes cedar-roofed cafe with hot spring foot spa
-- [Kiyotsu Gorge - Wikipedia / ANA Japan Travel](https://en.wikipedia.org/wiki/Kiyotsu_Gorge)
+- [Kiyotsu Gorge - Wikipedia / ANA Japan Travel](https://en.wikipedia.org/?curid=62460171)
   - Three Great Canyons of Japan: Kiyotsu, Kurobe (Toyama), Osugidani (Mie) confirmed
   - Designated Natural Monument and Place of Scenic Beauty in 1941 confirmed
   - 750-meter pedestrian tunnel confirmed

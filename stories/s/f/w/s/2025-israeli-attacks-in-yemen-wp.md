@@ -46,7 +46,7 @@ Coordinates: 14.841°N, 42.930°E. This entry covers a campaign rather than a si
   - Houthi PM Ahmed al-Rahawi killed 28 August confirmed
   - Gaza ceasefire October 2025 context verified
   - Yemenia fleet destroyed on ground confirmed
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2025_Israeli_attacks_in_Yemen)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=79886126)
   - Attributed two casualty figures (6 May Sanaa airport; 25 September Sanaa strikes) to Houthi-run media / health authorities rather than stating them as bare fact, matching the source.
 
 ## Review Notes

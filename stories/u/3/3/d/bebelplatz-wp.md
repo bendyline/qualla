@@ -46,7 +46,7 @@ Bebelplatz lies at 52.5164 N, 13.3939 E, on the south side of Unter den Linden i
 
 ## Sources
 
-- [Bebelplatz - Wikipedia](https://en.wikipedia.org/wiki/Bebelplatz)
+- [Bebelplatz - Wikipedia](https://en.wikipedia.org/?curid=5356845)
   - Formerly the Opernplatz; renamed after August Bebel, a founder of the SPD; on the south side of Unter den Linden in Mitte
   - Bounded east by the Prinzessinnenpalais, west by the Alte Bibliothek and the Old Palace, southeast by St. Hedwig's Cathedral, the first Catholic church built in Prussia after the Reformation
   - No linden trees on the stretch up to the Berlin Palace because the baroque Berlin Fortress once stood there; the avenue begins where the fortifications ended

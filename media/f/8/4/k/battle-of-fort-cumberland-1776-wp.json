@@ -3,31 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/f/8/4/k/battle-of-fort-cumberland-1776-wp/hero.jpg",
-        "filename": "Beausejour2006.jpg",
-        "caption": "Fort Beauséjour, Aulac, New Brunswick, Canada.",
-        "alt": "Fort Beauséjour, Aulac, New Brunswick, Canada.",
-        "width": 1892,
-        "height": 1352,
+        "path": "_m/f/8/4/k/battle-of-fort-cumberland-1776-wp/fort-cumberland-displa.jpg",
+        "filename": "Fort Cumberland Museum 2018.jpg",
+        "caption": "Fort Cumberland Display-",
+        "alt": "Fort Cumberland Display-",
+        "width": 3024,
+        "height": 4032,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Verne Equinox",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beausejour2006.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "KJoseph",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Cumberland_Museum_2018.jpg",
         "sourceType": "core",
         "sourceArticleId": "battle-of-fort-cumberland-1776-wp",
         "sourceGeohash4": "f84k",
         "categories": [
-          "Battle of Fort Beauséjour",
-          "CC-BY-SA-3.0-migrated",
-          "Canada photographs taken on 2006-04-07",
-          "Fort Beauséjour",
-          "GFDL",
-          "GFDL-en",
-          "Heritage properties in Canada with known IDs",
-          "License migration completed",
-          "License migration redundant",
-          "Taken with Canon PowerShot A510"
-        ]
+          "CC-BY-SA-4.0",
+          "Fort Beauséjour Museum",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/f/8/4/k/battle-of-fort-cumberland-1776-wp/fort-cumberland-displa-medium.webp",
+        "smallPath": "_m/f/8/4/k/battle-of-fort-cumberland-1776-wp/fort-cumberland-displa-small.webp"
       },
       "images": [
         {
@@ -54,7 +49,7 @@
           "smallPath": "_m/f/8/4/k/battle-of-fort-cumberland-1776-wp/beaumont-historic-site-small.webp"
         },
         {
-          "path": "_m/f/8/4/k/battle-of-fort-cumberland-1776-wp/hero.jpg",
+          "path": "_m/f/8/1/1/fort-howe-wp/hero.jpg",
           "filename": "FortHoweSaintJohNBCanada.JPG",
           "caption": "Reconstructed blockhouse at Fort Howe, Saint John, New Brunswick, Canada",
           "alt": "Reconstructed blockhouse at Fort Howe, Saint John, New Brunswick, Canada",
@@ -73,7 +68,9 @@
             "Heritage properties in Canada with known IDs",
             "PD-user",
             "Taken with Canon PowerShot A570 IS"
-          ]
+          ],
+          "mediumPath": "_m/f/8/1/1/fort-howe-wp/hero-medium.webp",
+          "smallPath": "_m/f/8/1/1/fort-howe-wp/hero-small.webp"
         },
         {
           "path": "_m/f/8/4/k/battle-of-fort-cumberland-1776-wp/commander-joseph-gorha.jpg",
@@ -143,7 +140,7 @@
           "smallPath": "_m/f/8/4/k/battle-of-fort-cumberland-1776-wp/fort-cumberland-small.webp"
         },
         {
-          "path": "_m/f/8/4/k/battle-of-fort-cumberland-1776-wp/thomas-dixson-grave-fo.jpg",
+          "path": "_m/f/8/4/k/battle-of-fort-beausejour-wp/thomas-dixson-grave-fo.jpg",
           "filename": "Thomas Dixson Grave, Fort Cumberland, New Brunswick.jpg",
           "caption": "Thomas Dixson Grave, Fort Cumberland, New Brunswick",
           "alt": "Thomas Dixson Grave, Fort Cumberland, New Brunswick",
@@ -161,7 +158,8 @@
             "Files with coordinates missing SDC location of creation",
             "Gravestones in New Brunswick",
             "History of Nova Scotia"
-          ]
+          ],
+          "smallPath": "_m/f/8/4/k/battle-of-fort-beausejour-wp/thomas-dixson-grave-fo-small.webp"
         },
         {
           "path": "_m/d/q/9/k/colonial-williamsburg-wp/colonial-williamsburg-thomas-j.jpg",
@@ -188,7 +186,8 @@
             "Self-published work",
             "Taken with Nikon Coolpix 2100",
             "Thomas Jefferson impersonators"
-          ]
+          ],
+          "smallPath": "_m/d/q/9/k/colonial-williamsburg-wp/colonial-williamsburg-thomas-j-small.webp"
         },
         {
           "path": "_m/d/j/q/4/from-st-augustine-to-hampton-roads-wk/colonial-williamsburg-32057818.jpg",
@@ -210,7 +209,9 @@
             "Files with coordinates missing SDC location of creation",
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Raleigh Tavern"
-          ]
+          ],
+          "mediumPath": "_m/d/j/q/4/from-st-augustine-to-hampton-roads-wk/colonial-williamsburg-32057818-medium.webp",
+          "smallPath": "_m/d/j/q/4/from-st-augustine-to-hampton-roads-wk/colonial-williamsburg-32057818-small.webp"
         }
       ],
       "narration": [

@@ -3,28 +3,22 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/5/2/iona-wk/hero.jpg",
-        "filename": "Iona banner.jpg",
-        "caption": "Iona (island), Scotland, view from the Fionnphort-Iona ferry. Image from File:TyIona20030825r17f31.jpg adjusted and cropped to create a Wikivoyage banner",
-        "alt": "Iona (island), Scotland, view from the Fionnphort-Iona ferry. Image from File:TyIona20030825r17f31.jpg adjusted and cropped to create a Wikivoyage banner",
-        "width": 3500,
-        "height": 500,
-        "mimeType": "image/jpeg",
-        "license": "CC0",
-        "artist": "Original image by Torsten Henning, adjusted and cropped by AlasdairW",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iona_banner.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "iona-wk",
-        "sourceGeohash4": "gf52",
-        "categories": [
-          "CC-Zero",
-          "Iona, Scotland",
-          "Wikivoyage banners of Scotland"
-        ]
+        "path": "_m/g/f/5/2/iona-wp/iona-abbey-july-2011.jpg",
+        "filename": "Iona Abbey - July 2011.jpeg",
+        "caption": "Iona Abbey in July 2011.",
+        "alt": "Iona Abbey in July 2011.",
+        "width": 3072,
+        "height": 2304,
+        "license": "CC BY-SA 2.0 fr",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+        "artist": "Akela NDE (talk)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iona_Abbey_-_July_2011.jpeg",
+        "mediumPath": "_m/g/f/5/2/iona-wp/iona-abbey-july-2011-medium.webp",
+        "smallPath": "_m/g/f/5/2/iona-wp/iona-abbey-july-2011-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/5/2/iona-wk/iona-abbey-july-2011.jpg",
+          "path": "_m/g/f/5/2/iona-wp/iona-abbey-july-2011.jpg",
           "filename": "Iona Abbey - July 2011.jpeg",
           "caption": "Iona Abbey in July 2011.",
           "alt": "Iona Abbey in July 2011.",
@@ -42,7 +36,9 @@
             "Files with coordinates missing SDC location of creation",
             "Iona Abbey",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/2/iona-wp/iona-abbey-july-2011-medium.webp",
+          "smallPath": "_m/g/f/5/2/iona-wp/iona-abbey-july-2011-small.webp"
         },
         {
           "path": "_m/g/f/5/2/iona-abbey-wp/book-kells-folio-292r.jpg",
@@ -66,7 +62,8 @@
             "PD-Art (PD-old-100-expired)",
             "PD-old-100-expired",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/g/f/5/2/iona-abbey-wp/book-kells-folio-292r-small.webp"
         },
         {
           "path": "_m/g/f/5/2/iona-wp/tyiona20030825r17f31.jpg",
@@ -85,7 +82,9 @@
           "categories": [
             "Iona, Scotland",
             "PD-user"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/2/iona-wp/tyiona20030825r17f31-medium.webp",
+          "smallPath": "_m/g/f/5/2/iona-wp/tyiona20030825r17f31-small.webp"
         },
         {
           "path": "_m/g/f/5/2/iona-wp/tyionastcolumbasbay20030825r19.jpg",
@@ -104,7 +103,9 @@
           "categories": [
             "Bays of Iona",
             "PD-user"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/2/iona-wp/tyionastcolumbasbay20030825r19-medium.webp",
+          "smallPath": "_m/g/f/5/2/iona-wp/tyionastcolumbasbay20030825r19-small.webp"
         },
         {
           "path": "_m/g/f/5/2/iona-wp/tyionabayatthebackoftheocean20.jpg",
@@ -123,7 +124,9 @@
           "categories": [
             "Camas Cuil an t-Saimh",
             "PD-user"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/2/iona-wp/tyionabayatthebackoftheocean20-medium.webp",
+          "smallPath": "_m/g/f/5/2/iona-wp/tyionabayatthebackoftheocean20-small.webp"
         },
         {
           "path": "_m/g/f/5/2/iona-wp/tyionanunnery20030825r19f31.jpg",
@@ -142,7 +145,9 @@
           "categories": [
             "Iona Nunnery",
             "PD-user"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/2/iona-wp/tyionanunnery20030825r19f31-medium.webp",
+          "smallPath": "_m/g/f/5/2/iona-wp/tyionanunnery20030825r19f31-small.webp"
         },
         {
           "path": "_m/g/f/6/e/flannan-isles-wk/hebridesmap.png",
@@ -169,7 +174,8 @@
             "PNG that should use vector graphics",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/6/e/flannan-isles-wk/hebridesmap-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map.jpg",
@@ -184,7 +190,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scotland_relief_location_map.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "edinburgh-wp",
-          "sourceGeohash4": "gf52"
+          "sourceGeohash4": "gf52",
+          "smallPath": "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map-small.webp"
         },
         {
           "path": "_m/g/f/5/2/iona-wp/iona2may11.jpg",
@@ -199,7 +206,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iona2may11.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "iona-wp",
-          "sourceGeohash4": "gf52"
+          "sourceGeohash4": "gf52",
+          "mediumPath": "_m/g/f/5/2/iona-wp/iona2may11-medium.webp",
+          "smallPath": "_m/g/f/5/2/iona-wp/iona2may11-small.webp"
         },
         {
           "path": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute.jpg",
@@ -214,7 +223,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Argyll_and_Bute_UK_relief_location_map.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "isle-of-mull-wp",
-          "sourceGeohash4": "gf52"
+          "sourceGeohash4": "gf52",
+          "mediumPath": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute-medium.webp",
+          "smallPath": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute-small.webp"
         },
         {
           "path": "_m/g/f/5/2/iona-abbey-wp/st-martins-cross-iona.jpg",
@@ -229,7 +240,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Martins_Cross_on_Iona.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "iona-abbey-wp",
-          "sourceGeohash4": "gf52"
+          "sourceGeohash4": "gf52",
+          "smallPath": "_m/g/f/5/2/iona-abbey-wp/st-martins-cross-iona-small.webp"
         },
         {
           "path": "_m/g/f/5/2/iona-wp/iona-15020668711.jpg",
@@ -244,7 +256,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iona_(15020668711).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "iona-wp",
-          "sourceGeohash4": "gf52"
+          "sourceGeohash4": "gf52",
+          "mediumPath": "_m/g/f/5/2/iona-wp/iona-15020668711-medium.webp",
+          "smallPath": "_m/g/f/5/2/iona-wp/iona-15020668711-small.webp"
         },
         {
           "path": "_m/g/f/5/3/staffa-wk/topographic-relief-map.png",
@@ -259,7 +273,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mull_topographic_locator_map.png",
           "sourceType": "sibling",
           "sourceArticleId": "staffa-wk",
-          "sourceGeohash4": "gf52"
+          "sourceGeohash4": "gf52",
+          "mediumPath": "_m/g/f/5/3/staffa-wk/topographic-relief-map-medium.webp",
+          "smallPath": "_m/g/f/5/3/staffa-wk/topographic-relief-map-small.webp"
         },
         {
           "path": "_m/tpc/st/af/fa/__/staffa/staffa-ahead-14608.jpg",
@@ -282,7 +298,8 @@
             "License migration completed",
             "Media missing infobox template",
             "Taken with Canon Digital IXUS 300"
-          ]
+          ],
+          "smallPath": "_m/tpc/st/af/fa/__/staffa/staffa-ahead-14608-small.webp"
         },
         {
           "path": "_m/tpc/st/af/fa/__/staffa/staffa-harbour-14705k.jpg",
@@ -304,7 +321,8 @@
             "License migration completed",
             "Media missing infobox template",
             "Staffa (island)"
-          ]
+          ],
+          "smallPath": "_m/tpc/st/af/fa/__/staffa/staffa-harbour-14705k-small.webp"
         },
         {
           "path": "_m/tpc/st/af/fa/__/staffa/staffa-ne-14673.jpg",
@@ -329,7 +347,8 @@
             "Staffa (island)",
             "Taken with Canon Digital IXUS 300",
             "Ulva, Scotland"
-          ]
+          ],
+          "smallPath": "_m/tpc/st/af/fa/__/staffa/staffa-ne-14673-small.webp"
         },
         {
           "path": "_m/tpc/st/af/fa/__/staffa/isle-of-staffa-banner-panorama.jpg",
@@ -356,7 +375,9 @@
             "Staffa (island)",
             "Uploaded with en.wp upload wizard",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/tpc/st/af/fa/__/staffa/isle-of-staffa-banner-panorama-medium.webp",
+          "smallPath": "_m/tpc/st/af/fa/__/staffa/isle-of-staffa-banner-panorama-small.webp"
         },
         {
           "path": "_m/tpc/fe/rr/y_/__/ferry/mvisleofmull-01.jpg",
@@ -381,7 +402,8 @@
             "Self-published work",
             "Ships with open bow visors",
             "Transport in Argyll and Bute"
-          ]
+          ],
+          "smallPath": "_m/tpc/fe/rr/y_/__/ferry/mvisleofmull-01-small.webp"
         },
         {
           "path": "_m/g/f/5/9/isle-of-mull-wp/duart-castle-scotland.jpg",
@@ -401,7 +423,8 @@
             "CC-BY-SA-3.0",
             "Duart Castle",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/5/9/isle-of-mull-wp/duart-castle-scotland-small.webp"
         }
       ],
       "narration": [

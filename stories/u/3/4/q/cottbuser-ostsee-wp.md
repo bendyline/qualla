@@ -36,7 +36,7 @@ The Cottbuser Ostsee lies at 51.79 N, 14.43 E, immediately north-east of Cottbus
 
 ## Sources
 
-- [Cottbuser Ostsee](https://en.wikipedia.org/wiki/Cottbuser_Ostsee)
+- [Cottbuser Ostsee](https://en.wikipedia.org/?curid=65891159)
   - Target water level of 62.5 m reached on 23 December 2024 (de.wikipedia, Cottbuser Ostsee)
   - Flooding began 12 April 2019, halted after 14 days, resumed early 2020; 44% Dec 2020, 83% Mar 2022, 93% Jun 2023, 60.6 m Mar 2024
   - Surface area 18.8 km², max depth 30 m, target volume ~126 million m³; largest artificial lake in Germany by surface area

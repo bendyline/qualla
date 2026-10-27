@@ -37,7 +37,7 @@ Located nominally at 45.83N, 123.96W on the northern Oregon coast - the approxim
 ## Sources
 
 - [Ukase of 1821 - Wikipedia](https://en.wikipedia.org/?curid=28095023)
-- [Ukase of 1821 - Wikipedia](https://en.wikipedia.org/wiki/Ukase_of_1821)
+- [Ukase of 1821 - Wikipedia](https://en.wikipedia.org/?curid=28095023)
   - Signed September 4 1821 (Old Style) by Tsar Alexander I confirmed
   - Claimed Russian sovereignty down to 45 degrees 50 minutes north latitude confirmed
   - Prohibited foreign ships within 100 Italian miles confirmed

@@ -28,7 +28,7 @@ Waimea's fame spread far beyond the surfing world. The Beach Boys name-checked i
 
 ## Flight Context
 
-Located at 21.640N, 158.064W on Oahu's North Shore, along Kamehameha Highway. The crescent bay is unmistakable from the air, flanked by rocky points with the Waimea River mouth at the eastern end and Waimea Valley extending inland. In winter, massive surf breaking across the bay is visible from considerable altitude. Nearest airport: Dillingham Airfield (PHDH), approximately 10 nm west. Honolulu International (PHNL) is roughly 28 nm south-southeast. The prominent ridgeline of Pu'u o Mahuka heiau above the bay and the Waianae Range provide orientation.
+Located at 21.640N, 158.064W on Oahu's North Shore, along Kamehameha Highway. The crescent bay is unmistakable from the air, flanked by rocky points with the Waimea River mouth at the eastern end and Waimea Valley extending inland. In winter, massive surf breaking across the bay is visible from considerable altitude. Nearest airport: Dillingham Airfield (PHDH), approximately 10 nm west. Daniel K. Inouye International Airport (PHNL, formerly Honolulu International) is roughly 28 nm south-southeast. The prominent ridgeline of Pu'u o Mahuka heiau above the bay and the Waianae Range provide orientation.
 
 ## Sources
 

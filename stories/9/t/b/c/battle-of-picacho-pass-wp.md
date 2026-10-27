@@ -45,7 +45,7 @@ Located at 32.63N, 111.42W, approximately 40 miles northwest of Tucson. Picacho 
   - Captain Sherod Hunter commanded Confederate forces in Tucson
   - 2,000 Union volunteers in California Column under Colonel James Henry Carleton
   - Fort Barrett built at Pima Indian Villages after the battle
-- [Wikipedia - Battle of Picacho Pass (burial details)](https://en.wikipedia.org/wiki/Battle_of_Picacho_Pass)
+- [Wikipedia - Battle of Picacho Pass (burial details)](https://en.wikipedia.org/?curid=1941218)
   - Johnson and Leonard buried at National Cemetery, Presidio of San Francisco
   - Barrett's grave near railroad tracks remains unmarked and lost
 - [Arizona State Parks - Picacho Peak Civil War Reenactment](https://azstateparks.com/picacho/events/the-soldiers-march)

@@ -28,7 +28,7 @@ Phillips moved Sun to larger premises at 639 Madison Avenue in 1959 and eventual
 
 ## Flight Context
 
-Sun Studio is located at 35.139N, 90.038W at 706 Union Avenue in midtown Memphis. The building is a modest single-story commercial structure, identifiable by its distinctive signage and the Gibson guitar-shaped neon sign. Nearby airports include Memphis International (KMEM) about 9 miles south. The studio is northeast of downtown Memphis along Union Avenue. Best viewed at 1,500-2,500 feet AGL. A large guitar-shaped sign on the roof helps identify it from the air.
+Sun Studio is located at 35.139N, 90.038W at 706 Union Avenue in midtown Memphis. The building is a modest single-story commercial structure, identifiable by its distinctive signage and the Gibson guitar-shaped neon sign. Nearby airports include Frederick W. Smith International Airport (KMEM, formerly Memphis International) about 9 miles south. The studio is northeast of downtown Memphis along Union Avenue. Best viewed at 1,500-2,500 feet AGL. A large guitar-shaped sign on the roof helps identify it from the air.
 
 ## Sources
 

@@ -29,7 +29,7 @@ Located at 37.404°N, 122.427°W. The creek is visible as a narrow drainage cutt
 ## Sources
 
 - [Purisima Creek (San Mateo County) - Wikipedia](https://en.wikipedia.org/?curid=13352804)
-- [Purisima Creek - Wikipedia](https://en.wikipedia.org/wiki/Purisima_Creek)
+- [Purisima Creek - Wikipedia](https://en.wikipedia.org/?curid=13352804)
   - October 27, 1769 Portola expedition camp date confirmed
   - Creek runs approximately 8 miles confirmed
   - Tule elk skull found 1951 one mile inland from creek mouth - California Academy of Sciences confirmed

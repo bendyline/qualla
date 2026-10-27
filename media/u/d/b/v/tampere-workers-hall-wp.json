@@ -3,34 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/d/b/v/tampere-workers-hall-wp/hero.jpg",
-        "filename": "Työväentalo, Tampere.jpg",
-        "caption": "Tampereen työväentalo. Hämeenpuisto 28.",
-        "alt": "Tampereen työväentalo. Hämeenpuisto 28.",
-        "width": 4656,
-        "height": 3378,
+        "path": "_m/u/d/b/v/tampere-workers-hall-wp/plaque-on-the-wall-of-tampere-.jpg",
+        "filename": "Plaque on the wall of Tampere Workers' Hall.jpg",
+        "caption": "\"It was here that the organized wage workers of our country founded the Finnish Trade Union Federation, the predecessor of SAK, in order to gain their rights and secure their work and wages. On April 15-17, 1907\"",
+        "alt": "\"It was here that the organized wage workers of our country founded the Finnish Trade Union Federation, the predecessor of SAK, in order to gain their rights and secure their work and wages. On April 15-17, 1907\"",
+        "width": 3060,
+        "height": 4080,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Trogain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ty%C3%B6v%C3%A4entalo,_Tampere.jpg",
-        "sourceType": "core",
+        "license": "CC0",
+        "artist": "Yalgin",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaque_on_the_wall_of_Tampere_Workers%27_Hall.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "tampere-workers-hall-wp",
         "sourceGeohash4": "udbv",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Corrected by Jacek Halicki",
-          "GFDL",
-          "Labour movement",
-          "License migration redundant",
-          "May 2011 Finland photographs",
-          "May 2011 in Tampere",
-          "Taken with Canon EOS 5D Mark II",
-          "Tampere Workers' Hall"
-        ]
+        "mediumPath": "_m/u/d/b/v/tampere-workers-hall-wp/plaque-on-the-wall-of-tampere--medium.webp",
+        "smallPath": "_m/u/d/b/v/tampere-workers-hall-wp/plaque-on-the-wall-of-tampere--small.webp"
       },
       "images": [
         {
-          "path": "_m/u/d/b/v/tampere-workers-hall-wp/finnish-parliament-bui.jpg",
+          "path": "_m/u/6/z/7/rauma-old-town-hall-wp/finnish-parliament-bui.jpg",
           "filename": "Eduskuntatalo (Finnish Parliament building).JPG",
           "caption": "Finnish Parliament building",
           "alt": "Finnish Parliament building",
@@ -50,10 +41,11 @@
             "Finland photographs taken on 2006-11-10",
             "November 2006 in Helsinki",
             "Taken with Ricoh Caplio RX"
-          ]
+          ],
+          "smallPath": "_m/u/6/z/7/rauma-old-town-hall-wp/finnish-parliament-bui-small.webp"
         },
         {
-          "path": "_m/u/d/b/v/tampere-workers-hall-wp/hero.jpg",
+          "path": "_m/u/d/b/v/tampere-lenin-museum-wp/hero.jpg",
           "filename": "Lenin-museum.JPG",
           "caption": "Lenin-museum in Tampere, Finland.",
           "alt": "Lenin-museum in Tampere, Finland.",
@@ -74,10 +66,11 @@
             "Self-published work",
             "Taken with Konica Revio KD-420Z",
             "Tampere Workers' Hall"
-          ]
+          ],
+          "smallPath": "_m/u/d/b/v/tampere-lenin-museum-wp/hero-small.webp"
         },
         {
-          "path": "_m/u/d/b/v/tampere-workers-hall-wp/tampereen-tyovaentalon.jpg",
+          "path": "_m/u/d/b/v/tampere-lenin-museum-wp/tampereen-tyovaentalon.jpg",
           "filename": "Tyovaentalon aula.JPG",
           "caption": "Tampereen työväentalon ala-aula",
           "alt": "Tampereen työväentalon ala-aula",
@@ -101,7 +94,9 @@
             "Self-published work",
             "Taken with Canon EOS 5D Mark II",
             "Tampere Workers' Hall"
-          ]
+          ],
+          "mediumPath": "_m/u/d/b/v/tampere-lenin-museum-wp/tampereen-tyovaentalon-medium.webp",
+          "smallPath": "_m/u/d/b/v/tampere-lenin-museum-wp/tampereen-tyovaentalon-small.webp"
         },
         {
           "path": "_m/u/d/b/v/tampere-workers-hall-wp/tampereen-tyovaentalo-1.jpg",
@@ -165,7 +160,7 @@
           "smallPath": "_m/u/d/b/v/tampere-workers-hall-wp/plaque-on-the-wall-of-tampere--small.webp"
         },
         {
-          "path": "_m/u/d/b/v/tampere-workers-hall-wp/tampereen-tyovaentalo-2025.jpg",
+          "path": "_m/u/d/b/v/tampere-lenin-museum-wp/tampereen-tyovaentalo-2025.jpg",
           "filename": "Tampereen työväentalo 2025.jpg",
           "caption": "Tampere Workers' Hall and the Nootti-museum in 2025",
           "alt": "Tampere Workers' Hall and the Nootti-museum in 2025",
@@ -177,7 +172,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tampereen_ty%C3%B6v%C3%A4entalo_2025.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "tampere-lenin-museum-wp",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/u/d/b/v/tampere-lenin-museum-wp/tampereen-tyovaentalo-2025-medium.webp",
+          "smallPath": "_m/u/d/b/v/tampere-lenin-museum-wp/tampereen-tyovaentalo-2025-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-pirkkala-airport-finla.jpg",
@@ -201,7 +198,9 @@
             "Self-published work",
             "Taken with Minolta Dimage E323",
             "Tampere-Pirkkala Airport Terminal 1"
-          ]
+          ],
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-pirkkala-airport-finla-medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-pirkkala-airport-finla-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-pirkkala-airport1.jpg",
@@ -226,7 +225,9 @@
             "Self-published work",
             "Taken with HP PhotoSmart R607",
             "Tampere-Pirkkala Airport Terminal 1"
-          ]
+          ],
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-pirkkala-airport1-medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-pirkkala-airport1-small.webp"
         },
         {
           "path": "_m/u/d/b/v/tampere-wk/lenin-museum-entrance.jpg",
@@ -250,7 +251,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Konica Revio KD-420Z"
-          ]
+          ],
+          "smallPath": "_m/u/d/b/v/tampere-wk/lenin-museum-entrance-small.webp"
         },
         {
           "path": "_m/u/d/b/v/tampere-wk/hotel-tammer.jpg",
@@ -276,7 +278,8 @@
             "Radisson Blu Grand Hotel Tammer",
             "Self-published work",
             "Taken with Konica Revio KD-420Z"
-          ]
+          ],
+          "smallPath": "_m/u/d/b/v/tampere-wk/hotel-tammer-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/pispala.jpg",
@@ -298,7 +301,9 @@
             "GFDL",
             "License migration completed",
             "Pispala stairs"
-          ]
+          ],
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/pispala-medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/pispala-small.webp"
         },
         {
           "path": "_m/u/d/b/v/tampere-wk/hatanpaan-arboretum2.jpg",
@@ -321,7 +326,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Sony DSC-P100"
-          ]
+          ],
+          "mediumPath": "_m/u/d/b/v/tampere-wk/hatanpaan-arboretum2-medium.webp",
+          "smallPath": "_m/u/d/b/v/tampere-wk/hatanpaan-arboretum2-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-city-hall-aug2008.jpg",
@@ -336,7 +343,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tampere_City_Hall_Aug2008.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-city-hall-aug2008-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/pub-pikilinna-in-tampere-aug20.jpg",
@@ -351,7 +359,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pub_Pikilinna_in_Tampere_Aug2009_001.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/pub-pikilinna-in-tampere-aug20-small.webp"
         },
         {
           "path": "_m/u/d/b/v/tampere-wk/judas-priest-paalava-sauna-ope.jpg",
@@ -366,7 +375,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Judas_Priest,_p%C3%A4%C3%A4lava,_Sauna_Open_Air_2011,_Tampere,_11.6.2011_(38).JPG",
           "sourceType": "sibling",
           "sourceArticleId": "tampere-wk",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/u/d/b/v/tampere-wk/judas-priest-paalava-sauna-ope-medium.webp",
+          "smallPath": "_m/u/d/b/v/tampere-wk/judas-priest-paalava-sauna-ope-small.webp"
         },
         {
           "path": "_m/u/d/b/v/tampere-wk/hotell-lamminpaa.jpg",
@@ -381,7 +392,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotell_Lamminp%C3%A4%C3%A4.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "tampere-wk",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/u/d/b/v/tampere-wk/hotell-lamminpaa-medium.webp",
+          "smallPath": "_m/u/d/b/v/tampere-wk/hotell-lamminpaa-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/salhojankadun-pub-and-chevy-in.jpg",
@@ -396,7 +409,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salhojankadun_Pub_and_Chevy_in_Tampere_Aug2011.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/salhojankadun-pub-and-chevy-in-small.webp"
         },
         {
           "path": "_m/u/d/b/v/tampere-wk/hotel-tammer-in-tampere-nov201.jpg",
@@ -411,7 +425,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_Tammer_in_Tampere_Nov2011_003.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "tampere-wk",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "smallPath": "_m/u/d/b/v/tampere-wk/hotel-tammer-in-tampere-nov201-small.webp"
         },
         {
           "path": "_m/u/d/b/v/tampere-wk/lielahti-manor.jpg",
@@ -426,7 +441,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lielahti_manor.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "tampere-wk",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "smallPath": "_m/u/d/b/v/tampere-wk/lielahti-manor-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/sarkanniemi-koiramaki4.jpg",
@@ -441,7 +457,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%A4rk%C3%A4nniemi_-_Koiram%C3%A4ki4.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/sarkanniemi-koiramaki4-medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/sarkanniemi-koiramaki4-small.webp"
         },
         {
           "path": "_m/u/d/b/v/tampere-wk/fi-tampere-20131021-164109-hdr.jpg",
@@ -456,7 +474,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:FI-Tampere-20131021_164109_HDR-pcss.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "tampere-wk",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/u/d/b/v/tampere-wk/fi-tampere-20131021-164109-hdr-medium.webp",
+          "smallPath": "_m/u/d/b/v/tampere-wk/fi-tampere-20131021-164109-hdr-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-kauppahalli.jpg",
@@ -471,7 +491,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tampere_Kauppahalli.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-kauppahalli-medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-kauppahalli-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-exhibition-and-sports-.jpg",
@@ -486,7 +508,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tampere_Exhibition_and_Sports_Centre_in_early_morning.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-exhibition-and-sports--medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-exhibition-and-sports--small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/smokey-ham-sandwich-at-restaur.jpg",
@@ -501,7 +525,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Smokey_ham_sandwich_at_restaurant_Speakeasy_in_Tampere.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/smokey-ham-sandwich-at-restaur-medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/smokey-ham-sandwich-at-restaur-small.webp"
         },
         {
           "path": "_m/u/d/b/v/sarkanniemi-wp/hero.jpg",
@@ -516,7 +542,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%A4rk%C3%A4nniemi_20150804.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi-wp",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/u/d/b/v/sarkanniemi-wp/hero-medium.webp",
+          "smallPath": "_m/u/d/b/v/sarkanniemi-wp/hero-small.webp"
         },
         {
           "path": "_m/u/d/b/v/nasinneula-wp/nasinneula-observation.jpg",
@@ -531,7 +559,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%A4rk%C3%A4nniemi_20150804_cropped_N%C3%A4sinneula.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "nasinneula-wp",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "smallPath": "_m/u/d/b/v/nasinneula-wp/nasinneula-observation-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/mexican-pepper-steak-at-restau.jpg",
@@ -546,7 +575,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mexican_pepper_steak_at_restaurant_Pancho_Villa,_Tampere.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/mexican-pepper-steak-at-restau-medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/mexican-pepper-steak-at-restau-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/uniao-da-roseira-at-tampere-fl.jpg",
@@ -561,7 +592,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uni%C3%A3o_da_Roseira_at_Tampere_Floral_Festival_2016_6.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/uniao-da-roseira-at-tampere-fl-medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/uniao-da-roseira-at-tampere-fl-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/tammer-golf.jpg",
@@ -576,7 +609,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tammer-Golf.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tammer-golf-medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tammer-golf-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-view-2.jpg",
@@ -591,7 +626,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tampere_view_2.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-view-2-medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-view-2-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-tammerkoski-banner.jpg",
@@ -606,7 +643,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tampere_Tammerkoski_banner.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-tammerkoski-banner-medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-tammerkoski-banner-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/naistenlahtea-ja-tampereen-kyl.jpg",
@@ -621,7 +660,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naistenlahtea_ja_Tampereen_kylpyl%C3%A4_2017.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/naistenlahtea-ja-tampereen-kyl-medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/naistenlahtea-ja-tampereen-kyl-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/ratina-tampere.jpg",
@@ -636,7 +677,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ratina_Tampere.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/ratina-tampere-medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/ratina-tampere-small.webp"
         },
         {
           "path": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-film-festival-in-2011.jpg",
@@ -651,7 +694,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tampere_Film_Festival_in_2011.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sarkanniemi",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-film-festival-in-2011-medium.webp",
+          "smallPath": "_m/tpc/sa/rk/an/ni/sarkanniemi/tampere-film-festival-in-2011-small.webp"
         },
         {
           "path": "_m/u/d/b/v/tampere-wk/fi-tampere-2019-09-08t152858ee.jpg",
@@ -666,7 +711,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:FI-Tampere-2019-09-08T152858EEST-panorama.jpeg_v1.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "tampere-wk",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/u/d/b/v/tampere-wk/fi-tampere-2019-09-08t152858ee-medium.webp",
+          "smallPath": "_m/u/d/b/v/tampere-wk/fi-tampere-2019-09-08t152858ee-small.webp"
         },
         {
           "path": "_m/u/d/b/v/tampere-wk/chicken-wings-meal-at-siipiwei.jpg",
@@ -681,7 +728,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_wings_meal_at_Siipiweikot.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "tampere-wk",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/u/d/b/v/tampere-wk/chicken-wings-meal-at-siipiwei-medium.webp",
+          "smallPath": "_m/u/d/b/v/tampere-wk/chicken-wings-meal-at-siipiwei-small.webp"
         },
         {
           "path": "_m/u/d/b/v/nasinneula-wp/restaurant-nasinneula.jpg",
@@ -696,7 +745,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Restaurant_N%C3%A4sinneula.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "nasinneula-wp",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/u/d/b/v/nasinneula-wp/restaurant-nasinneula-medium.webp",
+          "smallPath": "_m/u/d/b/v/nasinneula-wp/restaurant-nasinneula-small.webp"
         },
         {
           "path": "_m/u/d/b/v/tampere-wk/hervanta-tram.jpg",
@@ -711,7 +762,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hervanta_-_tram.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "tampere-wk",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "mediumPath": "_m/u/d/b/v/tampere-wk/hervanta-tram-medium.webp",
+          "smallPath": "_m/u/d/b/v/tampere-wk/hervanta-tram-small.webp"
         },
         {
           "path": "_m/u/d/b/v/tampere-wk/kenneli-diy-skatehall-in-tampe.jpg",
@@ -726,7 +779,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kenneli_DIY_skatehall_in_Tampere_20170805_001.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "tampere-wk",
-          "sourceGeohash4": "udbv"
+          "sourceGeohash4": "udbv",
+          "smallPath": "_m/u/d/b/v/tampere-wk/kenneli-diy-skatehall-in-tampe-small.webp"
         }
       ],
       "narration": [

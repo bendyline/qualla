@@ -3,25 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/0/g/st-augustine-s-abbey-wp/hero.jpg",
-        "filename": "Augustine Abbey.jpg",
-        "caption": "Great Gate of St. Augustine's Abbey, taken Sep 2002",
-        "alt": "Great Gate of St. Augustine's Abbey, taken Sep 2002",
-        "width": 1760,
-        "height": 1168,
+        "path": "_m/u/1/0/g/st-augustine-s-abbey-wp/description-sign-nearb.jpg",
+        "filename": "Chapel of the Blessed Virgin Mary - St Augustine's Abbey, Canterbury 2024-12-29.jpg",
+        "caption": "Description on the sign nearby: \"This chapel was used for the singing of Mass for nearly 200 years. You can still see its wall-painting design of heraldic lions in circles. There are also surviving floor tiles relaid here from elsewhere in the church.\"",
+        "alt": "Description on the sign nearby: \"This chapel was used for the singing of Mass for nearly 200 years. You can still see its wall-painting design of heraldic lions in circles. There are also surviving floor tiles relaid here from elsewhere in the church.\"",
+        "width": 8160,
+        "height": 6144,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "User Willhsmit on en.wikipedia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Augustine_Abbey.jpg",
+        "license": "CC0",
+        "artist": "Andy Li",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chapel_of_the_Blessed_Virgin_Mary_-_St_Augustine%27s_Abbey,_Canterbury_2024-12-29.jpg",
         "sourceType": "core",
         "sourceArticleId": "st-augustine-s-abbey-wp",
         "sourceGeohash4": "u10g",
-        "categories": [
-          "Listed buildings in England with known IDs",
-          "PD-user",
-          "St Augustine's Abbey Gatehouse",
-          "Via Francigena - Stages 1EN01 South East England"
-        ]
+        "mediumPath": "_m/u/1/0/g/st-augustine-s-abbey-wp/description-sign-nearb-medium.webp",
+        "smallPath": "_m/u/1/0/g/st-augustine-s-abbey-wp/description-sign-nearb-small.webp"
       },
       "images": [
         {
@@ -48,7 +44,7 @@
           "smallPath": "_m/u/1/0/g/st-augustine-s-abbey-wp/monastery-canterbury-k-small.webp"
         },
         {
-          "path": "_m/u/1/0/g/st-augustine-s-abbey-wp/parish-church-crowland.jpg",
+          "path": "_m/g/c/j/k/ewenny-priory-wp/parish-church-crowland.jpg",
           "filename": "Croyland Abbey & Parish Church of Crowland.JPG",
           "caption": "The parish church of Crowland and, the west front of the ruined nave of the Croyland Abbey.",
           "alt": "The parish church of Crowland and, the west front of the ruined nave of the Croyland Abbey.",
@@ -68,7 +64,9 @@
             "Saint Guthlac Church (Croyland Abbey)",
             "Self-published work",
             "Taken with Sony DSC-T33"
-          ]
+          ],
+          "mediumPath": "_m/g/c/j/k/ewenny-priory-wp/parish-church-crowland-medium.webp",
+          "smallPath": "_m/g/c/j/k/ewenny-priory-wp/parish-church-crowland-small.webp"
         },
         {
           "path": "_m/u/1/0/g/st-augustine-s-abbey-wp/st-augustine-s-abbey-c.jpg",
@@ -166,7 +164,7 @@
           "smallPath": "_m/u/1/0/g/st-augustine-s-abbey-wp/view-canterbury-cathed-small.webp"
         },
         {
-          "path": "_m/u/1/0/g/st-augustine-s-abbey-wp/relief-map-kent-uk-equ.jpg",
+          "path": "_m/u/1/1/h/ramsgate-lifeboat-station-wp/relief-map-kent-uk-equ.jpg",
           "filename": "Kent UK relief location map.jpg",
           "caption": "Relief map of Kent, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 160%\nGeographic limits:\n\nWest: 0.01E\nEast: 1.47E\nNorth: 51.52N\nSouth: 50.88N",
           "alt": "Relief map of Kent, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 160%\nGeographic limits:\n\nWest: 0.01E\nEast: 1.47E\nNorth: 51.52N\nSouth: 50.88N",
@@ -183,10 +181,12 @@
             "CC-BY-SA-3.0",
             "Images from Kent",
             "Maps by Nilfanion"
-          ]
+          ],
+          "mediumPath": "_m/u/1/1/h/ramsgate-lifeboat-station-wp/relief-map-kent-uk-equ-medium.webp",
+          "smallPath": "_m/u/1/1/h/ramsgate-lifeboat-station-wp/relief-map-kent-uk-equ-small.webp"
         },
         {
-          "path": "_m/u/1/0/g/st-augustine-s-abbey-wp/united-kingdom-relief-location.jpg",
+          "path": "_m/g/c/p/v/london-wp/united-kingdom-relief-location.jpg",
           "filename": "United Kingdom relief location map.jpg",
           "caption": "Location map of the United Kingdom",
           "alt": "Location map of the United Kingdom",
@@ -198,7 +198,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:United_Kingdom_relief_location_map.jpg",
           "sourceType": "core",
           "sourceArticleId": "st-augustine-s-abbey-wp",
-          "sourceGeohash4": "u10g"
+          "sourceGeohash4": "u10g",
+          "smallPath": "_m/g/c/p/v/london-wp/united-kingdom-relief-location-small.webp"
         },
         {
           "path": "_m/u/1/0/g/st-augustine-s-abbey-wp/ruins-anglo-saxon-st-p.jpg",

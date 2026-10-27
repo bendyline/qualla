@@ -32,7 +32,7 @@ The Bueckeberg festival ground lies at 52.0547N, 9.4022E, on the south-eastern f
 
 ## Sources
 
-- [Reich Harvest Thanksgiving Festival - Wikipedia](https://en.wikipedia.org/wiki/Reich_Harvest_Thanksgiving_Festival)
+- [Reich Harvest Thanksgiving Festival - Wikipedia](https://en.wikipedia.org/?curid=49604011)
   - Festivals ran 1933-1937 on the Bueckeberg, a hill near Hamelin; most held in October, the 1934 edition beginning 30 September
   - 1937 attendance about 1.2 million, more than any other Nazi ceremony including the Nuremberg rally
   - Hitler walked the Fuehrerweg to a harvest monument in the form of an altar to receive the harvest crown from the Farmers' Estate

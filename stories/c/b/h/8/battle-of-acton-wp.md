@@ -36,7 +36,7 @@ Located at 45.084N, 94.661W in the rolling agricultural prairie of Meeker County
 - [The U.S. Dakota War of 1862 and the Battle of Acton - Tri-County News](https://www.co.meeker.mn.us/DocumentCenter/View/2359/Battle-of-Acton?bidId=)
 - [Battle of Acton Historical Marker](https://www.hmdb.org/m.asp?m=70617)
 - [A Real Frontiersman - McLeod County Historical Society](https://www.mcleodhistory.org/a-piece-of-hallowed-ground/)
-- [Battle of Acton - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Acton)
+- [Battle of Acton - Wikipedia](https://en.wikipedia.org/?curid=74816660)
   - September 3, 1862 date confirmed
   - Captain Richard Strout commanding Company B confirmed
   - Company of 55-65 men confirmed

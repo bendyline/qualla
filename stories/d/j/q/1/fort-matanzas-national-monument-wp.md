@@ -28,7 +28,7 @@ In 1916, the U.S. Department of War began a major restoration. Three vertical fi
 
 ## Flight Context
 
-Fort Matanzas sits on Rattlesnake Island at the southern end of Matanzas Inlet, approximately 14 nautical miles south of St. Augustine along Florida's Atlantic coast. The fort appears as a small stone structure surrounded by salt marsh and barrier islands at coordinates 29.715N, 81.239W. The Matanzas River and inlet are clearly visible from altitude. The visitor center on Anastasia Island along A1A is nearby. Nearest airports: St. Augustine Airport (KSGJ) approximately 10nm north, Northeast Florida Regional Airport (KSSF) to the northwest. Best viewed at low altitude in clear conditions; the coquina tower contrasts with the surrounding green marsh.
+Fort Matanzas sits on Rattlesnake Island at the southern end of Matanzas Inlet, approximately 14 nautical miles south of St. Augustine along Florida's Atlantic coast. The fort appears as a small stone structure surrounded by salt marsh and barrier islands at coordinates 29.715N, 81.239W. The Matanzas River and inlet are clearly visible from altitude. The visitor center on Anastasia Island along A1A is nearby. Nearest airports: Northeast Florida Regional Airport (KSGJ, formerly St. Augustine Airport) approximately 10nm north. Best viewed at low altitude in clear conditions; the coquina tower contrasts with the surrounding green marsh.
 
 ## Sources
 

@@ -3,23 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/n/e/stonehenge-cursus-wp/hero.jpg",
-        "filename": "Stonehenge Cursus.jpg",
-        "caption": "Southern ditch and bank of Stonehenge Cursus",
-        "alt": "Southern ditch and bank of Stonehenge Cursus",
-        "width": 1500,
-        "height": 789,
+        "path": "_m/g/c/n/e/stonehenge-cursus-wp/northern-edge-of-the-cursus-ge.jpg",
+        "filename": "Northern edge of The Cursus - geograph.org.uk - 2819457.jpg",
+        "caption": "Northern edge of The Cursus. Looking west towards the gap in the Fargo Plantation.",
+        "alt": "Northern edge of The Cursus. Looking west towards the gap in the Fargo Plantation.",
+        "width": 2000,
+        "height": 1497,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Psychostevouk (talk)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stonehenge_Cursus.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "David P Howard",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Northern_edge_of_The_Cursus_-_geograph.org.uk_-_2819457.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "stonehenge-cursus-wp",
         "sourceGeohash4": "gcne",
         "categories": [
-          "PD-user",
+          "CC-BY-SA-2.0",
+          "Images by David P Howard",
+          "Images from Geograph Britain and Ireland",
+          "Information field template with formatting",
           "Stonehenge Cursus"
-        ]
+        ],
+        "mediumPath": "_m/g/c/n/e/stonehenge-cursus-wp/northern-edge-of-the-cursus-ge-medium.webp",
+        "smallPath": "_m/g/c/n/e/stonehenge-cursus-wp/northern-edge-of-the-cursus-ge-small.webp"
       },
       "images": [
         {
@@ -228,7 +233,7 @@
           "smallPath": "_m/g/c/n/e/stonehenge-cursus-wp/west-end-of-the-cursus-geograp-small.webp"
         },
         {
-          "path": "_m/g/c/n/e/stonehenge-cursus-wp/hero.jpg",
+          "path": "_m/g/c/n/e/stonehenge-landscape-wp/hero.jpg",
           "filename": "Stonehenge cursus 2007.jpg",
           "caption": "A shot of chalk grassland at the site of the Cursus, one of the ancient monuments found in the Stonehenge Landscape",
           "alt": "A shot of chalk grassland at the site of the Cursus, one of the ancient monuments found in the Stonehenge Landscape",
@@ -240,7 +245,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stonehenge_cursus_2007.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "stonehenge-landscape-wp",
-          "sourceGeohash4": "gcne"
+          "sourceGeohash4": "gcne",
+          "smallPath": "_m/g/c/n/e/stonehenge-landscape-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/n/e/stonehenge-wk/durringtonwalls.jpg",
@@ -266,7 +272,8 @@
             "Taken with Olympus C-750UZ",
             "User-created GFDL images",
             "Woodhenge"
-          ]
+          ],
+          "smallPath": "_m/g/c/n/e/stonehenge-wk/durringtonwalls-small.webp"
         },
         {
           "path": "_m/g/c/n/e/stonehenge-wk/stonehenge-tumulus.jpg",
@@ -288,7 +295,9 @@
             "Cursus Barrows",
             "Self-published work",
             "Taken with Canon PowerShot S90"
-          ]
+          ],
+          "mediumPath": "_m/g/c/n/e/stonehenge-wk/stonehenge-tumulus-medium.webp",
+          "smallPath": "_m/g/c/n/e/stonehenge-wk/stonehenge-tumulus-small.webp"
         },
         {
           "path": "_m/g/c/n/e/stonehenge-wk/the-avenue-stonehenge.jpg",
@@ -309,7 +318,9 @@
             "Self-published work",
             "Stonehenge Avenue",
             "Taken with Panasonic Lumix DMC-FX9"
-          ]
+          ],
+          "mediumPath": "_m/g/c/n/e/stonehenge-wk/the-avenue-stonehenge-medium.webp",
+          "smallPath": "_m/g/c/n/e/stonehenge-wk/the-avenue-stonehenge-small.webp"
         },
         {
           "path": "_m/g/c/n/e/stonehenge-wk/normanton-down-geograph-org-uk.jpg",
@@ -329,7 +340,8 @@
             "CC-BY-SA-2.0",
             "Images by David Smith",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/n/e/stonehenge-wk/normanton-down-geograph-org-uk-small.webp"
         },
         {
           "path": "_m/g/c/n/e/stonehenge-wk/western-wall-of-durrington-wal.jpg",
@@ -344,7 +356,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_wall_of_Durrington_Walls.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "stonehenge-wk",
-          "sourceGeohash4": "gcne"
+          "sourceGeohash4": "gcne",
+          "mediumPath": "_m/g/c/n/e/stonehenge-wk/western-wall-of-durrington-wal-medium.webp",
+          "smallPath": "_m/g/c/n/e/stonehenge-wk/western-wall-of-durrington-wal-small.webp"
         }
       ],
       "narration": [

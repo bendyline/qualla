@@ -3,31 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/j/c/tay-bridge-wp/hero.jpg",
-        "filename": "Tay bridge down.JPG",
-        "caption": "River Tay Bridge, middle section collapsed, photographed by Valentines in 1880",
-        "alt": "River Tay Bridge, middle section collapsed, photographed by Valentines in 1880",
-        "width": 2777,
-        "height": 1900,
+        "path": "_m/g/f/j/c/tay-bridge-wp/victorian-era-tay-rail.jpg",
+        "filename": "Tay Rail Bridge with pier stumps 2017-05-28.jpg",
+        "caption": "Below the Victorian-era Tay Rail Bridge in Dundee, piers showing where the bridge's predecessor rested before its catastrophic failure in 1879.",
+        "alt": "Below the Victorian-era Tay Rail Bridge in Dundee, piers showing where the bridge's predecessor rested before its catastrophic failure in 1879.",
+        "width": 7360,
+        "height": 2453,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Unknown author",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tay_bridge_down.JPG",
+        "license": "CC BY 4.0",
+        "artist": "August Schwerdfeger",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tay_Rail_Bridge_with_pier_stumps_2017-05-28.jpg",
         "sourceType": "core",
         "sourceArticleId": "tay-bridge-wp",
         "sourceGeohash4": "gfjc",
         "categories": [
-          "Forensic photography",
-          "Images with annotations",
-          "PD-anon-expired",
-          "Photographs by James Valentine",
-          "Tay Bridge disaster",
-          "Template Unknown (author)"
-        ]
+          "CC-BY-4.0",
+          "Files with coordinates missing SDC location of creation",
+          "Self-published work",
+          "Tay Rail Bridge"
+        ],
+        "mediumPath": "_m/g/f/j/c/tay-bridge-wp/victorian-era-tay-rail-medium.webp",
+        "smallPath": "_m/g/f/j/c/tay-bridge-wp/victorian-era-tay-rail-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/j/c/tay-bridge-wp/original-tay-bridge-before-the.jpg",
+          "path": "_m/tpc/_ho/du/nd/ee/history-of-dundee/original-tay-bridge-before-the.jpg",
           "filename": "Original Tay Bridge before the 1879 collapse.jpg",
           "caption": "Original Tay Bridge before the collapse, seen from the north",
           "alt": "Original Tay Bridge before the collapse, seen from the north",
@@ -51,7 +51,8 @@
             "Photographs by James Valentine",
             "Scotland in the 1870s",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/du/nd/ee/history-of-dundee/original-tay-bridge-before-the-small.webp"
         },
         {
           "path": "_m/g/f/j/c/tay-bridge-wp/pre-grouping-railway-j.jpg",
@@ -110,7 +111,7 @@
           "smallPath": "_m/g/f/j/c/tay-bridge-wp/tay-rail-bridge-south-small.webp"
         },
         {
-          "path": "_m/g/f/j/c/tay-bridge-wp/fallen-girders-tay-bridge.jpg",
+          "path": "_m/tpc/du/nd/ee/__/dundee/fallen-girders-tay-bridge.jpg",
           "filename": "Fallen girders, Tay Bridge.jpg",
           "caption": "Photograph of fallen girders after collapse of part of the first Tay Bridge.",
           "alt": "Photograph of fallen girders after collapse of part of the first Tay Bridge.",
@@ -129,7 +130,9 @@
             "Images uploaded as part of NLS-WMUK collaboration",
             "Tay Bridge disaster",
             "UK Government artistic works"
-          ]
+          ],
+          "mediumPath": "_m/tpc/du/nd/ee/__/dundee/fallen-girders-tay-bridge-medium.webp",
+          "smallPath": "_m/tpc/du/nd/ee/__/dundee/fallen-girders-tay-bridge-small.webp"
         },
         {
           "path": "_m/g/f/j/c/tay-bridge-wp/victorian-era-tay-rail.jpg",
@@ -617,7 +620,8 @@
             "Desperate Dan statue, Dundee",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/du/nd/ee/__/dundee/dundee-caird-hall-and-desperat-small.webp"
         },
         {
           "path": "_m/tpc/du/nd/ee/__/dundee/hms-unicorn.jpg",
@@ -642,7 +646,8 @@
             "Taken with Kodak EasyShare LS755",
             "Victoria Dock (Dundee)",
             "Water transport in Dundee"
-          ]
+          ],
+          "smallPath": "_m/tpc/du/nd/ee/__/dundee/hms-unicorn-small.webp"
         },
         {
           "path": "_m/tpc/du/nd/ee/__/dundee/discovery-dundee-0762m.jpg",
@@ -668,7 +673,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Fujifilm FinePix S5500"
-          ]
+          ],
+          "mediumPath": "_m/tpc/du/nd/ee/__/dundee/discovery-dundee-0762m-medium.webp",
+          "smallPath": "_m/tpc/du/nd/ee/__/dundee/discovery-dundee-0762m-small.webp"
         },
         {
           "path": "_m/tpc/du/nd/ee/__/dundee/broughty-castle-view.jpg",
@@ -690,7 +697,8 @@
             "Files with derivative versions",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/du/nd/ee/__/dundee/broughty-castle-view-small.webp"
         },
         {
           "path": "_m/tpc/du/nd/ee/__/dundee/carnoustielinks1-halftone-remo.jpg",
@@ -705,7 +713,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CarnoustieLinks1_(halftone_removed).jpg",
           "sourceType": "poi",
           "sourceArticleId": "dundee",
-          "sourceGeohash4": "gfjc"
+          "sourceGeohash4": "gfjc",
+          "smallPath": "_m/tpc/du/nd/ee/__/dundee/carnoustielinks1-halftone-remo-small.webp"
         },
         {
           "path": "_m/g/f/j/c/dundee-wk/dundee-railway-station.jpg",
@@ -720,7 +729,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dundee_Railway_Station_and_Sleeperz_Hotel.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dundee-wk",
-          "sourceGeohash4": "gfjc"
+          "sourceGeohash4": "gfjc",
+          "mediumPath": "_m/g/f/j/c/dundee-wk/dundee-railway-station-medium.webp",
+          "smallPath": "_m/g/f/j/c/dundee-wk/dundee-railway-station-small.webp"
         }
       ],
       "videos": [

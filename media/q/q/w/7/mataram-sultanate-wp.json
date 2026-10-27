@@ -3,19 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/q/w/7/mataram-sultanate-wp/hero.png",
-        "filename": "Catur Sagotra - Kasultanan Ngayogyakarta.png",
-        "caption": "General infographic about the Yogyakarta Sultanate",
-        "alt": "General infographic about the Yogyakarta Sultanate",
-        "width": 2160,
-        "height": 2160,
-        "mimeType": "image/png",
-        "license": "CC BY-SA 4.0",
-        "artist": "Sam Hidayat",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catur_Sagotra_-_Kasultanan_Ngayogyakarta.png",
+        "path": "_m/q/q/w/7/mataram-sultanate-wp/map-java.jpg",
+        "filename": "Thomas Stamford Raffles Map of Java.jpg",
+        "caption": "Map of Java",
+        "alt": "Map of Java",
+        "width": 6883,
+        "height": 2517,
+        "mimeType": "image/jpeg",
+        "license": "Public domain",
+        "artist": "Thomas Stamford Raffles",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Stamford_Raffles_Map_of_Java.jpg",
         "sourceType": "core",
         "sourceArticleId": "mataram-sultanate-wp",
-        "sourceGeohash4": "qqw7"
+        "sourceGeohash4": "qqw7",
+        "mediumPath": "_m/q/q/w/7/mataram-sultanate-wp/map-java-medium.webp",
+        "smallPath": "_m/q/q/w/7/mataram-sultanate-wp/map-java-small.webp"
       },
       "images": [
         {
@@ -48,7 +50,7 @@
           "smallPath": "_m/q/q/w/7/mataram-sultanate-wp/map-neuw-mataram-java-small.webp"
         },
         {
-          "path": "_m/q/q/w/7/mataram-sultanate-wp/indiae-orientalis-17th.jpg",
+          "path": "_m/q/q/v/1/sultanate-of-cirebon-wp/indiae-orientalis-17th.jpg",
           "filename": "Nicolaes Visscher Indiae Orientalis.jpg",
           "caption": "Indiae Orientalis, 17th century map by by Nicolaes Visscher II",
           "alt": "Indiae Orientalis, 17th century map by by Nicolaes Visscher II",
@@ -70,7 +72,9 @@
             "Maps with cartouches (not extracted)",
             "Nicolaes Visscher II",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "mediumPath": "_m/q/q/v/1/sultanate-of-cirebon-wp/indiae-orientalis-17th-medium.webp",
+          "smallPath": "_m/q/q/v/1/sultanate-of-cirebon-wp/indiae-orientalis-17th-small.webp"
         },
         {
           "path": "_m/q/q/w/7/mataram-sultanate-wp/javanese-painting-tirt.jpg",
@@ -164,7 +168,7 @@
           "smallPath": "_m/q/q/w/7/mataram-sultanate-wp/general-infographic-ab-1-small.webp"
         },
         {
-          "path": "_m/q/q/w/7/mataram-sultanate-wp/catur-sagotra-kadipaten-pakual.png",
+          "path": "_m/q/q/w/e/yogyakarta-wk/catur-sagotra-kadipaten-pakual.png",
           "filename": "Catur Sagotra - Kadipatèn Pakualaman.png",
           "caption": "General infographic about the Pakualaman Duchy",
           "alt": "General infographic about the Pakualaman Duchy",
@@ -176,10 +180,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catur_Sagotra_-_Kadipat%C3%A8n_Pakualaman.png",
           "sourceType": "core",
           "sourceArticleId": "mataram-sultanate-wp",
-          "sourceGeohash4": "qqw7"
+          "sourceGeohash4": "qqw7",
+          "mediumPath": "_m/q/q/w/e/yogyakarta-wk/catur-sagotra-kadipaten-pakual-medium.webp",
+          "smallPath": "_m/q/q/w/e/yogyakarta-wk/catur-sagotra-kadipaten-pakual-small.webp"
         },
         {
-          "path": "_m/q/q/w/7/mataram-sultanate-wp/catur-sagotra.png",
+          "path": "_m/q/q/w/e/yogyakarta-wk/catur-sagotra.png",
           "filename": "Catur Sagotra.png",
           "caption": "Emblems of the successor kingdoms of the Islamic Mataram dynasty",
           "alt": "Emblems of the successor kingdoms of the Islamic Mataram dynasty",
@@ -191,7 +197,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catur_Sagotra.png",
           "sourceType": "core",
           "sourceArticleId": "mataram-sultanate-wp",
-          "sourceGeohash4": "qqw7"
+          "sourceGeohash4": "qqw7",
+          "mediumPath": "_m/q/q/w/e/yogyakarta-wk/catur-sagotra-medium.webp",
+          "smallPath": "_m/q/q/w/e/yogyakarta-wk/catur-sagotra-small.webp"
         },
         {
           "path": "_m/q/q/w/7/mataram-sultanate-wp/map-sultanate-mataram.png",
@@ -578,7 +586,8 @@
             "Self-published work",
             "Taken with Casio Exilim EX-Z110",
             "Views of Borobudur"
-          ]
+          ],
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/borobudur-view-taken-n-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/garuda-indonesia-boein.jpg",
@@ -607,7 +616,8 @@
             "Photographs by Gunawan Kartapranata",
             "Self-published work",
             "Taken with Canon Digital IXUS 860 IS"
-          ]
+          ],
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/garuda-indonesia-boein-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/adisucipto-internation.jpg",
@@ -630,7 +640,9 @@
             "CC-BY-SA-3.0",
             "Indonesia photographs taken on 2009-12-28",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/adisucipto-internation-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/adisucipto-internation-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/fort-vredeburg-museum.jpg",
@@ -651,7 +663,9 @@
             "Fort Vredeburg Museum",
             "Self-published work",
             "Taken with Canon EOS 30D"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/fort-vredeburg-museum-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/fort-vredeburg-museum-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/dsc00428-java-jogyakar.jpg",
@@ -666,7 +680,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bird_Market_Building_in_Yogyakarta_(6265682015).jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/dsc00428-java-jogyakar-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/dsc00428-java-jogyakar-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/giwangan.jpg",
@@ -679,7 +695,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giwangan.jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/giwangan-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/prambanan-s-hindu-temp.jpg",
@@ -694,7 +711,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017-05-12_16h_Prambanan.jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/prambanan-s-hindu-temp-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/prambanan-s-hindu-temp-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/tugu-monument-yogyakar.jpg",
@@ -709,7 +728,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jogja_-_Tugu_Monument_(2025)_-_img_06.jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/tugu-monument-yogyakar-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/tugu-monument-yogyakar-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/masjid-gedhe-kauman-ka.jpg",
@@ -724,7 +745,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jogja_-_Mesjid_Gedhe_Kauman_Karaton_Ngayogyakarta_Hadiningrat_(2025)_-_img_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/masjid-gedhe-kauman-ka-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/masjid-gedhe-kauman-ka-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/art-deco-facade-yogyak.jpg",
@@ -739,7 +762,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jogja_-_Yogyakarta_Station_-_Art_Deco_Facade_(2025)_-_img_04.jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/art-deco-facade-yogyak-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/art-deco-facade-yogyak-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/central-area-umbul-pas.jpg",
@@ -754,7 +779,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Central_area_(Umbul_Pasiraman)_of_Taman_Sari_Jogja_(2025)_-_img_02.jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/central-area-umbul-pas-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/central-area-umbul-pas-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/bringharjo-market-pasa.jpg",
@@ -769,7 +796,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bringharjo_Market_Yogyakarta_-_Pasar_Bringharjo_Jogja_(2025)_-_img_06.jpg",
           "sourceType": "poi",
           "sourceArticleId": "yogyakarta-wk",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/bringharjo-market-pasa-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/bringharjo-market-pasa-small.webp"
         },
         {
           "path": "_m/q/q/w/k/borobudur-wk/hero.jpg",
@@ -798,7 +827,9 @@
             "Photographs by Gunawan Kartapranata",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/k/borobudur-wk/hero-medium.webp",
+          "smallPath": "_m/q/q/w/k/borobudur-wk/hero-small.webp"
         },
         {
           "path": "_m/q/q/w/k/borobudur-wk/candi-ngawen.jpg",
@@ -820,7 +851,8 @@
             "Candi Ngawen",
             "Images from the Tropenmuseum",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/q/q/w/k/borobudur-wk/candi-ngawen-small.webp"
         },
         {
           "path": "_m/q/q/w/k/borobudur-wk/map-borobudur-area-png.png",
@@ -843,7 +875,9 @@
             "Travel maps from Wikivoyage WTS to check",
             "Travel maps of Borobudur",
             "Vector version available"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/k/borobudur-wk/map-borobudur-area-png-medium.webp",
+          "smallPath": "_m/q/q/w/k/borobudur-wk/map-borobudur-area-png-small.webp"
         },
         {
           "path": "_m/q/q/w/k/borobudur-wk/borobudur-route-map-pn.png",
@@ -866,7 +900,9 @@
             "ODbL OpenStreetMap",
             "Travel maps of Borobudur",
             "Vector version available"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/k/borobudur-wk/borobudur-route-map-pn-medium.webp",
+          "smallPath": "_m/q/q/w/k/borobudur-wk/borobudur-route-map-pn-small.webp"
         },
         {
           "path": "_m/q/q/w/k/borobudur-wk/carved-reliefs-borobud.jpg",
@@ -890,7 +926,8 @@
             "Files from Wikivoyage wts",
             "Self-published work",
             "Taken with Nikon D70"
-          ]
+          ],
+          "smallPath": "_m/q/q/w/k/borobudur-wk/carved-reliefs-borobud-small.webp"
         },
         {
           "path": "_m/q/q/w/k/borobudur-wk/half-cross-section-bor.png",
@@ -908,7 +945,9 @@
           "sourceGeohash4": "qqwk",
           "categories": [
             "Borobudur side sections"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/k/borobudur-wk/half-cross-section-bor-medium.webp",
+          "smallPath": "_m/q/q/w/k/borobudur-wk/half-cross-section-bor-small.webp"
         },
         {
           "path": "_m/q/q/w/k/borobudur-wk/borobudur-east-gate-bo.jpg",
@@ -923,7 +962,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Borobudur_EastGate.JPG",
           "sourceType": "poi",
           "sourceArticleId": "borobudur-wk",
-          "sourceGeohash4": "qqwk"
+          "sourceGeohash4": "qqwk",
+          "smallPath": "_m/q/q/w/k/borobudur-wk/borobudur-east-gate-bo-small.webp"
         },
         {
           "path": "_m/q/q/w/k/borobudur-wk/mendut-indonesia-candi.jpg",
@@ -938,7 +978,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mendut_Java_Indonesia_Candi-Mendut-02.jpg",
           "sourceType": "poi",
           "sourceArticleId": "borobudur-wk",
-          "sourceGeohash4": "qqwk"
+          "sourceGeohash4": "qqwk",
+          "mediumPath": "_m/q/q/w/k/borobudur-wk/mendut-indonesia-candi-medium.webp",
+          "smallPath": "_m/q/q/w/k/borobudur-wk/mendut-indonesia-candi-small.webp"
         },
         {
           "path": "_m/q/q/w/k/borobudur-wk/one-perwara-smaller-co.jpg",
@@ -953,7 +995,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gunung_Wukir_Canggal_Perwara_Temple.jpg",
           "sourceType": "poi",
           "sourceArticleId": "borobudur-wk",
-          "sourceGeohash4": "qqwk"
+          "sourceGeohash4": "qqwk",
+          "mediumPath": "_m/q/q/w/k/borobudur-wk/one-perwara-smaller-co-medium.webp",
+          "smallPath": "_m/q/q/w/k/borobudur-wk/one-perwara-smaller-co-small.webp"
         },
         {
           "path": "_m/q/q/w/k/borobudur-wk/pendopo-pool-karmawibh.jpg",
@@ -968,7 +1012,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karmawibhangga_Museum_Pendopo_of_Borobudur.jpg",
           "sourceType": "poi",
           "sourceArticleId": "borobudur-wk",
-          "sourceGeohash4": "qqwk"
+          "sourceGeohash4": "qqwk",
+          "mediumPath": "_m/q/q/w/k/borobudur-wk/pendopo-pool-karmawibh-medium.webp",
+          "smallPath": "_m/q/q/w/k/borobudur-wk/pendopo-pool-karmawibh-small.webp"
         },
         {
           "path": "_m/q/q/w/k/borobudur-wk/north-facade-corner-ca.jpg",
@@ -983,7 +1029,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Candi_Mendut_-_facade_north_(2025)_-_img_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "borobudur-wk",
-          "sourceGeohash4": "qqwk"
+          "sourceGeohash4": "qqwk",
+          "mediumPath": "_m/q/q/w/k/borobudur-wk/north-facade-corner-ca-medium.webp",
+          "smallPath": "_m/q/q/w/k/borobudur-wk/north-facade-corner-ca-small.webp"
         },
         {
           "path": "_m/q/q/w/k/borobudur-wk/northwestern-corner-fa.jpg",
@@ -998,7 +1046,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Candi_Pawon_-_facade_northwest_(2025)_-_img_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "borobudur-wk",
-          "sourceGeohash4": "qqwk"
+          "sourceGeohash4": "qqwk",
+          "mediumPath": "_m/q/q/w/k/borobudur-wk/northwestern-corner-fa-medium.webp",
+          "smallPath": "_m/q/q/w/k/borobudur-wk/northwestern-corner-fa-small.webp"
         },
         {
           "path": "_m/tpc/mo/un/t-/ma/mount-marapi/blethrow-merapi1.jpg",
@@ -1023,7 +1073,8 @@
             "Media missing infobox template",
             "Merapi in 2005",
             "Views of Mount Merapi"
-          ]
+          ],
+          "smallPath": "_m/tpc/mo/un/t-/ma/mount-marapi/blethrow-merapi1-small.webp"
         },
         {
           "path": "_m/tpc/mo/un/t-/ma/mount-marapi/mt-merapi-from-mt-merbabu.jpg",
@@ -1045,7 +1096,9 @@
             "Merapi in 1998",
             "Mount Merapi",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/mo/un/t-/ma/mount-marapi/mt-merapi-from-mt-merbabu-medium.webp",
+          "smallPath": "_m/tpc/mo/un/t-/ma/mount-marapi/mt-merapi-from-mt-merbabu-small.webp"
         },
         {
           "path": "_m/tpc/mo/un/t-/ma/mount-marapi/papan-penanda-di-area-museum-u.jpg",
@@ -1066,7 +1119,9 @@
             "Kaliurang",
             "Self-published work",
             "Ullen Sentalu Museum"
-          ]
+          ],
+          "mediumPath": "_m/tpc/mo/un/t-/ma/mount-marapi/papan-penanda-di-area-museum-u-medium.webp",
+          "smallPath": "_m/tpc/mo/un/t-/ma/mount-marapi/papan-penanda-di-area-museum-u-small.webp"
         },
         {
           "path": "_m/q/q/w/u/surakarta-wp/kecamatan-ampel-boyolali.jpg",
@@ -1094,7 +1149,9 @@
             "License migration redundant",
             "Photographs taken on 2007-02-27",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/u/surakarta-wp/kecamatan-ampel-boyolali-medium.webp",
+          "smallPath": "_m/q/q/w/u/surakarta-wp/kecamatan-ampel-boyolali-small.webp"
         },
         {
           "path": "_m/q/q/w/u/surakarta-wp/sukoharjo-regency-central-java.jpg",
@@ -1118,7 +1175,9 @@
             "McDonald's restaurants in Indonesia",
             "Self-published work",
             "Sukoharjo Regency"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/u/surakarta-wp/sukoharjo-regency-central-java-medium.webp",
+          "smallPath": "_m/q/q/w/u/surakarta-wp/sukoharjo-regency-central-java-small.webp"
         },
         {
           "path": "_m/q/q/w/u/surakarta-wp/wonogiri-style-noodle-soup-mie.jpg",
@@ -1139,7 +1198,8 @@
             "Noodle soups",
             "Noodles from Indonesia",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/q/q/w/u/surakarta-wp/wonogiri-style-noodle-soup-mie-small.webp"
         },
         {
           "path": "_m/q/q/w/u/surakarta-wp/chinese-new-year-2574-kongzili.jpg",
@@ -1165,7 +1225,9 @@
             "Pictures by Sam Hidayat",
             "Self-published work",
             "Surakarta"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/u/surakarta-wp/chinese-new-year-2574-kongzili-medium.webp",
+          "smallPath": "_m/q/q/w/u/surakarta-wp/chinese-new-year-2574-kongzili-small.webp"
         }
       ],
       "narration": [

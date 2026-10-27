@@ -33,7 +33,7 @@ Located at 12.05N, 61.75W, the capture centered on Hospital Hill and Fort George
 ## Sources
 
 - [Capture of Grenada (1779) - Wikipedia](https://en.wikipedia.org/?curid=28803743)
-- [Capture of Grenada (1779) - Wikipedia](https://en.wikipedia.org/wiki/Capture_of_Grenada_(1779))
+- [Capture of Grenada (1779) - Wikipedia](https://en.wikipedia.org/?curid=28803743)
   - Estaing landed 2,100 troops on 2 July 1779 confirmed
   - 1,400-man Dillon's Regiment plus 700 from Champagne, Foix, Auxerrois, Hainaut regiments confirmed
   - British garrison: 101 regulars from 48th Regiment, 24 artillerymen, ~400 militia confirmed

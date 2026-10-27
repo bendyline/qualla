@@ -3,27 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/v/j/bothwell-wp/hero.jpg",
-        "filename": "Bothwell Castle Golf Club.jpg",
-        "caption": "The entrance to Bothwell Castle Golf Club, located on Bothwell Road.",
-        "alt": "The entrance to Bothwell Castle Golf Club, located on Bothwell Road.",
-        "width": 3264,
-        "height": 2448,
+        "path": "_m/g/c/v/j/bothwell-wp/main-street-bothwell.jpg",
+        "filename": "Main Street- Bothwell (geograph 7201427).jpg",
+        "caption": "Main Street: Bothwell",
+        "alt": "Main Street: Bothwell",
+        "width": 2844,
+        "height": 2070,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Flowerspetalsunicorns",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bothwell_Castle_Golf_Club.jpg",
+        "license": "CC BY-SA 2.0",
+        "artist": "Jim Smillie",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_Street-_Bothwell_(geograph_7201427).jpg",
         "sourceType": "core",
         "sourceArticleId": "bothwell-wp",
         "sourceGeohash4": "gcvj",
         "categories": [
           "Bothwell",
-          "Bothwell Castle",
-          "CC-BY-SA-3.0",
-          "Files with coordinates missing SDC location of creation (55° N, 5° W)",
-          "Self-published work",
-          "Taken with iPhone 5"
-        ]
+          "CC-BY-SA-2.0",
+          "Images by Jim Smillie",
+          "Images from Geograph Britain and Ireland",
+          "Information field template with formatting",
+          "Streets in South Lanarkshire"
+        ],
+        "mediumPath": "_m/g/c/v/j/bothwell-wp/main-street-bothwell-medium.webp",
+        "smallPath": "_m/g/c/v/j/bothwell-wp/main-street-bothwell-small.webp"
       },
       "images": [
         {
@@ -129,7 +131,7 @@
           "smallPath": "_m/g/c/v/j/bothwell-wp/you-can-t-have-your-cake-and-e-small.webp"
         },
         {
-          "path": "_m/g/c/v/j/bothwell-wp/bothwell-bridge-monument.jpg",
+          "path": "_m/g/c/v/j/battle-of-bothwell-bridge-wp/bothwell-bridge-monument.jpg",
           "filename": "Bothwell Bridge monument.jpeg",
           "caption": "Monument to the battle of Bothwell Bridge, where the Covenanters were defeated by the Royal army on 22 June 1679. Erected in 1903 at the north end of the rebuilt bridge. Inscription reads: \"In honour of the Covenanters who fought and fell in the Battle of Bothwell Bridge 22nd June 1679 in defence of civil and religious liberty - erected by public subscription 1903\"",
           "alt": "Monument to the battle of Bothwell Bridge, where the Covenanters were defeated by the Royal army on 22 June 1679. Erected in 1903 at the north end of the rebuilt bridge. Inscription reads: \"In honour of the Covenanters who fought and fell in the Battle of Bothwell Bridge 22nd June 1679 in defence of civil and religious liberty - erected by public subscription 1903\"",
@@ -154,7 +156,8 @@
             "Monuments and memorials in South Lanarkshire",
             "Obelisks in Scotland",
             "United Kingdom photographs taken on 2007-12-18"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/j/battle-of-bothwell-bridge-wp/bothwell-bridge-monument-small.webp"
         },
         {
           "path": "_m/g/c/v/j/bothwell-wp/bothwell-caledonian-rly-statio.jpg",

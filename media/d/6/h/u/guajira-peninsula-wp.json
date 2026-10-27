@@ -3,31 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/d/6/h/u/guajira-peninsula-wp/hero.jpg",
-        "filename": "Molino de viento (moderno) 2014-09-21 (3).jpg",
-        "caption": "This is a photo of a Colombian monument with location ID",
-        "alt": "This is a photo of a Colombian monument with location ID",
-        "width": 2448,
-        "height": 3264,
+        "path": "_m/d/6/h/u/guajira-peninsula-wp/colombia-s-la-guajira-peninsul.jpg",
+        "filename": "Colombia's La Guajira Peninsula on the Caribbean Sea (iss073e0379768).jpg",
+        "caption": "iss073e0379768 (July 20, 2025) --- Colombia's La Guajira Peninsula on the Caribbean Sea, with its desert region and beautiful coastline, is pictured from the International Space Station as it orbited 258 miles above.",
+        "alt": "iss073e0379768 (July 20, 2025) --- Colombia's La Guajira Peninsula on the Caribbean Sea, with its desert region and beautiful coastline, is pictured from the International Space Station as it orbited 258 miles above.",
+        "width": 8256,
+        "height": 5504,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Jorge Mahecha",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Molino_de_viento_(moderno)_2014-09-21_(3).jpg",
-        "sourceType": "core",
+        "license": "Public domain",
+        "artist": "NASA Johnson Space Center",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colombia%27s_La_Guajira_Peninsula_on_the_Caribbean_Sea_(iss073e0379768).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "guajira-peninsula-wp",
         "sourceGeohash4": "d6hu",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Colombia photographs taken on 2014-01-06",
-          "Images from Wiki Loves Monuments 2014",
-          "Images from Wiki Loves Monuments 2014 in Colombia",
-          "Images from Wiki Loves Monuments missing SDC depicts",
-          "Images from Wiki Loves Monuments missing SDC location of creation",
-          "Monuments in Colombia with known location IDs",
-          "Parque eólico Jepírachi",
-          "Self-published work",
-          "Uploaded via Campaign:wlm-co"
-        ]
+        "mediumPath": "_m/d/6/h/u/guajira-peninsula-wp/colombia-s-la-guajira-peninsul-medium.webp",
+        "smallPath": "_m/d/6/h/u/guajira-peninsula-wp/colombia-s-la-guajira-peninsul-small.webp"
       },
       "images": [
         {
@@ -56,7 +46,7 @@
           "smallPath": "_m/d/6/h/u/guajira-peninsula-wp/satgolfoven-small.webp"
         },
         {
-          "path": "_m/d/6/h/u/guajira-peninsula-wp/hero.png",
+          "path": "_m/d/6/h/d/uribia-la-guajira-wp/hero.png",
           "filename": "Geography map of Uribia, La Guajira.png",
           "caption": "Geography map of Uribia, La Guajira - Colombia",
           "alt": "Geography map of Uribia, La Guajira - Colombia",
@@ -77,7 +67,9 @@
             "License migration redundant",
             "Self-published work",
             "Topographic maps of La Guajira Department"
-          ]
+          ],
+          "mediumPath": "_m/d/6/h/d/uribia-la-guajira-wp/hero-medium.webp",
+          "smallPath": "_m/d/6/h/d/uribia-la-guajira-wp/hero-small.webp"
         },
         {
           "path": "_m/d/6/h/u/guajira-peninsula-wp/castilletes.jpg",
@@ -232,7 +224,9 @@
             "CC-BY-SA-3.0",
             "Self-published work",
             "Wikivoyage banners of Colombia"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pu/nt/a-/ga/punta-gallinas/punta-gallinas-medium.webp",
+          "smallPath": "_m/tpc/pu/nt/a-/ga/punta-gallinas/punta-gallinas-small.webp"
         },
         {
           "path": "_m/tpc/pu/nt/a-/ga/punta-gallinas/dunas-de-taroa.jpg",
@@ -253,7 +247,9 @@
             "Files with coordinates missing SDC location of creation",
             "Geography of La Guajira Department",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pu/nt/a-/ga/punta-gallinas/dunas-de-taroa-medium.webp",
+          "smallPath": "_m/tpc/pu/nt/a-/ga/punta-gallinas/dunas-de-taroa-small.webp"
         },
         {
           "path": "_m/tpc/pu/nt/a-/ga/punta-gallinas/bahia-hondita.jpg",
@@ -274,7 +270,9 @@
             "Files with coordinates missing SDC location of creation",
             "Geography of La Guajira Department",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pu/nt/a-/ga/punta-gallinas/bahia-hondita-medium.webp",
+          "smallPath": "_m/tpc/pu/nt/a-/ga/punta-gallinas/bahia-hondita-small.webp"
         },
         {
           "path": "_m/tpc/pu/nt/a-/ga/punta-gallinas/punta-gallinas-desert.jpg",
@@ -295,7 +293,9 @@
             "Files with coordinates missing SDC location of creation",
             "La Guajira desert",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pu/nt/a-/ga/punta-gallinas/punta-gallinas-desert-medium.webp",
+          "smallPath": "_m/tpc/pu/nt/a-/ga/punta-gallinas/punta-gallinas-desert-small.webp"
         }
       ],
       "narration": [

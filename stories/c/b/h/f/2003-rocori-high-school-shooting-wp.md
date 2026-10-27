@@ -36,7 +36,7 @@ Located at 45.463N, 94.428W in Stearns County, central Minnesota, approximately 
 - [Cold Spring School Shooting - Minnesota Public Radio](http://news.minnesota.publicradio.org/collections/special/2003/schoolshooting/)
 - [Eric Decker on experiencing school shooting](http://blogs.westword.com/latestword/2012/10/eric_decker_school_shooting_broncos_aurora.php)
 - [Teen killer ruled sane - CBS News](https://www.cbsnews.com/news/teen-killer-ruled-sane/)
-- [Wikipedia - 2003 Rocori High School shooting](https://en.wikipedia.org/wiki/2003_Rocori_High_School_shooting)
+- [Wikipedia - 2003 Rocori High School shooting](https://en.wikipedia.org/?curid=2265679)
   - Shooting date Sep 24, 2003 confirmed
   - Victims Seth Bartell age 14 and Aaron Rollins age 17 confirmed
   - McLaughlin sentenced life plus 12 years Aug 2005

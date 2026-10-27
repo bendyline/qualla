@@ -3,19 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/5/c/los-angeles-county-museum-of-art-wp/hero.jpg",
-        "filename": "Highsmithmaycompanywilshire.jpg",
-        "caption": "Former 1930s May Company department store — Art Deco and Streamline Moderne architecture styles.\nFormerly part of the Los Angeles County Museum of Art campus.\nFuture home of The Academy Museum of Motion Pictures, opening 2019.\nLocated on Wilshire Boulevard, at the western end of the Miracle Mile, Los Angeles.",
-        "alt": "Former 1930s May Company department store — Art Deco and Streamline Moderne architecture styles.\nFormerly part of the Los Angeles County Museum of Art campus.\nFuture home of The Academy Museum of Motion Pictures, opening 2019.\nLocated on Wilshire Boulevard, at the western end of the Miracle Mile, Los Angeles.",
-        "width": 4362,
-        "height": 3433,
+        "path": "_m/9/q/5/c/los-angeles-county-museum-of-art-wp/gallery-works-alberto.jpg",
+        "filename": "LACMA SW05.jpg",
+        "caption": "Gallery of works by Alberto Giacometti",
+        "alt": "Gallery of works by Alberto Giacometti",
+        "width": 6000,
+        "height": 4000,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Carol M. Highsmith",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Highsmithmaycompanywilshire.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Scotwriter21",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:LACMA_SW05.jpg",
         "sourceType": "core",
         "sourceArticleId": "los-angeles-county-museum-of-art-wp",
-        "sourceGeohash4": "9q5c"
+        "sourceGeohash4": "9q5c",
+        "mediumPath": "_m/9/q/5/c/los-angeles-county-museum-of-art-wp/gallery-works-alberto-medium.webp",
+        "smallPath": "_m/9/q/5/c/los-angeles-county-museum-of-art-wp/gallery-works-alberto-small.webp"
       },
       "images": [
         {
@@ -648,7 +650,7 @@
           "smallPath": "_m/9/q/5/c/los-angeles-county-museum-of-art-wp/jubaea-chilensis-los-angeles-c-small.webp"
         },
         {
-          "path": "_m/9/q/5/c/los-angeles-county-museum-of-art-wp/la-brea-tar-pits-5899907936.jpg",
+          "path": "_m/9/q/5/c/la-brea-tar-pits-wk/la-brea-tar-pits-5899907936.jpg",
           "filename": "La Brea Tar Pits (5899907936).jpg",
           "caption": "Seen from Los Angeles County Museum of Art.",
           "alt": "Seen from Los Angeles County Museum of Art.",
@@ -660,7 +662,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Brea_Tar_Pits_(5899907936).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "la-brea-tar-pits-wk",
-          "sourceGeohash4": "9q5c"
+          "sourceGeohash4": "9q5c",
+          "smallPath": "_m/9/q/5/c/la-brea-tar-pits-wk/la-brea-tar-pits-5899907936-small.webp"
         },
         {
           "path": "_m/9/q/5/c/los-angeles-county-museum-of-art-wp/stanley-kubrick-exhibit-012-87.jpg",
@@ -714,7 +717,7 @@
           "smallPath": "_m/9/q/5/c/los-angeles-county-museum-of-art-wp/apotre-mbaka-boniface-small.webp"
         },
         {
-          "path": "_m/9/q/5/c/los-angeles-county-museum-of-art-wp/lacma-bcam-and-palm-trees.jpg",
+          "path": "_m/9/q/5/c/los-angeles-wilshire-wk/lacma-bcam-and-palm-trees.jpg",
           "filename": "LACMA BCAM and palm trees.jpg",
           "caption": "The campus of the Los Angeles County Museum of Art.",
           "alt": "The campus of the Los Angeles County Museum of Art.",
@@ -726,7 +729,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:LACMA_BCAM_and_palm_trees.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "los-angeles-wilshire-wk",
-          "sourceGeohash4": "9q5c"
+          "sourceGeohash4": "9q5c",
+          "smallPath": "_m/9/q/5/c/los-angeles-wilshire-wk/lacma-bcam-and-palm-trees-small.webp"
         },
         {
           "path": "_m/9/q/5/c/los-angeles-county-museum-of-art-wp/chilla-kiana-with-trainee-in-j.jpg",
@@ -886,7 +890,9 @@
             "Self-published work",
             "Taken with Canon PowerShot G3",
             "United States photographs taken on 2004-04-15"
-          ]
+          ],
+          "mediumPath": "_m/9/q/5/c/la-brea-tar-pits-wk/hero-medium.webp",
+          "smallPath": "_m/9/q/5/c/la-brea-tar-pits-wk/hero-small.webp"
         },
         {
           "path": "_m/9/q/5/c/murder-of-the-notorious-b-i-g-wp/hero.jpg",
@@ -908,7 +914,8 @@
             "Self-published work",
             "Taken with Canon Digital IXUS v",
             "Wilshire Boulevard"
-          ]
+          ],
+          "smallPath": "_m/9/q/5/c/murder-of-the-notorious-b-i-g-wp/hero-small.webp"
         },
         {
           "path": "_m/9/q/5/c/los-angeles-wilshire-wk/cbs-televisioncity02.jpg",
@@ -933,7 +940,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon Digital IXUS v"
-          ]
+          ],
+          "smallPath": "_m/9/q/5/c/los-angeles-wilshire-wk/cbs-televisioncity02-small.webp"
         },
         {
           "path": "_m/9/q/5/c/la-brea-tar-pits-wk/labreatarpits01.jpg",
@@ -954,7 +962,8 @@
             "PD-self",
             "Self-published work",
             "Washingtonia filifera (cultivated)"
-          ]
+          ],
+          "smallPath": "_m/9/q/5/c/la-brea-tar-pits-wk/labreatarpits01-small.webp"
         },
         {
           "path": "_m/9/q/5/c/los-angeles-wilshire-wk/pinks-hot-dogs.jpg",
@@ -974,7 +983,8 @@
             "CC-BY-SA-3.0",
             "Pink's Hot Dogs",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "smallPath": "_m/9/q/5/c/los-angeles-wilshire-wk/pinks-hot-dogs-small.webp"
         },
         {
           "path": "_m/9/q/5/c/los-angeles-wilshire-wk/hit-week-2012-los-angeles-el-r.jpg",
@@ -996,7 +1006,8 @@
             "Marquees (signage) in Los Angeles",
             "Neon signs in Los Angeles",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/9/q/5/c/los-angeles-wilshire-wk/hit-week-2012-los-angeles-el-r-small.webp"
         },
         {
           "path": "_m/9/q/5/c/los-angeles-wilshire-wk/the-grove-los-angeles.jpg",
@@ -1015,7 +1026,9 @@
           "categories": [
             "2010 in tram transport in the United States",
             "CC-BY-2.0"
-          ]
+          ],
+          "mediumPath": "_m/9/q/5/c/los-angeles-wilshire-wk/the-grove-los-angeles-medium.webp",
+          "smallPath": "_m/9/q/5/c/los-angeles-wilshire-wk/the-grove-los-angeles-small.webp"
         }
       ],
       "narration": [

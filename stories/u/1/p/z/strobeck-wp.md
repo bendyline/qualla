@@ -40,7 +40,7 @@ Ströbeck lies at 51.917 N, 10.950 E on the flat, intensively farmed Harz forela
 
 ## Sources
 
-- [Ströbeck - Wikipedia](https://en.wikipedia.org/wiki/Str%C3%B6beck)
+- [Ströbeck - Wikipedia](https://en.wikipedia.org/?curid=495255)
   - First mentioned as Strebechi in 995, granted by Otto III to Adelaide, Abbess of Quedlinburg; 1004 to Drübeck Abbey by Henry II
   - Fief of the Bishopric of Halberstadt, then House of Regenstein, from 1343 the Counts of Wernigerode
   - Legend of Gunzelin of Kuckenburg imprisoned in the Wartturm around 1011 by Bishop Arnulf of Halberstadt - legend, not documented history

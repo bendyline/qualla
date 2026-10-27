@@ -3,25 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/j/8/scone-abbey-wp/hero.jpg",
-        "filename": "Replica of the Stone of Scone, Scone Palace, Scotland (8924541883).jpg",
-        "caption": "Replica of the Stone of Scone, Scone Palace, Scotland",
-        "alt": "Replica of the Stone of Scone, Scone Palace, Scotland",
+        "path": "_m/g/f/j/8/scone-abbey-wp/scone-palace-grounds-the-murra.jpg",
+        "filename": "Scone Palace Grounds, The Murray Star Maze 01.jpg",
+        "caption": "Scone Palace Grounds, The Murray Star Maze",
+        "alt": "Scone Palace Grounds, The Murray Star Maze",
         "width": 4000,
         "height": 3000,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Aaron Bradley from Vancouver, Canada",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Replica_of_the_Stone_of_Scone,_Scone_Palace,_Scotland_(8924541883).jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Palickap",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scone_Palace_Grounds,_The_Murray_Star_Maze_01.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "scone-abbey-wp",
         "sourceGeohash4": "gfj8",
         "categories": [
-          "CC-BY-SA-2.0",
-          "Files uploaded by INeverCry",
-          "Flickr images reviewed by FlickreviewR",
-          "Stone of Scone"
-        ]
+          "CC-BY-SA-4.0",
+          "Scone Abbey",
+          "Scone Palace hedge maze",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/g/f/j/8/scone-abbey-wp/scone-palace-grounds-the-murra-medium.webp",
+        "smallPath": "_m/g/f/j/8/scone-abbey-wp/scone-palace-grounds-the-murra-small.webp"
       },
       "images": [
         {
@@ -326,7 +328,8 @@
             "Buildings in Perth and Kinross",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/1/perthshire-wp/abberfeldy-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/schiehallion-east-aspect.jpg",
@@ -348,7 +351,9 @@
             "Schiehallion",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/schiehallion-east-aspect-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/schiehallion-east-aspect-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/pitlochry-church-2007.jpg",
@@ -369,7 +374,9 @@
             "Churches in Perth and Kinross",
             "Pitlochry Parish Church",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/pitlochry-church-2007-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/pitlochry-church-2007-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/schottland-blair-castle.jpg",
@@ -390,7 +397,8 @@
             "CC-BY-SA-3.0-migrated",
             "GFDL",
             "License migration completed"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/1/perthshire-wp/schottland-blair-castle-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/main-street-birnam-scotland.jpg",
@@ -409,7 +417,9 @@
           "categories": [
             "Birnam, Perth and Kinross",
             "CC-Zero"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/main-street-birnam-scotland-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/main-street-birnam-scotland-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr.jpg",
@@ -424,7 +434,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blair_Atholl_Post_Office_-_geograph_-_3206161-by-Andrew-Abbott.jpg",
           "sourceType": "poi",
           "sourceArticleId": "perthshire-wp",
-          "sourceGeohash4": "gfj1"
+          "sourceGeohash4": "gfj1",
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr-small.webp"
         }
       ],
       "narration": [

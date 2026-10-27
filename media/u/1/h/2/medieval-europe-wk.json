@@ -3,23 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/h/2/medieval-europe-wk/hero.jpg",
-        "filename": "The walls of the fortress and View of the old city. panorama.jpg",
-        "caption": "This is a photo of a cultural heritage in Croatia with ID: N-1",
-        "alt": "This is a photo of a cultural heritage in Croatia with ID: N-1",
-        "width": 3543,
-        "height": 2198,
+        "path": "_m/u/1/h/2/medieval-europe-wk/knights-royal-england.jpg",
+        "filename": "Knights of Royal England at Cardiff Castle.jpg",
+        "caption": "Knights of Royal England at Cardiff Castle",
+        "alt": "Knights of Royal England at Cardiff Castle",
+        "width": 4680,
+        "height": 3132,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Zysko serhii",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg",
+        "artist": "National jousting association",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knights_of_Royal_England_at_Cardiff_Castle.jpg",
         "sourceType": "core",
         "sourceArticleId": "medieval-europe-wk",
-        "sourceGeohash4": "u1h2"
+        "sourceGeohash4": "u1h2",
+        "mediumPath": "_m/u/1/h/2/medieval-europe-wk/knights-royal-england-medium.webp",
+        "smallPath": "_m/u/1/h/2/medieval-europe-wk/knights-royal-england-small.webp"
       },
       "images": [
         {
-          "path": "_m/u/1/h/2/medieval-europe-wk/hero.jpg",
+          "path": "_m/u/d/8/v/raseborg-castle-wp/hero.jpg",
           "filename": "Raseborg 06042008 Innenhof 01.JPG",
           "caption": "Die Burgruine Raseborg bei Snappertuna (Südfinnland)",
           "alt": "Die Burgruine Raseborg bei Snappertuna (Südfinnland)",
@@ -41,8 +43,8 @@
             "Self-published work",
             "Taken with Olympus E-510"
           ],
-          "mediumPath": "_m/u/1/h/2/medieval-europe-wk/hero-medium.webp",
-          "smallPath": "_m/u/1/h/2/medieval-europe-wk/hero-small.webp"
+          "mediumPath": "_m/u/d/8/v/raseborg-castle-wp/hero-medium.webp",
+          "smallPath": "_m/u/d/8/v/raseborg-castle-wp/hero-small.webp"
         },
         {
           "path": "_m/u/1/h/2/medieval-europe-wk/second-mathilda-cross.jpg",
@@ -89,7 +91,7 @@
           "smallPath": "_m/u/1/h/2/medieval-europe-wk/trier-cathedral-small.webp"
         },
         {
-          "path": "_m/u/1/h/2/medieval-europe-wk/cathedral-notre-dame-d.jpg",
+          "path": "_m/u/0/9/t/notre-dame-de-paris-wp/cathedral-notre-dame-d.jpg",
           "filename": "Notre-Dame de Paris 2013-07-24.jpg",
           "caption": "Cathedral Notre Dame de Paris, West view, Paris, France",
           "alt": "Cathedral Notre Dame de Paris, West view, Paris, France",
@@ -101,7 +103,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_2013-07-24.jpg",
           "sourceType": "core",
           "sourceArticleId": "medieval-europe-wk",
-          "sourceGeohash4": "u1h2"
+          "sourceGeohash4": "u1h2",
+          "mediumPath": "_m/u/0/9/t/notre-dame-de-paris-wp/cathedral-notre-dame-d-medium.webp",
+          "smallPath": "_m/u/0/9/t/notre-dame-de-paris-wp/cathedral-notre-dame-d-small.webp"
         },
         {
           "path": "_m/u/1/h/2/medieval-europe-wk/sicht-auf-worms-2014.jpg",
@@ -193,7 +197,8 @@
             "PD-Art missing SDC copyright status",
             "PD-old missing SDC copyright status",
             "Verso of Book of Kells folios"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/dublin-wp/kellsfol032vchristenthroned-small.webp"
         },
         {
           "path": "_m/s/p/g/9/senanque-abbey-wp/abbey-senanque-located.jpg",
@@ -212,7 +217,8 @@
           "categories": [
             "Exterior of Abbaye de Sénanque",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/s/p/g/9/senanque-abbey-wp/abbey-senanque-located-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/les-tres-riches-heures-du-duc-.jpg",
@@ -242,7 +248,8 @@
             "People with donkeys in art",
             "Template Unknown (source)",
             "Winter landscape paintings"
-          ]
+          ],
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/les-tres-riches-heures-du-duc--small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/crac-des-chevaliers-syria.jpg",
@@ -267,7 +274,9 @@
             "Valued images of Syria",
             "Valued images promoted 2010-05",
             "Valued images sorted by promotion date"
-          ]
+          ],
+          "mediumPath": "_m/tpc/me/di/ev/al/medieval-europe/crac-des-chevaliers-syria-medium.webp",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/crac-des-chevaliers-syria-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/bonaventura-berlinghieri-franc.jpg",
@@ -281,7 +290,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bonaventura_Berlinghieri_Francesco.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/bonaventura-berlinghieri-franc-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/europe-map-450.png",
@@ -294,7 +304,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Europe_map_450.PNG",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/europe-map-450-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/europe-mediterranean-1190.jpg",
@@ -309,7 +320,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Europe_mediterranean_1190.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "mediumPath": "_m/tpc/me/di/ev/al/medieval-europe/europe-mediterranean-1190-medium.webp",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/europe-mediterranean-1190-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/nef-cathedrale-laon.jpg",
@@ -322,7 +335,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nef_cath%C3%A9drale_Laon.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/nef-cathedrale-laon-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/richard-of-wallingford.jpg",
@@ -335,7 +349,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Richard_of_Wallingford.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/richard-of-wallingford-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/gossuin-de-metz-l-image-du-mon.jpg",
@@ -350,7 +365,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gossuin_de_Metz_-_L%27image_du_monde_-_BNF_Fr._574_fo42.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "mediumPath": "_m/tpc/me/di/ev/al/medieval-europe/gossuin-de-metz-l-image-du-mon-medium.webp",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/gossuin-de-metz-l-image-du-mon-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/tommaso-da-modena-ritratti-di-.jpg",
@@ -365,7 +382,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tommaso_da_modena,_ritratti_di_domenicani_(Ugo_di_Provenza)_1352_150cm,_treviso,_ex_convento_di_san_niccol%C3%B2,_sala_del_capitolo.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/tommaso-da-modena-ritratti-di--small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/maria-lach-02.jpg",
@@ -380,7 +398,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maria_Lach_02.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/maria-lach-02-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/kloster-lorsch-07.jpg",
@@ -395,7 +414,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kloster_Lorsch_07.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "mediumPath": "_m/tpc/me/di/ev/al/medieval-europe/kloster-lorsch-07-medium.webp",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/kloster-lorsch-07-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/contemporaine-afb-jeanne-d-arc.png",
@@ -410,7 +431,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Contemporaine_afb_jeanne_d_arc.png",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/contemporaine-afb-jeanne-d-arc-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/07-gregoire-xi-couronne-par-gu.jpg",
@@ -425,7 +447,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:07_Gr%C3%A9goire_XI_(couronn%C3%A9_par_Guy_de_Boulogne).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/07-gregoire-xi-couronne-par-gu-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/petrus-alphonsi-dialogues.jpg",
@@ -440,7 +463,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Petrus_alphonsi_dialogues.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/petrus-alphonsi-dialogues-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/fruhmittelalterliches-dorf.jpg",
@@ -455,7 +479,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fr%C3%BChmittelalterliches_Dorf.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "mediumPath": "_m/tpc/me/di/ev/al/medieval-europe/fruhmittelalterliches-dorf-medium.webp",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/fruhmittelalterliches-dorf-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/christ-magdeburg-cathedral-met.jpg",
@@ -469,7 +495,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christ_Magdeburg_Cathedral_Met_41.100.157.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "mediumPath": "_m/tpc/me/di/ev/al/medieval-europe/christ-magdeburg-cathedral-met-medium.webp",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/christ-magdeburg-cathedral-met-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/bayeux-tapestry-scene44-willia.jpg",
@@ -484,7 +512,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene44_William_Odo_Robert.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "mediumPath": "_m/tpc/me/di/ev/al/medieval-europe/bayeux-tapestry-scene44-willia-medium.webp",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/bayeux-tapestry-scene44-willia-small.webp"
         },
         {
           "path": "_m/u/1/h/2/aachen-cathedral-wp/aachener-dom-pfalzkape.jpg",
@@ -499,7 +529,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aachener_Dom_Pfalzkapelle_vom_M%C3%BCnsterplatz_2014.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "aachen-cathedral-wp",
-          "sourceGeohash4": "u1h2"
+          "sourceGeohash4": "u1h2",
+          "mediumPath": "_m/u/1/h/2/aachen-cathedral-wp/aachener-dom-pfalzkape-medium.webp",
+          "smallPath": "_m/u/1/h/2/aachen-cathedral-wp/aachener-dom-pfalzkape-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/sanvitale03.jpg",
@@ -514,7 +546,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sanvitale03.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "mediumPath": "_m/tpc/me/di/ev/al/medieval-europe/sanvitale03-medium.webp",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/sanvitale03-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/europe-and-the-near-east-at-47.png",
@@ -529,7 +563,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Europe_and_the_Near_East_at_476_AD.png",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "mediumPath": "_m/tpc/me/di/ev/al/medieval-europe/europe-and-the-near-east-at-47-medium.webp",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/europe-and-the-near-east-at-47-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/canterbury-cathedral-window-nx.jpg",
@@ -544,7 +580,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canterbury_Cathedral,_window_nXV_detail_(46220634195).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "mediumPath": "_m/tpc/me/di/ev/al/medieval-europe/canterbury-cathedral-window-nx-medium.webp",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/canterbury-cathedral-window-nx-small.webp"
         },
         {
           "path": "_m/tpc/me/di/ev/al/medieval-europe/europe-in-900-ad.png",
@@ -559,7 +597,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Europe_in_900_AD.png",
           "sourceType": "sibling",
           "sourceArticleId": "medieval-europe",
-          "sourceGeohash4": "tpc/me/di/ev/al"
+          "sourceGeohash4": "tpc/me/di/ev/al",
+          "mediumPath": "_m/tpc/me/di/ev/al/medieval-europe/europe-in-900-ad-medium.webp",
+          "smallPath": "_m/tpc/me/di/ev/al/medieval-europe/europe-in-900-ad-small.webp"
         },
         {
           "path": "_m/u/1/h/2/franks-wk/santa-maria-val-muestair.jpg",
@@ -586,7 +626,9 @@
             "Quality images of the canton of Graubünden",
             "Santa Maria Val Müstair",
             "Taken with Nikon D80"
-          ]
+          ],
+          "mediumPath": "_m/u/1/h/2/franks-wk/santa-maria-val-muestair-medium.webp",
+          "smallPath": "_m/u/1/h/2/franks-wk/santa-maria-val-muestair-small.webp"
         },
         {
           "path": "_m/s/p/u/6/provence-wp/2360-blick-vom-ufer-der-rhone-.jpg",
@@ -608,7 +650,9 @@
             "License migration completed",
             "Rhône River in Arles",
             "Taken with Panasonic Lumix DMC-LZ3"
-          ]
+          ],
+          "mediumPath": "_m/s/p/u/6/provence-wp/2360-blick-vom-ufer-der-rhone--medium.webp",
+          "smallPath": "_m/s/p/u/6/provence-wp/2360-blick-vom-ufer-der-rhone--small.webp"
         },
         {
           "path": "_m/u/1/h/2/franks-wk/lorsch.jpg",
@@ -632,7 +676,8 @@
             "Self-published work",
             "Taken with Canon PowerShot S2 IS",
             "Torhalle Lorsch"
-          ]
+          ],
+          "smallPath": "_m/u/1/h/2/franks-wk/lorsch-small.webp"
         },
         {
           "path": "_m/u/1/h/2/franks-wk/burgkirche2010.jpg",
@@ -655,7 +700,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Fujifilm FinePix S1600"
-          ]
+          ],
+          "mediumPath": "_m/u/1/h/2/franks-wk/burgkirche2010-medium.webp",
+          "smallPath": "_m/u/1/h/2/franks-wk/burgkirche2010-small.webp"
         },
         {
           "path": "_m/tpc/cr/us/ad/es/crusades/sidonnewcity.jpg",
@@ -676,7 +723,9 @@
             "Photographs taken on 2005-07-24",
             "Self-published work",
             "Views of Sidon"
-          ]
+          ],
+          "mediumPath": "_m/tpc/cr/us/ad/es/crusades/sidonnewcity-medium.webp",
+          "smallPath": "_m/tpc/cr/us/ad/es/crusades/sidonnewcity-small.webp"
         },
         {
           "path": "_m/tpc/cr/us/ad/es/crusades/byzantine-constantinople-en.png",
@@ -703,7 +752,9 @@
             "Maps of Constantinople",
             "Maps with the walls of Constantinople",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/cr/us/ad/es/crusades/byzantine-constantinople-en-medium.webp",
+          "smallPath": "_m/tpc/cr/us/ad/es/crusades/byzantine-constantinople-en-small.webp"
         },
         {
           "path": "_m/tpc/cr/us/ad/es/crusades/antiochia-su-oronte.png",
@@ -729,7 +780,8 @@
             "Maps of the Roman Levant",
             "Self-published work",
             "Vector version available"
-          ]
+          ],
+          "smallPath": "_m/tpc/cr/us/ad/es/crusades/antiochia-su-oronte-small.webp"
         },
         {
           "path": "_m/s/r/3/n/lazio-wp/rome-skyline-8012016319.jpg",
@@ -753,7 +805,9 @@
             "Taken with Sony SLT-A77",
             "Views of Rome from Castel Sant'Angelo",
             "Views of Vittoriano from Castel Sant'Angelo (Rome)"
-          ]
+          ],
+          "mediumPath": "_m/s/r/3/n/lazio-wp/rome-skyline-8012016319-medium.webp",
+          "smallPath": "_m/s/r/3/n/lazio-wp/rome-skyline-8012016319-small.webp"
         },
         {
           "path": "_m/tpc/cr/us/ad/es/crusades/aerial-view-of-acre-1.jpg",
@@ -779,7 +833,9 @@
             "Israel photographs taken on 2012-07-25",
             "Photos by Itamar Grinberg",
             "The western sea wall, Acre"
-          ]
+          ],
+          "mediumPath": "_m/tpc/cr/us/ad/es/crusades/aerial-view-of-acre-1-medium.webp",
+          "smallPath": "_m/tpc/cr/us/ad/es/crusades/aerial-view-of-acre-1-small.webp"
         },
         {
           "path": "_m/tpc/cr/us/ad/es/crusades/erik-den-helige-och-biskop-hen.jpg",
@@ -806,7 +862,8 @@
             "PD-Art missing SDC copyright status",
             "PD-old missing SDC copyright status",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/tpc/cr/us/ad/es/crusades/erik-den-helige-och-biskop-hen-small.webp"
         },
         {
           "path": "_m/tpc/mo/se/s_/__/moses/dome-of-the-rock-seen-from-the.jpg",
@@ -821,7 +878,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dome_of_the_Rock_seen_from_the_Mount_of_Olives_(12395649153)_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "moses",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/mo/se/s_/__/moses/dome-of-the-rock-seen-from-the-medium.webp",
+          "smallPath": "_m/tpc/mo/se/s_/__/moses/dome-of-the-rock-seen-from-the-small.webp"
         },
         {
           "path": "_m/tpc/ki/ng/do/m-/kingdom-of-france/battle-of-crecy-froissart.jpg",
@@ -888,7 +947,9 @@
             "Solid gray flags",
             "Swords in art of France",
             "Yellow on flags with red fields"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-france/battle-of-crecy-froissart-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-france/battle-of-crecy-froissart-small.webp"
         },
         {
           "path": "_m/tpc/ki/ng/do/m-/kingdom-of-france/verdun-4juni2006-033.jpg",
@@ -903,7 +964,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Verdun_4juni2006_033.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kingdom-of-france",
-          "sourceGeohash4": "tpc/ki/ng/do/m-"
+          "sourceGeohash4": "tpc/ki/ng/do/m-",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-france/verdun-4juni2006-033-small.webp"
         },
         {
           "path": "_m/tpc/ki/ng/do/m-/kingdom-of-france/cathedrale-de-noyon.jpg",
@@ -918,7 +980,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_de_Noyon.JPG",
           "sourceType": "poi",
           "sourceArticleId": "kingdom-of-france",
-          "sourceGeohash4": "tpc/ki/ng/do/m-"
+          "sourceGeohash4": "tpc/ki/ng/do/m-",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-france/cathedrale-de-noyon-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-france/cathedrale-de-noyon-small.webp"
         },
         {
           "path": "_m/g/b/w/u/mont-saint-michel-wk/hero.jpg",
@@ -933,7 +997,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mont_St_Michel_3,_Brittany,_France_-_July_2011.jpg",
           "sourceType": "poi",
           "sourceArticleId": "mont-saint-michel-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/g/b/w/u/mont-saint-michel-wk/hero-medium.webp",
+          "smallPath": "_m/g/b/w/u/mont-saint-michel-wk/hero-small.webp"
         },
         {
           "path": "_m/tpc/ki/ng/do/m-/kingdom-of-france/vue-aerienne-du-domaine-de-ver.jpg",
@@ -948,7 +1014,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_073.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kingdom-of-france",
-          "sourceGeohash4": "tpc/ki/ng/do/m-"
+          "sourceGeohash4": "tpc/ki/ng/do/m-",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-france/vue-aerienne-du-domaine-de-ver-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-france/vue-aerienne-du-domaine-de-ver-small.webp"
         },
         {
           "path": "_m/tpc/ki/ng/do/m-/kingdom-of-france/la-tour-eiffel-vue-de-la-tour-.jpg",
@@ -963,7 +1031,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
           "sourceType": "poi",
           "sourceArticleId": "kingdom-of-france",
-          "sourceGeohash4": "tpc/ki/ng/do/m-"
+          "sourceGeohash4": "tpc/ki/ng/do/m-",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-france/la-tour-eiffel-vue-de-la-tour--medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-france/la-tour-eiffel-vue-de-la-tour--small.webp"
         },
         {
           "path": "_m/tpc/ki/ng/do/m-/kingdom-of-france/138-place-de-la-bourse-et-le-m.jpg",
@@ -978,7 +1048,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:138_-_Place_de_la_Bourse_et_le_miroir_d%27eau_-_Bordeaux.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kingdom-of-france",
-          "sourceGeohash4": "tpc/ki/ng/do/m-"
+          "sourceGeohash4": "tpc/ki/ng/do/m-",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-france/138-place-de-la-bourse-et-le-m-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-france/138-place-de-la-bourse-et-le-m-small.webp"
         },
         {
           "path": "_m/u/0/2/h/loire-valley-wp/orleans-l-automne-est-la.jpg",
@@ -993,7 +1065,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orl%C3%A9ans,_l%27automne_est_l%C3%A0_!.jpg",
           "sourceType": "poi",
           "sourceArticleId": "loire-valley-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/u/0/2/h/loire-valley-wp/orleans-l-automne-est-la-medium.webp",
+          "smallPath": "_m/u/0/2/h/loire-valley-wp/orleans-l-automne-est-la-small.webp"
         },
         {
           "path": "_m/u/0/t/s/grand-est-wp/collage-reims.jpg",
@@ -1008,7 +1082,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collage_Reims.jpg",
           "sourceType": "poi",
           "sourceArticleId": "grand-est-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/u/0/t/s/grand-est-wp/collage-reims-small.webp"
         },
         {
           "path": "_m/tpc/ki/ng/do/m-/kingdom-of-france/wikivoyage-banner-nocret-louis.jpg",
@@ -1023,7 +1098,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wikivoyage_banner_Nocret_Louis_XIV.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kingdom-of-france",
-          "sourceGeohash4": "tpc/ki/ng/do/m-"
+          "sourceGeohash4": "tpc/ki/ng/do/m-",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-france/wikivoyage-banner-nocret-louis-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-france/wikivoyage-banner-nocret-louis-small.webp"
         }
       ],
       "narration": [

@@ -3,19 +3,32 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/e/3/5/cafayate-wp/hero.jpg",
-        "filename": "Vineyards near mountains.jpg",
-        "caption": "A winery near Cafayate, Salta Province (Argentina).",
-        "alt": "A winery near Cafayate, Salta Province (Argentina).",
-        "width": 1600,
-        "height": 1071,
+        "path": "_m/6/e/3/5/cafayate-wp/valle-de-cafayate.jpg",
+        "filename": "Valle de Cafayate.jpg",
+        "caption": "Vista de Cafayate desde el cerro de Santa Teresita",
+        "alt": "Vista de Cafayate desde el cerro de Santa Teresita",
+        "width": 15624,
+        "height": 2500,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Jlla00",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vineyards_near_mountains.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Gonzalo Rivero",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valle_de_Cafayate.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "cafayate-wp",
-        "sourceGeohash4": "6e35"
+        "sourceGeohash4": "6e35",
+        "categories": [
+          "CC-BY-SA-4.0",
+          "Cafayate",
+          "Created with Hugin",
+          "Files with coordinates missing SDC location of creation",
+          "PNG created with GIMP",
+          "Self-published work",
+          "Taken with Panasonic Lumix DMC-G10",
+          "Uploaded via Campaign:Wiki Tour Argentina 2014",
+          "Wiki Tour Argentina 2014"
+        ],
+        "mediumPath": "_m/6/e/3/5/cafayate-wp/valle-de-cafayate-medium.webp",
+        "smallPath": "_m/6/e/3/5/cafayate-wp/valle-de-cafayate-small.webp"
       },
       "images": [
         {
@@ -159,7 +172,7 @@
           "smallPath": "_m/6/e/3/5/cafayate-wp/winery-near-cafayate-s-2-small.webp"
         },
         {
-          "path": "_m/6/e/3/5/cafayate-wp/hero.jpg",
+          "path": "_m/6/e/3/1/calchaqui-valley-wp/hero.jpg",
           "filename": "Tour to the Quebrada de las Conchas.jpg",
           "caption": "Conchas Valley, Salta (Argentina).",
           "alt": "Conchas Valley, Salta (Argentina).",
@@ -171,7 +184,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tour_to_the_Quebrada_de_las_Conchas.jpg",
           "sourceType": "core",
           "sourceArticleId": "cafayate-wp",
-          "sourceGeohash4": "6e35"
+          "sourceGeohash4": "6e35",
+          "smallPath": "_m/6/e/3/1/calchaqui-valley-wp/hero-small.webp"
         },
         {
           "path": "_m/6/e/3/5/cafayate-wp/amphitheatre-la-quebra.jpg",

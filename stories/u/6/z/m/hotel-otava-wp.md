@@ -36,7 +36,7 @@ Hotel Otava stands at 61.489N, 21.791E in the Kivi-Pori stone quarter of central
 
 ## Sources
 
-- [Hotel Otava - Wikipedia](https://en.wikipedia.org/wiki/Hotel_Otava)
+- [Hotel Otava - Wikipedia](https://en.wikipedia.org/?curid=40036227)
   - Operated 1857-1985; at closing the oldest hotel-restaurant in Finland
   - Neo-Renaissance building by C. J. von Heideken
   - Named after Otava, the Finnish name for the Big Dipper

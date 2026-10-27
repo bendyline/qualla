@@ -37,7 +37,7 @@ Located at 36.81N, 140.12E on the northern Kanto Plain along the Naka River in T
   - Tokugawa Mitsukuni was grandson of Tokugawa Ieyasu confirmed
   - Compiled Dai Nihon-shi, eventually 397 volumes, completed 1906 confirmed
   - Daimyo of Mito Domain confirmed
-- [Samuraizuka Kofun - Wikipedia](https://en.wikipedia.org/wiki/Samuraizuka_Kofun)
+- [Samuraizuka Kofun - Wikipedia](https://en.wikipedia.org/?curid=65424493)
   - Kamisamuraizuka total length 114 meters confirmed
   - Shimosamuraizuka total length 84 meters confirmed
   - Both designated National Historic Sites 1951 confirmed

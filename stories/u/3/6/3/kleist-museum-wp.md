@@ -36,7 +36,7 @@ The Kleist Museum stands at 52.34 N, 14.56 E on Faberstraße in central Frankfur
 
 ## Sources
 
-- [Kleist Museum](https://en.wikipedia.org/wiki/Kleist_Museum)
+- [Kleist Museum](https://en.wikipedia.org/?curid=42598172)
   - Museum on Faberstraße in Frankfurt (Oder), dedicated to Heinrich von Kleist
   - First museum opened 1922/23 in Kleist's birth house; Kleist-Gesellschaft founded 4 March 1920 in Berlin with seat in Frankfurt (Oder); idea dates from 1919 (de.wikipedia)
   - 1937 Oderland Museum Kleist exhibition in the Lienau House merged in; both houses destroyed April 1945

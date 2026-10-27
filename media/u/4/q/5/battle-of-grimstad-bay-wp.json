@@ -10,9 +10,54 @@
         "_m/u/4/q/5/battle-of-grimstad-bay-wp/u4q5-battle-of-grimstad-bay-small-wars-along-the-coast.mp3",
         "_m/u/4/q/5/battle-of-grimstad-bay-wp/u4q5-battle-of-grimstad-bay-grimstad-remembers.mp3"
       ],
+      "hero": {
+        "path": "_m/u/4/q/5/battle-of-grimstad-bay-wp/hero.png",
+        "filename": "Battle of Grimstad bay depiction.png",
+        "caption": "Depiction of the Battle of Grimstad bay",
+        "alt": "Depiction of the Battle of Grimstad bay",
+        "width": 1328,
+        "height": 1014,
+        "mimeType": "image/png",
+        "license": "CC0",
+        "artist": "GusGusBrus",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battle_of_Grimstad_bay_depiction.png",
+        "sourceType": "core",
+        "sourceArticleId": "battle-of-grimstad-bay-wp",
+        "sourceGeohash4": "u4q5",
+        "categories": [
+          "CC-Zero",
+          "Maps of Grimstad",
+          "Self-published work"
+        ],
+        "smallPath": "_m/u/4/q/5/battle-of-grimstad-bay-wp/hero-small.webp"
+      },
+      "images": [
+        {
+          "path": "_m/u/4/q/5/battle-of-grimstad-bay-wp/map-vikkilen-roresande.png",
+          "filename": "Vikkilen map.png",
+          "caption": "Map of Vikkilen and Roresanden",
+          "alt": "Map of Vikkilen and Roresanden",
+          "width": 1500,
+          "height": 568,
+          "mimeType": "image/png",
+          "license": "CC0",
+          "artist": "GusGusBrus",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vikkilen_map.png",
+          "sourceType": "core",
+          "sourceArticleId": "battle-of-grimstad-bay-wp",
+          "sourceGeohash4": "u4q5",
+          "categories": [
+            "CC-Zero",
+            "Old maps of Grimstad",
+            "Self-published work"
+          ],
+          "smallPath": "_m/u/4/q/5/battle-of-grimstad-bay-wp/map-vikkilen-roresande-small.webp"
+        }
+      ],
       "combinedNarration": "_m/u/4/q/5/battle-of-grimstad-bay-wp/u4q5-battle-of-grimstad-bay-combined.mp3",
-      "combinedNarrationBytes": 3245075,
-      "combinedNarrationDuration": 270
+      "combinedNarrationBytes": 3361155,
+      "combinedNarrationDuration": 270,
+      "combinedCover": "_m/u/4/q/5/battle-of-grimstad-bay-wp/u4q5-battle-of-grimstad-bay-combined-cover.jpg"
     }
   }
 }

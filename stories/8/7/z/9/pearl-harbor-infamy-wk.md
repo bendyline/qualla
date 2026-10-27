@@ -32,7 +32,7 @@ Pearl Harbor National Memorial is located on Oahu, Hawaii, approximately 30 minu
 
 ## Flight Context
 
-Located at 21.37°N, 157.95°W on the southern shore of Oahu, Hawaii. From altitude, Pearl Harbor's distinctive shape is clear - a lochs pattern extending inland from the channel entrance, Ford Island in the center where Battleship Row once anchored. The white Arizona Memorial is visible as a small structure over the sunken battleship near Ford Island's southern shore. The Missouri is moored nearby, gray against the blue water. Hickam Air Force Base abuts the harbor; Honolulu International's runways extend west. The harbor remains an active Navy base; carrier groups occasionally visible at berth. What appears from altitude as a working military port is America's most solemn war memorial - the place where the 20th century's defining conflict began for the nation that would end it.
+Located at 21.37°N, 157.95°W on the southern shore of Oahu, Hawaii. From altitude, Pearl Harbor's distinctive shape is clear - a lochs pattern extending inland from the channel entrance, Ford Island in the center where Battleship Row once anchored. The white Arizona Memorial is visible as a small structure over the sunken battleship near Ford Island's southern shore. The Missouri is moored nearby, gray against the blue water. Hickam Air Force Base abuts the harbor; the runways of Daniel K. Inouye International Airport (formerly Honolulu International) extend west. The harbor remains an active Navy base; carrier groups occasionally visible at berth. What appears from altitude as a working military port is America's most solemn war memorial - the place where the 20th century's defining conflict began for the nation that would end it.
 
 ## Sources
 

@@ -3,32 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/k/7/6/b/luderitz-wk/hero.jpg",
-        "filename": "Waves in pacifica 1.jpg",
-        "caption": "Sea Storm in Pacifica, w:California",
-        "alt": "Sea Storm in Pacifica, w:California",
-        "width": 2000,
-        "height": 1358,
+        "path": "_m/k/7/6/b/luderitz-wk/hafen-luderitz.jpg",
+        "filename": "Hafen Lüderitz.jpg",
+        "caption": "Hafen Lüderitz",
+        "alt": "Hafen Lüderitz",
+        "width": 5472,
+        "height": 3648,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Brocken Inaglory",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waves_in_pacifica_1.jpg",
-        "sourceType": "core",
+        "artist": "Hp.Baumeler",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hafen_L%C3%BCderitz.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "luderitz-wk",
         "sourceGeohash4": "k76b",
         "categories": [
-          "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
-          "California Coast",
-          "GFDL",
-          "Images with extracted images",
-          "License migration redundant",
-          "Ocean surface waves",
+          "2016 aerial photographs of Namibia",
+          "Aerial photographs of Lüderitz",
+          "CC-BY-SA-4.0",
+          "Files with coordinates missing SDC location of creation",
+          "Lüderitz Bay",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/k/7/6/b/luderitz-wk/hafen-luderitz-medium.webp",
+        "smallPath": "_m/k/7/6/b/luderitz-wk/hafen-luderitz-small.webp"
       },
       "images": [
         {
-          "path": "_m/k/7/6/b/luderitz-wk/hero.jpg",
+          "path": "_m/k/6/g/w/bom-jesus-ship-wp/hero.jpg",
           "filename": "Namibia relief location map.jpg",
           "caption": "Physical location map of Namibia",
           "alt": "Physical location map of Namibia",
@@ -47,7 +48,8 @@
             "GFDL",
             "License migration redundant",
             "Relief location maps of Namibia"
-          ]
+          ],
+          "smallPath": "_m/k/6/g/w/bom-jesus-ship-wp/hero-small.webp"
         },
         {
           "path": "_m/k/7/6/b/luderitz-wk/die-gartenlaube-1884-b-614.jpg",
@@ -379,7 +381,7 @@
           "smallPath": "_m/k/7/6/b/luderitz-wk/hake-longliner-19003406540-small.webp"
         },
         {
-          "path": "_m/k/7/6/b/luderitz-wk/admiralty-chart-no-3861-anchor.jpg",
+          "path": "_m/k/6/g/t/oranjemund-wk/admiralty-chart-no-3861-anchor.jpg",
           "filename": "Admiralty Chart No 3861 Anchorages on the South West Coast of Africa, Published 1964.jpg",
           "caption": "Nautical chart of Anchorages on the South West Coast of Africa. Not current - not to be used for navigation!",
           "alt": "Nautical chart of Anchorages on the South West Coast of Africa. Not current - not to be used for navigation!",
@@ -391,7 +393,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_3861_Anchorages_on_the_South_West_Coast_of_Africa,_Published_1964.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "oranjemund-wk",
-          "sourceGeohash4": "k76b"
+          "sourceGeohash4": "k76b",
+          "mediumPath": "_m/k/6/g/t/oranjemund-wk/admiralty-chart-no-3861-anchor-medium.webp",
+          "smallPath": "_m/k/6/g/t/oranjemund-wk/admiralty-chart-no-3861-anchor-small.webp"
         },
         {
           "path": "_m/k/7/6/b/luderitz-wk/plan-of-angra-pequena-on-the-c.jpg",
@@ -446,7 +450,8 @@
             "Hotels in Namibia",
             "Pictures of user:Hsuepfle",
             "Taken with Canon PowerShot A80"
-          ]
+          ],
+          "smallPath": "_m/tpc/ko/lm/an/sk/kolmanskop/kapps-ballsaal-felsenkirche-go-small.webp"
         },
         {
           "path": "_m/tpc/ko/lm/an/sk/kolmanskop/namibie-luderitz-05.jpg",
@@ -473,7 +478,9 @@
             "License migration redundant",
             "Photographs by Calips",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ko/lm/an/sk/kolmanskop/namibie-luderitz-05-medium.webp",
+          "smallPath": "_m/tpc/ko/lm/an/sk/kolmanskop/namibie-luderitz-05-small.webp"
         },
         {
           "path": "_m/tpc/ko/lm/an/sk/kolmanskop/halifax-island-namibia.jpg",
@@ -496,7 +503,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot SX10 IS"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ko/lm/an/sk/kolmanskop/halifax-island-namibia-medium.webp",
+          "smallPath": "_m/tpc/ko/lm/an/sk/kolmanskop/halifax-island-namibia-small.webp"
         },
         {
           "path": "_m/tpc/ko/lm/an/sk/kolmanskop/kolmanskop1-flip666.jpg",
@@ -522,7 +531,8 @@
             "November 2006 in Namibia",
             "Self-published work",
             "Taken with Casio Exilim EX-Z50"
-          ]
+          ],
+          "smallPath": "_m/tpc/ko/lm/an/sk/kolmanskop/kolmanskop1-flip666-small.webp"
         },
         {
           "path": "_m/tpc/ko/lm/an/sk/kolmanskop/luderitz-airport.jpg",
@@ -537,7 +547,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:L%C3%BCderitz_Airport.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kolmanskop",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/ko/lm/an/sk/kolmanskop/luderitz-airport-medium.webp",
+          "smallPath": "_m/tpc/ko/lm/an/sk/kolmanskop/luderitz-airport-small.webp"
         },
         {
           "path": "_m/tpc/ko/lm/an/sk/kolmanskop/berg-street-18636357723.jpg",
@@ -552,7 +564,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berg_Street_(18636357723).jpg",
           "sourceType": "poi",
           "sourceArticleId": "kolmanskop",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/ko/lm/an/sk/kolmanskop/berg-street-18636357723-small.webp"
         }
       ],
       "narration": [

@@ -33,7 +33,7 @@ Located at 6.17S, 106.82E on Veteran Street in Central Jakarta, the palace compo
 ## Sources
 
 - [Istana Negara (Jakarta) - Wikipedia](https://en.wikipedia.org/?curid=2230468)
-- [Istana Negara (Jakarta) - Wikipedia](https://en.wikipedia.org/wiki/Istana_Negara_(Jakarta))
+- [Istana Negara (Jakarta) - Wikipedia](https://en.wikipedia.org/?curid=2230468)
   - Jacob Andries van Braam began construction 1796 confirmed
   - Building completed 1804 confirmed
   - Dutch capitulation to Japan signed 8 March 1942 confirmed

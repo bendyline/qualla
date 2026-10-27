@@ -45,7 +45,7 @@ Hillegersberg sits on the north side of the Rotterdam municipality at 51.96°N, 
 - [German bombing of Rotterdam - Wikipedia](https://en.wikipedia.org/wiki/German_bombing_of_Rotterdam)
   - Bombing occurred on 14 May 1940
   - Confirmed death toll: 711 on May 14; at least 1,150 total across the campaign. 'Nearly nine hundred' is a widely-cited round figure still in current use (NL Times, May 14 2026) and is acceptable.
-- [Hillegondakerk national monument - September 1973 designation confirmed via Wikipedia](https://en.wikipedia.org/wiki/Hillegersberg)
+- [Hillegondakerk national monument - September 1973 designation confirmed via Wikipedia](https://en.wikipedia.org/?curid=3221821)
   - Hillegondakerk designated a Dutch national monument in September 1973
 
 ## Review Notes

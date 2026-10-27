@@ -36,7 +36,7 @@ Koh Russei lies at 10.493N, 103.558E in the Gulf of Thailand, about 4.5 km off t
 
 ## Sources
 
-- [Koh Russei - Wikivoyage](https://en.wikivoyage.org/wiki/Koh_Russei)
+- [Koh Russei - Wikivoyage](https://en.wikivoyage.org/?curid=17911)
 - [Wikipedia - Koh Russei, Sihanoukville (city), Sihanouk International Airport](https://en.wikipedia.org/wiki/Koh_Russei)
   - Koh Russei / Koh Russey / Bamboo Island, Khmer name confirmed; area 1.4 km2, length 1.7 km, width 0.7-1.7 km, coastline 6 km - confirmed from Wikipedia infobox
   - Administered by Prey Nob District in Sihanoukville (Preah Sihanouk) Province - confirmed

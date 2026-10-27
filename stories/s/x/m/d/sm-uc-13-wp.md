@@ -36,7 +36,7 @@ The wreck of SM UC-13 lies at approximately 41.15°N, 30.50°E, on the southern 
 
 ## Sources
 
-- [Wikipedia - SM UC-13](https://en.wikipedia.org/wiki/SM_UC-13)
+- [Wikipedia - SM UC-13](https://en.wikipedia.org/?curid=21623607)
   - Ordered 23 November 1914 confirmed
   - Laid down 28 January 1915 confirmed
   - Launched 11 May 1915 confirmed

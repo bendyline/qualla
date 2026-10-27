@@ -33,7 +33,7 @@ The wreck site is located at approximately 46.91°N, 87.33°W in Lake Superior, 
 ## Sources
 
 - [SS Henry B. Smith - Wikipedia](https://en.wikipedia.org/?curid=13960789)
-- [SS Henry B. Smith - Wikipedia](https://en.wikipedia.org/wiki/SS_Henry_B._Smith)
+- [SS Henry B. Smith - Wikipedia](https://en.wikipedia.org/?curid=13960789)
   - 545 feet long, 55 feet wide, 31 feet high
   - gross tonnage 6,631
   - built 1906 by American Ship Building Company at Lorain Ohio

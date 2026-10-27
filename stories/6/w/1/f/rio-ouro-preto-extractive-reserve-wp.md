@@ -33,7 +33,7 @@ Located at 10.76S, 64.70W in western Rondonia, Brazil, near the Bolivian border.
 ## Sources
 
 - [Rio Ouro Preto Extractive Reserve - Wikipedia](https://en.wikipedia.org/?curid=51212743)
-- [Rio Ouro Preto Extractive Reserve - Wikipedia](https://en.wikipedia.org/wiki/Rio_Ouro_Preto_Extractive_Reserve)
+- [Rio Ouro Preto Extractive Reserve - Wikipedia](https://en.wikipedia.org/?curid=51212743)
   - Chico Mendes assassinated December 22, 1988 in Xapuri, Acre confirmed
   - President Jose Sarney signed decree creating first four extractive reserves January 30, 1990 confirmed
   - Rio Ouro Preto created by decree 99.166 on March 13, 1990 confirmed

@@ -33,7 +33,7 @@ Located at 46.98°N, 123.80°W on Grays Harbor, Washington. The harbor opens to 
 ## Sources
 
 - [Sierra (motor ship) - Wikipedia](https://en.wikipedia.org/?curid=62364053)
-- [Sierra (motor ship) - Wikipedia](https://en.wikipedia.org/wiki/Sierra_(motor_ship))
+- [Sierra (motor ship) - Wikipedia](https://en.wikipedia.org/?curid=62364053)
   - first motor ship built on Grays Harbor, launched 1916
   - E.K. Wood Lumber Company commissioned the Sierra
   - Bolinder engines from Sweden

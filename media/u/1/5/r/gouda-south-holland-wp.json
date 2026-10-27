@@ -21,7 +21,7 @@
       },
       "images": [
         {
-          "path": "_m/u/1/5/r/gouda-south-holland-wp/holbein-erasmus.jpg",
+          "path": "_m/u/1/5/h/bergen-op-zoom-wp/holbein-erasmus.jpg",
           "filename": "Holbein-erasmus.jpg",
           "caption": "Portrait of Desiderius Erasmus of Rotterdam with Renaissance Pilaster.",
           "alt": "Portrait of Desiderius Erasmus of Rotterdam with Renaissance Pilaster.",
@@ -70,7 +70,8 @@
             "WGA form: painting",
             "WGA time period: 1501-1550",
             "WGA type: portrait"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/h/bergen-op-zoom-wp/holbein-erasmus-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-south-holland-wp/gillian-van-den-berg-o.jpg",
@@ -99,7 +100,7 @@
           "smallPath": "_m/u/1/5/r/gouda-south-holland-wp/gillian-van-den-berg-o-small.webp"
         },
         {
-          "path": "_m/u/1/5/r/gouda-south-holland-wp/gouda-haven.jpg",
+          "path": "_m/u/1/5/r/gouda-wk/gouda-haven.jpg",
           "filename": "Gouda haven.jpg",
           "caption": "Uitzicht over de Oost- en Westhaven in Gouda",
           "alt": "Uitzicht over de Oost- en Westhaven in Gouda",
@@ -112,8 +113,8 @@
           "sourceType": "core",
           "sourceArticleId": "gouda-south-holland-wp",
           "sourceGeohash4": "u15r",
-          "mediumPath": "_m/u/1/5/r/gouda-south-holland-wp/gouda-haven-medium.webp",
-          "smallPath": "_m/u/1/5/r/gouda-south-holland-wp/gouda-haven-small.webp"
+          "mediumPath": "_m/u/1/5/r/gouda-wk/gouda-haven-medium.webp",
+          "smallPath": "_m/u/1/5/r/gouda-wk/gouda-haven-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-south-holland-wp/map-dutch-city-gouda-c.jpg",
@@ -461,7 +462,9 @@
             "PD-self",
             "Photographs taken on 2006-04-12",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/r/gouda-wk/chesses-gouda-affinage-medium.webp",
+          "smallPath": "_m/u/1/5/r/gouda-wk/chesses-gouda-affinage-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-wk/st-janskerk-gouda.jpg",
@@ -482,7 +485,8 @@
             "Grote of Sint-Janskerk Gouda",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/r/gouda-wk/st-janskerk-gouda-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-wk/station-gouda-goverwelle.jpg",
@@ -507,7 +511,9 @@
             "Netherlands photographs taken on 2009-09-27",
             "Self-published work",
             "Taken with Kodak EasyShare C613"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/r/gouda-wk/station-gouda-goverwelle-medium.webp",
+          "smallPath": "_m/u/1/5/r/gouda-wk/station-gouda-goverwelle-small.webp"
         },
         {
           "path": "_m/u/1/7/2/randstad-wp/gouda-vanuit-de-lucht.jpg",
@@ -533,7 +539,9 @@
             "Stadhuis (Gouda)",
             "Taken with Nikon D40x",
             "Waag (Gouda)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/2/randstad-wp/gouda-vanuit-de-lucht-medium.webp",
+          "smallPath": "_m/u/1/7/2/randstad-wp/gouda-vanuit-de-lucht-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-wk/st-jan-te-gouda-2.jpg",
@@ -548,7 +556,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Jan_te_Gouda_2.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gouda-wk",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/5/r/gouda-wk/st-jan-te-gouda-2-medium.webp",
+          "smallPath": "_m/u/1/5/r/gouda-wk/st-jan-te-gouda-2-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-wk/waag-in-2012.jpg",
@@ -563,7 +573,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waag_in_2012.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "gouda-wk",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/5/r/gouda-wk/waag-in-2012-medium.webp",
+          "smallPath": "_m/u/1/5/r/gouda-wk/waag-in-2012-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-wk/gouda-cheese.jpg",
@@ -578,7 +590,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gouda_Cheese.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gouda-wk",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "smallPath": "_m/u/1/5/r/gouda-wk/gouda-cheese-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-wk/museum-gouda.jpg",
@@ -593,7 +606,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_Gouda.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gouda-wk",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/5/r/gouda-wk/museum-gouda-medium.webp",
+          "smallPath": "_m/u/1/5/r/gouda-wk/museum-gouda-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-wk/13-06-27-gouda-by-ralfr-018.jpg",
@@ -608,7 +623,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:13-06-27-gouda-by-RalfR-018.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gouda-wk",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/5/r/gouda-wk/13-06-27-gouda-by-ralfr-018-medium.webp",
+          "smallPath": "_m/u/1/5/r/gouda-wk/13-06-27-gouda-by-ralfr-018-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-wk/13-06-27-gouda-by-ralfr-127.jpg",
@@ -623,7 +640,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:13-06-27-gouda-by-RalfR-127.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gouda-wk",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/5/r/gouda-wk/13-06-27-gouda-by-ralfr-127-medium.webp",
+          "smallPath": "_m/u/1/5/r/gouda-wk/13-06-27-gouda-by-ralfr-127-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-wk/stroopwafels-01.jpg",
@@ -638,7 +657,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stroopwafels_01.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gouda-wk",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/5/r/gouda-wk/stroopwafels-01-medium.webp",
+          "smallPath": "_m/u/1/5/r/gouda-wk/stroopwafels-01-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-wk/horeca-markt-gouda.jpg",
@@ -653,7 +674,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Horeca_Markt_Gouda.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "gouda-wk",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/5/r/gouda-wk/horeca-markt-gouda-medium.webp",
+          "smallPath": "_m/u/1/5/r/gouda-wk/horeca-markt-gouda-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-wk/klein-amerika-20-bibliotheek-g.jpg",
@@ -668,7 +691,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Klein_Amerika_20,_Bibliotheek_Gouda,_Vooraanzicht.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gouda-wk",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/5/r/gouda-wk/klein-amerika-20-bibliotheek-g-medium.webp",
+          "smallPath": "_m/u/1/5/r/gouda-wk/klein-amerika-20-bibliotheek-g-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-wk/goudse-schouwburg-03.jpg",
@@ -683,7 +708,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goudse_Schouwburg_03.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gouda-wk",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/5/r/gouda-wk/goudse-schouwburg-03-medium.webp",
+          "smallPath": "_m/u/1/5/r/gouda-wk/goudse-schouwburg-03-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-wk/gouda-stadhuis-1.jpg",
@@ -698,7 +725,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gouda_Stadhuis_(1).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gouda-wk",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/5/r/gouda-wk/gouda-stadhuis-1-medium.webp",
+          "smallPath": "_m/u/1/5/r/gouda-wk/gouda-stadhuis-1-small.webp"
         },
         {
           "path": "_m/u/1/5/r/gouda-wk/station-gouda-mei-2023.jpg",
@@ -713,7 +742,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Station_Gouda,_mei_2023.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gouda-wk",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/5/r/gouda-wk/station-gouda-mei-2023-medium.webp",
+          "smallPath": "_m/u/1/5/r/gouda-wk/station-gouda-mei-2023-small.webp"
         },
         {
           "path": "_m/u/1/5/q/dordrecht-wp/biesbosch-1.jpg",
@@ -738,7 +769,9 @@
             "Netherlands photographs taken on 2006-05-13",
             "Self-published work",
             "Taken with Konica Minolta Dimage Z20"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/q/dordrecht-wp/biesbosch-1-medium.webp",
+          "smallPath": "_m/u/1/5/q/dordrecht-wp/biesbosch-1-small.webp"
         },
         {
           "path": "_m/u/1/5/r/kinderdijk-windmills-wp/see-original-image.jpg",
@@ -768,7 +801,8 @@
             "Pictures of the Year (candidate)",
             "Pictures of the day (2009)",
             "Taken with Epson PhotoPC L-400"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/r/kinderdijk-windmills-wp/see-original-image-small.webp"
         },
         {
           "path": "_m/u/1/5/q/dordrecht-wp/dordrecht-grote-kerk-foto2-201.jpg",
@@ -793,7 +827,8 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon PowerShot G10"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/q/dordrecht-wp/dordrecht-grote-kerk-foto2-201-small.webp"
         },
         {
           "path": "_m/u/1/5/r/south-holland-wp/the-windmills-of-kinderdijk.jpg",
@@ -808,7 +843,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_windmills_of_Kinderdijk.JPG",
           "sourceType": "poi",
           "sourceArticleId": "south-holland-wp",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/5/r/south-holland-wp/the-windmills-of-kinderdijk-medium.webp",
+          "smallPath": "_m/u/1/5/r/south-holland-wp/the-windmills-of-kinderdijk-small.webp"
         },
         {
           "path": "_m/u/1/5/r/south-holland-wp/southholland-regions-map.png",
@@ -823,7 +860,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southholland_regions_map.png",
           "sourceType": "poi",
           "sourceArticleId": "south-holland-wp",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "smallPath": "_m/u/1/5/r/south-holland-wp/southholland-regions-map-small.webp"
         },
         {
           "path": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbrug-seen-from-euromast.jpg",
@@ -838,7 +876,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erasmusbrug_seen_from_Euromast.jpg",
           "sourceType": "poi",
           "sourceArticleId": "1976-schiedam-train-accident-wp",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbrug-seen-from-euromast-medium.webp",
+          "smallPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbrug-seen-from-euromast-small.webp"
         },
         {
           "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-0781-canal-in-delft-nl.jpg",
@@ -853,7 +893,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_0781_Canal_in_Delft_(NL).jpg",
           "sourceType": "poi",
           "sourceArticleId": "kingdom-of-the-netherlands",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-0781-canal-in-delft-nl-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-0781-canal-in-delft-nl-small.webp"
         },
         {
           "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-1865-leiden-netherlands.jpg",
@@ -868,7 +910,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_1865_Leiden_-_Netherlands.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kingdom-of-the-netherlands",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-1865-leiden-netherlands-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-1865-leiden-netherlands-small.webp"
         },
         {
           "path": "_m/u/1/7/2/randstad-wp/den-haag-scheveningen-de-pier-.jpg",
@@ -883,7 +927,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Den_Haag-Scheveningen,_de_Pier_IMG_0095_2021-08-04_10.46.jpg",
           "sourceType": "poi",
           "sourceArticleId": "randstad-wp",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/7/2/randstad-wp/den-haag-scheveningen-de-pier--medium.webp",
+          "smallPath": "_m/u/1/7/2/randstad-wp/den-haag-scheveningen-de-pier--small.webp"
         },
         {
           "path": "_m/u/1/5/e/benelux-wk/the-hague-montage-2021.png",
@@ -898,7 +944,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Hague_Montage_2021.png",
           "sourceType": "poi",
           "sourceArticleId": "benelux-wk",
-          "sourceGeohash4": "u15r"
+          "sourceGeohash4": "u15r",
+          "mediumPath": "_m/u/1/5/e/benelux-wk/the-hague-montage-2021-medium.webp",
+          "smallPath": "_m/u/1/5/e/benelux-wk/the-hague-montage-2021-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/sculpture-installation.jpg",
@@ -918,7 +966,9 @@
             "PD-self",
             "Rode BMW (1987) by Kunst & Vaarwerk",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/sculpture-installation-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/sculpture-installation-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/rotterdam-erasmusbrug.jpg",
@@ -943,7 +993,8 @@
             "Night in Rotterdam",
             "Self-published work",
             "Statue of Peter the Great in Rotterdam"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/rotterdam-erasmusbrug-small.webp"
         },
         {
           "path": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-eni-02324345-alblas-14.jpg",
@@ -968,7 +1019,9 @@
             "Ships in motion in Nieuwe Maas (Rotterdam)",
             "Taken with Nikon D90 and AF-S DX Nikkor 18-200mm/3.5-5.6G ED VR II",
             "Witte Huis (Rotterdam)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-eni-02324345-alblas-14-medium.webp",
+          "smallPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-eni-02324345-alblas-14-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/oude-haven-rotterdam-e.jpg",
@@ -999,7 +1052,9 @@
             "Self-published work",
             "Taken with Canon PowerShot SX200 IS",
             "Witte Huis (Rotterdam)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/oude-haven-rotterdam-e-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/oude-haven-rotterdam-e-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/north-sea-jazz-festiva.jpg",
@@ -1021,7 +1076,8 @@
             "CC-BY-SA-3.0",
             "Self-published work",
             "Taken with Canon EOS 1000D"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/north-sea-jazz-festiva-small.webp"
         },
         {
           "path": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbr-ck-w.jpg",
@@ -1043,7 +1099,8 @@
             "CC-BY-SA-2.5",
             "CC-BY-SA-3.0-migrated",
             "Derivative versions"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbr-ck-w-small.webp"
         },
         {
           "path": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-delfshaven-rotterdam-the-nethe.jpg",
@@ -1058,7 +1115,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delfshaven_Rotterdam_(the_Netherlands)_17.JPG",
           "sourceType": "poi",
           "sourceArticleId": "1976-schiedam-train-accident-wp",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-delfshaven-rotterdam-the-nethe-medium.webp",
+          "smallPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-delfshaven-rotterdam-the-nethe-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/diergaarde-blijdorp-me.jpg",
@@ -1073,7 +1132,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medusakop_op_kolom_in_giraffenweide_-_Rotterdam_-_20348014_-_RCE.jpg",
           "sourceType": "poi",
           "sourceArticleId": "rotterdam-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/diergaarde-blijdorp-me-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/diergaarde-blijdorp-me-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/concert-en-congresgebo.jpg",
@@ -1088,7 +1149,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Overzicht_-_Rotterdam_-_20534496_-_RCE.jpg",
           "sourceType": "poi",
           "sourceArticleId": "rotterdam-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/concert-en-congresgebo-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/concert-en-congresgebo-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/museum-boymans-van-beu.jpg",
@@ -1103,7 +1166,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Overzicht_achtergevel_-_Rotterdam_-_20534511_-_RCE.jpg",
           "sourceType": "poi",
           "sourceArticleId": "rotterdam-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/museum-boymans-van-beu-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/museum-boymans-van-beu-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/witte-de-center-contem.jpg",
@@ -1118,7 +1183,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_Witte_de_With_Center_for_Contemporary_Art.jpg",
           "sourceType": "poi",
           "sourceArticleId": "rotterdam-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/witte-de-center-contem-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/witte-de-center-contem-small.webp"
         }
       ],
       "narration": [

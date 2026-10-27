@@ -33,7 +33,7 @@ Ussangoda National Park sits at 6.10N, 80.99E on the southern coast of Sri Lanka
 ## Sources
 
 - [Ussangoda National Park - Wikipedia](https://en.wikipedia.org/?curid=14902502)
-- [Ussangoda National Park - Wikipedia verification](https://en.wikipedia.org/wiki/Ussangoda_National_Park)
+- [Ussangoda National Park - Wikipedia verification](https://en.wikipedia.org/?curid=14902502)
   - Park established 2010 confirmed
   - Located in Hambantota District near Ambalantota confirmed
   - Iron-rich laterite soil with magnetic properties confirmed

@@ -3,27 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/y/k/j/gorham-s-cave-wp/hero.jpg",
-        "filename": "Gorham's Cave.jpg",
-        "caption": "View of Gorham's Cave, a sea cave in the east face of the Rock of Gibraltar, Gibraltar.",
-        "alt": "View of Gorham's Cave, a sea cave in the east face of the Rock of Gibraltar, Gibraltar.",
-        "width": 4272,
-        "height": 2848,
+        "path": "_m/e/y/k/j/gorham-s-cave-wp/view-gorham-s-cave-gib.jpg",
+        "filename": "View from Gorham's Cave, Gibraltar.JPG",
+        "caption": "View from Gorham's Cave, Gibraltar.",
+        "alt": "View from Gorham's Cave, Gibraltar.",
+        "width": 3456,
+        "height": 5184,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "Gibmetal77",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gorham%27s_Cave.jpg",
+        "license": "CC BY-SA 3.0",
+        "artist": "John Cummings",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Gorham%27s_Cave,_Gibraltar.JPG",
         "sourceType": "core",
         "sourceArticleId": "gorham-s-cave-wp",
         "sourceGeohash4": "eykj",
         "categories": [
-          "CC-BY-3.0",
-          "Files by User:Gibmetal77",
+          "CC-BY-SA-3.0",
           "Gorham's Cave",
-          "Rock of Gibraltar",
+          "Lit cave entrances",
           "Self-published work",
-          "Taken with Canon EOS 450D"
-        ]
+          "Taken with Canon EOS 550D"
+        ],
+        "mediumPath": "_m/e/y/k/j/gorham-s-cave-wp/view-gorham-s-cave-gib-medium.webp",
+        "smallPath": "_m/e/y/k/j/gorham-s-cave-wp/view-gorham-s-cave-gib-small.webp"
       },
       "images": [
         {
@@ -186,7 +187,8 @@
             "Files with coordinates missing SDC location of creation (51° N, 6° E)",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/ne/an/de/rt/neanderthal/mettmann-stadtwald-bf-small.webp"
         },
         {
           "path": "_m/tpc/ne/an/de/rt/neanderthal/museum1.jpg",
@@ -207,7 +209,9 @@
             "GFDL",
             "License migration completed",
             "Neanderthal Museum"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ne/an/de/rt/neanderthal/museum1-medium.webp",
+          "smallPath": "_m/tpc/ne/an/de/rt/neanderthal/museum1-small.webp"
         },
         {
           "path": "_m/tpc/ne/an/de/rt/neanderthal/bahnhof-mettmann-zentrum.jpg",
@@ -232,7 +236,9 @@
             "Information field template with formatting",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ne/an/de/rt/neanderthal/bahnhof-mettmann-zentrum-medium.webp",
+          "smallPath": "_m/tpc/ne/an/de/rt/neanderthal/bahnhof-mettmann-zentrum-small.webp"
         },
         {
           "path": "_m/tpc/ne/an/de/rt/neanderthal/mettmann-markt-01-ies.jpg",
@@ -259,7 +265,9 @@
             "Slate facades in Mettmann",
             "St. Lambertus (Mettmann)",
             "Taken with Ricoh Caplio G4"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ne/an/de/rt/neanderthal/mettmann-markt-01-ies-medium.webp",
+          "smallPath": "_m/tpc/ne/an/de/rt/neanderthal/mettmann-markt-01-ies-small.webp"
         },
         {
           "path": "_m/tpc/ne/an/de/rt/neanderthal/neanderthaler-skulptur-im-schn.jpg",
@@ -284,7 +292,8 @@
             "Neanderthaler (1928)",
             "Photographs taken on 2013-01-20",
             "Winter 2012-2013 in Kreis Mettmann"
-          ]
+          ],
+          "smallPath": "_m/tpc/ne/an/de/rt/neanderthal/neanderthaler-skulptur-im-schn-small.webp"
         }
       ],
       "narration": [

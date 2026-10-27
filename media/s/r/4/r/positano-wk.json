@@ -3,24 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/r/4/r/positano-wk/hero.jpg",
-        "filename": "Positano Sunset.JPG",
-        "caption": "Positano sunset taken from the balcony of Hotel Marincanto",
-        "alt": "Positano sunset taken from the balcony of Hotel Marincanto",
-        "width": 4272,
-        "height": 2848,
+        "path": "_m/s/r/4/r/positano-wk/boat-in-positano-41158688450.jpg",
+        "filename": "Boat in Positano (41158688450).jpg",
+        "caption": "Boat in Positano",
+        "alt": "Boat in Positano",
+        "width": 5304,
+        "height": 7952,
         "mimeType": "image/jpeg",
-        "license": "CC BY 4.0",
-        "artist": "JeCCo",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Positano_Sunset.JPG",
-        "sourceType": "core",
+        "license": "CC BY 2.0",
+        "artist": "Nan Palmero from San Antonio, TX, USA",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boat_in_Positano_(41158688450).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "positano-wk",
         "sourceGeohash4": "sr4r",
-        "categories": [
-          "CC-BY-4.0",
-          "Self-published work",
-          "Views of Positano"
-        ]
+        "mediumPath": "_m/s/r/4/r/positano-wk/boat-in-positano-41158688450-medium.webp",
+        "smallPath": "_m/s/r/4/r/positano-wk/boat-in-positano-41158688450-small.webp"
       },
       "images": [
         {
@@ -48,7 +45,7 @@
           "smallPath": "_m/s/r/4/r/positano-wk/church-santa-maria-ass-small.webp"
         },
         {
-          "path": "_m/s/r/4/r/positano-wk/amalfi-coast-from-boat.jpg",
+          "path": "_m/s/r/4/r/amalfi-coast-wp/amalfi-coast-from-boat.jpg",
           "filename": "Amalfi Coast from boat.jpg",
           "caption": "This is an image of the Amalfi Coast from boat.",
           "alt": "This is an image of the Amalfi Coast from boat.",
@@ -65,7 +62,8 @@
             "Amalfi Coast",
             "CC-BY-SA-4.0",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/r/4/r/amalfi-coast-wp/amalfi-coast-from-boat-small.webp"
         },
         {
           "path": "_m/s/r/4/r/positano-wk/panoramic-view-positan.jpg",
@@ -505,7 +503,9 @@
             "Santa Maria Assunta (Positano)",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/s/r/4/r/positano-wp/santa-maria-assunta-positano-i-medium.webp",
+          "smallPath": "_m/s/r/4/r/positano-wp/santa-maria-assunta-positano-i-small.webp"
         },
         {
           "path": "_m/s/r/4/r/positano-wp/positano-fornillo-beach.jpg",
@@ -529,7 +529,9 @@
             "Pages with maps",
             "Self-published work",
             "September 2014 in Positano"
-          ]
+          ],
+          "mediumPath": "_m/s/r/4/r/positano-wp/positano-fornillo-beach-medium.webp",
+          "smallPath": "_m/s/r/4/r/positano-wp/positano-fornillo-beach-small.webp"
         },
         {
           "path": "_m/s/r/4/r/positano-wp/positano-01.jpg",
@@ -552,7 +554,9 @@
             "Self-published work",
             "Spiaggia Grande (Positano)",
             "Views of Positano"
-          ]
+          ],
+          "mediumPath": "_m/s/r/4/r/positano-wp/positano-01-medium.webp",
+          "smallPath": "_m/s/r/4/r/positano-wp/positano-01-small.webp"
         },
         {
           "path": "_m/s/r/4/r/positano-wp/positano-bus-01.jpg",
@@ -578,7 +582,9 @@
             "Red and white minibuses",
             "Self-published work",
             "September 2014 in Positano"
-          ]
+          ],
+          "mediumPath": "_m/s/r/4/r/positano-wp/positano-bus-01-medium.webp",
+          "smallPath": "_m/s/r/4/r/positano-wp/positano-bus-01-small.webp"
         }
       ],
       "narration": [

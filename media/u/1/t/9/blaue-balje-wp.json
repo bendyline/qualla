@@ -3,42 +3,24 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/t/9/blaue-balje-wp/hero.png",
-        "filename": "Ostfriesische Inseln (Karte).png",
-        "caption": "Ostfriesische Inseln (Karte)",
-        "alt": "Ostfriesische Inseln (Karte)",
-        "width": 13425,
-        "height": 5135,
-        "mimeType": "image/png",
-        "license": "CC BY-SA 2.0",
-        "artist": "Maximilian Dörrbecker (Chumwa)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ostfriesische_Inseln_(Karte).png",
+        "path": "_m/u/1/t/9/blaue-balje-wp/reste-des-ostanlegers.jpg",
+        "filename": "Wangerooge Ostanleger.jpg",
+        "caption": "Reste des Ostanlegers auf Wangerooge",
+        "alt": "Reste des Ostanlegers auf Wangerooge",
+        "width": 1109,
+        "height": 697,
+        "mimeType": "image/jpeg",
+        "license": "Public domain",
+        "artist": "Axel Hindemith",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wangerooge_Ostanleger.jpg",
         "sourceType": "core",
         "sourceArticleId": "blaue-balje-wp",
         "sourceGeohash4": "u1t9",
         "categories": [
-          "CC-BY-SA-2.0",
-          "East Frisian Islands",
-          "Kachelotplate",
-          "Lütje Hörn",
-          "Map images that should use vector graphics",
-          "Maps of Baltrum",
-          "Maps of Borkum",
-          "Maps of East Frisia",
-          "Maps of Juist",
-          "Maps of Langeoog",
-          "Maps of Norderney",
-          "Maps of Spiekeroog",
-          "Maps of Wangerooge",
-          "Maps of islands of Germany in the North Sea",
-          "Maps of the North Sea",
-          "Mellum",
-          "Memmert",
-          "Minsener Oog",
-          "OpenStreetMap maps of Lower Saxony",
-          "PNG that should use vector graphics",
-          "User:Maximilian Dörrbecker"
-        ]
+          "PD-user",
+          "Wangerooge"
+        ],
+        "smallPath": "_m/u/1/t/9/blaue-balje-wp/reste-des-ostanlegers-small.webp"
       },
       "images": [
         {
@@ -83,7 +65,8 @@
             "PD-self",
             "Schöma CFL 150 DCL",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/t/d/wangerooge-wp/wangerooge-inselbahn-zug-small.webp"
         },
         {
           "path": "_m/u/1/t/d/wangerooge-wp/deu-wangerooge-alter-turm-001.jpg",
@@ -103,7 +86,9 @@
             "Alter Leuchtturm Wangerooge",
             "CC-BY-SA-3.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/t/d/wangerooge-wp/deu-wangerooge-alter-turm-001-medium.webp",
+          "smallPath": "_m/u/1/t/d/wangerooge-wp/deu-wangerooge-alter-turm-001-small.webp"
         },
         {
           "path": "_m/u/1/t/3/east-frisian-islands-wp/aerial-image-of-wangerooge-vie.jpg",
@@ -125,7 +110,9 @@
             "CC-BY-SA-4.0",
             "Files with coordinates missing SDC location of creation (53° N, 7° E)",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/t/3/east-frisian-islands-wp/aerial-image-of-wangerooge-vie-medium.webp",
+          "smallPath": "_m/u/1/t/3/east-frisian-islands-wp/aerial-image-of-wangerooge-vie-small.webp"
         }
       ],
       "narration": [

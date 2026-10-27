@@ -3,25 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/y/8/hexham-old-gaol-wp/hero.jpg",
-        "filename": "Hexham Old Gaol.jpg",
-        "caption": "Hexham Gaol, said to be the oldest purpose-built prison in the United Kingdom. It's currently a prison museum.",
-        "alt": "Hexham Gaol, said to be the oldest purpose-built prison in the United Kingdom. It's currently a prison museum.",
-        "width": 3008,
-        "height": 2000,
+        "path": "_m/g/c/y/8/hexham-old-gaol-wp/hexham-the-old-gaol-geograph-o.jpg",
+        "filename": "Hexham, The Old Gaol - geograph.org.uk - 2943101.jpg",
+        "caption": "Hexham:  The Old Gaol",
+        "alt": "Hexham:  The Old Gaol",
+        "width": 4320,
+        "height": 3240,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Steven Fruitsmaak",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hexham_Old_Gaol.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Dr Neil Clifton",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hexham,_The_Old_Gaol_-_geograph.org.uk_-_2943101.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "hexham-old-gaol-wp",
         "sourceGeohash4": "gcy8",
-        "categories": [
-          "Old Gaol, Hexham",
-          "PD-self",
-          "Self-published work",
-          "Taken with Nikon D40"
-        ]
+        "mediumPath": "_m/g/c/y/8/hexham-old-gaol-wp/hexham-the-old-gaol-geograph-o-medium.webp",
+        "smallPath": "_m/g/c/y/8/hexham-old-gaol-wp/hexham-the-old-gaol-geograph-o-small.webp"
       },
       "images": [
         {
@@ -384,7 +380,8 @@
             "License migration redundant",
             "Listed buildings in England with known IDs",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/y/8/hexham-wp/hexham-abbey-small.webp"
         },
         {
           "path": "_m/g/c/y/8/hexham-wp/the-praetorium-baths-chesters-.jpg",
@@ -406,7 +403,9 @@
             "Flickr images reviewed by FlickreviewR 2",
             "Photographs by Carole Raddato",
             "Praetorium (commandant's house) at Chesters Roman Fort"
-          ]
+          ],
+          "mediumPath": "_m/g/c/y/8/hexham-wp/the-praetorium-baths-chesters--medium.webp",
+          "smallPath": "_m/g/c/y/8/hexham-wp/the-praetorium-baths-chesters--small.webp"
         },
         {
           "path": "_m/g/c/y/8/hexham-wp/michael-angelo-rooker-design-f.jpg",
@@ -420,7 +419,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michael_Angelo_Rooker_-_Design_for_the_Haymarket_Theatre,_%22The_Battle_of_Hexham%22,_by_Colman_the_Younger_-_B1986.29.464_-_Yale_Center_for_British_Art.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "hexham-wp",
-          "sourceGeohash4": "gcy8"
+          "sourceGeohash4": "gcy8",
+          "mediumPath": "_m/g/c/y/8/hexham-wp/michael-angelo-rooker-design-f-medium.webp",
+          "smallPath": "_m/g/c/y/8/hexham-wp/michael-angelo-rooker-design-f-small.webp"
         },
         {
           "path": "_m/g/c/y/9/northumberland-wp/northumberland-national-park.jpg",
@@ -442,7 +443,8 @@
             "License migration completed",
             "Northumberland National Park",
             "Taken with Nikon Coolpix 995"
-          ]
+          ],
+          "smallPath": "_m/g/c/y/9/northumberland-wp/northumberland-national-park-small.webp"
         },
         {
           "path": "_m/tpc/wa/rs/-o/f-/wars-of-the-roses/hexham-beaumontstreet.jpg",
@@ -463,7 +465,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon PowerShot A60"
-          ]
+          ],
+          "smallPath": "_m/tpc/wa/rs/-o/f-/wars-of-the-roses/hexham-beaumontstreet-small.webp"
         },
         {
           "path": "_m/g/c/y/9/northumberland-wp/lindisfarnecastleholyisland.jpg",
@@ -485,7 +488,9 @@
             "Lindisfarne Castle",
             "Listed buildings in England with known IDs",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/y/9/northumberland-wp/lindisfarnecastleholyisland-medium.webp",
+          "smallPath": "_m/g/c/y/9/northumberland-wp/lindisfarnecastleholyisland-small.webp"
         },
         {
           "path": "_m/g/c/y/9/northumberland-wp/morpeth-old-gatehouse.jpg",
@@ -508,7 +513,9 @@
             "June 2008 in Northumberland",
             "Morpeth Castle",
             "Taken with Canon Digital IXUS 950 IS"
-          ]
+          ],
+          "mediumPath": "_m/g/c/y/9/northumberland-wp/morpeth-old-gatehouse-medium.webp",
+          "smallPath": "_m/g/c/y/9/northumberland-wp/morpeth-old-gatehouse-small.webp"
         },
         {
           "path": "_m/tpc/ha/dr/ia/n-/hadrian-s-wall/corbridge-pant-in-market-place.jpg",
@@ -533,7 +540,9 @@
             "License migration completed",
             "Photographs by Roger W. Haworth",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ha/dr/ia/n-/hadrian-s-wall/corbridge-pant-in-market-place-medium.webp",
+          "smallPath": "_m/tpc/ha/dr/ia/n-/hadrian-s-wall/corbridge-pant-in-market-place-small.webp"
         },
         {
           "path": "_m/g/c/y/9/northumberland-wp/alnwick-castle-02.jpg",
@@ -548,7 +557,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alnwick_Castle_02.jpg",
           "sourceType": "poi",
           "sourceArticleId": "northumberland-wp",
-          "sourceGeohash4": "gcy9"
+          "sourceGeohash4": "gcy9",
+          "smallPath": "_m/g/c/y/9/northumberland-wp/alnwick-castle-02-small.webp"
         },
         {
           "path": "_m/g/c/y/9/northumberland-wp/farne-islands-boats-geograph-o.jpg",
@@ -563,7 +573,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Farne_Islands,_boats_-_geograph.org.uk_-_1096875.jpg",
           "sourceType": "poi",
           "sourceArticleId": "northumberland-wp",
-          "sourceGeohash4": "gcy9"
+          "sourceGeohash4": "gcy9",
+          "smallPath": "_m/g/c/y/9/northumberland-wp/farne-islands-boats-geograph-o-small.webp"
         },
         {
           "path": "_m/g/c/y/9/northumberland-wp/amble-harbour-northumberland.jpg",
@@ -578,7 +589,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amble_Harbour,_Northumberland.jpg",
           "sourceType": "poi",
           "sourceArticleId": "northumberland-wp",
-          "sourceGeohash4": "gcy9"
+          "sourceGeohash4": "gcy9",
+          "mediumPath": "_m/g/c/y/9/northumberland-wp/amble-harbour-northumberland-medium.webp",
+          "smallPath": "_m/g/c/y/9/northumberland-wp/amble-harbour-northumberland-small.webp"
         },
         {
           "path": "_m/g/c/y/9/northumberland-wp/british-railways-sign-at-the-a.jpg",
@@ -593,7 +606,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Railways_sign_at_the_Anglo-Scottish_Border.jpg",
           "sourceType": "poi",
           "sourceArticleId": "northumberland-wp",
-          "sourceGeohash4": "gcy9"
+          "sourceGeohash4": "gcy9",
+          "mediumPath": "_m/g/c/y/9/northumberland-wp/british-railways-sign-at-the-a-medium.webp",
+          "smallPath": "_m/g/c/y/9/northumberland-wp/british-railways-sign-at-the-a-small.webp"
         },
         {
           "path": "_m/g/c/y/4/scottish-borders-wp/river-tweed-at-coldstream.jpg",
@@ -616,7 +631,8 @@
             "License migration completed",
             "Media missing infobox template",
             "River Tweed"
-          ]
+          ],
+          "smallPath": "_m/g/c/y/4/scottish-borders-wp/river-tweed-at-coldstream-small.webp"
         },
         {
           "path": "_m/g/c/y/4/scottish-borders-wp/eyemouth-gunsgreen-house-20120.jpg",
@@ -631,7 +647,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eyemouth,_Gunsgreen_House_-_20120604160115.jpg",
           "sourceType": "poi",
           "sourceArticleId": "scottish-borders-wp",
-          "sourceGeohash4": "gcy4"
+          "sourceGeohash4": "gcy4",
+          "smallPath": "_m/g/c/y/4/scottish-borders-wp/eyemouth-gunsgreen-house-20120-small.webp"
         },
         {
           "path": "_m/g/c/y/4/scottish-borders-wp/gated-3980497728.jpg",
@@ -646,7 +663,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gated_(3980497728).jpg",
           "sourceType": "poi",
           "sourceArticleId": "scottish-borders-wp",
-          "sourceGeohash4": "gcy4"
+          "sourceGeohash4": "gcy4",
+          "smallPath": "_m/g/c/y/4/scottish-borders-wp/gated-3980497728-small.webp"
         },
         {
           "path": "_m/g/c/y/4/scottish-borders-wp/jedburgh-abbey-geograph-org-uk.jpg",
@@ -661,7 +679,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jedburgh_Abbey_-_geograph.org.uk_-_2277426.jpg",
           "sourceType": "poi",
           "sourceArticleId": "scottish-borders-wp",
-          "sourceGeohash4": "gcy4"
+          "sourceGeohash4": "gcy4",
+          "smallPath": "_m/g/c/y/4/scottish-borders-wp/jedburgh-abbey-geograph-org-uk-small.webp"
         },
         {
           "path": "_m/g/c/y/4/scottish-borders-wp/berwick-upon-tweed-town-walls-.jpg",
@@ -676,7 +695,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berwick_Upon_Tweed_Town_Walls_-_geograph.org.uk_-_3166684.jpg",
           "sourceType": "poi",
           "sourceArticleId": "scottish-borders-wp",
-          "sourceGeohash4": "gcy4"
+          "sourceGeohash4": "gcy4",
+          "mediumPath": "_m/g/c/y/4/scottish-borders-wp/berwick-upon-tweed-town-walls--medium.webp",
+          "smallPath": "_m/g/c/y/4/scottish-borders-wp/berwick-upon-tweed-town-walls--small.webp"
         }
       ],
       "narration": [

@@ -33,7 +33,7 @@ The National Maritime Museum is located at 6.028N, 80.218E, inside Galle Fort ne
 ## Sources
 
 - [National Maritime Museum (Galle) - Wikipedia](https://en.wikipedia.org/?curid=2176025)
-- [National Maritime Museum (Galle) - Wikipedia verification](https://en.wikipedia.org/wiki/National_Maritime_Museum_(Galle))
+- [National Maritime Museum (Galle) - Wikipedia verification](https://en.wikipedia.org/?curid=2176025)
   - Museum first opened 9 May 1992 confirmed
   - VOC inscription 1669 with letters VOC and cock between two lions confirmed
   - Warehouse partially embedded in rampart wall confirmed

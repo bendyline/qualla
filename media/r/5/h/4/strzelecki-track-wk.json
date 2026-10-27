@@ -3,35 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/5/h/4/strzelecki-track-wk/hero.jpg",
-        "filename": "XingCooperCreek.jpg",
-        "caption": "Cooper Creek crossing at Innamincka, Strzelecki Desert, South Australia",
-        "alt": "Cooper Creek crossing at Innamincka, Strzelecki Desert, South Australia",
-        "width": 1278,
-        "height": 564,
+        "path": "_m/r/5/h/4/strzelecki-track-wk/rusted-car-strezlecki-track.jpg",
+        "filename": "Rusted car, Strezlecki Track.jpg",
+        "caption": "Rusted car, Strezlecki Track",
+        "alt": "Rusted car, Strezlecki Track",
+        "width": 2272,
+        "height": 1704,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Kdliss - Klaus-Dieter Liss",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:XingCooperCreek.jpg",
-        "sourceType": "core",
+        "license": "CC0",
+        "artist": "PookieFugglestein",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rusted_car,_Strezlecki_Track.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "strzelecki-track-wk",
         "sourceGeohash4": "r5h4",
         "categories": [
-          "CC-BY-SA-2.5,2.0,1.0",
-          "CC-BY-SA-3.0-migrated",
-          "Cooper Creek",
-          "Files with coordinates missing SDC location of creation",
-          "GFDL",
-          "Images with extracted images",
-          "Innamincka, South Australia",
-          "License migration redundant",
+          "Abandoned automobiles in Australia",
+          "CC-Zero",
           "Self-published work",
-          "Strzelecki Desert"
-        ]
+          "Strzelecki Track",
+          "Taken with Canon PowerShot A520",
+          "Totally rusted automobiles"
+        ],
+        "mediumPath": "_m/r/5/h/4/strzelecki-track-wk/rusted-car-strezlecki-track-medium.webp",
+        "smallPath": "_m/r/5/h/4/strzelecki-track-wk/rusted-car-strezlecki-track-small.webp"
       },
       "images": [
         {
-          "path": "_m/r/5/h/4/strzelecki-track-wk/pub-petrol-station-and-general.jpg",
+          "path": "_m/tpc/wo/om/er/a-/woomera-prohibited-area/pub-petrol-station-and-general.jpg",
           "filename": "Pub, petrol station and general store at Innamincka township in 2007.jpg",
           "caption": "Pub, petrol station and general store at Innamincka township, South Australia",
           "alt": "Pub, petrol station and general store at Innamincka township, South Australia",
@@ -55,10 +53,10 @@
             "License migration redundant",
             "Self-published work"
           ],
-          "smallPath": "_m/r/5/h/4/strzelecki-track-wk/pub-petrol-station-and-general-small.webp"
+          "smallPath": "_m/tpc/wo/om/er/a-/woomera-prohibited-area/pub-petrol-station-and-general-small.webp"
         },
         {
-          "path": "_m/r/5/h/4/strzelecki-track-wk/d96-wv-banner.jpg",
+          "path": "_m/r/5/h/4/strzelecki-track-wp/d96-wv-banner.jpg",
           "filename": "D96 WV banner.jpg",
           "caption": "Ikara-Flinders National Park, South Australia, 13 August 2018",
           "alt": "Ikara-Flinders National Park, South Australia, 13 August 2018",
@@ -83,8 +81,8 @@
             "Wikivoyage banners by SHB2000",
             "Wikivoyage banners of South Australia"
           ],
-          "mediumPath": "_m/r/5/h/4/strzelecki-track-wk/d96-wv-banner-medium.webp",
-          "smallPath": "_m/r/5/h/4/strzelecki-track-wk/d96-wv-banner-small.webp"
+          "mediumPath": "_m/r/5/h/4/strzelecki-track-wp/d96-wv-banner-medium.webp",
+          "smallPath": "_m/r/5/h/4/strzelecki-track-wp/d96-wv-banner-small.webp"
         },
         {
           "path": "_m/r/5/h/4/strzelecki-track-wk/rusted-car-strezlecki-track.jpg",
@@ -133,7 +131,9 @@
             "Photographs taken on 2005-07-03",
             "Road bridges in New South Wales",
             "Shoalhaven River"
-          ]
+          ],
+          "mediumPath": "_m/r/5/h/4/strzelecki-track-wp/warribridgekingshighway-medium.webp",
+          "smallPath": "_m/r/5/h/4/strzelecki-track-wp/warribridgekingshighway-small.webp"
         },
         {
           "path": "_m/r/5/5/g/innamincka-wk/hero.jpg",
@@ -156,7 +156,8 @@
             "Restored buildings",
             "Self-published work",
             "Taken with Fujifilm FinePix 2600Z"
-          ]
+          ],
+          "smallPath": "_m/r/5/5/g/innamincka-wk/hero-small.webp"
         }
       ],
       "narration": [

@@ -3,40 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/6/z/7/rauma-wk/hero.jpg",
-        "filename": "Rauma 3.jpg",
-        "caption": "Houses in Rauma, Finland",
-        "alt": "Houses in Rauma, Finland",
-        "width": 3166,
-        "height": 2164,
+        "path": "_m/u/6/z/7/rauma-wk/rauma-fronts.jpg",
+        "filename": "Rauma fronts.jpg",
+        "caption": "Photo's of windows in the historic Finnish town of Rauma, arranged on a white background",
+        "alt": "Photo's of windows in the historic Finnish town of Rauma, arranged on a white background",
+        "width": 1380,
+        "height": 815,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "pjt56",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rauma_3.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Wikibros",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rauma_fronts.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "rauma-wk",
         "sourceGeohash4": "u6z7",
         "categories": [
-          "CC-BY-3.0",
-          "Files with coordinates missing SDC location of creation",
-          "Finland photographs taken on 2006-08-13",
-          "GFDL",
-          "License migration redundant",
-          "Self-published work",
-          "Streets in Old Rauma",
-          "Taken with Konica Minolta Dimage A2",
-          "Timber town houses in Finland",
-          "Valued images missing SDC creator",
-          "Valued images missing SDC depicts",
-          "Valued images of Finland",
-          "Valued images promoted 2010-01",
-          "Valued images sorted by promotion date",
-          "Wooden buildings in Rauma"
-        ]
+          "CC-BY-SA-4.0",
+          "Historic sites",
+          "Rauma",
+          "Self-published work"
+        ],
+        "smallPath": "_m/u/6/z/7/rauma-wk/rauma-fronts-small.webp"
       },
       "images": [
         {
-          "path": "_m/u/6/z/7/rauma-wk/sammallahdenmaki-panorama-2.jpg",
+          "path": "_m/u/6/z/7/old-rauma-wp/sammallahdenmaki-panorama-2.jpg",
           "filename": "Sammallahdenmäki panorama 2.jpg",
           "caption": "Panorama from Sammallahdenmäki bronze age burial site in Lappi, Finland.",
           "alt": "Panorama from Sammallahdenmäki bronze age burial site in Lappi, Finland.",
@@ -55,10 +45,12 @@
             "Sammallahdenmäki",
             "Self-published work",
             "Taken with Sony DSLR-A700"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/7/old-rauma-wp/sammallahdenmaki-panorama-2-medium.webp",
+          "smallPath": "_m/u/6/z/7/old-rauma-wp/sammallahdenmaki-panorama-2-small.webp"
         },
         {
-          "path": "_m/u/6/z/7/rauma-wk/sammallahdenmaki-1.jpg",
+          "path": "_m/u/6/z/7/old-rauma-wp/sammallahdenmaki-1.jpg",
           "filename": "Sammallahdenmäki 1.jpg",
           "caption": "Kirkonlaattia in Sammallahdenmäki bronze age burial site in Lappi, Finland.",
           "alt": "Kirkonlaattia in Sammallahdenmäki bronze age burial site in Lappi, Finland.",
@@ -77,10 +69,12 @@
             "Self-published work",
             "Taken with Sony DSLR-A700",
             "Unassessed QI candidates"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/7/old-rauma-wp/sammallahdenmaki-1-medium.webp",
+          "smallPath": "_m/u/6/z/7/old-rauma-wp/sammallahdenmaki-1-small.webp"
         },
         {
-          "path": "_m/u/6/z/7/rauma-wk/vanha-raatihuone.jpg",
+          "path": "_m/u/6/z/7/old-rauma-wp/vanha-raatihuone.jpg",
           "filename": "Vanha raatihuone.JPG",
           "caption": "Old Town Hall in Rauma",
           "alt": "Old Town Hall in Rauma",
@@ -100,10 +94,12 @@
             "Rauma Old Town Hall",
             "Self-published work",
             "Taken with Sony DSC-W350"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/7/old-rauma-wp/vanha-raatihuone-medium.webp",
+          "smallPath": "_m/u/6/z/7/old-rauma-wp/vanha-raatihuone-small.webp"
         },
         {
-          "path": "_m/u/6/z/7/rauma-wk/frescoes-pyhan-ristin.jpg",
+          "path": "_m/u/6/z/7/church-of-the-holy-cross-rauma-wp/frescoes-pyhan-ristin.jpg",
           "filename": "Rauma PyhanRistinKirkko 01.jpg",
           "caption": "The frescoes of Pyhän Ristin kirkko (Church of the Holy Cross) in Rauma, Finland.",
           "alt": "The frescoes of Pyhän Ristin kirkko (Church of the Holy Cross) in Rauma, Finland.",
@@ -125,10 +121,11 @@
             "Photographs taken on 2009-07-31",
             "Self-published work",
             "Taken with Canon EOS 5D"
-          ]
+          ],
+          "smallPath": "_m/u/6/z/7/church-of-the-holy-cross-rauma-wp/frescoes-pyhan-ristin-small.webp"
         },
         {
-          "path": "_m/u/6/z/7/rauma-wk/rauma-view-01.jpg",
+          "path": "_m/u/6/z/7/old-rauma-wp/rauma-view-01.jpg",
           "filename": "Rauma view 01.jpg",
           "caption": "old wooden buildings, Rauma, Rauma.",
           "alt": "old wooden buildings, Rauma, Rauma.",
@@ -148,7 +145,8 @@
             "Self-published work",
             "Taken with Canon EOS 5D",
             "Wooden buildings in Rauma"
-          ]
+          ],
+          "smallPath": "_m/u/6/z/7/old-rauma-wp/rauma-view-01-small.webp"
         },
         {
           "path": "_m/u/6/z/7/rauma-wk/rauma-fronts.jpg",
@@ -197,7 +195,8 @@
             "Olkiluoto Nuclear Power Plant",
             "Photographs taken on 2005-04-15",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/u/6/z/k/eurajoki-wp/epr-olk3-tvo-fotomont-2-vogelp-small.webp"
         },
         {
           "path": "_m/u/6/z/k/eurajoki-wp/vuojoen-kartano-4.jpg",
@@ -222,7 +221,9 @@
             "Self-published work",
             "Taken with Sony DSLR-A700",
             "Vuojoki Manor"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/k/eurajoki-wp/vuojoen-kartano-4-medium.webp",
+          "smallPath": "_m/u/6/z/k/eurajoki-wp/vuojoen-kartano-4-small.webp"
         },
         {
           "path": "_m/u/6/z/k/eurajoki-wp/eurajoen-kirkko-2012.jpg",
@@ -245,7 +246,9 @@
             "Finland photographs taken on 2012-07-08",
             "Self-published work",
             "Taken with Canon PowerShot A1100 IS"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/k/eurajoki-wp/eurajoen-kirkko-2012-medium.webp",
+          "smallPath": "_m/u/6/z/k/eurajoki-wp/eurajoen-kirkko-2012-small.webp"
         },
         {
           "path": "_m/u/6/z/k/eurajoki-wp/wv-banner-eurajoki-olkiluoto-n.jpg",
@@ -264,7 +267,9 @@
           "categories": [
             "PD-author",
             "Wikivoyage banners of Finland"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/k/eurajoki-wp/wv-banner-eurajoki-olkiluoto-n-medium.webp",
+          "smallPath": "_m/u/6/z/k/eurajoki-wp/wv-banner-eurajoki-olkiluoto-n-small.webp"
         },
         {
           "path": "_m/u/6/z/t/ulvila-wp/church-of-ulvila-2.jpg",
@@ -286,7 +291,9 @@
             "License migration completed",
             "St. Olof's Church, Ulvila",
             "Ulvila Church Bell Tower"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/t/ulvila-wp/church-of-ulvila-2-medium.webp",
+          "smallPath": "_m/u/6/z/t/ulvila-wp/church-of-ulvila-2-small.webp"
         },
         {
           "path": "_m/u/6/z/t/ulvila-wp/kirkkojuopaa-ulvilassa.jpg",
@@ -311,7 +318,8 @@
             "Nature of Ulvila",
             "Self-published work",
             "Taken with Canon PowerShot A40"
-          ]
+          ],
+          "smallPath": "_m/u/6/z/t/ulvila-wp/kirkkojuopaa-ulvilassa-small.webp"
         },
         {
           "path": "_m/u/6/z/t/ulvila-wp/leineperi-wrought-iron-foundry.jpg",
@@ -332,7 +340,9 @@
             "Files with coordinates missing SDC location of creation",
             "Leineperi wrought iron foundry",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/t/ulvila-wp/leineperi-wrought-iron-foundry-medium.webp",
+          "smallPath": "_m/u/6/z/t/ulvila-wp/leineperi-wrought-iron-foundry-small.webp"
         },
         {
           "path": "_m/u/6/z/t/ulvila-wp/liikisto-church-ruins-01.jpg",
@@ -354,7 +364,9 @@
             "Monuments and memorials in Ulvila",
             "Ruins of Liikistö Church",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/t/ulvila-wp/liikisto-church-ruins-01-medium.webp",
+          "smallPath": "_m/u/6/z/t/ulvila-wp/liikisto-church-ruins-01-small.webp"
         },
         {
           "path": "_m/u/6/z/s/harjavalta-wp/ulkokuva-ii.jpg",
@@ -379,7 +391,9 @@
             "Photographs taken on 2010-06-10",
             "Self-published work",
             "Taken with Olympus SP-590UZ"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/s/harjavalta-wp/ulkokuva-ii-medium.webp",
+          "smallPath": "_m/u/6/z/s/harjavalta-wp/ulkokuva-ii-small.webp"
         },
         {
           "path": "_m/u/6/z/s/harjavalta-wp/harjavallan-vanha-kirkko.jpg",
@@ -402,7 +416,9 @@
             "May 2013 Finland photographs",
             "Self-published work",
             "Taken with Canon PowerShot A480"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/s/harjavalta-wp/harjavallan-vanha-kirkko-medium.webp",
+          "smallPath": "_m/u/6/z/s/harjavalta-wp/harjavallan-vanha-kirkko-small.webp"
         },
         {
           "path": "_m/u/6/z/s/harjavalta-wp/wv-banner-harjavalta-view-from.jpg",
@@ -421,7 +437,9 @@
           "categories": [
             "CC-BY-SA-4.0",
             "Wikivoyage banners of Finland"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/s/harjavalta-wp/wv-banner-harjavalta-view-from-medium.webp",
+          "smallPath": "_m/u/6/z/s/harjavalta-wp/wv-banner-harjavalta-view-from-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/pori-town-hall.jpg",
@@ -444,7 +462,8 @@
             "PD-user",
             "Parks in Pori",
             "Pori Old Town Hall"
-          ]
+          ],
+          "smallPath": "_m/u/6/z/t/pori-wp/pori-town-hall-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/porin-lentoasema.jpg",
@@ -469,7 +488,9 @@
             "License migration completed",
             "Pori Airport Terminal",
             "Taken with Sony DSC-S650"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/t/pori-wp/porin-lentoasema-medium.webp",
+          "smallPath": "_m/u/6/z/t/pori-wp/porin-lentoasema-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/porin-rautatieasema.jpg",
@@ -498,7 +519,9 @@
             "Quality images of Pori",
             "Self-published work",
             "Taken with Sony DSLR-A700"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/t/pori-wp/porin-rautatieasema-medium.webp",
+          "smallPath": "_m/u/6/z/t/pori-wp/porin-rautatieasema-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/porin-kaupunginsairaala.jpg",
@@ -524,7 +547,9 @@
             "Päärnäinen",
             "Self-published work",
             "Taken with Canon PowerShot A510"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/t/pori-wp/porin-kaupunginsairaala-medium.webp",
+          "smallPath": "_m/u/6/z/t/pori-wp/porin-kaupunginsairaala-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/satakunnan-keskussairaala.jpg",
@@ -550,7 +575,9 @@
             "Satakunta Central Hospital",
             "Self-published work",
             "Taken with Sony DSLR-A700"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/t/pori-wp/satakunnan-keskussairaala-medium.webp",
+          "smallPath": "_m/u/6/z/t/pori-wp/satakunnan-keskussairaala-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/ybf-2010-bikini-bar-perjantain.jpg",
@@ -573,7 +600,9 @@
             "Self-published work",
             "Taken with Sony DSLR-A700",
             "Yyteri Beachfutis"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/t/pori-wp/ybf-2010-bikini-bar-perjantain-medium.webp",
+          "smallPath": "_m/u/6/z/t/pori-wp/ybf-2010-bikini-bar-perjantain-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/satakunnan-karhu.jpg",
@@ -588,7 +617,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Satakunnan_karhu.jpg",
           "sourceType": "poi",
           "sourceArticleId": "pori-wp",
-          "sourceGeohash4": "u6zt"
+          "sourceGeohash4": "u6zt",
+          "mediumPath": "_m/u/6/z/t/pori-wp/satakunnan-karhu-medium.webp",
+          "smallPath": "_m/u/6/z/t/pori-wp/satakunnan-karhu-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/yyteri-beach-45572598264.jpg",
@@ -603,7 +634,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yyteri_beach_(45572598264).jpg",
           "sourceType": "poi",
           "sourceArticleId": "pori-wp",
-          "sourceGeohash4": "u6zt"
+          "sourceGeohash4": "u6zt",
+          "mediumPath": "_m/u/6/z/t/pori-wp/yyteri-beach-45572598264-medium.webp",
+          "smallPath": "_m/u/6/z/t/pori-wp/yyteri-beach-45572598264-small.webp"
         },
         {
           "path": "_m/tpc/ko/ke/ma/ki/kokemaki/pyhan-henrikin-kappeli-1.jpg",
@@ -624,7 +657,9 @@
             "Self-published work",
             "St. Henry's Chapel",
             "Taken with Canon PowerShot A480"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ko/ke/ma/ki/kokemaki/pyhan-henrikin-kappeli-1-medium.webp",
+          "smallPath": "_m/tpc/ko/ke/ma/ki/kokemaki/pyhan-henrikin-kappeli-1-small.webp"
         },
         {
           "path": "_m/tpc/ko/ke/ma/ki/kokemaki/kokemaki-church-in-tulkkila-fi.jpg",
@@ -645,7 +680,9 @@
             "CC-Zero",
             "Kokemäki Church",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ko/ke/ma/ki/kokemaki/kokemaki-church-in-tulkkila-fi-medium.webp",
+          "smallPath": "_m/tpc/ko/ke/ma/ki/kokemaki/kokemaki-church-in-tulkkila-fi-small.webp"
         },
         {
           "path": "_m/tpc/ko/ke/ma/ki/kokemaki/old-hotel-seurahuone-in-tulkki.jpg",
@@ -666,7 +703,9 @@
             "CC-Zero",
             "Hotels in Satakunta",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ko/ke/ma/ki/kokemaki/old-hotel-seurahuone-in-tulkki-medium.webp",
+          "smallPath": "_m/tpc/ko/ke/ma/ki/kokemaki/old-hotel-seurahuone-in-tulkki-small.webp"
         },
         {
           "path": "_m/tpc/ko/ke/ma/ki/kokemaki/sapilan-riippusilta-007.jpg",
@@ -687,7 +726,9 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work",
             "Säpilä suspension bridge"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ko/ke/ma/ki/kokemaki/sapilan-riippusilta-007-medium.webp",
+          "smallPath": "_m/tpc/ko/ke/ma/ki/kokemaki/sapilan-riippusilta-007-small.webp"
         }
       ],
       "narration": [

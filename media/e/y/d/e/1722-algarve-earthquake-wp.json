@@ -3,32 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/y/d/e/1722-algarve-earthquake-wp/hero.png",
-        "filename": "Bullseye1.png",
-        "caption": "Bull's eye graphic for use with earthquake location maps",
-        "alt": "Bull's eye graphic for use with earthquake location maps",
-        "width": 1610,
-        "height": 1610,
-        "mimeType": "image/png",
+        "path": "_m/e/y/c/s/lisbon-wp/reliefkarte-portugal.png",
+        "filename": "Reliefkarte Portugal.png",
+        "caption": "Reliefkarte Portugal",
+        "alt": "Reliefkarte Portugal",
+        "width": 1633,
+        "height": 3133,
         "license": "CC BY-SA 3.0",
-        "artist": "Mikenorton",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bullseye1.png",
-        "sourceType": "core",
-        "sourceArticleId": "1722-algarve-earthquake-wp",
-        "sourceGeohash4": "eyde",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Files with derivative versions",
-          "GFDL",
-          "License migration redundant",
-          "Map pointers",
-          "Self-published work",
-          "Vector version available"
-        ]
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "artist": "Tschubby",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reliefkarte_Portugal.png",
+        "smallPath": "_m/e/y/c/s/lisbon-wp/reliefkarte-portugal-small.webp"
       },
       "images": [
         {
-          "path": "_m/e/y/d/e/1722-algarve-earthquake-wp/reliefkarte-portugal.png",
+          "path": "_m/e/y/c/s/lisbon-wp/reliefkarte-portugal.png",
           "filename": "Reliefkarte Portugal.png",
           "caption": "Reliefkarte Portugal",
           "alt": "Reliefkarte Portugal",
@@ -49,7 +38,8 @@
             "Relief location maps of Portugal",
             "Self-published work",
             "Topographic maps of Portugal"
-          ]
+          ],
+          "smallPath": "_m/e/y/c/s/lisbon-wp/reliefkarte-portugal-small.webp"
         }
       ],
       "narration": [
@@ -61,8 +51,9 @@
         "_m/e/y/d/e/1722-algarve-earthquake-wp/eyde-1722-algarve-earthquake-echoes-in-the-landscape.mp3"
       ],
       "combinedNarration": "_m/e/y/d/e/1722-algarve-earthquake-wp/eyde-1722-algarve-earthquake-combined.mp3",
-      "combinedNarrationBytes": 3107791,
-      "combinedNarrationDuration": 259
+      "combinedNarrationBytes": 3190273,
+      "combinedNarrationDuration": 259,
+      "combinedCover": "_m/e/y/d/e/1722-algarve-earthquake-wp/eyde-1722-algarve-earthquake-combined-cover.jpg"
     }
   }
 }

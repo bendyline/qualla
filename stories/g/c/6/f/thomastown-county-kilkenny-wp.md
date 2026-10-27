@@ -42,7 +42,7 @@ Located at 52.53 degrees N, 7.14 degrees W in County Kilkenny, Ireland, on the R
 - [Dysart Castle - Wikipedia](https://en.wikipedia.org/wiki/Dysart_Castle)
   - George Berkeley's family connection to Dysart Castle near Thomastown confirmed
   - Berkeley's philosophy and name given to Berkeley California confirmed
-- [Mount Juliet Golf Course - WGC-American Express Championships 2002 and 2004](https://en.wikipedia.org/wiki/Thomastown,_County_Kilkenny)
+- [Mount Juliet Golf Course - WGC-American Express Championships 2002 and 2004](https://en.wikipedia.org/?curid=1003529)
   - Mount Juliet hosted WGC-American Express Championships 2002 and 2004 confirmed
   - Jack Nicklaus-designed course confirmed
   - John Martyn lived in Thomastown from 1998 until death in 2009 confirmed

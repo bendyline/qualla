@@ -28,7 +28,7 @@ The building was added to the National Register of Historic Places in 1975 and d
 
 ## Flight Context
 
-The Ponce de Leon Hotel (now Flagler College) is located at approximately 29.892N, 81.315W in downtown St. Augustine. From the air, its Spanish Colonial Revival towers, terracotta roofline, and central dome are unmistakable landmarks in the historic district. The building sits directly across King Street from the Lightner Museum (former Hotel Alcazar) and one block from the Casa Monica Hotel. The Matanzas River is visible to the east, with the Bridge of Lions connecting to Anastasia Island. Nearest airport: St. Augustine Airport (KSGJ), approximately 4nm northwest. The Castillo de San Marcos is visible to the northeast along the bayfront. Best viewed at 1,500-3,000 feet in clear conditions.
+The Ponce de Leon Hotel (now Flagler College) is located at approximately 29.892N, 81.315W in downtown St. Augustine. From the air, its Spanish Colonial Revival towers, terracotta roofline, and central dome are unmistakable landmarks in the historic district. The building sits directly across King Street from the Lightner Museum (former Hotel Alcazar) and one block from the Casa Monica Hotel. The Matanzas River is visible to the east, with the Bridge of Lions connecting to Anastasia Island. Nearest airport: Northeast Florida Regional Airport (KSGJ, formerly St. Augustine Airport), approximately 4nm northwest. The Castillo de San Marcos is visible to the northeast along the bayfront. Best viewed at 1,500-3,000 feet in clear conditions.
 
 ## Sources
 

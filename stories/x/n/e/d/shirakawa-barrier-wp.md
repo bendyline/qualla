@@ -40,7 +40,7 @@ Located at 37.05N, 140.23E in the southern portion of Fukushima Prefecture, thre
 - [Neft Asia - Following the Narrow Path](https://jp.neft.asia/en/archives/25118)
   - Shirakawa Barrier served as entrance to the deep north confirmed
   - Crossing the barrier was one of Basho's long-cherished wishes confirmed
-- [Shirakawa Barrier - Wikipedia](https://en.wikipedia.org/wiki/Shirakawa_Barrier)
+- [Shirakawa Barrier - Wikipedia](https://en.wikipedia.org/?curid=57384767)
   - First written record dated December 3, 835 AD confirmed
   - Matsudaira Sadanobu rediscovered site in 1800 confirmed
   - Designated National Historic Site in 1966 confirmed

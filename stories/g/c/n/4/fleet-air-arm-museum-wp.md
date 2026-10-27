@@ -36,7 +36,7 @@ Located at 51.014°N, 2.645°W at RNAS Yeovilton in southern Somerset, seven mil
 
 ## Sources
 
-- [Fleet Air Arm Museum - Wikipedia](https://en.wikipedia.org/wiki/Fleet_Air_Arm_Museum)
+- [Fleet Air Arm Museum - Wikipedia](https://en.wikipedia.org/?curid=5286675)
   - Museum opened in 1964, first hangar dedicated by Prince Philip
   - Concorde 002 (G-BSST) made maiden flight 9 April 1969 from Filton, Bristol
   - Concorde 002 arrived at RNAS Yeovilton in July 1976 for permanent display

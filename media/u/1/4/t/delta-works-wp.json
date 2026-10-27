@@ -12,28 +12,24 @@
         "_m/u/1/4/t/delta-works-wp/u14t-delta-works-the-battle-continues.mp3"
       ],
       "hero": {
-        "path": "_m/u/1/4/t/delta-works-wk/deltawerke-oosterschelde-sturm.jpg",
-        "filename": "Deltawerke-Oosterschelde-Sturmflutwehr Straße.jpg",
-        "caption": "Delta Works – Oosterschelde - Netherlands",
-        "alt": "Delta Works – Oosterschelde - Netherlands",
-        "width": 2400,
-        "height": 1700,
+        "path": "_m/u/1/4/t/delta-works-wp/hero.jpg",
+        "filename": "Haringvlietdam 2006 06 18-2.jpg",
+        "caption": "This is a picture of a proposed Rijksmonument in The Netherlands from the period 1959-1965. Its number in the list of 89 proposed monuments is:",
+        "alt": "This is a picture of a proposed Rijksmonument in The Netherlands from the period 1959-1965. Its number in the list of 89 proposed monuments is:",
+        "width": 3456,
+        "height": 2304,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Raimond Spekking",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deltawerke-Oosterschelde-Sturmflutwehr_Stra%C3%9Fe.jpg",
-        "sourceType": "sibling",
-        "sourceArticleId": "delta-works-wk",
+        "license": "CC BY 2.5",
+        "artist": "Quistnix at Dutch Wikipedia",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haringvlietdam_2006_06_18-2.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "delta-works-wp",
         "sourceGeohash4": "u14t",
         "accessedAt": "2026-02-22T14:03:38.497Z",
         "categories": [
-          "2004 in Zeeland",
-          "CC-BY-SA-4.0",
-          "Files by User:Raymond from de.wikipedia/Provinz Zeeland",
-          "Files with coordinates missing SDC location of creation (51° N, 3° E)",
-          "Information field template with formatting",
-          "June 2004 in the Netherlands",
-          "Oosterscheldekering",
+          "Beschermingsprogramma Wederopbouw 1959-1965",
+          "CC-BY-2.5",
+          "Haringvliet dewatering sluice",
           "Self-published work"
         ],
         "mediumPath": "_m/u/1/4/t/delta-works-wp/hero-medium.webp",
@@ -600,11 +596,11 @@
             "Haringvliet dewatering sluice",
             "Self-published work"
           ],
-          "mediumPath": "_m/u/1/4/t/delta-works-wp/deltawerke-oosterschelde-sturm-medium.webp",
-          "smallPath": "_m/u/1/4/t/delta-works-wp/deltawerke-oosterschelde-sturm-small.webp"
+          "mediumPath": "_m/u/1/4/t/delta-works-wp/hero-medium.webp",
+          "smallPath": "_m/u/1/4/t/delta-works-wp/hero-small.webp"
         },
         {
-          "path": "_m/u/1/4/t/delta-works-wk/hartelkering.jpg",
+          "path": "_m/u/1/4/t/delta-works-wp/hartelkering.jpg",
           "filename": "Hartelkering.jpg",
           "alt": "Hartelkering.jpg",
           "width": 1600,
@@ -654,12 +650,10 @@
             "License migration redundant",
             "Self-published work",
             "Sluices in the Netherlands"
-          ],
-          "mediumPath": "_m/u/1/4/t/delta-works-wp/haringvlietdam-20-medium.webp",
-          "smallPath": "_m/u/1/4/t/delta-works-wp/haringvlietdam-20-small.webp"
+          ]
         },
         {
-          "path": "_m/u/1/4/t/delta-works-wk/haringvlietdam-20.jpg",
+          "path": "_m/u/1/4/t/delta-works-wp/haringvlietdam-20.jpg",
           "filename": "HARINGVLIETDAM (20).jpg",
           "caption": "Haringvlietdam",
           "alt": "Haringvlietdam",
@@ -673,7 +667,8 @@
           "sourceArticleId": "delta-works-wk",
           "sourceGeohash4": "u14t",
           "accessedAt": "2026-02-22T14:03:38.497Z",
-          "smallPath": "_m/u/1/4/t/delta-works-wp/karte-der-bauwerke-des-deltapr-small.webp"
+          "mediumPath": "_m/u/1/4/t/delta-works-wp/haringvlietdam-20-medium.webp",
+          "smallPath": "_m/u/1/4/t/delta-works-wp/haringvlietdam-20-small.webp"
         },
         {
           "path": "_m/u/1/4/t/delta-works-wk/strandsegler-35028396035.jpg",
@@ -692,7 +687,7 @@
           "accessedAt": "2026-02-22T14:03:38.497Z"
         },
         {
-          "path": "_m/u/1/4/t/delta-works-wk/karte-der-bauwerke-des-deltapr.png",
+          "path": "_m/u/1/4/t/delta-works-wp/karte-der-bauwerke-des-deltapr.png",
           "filename": "Karte der Bauwerke des Deltaprojekts.png",
           "caption": "Karte der Bauwerke des Deltaprojekts",
           "alt": "Karte der Bauwerke des Deltaprojekts",
@@ -705,7 +700,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "delta-works-wk",
           "sourceGeohash4": "u14t",
-          "accessedAt": "2026-02-22T14:03:38.497Z"
+          "accessedAt": "2026-02-22T14:03:38.497Z",
+          "smallPath": "_m/u/1/4/t/delta-works-wp/karte-der-bauwerke-des-deltapr-small.webp"
         },
         {
           "path": "_m/u/1/4/t/zeeland-wp/sluis-view.jpg",
@@ -726,7 +722,9 @@
             "CC-BY-SA-2.0-DE",
             "Kaai, Sluis",
             "Taken with Fujifilm FinePix E550"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/t/zeeland-wp/sluis-view-medium.webp",
+          "smallPath": "_m/u/1/4/t/zeeland-wp/sluis-view-small.webp"
         },
         {
           "path": "_m/u/1/4/t/zeeland-wp/tholen-014.jpg",
@@ -751,7 +749,8 @@
             "Self-published work",
             "Taken with Canon PowerShot A520",
             "Tholen"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/t/zeeland-wp/tholen-014-small.webp"
         },
         {
           "path": "_m/u/1/4/t/zeeland-wp/terneuzendeich.jpg",
@@ -773,7 +772,9 @@
             "Self-published work",
             "Taken with HP PhotoSmart R717",
             "Terneuzen"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/t/zeeland-wp/terneuzendeich-medium.webp",
+          "smallPath": "_m/u/1/4/t/zeeland-wp/terneuzendeich-small.webp"
         },
         {
           "path": "_m/u/1/4/t/zeeland-wp/vliss-stjacob.jpg",
@@ -829,7 +830,9 @@
             "Self-published work",
             "Taken with Sony DSC-V1",
             "Wolphaartsdijk"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/t/zeeland-wp/muraltmuur-zeeland-medium.webp",
+          "smallPath": "_m/u/1/4/t/zeeland-wp/muraltmuur-zeeland-small.webp"
         },
         {
           "path": "_m/u/1/4/t/zeeland-wp/beach-near-zoutelande-59470436.jpg",
@@ -850,7 +853,9 @@
             "Beach of Zoutelande",
             "CC-BY-SA-2.0",
             "Files with coordinates missing SDC location of creation (51° N, 3° E)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/t/zeeland-wp/beach-near-zoutelande-59470436-medium.webp",
+          "smallPath": "_m/u/1/4/t/zeeland-wp/beach-near-zoutelande-59470436-small.webp"
         },
         {
           "path": "_m/u/1/4/t/zeeland-wp/westkapelle-town.png",
@@ -898,7 +903,9 @@
           "sourceType": "poi",
           "sourceArticleId": "zeeland-wp",
           "sourceGeohash4": "u14t",
-          "accessedAt": "2026-02-22T14:03:38.497Z"
+          "accessedAt": "2026-02-22T14:03:38.497Z",
+          "mediumPath": "_m/u/1/4/t/zeeland-wp/cadzand-sunrise-medium.webp",
+          "smallPath": "_m/u/1/4/t/zeeland-wp/cadzand-sunrise-small.webp"
         },
         {
           "path": "_m/u/1/4/t/zeeland-wp/2009-09-05-zierikzee-14.jpg",
@@ -914,7 +921,9 @@
           "sourceType": "poi",
           "sourceArticleId": "zeeland-wp",
           "sourceGeohash4": "u14t",
-          "accessedAt": "2026-02-22T14:03:38.497Z"
+          "accessedAt": "2026-02-22T14:03:38.497Z",
+          "mediumPath": "_m/u/1/4/t/zeeland-wp/2009-09-05-zierikzee-14-medium.webp",
+          "smallPath": "_m/u/1/4/t/zeeland-wp/2009-09-05-zierikzee-14-small.webp"
         },
         {
           "path": "_m/u/1/5/p/vlaardingen-wp/overzicht-met-het-gedeelte-van.jpg",
@@ -939,7 +948,9 @@
             "Files with coordinates missing SDC location of creation (51° N, 4° E)",
             "Images from the Rijksdienst voor het Cultureel Erfgoed",
             "Photographs by Sergé Technau"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/vlaardingen-wp/overzicht-met-het-gedeelte-van-medium.webp",
+          "smallPath": "_m/u/1/5/p/vlaardingen-wp/overzicht-met-het-gedeelte-van-small.webp"
         },
         {
           "path": "_m/u/1/5/p/vlaardingen-wp/vlaardingen-centrum-foto2-2014.jpg",
@@ -962,7 +973,9 @@
             "Netherlands photographs taken on 2014-03-09",
             "Self-published work",
             "Vlaardingen"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/vlaardingen-wp/vlaardingen-centrum-foto2-2014-medium.webp",
+          "smallPath": "_m/u/1/5/p/vlaardingen-wp/vlaardingen-centrum-foto2-2014-small.webp"
         },
         {
           "path": "_m/u/1/5/p/vlaardingen-wp/vlaardingen-wikivoyage-banner.jpg",
@@ -988,7 +1001,9 @@
             "Self-published work",
             "Wikivoyage banners by Wauteurz",
             "Wikivoyage banners of South Holland"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/vlaardingen-wp/vlaardingen-wikivoyage-banner-medium.webp",
+          "smallPath": "_m/u/1/5/p/vlaardingen-wp/vlaardingen-wikivoyage-banner-small.webp"
         },
         {
           "path": "_m/u/1/5/p/vlaardingen-wp/rk-bartholomeus-kerk-gantel-po.jpg",
@@ -1017,7 +1032,9 @@
             "Sint-Bartolomeüskerk, Poeldijk",
             "Vlaardingervaart",
             "Wateringen"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/vlaardingen-wp/rk-bartholomeus-kerk-gantel-po-medium.webp",
+          "smallPath": "_m/u/1/5/p/vlaardingen-wp/rk-bartholomeus-kerk-gantel-po-small.webp"
         },
         {
           "path": "_m/u/1/5/p/vlaardingen-wp/gantel-poeldijk-23915984858.jpg",
@@ -1046,7 +1063,9 @@
             "Vlaardingen",
             "Vlaardingervaart",
             "Wateringen"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/vlaardingen-wp/gantel-poeldijk-23915984858-medium.webp",
+          "smallPath": "_m/u/1/5/p/vlaardingen-wp/gantel-poeldijk-23915984858-small.webp"
         }
       ],
       "videos": [

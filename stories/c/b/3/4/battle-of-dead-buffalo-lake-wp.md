@@ -38,7 +38,7 @@ Located at 46.90N, 99.78W in central North Dakota, approximately 2 miles northwe
 
 - [Battle of Dead Buffalo Lake - Wikipedia](https://en.wikipedia.org/?curid=1855522)
 - [National Park Service Battle Summary](https://web.archive.org/web/20050606082643/http://www.cr.nps.gov/hps/abpp/battles/nd002.htm)
-- [Wikipedia - Battle of Dead Buffalo Lake](https://en.wikipedia.org/wiki/Battle_of_Dead_Buffalo_Lake)
+- [Wikipedia - Battle of Dead Buffalo Lake](https://en.wikipedia.org/?curid=1855522)
   - July 26 1863 date
   - Sitting Bull counted coup with whip on muleteer
   - Sibley 2056-man column

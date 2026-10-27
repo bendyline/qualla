@@ -33,7 +33,7 @@ Located at 35.554°N, 138.490°E in the town of Ichikawamisato, in the Fuji Rive
 ## Sources
 
 - [Ichinomiya Sengen Shrine - Wikipedia](https://en.wikipedia.org/?curid=70296969)
-- [Ichinomiya Sengen Shrine - Wikipedia](https://en.wikipedia.org/wiki/Ichinomiya_Sengen_Shrine)
+- [Ichinomiya Sengen Shrine - Wikipedia](https://en.wikipedia.org/?curid=70296969)
   - Bronze mirror dated 238 AD from Eastern Wu
   - Earliest positively dated mirror in Japan
   - Designated National Important Cultural Property June 6 1979

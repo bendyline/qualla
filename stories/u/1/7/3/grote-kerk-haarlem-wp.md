@@ -40,7 +40,7 @@ Located at 52.3808N, 4.6364E in central Haarlem, the Grote Kerk tower rises abov
   - ~5000 pipes confirmed
   - Marcussen restoration 1959–1961 confirmed
   - Flentrop voicing 1987–2000 confirmed
-- [Grote Kerk, Haarlem - Wikipedia](https://en.wikipedia.org/wiki/Grote_Kerk,_Haarlem)
+- [Grote Kerk, Haarlem - Wikipedia](https://en.wikipedia.org/?curid=732129)
   - Mozart played organ in 1766 at age 10 confirmed (born 1756)
   - Handel played organ confirmed
   - Haarlemse Noon 1578 confirmed

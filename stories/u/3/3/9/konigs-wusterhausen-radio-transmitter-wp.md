@@ -46,7 +46,7 @@ The Funkerberg sits at 52.2917 N, 13.625 E, on the southeastern edge of Königs 
 
 ## Sources
 
-- [Königs Wusterhausen radio transmitter - Wikipedia](https://en.wikipedia.org/wiki/K%C3%B6nigs_Wusterhausen_radio_transmitter)
+- [Königs Wusterhausen radio transmitter - Wikipedia](https://en.wikipedia.org/?curid=1270834)
   - German armed forces conducted radio experiments on the Windmühlenberg hill northwest of Königs Wusterhausen from 1911, using mobile stations on horse carriages and antennas held by captive balloons
   - Extended signal corps facilities erected from 1913; military station later called Senderhaus 1 put into operation in 1916
   - Reichspost took over the barracks with effect from September 1919, using the facilities for weather reports, financial news and telegrams

@@ -38,7 +38,7 @@ Ilha dos Lobos sits at roughly 29.33°S, 49.70°W, about two kilometers offshore
   - Ecological Reserve established 4 July 1983 confirmed
   - reclassified as wildlife refuge 4 July 2005 confirmed
   - sea lion haul-out July to November confirmed
-- [Ilha dos Lobos original area - Wikipedia / Wikidata](https://en.wikipedia.org/wiki/Ilha_dos_Lobos)
+- [Ilha dos Lobos original area - Wikipedia / Wikidata](https://en.wikipedia.org/?curid=5643387)
   - original reserve area 16,966 sq meters (story says 'less than seventeen thousand square meters') — accurate
 - [Zeca Scheffer - en-academic.com](https://en-academic.com/dic.nsf/enwiki/4541356)
   - Zeca Scheffer credited with putting Ilha dos Lobos on map as tow-in surf spot confirmed

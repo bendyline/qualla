@@ -49,7 +49,7 @@ Located at 39.24N, 92.84W on a hilltop overlooking the Missouri River in Howard 
   - Clark dispatched with approximately 1,800 men confirmed
   - Colonel Sidney D. Jackman participated confirmed
   - Collins Missouri Battery provided artillery from across river confirmed
-- [Multiple sources - Casualties and Caples death](https://en.wikipedia.org/wiki/Battle_of_Glasgow,_Missouri)
+- [Multiple sources - Casualties and Caples death](https://en.wikipedia.org/?curid=1615876)
   - William Goff Caples killed by Confederate artillery (friendly fire) confirmed
   - 8-11 Union killed, approximately 32 wounded confirmed
   - Historian Mark Lause estimates closer to four dozen wounded confirmed

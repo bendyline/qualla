@@ -28,7 +28,7 @@ One of the heiau's most remarkable qualities is astronomical. At the start of Ma
 
 ## Flight Context
 
-Located at 21.645N, 158.062W on a hilltop above Waimea Bay on Oahu's North Shore. The heiau sits on a ridge east of Waimea Valley, accessible from Pupukea Homestead Road. From the air, look for the cleared hilltop with stone wall outlines above the bay. The prominent Waimea Bay crescent and the Waianae Mountain range provide visual references. Nearest airport: Dillingham Airfield (PHDH), approximately 12 nm west. Honolulu International (PHNL) is roughly 28 nm south-southeast. Best viewed at low altitude from over the ocean, looking inland.
+Located at 21.645N, 158.062W on a hilltop above Waimea Bay on Oahu's North Shore. The heiau sits on a ridge east of Waimea Valley, accessible from Pupukea Homestead Road. From the air, look for the cleared hilltop with stone wall outlines above the bay. The prominent Waimea Bay crescent and the Waianae Mountain range provide visual references. Nearest airport: Dillingham Airfield (PHDH), approximately 12 nm west. Daniel K. Inouye International Airport (PHNL, formerly Honolulu International) is roughly 28 nm south-southeast. Best viewed at low altitude from over the ocean, looking inland.
 
 ## Sources
 

@@ -3,32 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/m/v/f/1915-imperial-valley-earthquakes-wp/hero.png",
-        "filename": "Bullseye1.png",
-        "caption": "Bull's eye graphic for use with earthquake location maps",
-        "alt": "Bull's eye graphic for use with earthquake location maps",
-        "width": 1610,
-        "height": 1610,
-        "mimeType": "image/png",
-        "license": "CC BY-SA 3.0",
-        "artist": "Mikenorton",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bullseye1.png",
+        "path": "_m/9/m/v/f/1915-imperial-valley-earthquakes-wp/satellite-photos-salto.jpg",
+        "filename": "Salton Trough.jpg",
+        "caption": "Satellite photos of Salton Trough and surrounding conurbations",
+        "alt": "Satellite photos of Salton Trough and surrounding conurbations",
+        "width": 1745,
+        "height": 1440,
+        "mimeType": "image/jpeg",
+        "license": "Public domain",
+        "artist": "NASA Earth Observatory image by Jesse Allen, using data from the Level 1 and Atmospheres Active Distribution System (LAADS), cropped by User:HLHJ",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salton_Trough.jpg",
         "sourceType": "core",
         "sourceArticleId": "1915-imperial-valley-earthquakes-wp",
         "sourceGeohash4": "9mvf",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Files with derivative versions",
-          "GFDL",
-          "License migration redundant",
-          "Map pointers",
-          "Self-published work",
-          "Vector version available"
-        ]
+          "PD NASA",
+          "Salton Sea",
+          "Salton Trough",
+          "Satellite pictures of California",
+          "Satellite pictures of Mexico"
+        ],
+        "smallPath": "_m/9/m/v/f/1915-imperial-valley-earthquakes-wp/satellite-photos-salto-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/m/v/f/1915-imperial-valley-earthquakes-wp/hero.png",
+          "path": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero.png",
           "filename": "Relief map of California.png",
           "caption": "Relief map of California, USA.",
           "alt": "Relief map of California, USA.",
@@ -53,7 +52,8 @@
             "Self-published work",
             "Topographic maps of California",
             "Vaca Mountains"
-          ]
+          ],
+          "smallPath": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero-small.webp"
         },
         {
           "path": "_m/9/m/v/f/1915-imperial-valley-earthquakes-wp/satellite-photos-salto.jpg",
@@ -100,7 +100,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon PowerShot A560"
-          ]
+          ],
+          "smallPath": "_m/9/m/v/c/mexicali-wp/cdrlsragdpemexicali-small.webp"
         },
         {
           "path": "_m/9/m/v/c/mexicali-wp/mexicali-baja-california-21813.jpg",
@@ -123,7 +124,9 @@
             "Flickr images reviewed by FlickreviewR 2",
             "Photographs by Comisión Mexicana de Filmaciones",
             "Streets in Mexicali"
-          ]
+          ],
+          "mediumPath": "_m/9/m/v/c/mexicali-wp/mexicali-baja-california-21813-medium.webp",
+          "smallPath": "_m/9/m/v/c/mexicali-wp/mexicali-baja-california-21813-small.webp"
         },
         {
           "path": "_m/9/m/v/c/mexicali-wp/mexicali-banner.jpg",
@@ -147,7 +150,9 @@
             "Self-published work",
             "Streets in Mexicali",
             "Wikivoyage banners of Baja California"
-          ]
+          ],
+          "mediumPath": "_m/9/m/v/c/mexicali-wp/mexicali-banner-medium.webp",
+          "smallPath": "_m/9/m/v/c/mexicali-wp/mexicali-banner-small.webp"
         },
         {
           "path": "_m/9/m/v/c/mexicali-wp/mxl-aeropuerto.jpg",
@@ -168,7 +173,9 @@
             "CC-BY-SA-4.0",
             "General Rodolfo Sánchez Taboada International Airport, Mexicali",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/9/m/v/c/mexicali-wp/mxl-aeropuerto-medium.webp",
+          "smallPath": "_m/9/m/v/c/mexicali-wp/mxl-aeropuerto-small.webp"
         }
       ],
       "narration": [

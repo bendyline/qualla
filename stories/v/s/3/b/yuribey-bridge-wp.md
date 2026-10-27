@@ -33,7 +33,7 @@ Located at 68.92N, 70.31E on the Yamal Peninsula in the Yamalo-Nenets Autonomous
 ## Sources
 
 - [Yuribey Bridge - Wikipedia](https://en.wikipedia.org/?curid=29778788)
-- [Yuribey Bridge - Wikipedia and Railway Gazette](https://en.wikipedia.org/wiki/Yuribey_Bridge)
+- [Yuribey Bridge - Wikipedia and Railway Gazette](https://en.wikipedia.org/?curid=29778788)
   - Bridge length 3.9 km — confirmed
   - Longest bridge above Arctic Circle — confirmed
   - Built in 349 days — confirmed

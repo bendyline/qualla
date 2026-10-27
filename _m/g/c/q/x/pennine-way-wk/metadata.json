@@ -1,5 +1,26 @@
 {
   "articleId": "pennine-way-wk",
+  "narration": {
+    "files": [
+      "gcqx-pennine-way-flight-context.mp3",
+      "gcqx-pennine-way-intro.mp3",
+      "gcqx-pennine-way-the-long-fight.mp3",
+      "gcqx-pennine-way-the-dark-peak.mp3",
+      "gcqx-pennine-way-the-yorkshire-dales.mp3",
+      "gcqx-pennine-way-high-force-and-high-crosses.mp3",
+      "gcqx-pennine-way-the-cheviots.mp3"
+    ],
+    "durations": {
+      "gcqx-pennine-way-flight-context.mp3": 71.2748333,
+      "gcqx-pennine-way-intro.mp3": 50.1465416,
+      "gcqx-pennine-way-the-long-fight.mp3": 62.7780416,
+      "gcqx-pennine-way-the-dark-peak.mp3": 62.982,
+      "gcqx-pennine-way-the-yorkshire-dales.mp3": 59.9415,
+      "gcqx-pennine-way-high-force-and-high-crosses.mp3": 61.9837083,
+      "gcqx-pennine-way-the-cheviots.mp3": 63.0185
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
   "hero": {
     "filename": "End of the Pennine Way, Kirk Yetholm - geograph.org.uk - 4153042.jpg",
     "title": "File:End of the Pennine Way, Kirk Yetholm - geograph.org.uk - 4153042.jpg",
@@ -339,7 +360,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "pennine-way-wk",
-      "sourceGeohash4": "gcqx"
+      "sourceGeohash4": "gcqx",
+      "smallPath": "_m/g/c/q/x/pennine-way-wk/pennine-way-sign-small.webp"
     }
   ],
   "galleryPaths": [
@@ -357,26 +379,5 @@
     "_m/g/c/q/x/pennine-way-wk/pennine-way.png",
     "_m/g/c/q/x/pennine-way-wk/pennine-way-sign.webp"
   ],
-  "updatedAt": "2026-02-22T12:58:16.044Z",
-  "narration": {
-    "files": [
-      "gcqx-pennine-way-flight-context.mp3",
-      "gcqx-pennine-way-intro.mp3",
-      "gcqx-pennine-way-the-long-fight.mp3",
-      "gcqx-pennine-way-the-dark-peak.mp3",
-      "gcqx-pennine-way-the-yorkshire-dales.mp3",
-      "gcqx-pennine-way-high-force-and-high-crosses.mp3",
-      "gcqx-pennine-way-the-cheviots.mp3"
-    ],
-    "durations": {
-      "gcqx-pennine-way-flight-context.mp3": 71.2748333,
-      "gcqx-pennine-way-intro.mp3": 50.1465416,
-      "gcqx-pennine-way-the-long-fight.mp3": 62.7780416,
-      "gcqx-pennine-way-the-dark-peak.mp3": 62.982,
-      "gcqx-pennine-way-the-yorkshire-dales.mp3": 59.9415,
-      "gcqx-pennine-way-high-force-and-high-crosses.mp3": 61.9837083,
-      "gcqx-pennine-way-the-cheviots.mp3": 63.0185
-    },
-    "voice": "en-US-Ava3:DragonHDLatestNeural"
-  }
+  "updatedAt": "2026-02-22T12:58:16.044Z"
 }

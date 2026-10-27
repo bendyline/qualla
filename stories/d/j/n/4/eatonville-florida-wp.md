@@ -33,7 +33,7 @@ Located at 28.62N, 81.38W in Orange County, Florida, approximately 6nm north of 
 ## Sources
 
 - [Eatonville, Florida - Wikipedia](https://en.wikipedia.org/?curid=109530)
-- [Wikipedia - Eatonville, Florida](https://en.wikipedia.org/wiki/Eatonville,_Florida)
+- [Wikipedia - Eatonville, Florida](https://en.wikipedia.org/?curid=109530)
   - Incorporation date August 15, 1887
   - One of the oldest self-governing all-Black municipalities
   - Population 2,349 at 2020 census (article says roughly 2,350)

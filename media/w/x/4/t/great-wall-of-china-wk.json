@@ -3,32 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/x/4/t/great-wall-of-china-wk/hero.jpg",
-        "filename": "Great wall stops in see.jpg",
-        "caption": "The Great Wall of China's eastern end is on the shore of the Bohai Sea",
-        "alt": "The Great Wall of China's eastern end is on the shore of the Bohai Sea",
-        "width": 3264,
-        "height": 2448,
+        "path": "_m/w/x/4/t/great-wall-of-china-wk/china-3998197272.jpg",
+        "filename": "China (3998197272).jpg",
+        "caption": "China",
+        "alt": "China",
+        "width": 4288,
+        "height": 2848,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Bertrouf",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_wall_stops_in_see.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "M M from Switzerland",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:China_(3998197272).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "great-wall-of-china-wk",
         "sourceGeohash4": "wx4t",
-        "categories": [
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "Files with coordinates missing SDC location of creation",
-          "GFDL",
-          "License migration redundant",
-          "Old Dragon Head",
-          "Self-published work",
-          "Taken with Canon Digital IXUS 860 IS"
-        ]
+        "mediumPath": "_m/w/x/4/t/great-wall-of-china-wk/china-3998197272-medium.webp",
+        "smallPath": "_m/w/x/4/t/great-wall-of-china-wk/china-3998197272-small.webp"
       },
       "images": [
         {
-          "path": "_m/w/x/4/t/great-wall-of-china-wk/great-wall-of-china-location-m.png",
+          "path": "_m/w/x/4/m/badaling-wp/great-wall-of-china-location-m.png",
           "filename": "Great Wall of China location map.PNG",
           "alt": "Great Wall of China location map.PNG",
           "width": 989,
@@ -48,10 +41,11 @@
             "Maps of the Great Wall of China",
             "Media missing infobox template",
             "NASA World Wind"
-          ]
+          ],
+          "smallPath": "_m/w/x/4/m/badaling-wp/great-wall-of-china-location-m-small.webp"
         },
         {
-          "path": "_m/w/x/4/t/great-wall-of-china-wk/20090529-great-wall-8216.jpg",
+          "path": "_m/w/x/4/m/badaling-wp/20090529-great-wall-8216.jpg",
           "filename": "20090529 Great Wall 8216.jpg",
           "caption": "Great Wall of China near Jinshanling",
           "alt": "Great Wall of China near Jinshanling",
@@ -75,10 +69,12 @@
             "Quality images of China",
             "Self-published work",
             "Taken with Pentax K100D Super"
-          ]
+          ],
+          "mediumPath": "_m/w/x/4/m/badaling-wp/20090529-great-wall-8216-medium.webp",
+          "smallPath": "_m/w/x/4/m/badaling-wp/20090529-great-wall-8216-small.webp"
         },
         {
-          "path": "_m/w/x/4/t/great-wall-of-china-wk/20090529-great-wall-simatai-82.jpg",
+          "path": "_m/w/x/4/m/badaling-wp/20090529-great-wall-simatai-82.jpg",
           "filename": "20090529 Great Wall Simatai 8296.jpg",
           "caption": "Great Wall of China near Simatai",
           "alt": "Great Wall of China near Simatai",
@@ -99,10 +95,11 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Pentax K100D Super"
-          ]
+          ],
+          "smallPath": "_m/w/x/4/m/badaling-wp/20090529-great-wall-simatai-82-small.webp"
         },
         {
-          "path": "_m/w/x/4/t/great-wall-of-china-wk/image-5.png",
+          "path": "_m/w/x/4/m/badaling-wp/image-5.png",
           "filename": "תוואי החומה הסינית.png",
           "caption": "תוואי החומה הסינית",
           "alt": "תוואי החומה הסינית",
@@ -124,7 +121,8 @@
             "Maps of the Great Wall of China",
             "Retouched pictures",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/x/4/m/badaling-wp/image-5-small.webp"
         },
         {
           "path": "_m/w/x/4/t/great-wall-of-china-wk/china-great-wall.jpg",
@@ -553,7 +551,9 @@
             "Great Wall of China",
             "Information field template with formatting",
             "Photos in Flickr Explore"
-          ]
+          ],
+          "mediumPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/the-great-wall-by-hao-wei-medium.webp",
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/the-great-wall-by-hao-wei-small.webp"
         },
         {
           "path": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/map-of-the-great-wall-of-china.jpg",
@@ -576,7 +576,9 @@
             "Maps of the Great Wall of China",
             "Self-published work",
             "User:Maximilian Dörrbecker"
-          ]
+          ],
+          "mediumPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/map-of-the-great-wall-of-china-medium.webp",
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/map-of-the-great-wall-of-china-small.webp"
         },
         {
           "path": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/great-wall-of-china-view-1.jpg",
@@ -597,7 +599,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Great Wall of China at Badaling",
             "Taken with Canon PowerShot A710 IS"
-          ]
+          ],
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/great-wall-of-china-view-1-small.webp"
         },
         {
           "path": "_m/w/x/5/r/simatai-wp/great-wall-at-simatai-overlook.jpg",
@@ -615,7 +618,9 @@
           "sourceGeohash4": "wx4t",
           "categories": [
             "CC-BY-3.0"
-          ]
+          ],
+          "mediumPath": "_m/w/x/5/r/simatai-wp/great-wall-at-simatai-overlook-medium.webp",
+          "smallPath": "_m/w/x/5/r/simatai-wp/great-wall-at-simatai-overlook-small.webp"
         },
         {
           "path": "_m/w/x/5/r/jinshanling-wp/20090529-great-wall-8185.jpg",
@@ -630,7 +635,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_8185.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "jinshanling-wp",
-          "sourceGeohash4": "wx4t"
+          "sourceGeohash4": "wx4t",
+          "mediumPath": "_m/w/x/5/r/jinshanling-wp/20090529-great-wall-8185-medium.webp",
+          "smallPath": "_m/w/x/5/r/jinshanling-wp/20090529-great-wall-8185-small.webp"
         },
         {
           "path": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/mutianyugreatwallwildsection.jpg",
@@ -645,7 +652,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:MutianyuGreatWallWildSection.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "great-wall-of-china",
-          "sourceGeohash4": "tpc/gr/ea/t-/wa"
+          "sourceGeohash4": "tpc/gr/ea/t-/wa",
+          "mediumPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/mutianyugreatwallwildsection-medium.webp",
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/mutianyugreatwallwildsection-small.webp"
         },
         {
           "path": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/the-great-wall-of-china-514342.jpg",
@@ -660,7 +669,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_(5143422419).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "great-wall-of-china",
-          "sourceGeohash4": "tpc/gr/ea/t-/wa"
+          "sourceGeohash4": "tpc/gr/ea/t-/wa",
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/the-great-wall-of-china-514342-small.webp"
         },
         {
           "path": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/the-journey-of-discovery-beiji.jpg",
@@ -675,7 +685,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Journey_of_Discovery_Beijing_(6962643268).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "great-wall-of-china",
-          "sourceGeohash4": "tpc/gr/ea/t-/wa"
+          "sourceGeohash4": "tpc/gr/ea/t-/wa",
+          "mediumPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/the-journey-of-discovery-beiji-medium.webp",
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/the-journey-of-discovery-beiji-small.webp"
         },
         {
           "path": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/hanmuren.jpg",
@@ -690,7 +702,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hanmuren.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "great-wall-of-china",
-          "sourceGeohash4": "tpc/gr/ea/t-/wa"
+          "sourceGeohash4": "tpc/gr/ea/t-/wa",
+          "mediumPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/hanmuren-medium.webp",
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/hanmuren-small.webp"
         },
         {
           "path": "_m/w/x/5/r/jinshanling-wp/great-wall-china-jinsh-3.jpg",
@@ -705,7 +719,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "jinshanling-wp",
-          "sourceGeohash4": "wx4t"
+          "sourceGeohash4": "wx4t",
+          "mediumPath": "_m/w/x/5/r/jinshanling-wp/great-wall-china-jinsh-3-medium.webp",
+          "smallPath": "_m/w/x/5/r/jinshanling-wp/great-wall-china-jinsh-3-small.webp"
         },
         {
           "path": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/gubeikou-gate.jpg",
@@ -720,7 +736,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gubeikou_Gate.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "great-wall-of-china",
-          "sourceGeohash4": "tpc/gr/ea/t-/wa"
+          "sourceGeohash4": "tpc/gr/ea/t-/wa",
+          "mediumPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/gubeikou-gate-medium.webp",
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/gubeikou-gate-small.webp"
         },
         {
           "path": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/greatwall-2004-summer-1a.jpg",
@@ -735,7 +753,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:GreatWall_2004_Summer_1A.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "great-wall-of-china",
-          "sourceGeohash4": "tpc/gr/ea/t-/wa"
+          "sourceGeohash4": "tpc/gr/ea/t-/wa",
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/greatwall-2004-summer-1a-small.webp"
         },
         {
           "path": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/the-great-wall-of-china-from-w.jpg",
@@ -750,7 +769,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_from_watchtower.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "great-wall-of-china",
-          "sourceGeohash4": "tpc/gr/ea/t-/wa"
+          "sourceGeohash4": "tpc/gr/ea/t-/wa",
+          "mediumPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/the-great-wall-of-china-from-w-medium.webp",
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/the-great-wall-of-china-from-w-small.webp"
         },
         {
           "path": "_m/w/x/4/t/juyong-pass-wp/juyongguan-great-wall.jpg",
@@ -765,7 +786,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Juyongguan_Great_Wall.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "juyong-pass-wp",
-          "sourceGeohash4": "wx4t"
+          "sourceGeohash4": "wx4t",
+          "smallPath": "_m/w/x/4/t/juyong-pass-wp/juyongguan-great-wall-small.webp"
         },
         {
           "path": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/jiayuguan-fortress-2008.jpg",
@@ -780,7 +802,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jiayuguan_Fortress_2008.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "great-wall-of-china",
-          "sourceGeohash4": "tpc/gr/ea/t-/wa"
+          "sourceGeohash4": "tpc/gr/ea/t-/wa",
+          "mediumPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/jiayuguan-fortress-2008-medium.webp",
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/jiayuguan-fortress-2008-small.webp"
         },
         {
           "path": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/environmental-protection-sign-.jpg",
@@ -795,7 +819,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Environmental_protection_sign_near_Great_Wall._2011.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "great-wall-of-china",
-          "sourceGeohash4": "tpc/gr/ea/t-/wa"
+          "sourceGeohash4": "tpc/gr/ea/t-/wa",
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/environmental-protection-sign--small.webp"
         },
         {
           "path": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/huaibei-great-wall-signage.jpg",
@@ -810,7 +835,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huaibei_Great_Wall_Signage.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "great-wall-of-china",
-          "sourceGeohash4": "tpc/gr/ea/t-/wa"
+          "sourceGeohash4": "tpc/gr/ea/t-/wa",
+          "mediumPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/huaibei-great-wall-signage-medium.webp",
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/huaibei-great-wall-signage-small.webp"
         },
         {
           "path": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/tourists-at-the-great-wall-of-.jpg",
@@ -825,7 +852,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tourists_at_The_Great_Wall_of_China.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "great-wall-of-china",
-          "sourceGeohash4": "tpc/gr/ea/t-/wa"
+          "sourceGeohash4": "tpc/gr/ea/t-/wa",
+          "mediumPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/tourists-at-the-great-wall-of--medium.webp",
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/tourists-at-the-great-wall-of--small.webp"
         },
         {
           "path": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/the-great-wall-of-china-in-yan.jpg",
@@ -840,7 +869,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_in_Yanqing.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "great-wall-of-china",
-          "sourceGeohash4": "tpc/gr/ea/t-/wa"
+          "sourceGeohash4": "tpc/gr/ea/t-/wa",
+          "mediumPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/the-great-wall-of-china-in-yan-medium.webp",
+          "smallPath": "_m/tpc/gr/ea/t-/wa/great-wall-of-china/the-great-wall-of-china-in-yan-small.webp"
         },
         {
           "path": "_m/w/x/4/t/commune-by-the-great-wall-wp/commune-by-the-great-wall.jpg",
@@ -864,7 +895,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Ricoh Caplio GX8"
-          ]
+          ],
+          "smallPath": "_m/w/x/4/t/commune-by-the-great-wall-wp/commune-by-the-great-wall-small.webp"
         },
         {
           "path": "_m/w/x/4/t/commune-by-the-great-wall-wp/bamboo-house-designed-by-kengo.jpg",
@@ -886,7 +918,9 @@
             "Houses in Beijing",
             "Items with VRTS permission confirmed",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/x/4/t/commune-by-the-great-wall-wp/bamboo-house-designed-by-kengo-medium.webp",
+          "smallPath": "_m/w/x/4/t/commune-by-the-great-wall-wp/bamboo-house-designed-by-kengo-small.webp"
         },
         {
           "path": "_m/tpc/si/lk/-r/oa/silk-road/zhang-qian.jpg",
@@ -916,7 +950,8 @@
             "Template Unknown (author)",
             "Western Han Dynasty",
             "Zhang Qian"
-          ]
+          ],
+          "smallPath": "_m/tpc/si/lk/-r/oa/silk-road/zhang-qian-small.webp"
         },
         {
           "path": "_m/tpc/si/lk/-r/oa/silk-road/20050516220851-seidenstrasse-g.jpg",
@@ -939,7 +974,9 @@
             "Maps of the Silk Road",
             "Media missing infobox template",
             "Topographic maps of Asia"
-          ]
+          ],
+          "mediumPath": "_m/tpc/si/lk/-r/oa/silk-road/20050516220851-seidenstrasse-g-medium.webp",
+          "smallPath": "_m/tpc/si/lk/-r/oa/silk-road/20050516220851-seidenstrasse-g-small.webp"
         },
         {
           "path": "_m/tpc/si/lk/-r/oa/silk-road/caravansarai-karaj.jpg",
@@ -959,7 +996,8 @@
             "2004 in Karaj",
             "CC-BY-SA-2.5",
             "Shah Abbasi Caravanserai of Karaj"
-          ]
+          ],
+          "smallPath": "_m/tpc/si/lk/-r/oa/silk-road/caravansarai-karaj-small.webp"
         },
         {
           "path": "_m/tpc/si/lk/-r/oa/silk-road/travels-of-marco-polo.jpg",
@@ -974,7 +1012,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Travels_of_Marco_Polo.jpg",
           "sourceType": "poi",
           "sourceArticleId": "silk-road",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/si/lk/-r/oa/silk-road/travels-of-marco-polo-small.webp"
         },
         {
           "path": "_m/tpc/si/lk/-r/oa/silk-road/leh-palace.jpg",
@@ -989,7 +1028,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leh.palace.jpg",
           "sourceType": "poi",
           "sourceArticleId": "silk-road",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/si/lk/-r/oa/silk-road/leh-palace-medium.webp",
+          "smallPath": "_m/tpc/si/lk/-r/oa/silk-road/leh-palace-small.webp"
         },
         {
           "path": "_m/tpc/si/lk/-r/oa/silk-road/ulugh-beg-observatory-2.jpg",
@@ -1004,7 +1045,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ulugh_Beg_observatory_2.JPG",
           "sourceType": "poi",
           "sourceArticleId": "silk-road",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/si/lk/-r/oa/silk-road/ulugh-beg-observatory-2-medium.webp",
+          "smallPath": "_m/tpc/si/lk/-r/oa/silk-road/ulugh-beg-observatory-2-small.webp"
         }
       ],
       "narration": [

@@ -1,5 +1,26 @@
 {
   "articleId": "joshua-tree-wk",
+  "narration": {
+    "files": [
+      "9qj6-joshua-tree-flight-context.mp3",
+      "9qj6-joshua-tree-intro.mp3",
+      "9qj6-joshua-tree-the-geology.mp3",
+      "9qj6-joshua-tree-the-trees.mp3",
+      "9qj6-joshua-tree-the-culture.mp3",
+      "9qj6-joshua-tree-the-climbing.mp3",
+      "9qj6-joshua-tree-visiting-joshua-tree.mp3"
+    ],
+    "durations": {
+      "9qj6-joshua-tree-flight-context.mp3": 44.0486666,
+      "9qj6-joshua-tree-intro.mp3": 64.91975,
+      "9qj6-joshua-tree-the-geology.mp3": 48.10375,
+      "9qj6-joshua-tree-the-trees.mp3": 44.4505,
+      "9qj6-joshua-tree-the-culture.mp3": 48.386625,
+      "9qj6-joshua-tree-the-climbing.mp3": 39.958625,
+      "9qj6-joshua-tree-visiting-joshua-tree.mp3": 58.2407083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
   "hero": {
     "filename": "Joshua Tree page banner.jpg",
     "title": "File:Joshua Tree page banner.jpg",
@@ -88,33 +109,12 @@
       "sourceType": "core",
       "sourceArticleId": "joshua-tree-wk",
       "sourceGeohash4": "9qj6",
-      "smallPath": "_m/9/q/j/6/joshua-tree-wk/beauty-desert-californ-small.jpg",
-      "mediumPath": "_m/9/q/j/6/joshua-tree-wk/beauty-desert-californ-medium.jpg"
+      "smallPath": "_m/9/q/j/6/joshua-tree-desert-wk/beauty-of-joshua-tree-californ-small.webp",
+      "mediumPath": "_m/9/q/j/6/joshua-tree-desert-wk/beauty-of-joshua-tree-californ-medium.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/q/j/6/joshua-tree-desert-wk/beauty-of-joshua-tree-californ.jpg"
   ],
-  "updatedAt": "2026-01-29T09:08:16.740Z",
-  "narration": {
-    "files": [
-      "9qj6-joshua-tree-flight-context.mp3",
-      "9qj6-joshua-tree-intro.mp3",
-      "9qj6-joshua-tree-the-geology.mp3",
-      "9qj6-joshua-tree-the-trees.mp3",
-      "9qj6-joshua-tree-the-culture.mp3",
-      "9qj6-joshua-tree-the-climbing.mp3",
-      "9qj6-joshua-tree-visiting-joshua-tree.mp3"
-    ],
-    "durations": {
-      "9qj6-joshua-tree-flight-context.mp3": 44.0486666,
-      "9qj6-joshua-tree-intro.mp3": 64.91975,
-      "9qj6-joshua-tree-the-geology.mp3": 48.10375,
-      "9qj6-joshua-tree-the-trees.mp3": 44.4505,
-      "9qj6-joshua-tree-the-culture.mp3": 48.386625,
-      "9qj6-joshua-tree-the-climbing.mp3": 39.958625,
-      "9qj6-joshua-tree-visiting-joshua-tree.mp3": 58.2407083
-    },
-    "voice": "en-US-Ava3:DragonHDLatestNeural"
-  }
+  "updatedAt": "2026-01-29T09:08:16.740Z"
 }

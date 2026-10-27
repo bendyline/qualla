@@ -32,7 +32,7 @@ Located at 34.691°N, 135.795°E in the western suburbs of Nara city. From altit
 
 ## Sources
 
-- [Wikipedia - Heijō-kyō](https://en.wikipedia.org/wiki/Heij%C5%8D-ky%C5%8D)
+- [Wikipedia - Heijō-kyō](https://en.wikipedia.org/?curid=9948165)
   - Empress Genmei's order in 708, city complete 710
   - Population 50,000-100,000
   - Area more than 25 sq km

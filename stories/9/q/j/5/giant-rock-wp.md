@@ -28,7 +28,7 @@ Van Tassel died in 1978, and the airport closed three years earlier. Giant Rock 
 
 ## Flight Context
 
-Located at 34.33°N, 116.39°W near Landers, California. The pale dome of Giant Rock is visible from moderate altitudes against the flat desert floor. The ancient lakebed where Van Tassel built the airstrip is identifiable as a lighter, smoother surface nearby. Nearest airports: Twentynine Palms (TNP) ~15 miles east, Desert Resorts Regional (PSP) ~35 miles south. Best viewed at 4,000–6,000 ft in clear, low-humidity Mojave conditions.
+Located at 34.33°N, 116.39°W near Landers, California. The pale dome of Giant Rock is visible from moderate altitudes against the flat desert floor. The ancient lakebed where Van Tassel built the airstrip is identifiable as a lighter, smoother surface nearby. Nearest airports: Twentynine Palms (TNP) ~15 miles east, Palm Springs International (PSP) ~35 miles south. Best viewed at 4,000–6,000 ft in clear, low-humidity Mojave conditions.
 
 ## Sources
 

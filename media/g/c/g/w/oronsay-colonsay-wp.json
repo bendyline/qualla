@@ -21,7 +21,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/g/w/oronsay-colonsay-wp/hebridesmap.png",
+          "path": "_m/g/f/6/e/flannan-isles-wk/hebridesmap.png",
           "filename": "Hebridesmap.png",
           "alt": "Hebridesmap.png",
           "width": 935,
@@ -45,10 +45,11 @@
             "PNG that should use vector graphics",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/6/e/flannan-isles-wk/hebridesmap-small.webp"
         },
         {
-          "path": "_m/g/c/g/w/oronsay-colonsay-wp/scotland-relief-location-map.jpg",
+          "path": "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map.jpg",
           "filename": "Scotland relief location map.jpg",
           "caption": "Location map of Scotland, United Kingdom",
           "alt": "Location map of Scotland, United Kingdom",
@@ -65,10 +66,11 @@
             "CC-BY-SA-3.0",
             "Files by Uwe Dedering",
             "GFDL"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map-small.webp"
         },
         {
-          "path": "_m/g/c/g/w/oronsay-colonsay-wp/relief-map-argyll-bute.jpg",
+          "path": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute.jpg",
           "filename": "Argyll and Bute UK relief location map.jpg",
           "caption": "Relief map of Argyll and Bute, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 175%\nGeographic limits:\n\nWest: 7.2W\nEast: 4.5W\nNorth: 56.8N\nSouth: 55.2N",
           "alt": "Relief map of Argyll and Bute, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 175%\nGeographic limits:\n\nWest: 7.2W\nEast: 4.5W\nNorth: 56.8N\nSouth: 55.2N",
@@ -80,7 +82,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Argyll_and_Bute_UK_relief_location_map.jpg",
           "sourceType": "core",
           "sourceArticleId": "oronsay-colonsay-wp",
-          "sourceGeohash4": "gcgw"
+          "sourceGeohash4": "gcgw",
+          "mediumPath": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute-medium.webp",
+          "smallPath": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute-small.webp"
         },
         {
           "path": "_m/g/c/g/w/oronsay-colonsay-wp/oronsay-hebrides.jpg",
@@ -485,7 +489,8 @@
             "CC-BY-SA-2.5",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/is/la/y_/__/islay/bunnahabhain-destillery-small.webp"
         },
         {
           "path": "_m/g/c/g/m/bruichladdich-distillery-wp/hero.jpg",
@@ -506,7 +511,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon D2X"
-          ]
+          ],
+          "mediumPath": "_m/g/c/g/m/bruichladdich-distillery-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/g/m/bruichladdich-distillery-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/bowmore-dist.jpg",
@@ -526,7 +533,9 @@
             "Bowmore distillery",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/is/la/y_/__/islay/bowmore-dist-medium.webp",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/bowmore-dist-small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/ardbeg-whiskybrennerei-islay-s.jpg",
@@ -550,7 +559,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Sony DSC-T100"
-          ]
+          ],
+          "mediumPath": "_m/tpc/is/la/y_/__/islay/ardbeg-whiskybrennerei-islay-s-medium.webp",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/ardbeg-whiskybrennerei-islay-s-small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/finlaggan.jpg",
@@ -571,7 +582,9 @@
             "Jura, Scotland",
             "Kilfinlaggan Chapel",
             "Loch Finlaggan"
-          ]
+          ],
+          "mediumPath": "_m/tpc/is/la/y_/__/islay/finlaggan-medium.webp",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/finlaggan-small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/kilchoman-distillery-on-islay-.jpg",
@@ -586,7 +599,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kilchoman_Distillery_on_Islay,_Scotland.jpg",
           "sourceType": "poi",
           "sourceArticleId": "islay",
-          "sourceGeohash4": "gcgt"
+          "sourceGeohash4": "gcgt",
+          "mediumPath": "_m/tpc/is/la/y_/__/islay/kilchoman-distillery-on-islay--medium.webp",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/kilchoman-distillery-on-islay--small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/kildalton-high-cross-from-the-.jpg",
@@ -601,7 +616,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kildalton_High_Cross_from_the_West_-_geograph.org.uk_-_2971870.jpg",
           "sourceType": "poi",
           "sourceArticleId": "islay",
-          "sourceGeohash4": "gcgt"
+          "sourceGeohash4": "gcgt",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/kildalton-high-cross-from-the--small.webp"
         }
       ],
       "narration": [

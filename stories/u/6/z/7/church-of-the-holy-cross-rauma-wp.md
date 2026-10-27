@@ -46,7 +46,7 @@ The Church of the Holy Cross stands at 61.1297°N, 21.5122°E, beside the Rauman
 
 ## Sources
 
-- [Church of the Holy Cross, Rauma - Wikipedia](https://en.wikipedia.org/wiki/Church_of_the_Holy_Cross,_Rauma)
+- [Church of the Holy Cross, Rauma - Wikipedia](https://en.wikipedia.org/?curid=40560921)
   - monastery church of the Rauma Franciscan Friary; wooden church c. 1420; stone church completed 1515-1520 (exact age unknown)
   - two-aisle grey granite fieldstone construction; fresco-secco choir murals of the salvation story
   - murals date from the time of Arvid Kurck, Bishop of Turku 1510-1522

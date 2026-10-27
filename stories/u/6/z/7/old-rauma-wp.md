@@ -46,7 +46,7 @@ Old Rauma occupies the centre of Rauma at 61.1283°N, 21.5132°E, roughly a kilo
 
 ## Sources
 
-- [Old Rauma - Wikipedia](https://en.wikipedia.org/wiki/Old_Rauma)
+- [Old Rauma - Wikipedia](https://en.wikipedia.org/?curid=370007)
 - [Old Rauma - Association of World Heritage Sites in Finland](https://www.maailmanperinto.fi/en/old-rauma/)
   - Inscribed on the UNESCO World Heritage List in 1991 - confirmed
   - Area 29 hectares - confirmed

@@ -49,7 +49,7 @@ Roomade was a Brussels-based organisation rather than a single visitable buildin
   - Laboratorium held in Antwerp (not Brussels), 27 June–3 October 1999
   - Co-curated by Vanderlinden and Hans Ulrich Obrist
   - Featured 66 artists and scientists
-- [Roomade Indiscipline - Wikipedia / Artnet](https://en.wikipedia.org/wiki/Roomade)
+- [Roomade Indiscipline - Wikipedia / Artnet](https://en.wikipedia.org/?curid=71356448)
   - Indiscipline co-curated with Jens Hoffmann
   - Eight presentations across Brussels, October 26–December 3 2000
   - Participants included Chantal Mouffe, Bruno Latour, Boris Groys, Martha Rosler, Richard Foreman, Liam Gillick

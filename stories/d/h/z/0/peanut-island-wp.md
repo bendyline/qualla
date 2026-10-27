@@ -28,7 +28,7 @@ The Kennedy bunker sat largely forgotten until 1998, when the Palm Beach Maritim
 
 ## Flight Context
 
-Located at 26.77°N, 80.05°W in the Lake Worth Inlet, clearly visible from the air as a green island surrounded by the blue-green waters of the lagoon. The island sits immediately south of the Port of Palm Beach shipping channel and west of Singer Island. Best viewed at 1,500-3,000 feet AGL. Palm Beach International Airport (KPBI) is approximately 5 nm to the southwest. The Port of Palm Beach docks, Riviera Beach marina, and the Palm Beach coastline are all visible landmarks for orientation.
+Located at 26.77°N, 80.05°W in the Lake Worth Inlet, clearly visible from the air as a green island surrounded by the blue-green waters of the lagoon. The island sits immediately south of the Port of Palm Beach shipping channel and west of Singer Island. Best viewed at 1,500-3,000 feet AGL. President Donald J. Trump International Airport (KDJT, formerly Palm Beach International, KPBI) is approximately 5 nm to the southwest. The Port of Palm Beach docks, Riviera Beach marina, and the Palm Beach coastline are all visible landmarks for orientation.
 
 ## Sources
 

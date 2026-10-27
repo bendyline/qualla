@@ -41,7 +41,7 @@ Located at 38.61N, 106.06W in Chaffee County, Colorado, between Buena Vista and 
 - [Browns Canyon Dark Sky Park - BLM announcement](https://www.blm.gov/announcement/browns-canyon-national-monument-recognized-stargazing-destination-new-dark-sky-park)
   - Dark Sky Park certification December 2024
   - Certified by DarkSky International
-- [Browns Canyon National Monument - Wikipedia](https://en.wikipedia.org/wiki/Browns_Canyon_National_Monument)
+- [Browns Canyon National Monument - Wikipedia](https://en.wikipedia.org/?curid=45450377)
   - BLM proposed protection 1976
   - Colorado Wilderness Act 1991 Wayne Allard and Dan Schaefer
   - NRA opposition to wilderness designation

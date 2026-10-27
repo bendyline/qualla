@@ -3,34 +3,36 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/s/u/snaefell-wp/hero.jpg",
-        "filename": "Snaefell Mountain Summit - Isle of Man - kingsley - 24-APR-09.jpg",
-        "caption": "Top of Snaefell Mountain, Isle of Man's highest point.  Seen are the geodesic marker indicating the true summit and the nearby cairn with the informational plaque attached to it.",
-        "alt": "Top of Snaefell Mountain, Isle of Man's highest point.  Seen are the geodesic marker indicating the true summit and the nearby cairn with the informational plaque attached to it.",
-        "width": 2560,
-        "height": 1920,
+        "path": "_m/g/c/s/u/snaefell-wp/iom-landscape-of-snaefell-moun.jpg",
+        "filename": "IOM Landscape of Snaefell Mountain by Malost.JPG",
+        "caption": "Landscape of Snaefell Mountain. Isle of Man.",
+        "alt": "Landscape of Snaefell Mountain. Isle of Man.",
+        "width": 3648,
+        "height": 2736,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "Gregory J Kingsley",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snaefell_Mountain_Summit_-_Isle_of_Man_-_kingsley_-_24-APR-09.jpg",
-        "sourceType": "core",
+        "artist": "Malost",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:IOM_Landscape_of_Snaefell_Mountain_by_Malost.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "snaefell-wp",
         "sourceGeohash4": "gcsu",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Files with coordinates missing SDC location of creation (54° N, 5° W)",
+          "CC-BY-SA-3.0,2.5,2.0,1.0",
+          "Files by User:Malost",
           "GFDL",
           "License migration redundant",
+          "Mountains of the Isle of Man",
           "Self-published work",
+          "Sheep in the Isle of Man",
           "Snaefell",
-          "Snaefell Mountain Railway",
-          "Summits of the Isle of Man",
-          "Taken with Olympus C-5000Z"
-        ]
+          "Taken with Fujifilm FinePix S1500"
+        ],
+        "mediumPath": "_m/g/c/s/u/snaefell-wp/iom-landscape-of-snaefell-moun-medium.webp",
+        "smallPath": "_m/g/c/s/u/snaefell-wp/iom-landscape-of-snaefell-moun-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/s/u/snaefell-wp/schiehallion-viewed-ac.jpg",
+          "path": "_m/g/c/m/j/snowdon-wp/schiehallion-viewed-ac.jpg",
           "filename": "Schiehallion 01.jpg",
           "caption": "Schiehallion viewed across the River Tay, with its characteristic symmetry.",
           "alt": "Schiehallion viewed across the River Tay, with its characteristic symmetry.",
@@ -47,10 +49,12 @@
             "CC-BY-3.0",
             "Schiehallion",
             "Taken with Canon EOS 300D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/j/snowdon-wp/schiehallion-viewed-ac-medium.webp",
+          "smallPath": "_m/g/c/m/j/snowdon-wp/schiehallion-viewed-ac-small.webp"
         },
         {
-          "path": "_m/g/c/s/u/snaefell-wp/summit-hotel-snaefell-mountain.jpg",
+          "path": "_m/g/c/s/u/snaefell-mountain-railway-wp/summit-hotel-snaefell-mountain.jpg",
           "filename": "Summit Hotel - Snaefell Mountain - kingsley - 24-APR-09.jpg",
           "caption": "Structure once used as a mountaintop hotel at the upper terminus of the Snaefell Mountain Railway now houses a concession stand inside.",
           "alt": "Structure once used as a mountaintop hotel at the upper terminus of the Snaefell Mountain Railway now houses a concession stand inside.",
@@ -75,7 +79,9 @@
             "Snaefell Mountain Railway",
             "Summits of the Isle of Man",
             "Taken with Olympus C-5000Z"
-          ]
+          ],
+          "mediumPath": "_m/g/c/s/u/snaefell-mountain-railway-wp/summit-hotel-snaefell-mountain-medium.webp",
+          "smallPath": "_m/g/c/s/u/snaefell-mountain-railway-wp/summit-hotel-snaefell-mountain-small.webp"
         },
         {
           "path": "_m/g/c/s/u/snaefell-wp/footpath-normally-used.jpg",
@@ -131,7 +137,7 @@
           "smallPath": "_m/g/c/s/u/snaefell-wp/rock-cairn-atop-snaefe-small.webp"
         },
         {
-          "path": "_m/g/c/s/u/snaefell-wp/personal-photograph-ta.jpg",
+          "path": "_m/g/c/m/j/snowdon-wp/personal-photograph-ta.jpg",
           "filename": "Slioch from Loch Maree.jpg",
           "caption": "Personal photograph taken by Mick Knapton in May 1992",
           "alt": "Personal photograph taken by Mick Knapton in May 1992",
@@ -143,7 +149,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slioch_from_Loch_Maree.jpg",
           "sourceType": "core",
           "sourceArticleId": "snaefell-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "smallPath": "_m/g/c/m/j/snowdon-wp/personal-photograph-ta-small.webp"
         },
         {
           "path": "_m/g/c/s/u/snaefell-wp/highest-point-island-s.jpg",
@@ -162,7 +169,7 @@
           "smallPath": "_m/g/c/s/u/snaefell-wp/highest-point-island-s-small.webp"
         },
         {
-          "path": "_m/g/c/s/u/snaefell-wp/hero.jpg",
+          "path": "_m/g/c/s/u/geography-of-the-isle-of-man-wp/hero.jpg",
           "filename": "Isle of Man Terrain - Snaefell Mountain View - kingsley - 24-JUN-09.jpg",
           "caption": "View from the top of Snaefell Mountain looking southwestward showing the mountainous terrain along the axis of the Isle of Man.",
           "alt": "View from the top of Snaefell Mountain looking southwestward showing the mountainous terrain along the axis of the Isle of Man.",
@@ -186,7 +193,9 @@
             "Snaefell",
             "Summits of the Isle of Man",
             "Taken with Olympus C-5000Z"
-          ]
+          ],
+          "mediumPath": "_m/g/c/s/u/geography-of-the-isle-of-man-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/s/u/geography-of-the-isle-of-man-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/s/u/snaefell-wp/above-the-clouds-geograph-org-.jpg",
@@ -569,7 +578,8 @@
             "Photographs taken on 2005-07-31",
             "Self-published work",
             "Taken with Fujifilm FinePix A205"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/laxey-wheel-1-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/peel-isle-of-man.jpg",
@@ -592,7 +602,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Information field template with formatting",
             "Taken with Canon Digital IXUS 330"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/peel-isle-of-man-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/snaefell.jpg",
@@ -613,7 +624,8 @@
             "Self-published work",
             "Snaefell",
             "Taken with Canon PowerShot S3 IS"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/snaefell-small.webp"
         },
         {
           "path": "_m/g/c/s/e/castle-rushen-wp/hero.jpg",
@@ -628,7 +640,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle_Rushen.jpg",
           "sourceType": "poi",
           "sourceArticleId": "castle-rushen-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/e/castle-rushen-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/s/e/castle-rushen-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/cregneash-folk-museum-1988.jpg",
@@ -643,7 +657,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cregneash_Folk_Museum_1988.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/cregneash-folk-museum-1988-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22.jpg",
@@ -658,7 +673,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doolish_2013_22.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22-medium.webp",
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812.jpg",
@@ -673,7 +690,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jurby_Busses_(28134100812).jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812-medium.webp",
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812-small.webp"
         }
       ],
       "narration": [

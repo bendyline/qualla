@@ -36,7 +36,7 @@ Located at 35.657°N, 139.748°E in the Shiba neighborhood of Minato, Tokyo. Fro
 
 ## Sources
 
-- [Zōjō-ji - Wikipedia](https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji)
+- [Zōjō-ji - Wikipedia](https://en.wikipedia.org/?curid=1094319)
 - [Zojoji Temple - Official Website](https://www.zojoji.or.jp/en/)
   - Sangedatsumon gate built in 1622, oldest wooden building in Tokyo
   - Gate is designated Important Cultural Property

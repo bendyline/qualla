@@ -36,7 +36,7 @@ Phu Quoc Prison lies at 10.044N, 104.018E, on the flat coastal plain of the An T
 
 ## Sources
 
-- [Phú Quốc Prison - Wikipedia](https://en.wikipedia.org/wiki/Ph%C3%BA_Qu%E1%BB%91c_Prison)
+- [Phú Quốc Prison - Wikipedia](https://en.wikipedia.org/?curid=36974982)
 - [Vietnamese Wikipedia - Nhà tù Phú Quốc; English Wikipedia - Phú Quốc](https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%B9_Ph%C3%BA_Qu%E1%BB%91c)
   - Built 1949-1950 by French colonial authorities to detain political prisoners; known as Nha lao / Trai Cay Dua (Coconut Tree Camp) and as the An Thoi POW Camp - confirmed
   - French-era camp about 40 hectares; nearly 14,000 prisoners held; 99 deaths; about 200 escapes in the first year - confirmed via Vietnamese Wikipedia

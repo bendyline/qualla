@@ -37,7 +37,7 @@ The wreck site of USS Shark lies near the mouth of the Columbia River at approxi
 ## Sources
 
 - [USS Shark (1821) - Wikipedia](https://en.wikipedia.org/?curid=1354668)
-- [USS Shark (1821) - Wikipedia](https://en.wikipedia.org/wiki/USS_Shark_(1821))
+- [USS Shark (1821) - Wikipedia](https://en.wikipedia.org/?curid=1354668)
   - Built at Washington Navy Yard to designs of Henry Steers - confirmed
   - Matthew C. Perry received orders May 11 1821 - confirmed
   - Launched May 17 1821 - confirmed

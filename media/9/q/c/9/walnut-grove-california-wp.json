@@ -3,34 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/c/9/walnut-grove-california-wp/hero.jpg",
-        "filename": "Japanese-American Historic District.jpg",
-        "caption": "Walnut Grove Japanese-American Historic District, Bounded by Winnie St., Tyler St., C St., and River Rd. Walnut Grove",
-        "alt": "Walnut Grove Japanese-American Historic District, Bounded by Winnie St., Tyler St., C St., and River Rd. Walnut Grove",
-        "width": 5184,
-        "height": 3456,
+        "path": "_m/9/q/c/9/walnut-grove-california-wp/walnut-grove-2017-02-15-355965.jpg",
+        "filename": "Walnut Grove 2017-02-15 (35596533356).jpg",
+        "caption": "Walnut Grove near the Sacramento River during the wet winter of 2016-17. USFWS Photo/Steve Martarano",
+        "alt": "Walnut Grove near the Sacramento River during the wet winter of 2016-17. USFWS Photo/Steve Martarano",
+        "width": 5760,
+        "height": 3840,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Nicolasam",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Japanese-American_Historic_District.jpg",
-        "sourceType": "core",
+        "license": "Public domain",
+        "artist": "Pacific Southwest Region USFWS from Sacramento, US",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walnut_Grove_2017-02-15_(35596533356).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "walnut-grove-california-wp",
         "sourceGeohash4": "9qc9",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Images from Wikipedia Summer of Monuments",
-          "National Register of Historic Places with known IDs",
-          "Self-published work",
-          "Taken with Canon EOS 60D",
-          "Unreviewed submissions from Wikipedia Summer of Monuments",
-          "Uploaded via Campaign:wsm",
-          "Walnut Grove",
-          "Walnut Grove Japanese-American Historic District"
-        ]
+        "mediumPath": "_m/9/q/c/9/walnut-grove-california-wp/walnut-grove-2017-02-15-355965-medium.webp",
+        "smallPath": "_m/9/q/c/9/walnut-grove-california-wp/walnut-grove-2017-02-15-355965-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/c/9/walnut-grove-california-wp/s-map.png",
+          "path": "_m/9/q/c/2/sacramento-san-joaquin-river-delta-wp/s-map.png",
           "filename": "Sacramento-San Joaquin Delta OSM Cycle Large.png",
           "caption": "It's a map.",
           "alt": "It's a map.",
@@ -47,10 +38,12 @@
             "CC-BY-2.0",
             "Maps of San Joaquin County, California",
             "OpenStreetMap maps of California"
-          ]
+          ],
+          "mediumPath": "_m/9/q/c/2/sacramento-san-joaquin-river-delta-wp/s-map-medium.webp",
+          "smallPath": "_m/9/q/c/2/sacramento-san-joaquin-river-delta-wp/s-map-small.webp"
         },
         {
-          "path": "_m/9/q/c/9/walnut-grove-california-wp/hero.jpg",
+          "path": "_m/9/q/c/9/walnut-grove-buddhist-church-wp/hero.jpg",
           "filename": "WGBC Taiko.jpg",
           "caption": "A Taiko group performs at the Walnut Grove Buddhist Church Bazaar.",
           "alt": "A Taiko group performs at the Walnut Grove Buddhist Church Bazaar.",
@@ -68,7 +61,8 @@
             "Self-published work",
             "Taiko in California",
             "Walnut Grove Buddhist Church"
-          ]
+          ],
+          "smallPath": "_m/9/q/c/9/walnut-grove-buddhist-church-wp/hero-small.webp"
         },
         {
           "path": "_m/9/q/c/9/walnut-grove-california-wp/walnut-grove-ca-post-o.jpg",
@@ -410,7 +404,9 @@
             "National Register of Historic Places with known IDs",
             "Photographs and images by David Monniaux",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/9/q/c/9/locke-california-wp/hero-medium.webp",
+          "smallPath": "_m/9/q/c/9/locke-california-wp/hero-small.webp"
         },
         {
           "path": "_m/9/q/c/9/walnut-grove-wk/locke-banner.jpg",
@@ -432,7 +428,9 @@
             "Extracted images",
             "Self-published work",
             "Wikivoyage banners of California"
-          ]
+          ],
+          "mediumPath": "_m/9/q/c/9/walnut-grove-wk/locke-banner-medium.webp",
+          "smallPath": "_m/9/q/c/9/walnut-grove-wk/locke-banner-small.webp"
         }
       ],
       "narration": [

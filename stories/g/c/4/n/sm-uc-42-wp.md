@@ -36,7 +36,7 @@ The UC-42 wreck site lies at approximately 51.73 degrees N, 8.20 degrees W, in r
 
 ## Sources
 
-- [SM UC-42 - Wikipedia](https://en.wikipedia.org/wiki/SM_UC-42)
+- [SM UC-42 - Wikipedia](https://en.wikipedia.org/?curid=19797007)
   - Type UC II minelayer confirmed
   - Commissioned 18 November 1916 confirmed
   - Six patrols from Belgian ports confirmed

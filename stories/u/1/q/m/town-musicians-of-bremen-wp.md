@@ -36,7 +36,7 @@ The sculpture stands at approximately 53.0762N, 8.8075E, on the western side of 
 
 ## Sources
 
-- [Town Musicians of Bremen - Wikipedia](https://en.wikipedia.org/wiki/Town_Musicians_of_Bremen)
+- [Town Musicians of Bremen - Wikipedia](https://en.wikipedia.org/?curid=228204)
   - Published in second edition of Kinder- und Hausmarchen, 1819, KHM 27
   - Source storyteller Dorothea Viehmann (1755-1815)
   - Tale type ATU 130, 'The Animals in Night Quarters'

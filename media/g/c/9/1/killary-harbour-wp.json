@@ -26,7 +26,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/9/1/killary-harbour-wp/relief-map-ireland-equ.png",
+          "path": "_m/g/c/1/u/lusitania-sinking-wk/relief-map-ireland-equ.png",
           "filename": "Island of Ireland relief location map.png",
           "caption": "Relief map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
           "alt": "Relief map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
@@ -44,7 +44,8 @@
             "Images that should use vector graphics (vector data available)",
             "Maps by Nilfanion",
             "Relief location maps of Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/1/u/lusitania-sinking-wk/relief-map-ireland-equ-small.webp"
         },
         {
           "path": "_m/g/c/9/1/killary-harbour-wp/entrance-to-killary-harbour-ge.jpg",
@@ -126,7 +127,7 @@
           "smallPath": "_m/g/c/9/1/killary-harbour-wp/bracken-and-boulders-killary-h-small.webp"
         },
         {
-          "path": "_m/g/c/9/1/killary-harbour-wp/illanballa-island-killary-harb.jpg",
+          "path": "_m/g/c/9/0/twelve-bens-wp/illanballa-island-killary-harb.jpg",
           "filename": "Illanballa island, Killary Harbour - geograph.org.uk - 201093.jpg",
           "caption": "Illanballa island, Killary Harbour. View from the north bank of Killary Harbour (An Caolaire Rua) onto the Maumturks (left) and Twelve Bens (right). The gridsquare stretches across the harbour at this point. The yacht moored on the south bank (just visible on the right) is at the mouth of the Bunowen River (L8161)",
           "alt": "Illanballa island, Killary Harbour. View from the north bank of Killary Harbour (An Caolaire Rua) onto the Maumturks (left) and Twelve Bens (right). The gridsquare stretches across the harbour at this point. The yacht moored on the south bank (just visible on the right) is at the mouth of the Bunowen River (L8161)",
@@ -151,7 +152,8 @@
             "Republic of Ireland photographs taken on 2006-07-03",
             "Taken with Canon PowerShot S30",
             "Twelve Bens"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/0/twelve-bens-wp/illanballa-island-killary-harb-small.webp"
         },
         {
           "path": "_m/g/c/9/1/killary-harbour-wp/can-i-come-with-you-geograph-o.jpg",
@@ -458,7 +460,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/clifdenoverview-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/clifdenoverview-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/tuam-cathedral-of-the-assumpti.jpg",
@@ -493,7 +497,8 @@
             "September 2009 Ireland photographs",
             "Stained-glass windows of the Cathedral of the Assumption, Tuam",
             "Taken with Canon EOS 30D"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/r/county-galway-wp/tuam-cathedral-of-the-assumpti-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/tuam-high-street-2009-09-14.jpg",
@@ -522,7 +527,9 @@
             "Taken with Canon EOS 30D",
             "Time 01:32",
             "Tuam"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/tuam-high-street-2009-09-14-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/tuam-high-street-2009-09-14-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/letterfrack-connemara.jpg",
@@ -546,7 +553,9 @@
             "Letterfrack",
             "Taken with Fujifilm FinePix F30",
             "Tully Mountain"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/letterfrack-connemara-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/letterfrack-connemara-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/spiddal-pier.jpg",
@@ -561,7 +570,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spiddal_Pier.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc90"
+          "sourceGeohash4": "gc90",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/spiddal-pier-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/spiddal-pier-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/fahy-lake-omey-island-connemar.jpg",
@@ -576,7 +587,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fahy_Lake,_Omey_Island,_Connemara.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc90"
+          "sourceGeohash4": "gc90",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/fahy-lake-omey-island-connemar-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/fahy-lake-omey-island-connemar-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/portumna-castle.jpg",
@@ -591,7 +604,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portumna_Castle.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc90"
+          "sourceGeohash4": "gc90",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/portumna-castle-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/plassy-shipwreck-2016.jpg",
@@ -606,7 +620,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plassy_shipwreck_2016.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc90"
+          "sourceGeohash4": "gc90",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/plassy-shipwreck-2016-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/plassy-shipwreck-2016-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/galwaycitycollage.jpg",
@@ -621,7 +637,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galwaycitycollage.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc90"
+          "sourceGeohash4": "gc90",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/galwaycitycollage-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/galwaycitycollage-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/inishbofin-cromwell-s-barrack-.jpg",
@@ -636,7 +654,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inishbofin_Cromwell%27s_Barrack_II_2018_09_03.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc90"
+          "sourceGeohash4": "gc90",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/inishbofin-cromwell-s-barrack--medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/inishbofin-cromwell-s-barrack--small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/galway-hooker.jpg",
@@ -651,7 +671,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galway_Hooker.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc90"
+          "sourceGeohash4": "gc90",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/galway-hooker-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/galway-hooker-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/ashford-castle.jpg",
@@ -676,7 +698,8 @@
             "PD-self",
             "Photographs taken on 2006-04-19",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/ashford-castle-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/castlebar-large-view-from-abov.jpg",
@@ -696,7 +719,9 @@
             "CC-BY-SA-3.0",
             "Castlebar",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/castlebar-large-view-from-abov-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/castlebar-large-view-from-abov-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/croagh-patrick-chapel.jpg",
@@ -722,7 +747,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/croagh-patrick-chapel-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/croagh-patrick-chapel-small.webp"
         },
         {
           "path": "_m/g/c/9/6/castlebar-wp/ballintubber-abbey-eastern-ele.jpg",
@@ -737,7 +764,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballintubber_Abbey_eastern_elevation.JPG",
           "sourceType": "poi",
           "sourceArticleId": "castlebar-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "mediumPath": "_m/g/c/9/6/castlebar-wp/ballintubber-abbey-eastern-ele-medium.webp",
+          "smallPath": "_m/g/c/9/6/castlebar-wp/ballintubber-abbey-eastern-ele-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/cong-mayo-main-street-2119.jpg",
@@ -752,7 +781,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cong_Mayo_Main_street_2119.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-mayo-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/cong-mayo-main-street-2119-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/cong-mayo-main-street-2119-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/blacksod-lighthouse-geograph-4.jpg",
@@ -767,7 +798,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blacksod_Lighthouse_(geograph_4678840).jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-mayo-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/blacksod-lighthouse-geograph-4-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/ballina-st-muredach-s-cathedra.jpg",
@@ -782,7 +814,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballina_St._Muredach%27s_Cathedral_2013_09_14.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-mayo-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/ballina-st-muredach-s-cathedra-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/ballina-st-muredach-s-cathedra-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/beautiful-achill-islands-in-co.jpg",
@@ -796,7 +830,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_Achill_Islands_in_County_Mayo_of_Ireland.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-mayo-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/beautiful-achill-islands-in-co-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/beautiful-achill-islands-in-co-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/lough-doo-achill-island-co-may.jpg",
@@ -811,7 +847,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lough_Doo,_Achill_Island,_Co._Mayo_-_Banner_for_Wikivoyage.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-mayo-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/lough-doo-achill-island-co-may-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/lough-doo-achill-island-co-may-small.webp"
         },
         {
           "path": "_m/g/c/6/m/republic-of-ireland-wp/clonmacnois-cross-of-the-scrip.jpg",
@@ -836,7 +874,8 @@
             "License migration redundant",
             "Photographs by Andreas F. Borchert",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/clonmacnois-cross-of-the-scrip-small.webp"
         },
         {
           "path": "_m/g/c/6/m/republic-of-ireland-wp/conamara-ireland.jpg",
@@ -858,7 +897,9 @@
             "Countryside in County Galway",
             "Self-published work",
             "Taken with Fujifilm FinePix F11"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/m/republic-of-ireland-wp/conamara-ireland-medium.webp",
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/conamara-ireland-small.webp"
         },
         {
           "path": "_m/g/c/3/u/shannon-region-wk/burren-karst.jpg",
@@ -879,7 +920,9 @@
             "Burren",
             "CC-BY-SA-2.5",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/u/shannon-region-wk/burren-karst-medium.webp",
+          "smallPath": "_m/g/c/3/u/shannon-region-wk/burren-karst-small.webp"
         },
         {
           "path": "_m/g/c/6/m/republic-of-ireland-wp/aer-lingus-a320-ei-dei-lhr-jul.jpg",
@@ -904,7 +947,9 @@
             "London photographs taken on 2007-07-28",
             "PD-user",
             "Taken with Nikon D50"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/m/republic-of-ireland-wp/aer-lingus-a320-ei-dei-lhr-jul-medium.webp",
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/aer-lingus-a320-ei-dei-lhr-jul-small.webp"
         },
         {
           "path": "_m/g/c/6/m/republic-of-ireland-wp/e01route.jpg",
@@ -928,7 +973,9 @@
             "Route confirmation signs in Ireland",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/m/republic-of-ireland-wp/e01route-medium.webp",
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/e01route-small.webp"
         },
         {
           "path": "_m/d/d/s/e/martinique-wp/euro-series-banknotes-2019.jpg",
@@ -943,7 +990,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Euro_Series_Banknotes_(2019).jpg",
           "sourceType": "poi",
           "sourceArticleId": "martinique-wp",
-          "sourceGeohash4": "gc99"
+          "sourceGeohash4": "gc99",
+          "smallPath": "_m/d/d/s/e/martinique-wp/euro-series-banknotes-2019-small.webp"
         },
         {
           "path": "_m/g/c/6/m/republic-of-ireland-wp/2019-trim-castle-4.jpg",
@@ -958,7 +1006,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019_Trim_Castle_4.jpg",
           "sourceType": "poi",
           "sourceArticleId": "republic-of-ireland-wp",
-          "sourceGeohash4": "gc99"
+          "sourceGeohash4": "gc99",
+          "mediumPath": "_m/g/c/6/m/republic-of-ireland-wp/2019-trim-castle-4-medium.webp",
+          "smallPath": "_m/g/c/6/m/republic-of-ireland-wp/2019-trim-castle-4-small.webp"
         },
         {
           "path": "_m/g/c/7/x/dublin-wp/dublin-aerial-2025-07-07-01.jpg",
@@ -973,7 +1023,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_-_aerial_-_2025-07-07_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dublin-wp",
-          "sourceGeohash4": "gc99"
+          "sourceGeohash4": "gc99",
+          "mediumPath": "_m/g/c/7/x/dublin-wp/dublin-aerial-2025-07-07-01-medium.webp",
+          "smallPath": "_m/g/c/7/x/dublin-wp/dublin-aerial-2025-07-07-01-small.webp"
         },
         {
           "path": "_m/tpc/fj/or/d_/__/fjord/hornindalsvatnet-map.png",
@@ -999,7 +1051,8 @@
             "Maps of Sogn og Fjordane",
             "Maps of lakes of Norway",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/fj/or/d_/__/fjord/hornindalsvatnet-map-small.webp"
         },
         {
           "path": "_m/d/1/s/b/golfo-dulce-costa-rica-wp/hero.jpg",
@@ -1022,7 +1075,8 @@
             "NASA World Wind",
             "PD World Wind",
             "Satellite pictures of Costa Rica"
-          ]
+          ],
+          "smallPath": "_m/d/1/s/b/golfo-dulce-costa-rica-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/fj/or/d_/__/fjord/inside-passage-6.jpg",
@@ -1046,7 +1100,8 @@
             "Inside Passage",
             "July 2002 in Alaska",
             "Taken with Kodak DC260"
-          ]
+          ],
+          "smallPath": "_m/tpc/fj/or/d_/__/fjord/inside-passage-6-small.webp"
         },
         {
           "path": "_m/tpc/fj/or/d_/__/fjord/hvalfjordur-iceland01.jpg",
@@ -1076,7 +1131,8 @@
             "Viðhamrafjall",
             "Þyrill",
             "Þyrilsnes"
-          ]
+          ],
+          "smallPath": "_m/tpc/fj/or/d_/__/fjord/hvalfjordur-iceland01-small.webp"
         },
         {
           "path": "_m/tpc/fj/or/d_/__/fjord/iceland2008-sudureyri.jpg",
@@ -1099,7 +1155,9 @@
             "Flowers of Iceland",
             "GFDL",
             "License migration redundant"
-          ]
+          ],
+          "mediumPath": "_m/tpc/fj/or/d_/__/fjord/iceland2008-sudureyri-medium.webp",
+          "smallPath": "_m/tpc/fj/or/d_/__/fjord/iceland2008-sudureyri-small.webp"
         },
         {
           "path": "_m/tpc/fj/or/d_/__/fjord/hudson-river-sailboat.jpg",
@@ -1114,7 +1172,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hudson_river_sailboat.jpg",
           "sourceType": "poi",
           "sourceArticleId": "fjord",
-          "sourceGeohash4": "tpc/fj/or/d_/__"
+          "sourceGeohash4": "tpc/fj/or/d_/__",
+          "smallPath": "_m/tpc/fj/or/d_/__/fjord/hudson-river-sailboat-small.webp"
         },
         {
           "path": "_m/tpc/fj/or/d_/__/fjord/5-miles-from-grise-fiord.jpg",
@@ -1129,7 +1188,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:5_miles_from_Grise_Fiord.jpg",
           "sourceType": "poi",
           "sourceArticleId": "fjord",
-          "sourceGeohash4": "tpc/fj/or/d_/__"
+          "sourceGeohash4": "tpc/fj/or/d_/__",
+          "mediumPath": "_m/tpc/fj/or/d_/__/fjord/5-miles-from-grise-fiord-medium.webp",
+          "smallPath": "_m/tpc/fj/or/d_/__/fjord/5-miles-from-grise-fiord-small.webp"
         },
         {
           "path": "_m/s/r/t/3/bay-of-kotor-wk/aerial-panorama-perast.jpg",
@@ -1144,7 +1205,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_perast_aerial_2016.jpg",
           "sourceType": "poi",
           "sourceArticleId": "bay-of-kotor-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/s/r/t/3/bay-of-kotor-wk/aerial-panorama-perast-medium.webp",
+          "smallPath": "_m/s/r/t/3/bay-of-kotor-wk/aerial-panorama-perast-small.webp"
         },
         {
           "path": "_m/p/x/z/j/fiordland-national-park-wp/00-1432-new-zealand-wilmont-pa.jpg",
@@ -1159,7 +1222,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_1432_New_Zealand_-_Wilmont_Pass_and_Doubtful_Sound.jpg",
           "sourceType": "poi",
           "sourceArticleId": "fiordland-national-park-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/p/x/z/j/fiordland-national-park-wp/00-1432-new-zealand-wilmont-pa-medium.webp",
+          "smallPath": "_m/p/x/z/j/fiordland-national-park-wp/00-1432-new-zealand-wilmont-pa-small.webp"
         },
         {
           "path": "_m/p/x/z/j/fiordland-national-park-wp/00-1371-new-zealand-milford-so.jpg",
@@ -1174,7 +1239,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_1371_New_Zealand_-_Milford_Sound.jpg",
           "sourceType": "poi",
           "sourceArticleId": "fiordland-national-park-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/p/x/z/j/fiordland-national-park-wp/00-1371-new-zealand-milford-so-medium.webp",
+          "smallPath": "_m/p/x/z/j/fiordland-national-park-wp/00-1371-new-zealand-milford-so-small.webp"
         },
         {
           "path": "_m/tpc/so/gn/ef/jo/sognefjord/00-2795-flam-a-place-in-norway.jpg",
@@ -1189,7 +1256,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_2795_Fl%C3%A5m,_a_place_in_Norway.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sognefjord",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/so/gn/ef/jo/sognefjord/00-2795-flam-a-place-in-norway-medium.webp",
+          "smallPath": "_m/tpc/so/gn/ef/jo/sognefjord/00-2795-flam-a-place-in-norway-small.webp"
         },
         {
           "path": "_m/tpc/m-/re/-o/g-/m-re-og-romsdal/00-1262-geiranger-norway.jpg",
@@ -1204,7 +1273,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:.00_1262_Geiranger_-_Norway.jpg",
           "sourceType": "poi",
           "sourceArticleId": "m-re-og-romsdal",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/m-/re/-o/g-/m-re-og-romsdal/00-1262-geiranger-norway-medium.webp",
+          "smallPath": "_m/tpc/m-/re/-o/g-/m-re-og-romsdal/00-1262-geiranger-norway-small.webp"
         },
         {
           "path": "_m/tpc/fj/or/d_/__/fjord/fjords-banner.jpg",
@@ -1219,7 +1290,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fjords_banner.jpg",
           "sourceType": "poi",
           "sourceArticleId": "fjord",
-          "sourceGeohash4": "tpc/fj/or/d_/__"
+          "sourceGeohash4": "tpc/fj/or/d_/__",
+          "mediumPath": "_m/tpc/fj/or/d_/__/fjord/fjords-banner-medium.webp",
+          "smallPath": "_m/tpc/fj/or/d_/__/fjord/fjords-banner-small.webp"
         }
       ],
       "narration": [

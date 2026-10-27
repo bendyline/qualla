@@ -3,26 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/k/w/g/p/lukuga-river-wp/hero.jpg",
-        "filename": "River Lukuga, Kalemia.jpg",
-        "caption": "River Lukuga, Democratic Republic of the Congo, from the bridge in Kalemie",
-        "alt": "River Lukuga, Democratic Republic of the Congo, from the bridge in Kalemie",
-        "width": 2048,
-        "height": 1536,
+        "path": "_m/k/w/g/p/lukuga-river-wp/lukuga-river-drc.jpg",
+        "filename": "Lukuga river.jpg",
+        "caption": "Lukuga River in the DRC",
+        "alt": "Lukuga River in the DRC",
+        "width": 1150,
+        "height": 1095,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Tom Skrinar",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:River_Lukuga,_Kalemia.jpg",
+        "license": "CC BY-SA 3.0",
+        "artist": "Arkadiy Avdeev",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lukuga_river.jpg",
         "sourceType": "core",
         "sourceArticleId": "lukuga-river-wp",
         "sourceGeohash4": "kwgp",
         "categories": [
-          "CC-BY-SA-2.0",
-          "Flickr images uploaded by Flickr upload bot",
-          "Kalemie",
-          "Lukuga",
-          "Taken with Panasonic Lumix DMC-FX12"
-        ]
+          "2012 maps of Africa",
+          "CC-BY-SA-3.0",
+          "Language-neutral maps",
+          "Maps of rivers of the Democratic Republic of the Congo",
+          "Self-published work",
+          "Topographic maps of the Democratic Republic of the Congo"
+        ],
+        "smallPath": "_m/k/w/g/p/lukuga-river-wp/lukuga-river-drc-small.webp"
       },
       "images": [
         {
@@ -50,7 +52,7 @@
           "smallPath": "_m/k/w/g/p/lukuga-river-wp/lukuga-river-drc-small.webp"
         },
         {
-          "path": "_m/k/w/g/p/lukuga-river-wp/stanley-s-lake-tanganyika.jpg",
+          "path": "_m/k/w/u/v/lake-tanganyika-wp/stanley-s-lake-tanganyika.jpg",
           "filename": "Stanley's Lake Tanganyika.jpg",
           "caption": "Stanley's Lake Tanganyika",
           "alt": "Stanley's Lake Tanganyika",
@@ -72,8 +74,8 @@
             "PD-old missing SDC copyright status",
             "Through the dark continent (1899)"
           ],
-          "mediumPath": "_m/k/w/g/p/lukuga-river-wp/stanley-s-lake-tanganyika-medium.webp",
-          "smallPath": "_m/k/w/g/p/lukuga-river-wp/stanley-s-lake-tanganyika-small.webp"
+          "mediumPath": "_m/k/w/u/v/lake-tanganyika-wp/stanley-s-lake-tanganyika-medium.webp",
+          "smallPath": "_m/k/w/u/v/lake-tanganyika-wp/stanley-s-lake-tanganyika-small.webp"
         },
         {
           "path": "_m/k/w/g/p/lukuga-river-wp/people-and-goods-crossed-by-py.jpg",
@@ -102,7 +104,9 @@
             "Self-published work",
             "Tanganyika Province",
             "Uploaded via Campaign:wlafrica"
-          ]
+          ],
+          "mediumPath": "_m/k/w/g/p/lukuga-river-wp/people-and-goods-crossed-by-py-medium.webp",
+          "smallPath": "_m/k/w/g/p/lukuga-river-wp/people-and-goods-crossed-by-py-small.webp"
         },
         {
           "path": "_m/k/w/g/p/lukuga-river-wp/carte-de-la-lukuga-dpla-2d1d1e.jpg",

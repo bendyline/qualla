@@ -36,7 +36,7 @@ Coordinates of the new archive at 50.9244 N, 6.9375 E, on Eifelwall in Cologne's
 
 ## Sources
 
-- [Wikipedia - Historical Archive of the City of Cologne](https://en.wikipedia.org/wiki/Historical_Archive_of_the_City_of_Cologne)
+- [Wikipedia - Historical Archive of the City of Cologne](https://en.wikipedia.org/?curid=21807758)
   - Collapse at 1:58 pm on 3 March 2009 confirmed
   - Two deaths in adjacent apartment buildings confirmed
   - Roughly 90% of holdings buried confirmed

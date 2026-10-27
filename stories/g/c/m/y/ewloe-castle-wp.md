@@ -45,7 +45,7 @@ Located at 53.200N, 3.067W in Wepre Park between Ewloe village and Connah's Quay
   - Battle of Ewloe 1157 vs Henry II confirmed
   - Cadw care, Grade I listed, in Wepre Park confirmed
   - Sold to anonymous farmer Nov 2009 for £122,000 confirmed
-- [Princely Ambition (University of Hertfordshire Press, 2022); Castell y Bere - Wikipedia; Dafydd ap Llywelyn - Wikipedia](https://en.wikipedia.org/wiki/Ewloe_Castle)
+- [Princely Ambition (University of Hertfordshire Press, 2022); Castell y Bere - Wikipedia; Dafydd ap Llywelyn - Wikipedia](https://en.wikipedia.org/?curid=2179446)
   - Princely Ambition 2022 study pushing construction back to Llywelyn ab Iorwerth confirmed
   - Castell y Bere built by Llywelyn the Great in the 1220s confirmed
   - Dafydd ap Llywelyn negotiations with Henry III collapsing into war 1244-1246 confirmed

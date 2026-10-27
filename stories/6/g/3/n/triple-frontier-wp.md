@@ -37,7 +37,7 @@ Located at 25.59S, 54.59W, the Triple Frontier is the tripoint where Argentina, 
 ## Sources
 
 - [Triple Frontier - Wikipedia](https://en.wikipedia.org/?curid=426303)
-- [Triple Frontier - Wikipedia / Ciudad del Este - Wikipedia](https://en.wikipedia.org/wiki/Triple_Frontier)
+- [Triple Frontier - Wikipedia / Ciudad del Este - Wikipedia](https://en.wikipedia.org/?curid=426303)
   - Three obelisks in each nation's colors confirmed
   - Nearly a million people in tri-border zone - consistent with sources
   - Ciudad del Este ~300,000 residents (2018 census: 299,255) confirmed

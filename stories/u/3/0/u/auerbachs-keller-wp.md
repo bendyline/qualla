@@ -32,7 +32,7 @@ Auerbachs Keller lies beneath the Mädlerpassage at 51.339°N, 12.375°E, in the
 
 ## Sources
 
-- [Auerbachs Keller - Wikipedia](https://en.wikipedia.org/wiki/Auerbachs_Keller)
+- [Auerbachs Keller - Wikipedia](https://en.wikipedia.org/?curid=4304029)
 - [Auerbachs Keller - Wikipedia](https://en.wikipedia.org/?curid=4304029)
   - Wine cellar first documented 1438 (confirmed)
   - Heinrich Stromer (Doctor Auerbach) 1482-1542, city councillor/physician/rector, physician to Duke George of Saxony and Hohenzollern princes Joachim I and Albert of Mainz; built Auerbachs Hof c.1530 (confirmed)

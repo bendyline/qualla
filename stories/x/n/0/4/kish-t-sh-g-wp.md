@@ -33,7 +33,7 @@ Located at 34.19°N, 135.17°E on Mount Saiga overlooking Wakaura Bay in southwe
 ## Sources
 
 - [Kish (Sumer) - Wikipedia](https://en.wikipedia.org/?curid=144012)
-- [Kishū Tōshō-gū - Wikipedia](https://en.wikipedia.org/wiki/Kish%C5%AB_T%C5%8Dsh%C5%8D-g%C5%AB)
+- [Kishū Tōshō-gū - Wikipedia](https://en.wikipedia.org/?curid=48384608)
 - [Highlights and access to Kishu Toshogu Shrine - Wakayama Travel](https://wakayama-travel.com/en/sightseeing-en/shrine-temple-en/kishu-toshogu-shrine-en/)
   - Nicknamed Nikko of Kansai
   - 108 stone steps to the shrine

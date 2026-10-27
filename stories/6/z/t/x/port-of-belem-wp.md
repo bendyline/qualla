@@ -1,44 +1,65 @@
 # Port of Belém
 
-The Amazon's oldest major port, designed by the British engineers who built Liverpool and London, now a working dock with a restaurant complex where the freighters used to tie up.
+The engineers who designed Belém's modern port wanted to bury its old marketplace under landfill; the traders stopped them, and the port grew up around the dock it failed to erase.
 
 **Location:** -1.4431, -48.4975
 
-**Categories:** 1909 establishments in Brazil, Belém, Geography of Pará, Pará, Ports and harbours of Brazil
+**Categories:** Ports and harbors, Industry, Transportation, Amazon, Brazil
 
 ## Introduction
 
-In 1897, the same year Commander Pinho was building his mansion up the hill, a Brazilian engineer named Domingos Sérgio de Sabóia e Silva presented a plan to transform Belém's waterfront. The existing docks, Ver-o-Peso and Reduto and Souza Franco, had grown up piecemeal along Guajará Bay. Sabóia e Silva wanted to demolish them, landfill the marsh, and build a proper modern port, a quay running 4,300 meters along the bay. He was right about what Belém needed. He was wrong about Ver-o-Peso, which the people of the city refused to give up. The compromise produced the Port of Belém that opened in 1909, a working port built on top of a working market that had already been there for centuries.
+The plan drawn up in 1897 to give Belém a modern port contained a line item that would have erased the heart of the city. Engineer Domingos Sérgio de Sabóia e Silva proposed extending the quay to 4,300 meters and filling in the Ver-o-Peso, Reduto and Souza Franco docks, which he judged unhealthy. Between 1903 and 1905 the federal government passed the laws that funded the work. Dredges arrived, warehouses went up, rail lines were laid - and the Ver-o-Peso dock survived anyway, because the people who traded there refused to go quietly and their demonstrations made the landfill politically impossible. The channel was never deepened as designed either. Belém got its port, but on terms the city partly dictated.
 
-## The British Engineers
+## Farquhar's Concession
 
-The firm that designed the port was S. Pearson & Sons, the British engineering company that had already built the ports of Liverpool and London. Their contract, negotiated with the entrepreneur Percival Farquhar after the federal government approved funds between 1903 and 1905, called for construction in two sections: from the Forte do Castelo to the tip of Mosqueiro in Marajó Bay, and from there to the mouth of the Oriboca River where it meets the Guamá. Dredging began on November 16, 1907. Crews built the long deep dock, coal and explosives depots, electric lighting, and railway lines connecting the quay to the warehouses. For the first time, oceangoing ships could tie up directly at Belém without transshipping to smaller boats.
+The man who built it was not from Pará. Percival Farquhar, a Pennsylvania businessman with a talent for assembling South American infrastructure out of European capital, founded the Port of Pará company on 7 September 1906 and secured his authorization by federal decree that December. Shares were sold on exchanges in France, Belgium, Canada and the United States. The engineering plan came from S. Pearson & Sons, the British firm behind dock works at Liverpool and London. Farquhar's contract obliged him to build in two stretches: from the Forte do Castelo out to the tip of Mosqueiro in Marajó Bay, then onward to where the Oriboca meets the Guamá. Dredging of the anchorage began on 16 November 1907. On 2 October 1909 the first section opened with 120 meters of dock and a single warehouse measuring twenty meters by a hundred. By 1913 there were fifteen warehouses and 1,860 meters of working quay, plus coal and explosives depots and electric lighting.
 
-## Ver-o-Peso Stays
+## What Leaves by Water
 
-The original plan called for landfilling Ver-o-Peso, the 17th-century riverside market whose name means see the weight, a reference to the colonial tax collectors who weighed goods at the dock. Sabóia e Silva considered the market unhealthy, which was the language of early 20th-century urban reformers explaining why they wanted to demolish whatever poor people used. But popular demonstrations forced the government to back down. Ver-o-Peso kept its docks, its iron market hall from the rubber boom era, its fish vendors and açaí bowl stalls. Today it is one of Belém's defining places, a market where the city still eats. The port grew up next door to it rather than over it.
+The port occupies the Reduto neighborhood on the right bank of Guajará Bay, roughly 120 kilometers from the open Atlantic - far enough inland to be a river port, close enough to the sea to be an ocean one. Out of it go Brazil nuts, timber, rubber, bauxite and iron ore, a cargo list that reads like a summary of what the world has wanted from the Amazon over the past century and a half. The mix has shifted since 1970 toward containers and dry bulk, but the logic has not changed: the forest and the ground beneath it are shipped out through this bay.
 
-## Rubber, Chestnuts, Iron
+## A Year in Numbers
 
-The Port of Belém exports what Pará produces. In the early decades it shipped rubber. Rubber declined, and the port pivoted to Brazil nuts, wood, and, after Carajás came online, iron ore and bauxite. In 2011 the port handled 3.2 million tons of cargo, most of it liquid bulk, including 1.8 million tons of fuels. Passenger traffic was also substantial, with 240,000 embarkations and 233,000 disembarkations that year, plus fourteen cruise ship calls. Containerships accounted for more than half of the vessel movements. The port exported 919 million dollars worth of goods in 2011 and imported 206 million. The Miramar Flammables Terminal and the Vila do Conde Terminal, inaugurated in 1985, expanded the port complex to handle growing demand.
+Take 2011 as a snapshot. One hundred and thirty-four ships worked the Port of Belém that year. Containerships made up 53 percent of them, averaging 170 meters in length and drawing seven meters; passenger vessels accounted for another tenth, shorter and shallower, landing around 500 tourists per call. Cargo ships and bulk carriers filled out the rest. Exports came to 919 million dollars against 206 million in imports. The wider Belém port complex handled 3,223,323 tonnes of cargo, of which 2,170,859 tonnes were liquid bulk and 1,775,645 tonnes were fuel. Those figures are the ones the ledgers care about. The more revealing number is different.
 
-## Estação das Docas
+## The Bus Station of the Amazon
 
-On May 13, 2000, part of the old working port opened as Estação das Docas, a tourist and leisure complex occupying what had previously been warehouses in an area known for crime and prostitution. The iron-framed pavilions from the British construction era were kept intact. Restaurants, art galleries, a small brewery, ice-cream shops, artisan stands, and a theater moved in. In the first months alone, three million visitors came through. The complex generated 600 direct jobs and hosted 29 concerts, five of them international. It is now one of Belém's tourist anchors, the place where visitors eat pato no tucupí facing the ships that still load iron ore downstream.
+In that same year, 239,835 people boarded ships here and 232,654 stepped off. Only fourteen of those calls were cruise ships. The rest were ordinary passengers on ordinary riverboats, because across much of Pará there is no road to build a bus route on - the rivers are the roads, and Belém's waterfront is where they all arrive. Hammocks are slung in rows below deck for journeys measured in days. For families in Breves or Soure or a hundred smaller places along the channels of Marajó, this quay is not industrial infrastructure. It is the way home.
 
-## The Administration
+## Outgrowing the Quay
 
-Two autonomous administrations ran Amazonian shipping in the 20th century: the Amazon Navigation Service, SNAPP, abolished in 1967, and the Pará Port Administration. The modern successors are Empresa de Navegação da Amazônia, Enasa, and Companhia Docas do Pará, CDP, which manages the Port of Belém today. CDP's governance runs through a General Shareholders' Meeting, a seven-member Board of Directors serving three-year terms, an executive board, and a President. In 2011 the port accounted for most of CDP's budget, with operating expenses of R$7.8 million. Demand was projected to grow 5.3% per year until 2030. The port that started as a British project to modernize a Brazilian waterfront is now almost 120 years old, still working, still loading ships for a commodity trade that began with latex and never really stopped.
+Administration changed hands repeatedly. Two autonomous bodies were created early on, the Amazon Navigation Service, known as SNAPP, and the Pará Port Administration; SNAPP was wound up in 1967 and replaced by the shipping company Enasa and by Companhia Docas do Pará, which still runs the port today. Demand kept outstripping the original docks, so satellites were added: the Miramar flammables terminal, handling fuel oil, and in 1985 the far larger Vila do Conde terminal downriver at Barcarena. Part of the old waterfront found a second life in 2000, when a stretch of the historic port was reopened to the public as a leisure and events complex. The working ships simply moved a little further along the shore.
 
 ## Flight Context
 
-Located at 1.443°S, 48.498°W on the Reduto neighborhood waterfront, about 120 kilometers from the Atlantic Ocean. From Belém/Val-de-Cans International (SBBE), approaches from the northeast give clear views of the port, with the long quay extending along Guajará Bay. Container terminals, bulk cargo facilities, and the Estação das Docas complex are all visible in sequence. Best viewed in dry-season light, July to November.
+Coordinates 1.4431 S, 48.4975 W, on the Guajará Bay waterfront in Belém's Reduto district. The long line of dockside warehouses runs northeast from the Ver-o-Peso market and is easy to pick out from 2,000-3,000 ft AGL on a north-south run along the bay; look for anchored shipping in the roadstead and the pale expanse of Marajó Island on the northwestern horizon. Belém/Val de Cans International (SBBE) is roughly 6 km north; Belém/Brigadeiro Protásio de Oliveira, Júlio César (SBJC), lies just inland. Equatorial convection builds fast after midday - plan waterfront passes for the morning, and expect reduced visibility in haze and rain squalls during the wet season.
 
 ## Sources
 
 - [Port of Belém - Wikipedia](https://en.wikipedia.org/?curid=74882449)
+  - 1897 plan by engineer Domingos Sérgio de Sabóia e Silva to extend quay to 4,300m and fill in the docks
+  - 1903-1905 federal laws funding the port construction
+  - Percival Farquhar granted operation via Decree No. 6,283, signed by President Afonso Pena, 20 December 1906
+  - S. Pearson & Sons engineering firm, previously built Liverpool and London docks
+  - Dredging began 16 November 1907
+  - First section (120m) inaugurated 2 October 1909
+  - By 1913, quay reached 1,860 meters
+  - SNAPP abolished 1967, replaced by Enasa and Companhia Docas do Pará (CDP)
+  - Vila do Conde terminal at Barcarena inaugurated 1985
+  - Historic port area reopened as tourist/leisure center (Estação das Docas) 13 May 2000
+  - 2011 snapshot: 134 ships, 239,835 embarkations, 232,654 disembarkations, exports $919M, imports $206M, cargo 3,223,323 tonnes
+- [Companhia Docas do Pará - Wikipedia](https://en.wikipedia.org/wiki/Companhia_Docas_do_Par%C3%A1)
+  - CDP still manages the ports of Pará as of the article's most recent update (mid-2026), supporting the 'still runs the port today' claim
+
+## Review Notes
+
+**Reviewed:** 2026-09-05 · 11 facts verified · 0 corrections
+
+All checked facts (Farquhar concession dates, dredging/opening dates, 1913 quay length, SNAPP/CDP succession, Vila do Conde 1985, Estação das Docas 2000, 2011 traffic statistics) verified against source. No corrections needed. Spiciness 2 (mild).
+
+**Spiciness:** 2/5
 
 ---
 
-*Word count: 820*
+*Word count: 706*
 *Read time: 4 minutes*

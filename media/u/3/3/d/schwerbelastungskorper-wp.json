@@ -3,27 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/3/3/d/schwerbelastungskorper-wp/hero.jpg",
-        "filename": "Berlin belastungskoerper.jpg",
-        "caption": "the Schwerbelastungskörper (heavy weight compound) in Berlin near Dudenstraße (General-Pape-Straße/Loewenhardtdamm)",
-        "alt": "the Schwerbelastungskörper (heavy weight compound) in Berlin near Dudenstraße (General-Pape-Straße/Loewenhardtdamm)",
-        "width": 1136,
-        "height": 852,
+        "path": "_m/u/3/3/d/schwerbelastungskorper-wp/view-inside-schwerbela.jpg",
+        "filename": "Inside the Schwerbelastungskoerper.JPG",
+        "caption": "View from inside the Schwerbelastungskoerper depicting current state of neglect.",
+        "alt": "View from inside the Schwerbelastungskoerper depicting current state of neglect.",
+        "width": 5472,
+        "height": 3648,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Dieter Brügmann",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_belastungskoerper.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Drrcs15",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inside_the_Schwerbelastungskoerper.JPG",
         "sourceType": "core",
         "sourceArticleId": "schwerbelastungskorper-wp",
         "sourceGeohash4": "u33d",
         "categories": [
-          "CC-BY-SA-3.0-migrated",
+          "CC-BY-SA-4.0",
           "Files with coordinates missing SDC location of creation",
-          "GFDL",
-          "License migration completed",
-          "On OSM",
-          "Schwerbelastungskörper (Berlin-Tempelhof)"
-        ]
+          "Schwerbelastungskörper (Berlin-Tempelhof)",
+          "Self-published work",
+          "Taken with Canon EOS 6D"
+        ],
+        "mediumPath": "_m/u/3/3/d/schwerbelastungskorper-wp/view-inside-schwerbela-medium.webp",
+        "smallPath": "_m/u/3/3/d/schwerbelastungskorper-wp/view-inside-schwerbela-small.webp"
       },
       "images": [
         {
@@ -217,7 +218,7 @@
           "smallPath": "_m/u/3/3/d/schwerbelastungskorper-wp/schwerbelastungskoerper-oberer-small.webp"
         },
         {
-          "path": "_m/u/3/3/d/schwerbelastungskorper-wp/schwerbelastungskorperberlin.jpg",
+          "path": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/schwerbelastungskorperberlin.jpg",
           "filename": "SchwerbelastungskorperBerlin.jpg",
           "caption": "Schwerbelastungskorper in Berlin",
           "alt": "Schwerbelastungskorper in Berlin",
@@ -229,7 +230,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:SchwerbelastungskorperBerlin.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "berlin-tempelhof-and-neukolln-wk",
-          "sourceGeohash4": "u33d"
+          "sourceGeohash4": "u33d",
+          "mediumPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/schwerbelastungskorperberlin-medium.webp",
+          "smallPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/schwerbelastungskorperberlin-small.webp"
         },
         {
           "path": "_m/u/3/3/d/schwerbelastungskorper-wp/gedenktafel-general-pape-str-1.jpg",
@@ -435,7 +438,8 @@
             "Media missing infobox template",
             "Self-published work",
             "Taken with Canon PowerShot A60"
-          ]
+          ],
+          "smallPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/berlin-neukoelln-3hermannstras-small.webp"
         },
         {
           "path": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/gegenanflug-tempelhof.jpg",
@@ -461,7 +465,8 @@
             "October 2004 at Berlin-Tempelhof Airport",
             "Self-published work",
             "Tempelhofer Feld"
-          ]
+          ],
+          "smallPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/gegenanflug-tempelhof-small.webp"
         },
         {
           "path": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/bahnhof-berlin-sudkreuz-denis-.jpg",
@@ -484,7 +489,9 @@
             "Photographs by Denis Apel",
             "Self-published work",
             "Taken with Canon Digital IXUS 40"
-          ]
+          ],
+          "mediumPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/bahnhof-berlin-sudkreuz-denis--medium.webp",
+          "smallPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/bahnhof-berlin-sudkreuz-denis--small.webp"
         },
         {
           "path": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/gropius-passagen.jpg",
@@ -509,7 +516,9 @@
             "Germany photographs taken on 2007-09-19",
             "Gropius Passagen",
             "Photographs by A.Savin/Germany"
-          ]
+          ],
+          "mediumPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/gropius-passagen-medium.webp",
+          "smallPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/gropius-passagen-small.webp"
         },
         {
           "path": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/bf-b-tempelhof.jpg",
@@ -524,7 +533,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bf-b-tempelhof.jpg",
           "sourceType": "poi",
           "sourceArticleId": "berlin-tempelhof-and-neukolln-wk",
-          "sourceGeohash4": "u33d"
+          "sourceGeohash4": "u33d",
+          "mediumPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/bf-b-tempelhof-medium.webp",
+          "smallPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/bf-b-tempelhof-small.webp"
         },
         {
           "path": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/stadtbad-neukoelln.jpg",
@@ -539,7 +550,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stadtbad_neukoelln.jpg",
           "sourceType": "poi",
           "sourceArticleId": "berlin-tempelhof-and-neukolln-wk",
-          "sourceGeohash4": "u33d"
+          "sourceGeohash4": "u33d",
+          "smallPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/stadtbad-neukoelln-small.webp"
         },
         {
           "path": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/festwiese-im-britzer-garten.jpg",
@@ -554,7 +566,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Festwiese_im_Britzer_Garten.JPG",
           "sourceType": "poi",
           "sourceArticleId": "berlin-tempelhof-and-neukolln-wk",
-          "sourceGeohash4": "u33d"
+          "sourceGeohash4": "u33d",
+          "mediumPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/festwiese-im-britzer-garten-medium.webp",
+          "smallPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/festwiese-im-britzer-garten-small.webp"
         },
         {
           "path": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/neukolln-arcarden.jpg",
@@ -569,7 +583,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neuk%C3%B6lln_Arcarden.jpg",
           "sourceType": "poi",
           "sourceArticleId": "berlin-tempelhof-and-neukolln-wk",
-          "sourceGeohash4": "u33d"
+          "sourceGeohash4": "u33d",
+          "smallPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/neukolln-arcarden-small.webp"
         },
         {
           "path": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/tempelhofterminal2013.jpg",
@@ -584,7 +599,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:TempelhofTerminal2013.JPG",
           "sourceType": "poi",
           "sourceArticleId": "berlin-tempelhof-and-neukolln-wk",
-          "sourceGeohash4": "u33d"
+          "sourceGeohash4": "u33d",
+          "mediumPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/tempelhofterminal2013-medium.webp",
+          "smallPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/tempelhofterminal2013-small.webp"
         },
         {
           "path": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/lichtenrade-tempelhof-neukolln.jpg",
@@ -599,7 +616,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lichtenrade-Tempelhof-Neuk%C3%B6lln_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "berlin-tempelhof-and-neukolln-wk",
-          "sourceGeohash4": "u33d"
+          "sourceGeohash4": "u33d",
+          "mediumPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/lichtenrade-tempelhof-neukolln-medium.webp",
+          "smallPath": "_m/u/3/3/d/berlin-tempelhof-and-neukolln-wk/lichtenrade-tempelhof-neukolln-small.webp"
         }
       ],
       "narration": [

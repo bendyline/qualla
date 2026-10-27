@@ -57,7 +57,7 @@ Alepotrypa Cave is located at 36.639°N, 22.382°E on the western coast of the M
   - Cape Tainaron associated with Hades entrance
   - cultural memory hypothesis by Papathanassopoulos
   - silver jewelry and obsidian from Melos found at site
-- [Melos obsidian distance — corrected from 300 km to approximately 200 km](https://en.wikipedia.org/wiki/Alepotrypa_Cave)
+- [Melos obsidian distance — corrected from 300 km to approximately 200 km](https://en.wikipedia.org/?curid=54594846)
   - Melos is approximately 200 km from the Mani Peninsula, not 300 km as originally stated
 
 ## Review Notes

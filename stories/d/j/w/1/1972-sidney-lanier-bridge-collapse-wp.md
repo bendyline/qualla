@@ -37,7 +37,7 @@ Located at 31.116N, 81.486W over the Brunswick River in Brunswick, Georgia. The 
 ## Sources
 
 - [1972 Sidney Lanier Bridge collapse - Wikipedia](https://en.wikipedia.org/?curid=77721149)
-- [1972 Sidney Lanier Bridge collapse - Wikipedia](https://en.wikipedia.org/wiki/1972_Sidney_Lanier_Bridge_collapse)
+- [1972 Sidney Lanier Bridge collapse - Wikipedia](https://en.wikipedia.org/?curid=77721149)
   - November 7, 1972 at 9:50 PM collision time confirmed
   - SS African Neptune, 11,000-ton cargo ship confirmed
   - Three sections collapsed confirmed

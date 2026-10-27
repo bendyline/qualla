@@ -3,26 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/u/k/5/prophet-s-mosque-wp/hero.jpg",
-        "filename": "MasjidNabawi.jpg",
-        "caption": "The Prophet's Mosque.",
-        "alt": "The Prophet's Mosque.",
-        "width": 4320,
-        "height": 3240,
-        "mimeType": "image/jpeg",
-        "license": "CC0",
-        "artist": "Wurzelgnohm",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:MasjidNabawi.jpg",
+        "path": "_m/s/u/k/5/prophet-s-mosque-wp/recreation-calligraphy.png",
+        "filename": "Hadith Masjid an-Nabawi Calligraphy 1.png",
+        "caption": "Recreation of a calligraphy inside Masjid an-Nabawi that reads:\n\"صَلاَةٌ فِي مَسْجِدِي هَذَا أَفْضَلُ مِنْ أَلْفِ صَلاَةٍ فِيمَا سِوَاهُ إِلاَّ الْمَسْجِدَ الْحَرَامَ\"\nwhich translates to:\n\n\"A prayer in this mosque of mine is better than a thousand prayers anywhere else, except for Masjid al-Haram.\" [Sahih Muslim]",
+        "alt": "Recreation of a calligraphy inside Masjid an-Nabawi that reads:\n\"صَلاَةٌ فِي مَسْجِدِي هَذَا أَفْضَلُ مِنْ أَلْفِ صَلاَةٍ فِيمَا سِوَاهُ إِلاَّ الْمَسْجِدَ الْحَرَامَ\"\nwhich translates to:\n\n\"A prayer in this mosque of mine is better than a thousand prayers anywhere else, except for Masjid al-Haram.\" [Sahih Muslim]",
+        "width": 10430,
+        "height": 2574,
+        "mimeType": "image/png",
+        "license": "CC BY-SA 4.0",
+        "artist": "OatCookies",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hadith_Masjid_an-Nabawi_Calligraphy_1.png",
         "sourceType": "core",
         "sourceArticleId": "prophet-s-mosque-wp",
         "sourceGeohash4": "suk5",
-        "categories": [
-          "CC-Zero",
-          "Exterior of Masjid al-Nabawi",
-          "Files with coordinates missing SDC location of creation",
-          "Self-published work",
-          "Taken with Canon Digital IXUS 130"
-        ]
+        "mediumPath": "_m/s/u/k/5/prophet-s-mosque-wp/recreation-calligraphy-medium.webp",
+        "smallPath": "_m/s/u/k/5/prophet-s-mosque-wp/recreation-calligraphy-small.webp"
       },
       "images": [
         {
@@ -56,7 +51,7 @@
           "smallPath": "_m/s/u/k/5/prophet-s-mosque-wp/die-hauptmoschee-von-m-small.webp"
         },
         {
-          "path": "_m/s/u/k/5/prophet-s-mosque-wp/etapes-du-pelerinage-l.png",
+          "path": "_m/s/g/u/3/hajj-wp/etapes-du-pelerinage-l.png",
           "filename": "La Mecque pelerinage.png",
           "caption": "Etapes du pélerinage à La Mecque",
           "alt": "Etapes du pélerinage à La Mecque",
@@ -78,10 +73,11 @@
             "Maps of Hajj",
             "Maps of Mecca",
             "PNG that should use vector graphics"
-          ]
+          ],
+          "smallPath": "_m/s/g/u/3/hajj-wp/etapes-du-pelerinage-l-small.webp"
         },
         {
-          "path": "_m/s/u/k/5/prophet-s-mosque-wp/physical-location-map.jpg",
+          "path": "_m/t/5/2/1/mundafan-wp/physical-location-map.jpg",
           "filename": "Saudi Arabia relief location map.jpg",
           "caption": "Physical location map of Saudi Arabia",
           "alt": "Physical location map of Saudi Arabia",
@@ -99,10 +95,12 @@
             "Images with extracted images",
             "Images with inappropriate JPEG compression",
             "Relief location maps of Saudi Arabia"
-          ]
+          ],
+          "mediumPath": "_m/t/5/2/1/mundafan-wp/physical-location-map-medium.webp",
+          "smallPath": "_m/t/5/2/1/mundafan-wp/physical-location-map-small.webp"
         },
         {
-          "path": "_m/s/u/k/5/prophet-s-mosque-wp/kaaba-macca.jpg",
+          "path": "_m/t/n/h/h/jamkaran-mosque-wp/kaaba-macca.jpg",
           "filename": "Kaaba in macca.jpg",
           "caption": "Kaaba in macca",
           "alt": "Kaaba in macca",
@@ -122,7 +120,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Nokia N97 mini"
-          ]
+          ],
+          "mediumPath": "_m/t/n/h/h/jamkaran-mosque-wp/kaaba-macca-medium.webp",
+          "smallPath": "_m/t/n/h/h/jamkaran-mosque-wp/kaaba-macca-small.webp"
         },
         {
           "path": "_m/s/u/k/5/prophet-s-mosque-wp/muhammad-s-name-follow.jpg",
@@ -356,7 +356,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masjid_e_Nabawi_Interior_2.jpg",
           "sourceType": "core",
           "sourceArticleId": "prophet-s-mosque-wp",
-          "sourceGeohash4": "suk5"
+          "sourceGeohash4": "suk5",
+          "mediumPath": "_m/s/u/k/5/prophet-s-mosque-wp/masjid-e-nabawi-interi-medium.webp",
+          "smallPath": "_m/s/u/k/5/prophet-s-mosque-wp/masjid-e-nabawi-interi-small.webp"
         },
         {
           "path": "_m/s/u/k/5/prophet-s-mosque-wp/recreation-calligraphy.png",
@@ -569,7 +571,7 @@
           "smallPath": "_m/s/u/k/5/prophet-s-mosque-wp/gumbad-e-khizarah-small.webp"
         },
         {
-          "path": "_m/s/u/k/5/prophet-s-mosque-wp/al-baqi-cemetery-medin.jpg",
+          "path": "_m/s/u/k/5/al-baqi-cemetery-wp/al-baqi-cemetery-medin.jpg",
           "filename": "Al-Baqi Cemetery 2021.jpg",
           "caption": "Al-Baqi Cemetery in Medina, Saudi Arabia. July  20, 2021.",
           "alt": "Al-Baqi Cemetery in Medina, Saudi Arabia. July  20, 2021.",
@@ -581,7 +583,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Baqi_Cemetery_2021.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "al-baqi-cemetery-wp",
-          "sourceGeohash4": "suk5"
+          "sourceGeohash4": "suk5",
+          "mediumPath": "_m/s/u/k/5/al-baqi-cemetery-wp/al-baqi-cemetery-medin-medium.webp",
+          "smallPath": "_m/s/u/k/5/al-baqi-cemetery-wp/al-baqi-cemetery-medin-small.webp"
         },
         {
           "path": "_m/s/u/k/5/prophet-s-mosque-wp/masjid-nabawi-umroh-ramadhan-2.jpg",
@@ -843,7 +847,9 @@
             "Malayalam Wikipedian's Upload",
             "PD-user",
             "Taken with Nokia N95"
-          ]
+          ],
+          "mediumPath": "_m/tpc/um/ay/ya/d-/umayyad-caliphate/madeena-masjid-nabavi-12122008-medium.webp",
+          "smallPath": "_m/tpc/um/ay/ya/d-/umayyad-caliphate/madeena-masjid-nabavi-12122008-small.webp"
         },
         {
           "path": "_m/s/u/k/5/medina-wp/masjid-al-qiblatain.jpg",
@@ -869,7 +875,9 @@
             "On OSM",
             "Qiblatayn Mosque",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/u/k/5/medina-wp/masjid-al-qiblatain-medium.webp",
+          "smallPath": "_m/s/u/k/5/medina-wp/masjid-al-qiblatain-small.webp"
         },
         {
           "path": "_m/s/u/k/5/medina-wp/date-palm-with-fruits.jpg",
@@ -891,7 +899,9 @@
             "Self-published work",
             "Taken with Nikon Coolpix 4600",
             "Trees in Medina"
-          ]
+          ],
+          "mediumPath": "_m/s/u/k/5/medina-wp/date-palm-with-fruits-medium.webp",
+          "smallPath": "_m/s/u/k/5/medina-wp/date-palm-with-fruits-small.webp"
         },
         {
           "path": "_m/s/u/k/5/medina-wp/al-masjid-al-nabawi-02.jpg",
@@ -913,7 +923,9 @@
             "Exterior of Masjid al-Nabawi",
             "Self-published work",
             "Taken with Nokia N95"
-          ]
+          ],
+          "mediumPath": "_m/s/u/k/5/medina-wp/al-masjid-al-nabawi-02-medium.webp",
+          "smallPath": "_m/s/u/k/5/medina-wp/al-masjid-al-nabawi-02-small.webp"
         },
         {
           "path": "_m/s/u/k/5/medina-wp/mount-uhud.jpg",
@@ -935,7 +947,9 @@
             "PD-user",
             "Sayyid Ash-Shuhada Mosque",
             "Taken with Olympus X-100 / D-540Z / C-310Z"
-          ]
+          ],
+          "mediumPath": "_m/s/u/k/5/medina-wp/mount-uhud-medium.webp",
+          "smallPath": "_m/s/u/k/5/medina-wp/mount-uhud-small.webp"
         },
         {
           "path": "_m/s/u/k/5/medina-wp/masjid-jum-ah.jpg",
@@ -958,7 +972,8 @@
             "Files with coordinates missing SDC location of creation",
             "Madinah Islamic historical monuments",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/u/k/5/medina-wp/masjid-jum-ah-small.webp"
         },
         {
           "path": "_m/s/u/k/5/medina-wp/bandar-udara-internasional-pri.jpg",
@@ -979,7 +994,9 @@
             "Files with coordinates missing SDC location of creation",
             "Prince Mohammad Bin Abdulaziz Airport",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/u/k/5/medina-wp/bandar-udara-internasional-pri-medium.webp",
+          "smallPath": "_m/s/u/k/5/medina-wp/bandar-udara-internasional-pri-small.webp"
         },
         {
           "path": "_m/s/u/k/5/medina-wp/mezquita-de-al-ghamama-medina-.jpg",
@@ -994,7 +1011,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mezquita_de_Al-Ghamama,_Medina,_Arabia_Saudita,_2025-05-22,_DD_03.jpg",
           "sourceType": "poi",
           "sourceArticleId": "medina-wp",
-          "sourceGeohash4": "suk5"
+          "sourceGeohash4": "suk5",
+          "mediumPath": "_m/s/u/k/5/medina-wp/mezquita-de-al-ghamama-medina--medium.webp",
+          "smallPath": "_m/s/u/k/5/medina-wp/mezquita-de-al-ghamama-medina--small.webp"
         }
       ],
       "narration": [

@@ -36,7 +36,7 @@ Szczecin sits at 53.42 N, 14.56 E on the Oder (Polish: Odra), about 20 km south 
 
 ## Sources
 
-- [Szczecin](https://en.wikivoyage.org/wiki/Szczecin)
+- [Szczecin](https://en.wikivoyage.org/?curid=34976)
   - German name Stettin; capital of Zachodniopomorskie; on the Odra about 20 km south of the Baltic
   - Name first recorded 1133 as Stetin; city rights 1243; Hanseatic League 1278
   - Ducal line died out 1630; passed to Sweden, Prussia, briefly the French Empire

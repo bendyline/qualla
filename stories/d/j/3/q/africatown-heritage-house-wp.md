@@ -28,7 +28,7 @@ For over a century, the Clotilda existed mainly in oral history and faded docume
 
 ## Flight Context
 
-Located at 30.738°N, 88.059°W, in the Africatown neighborhood a few miles north of downtown Mobile, Alabama. From altitude, the area sits along the Mobile River near its confluence with Chickasaw Creek. Mobile Regional Airport (KMOB) is approximately 13 miles to the west. Mobile Downtown Airport (KBFM) is closer at roughly 5 miles south. The neighborhood is visible along the river's western bank, north of the I-165 corridor. Best viewed at 2,000-3,000 feet AGL for neighborhood context, or 5,000-8,000 feet to see the relationship between Africatown, the Mobile River where the Clotilda was scuttled, and downtown Mobile.
+Located at 30.738°N, 88.059°W, in the Africatown neighborhood a few miles north of downtown Mobile, Alabama. From altitude, the area sits along the Mobile River near its confluence with Chickasaw Creek. Mobile Regional Airport (KMOB) is approximately 13 miles to the west. Mobile International Airport (KBFM, formerly Mobile Downtown) is closer at roughly 5 miles south. The neighborhood is visible along the river's western bank, north of the I-165 corridor. Best viewed at 2,000-3,000 feet AGL for neighborhood context, or 5,000-8,000 feet to see the relationship between Africatown, the Mobile River where the Clotilda was scuttled, and downtown Mobile.
 
 ## Sources
 

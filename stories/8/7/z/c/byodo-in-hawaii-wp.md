@@ -28,7 +28,7 @@ Inside the temple, an eighteen-foot gilded statue of the Lotus Buddha gazes sere
 
 ## Flight Context
 
-Located at 21.43N, 157.83W in the Valley of the Temples on Oahu's windward coast. The temple's red structure is visible against the green valley floor, backed by the dramatic fluted cliffs of the Ko'olau Range. Best viewed at 2,000-3,000 feet AGL approaching from the east over Kaneohe Bay. Nearest airports: PHNL (Honolulu International, 10 nm SW), PHNG (Kaneohe Bay MCAS, 3 nm NE).
+Located at 21.43N, 157.83W in the Valley of the Temples on Oahu's windward coast. The temple's red structure is visible against the green valley floor, backed by the dramatic fluted cliffs of the Ko'olau Range. Best viewed at 2,000-3,000 feet AGL approaching from the east over Kaneohe Bay. Nearest airports: PHNL (Daniel K. Inouye International, formerly Honolulu International, 10 nm SW), PHNG (Kaneohe Bay MCAS, 3 nm NE).
 
 ## Sources
 

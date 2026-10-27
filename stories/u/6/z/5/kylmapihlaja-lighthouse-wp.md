@@ -46,7 +46,7 @@ Kylmäpihlaja sits at 61.1446°N, 21.3028°E, about 10 km (5.4 nm) west of Rauma
 
 ## Sources
 
-- [Kylmäpihlaja Lighthouse - Wikipedia](https://en.wikipedia.org/wiki/Kylm%C3%A4pihlaja_Lighthouse)
+- [Kylmäpihlaja Lighthouse - Wikipedia](https://en.wikipedia.org/?curid=66742368)
   - completed 1953; height 32 m; focal plane 36 m; light characteristic Fl(4) W 45s
   - original complement of two lighthouse keepers, twelve pilots and eight pilot-boat drivers
   - pilot operations relocated in the 1990s; City of Rauma acquired the property

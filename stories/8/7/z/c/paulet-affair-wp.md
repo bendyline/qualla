@@ -28,7 +28,7 @@ American warships began arriving in Honolulu in July. Commodore Lawrence Kearny 
 
 ## Flight Context
 
-The Paulet Affair centered on Honolulu harbor, located at 21.302N, 157.849W. Thomas Square park, where sovereignty was restored, is in downtown Honolulu near the intersection of South King Street and Ward Avenue. Honolulu International Airport (PHNL) is 4 miles to the west. The harbor and downtown area are clearly visible from any altitude above 1,000 feet on approach from the south.
+The Paulet Affair centered on Honolulu harbor, located at 21.302N, 157.849W. Thomas Square park, where sovereignty was restored, is in downtown Honolulu near the intersection of South King Street and Ward Avenue. Daniel K. Inouye International Airport (PHNL, formerly Honolulu International) is 4 miles to the west. The harbor and downtown area are clearly visible from any altitude above 1,000 feet on approach from the south.
 
 ## Sources
 

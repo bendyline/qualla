@@ -48,7 +48,7 @@ Located at 52.5164 N, 13.3808 E, on the grand eastern approach of Unter den Lind
 
 ## Sources
 
-- [Zum schwarzen Ferkel - Wikipedia (EN)](https://en.wikipedia.org/wiki/Zum_schwarzen_Ferkel)
+- [Zum schwarzen Ferkel - Wikipedia (EN)](https://en.wikipedia.org/?curid=8168425)
   - Tavern at the corner of Unter den Linden and Neue Wilhelmstraße, Berlin; real name Gustav Türkes Weinhandlung und Probierstube, owned by Gustav Türke; also known as 'The Cloister'
   - Strindberg named it Zum schwarzen Ferkel because the Armenian or Bessarabian wine sack over the entrance resembled a black piglet; the owner enthusiastically accepted the name
   - Said to have been frequented earlier by Heinrich Heine, Robert Schumann and E. T. A. Hoffmann

@@ -46,7 +46,7 @@ Located at 28.51N, 96.49W on Matagorda Bay in Calhoun County, Texas. The site is
   - county seat moved to Port Lavaca
 - [Wikipedia - United States Camel Corps](https://en.wikipedia.org/wiki/United_States_Camel_Corps)
   - 34 camels arrived at Indianola in 1856 via USS Supply
-- [Wikipedia - Indianola refrigerated beef shipment](https://en.wikipedia.org/wiki/Indianola,_Texas)
+- [Wikipedia - Indianola refrigerated beef shipment](https://en.wikipedia.org/?curid=891406)
   - first mechanically refrigerated beef shipment from Indianola to New Orleans July 1869 on steamship Agnes
 - [TSHA - Prince Carl of Solms-Braunfels](https://www.tshaonline.org/handbook/entries/solms-braunfels-prince-carl-of)
   - Prince Carl established Carlshafen as Adelsverein port of entry in 1844

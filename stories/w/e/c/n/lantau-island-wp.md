@@ -55,7 +55,7 @@ Lantau Island lies at approximately 22.27°N, 113.95°E, about 30 km west of the
   - Hong Kong Disneyland opened 2005 at Penny's Bay confirmed
   - Cheung Po Tsai used island as base confirmed
   - Tung Chung Fort built in 1817 confirmed
-- [Lantau Island - Wikipedia (area verification)](https://en.wikipedia.org/wiki/Lantau_Island)
+- [Lantau Island - Wikipedia (area verification)](https://en.wikipedia.org/?curid=180709)
   - Lantau Island area 147.16 km² confirmed — story rounds to 147 km², acceptable
 
 ## Review Notes

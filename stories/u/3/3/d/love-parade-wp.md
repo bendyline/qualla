@@ -45,7 +45,7 @@ What the parade had been between 1989 and 2010 deserves accuracy too. For a gath
 ## Sources
 
 - [Love Parade - Wikipedia](https://en.wikipedia.org/?curid=18496)
-- [Love Parade - Wikipedia (English)](https://en.wikipedia.org/wiki/Love_Parade)
+- [Love Parade - Wikipedia (English)](https://en.wikipedia.org/?curid=18496)
   - began July 1989 in West Berlin, ~150 people, initiated by Dr. Motte (Matthias Roeingh); motto 'Friede, Freude, Eierkuchen' - confirmed
   - 1997-2000 attendance over a million annually - confirmed
   - after the 2001 parade, Berlin Zoo vets reported over half the animals had diarrhoea, blamed on the bass - confirmed verbatim

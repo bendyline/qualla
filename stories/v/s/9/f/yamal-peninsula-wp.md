@@ -37,7 +37,7 @@ Coordinates: 70.67°N, 70.14°E. The peninsula extends roughly 700 km north-sout
 ## Sources
 
 - [Yamal Peninsula - Wikipedia](https://en.wikipedia.org/?curid=2346741)
-- [Yamal Peninsula - Wikipedia](https://en.wikipedia.org/wiki/Yamal_Peninsula)
+- [Yamal Peninsula - Wikipedia](https://en.wikipedia.org/?curid=2346741)
   - Corrected: Lyuba 'frozen for 37,000 years' → 42,000 years (consistent with all scientific sources)
   - Peninsula approximately 700 km long — confirmed
   - Nenets name Yamal means 'end of the land' — confirmed

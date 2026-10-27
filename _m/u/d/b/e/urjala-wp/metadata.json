@@ -2,6 +2,65 @@
   "articleId": "urjala-wp",
   "gallery": [
     {
+      "filename": "Churchofurjala.jpg",
+      "title": "File:Churchofurjala.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Churchofurjala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Churchofurjala.jpg",
+      "width": 778,
+      "height": 1037,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "artist": "Nerwende",
+      "credit": "Own work",
+      "source": "Churchofurjala",
+      "description": "Urjala Church in Urjala, Finland. Completed in 1806. Designed by Martti Tolppo.",
+      "dateCreated": "Taken on 18 January 2004",
+      "categories": [
+        "CC-BY-2.5",
+        "CC-BY-SA-3.0-migrated",
+        "Churches in Finland in snow",
+        "Churches in Finland photographed in 2004",
+        "Finland photographs taken on 2004-01-18",
+        "GFDL",
+        "License migration redundant",
+        "Self-published work",
+        "Urjala Church"
+      ],
+      "sourceType": "core",
+      "sourceArticleId": "urjala-wp",
+      "sourceGeohash4": "udbe",
+      "smallPath": "_m/u/d/b/e/urjala-wp/urjala-church-urjala-f-small.webp"
+    },
+    {
+      "filename": "Kortejajarvi.JPG",
+      "title": "File:Kortejajarvi.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kortejajarvi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Kortejajarvi.JPG",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Tapsa",
+      "credit": "Own work",
+      "source": "Kortejajarvi",
+      "description": "Kuva Kortejärvestä",
+      "dateCreated": "2009-09-11",
+      "categories": [
+        "Attribution metadata from licensed image",
+        "CC-BY-SA-3.0",
+        "Lake Kortejärvi",
+        "Self-published work",
+        "September 2009 Finland photographs",
+        "Taken with Olympus FE-110 / X-705"
+      ],
+      "sourceType": "core",
+      "sourceArticleId": "urjala-wp",
+      "sourceGeohash4": "udbe",
+      "smallPath": "_m/u/d/b/e/urjala-wp/kuva-kortejarvesta-small.webp"
+    },
+    {
       "filename": "Urjala 1.jpg",
       "title": "File:Urjala 1.jpg",
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Urjala_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -19,17 +78,44 @@
         "Self-published work",
         "Urjala"
       ],
-      "sourceType": "poi",
+      "sourceType": "commons-category",
       "sourceArticleId": "urjala-wp",
       "sourceGeohash4": "udbe",
       "mediumPath": "_m/u/d/b/e/urjala-wp/urjala-1-medium.webp",
       "smallPath": "_m/u/d/b/e/urjala-wp/urjala-1-small.webp"
+    },
+    {
+      "filename": "Urjala 2.jpg",
+      "title": "File:Urjala 2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Urjala_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Urjala_2.jpg",
+      "width": 4200,
+      "height": 2800,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "kallerna",
+      "description": "Urjala, Finland.",
+      "dateCreated": "2021-07-05 11:28:42",
+      "categories": [
+        "CC-BY-SA-4.0",
+        "Self-published work",
+        "Urjala"
+      ],
+      "sourceType": "commons-category",
+      "sourceArticleId": "urjala-wp",
+      "sourceGeohash4": "udbe",
+      "mediumPath": "_m/u/d/b/e/urjala-wp/urjala-2-medium.webp",
+      "smallPath": "_m/u/d/b/e/urjala-wp/urjala-2-small.webp"
     }
   ],
   "galleryPaths": [
-    "_m/u/d/b/e/urjala-wp/urjala-1.jpg"
+    "_m/u/d/b/e/urjala-wp/urjala-church-urjala-f.jpg",
+    "_m/u/d/b/e/urjala-wp/kuva-kortejarvesta.jpg",
+    "_m/u/d/b/e/urjala-wp/urjala-1.jpg",
+    "_m/u/d/b/e/urjala-wp/urjala-2.jpg"
   ],
-  "updatedAt": "2026-08-18T14:21:50.393Z",
+  "updatedAt": "2026-10-19T18:14:07.261Z",
   "narration": {
     "files": [
       "udbe-urjala-flight-context.mp3",
@@ -50,5 +136,66 @@
       "udbe-urjala-the-parish-itself.mp3": 55.1075416
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Halkivaha church.JPG",
+    "title": "File:Halkivaha church.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Halkivaha_church.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Halkivaha_church.JPG",
+    "width": 1536,
+    "height": 2048,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "Kyzyl 17:52, 4 September 2006 (UTC)",
+    "credit": "Self-photographed",
+    "source": "Halkivaha church",
+    "description": "The Halkivaha (luhteran) Church in Urjala, Finland. Built in 1923–1926. Architect: Heikki Tiitola",
+    "dateCreated": "2006-09-03",
+    "categories": [
+      "CC-BY-SA-2.5,2.0,1.0",
+      "CC-BY-SA-3.0-migrated",
+      "Churches in Finland photographed in 2006",
+      "Finland photographs taken on 2006-09-03",
+      "GFDL",
+      "Halkivaha Church",
+      "License migration redundant",
+      "Self-published work",
+      "Taken with Sanyo Xacti DSC-J1"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "urjala-wp",
+    "sourceGeohash4": "udbe",
+    "smallPath": "_m/u/d/b/e/urjala-wp/hero-small.webp"
+  },
+  "thumbnail": {
+    "filename": "Halkivaha church.JPG",
+    "title": "File:Halkivaha church.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Halkivaha_church.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Halkivaha_church.JPG",
+    "width": 1536,
+    "height": 2048,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "Kyzyl 17:52, 4 September 2006 (UTC)",
+    "credit": "Self-photographed",
+    "source": "Halkivaha church",
+    "description": "The Halkivaha (luhteran) Church in Urjala, Finland. Built in 1923–1926. Architect: Heikki Tiitola",
+    "dateCreated": "2006-09-03",
+    "categories": [
+      "CC-BY-SA-2.5,2.0,1.0",
+      "CC-BY-SA-3.0-migrated",
+      "Churches in Finland photographed in 2006",
+      "Finland photographs taken on 2006-09-03",
+      "GFDL",
+      "Halkivaha Church",
+      "License migration redundant",
+      "Self-published work",
+      "Taken with Sanyo Xacti DSC-J1"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "urjala-wp",
+    "sourceGeohash4": "udbe"
   }
 }

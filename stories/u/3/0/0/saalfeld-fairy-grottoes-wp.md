@@ -36,7 +36,7 @@ The grottoes lie at 50.635 degrees N, 11.341 degrees E, in a hillside on the edg
 
 ## Sources
 
-- [Saalfeld Fairy Grottoes - Wikipedia](https://en.wikipedia.org/wiki/Saalfeld_Fairy_Grottoes)
+- [Saalfeld Fairy Grottoes - Wikipedia](https://en.wikipedia.org/?curid=6543253)
   - Alum shale mine closed 1850, opened for sightseeing 1914 (confirmed)
   - Guinness title since 1993 as the most colourful cave grottoes in the world (confirmed)
   - Three chambers connected by galleries; third contains the Märchendom (confirmed)

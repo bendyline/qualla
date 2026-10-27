@@ -48,7 +48,7 @@ Located at 52.5069 N, 13.3614 E on Stauffenbergstraße in Berlin-Tiergarten, on 
 
 ## Sources
 
-- [Bendlerblock - Wikipedia](https://en.wikipedia.org/wiki/Bendlerblock)
+- [Bendlerblock - Wikipedia](https://en.wikipedia.org/?curid=3094240)
   - Main building on the Landwehr Canal erected 1911-1914 in Neoclassical style as the seat of the Imperial Naval Office, led by Grand Admiral Alfred von Tirpitz until 1916; also housed the Imperial Admiralty Staff and Imperial Navy Cabinet under Wilhelm II
   - Street named Bendlerstraße from 1837 until 20 July 1955 after a chief mason and Berlin city councillor who developed the Tiergartenstraße mansion district; renamed Stauffenbergstraße
   - Served the Ministry of the Reichswehr after World War I; enlarged under Nazi rule; used from 1938 by OKW departments, especially the Oberkommando des Heeres and the Abwehr

@@ -3,30 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/q/y/y/rogoi-wp/hero.jpg",
-        "filename": "Frangokastello Südseite.jpg",
-        "caption": "Frangokastello, Sfakia, Nomos Chania, Crete, Greece",
-        "alt": "Frangokastello, Sfakia, Nomos Chania, Crete, Greece",
-        "width": 3495,
-        "height": 2619,
+        "path": "_m/s/q/y/y/rogoi-wp/church-of-the-assumption-of-th.jpg",
+        "filename": "Church of the Assumption of the Virgin, Rogoi.jpg",
+        "caption": "Η εκκλησία που βρίσκεται δίπλα στο κάστρο των Ρωγών.",
+        "alt": "Η εκκλησία που βρίσκεται δίπλα στο κάστρο των Ρωγών.",
+        "width": 1536,
+        "height": 864,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Olaf Tausch",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frangokastello_S%C3%BCdseite.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Antony Fragakis",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_the_Assumption_of_the_Virgin,_Rogoi.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "rogoi-wp",
         "sourceGeohash4": "sqyy",
         "categories": [
-          "2007 in Sfakia",
-          "Battlements of Frangokastello",
-          "CC-BY-SA-3.0-migrated",
-          "Frangokastello (castle)",
-          "GFDL",
-          "June 2007 Greece photographs",
-          "License migration completed",
+          "CC-BY-SA-4.0",
+          "Churches in Epirus",
           "Self-published work",
-          "Towers in Sfakia"
-        ]
+          "Vouchetion–Rogoi Castle"
+        ],
+        "smallPath": "_m/s/q/y/y/rogoi-wp/church-of-the-assumption-of-th-small.webp"
       },
       "images": [
         {
@@ -78,7 +74,8 @@
             "Opus lateritium",
             "Photographs taken on 2005-08-12",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/q/y/v/preveza-wp/nicopolis-nymphaeum-small.webp"
         },
         {
           "path": "_m/s/q/y/v/preveza-wp/mirage-f-1cg-131-preserved-akt.jpg",
@@ -105,7 +102,8 @@
             "Images by Alaniaris/Flickr-transfers",
             "Photographs by Jerry Gunner",
             "Taken with Nikon Coolpix 8700"
-          ]
+          ],
+          "smallPath": "_m/s/q/y/v/preveza-wp/mirage-f-1cg-131-preserved-akt-small.webp"
         },
         {
           "path": "_m/s/q/y/v/preveza-wp/port-of-preveza-2013.jpg",
@@ -135,7 +133,9 @@
             "Port of Preveza",
             "Ships in Preveza",
             "Views of Preveza's sea-front"
-          ]
+          ],
+          "mediumPath": "_m/s/q/y/v/preveza-wp/port-of-preveza-2013-medium.webp",
+          "smallPath": "_m/s/q/y/v/preveza-wp/port-of-preveza-2013-small.webp"
         }
       ],
       "narration": [

@@ -36,7 +36,7 @@ The Leopoldina's headquarters stands at 51.487 N, 11.963 E on the Jaegerberg, a 
 
 ## Sources
 
-- [German National Academy of Sciences Leopoldina - Wikipedia](https://en.wikipedia.org/wiki/German_National_Academy_of_Sciences_Leopoldina)
+- [German National Academy of Sciences Leopoldina - Wikipedia](https://en.wikipedia.org/?curid=895431)
   - Founded 1 January 1652 at Schweinfurt by Bausch, Fehr, Metzger and Wohlfarth as the Academia Naturae Curiosorum (confirmed)
   - Ephemerides / Miscellanea Curiosa published from 1670, continues as Nova Acta Leopoldina (confirmed)
   - Leopold I raised it to an academy in 1677 and to an imperial academy in 1687 (confirmed)

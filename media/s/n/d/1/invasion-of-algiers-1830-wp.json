@@ -3,16 +3,17 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/n/d/1/invasion-of-algiers-1830-wp/hero.jpg",
-        "filename": "Bombardement d'Alger - 1830 (cropped) (cropped2).jpg",
-        "alt": "Bombardement d'Alger - 1830 (cropped) (cropped2).jpg",
-        "width": 5872,
-        "height": 3943,
+        "path": "_m/s/n/d/1/invasion-of-algiers-1830-wp/bombardement-d-alger-1830.jpg",
+        "filename": "Bombardement d'Alger - 1830.jpg",
+        "caption": "Francuskie bombardowanie Algieru 13 czerwca 1830",
+        "alt": "Francuskie bombardowanie Algieru 13 czerwca 1830",
+        "width": 6019,
+        "height": 4096,
         "mimeType": "image/jpeg",
         "license": "Public domain",
         "artist": "Antoine Léon Morel-Fatio",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardement_d%27Alger_-_1830_(cropped)_(cropped2).jpg",
-        "sourceType": "core",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardement_d%27Alger_-_1830.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "invasion-of-algiers-1830-wp",
         "sourceGeohash4": "snd1",
         "categories": [
@@ -21,12 +22,13 @@
           "Antoine Morel-Fatio",
           "Artworks without Wikidata item",
           "CC-PD-Mark",
-          "Extracted images",
           "History paintings in the Musée national du Château de Versailles",
+          "Images with extracted images",
           "Invasion of Algiers in 1830",
-          "PD-old-100-expired",
-          "PD-old missing SDC copyright status"
-        ]
+          "PD-old-100-expired"
+        ],
+        "mediumPath": "_m/s/n/d/1/invasion-of-algiers-1830-wp/bombardement-d-alger-1830-medium.webp",
+        "smallPath": "_m/s/n/d/1/invasion-of-algiers-1830-wp/bombardement-d-alger-1830-small.webp"
       },
       "images": [
         {
@@ -76,7 +78,7 @@
           "smallPath": "_m/s/n/d/1/invasion-of-algiers-1830-wp/sidiferuch_landing_183-small.webp"
         },
         {
-          "path": "_m/s/n/d/1/invasion-of-algiers-1830-wp/gravure-ancienne-extra.jpg",
+          "path": "_m/s/n/d/1/casbah-of-algiers-wp/gravure-ancienne-extra.jpg",
           "filename": "Attaque d alger explosion du fort de l empereur.jpg",
           "caption": "Gravure ancienne, extraite de France Militaire: \"Attaque d'Alger. Explosion du Fort de l'Empereur.\" juillet 1830",
           "alt": "Gravure ancienne, extraite de France Militaire: \"Attaque d'Alger. Explosion du Fort de l'Empereur.\" juillet 1830",
@@ -96,7 +98,8 @@
             "Invasion of Algiers in 1830",
             "La France militaire (Hugo, Volume 5)",
             "PD Old"
-          ]
+          ],
+          "smallPath": "_m/s/n/d/1/casbah-of-algiers-wp/gravure-ancienne-extra-small.webp"
         },
         {
           "path": "_m/s/n/d/1/invasion-of-algiers-1830-wp/bombardement-d-alger-1830.jpg",

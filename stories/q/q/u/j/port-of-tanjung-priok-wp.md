@@ -37,7 +37,7 @@ Located at 6.10S, 106.89E on Jakarta's northern coast. From the air, the port is
 ## Sources
 
 - [Port of Tanjung Priok - Wikipedia](https://en.wikipedia.org/?curid=21235891)
-- [Port of Tanjung Priok - Wikipedia](https://en.wikipedia.org/wiki/Port_of_Tanjung_Priok)
+- [Port of Tanjung Priok - Wikipedia](https://en.wikipedia.org/?curid=21235891)
   - Lloyd's ranked it 22nd busiest container port in 2019 confirmed
   - 76 berths confirmed
   - Port construction authorized 1877 by Governor General Johan Wilhelm van Lansberge confirmed

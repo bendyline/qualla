@@ -39,7 +39,7 @@ Located at 32.37N, 86.31W on a hilltop in downtown Montgomery, Alabama. The six-
   - Opened April 26 2018
   - $20 million cost
   - Six-acre site
-- [Wikipedia - National Memorial for Peace and Justice](https://en.wikipedia.org/wiki/National_Memorial_for_Peace_and_Justice)
+- [Wikipedia - National Memorial for Peace and Justice](https://en.wikipedia.org/?curid=51397001)
   - 805 hanging steel rectangles representing counties
   - EJI documented more than 4075 lynchings in 12 Southern states
   - Designed by MASS Design Group

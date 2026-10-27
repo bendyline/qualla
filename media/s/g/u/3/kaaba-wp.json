@@ -3,31 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/g/u/3/kaaba-wp/hero.jpg",
-        "filename": "Kaaba in macca.jpg",
-        "caption": "Kaaba in macca",
-        "alt": "Kaaba in macca",
-        "width": 2592,
-        "height": 1944,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Aiman titi",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaaba_in_macca.jpg",
+        "path": "_m/s/g/u/3/kaaba-wp/templum-meccanum-sanct.jpg",
+        "filename": "Adriaan-Reland-Verhandeling-van-de-godsdienst-der-Mahometaanen MG 0723.tif",
+        "caption": "\"Templum Meccanum. Sanctissimum apud Mohamedanos, et vetustissima religione consecratum\". Temple in Mecca with detailed explanations A-Q. ..Kaaba..",
+        "alt": "\"Templum Meccanum. Sanctissimum apud Mohamedanos, et vetustissima religione consecratum\". Temple in Mecca with detailed explanations A-Q. ..Kaaba..",
+        "width": 5346,
+        "height": 3384,
+        "mimeType": "image/tiff",
+        "license": "Public domain",
+        "artist": "drawing: Jan Goeree",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adriaan-Reland-Verhandeling-van-de-godsdienst-der-Mahometaanen_MG_0723.tif",
         "sourceType": "core",
         "sourceArticleId": "kaaba-wp",
         "sourceGeohash4": "sgu3",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "GFDL",
-          "Kaaba in 2011",
-          "License migration redundant",
-          "Self-published work",
-          "Taken with Nokia N97 mini"
-        ]
+        "mediumPath": "_m/s/g/u/3/kaaba-wp/templum-meccanum-sanct-medium.webp",
+        "smallPath": "_m/s/g/u/3/kaaba-wp/templum-meccanum-sanct-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/g/u/3/kaaba-wp/etapes-du-pelerinage-l.png",
+          "path": "_m/s/g/u/3/hajj-wp/etapes-du-pelerinage-l.png",
           "filename": "La Mecque pelerinage.png",
           "caption": "Etapes du pélerinage à La Mecque",
           "alt": "Etapes du pélerinage à La Mecque",
@@ -49,10 +43,11 @@
             "Maps of Hajj",
             "Maps of Mecca",
             "PNG that should use vector graphics"
-          ]
+          ],
+          "smallPath": "_m/s/g/u/3/hajj-wp/etapes-du-pelerinage-l-small.webp"
         },
         {
-          "path": "_m/s/g/u/3/kaaba-wp/physical-location-map.jpg",
+          "path": "_m/t/5/2/1/mundafan-wp/physical-location-map.jpg",
           "filename": "Saudi Arabia relief location map.jpg",
           "caption": "Physical location map of Saudi Arabia",
           "alt": "Physical location map of Saudi Arabia",
@@ -70,10 +65,12 @@
             "Images with extracted images",
             "Images with inappropriate JPEG compression",
             "Relief location maps of Saudi Arabia"
-          ]
+          ],
+          "mediumPath": "_m/t/5/2/1/mundafan-wp/physical-location-map-medium.webp",
+          "smallPath": "_m/t/5/2/1/mundafan-wp/physical-location-map-small.webp"
         },
         {
-          "path": "_m/s/g/u/3/kaaba-wp/al-haram-mosque-flickr-al-jaze.jpg",
+          "path": "_m/s/v/9/h/holy-land-wp/al-haram-mosque-flickr-al-jaze.jpg",
           "filename": "Al-Haram mosque - Flickr - Al Jazeera English.jpg",
           "caption": "The Kaaba at al-Haram Mosque during the start of Hajj",
           "alt": "The Kaaba at al-Haram Mosque during the start of Hajj",
@@ -88,7 +85,9 @@
           "sourceGeohash4": "sgu3",
           "categories": [
             "Al Jazeera in Saudi Arabia"
-          ]
+          ],
+          "mediumPath": "_m/s/v/9/h/holy-land-wp/al-haram-mosque-flickr-al-jaze-medium.webp",
+          "smallPath": "_m/s/v/9/h/holy-land-wp/al-haram-mosque-flickr-al-jaze-small.webp"
         },
         {
           "path": "_m/s/g/u/3/kaaba-wp/gate-ka-bah.jpg",
@@ -107,7 +106,7 @@
           "smallPath": "_m/s/g/u/3/kaaba-wp/gate-ka-bah-small.webp"
         },
         {
-          "path": "_m/s/g/u/3/kaaba-wp/prophet-s-mosque.jpg",
+          "path": "_m/t/n/h/h/jamkaran-mosque-wp/prophet-s-mosque.jpg",
           "filename": "MasjidNabawi.jpg",
           "caption": "The Prophet's Mosque.",
           "alt": "The Prophet's Mosque.",
@@ -119,10 +118,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:MasjidNabawi.jpg",
           "sourceType": "core",
           "sourceArticleId": "kaaba-wp",
-          "sourceGeohash4": "sgu3"
+          "sourceGeohash4": "sgu3",
+          "mediumPath": "_m/t/n/h/h/jamkaran-mosque-wp/prophet-s-mosque-medium.webp",
+          "smallPath": "_m/t/n/h/h/jamkaran-mosque-wp/prophet-s-mosque-small.webp"
         },
         {
-          "path": "_m/s/g/u/3/kaaba-wp/three-lines-arabic-wri.jpg",
+          "path": "_m/s/g/c/z/ibn-battuta-wp/three-lines-arabic-wri.jpg",
           "filename": "Turkish - Tile with the Great Mosque of Mecca - Walters 481307 - View A.jpg",
           "caption": "The three lines of Arabic writing in the upper part of this large, ceramic wall tile are from the third chapter of the Qur'an, and exhort the Muslim faithful to make the pilgrimmage to Mecca. The rest of the tile is given over to a bird's-eye representation of the Great Mosque in Mecca, with the Ka'ba, Islam's holiest shrine, in the center surrounded by various other structures, all identified in Arabic, and a rectangular portico around the courtyard.\nSuch tiles may have been created to remind Muslims of their obligation to make the pilgrimage and to introduce potential hajji, or pilgrims, to the places and practices they would encounter in Mecca. The plaques also may have been intended for commemoration and contemplation following a hajji's experience at the Ka'ba.",
           "alt": "The three lines of Arabic writing in the upper part of this large, ceramic wall tile are from the third chapter of the Qur'an, and exhort the Muslim faithful to make the pilgrimmage to Mecca. The rest of the tile is given over to a bird's-eye representation of the Great Mosque in Mecca, with the Ka'ba, Islam's holiest shrine, in the center surrounded by various other structures, all identified in Arabic, and a rectangular portico around the courtyard.\nSuch tiles may have been created to remind Muslims of their obligation to make the pilgrimage and to introduce potential hajji, or pilgrims, to the places and practices they would encounter in Mecca. The plaques also may have been intended for commemoration and contemplation following a hajji's experience at the Ka'ba.",
@@ -134,7 +135,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turkish_-_Tile_with_the_Great_Mosque_of_Mecca_-_Walters_481307_-_View_A.jpg",
           "sourceType": "core",
           "sourceArticleId": "kaaba-wp",
-          "sourceGeohash4": "sgu3"
+          "sourceGeohash4": "sgu3",
+          "smallPath": "_m/s/g/c/z/ibn-battuta-wp/three-lines-arabic-wri-small.webp"
         },
         {
           "path": "_m/s/g/u/3/kaaba-wp/templum-meccanum-sanct.jpg",
@@ -154,7 +156,7 @@
           "smallPath": "_m/s/g/u/3/kaaba-wp/templum-meccanum-sanct-small.webp"
         },
         {
-          "path": "_m/s/g/u/3/kaaba-wp/the-blackstone.jpg",
+          "path": "_m/s/g/u/3/black-stone-wp/the-blackstone.jpg",
           "filename": "The Blackstone.jpg",
           "caption": "A close up of the Blackstone on the corner of the Kaba",
           "alt": "A close up of the Blackstone on the corner of the Kaba",
@@ -166,10 +168,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Blackstone.jpg",
           "sourceType": "core",
           "sourceArticleId": "kaaba-wp",
-          "sourceGeohash4": "sgu3"
+          "sourceGeohash4": "sgu3",
+          "smallPath": "_m/s/g/u/3/black-stone-wp/the-blackstone-small.webp"
         },
         {
-          "path": "_m/s/g/u/3/kaaba-wp/maqam-ibrahim-makkah.jpg",
+          "path": "_m/s/g/u/3/hajj-wp/maqam-ibrahim-makkah.jpg",
           "filename": "Maqam Ibrahim, Makkah.jpg",
           "caption": "Maqam Ibrahim, Makkah",
           "alt": "Maqam Ibrahim, Makkah",
@@ -181,7 +184,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maqam_Ibrahim,_Makkah.jpg",
           "sourceType": "core",
           "sourceArticleId": "kaaba-wp",
-          "sourceGeohash4": "sgu3"
+          "sourceGeohash4": "sgu3",
+          "smallPath": "_m/s/g/u/3/hajj-wp/maqam-ibrahim-makkah-small.webp"
         },
         {
           "path": "_m/s/g/u/3/kaaba-wp/meezab-e-rehmat.jpg",

@@ -33,7 +33,7 @@ Bundala National Park sits at 6.21N, 81.23E on the southeastern coast of Sri Lan
 ## Sources
 
 - [Bundala National Park - Wikipedia](https://en.wikipedia.org/?curid=22875846)
-- [Bundala National Park - Wikipedia verification](https://en.wikipedia.org/wiki/Bundala_National_Park)
+- [Bundala National Park - Wikipedia verification](https://en.wikipedia.org/?curid=22875846)
   - First Ramsar wetland in Sri Lanka 1991 confirmed
   - UNESCO biosphere reserve 2005 (fourth in Sri Lanka) confirmed
   - Greater flamingos arrive in flocks of over 1,000 from Rann of Kutch confirmed

@@ -3,19 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/q/d/bull-ring-birmingham-wp/hero.jpg",
-        "filename": "Aerial Bull Ring Birmingham.jpg",
-        "caption": "Bull Ring, Birmingham, England, featuring St Martin's church (centre) and the silver Selfridges store.\nPhoto taken by the West Midlands Police helicopter during routine operations.",
-        "alt": "Bull Ring, Birmingham, England, featuring St Martin's church (centre) and the silver Selfridges store.\nPhoto taken by the West Midlands Police helicopter during routine operations.",
-        "width": 1024,
-        "height": 726,
+        "path": "_m/g/c/q/d/bull-ring-birmingham-wp/panorama-birmingham-bu.jpg",
+        "filename": "Panorama Birmingham Bullring.jpg",
+        "alt": "Panorama Birmingham Bullring.jpg",
+        "width": 5692,
+        "height": 582,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "West Midlands Police",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_Bull_Ring_Birmingham.jpg",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_Birmingham_Bullring.jpg",
         "sourceType": "core",
         "sourceArticleId": "bull-ring-birmingham-wp",
-        "sourceGeohash4": "gcqd"
+        "sourceGeohash4": "gcqd",
+        "categories": [
+          "Buildings in Birmingham",
+          "CC-BY-SA-3.0-migrated",
+          "Files with no machine-readable author",
+          "Files with no machine-readable source",
+          "GFDL",
+          "License migration completed",
+          "Media missing infobox template",
+          "Night in Birmingham",
+          "Panoramics of Birmingham"
+        ],
+        "mediumPath": "_m/g/c/q/d/bull-ring-birmingham-wp/panorama-birmingham-bu-medium.webp",
+        "smallPath": "_m/g/c/q/d/bull-ring-birmingham-wp/panorama-birmingham-bu-small.webp"
       },
       "images": [
         {
@@ -45,7 +56,7 @@
           "smallPath": "_m/g/c/q/d/bull-ring-birmingham-wp/panorama-birmingham-bu-small.webp"
         },
         {
-          "path": "_m/g/c/q/d/bull-ring-birmingham-wp/birmingham-selfridges-building.jpg",
+          "path": "_m/g/c/q/d/birmingham-wk/birmingham-selfridges-building.jpg",
           "filename": "Birmingham Selfridges building.jpg",
           "caption": "Selfridges building in Birmingham",
           "alt": "Selfridges building in Birmingham",
@@ -65,7 +76,8 @@
             "Recipients of Civic Trust Awards",
             "Selfridges Building, Birmingham",
             "Taken with Canon PowerShot A400"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/d/birmingham-wk/birmingham-selfridges-building-small.webp"
         },
         {
           "path": "_m/g/c/q/d/bull-ring-birmingham-wp/these-escalators-newly.jpg",

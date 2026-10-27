@@ -46,7 +46,7 @@ Potsdam sits at 52.40 N, 13.07 E on the Havel, roughly 25-30 km southwest of cen
 
 ## Sources
 
-- [Potsdam - Wikivoyage](https://en.wikivoyage.org/wiki/Potsdam)
+- [Potsdam - Wikivoyage](https://en.wikivoyage.org/?curid=28315)
   - Population about 190,000 (2024); capital of Brandenburg; about 30 km southwest of Berlin
   - Tourist bus and tram lines named Schlosser-Linie, Krongut-Linie, Tropen-Linie, Cecilienhof-Linie and Filmstadt-Linie, with the stops listed
   - The Great Elector's declaration that 'the whole island must become a paradise'; the five architects Lenne, Knobelsdorff, Gontard, Schinkel and Persius under Frederick the Great and Wilhelm II

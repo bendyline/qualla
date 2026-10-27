@@ -3,24 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/r/p/clifton-park-and-museum-wp/hero.jpg",
-        "filename": "Clifton House March 2017.jpg",
-        "caption": "Clifton House, built in 1783, is a Grade II* listed building designed by John Carr of York. Ashlar sandstone, graduated slater oof. 2 storeys, 5 x 6 bays; symmetrical facades. Open stone porch with paired Doric columns,",
-        "alt": "Clifton House, built in 1783, is a Grade II* listed building designed by John Carr of York. Ashlar sandstone, graduated slater oof. 2 storeys, 5 x 6 bays; symmetrical facades. Open stone porch with paired Doric columns,",
-        "width": 3264,
-        "height": 2448,
+        "path": "_m/g/c/r/p/clifton-park-and-museum-wp/clifton-park-museum-geograph-o.jpg",
+        "filename": "Clifton Park Museum - geograph.org.uk - 4346924.jpg",
+        "caption": "Clifton Park Museum",
+        "alt": "Clifton Park Museum",
+        "width": 4976,
+        "height": 3659,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Chemical Engineer",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clifton_House_March_2017.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Neil Theasby",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clifton_Park_Museum_-_geograph.org.uk_-_4346924.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "clifton-park-and-museum-wp",
         "sourceGeohash4": "gcrp",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Clifton Park Museum",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/g/c/r/p/clifton-park-and-museum-wp/clifton-park-museum-geograph-o-medium.webp",
+        "smallPath": "_m/g/c/r/p/clifton-park-and-museum-wp/clifton-park-museum-geograph-o-small.webp"
       },
       "images": [
         {
@@ -505,7 +502,8 @@
             "Listed buildings in England with known IDs",
             "Self-published work",
             "Taken with Pentax Optio 30"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/p/rotherham-wp/rotherham-minster-small.webp"
         },
         {
           "path": "_m/g/c/r/p/rotherham-wp/rocheabbeysouthyorkshire.jpg",
@@ -520,7 +518,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:RocheAbbeySouthYorkshire.JPG",
           "sourceType": "poi",
           "sourceArticleId": "rotherham-wp",
-          "sourceGeohash4": "gcrp"
+          "sourceGeohash4": "gcrp",
+          "mediumPath": "_m/g/c/r/p/rotherham-wp/rocheabbeysouthyorkshire-medium.webp",
+          "smallPath": "_m/g/c/r/p/rotherham-wp/rocheabbeysouthyorkshire-small.webp"
         },
         {
           "path": "_m/g/c/r/p/rotherham-wp/rotherham-minster-interior.jpg",
@@ -535,7 +535,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rotherham_Minster_Interior.jpg",
           "sourceType": "poi",
           "sourceArticleId": "rotherham-wp",
-          "sourceGeohash4": "gcrp"
+          "sourceGeohash4": "gcrp",
+          "mediumPath": "_m/g/c/r/p/rotherham-wp/rotherham-minster-interior-medium.webp",
+          "smallPath": "_m/g/c/r/p/rotherham-wp/rotherham-minster-interior-small.webp"
         }
       ],
       "narration": [

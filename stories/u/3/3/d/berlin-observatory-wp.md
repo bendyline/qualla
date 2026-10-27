@@ -36,10 +36,10 @@ The Schinkel observatory stood at 52.504°N, 13.394°E, on the block now bounded
 
 ## Sources
 
-- [Berlin Observatory - Wikipedia](https://en.wikipedia.org/wiki/Berlin_Observatory)
+- [Berlin Observatory - Wikipedia](https://en.wikipedia.org/?curid=2512514)
 - [September 23, 1846: Neptune's Existence Observationally Confirmed](https://www.aps.org/apsnews/2020/08/neptunes-existence-confirmed)
 - [Discovery of Neptune](https://en.wikipedia.org/wiki/Discovery_of_Neptune)
-- [Berlin Observatory - Wikipedia](https://en.wikipedia.org/wiki/Berlin_Observatory)
+- [Berlin Observatory - Wikipedia](https://en.wikipedia.org/?curid=2512514)
   - Neptune discovered 23 September 1846 by Galle and d'Arrest, which coincidentally was director Johann Franz Encke's 55th birthday
   - Observatory founded 1700 with Gottfried Kirch as first director; Schinkel-designed Kreuzberg observatory foundation stone laid 22 October 1832, Encke moved in 24 April 1835
   - Kreuzberg site demolished August 1913, succeeded by Babelsberg Observatory; Babelsberg's 120 cm reflector (1924), then second-largest in the world, was later dismantled and shipped to the Soviet Union as war reparations

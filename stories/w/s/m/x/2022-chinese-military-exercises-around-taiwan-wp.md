@@ -49,7 +49,7 @@ The exercises occurred in seven zones encircling Taiwan, centered approximately 
   - Taiwan Strait ~180km wide confirmed
   - Pelosi highest-ranking US official in 25 years confirmed
   - Third Taiwan Strait Crisis 1995-96 reference confirmed
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2022_Chinese_military_exercises_around_Taiwan)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=71446731)
   - Restored the "reportedly" hedge on the closing line about missiles flying over Taiwan, matching the body's own hedged phrasing (the missile-overflight claim is attributed, not confirmed).
 
 ## Review Notes

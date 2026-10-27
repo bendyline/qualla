@@ -32,7 +32,7 @@ Every United States Navy, Coast Guard, and Merchant Marine vessel entering Pearl
 
 ## Flight Context
 
-Coordinates: 21.3649°N, 157.9500°W. The memorial and the white outline of the sunken Arizona are clearly visible from the air in Pearl Harbor, just off Ford Island. Best viewed from 1,500-3,000 ft AGL. Nearby: Honolulu International Airport (PHNL) and Joint Base Pearl Harbor-Hickam (PHIK). USS Missouri is berthed just behind the memorial. Clear weather offers excellent visibility of Battleship Row and Ford Island.
+Coordinates: 21.3649°N, 157.9500°W. The memorial and the white outline of the sunken Arizona are clearly visible from the air in Pearl Harbor, just off Ford Island. Best viewed from 1,500-3,000 ft AGL. Nearby: Daniel K. Inouye International Airport (PHNL, formerly Honolulu International) and Joint Base Pearl Harbor-Hickam (PHIK). USS Missouri is berthed just behind the memorial. Clear weather offers excellent visibility of Battleship Row and Ford Island.
 
 ## Sources
 

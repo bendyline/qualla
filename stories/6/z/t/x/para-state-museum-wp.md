@@ -1,44 +1,64 @@
 # Pará State Museum
 
-An 18th-century governor's palace where Brazil's October pilgrimage began, built by indigenous labor and later decorated with American cast steel, now the state's historical memory in one building.
+A colonial governors' palace on the Amazon, built with indigenous labor and stormed by rebels in 1835, now serves as the museum charged with keeping Pará's memory.
 
 **Location:** -1.4563, -48.5031
 
-**Categories:** Art museums and galleries in Brazil, Art museums and galleries established in 1981, Museums in Pará, 1981 establishments in Brazil
+**Categories:** Museums, History, Colonial architecture, Amazon, Brazil
 
 ## Introduction
 
-On November 21, 1772, the Lauro Sodré Palace opened as the seat of government for a brand-new colonial entity: the State of Grão-Pará and Rio Negro, freshly carved off from the older State of Grão-Pará and Maranhão. The building had been raised by indigenous laborers under the orders of Governor Bernardo de Mello e Castro, and it was handed over to João Pereira Caldas as his administrative headquarters. What that bare opening statement conceals is the weight of what the palace would host over the next two and a half centuries: religious pilgrimages, independence rebellions, assassinations, dictatorship, and finally, in 1981, its conversion into a museum of the state's own history.
+A museum charged with preserving a state's memory eventually has to reckon with the building it occupies. The Pará State Museum lives inside the Lauro Sodré Palace, a mansion raised in the 1760s so that Portuguese governors could administer the eastern Amazon from rooms with high ceilings and river light. Indigenous laborers built it. Two and a half centuries later, the palace is not merely the container for the collection - it is the largest object in it.
 
-## Built by the Forced
+## Landi's Commission
 
-The Lauro Sodré Palace was built with indigenous labor. That phrase, tucked into the architectural record, bears examination. The Portuguese colonial system in Amazonia depended on the coerced work of indigenous people, nominally under church supervision, increasingly under direct secular command. The beautiful neoclassical building that faces the Praca Dom Pedro II today was assembled by people whose names were not recorded and whose wages, if any, were minimal. When visitors today climb the grand staircase toward the collection, they are climbing steps cut by indigenous hands that built most of colonial Belém. This history lives in the building even when the exhibition signage does not name it.
+Antonio Landi, the Bolognese architect who spent his working life remaking Belém in stone, designed the palace in a restrained Italian classical manner, and the project was reformulated in 1767 for greater effect. Masonry began the following year under the mason Jerônimo da Silva and was finished in 1771. On 21 November 1772, João Pereira Caldas moved in. The building became the seat of the newly created State of Grão-Pará and Rio Negro - the northern half of a colony Lisbon had just split in two - and the residence of its governors and captains-general. The workforce that raised it was indigenous, conscripted into the colonial labor system that made every grand building on this coastline possible, and the museum treats that as part of the record rather than a footnote. In 1793 the first procession of the Círio de Nazaré, the devotion Belém inherited from Portugal and still the city's defining festival, set out from this address.
 
-## The First Círio
+## The Sixth of January
 
-In 1793, the first procession of the Círio de Nazaré, Pará's most important religious festival, departed from the palace. The story of Nossa Senhora de Nazaré in Belém goes back to a cattleman who found a small image of the Virgin near a stream in the 18th century and returned it to his home, only to find it had miraculously returned to the stream. The pattern repeated. A shrine was built on the spot, and in 1793 the image was carried in procession from the shrine to the governor's palace. That walk has become the annual Círio, drawing two million pilgrims to Belém every October. The palace marks the endpoint of a rope that thousands of the faithful hold as they walk, believing the contact brings grace.
+On 6 January 1835 the palace stopped being a symbol and became a target. Rebels of the Cabanagem - named for the cabanas, the riverbank huts where most of them lived - stormed the seat of government behind Francisco Vinagre. The provincial president, Bernardo Lobo de Souza, was killed; surviving accounts name Domingos Onça, an indigenous man, as the one who struck him down. The cabanos came from the region's poor, indigenous and mixed-race population, and they held Belém until government forces retook the city in April 1836. Their grievance had a history. Pará had formally joined Brazilian independence in August 1823, and the change that followed reached almost none of the people who did the region's work. Later governors preferred the palace to speak of order instead. Augusto Montenegro had the interior reworked, adding five noble halls.
 
-## An Assassination on the Steps
+## Rooms Never Meant to Be Studied
 
-On January 7, 1835, during the Cabanagem revolt, the provincial president Bernardo Lobo de Souza was killed in the palace by a man identified as Domingos Onça, a native rebel. The Cabanagem was one of the largest popular uprisings in Brazilian history, a rebellion of poor mixed-race and indigenous laborers, the cabanos, who briefly took control of Pará. Tens of thousands died before the empire suppressed it. Lobo de Souza's death inside the palace walls marks the moment when Pará's marginalized majority did the killing rather than the dying. The red on the state flag still commemorates the blood spilled during this revolt. The palace kept standing. The power that used it, once regained, has never truly released it since.
+Visitors climb a broad staircase into a collection of vases, flower boxes, chandeliers, sculptures, paintings and furniture - objects commissioned to advertise the wealth of Pará's rulers, now catalogued as evidence of it. The Eclectic Hall, decorated by the French artist Joseph Cassé in a neo-Renaissance manner threaded with neoclassical and neo-Gothic detail, was the governor's private office. The Renaissance Hall is the most important room in the building, fitted with cast steel bought from the United States by Governor Lauro Sodré in 1894 and hung with Antônio Parreiras's enormous canvas of the conquest of the Amazon, commissioned by Montenegro. It is worth standing in front of that painting and asking what story the state was telling about itself, in the room where it received guests. The Empire Hall, also Cassé's work, served as antechamber to the Hall of Honor. Beyond them lie the Art Nouveau and Pompeian halls and the gallery of governors.
 
-## American Steel, French Halls
+## Made a Museum Twice
 
-In 1894, Governor Lauro Sodré purchased cast steel from the United States to redecorate what became the palace's most important room: the Renaissance Hall. The imported metal is worked into the ceilings, moldings, and lamp fixtures that still dominate the space today. The Renaissance Hall also holds A Conquista da Amazônia, a monumental canvas by Antônio Parreiras commissioned by Governor Augusto Montenegro to celebrate the Portuguese conquest of the region. French artist Joseph Cassé decorated the Eclectic Hall and the Empire Hall in neo-Renaissance and neoclassical styles, the kind of European fantasy that rubber-era Pará could briefly afford. The governor's private office, the antechamber to the Hall of Honor, the galleries of past governors: each room is a compressed lesson in how the 19th-century elite wanted to be remembered.
+The institution came first. Pará created the museum as a state institute in 1981; only in 1994, during the administration of Governor Jader Barbalho, did the palace itself become its home. The result is a building that does two jobs at once. Its historical rooms hold the furniture of colonial and imperial power, while its auditorium, library and Open Studio host exhibitions by living artists, so that a contemporary installation may share a floor with a nineteenth-century governor's desk. The museum documents, researches and publishes on Pará's social and historical memory, and the palace is protected as heritage by IPHAN, Brazil's national heritage institute.
 
-## A Museum of Itself
+## Standing in Cidade Velha
 
-In 1981, the building became the Pará State Historical Museum, officially MHEP. What had been a seat of power became a cabinet of its own artifacts: the vases, chandeliers, sculptures, and paintings commissioned over two centuries to project the wealth of Pará's rulers. The Art Nouveau and Pompeian halls, the Open Studio, the rooms named for Vicente Sales, Antônio Landi, and Plácido de Souza. Walking through is walking through curated nostalgia, with the building itself as the largest artifact. It sits in Cidade Velha, the old colonial core of Belém, a few minutes from the Ver-o-Peso market and the cathedral. The palace that indigenous hands built still stands. It contains, now, the memory of everything it has been.
+The palace sits in Cidade Velha, the oldest quarter of Belém, a short walk from the Forte do Presépio where the Portuguese first dug in, from the cathedral, and from the Ver-o-Peso market where the region's real business has always been transacted. Step outside and Guajará Bay is right there - brown, enormous, and busy with the small boats that still connect the city to a thousand river settlements. The governors chose the spot for exactly that reason.
 
 ## Flight Context
 
-Located at 1.456°S, 48.503°W in Belém's Cidade Velha district, the Lauro Sodré Palace faces the Praça Dom Pedro II. From Belém/Val-de-Cans International (SBBE), approach paths over the city give clear views of the compact colonial core. The palace is a two-story building with a slate roof, set behind a small plaza. Best viewed in morning light during the dry season, July to November. Nearby landmarks include the Cathedral of Our Lady of Grace, the Castle Fortress, and the Ver-o-Peso waterfront.
+Coordinates 1.4563 S, 48.5031 W, on the Cidade Velha waterfront in Belém, Pará. Best viewed from 1,500-2,500 ft AGL on a southwesterly pass over Guajará Bay, which puts the palace, the Forte do Presépio and the dodecagonal iron roof of the Ver-o-Peso market in a single frame. Belém/Val de Cans International (SBBE) lies about 8 km north-northeast; Belém/Brigadeiro Protásio de Oliveira, known locally as Júlio César (SBJC), is closer to the city center. Expect heavy convective buildups and afternoon thunderstorms year-round this close to the equator - mornings offer the cleanest visibility, especially in the wetter months from January to May.
 
 ## Sources
 
 - [Pará State Museum - Wikipedia](https://en.wikipedia.org/?curid=75361996)
+  - Antônio José Landi designed palace 1762-1771, built with indigenous labor under Gov. Bernardo de Mello e Castro
+  - Inaugurated 21 November 1772 under João Pereira Caldas
+  - 1793 first Círio de Nazaré procession departed from the site
+  - January 1835: Gov. Bernardo Lobo de Souza killed during Cabanagem uprising, struck by Domingos Onça
+  - Augusto Montenegro added five noble halls
+  - Renaissance Hall cast steel purchased by Gov. Lauro Sodré in 1894
+  - Antônio Parreiras painting of the conquest of the Amazon, commissioned by Montenegro
+  - Joseph Cassé decorated the Eclectic and Empire Halls
+  - Museum created 1981; moved into Lauro Sodré Palace in 1994
+- [Cabanagem - Wikipedia](https://en.wikipedia.org/wiki/Cabanagem)
+  - Corrected: rebel leader of the 6 January 1835 attack was Francisco Vinagre (with Félix Clemente Malcher), not Antônio Vinagre, who was a separate Vinagre brother active later in the revolt
+  - Corrected: legalist government forces retook Belém in April 1836, not 1837
+
+## Review Notes
+
+**Reviewed:** 2026-09-05 · 9 facts verified · 2 corrections
+
+Corrected Cabanagem attack leader (Francisco Vinagre, not Antônio Vinagre) and year Belém was retaken (1836, not 1837). Verified construction dates, museum timeline, hall decorations. Spiciness 2 (mild interpretive framing).
+
+**Spiciness:** 2/5
 
 ---
 
-*Word count: 830*
+*Word count: 703*
 *Read time: 4 minutes*

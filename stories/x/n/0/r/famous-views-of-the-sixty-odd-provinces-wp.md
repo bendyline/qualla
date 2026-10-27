@@ -33,7 +33,7 @@ The series is associated with Kyoto (coordinates 35.013N, 135.678E), where the f
 ## Sources
 
 - [Famous Views of the Sixty-odd Provinces - Wikipedia](https://en.wikipedia.org/?curid=48994365)
-- [Wikipedia - Famous Views of the Sixty-odd Provinces](https://en.wikipedia.org/wiki/Famous_Views_of_the_Sixty-odd_Provinces)
+- [Wikipedia - Famous Views of the Sixty-odd Provinces](https://en.wikipedia.org/?curid=48994365)
   - 70 total prints (68 provinces + Edo + contents page) confirmed
   - Published by Koshimuraya Heisuke 1853-1856 confirmed
   - 42 prints completed in 1853 confirmed

@@ -26,7 +26,7 @@
       },
       "images": [
         {
-          "path": "_m/u/1/5/p/mecanoo-wp/public-space.jpg",
+          "path": "_m/u/1/5/p/delft-wk/public-space.jpg",
           "filename": "Library Delft University of Technology 01.jpg",
           "caption": "Public space",
           "alt": "Public space",
@@ -43,7 +43,8 @@
             "CC-BY-SA-4.0",
             "Self-published work",
             "TU Delft Library building"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/delft-wk/public-space-small.webp"
         },
         {
           "path": "_m/u/1/5/p/mecanoo-wp/public-space-1.jpg",
@@ -344,7 +345,8 @@
             "Self-published work",
             "TU Delft Hortus Botanicus",
             "Taken with Canon PowerShot A520"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/delft-wk/entry-botanische-tuin-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/de-porceleyne-fles-ima.jpg",
@@ -371,7 +373,8 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon PowerShot A530"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/delft-wk/de-porceleyne-fles-ima-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/artilleriemagazijn-paa.jpg",
@@ -398,7 +401,9 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon PowerShot A530"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/delft-wk/artilleriemagazijn-paa-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/artilleriemagazijn-paa-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/bagijnetoren-delft-net.jpg",
@@ -425,7 +430,9 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon Digital IXUS 70"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/delft-wk/bagijnetoren-delft-net-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/bagijnetoren-delft-net-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/oude-kerk-old-church-d.jpg",
@@ -446,7 +453,9 @@
             "Aerial views of Oude Kerk (Delft)",
             "CC-BY-SA-3.0",
             "GFDL"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/delft-wk/oude-kerk-old-church-d-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/oude-kerk-old-church-d-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/view-delft-central-mar.jpg",
@@ -461,7 +470,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delft_Central_Market_Square.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/view-delft-central-mar-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/view-delft-central-mar-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/delft-mijnbouwstraat-1.jpg",
@@ -476,7 +487,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delft_-_Mijnbouwstraat_120.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/delft-mijnbouwstraat-1-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/delft-mijnbouwstraat-1-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/en-delft-markt-57-75.jpg",
@@ -491,7 +504,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:DelftMarkt57-75.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/en-delft-markt-57-75-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/en-delft-markt-57-75-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/canal-cafe-delft-nethe.jpg",
@@ -506,7 +521,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:DelftCanal.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/canal-cafe-delft-nethe-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/canal-cafe-delft-nethe-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/canal-view-delft-nethe.jpg",
@@ -521,7 +538,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:DelftCanalView.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/canal-view-delft-nethe-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/canal-view-delft-nethe-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/eastgate-delft-netherl.jpg",
@@ -536,7 +555,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:(46-365)_Oostpoort_Delft_(5274822905).jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/eastgate-delft-netherl-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/eastgate-delft-netherl-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/de-delftse-pauw.jpg",
@@ -551,7 +572,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:De_Delftse_Pauw.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/de-delftse-pauw-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/de-delftse-pauw-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/bahnhof-delft-eine-nie.jpg",
@@ -566,7 +589,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_2474_Delft_-_Railway_station.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/bahnhof-delft-eine-nie-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/bahnhof-delft-eine-nie-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/de-gevel-van-de-delfts.jpg",
@@ -581,7 +606,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delft_Wikivoyage_Banner_(5).jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/de-gevel-van-de-delfts-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/de-gevel-van-de-delfts-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/sculpture-installation.jpg",
@@ -601,7 +628,9 @@
             "PD-self",
             "Rode BMW (1987) by Kunst & Vaarwerk",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/sculpture-installation-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/sculpture-installation-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/rotterdam-erasmusbrug.jpg",
@@ -626,7 +655,8 @@
             "Night in Rotterdam",
             "Self-published work",
             "Statue of Peter the Great in Rotterdam"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/rotterdam-erasmusbrug-small.webp"
         },
         {
           "path": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-eni-02324345-alblas-14.jpg",
@@ -651,7 +681,9 @@
             "Ships in motion in Nieuwe Maas (Rotterdam)",
             "Taken with Nikon D90 and AF-S DX Nikkor 18-200mm/3.5-5.6G ED VR II",
             "Witte Huis (Rotterdam)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-eni-02324345-alblas-14-medium.webp",
+          "smallPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-eni-02324345-alblas-14-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/oude-haven-rotterdam-e.jpg",
@@ -682,7 +714,9 @@
             "Self-published work",
             "Taken with Canon PowerShot SX200 IS",
             "Witte Huis (Rotterdam)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/oude-haven-rotterdam-e-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/oude-haven-rotterdam-e-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/north-sea-jazz-festiva.jpg",
@@ -704,7 +738,8 @@
             "CC-BY-SA-3.0",
             "Self-published work",
             "Taken with Canon EOS 1000D"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/north-sea-jazz-festiva-small.webp"
         },
         {
           "path": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbr-ck-w.jpg",
@@ -726,7 +761,8 @@
             "CC-BY-SA-2.5",
             "CC-BY-SA-3.0-migrated",
             "Derivative versions"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbr-ck-w-small.webp"
         },
         {
           "path": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-delfshaven-rotterdam-the-nethe.jpg",
@@ -741,7 +777,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delfshaven_Rotterdam_(the_Netherlands)_17.JPG",
           "sourceType": "poi",
           "sourceArticleId": "1976-schiedam-train-accident-wp",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-delfshaven-rotterdam-the-nethe-medium.webp",
+          "smallPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-delfshaven-rotterdam-the-nethe-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/diergaarde-blijdorp-me.jpg",
@@ -756,7 +794,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medusakop_op_kolom_in_giraffenweide_-_Rotterdam_-_20348014_-_RCE.jpg",
           "sourceType": "poi",
           "sourceArticleId": "rotterdam-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/diergaarde-blijdorp-me-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/diergaarde-blijdorp-me-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/concert-en-congresgebo.jpg",
@@ -771,7 +811,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Overzicht_-_Rotterdam_-_20534496_-_RCE.jpg",
           "sourceType": "poi",
           "sourceArticleId": "rotterdam-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/concert-en-congresgebo-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/concert-en-congresgebo-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/museum-boymans-van-beu.jpg",
@@ -786,7 +828,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Overzicht_achtergevel_-_Rotterdam_-_20534511_-_RCE.jpg",
           "sourceType": "poi",
           "sourceArticleId": "rotterdam-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/museum-boymans-van-beu-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/museum-boymans-van-beu-small.webp"
         },
         {
           "path": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbrug-seen-from-euromast.jpg",
@@ -801,7 +845,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erasmusbrug_seen_from_Euromast.jpg",
           "sourceType": "poi",
           "sourceArticleId": "1976-schiedam-train-accident-wp",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbrug-seen-from-euromast-medium.webp",
+          "smallPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbrug-seen-from-euromast-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/witte-de-center-contem.jpg",
@@ -816,7 +862,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_Witte_de_With_Center_for_Contemporary_Art.jpg",
           "sourceType": "poi",
           "sourceArticleId": "rotterdam-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/witte-de-center-contem-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/witte-de-center-contem-small.webp"
         }
       ],
       "narration": [

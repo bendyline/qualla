@@ -3,31 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/c/e/delta-king-wp/hero.jpg",
-        "filename": "Delta King.JPG",
-        "caption": "Delta King, as seen from The Ziggurat in West Sacramento, California. The building is occupied by California Department of General Services who were very generous in their time in permitting me use their balcony.",
-        "alt": "Delta King, as seen from The Ziggurat in West Sacramento, California. The building is occupied by California Department of General Services who were very generous in their time in permitting me use their balcony.",
-        "width": 3072,
-        "height": 2304,
+        "path": "_m/9/q/c/e/delta-king-wp/delta-king-old-sacramento-4028.jpg",
+        "filename": "Delta King, Old Sacramento-4028.jpg",
+        "caption": "Paddlewheel steamboat Delta King in Old Sacramento, California",
+        "alt": "Paddlewheel steamboat Delta King in Old Sacramento, California",
+        "width": 6000,
+        "height": 4000,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "J.smith",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delta_King.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Frank Schulenburg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delta_King,_Old_Sacramento-4028.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "delta-king-wp",
         "sourceGeohash4": "9qce",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Delta King (ship, 1927)",
-          "Files by Justin Smith",
-          "National Register of Historic Places with known IDs",
-          "Self-published work",
-          "Taken with Fujifilm FinePix S5700"
-        ]
+        "mediumPath": "_m/9/q/c/e/delta-king-wp/delta-king-old-sacramento-4028-medium.webp",
+        "smallPath": "_m/9/q/c/e/delta-king-wp/delta-king-old-sacramento-4028-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/c/e/delta-king-wp/hero.jpg",
+          "path": "_m/9/y/u/y/harry-s-truman-national-historic-site-wp/hero.jpg",
           "filename": "HistoricPlacesNationalRegisterPlaque.JPG",
           "caption": "Plaque declaring \"this property has been placed on the National Register of Historic Places by the United States Department of the Interior\"",
           "alt": "Plaque declaring \"this property has been placed on the National Register of Historic Places by the United States Department of the Interior\"",
@@ -47,7 +41,9 @@
             "PD US Government",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/9/y/u/y/harry-s-truman-national-historic-site-wp/hero-medium.webp",
+          "smallPath": "_m/9/y/u/y/harry-s-truman-national-historic-site-wp/hero-small.webp"
         },
         {
           "path": "_m/9/q/c/e/delta-king-wp/delta-king-hotel-dusk.jpg",
@@ -231,7 +227,7 @@
           "smallPath": "_m/9/q/c/e/delta-king-wp/river-dusk-small.webp"
         },
         {
-          "path": "_m/9/q/c/e/delta-king-wp/picture-sacramento-riv.jpg",
+          "path": "_m/9/q/c/e/sacramento-city-wk/picture-sacramento-riv.jpg",
           "filename": "Sacramento Riverfront.jpg",
           "caption": "This is a picture of the Sacramento Riverfront. The image was designed to replace the image used in the Sacramento article that was removed due to missing copyright information.",
           "alt": "This is a picture of the Sacramento Riverfront. The image was designed to replace the image used in the Sacramento article that was removed due to missing copyright information.",
@@ -243,7 +239,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sacramento_Riverfront.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "sacramento-city-wk",
-          "sourceGeohash4": "9qce"
+          "sourceGeohash4": "9qce",
+          "smallPath": "_m/9/q/c/e/sacramento-city-wk/picture-sacramento-riv-small.webp"
         },
         {
           "path": "_m/9/q/c/e/delta-king-wp/river-lines-advertising-flyer.jpg",
@@ -442,7 +439,8 @@
             "Signs in California",
             "State historic park signs",
             "Taken with HP PhotoSmart R725"
-          ]
+          ],
+          "smallPath": "_m/9/q/c/e/sacramento-wk/hero-small.webp"
         },
         {
           "path": "_m/9/q/c/e/sacramento-california-wp/ish-wc-suttersfort4.jpg",
@@ -466,7 +464,9 @@
             "National Register of Historic Places with known IDs",
             "Self-published work",
             "Sutter's Fort"
-          ]
+          ],
+          "mediumPath": "_m/9/q/c/e/sacramento-california-wp/ish-wc-suttersfort4-medium.webp",
+          "smallPath": "_m/9/q/c/e/sacramento-california-wp/ish-wc-suttersfort4-small.webp"
         },
         {
           "path": "_m/9/q/c/e/sacramento-california-wp/lwbsacramentozoo.jpg",
@@ -490,7 +490,9 @@
             "Sacramento Zoo",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/9/q/c/e/sacramento-california-wp/lwbsacramentozoo-medium.webp",
+          "smallPath": "_m/9/q/c/e/sacramento-california-wp/lwbsacramentozoo-small.webp"
         },
         {
           "path": "_m/9/q/c/e/sacramento-california-wp/rivercats-at-raley-field2.jpg",
@@ -520,7 +522,9 @@
             "Self-published work",
             "Taken with Sony DSC-T100",
             "Tuscon Sindwinders"
-          ]
+          ],
+          "mediumPath": "_m/9/q/c/e/sacramento-california-wp/rivercats-at-raley-field2-medium.webp",
+          "smallPath": "_m/9/q/c/e/sacramento-california-wp/rivercats-at-raley-field2-small.webp"
         },
         {
           "path": "_m/9/q/c/e/sacramento-california-wp/sac-state-north-entrance.jpg",
@@ -539,7 +543,8 @@
           "categories": [
             "California State University, Sacramento",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/9/q/c/e/sacramento-california-wp/sac-state-north-entrance-small.webp"
         },
         {
           "path": "_m/9/q/c/e/sacramento-california-wp/aerial-view-of-uc-davis.jpg",
@@ -554,7 +559,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_UC_Davis.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sacramento-california-wp",
-          "sourceGeohash4": "9qce"
+          "sourceGeohash4": "9qce",
+          "mediumPath": "_m/9/q/c/e/sacramento-california-wp/aerial-view-of-uc-davis-medium.webp",
+          "smallPath": "_m/9/q/c/e/sacramento-california-wp/aerial-view-of-uc-davis-small.webp"
         },
         {
           "path": "_m/9/q/c/e/sacramento-california-wp/arden-fair-mall.jpg",
@@ -569,7 +576,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arden_Fair_Mall.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sacramento-california-wp",
-          "sourceGeohash4": "9qce"
+          "sourceGeohash4": "9qce",
+          "mediumPath": "_m/9/q/c/e/sacramento-california-wp/arden-fair-mall-medium.webp",
+          "smallPath": "_m/9/q/c/e/sacramento-california-wp/arden-fair-mall-small.webp"
         },
         {
           "path": "_m/9/q/c/e/sacramento-california-wp/california-state-capitol-sacra.jpg",
@@ -584,7 +593,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:California_State_Capitol,_Sacramento.JPG",
           "sourceType": "poi",
           "sourceArticleId": "sacramento-california-wp",
-          "sourceGeohash4": "9qce"
+          "sourceGeohash4": "9qce",
+          "mediumPath": "_m/9/q/c/e/sacramento-california-wp/california-state-capitol-sacra-medium.webp",
+          "smallPath": "_m/9/q/c/e/sacramento-california-wp/california-state-capitol-sacra-small.webp"
         },
         {
           "path": "_m/9/q/c/e/sacramento-california-wp/b-f-hastings-bank-building-in-.jpg",
@@ -599,7 +610,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:B._F._Hastings_Bank_Building_in_Sacramento,_California.JPG",
           "sourceType": "poi",
           "sourceArticleId": "sacramento-california-wp",
-          "sourceGeohash4": "9qce"
+          "sourceGeohash4": "9qce",
+          "mediumPath": "_m/9/q/c/e/sacramento-california-wp/b-f-hastings-bank-building-in--medium.webp",
+          "smallPath": "_m/9/q/c/e/sacramento-california-wp/b-f-hastings-bank-building-in--small.webp"
         },
         {
           "path": "_m/9/q/c/e/sacramento-california-wp/sacramento-california-state-ca.jpg",
@@ -614,7 +627,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sacramento,-California---State-Capitol.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sacramento-california-wp",
-          "sourceGeohash4": "9qce"
+          "sourceGeohash4": "9qce",
+          "mediumPath": "_m/9/q/c/e/sacramento-california-wp/sacramento-california-state-ca-medium.webp",
+          "smallPath": "_m/9/q/c/e/sacramento-california-wp/sacramento-california-state-ca-small.webp"
         },
         {
           "path": "_m/9/q/c/e/sacramento-california-wp/california-automobile-museum-e.jpg",
@@ -629,7 +644,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:California_Automobile_Museum_entrance.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sacramento-california-wp",
-          "sourceGeohash4": "9qce"
+          "sourceGeohash4": "9qce",
+          "mediumPath": "_m/9/q/c/e/sacramento-california-wp/california-automobile-museum-e-medium.webp",
+          "smallPath": "_m/9/q/c/e/sacramento-california-wp/california-automobile-museum-e-small.webp"
         },
         {
           "path": "_m/9/q/c/e/sacramento-california-wp/old-town-sacramento-gold-rush-.jpg",
@@ -644,7 +661,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_town_Sacramento_Gold_Rush_Days_05.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sacramento-california-wp",
-          "sourceGeohash4": "9qce"
+          "sourceGeohash4": "9qce",
+          "mediumPath": "_m/9/q/c/e/sacramento-california-wp/old-town-sacramento-gold-rush--medium.webp",
+          "smallPath": "_m/9/q/c/e/sacramento-california-wp/old-town-sacramento-gold-rush--small.webp"
         }
       ],
       "narration": [

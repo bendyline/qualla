@@ -33,7 +33,7 @@ Located at 28.37N, 81.55W in Bay Lake, Florida, within the Walt Disney World Res
 ## Sources
 
 - [Epcot - Wikipedia](https://en.wikipedia.org/?curid=37397)
-- [Wikipedia - Epcot](https://en.wikipedia.org/wiki/Epcot)
+- [Wikipedia - Epcot](https://en.wikipedia.org/?curid=37397)
   - Opened October 1, 1982
   - Construction cost $800 million to $1.4 billion range (final cost approximately $1.5 billion)
   - Spaceship Earth is 180 feet tall geodesic sphere

@@ -3,30 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/0/1/pevensey-castle-wp/hero.jpg",
-        "filename": "Pevensey Castle aerial alt.jpg",
-        "caption": "Aerial photograph of Pevensey castle and surroundings, England. The church at the bottom of the picture, just outside the Roman wall, is St.Mary's at Westham. To the right of the castle is St.Nicholas' church at Pevensey. Nikon D60 f=116mm f/9 at 1/1250s ISO 800. Processed using Nikon ViewNX 1.5.2.",
-        "alt": "Aerial photograph of Pevensey castle and surroundings, England. The church at the bottom of the picture, just outside the Roman wall, is St.Mary's at Westham. To the right of the castle is St.Nicholas' church at Pevensey. Nikon D60 f=116mm f/9 at 1/1250s ISO 800. Processed using Nikon ViewNX 1.5.2.",
-        "width": 2746,
-        "height": 1277,
+        "path": "_m/u/1/0/1/pevensey-castle-wp/pevensey-castle-2063.jpg",
+        "filename": "Pevensey Castle (2063).jpg",
+        "caption": "Pevensey Castle",
+        "alt": "Pevensey Castle",
+        "width": 4288,
+        "height": 2848,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Pevensey_Castle_aerial_view.jpg: Lieven Smits\nderivative work: Hchc2009 (talk)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pevensey_Castle_aerial_alt.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Nilfanion",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pevensey_Castle_(2063).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "pevensey-castle-wp",
         "sourceGeohash4": "u101",
-        "categories": [
-          "Aerial photographs of Pevensey Castle",
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "Files with coordinates missing SDC location of creation (50° N, 0° E)",
-          "GFDL",
-          "License migration redundant",
-          "On OSM",
-          "Retouched pictures",
-          "Self-published work",
-          "Uploaded with derivativeFX"
-        ]
+        "mediumPath": "_m/u/1/0/1/pevensey-castle-wp/pevensey-castle-2063-medium.webp",
+        "smallPath": "_m/u/1/0/1/pevensey-castle-wp/pevensey-castle-2063-small.webp"
       },
       "images": [
         {
@@ -83,7 +74,7 @@
           "smallPath": "_m/u/1/0/1/pevensey-castle-wp/pevensey-castle-world-small.webp"
         },
         {
-          "path": "_m/u/1/0/1/pevensey-castle-wp/roman-baths-wroxeter.jpg",
+          "path": "_m/g/c/p/1/portchester-castle-wp/roman-baths-wroxeter.jpg",
           "filename": "Wroxeter baths, 2010.jpg",
           "caption": "The Roman baths at Wroxeter",
           "alt": "The Roman baths at Wroxeter",
@@ -98,7 +89,8 @@
           "sourceGeohash4": "u101",
           "categories": [
             "Ancient Roman thermae in the United Kingdom"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/1/portchester-castle-wp/roman-baths-wroxeter-small.webp"
         },
         {
           "path": "_m/u/1/0/1/pevensey-castle-wp/exterior-inner-bailey.jpg",
@@ -580,7 +572,9 @@
             "East Street Groyne, Brighton, East Sussex",
             "Self-published work",
             "Taken with Kodak EasyShare C310"
-          ]
+          ],
+          "mediumPath": "_m/u/1/0/3/east-sussex-wp/brighton-uk-medium.webp",
+          "smallPath": "_m/u/1/0/3/east-sussex-wp/brighton-uk-small.webp"
         },
         {
           "path": "_m/u/1/0/3/east-sussex-wp/ashdown-forest-view.jpg",
@@ -602,7 +596,9 @@
             "Forests in the United Kingdom in autumn",
             "Taken with HP PhotoSmart M527",
             "Views of East Sussex"
-          ]
+          ],
+          "mediumPath": "_m/u/1/0/3/east-sussex-wp/ashdown-forest-view-medium.webp",
+          "smallPath": "_m/u/1/0/3/east-sussex-wp/ashdown-forest-view-small.webp"
         },
         {
           "path": "_m/u/1/0/3/east-sussex-wp/batemans.jpg",
@@ -626,7 +622,9 @@
             "Park and Garden of Bateman's",
             "Photographs by Brian Snelson",
             "Taken with Canon EOS 20D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/0/3/east-sussex-wp/batemans-medium.webp",
+          "smallPath": "_m/u/1/0/3/east-sussex-wp/batemans-small.webp"
         },
         {
           "path": "_m/u/1/0/3/east-sussex-wp/bodiam.jpg",
@@ -650,7 +648,8 @@
             "License migration completed",
             "Self-published work",
             "Taken with Nikon D70"
-          ]
+          ],
+          "smallPath": "_m/u/1/0/3/east-sussex-wp/bodiam-small.webp"
         },
         {
           "path": "_m/u/1/0/3/east-sussex-wp/beachy-head-east-sussex-englan.jpg",
@@ -665,7 +664,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beachy_Head,_East_Sussex,_England-2Oct2011_(1).jpg",
           "sourceType": "poi",
           "sourceArticleId": "east-sussex-wp",
-          "sourceGeohash4": "u103"
+          "sourceGeohash4": "u103",
+          "mediumPath": "_m/u/1/0/3/east-sussex-wp/beachy-head-east-sussex-englan-medium.webp",
+          "smallPath": "_m/u/1/0/3/east-sussex-wp/beachy-head-east-sussex-englan-small.webp"
         },
         {
           "path": "_m/g/c/p/c/brighton-wp/brighton-pier-1996.jpg",
@@ -680,7 +681,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brighton_pier_1996.jpg",
           "sourceType": "poi",
           "sourceArticleId": "brighton-wp",
-          "sourceGeohash4": "u103"
+          "sourceGeohash4": "u103",
+          "smallPath": "_m/g/c/p/c/brighton-wp/brighton-pier-1996-small.webp"
         },
         {
           "path": "_m/u/1/0/3/east-sussex-wp/battle-high-street.jpg",
@@ -695,7 +697,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battle_High_Street.jpg",
           "sourceType": "poi",
           "sourceArticleId": "east-sussex-wp",
-          "sourceGeohash4": "u103"
+          "sourceGeohash4": "u103",
+          "smallPath": "_m/u/1/0/3/east-sussex-wp/battle-high-street-small.webp"
         },
         {
           "path": "_m/u/1/0/3/east-sussex-wp/bexhill-town-limit-sign-bexhil.jpg",
@@ -710,7 +713,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bexhill_town_limit_sign,_Bexhill_Road.jpg",
           "sourceType": "poi",
           "sourceArticleId": "east-sussex-wp",
-          "sourceGeohash4": "u103"
+          "sourceGeohash4": "u103",
+          "mediumPath": "_m/u/1/0/3/east-sussex-wp/bexhill-town-limit-sign-bexhil-medium.webp",
+          "smallPath": "_m/u/1/0/3/east-sussex-wp/bexhill-town-limit-sign-bexhil-small.webp"
         }
       ],
       "videos": [

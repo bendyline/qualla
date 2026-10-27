@@ -32,7 +32,7 @@ From the air, the Ponce de Leon Hotel's red terracotta roofline and twin bell to
 
 ## Flight Context
 
-Flagler College occupies the former Ponce de Leon Hotel in downtown St. Augustine, at approximately 29.892N, 81.315W. The building's distinctive red terracotta roof, twin bell towers, and central courtyard are visible from moderate altitude. It sits just southwest of the Castillo de San Marcos on the western shore of Matanzas Bay. The Bridge of Lions is visible to the east. Nearest airports: St. Augustine Airport (KSGJ) approximately 4nm northwest, Jacksonville International (KJAX) 35nm north. Best viewed at 1,500-2,500 feet AGL to appreciate the roofline details and campus layout against the surrounding historic district.
+Flagler College occupies the former Ponce de Leon Hotel in downtown St. Augustine, at approximately 29.892N, 81.315W. The building's distinctive red terracotta roof, twin bell towers, and central courtyard are visible from moderate altitude. It sits just southwest of the Castillo de San Marcos on the western shore of Matanzas Bay. The Bridge of Lions is visible to the east. Nearest airports: Northeast Florida Regional Airport (KSGJ, formerly St. Augustine Airport) approximately 4nm northwest, Jacksonville International (KJAX) 35nm north. Best viewed at 1,500-2,500 feet AGL to appreciate the roofline details and campus layout against the surrounding historic district.
 
 ## Sources
 

@@ -27,7 +27,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/2/8/conor-pass-wp/ireland-relief-location-map.png",
+          "path": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map.png",
           "filename": "Ireland relief location map.png",
           "caption": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
           "alt": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
@@ -46,10 +46,11 @@
             "Images with extracted images",
             "Maps by Nilfanion",
             "Relief location maps of Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map-small.webp"
         },
         {
-          "path": "_m/g/c/2/8/conor-pass-wp/the-matterhorn-as-seen-from-ze.png",
+          "path": "_m/4/q/u/j/cuernos-del-paine-wp/the-matterhorn-as-seen-from-ze.png",
           "filename": "The Matterhorn as seen from Zermatt.png",
           "caption": "The Matterhorn as seen from Zermatt.  This is a square crop of",
           "alt": "The Matterhorn as seen from Zermatt.  This is a square crop of",
@@ -66,7 +67,8 @@
             "CC-BY-SA-4.0",
             "North-east side of Matterhorn",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/4/q/u/j/cuernos-del-paine-wp/the-matterhorn-as-seen-from-ze-small.webp"
         },
         {
           "path": "_m/g/c/2/8/conor-pass-wp/connor-pass-blick-rich.jpg",
@@ -516,7 +518,9 @@
             "Ports and harbours in the Republic of Ireland",
             "Self-published work",
             "Taken with Canon Digital IXUS 65"
-          ]
+          ],
+          "mediumPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/blasket-harbour-medium.webp",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/blasket-harbour-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory.jpg",
@@ -544,7 +548,9 @@
             "Quality images of Ireland by Ingo Mehling",
             "Quality images of cultural heritage monuments in County Kerry",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory-medium.webp",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/gallarus-oratory-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/dolphin-fungie-memorial-dingle.jpg",
@@ -564,7 +570,8 @@
             "CC-BY-SA-3.0",
             "Fungie",
             "Monuments and memorials in County Kerry"
-          ]
+          ],
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/dolphin-fungie-memorial-dingle-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/seal-in-dingle-last-year-58114.jpg",
@@ -579,7 +586,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seal_in_Dingle_last_Year_(5811421838).jpg",
           "sourceType": "poi",
           "sourceArticleId": "dingle-peninsula",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/seal-in-dingle-last-year-58114-small.webp"
         },
         {
           "path": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din.jpg",
@@ -593,7 +601,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strand_Street_-_Sr%C3%A1id_na_Tr%C3%A1,_Dingle_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "dingle-peninsula",
-          "sourceGeohash4": "gc28"
+          "sourceGeohash4": "gc28",
+          "mediumPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din-medium.webp",
+          "smallPath": "_m/tpc/di/ng/le/-p/dingle-peninsula/strand-street-sraid-na-tra-din-small.webp"
         },
         {
           "path": "_m/g/c/2/c/castlegregory-wp/tintean-ceoil-musicians.jpg",
@@ -614,7 +624,9 @@
             "County Kerry",
             "Self-published work",
             "Taken with Samsung Galaxy S III Mini"
-          ]
+          ],
+          "mediumPath": "_m/g/c/2/c/castlegregory-wp/tintean-ceoil-musicians-medium.webp",
+          "smallPath": "_m/g/c/2/c/castlegregory-wp/tintean-ceoil-musicians-small.webp"
         },
         {
           "path": "_m/g/c/2/c/castlegregory-wp/siopa-an-phobail-agus-bacus-bh.jpg",
@@ -634,7 +646,9 @@
             "CC-BY-SA-4.0",
             "Cloghane",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/2/c/castlegregory-wp/siopa-an-phobail-agus-bacus-bh-medium.webp",
+          "smallPath": "_m/g/c/2/c/castlegregory-wp/siopa-an-phobail-agus-bacus-bh-small.webp"
         },
         {
           "path": "_m/g/c/2/c/castlegregory-wp/ballyquinn-beach-cloghane-bran.jpg",
@@ -655,7 +669,9 @@
             "CC-BY-SA-4.0",
             "Cloghane",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/2/c/castlegregory-wp/ballyquinn-beach-cloghane-bran-medium.webp",
+          "smallPath": "_m/g/c/2/c/castlegregory-wp/ballyquinn-beach-cloghane-bran-small.webp"
         },
         {
           "path": "_m/g/c/2/c/castlegregory-wp/2019-07-26-magharee-peninsula-.jpg",
@@ -681,7 +697,9 @@
             "Media lacking a description",
             "Self-published work",
             "Uploaded with LrMediaWiki"
-          ]
+          ],
+          "mediumPath": "_m/g/c/2/c/castlegregory-wp/2019-07-26-magharee-peninsula--medium.webp",
+          "smallPath": "_m/g/c/2/c/castlegregory-wp/2019-07-26-magharee-peninsula--small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut.jpg",
@@ -704,7 +722,9 @@
             "License migration completed",
             "Listowel",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe.jpg",
@@ -719,7 +739,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_slugs_-_forest_and_bog_phenotypes.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir.jpg",
@@ -734,7 +756,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_Airport_(KIR).jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory.jpg",
@@ -749,7 +773,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballinskelligs_Priory.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/portmagee.jpg",
@@ -764,7 +790,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portmagee.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/portmagee-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/portmagee-small.webp"
         }
       ],
       "videos": [

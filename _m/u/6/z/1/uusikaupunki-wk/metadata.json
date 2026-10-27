@@ -2,34 +2,6 @@
   "articleId": "uusikaupunki-wk",
   "gallery": [
     {
-      "filename": "Uusikaupunki 1.jpg",
-      "title": "File:Uusikaupunki 1.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Uusikaupunki_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Uusikaupunki_1.jpg",
-      "width": 2272,
-      "height": 1704,
-      "mime": "image/jpeg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "dateCreated": "2007-09-02 18:51:59",
-      "categories": [
-        "Buildings in Uusikaupunki",
-        "CC-BY-SA-3.0-migrated",
-        "Files with no machine-readable author",
-        "Files with no machine-readable source",
-        "GFDL",
-        "License migration completed",
-        "Media missing infobox template",
-        "Streets in Uusikaupunki",
-        "Wooden houses in Finland Proper"
-      ],
-      "sourceType": "poi",
-      "sourceArticleId": "uusikaupunki-wk",
-      "sourceGeohash4": "u6z1",
-      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/uusikaupunki-1-medium.webp",
-      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/uusikaupunki-1-small.webp"
-    },
-    {
       "filename": "Kohtuullisen ruma porschenkuljetuslaiva.jpg",
       "title": "File:Kohtuullisen ruma porschenkuljetuslaiva.jpg",
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Kohtuullisen_ruma_porschenkuljetuslaiva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -40,6 +12,8 @@
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Anssi Koskinen",
+      "credit": "originally posted to Flickr as kohtuullisen ruma porschenkuljetuslaiva",
+      "source": "Kohtuullisen ruma porschenkuljetuslaiva",
       "description": "Uudenkaupungin satama",
       "dateCreated": "2007-07-20 20:58:46",
       "categories": [
@@ -50,11 +24,11 @@
         "Port of Uusikaupunki",
         "Taken with Konica Minolta Dynax 7D"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "uusikaupunki-wk",
       "sourceGeohash4": "u6z1",
-      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/kohtuullisen-ruma-porschenkulj-medium.webp",
-      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/kohtuullisen-ruma-porschenkulj-small.webp"
+      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/kohtuullisen-ruma-porschenkulj-small.webp",
+      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/kohtuullisen-ruma-porschenkulj-medium.webp"
     },
     {
       "filename": "Säpin satama.JPG",
@@ -67,6 +41,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "kallerna",
+      "credit": "Own work",
+      "source": "Säpin satama",
       "description": "Säpin satama.",
       "dateCreated": "2009",
       "categories": [
@@ -80,11 +56,11 @@
         "Taken with Sony DSLR-A700",
         "Water transport in Satakunta"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "uusikaupunki-wk",
       "sourceGeohash4": "u6z1",
-      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/sapin-satama-medium.webp",
-      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/sapin-satama-small.webp"
+      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/sapin-satama-small.webp",
+      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/sapin-satama-medium.webp"
     },
     {
       "filename": "Kalanti church 1 AB.jpg",
@@ -97,6 +73,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Antti Bilund",
+      "credit": "Own work",
+      "source": "Kalanti church 1 AB",
       "description": "Kalanti church in Uusikaupunki (previously Kalanti), Finland.",
       "dateCreated": "2010-05-02",
       "categories": [
@@ -108,11 +86,11 @@
         "Self-published work",
         "Taken with Olympus C-4100Z / C-4000Z"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "uusikaupunki-wk",
       "sourceGeohash4": "u6z1",
-      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/kalanti-church-1-ab-medium.webp",
-      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/kalanti-church-1-ab-small.webp"
+      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/kalanti-church-1-ab-small.webp",
+      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/kalanti-church-1-ab-medium.webp"
     },
     {
       "filename": "Uusikaupunki - Myllymäki.jpg",
@@ -125,6 +103,8 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Tiia Monto",
+      "credit": "Own work",
+      "source": "Uusikaupunki - Myllymäki",
       "description": "Mills and old water tower in Uusikaupunki.",
       "dateCreated": "2014-07-08 15:13:02",
       "categories": [
@@ -136,11 +116,11 @@
         "Uusikaupunki old water tower",
         "Windmills in Finland"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "uusikaupunki-wk",
       "sourceGeohash4": "u6z1",
-      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/uusikaupunki-myllymaki-medium.webp",
-      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/uusikaupunki-myllymaki-small.webp"
+      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/uusikaupunki-myllymaki-small.webp",
+      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/uusikaupunki-myllymaki-medium.webp"
     },
     {
       "filename": "Automobile museum, Uusikaupunki, Finland.jpg",
@@ -153,6 +133,8 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "artist": "Kotivalo",
+      "credit": "Own work",
+      "source": "Automobile museum, Uusikaupunki, Finland",
       "description": "Car museum near the Uusikaupunki car factory in Finland",
       "dateCreated": "2017-03-10 14:42:21",
       "categories": [
@@ -161,11 +143,11 @@
         "Self-published work",
         "Uudenkaupungin Automuseo"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "uusikaupunki-wk",
       "sourceGeohash4": "u6z1",
-      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/automobile-museum-uusikaupunki-medium.webp",
-      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/automobile-museum-uusikaupunki-small.webp"
+      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/automobile-museum-uusikaupunki-small.webp",
+      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/automobile-museum-uusikaupunki-medium.webp"
     },
     {
       "filename": "Valmet Automotive.jpg",
@@ -178,6 +160,8 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Bhlub",
+      "credit": "Own work",
+      "source": "Valmet Automotive",
       "description": "Aerial view",
       "dateCreated": "2014-09-04",
       "categories": [
@@ -185,23 +169,213 @@
         "Files with coordinates missing SDC location of creation",
         "Self-published work"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "uusikaupunki-wk",
       "sourceGeohash4": "u6z1",
-      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/valmet-automotive-medium.webp",
-      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/valmet-automotive-small.webp"
+      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/valmet-automotive-small.webp",
+      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/valmet-automotive-medium.webp"
+    },
+    {
+      "filename": "Uusikaupunki - playground.jpg",
+      "title": "File:Uusikaupunki - playground.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Uusikaupunki_-_playground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Uusikaupunki_-_playground.jpg",
+      "width": 4032,
+      "height": 3024,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Tiia Monto",
+      "description": "Playground in Uusikaupunki.",
+      "dateCreated": "2014-07-08 15:17:07",
+      "categories": [
+        "CC-BY-SA-3.0",
+        "Files with coordinates missing SDC location of creation",
+        "Finland photographs taken on 2014-07-08",
+        "Playgrounds in Finland",
+        "Self-published work",
+        "Swings in Finland",
+        "Taken with Olympus E-PL1",
+        "Uusikaupunki"
+      ],
+      "sourceType": "commons-category",
+      "sourceArticleId": "uusikaupunki-wk",
+      "sourceGeohash4": "u6z1",
+      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/uusikaupunki-playground-medium.webp",
+      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/uusikaupunki-playground-small.webp"
+    },
+    {
+      "filename": "Uudenkaupungin kanaali.jpg",
+      "title": "File:Uudenkaupungin kanaali.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Uudenkaupungin_kanaali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Uudenkaupungin_kanaali.jpg",
+      "width": 1920,
+      "height": 1080,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Santtu37",
+      "description": "Canal in Uusikaupunki, Finland. The picture's been taken from Siltakatu bridge.",
+      "dateCreated": "2018-08-27 14:26:52",
+      "categories": [
+        "CC-BY-SA-4.0",
+        "Files by User:Santtu37",
+        "Finland photographs taken on 2018-08-27",
+        "Nature of Finland Proper",
+        "Sea canals in Finland",
+        "Self-published work",
+        "Taken with Canon HF R80 / R82 / R86 / R87 / R88 / R800 / R806",
+        "Uusikaupunki",
+        "Views of Uusikaupunki"
+      ],
+      "sourceType": "commons-category",
+      "sourceArticleId": "uusikaupunki-wk",
+      "sourceGeohash4": "u6z1",
+      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/uudenkaupungin-kanaali-medium.webp",
+      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/uudenkaupungin-kanaali-small.webp"
+    },
+    {
+      "filename": "Rauhanpuisto Uusikaupunki.jpg",
+      "title": "File:Rauhanpuisto Uusikaupunki.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Rauhanpuisto_Uusikaupunki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Rauhanpuisto_Uusikaupunki.jpg",
+      "width": 6000,
+      "height": 4000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Mikkoau",
+      "description": "This is a photo of a monument in Finland identified by the ID 'Q30560091' (Q30560091) -  RKY: 1835",
+      "dateCreated": "2020-01-05 17:04:33",
+      "categories": [
+        "CC-BY-SA-4.0",
+        "Finland photographs taken on 2020-01-05",
+        "Images from Wiki Loves Monuments 2020",
+        "Images from Wiki Loves Monuments 2020 in Finland",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-fi-rephotography-wikidata",
+        "Urban landscapes",
+        "Uusikaupunki"
+      ],
+      "sourceType": "commons-category",
+      "sourceArticleId": "uusikaupunki-wk",
+      "sourceGeohash4": "u6z1",
+      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/rauhanpuisto-uusikaupunki-medium.webp",
+      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/rauhanpuisto-uusikaupunki-small.webp"
+    },
+    {
+      "filename": "Uudenkaupungin aittaranta 1.jpg",
+      "title": "File:Uudenkaupungin aittaranta 1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Uudenkaupungin_aittaranta_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Uudenkaupungin_aittaranta_1.jpg",
+      "width": 5420,
+      "height": 3630,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "kallerna",
+      "description": "Uusikaupunki canal, Finland.",
+      "dateCreated": "2021-07-29 20:38:36",
+      "categories": [
+        "CC-BY-SA-4.0",
+        "Sea canals in Finland",
+        "Self-published work",
+        "Summer 2021 in Finland",
+        "Uusikaupunki",
+        "Views of Uusikaupunki"
+      ],
+      "sourceType": "commons-category",
+      "sourceArticleId": "uusikaupunki-wk",
+      "sourceGeohash4": "u6z1",
+      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/uudenkaupungin-aittaranta-1-medium.webp",
+      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/uudenkaupungin-aittaranta-1-small.webp"
+    },
+    {
+      "filename": "Uudenkaupungin aittaranta 2.jpg",
+      "title": "File:Uudenkaupungin aittaranta 2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Uudenkaupungin_aittaranta_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Uudenkaupungin_aittaranta_2.jpg",
+      "width": 5400,
+      "height": 3600,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "kallerna",
+      "description": "Uusikaupunki canal, Finland.",
+      "dateCreated": "2021-07-29 20:39",
+      "categories": [
+        "CC-BY-SA-4.0",
+        "Marinas in Finland",
+        "Quality images",
+        "Quality images missing SDC depicts",
+        "Quality images of Finland Proper",
+        "Sea canals in Finland",
+        "Self-published work",
+        "Summer 2021 in Finland",
+        "Taken with Fujifilm X-T30",
+        "Uusikaupunki",
+        "Water transport in Finland Proper"
+      ],
+      "sourceType": "commons-category",
+      "sourceArticleId": "taivassalo-wp",
+      "sourceGeohash4": "u6z1",
+      "mediumPath": "_m/u/6/z/2/taivassalo-wp/uudenkaupungin-aittaranta-2-medium.webp",
+      "smallPath": "_m/u/6/z/2/taivassalo-wp/uudenkaupungin-aittaranta-2-small.webp"
+    },
+    {
+      "filename": "Admiralty Chart No 2298 Gulf of Bothnia Nystad Light to Stor Fiard, Published 1885, Large Corrections 1907.jpg",
+      "title": "File:Admiralty Chart No 2298 Gulf of Bothnia Nystad Light to Stor Fiard, Published 1885, Large Corrections 1907.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Admiralty_Chart_No_2298_Gulf_of_Bothnia_Nystad_Light_to_Stor_Fiard%2C_Published_1885%2C_Large_Corrections_1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_2298_Gulf_of_Bothnia_Nystad_Light_to_Stor_Fiard,_Published_1885,_Large_Corrections_1907.jpg",
+      "width": 10888,
+      "height": 16247,
+      "mime": "image/jpeg",
+      "license": "Public domain",
+      "artist": "United Kingdom Hydrographic Office",
+      "description": "Nautical chart of the Gulf of Bothnia from Nystad (Uusikaupunki) Light to Stor Fiärd. Not current - not to be used for navigation!",
+      "dateCreated": "1885-08-08",
+      "sourceType": "commons-category",
+      "sourceArticleId": "uusikaupunki-wk",
+      "sourceGeohash4": "u6z1",
+      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/admiralty-chart-no-2298-gulf-o-medium.webp",
+      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/admiralty-chart-no-2298-gulf-o-small.webp"
+    },
+    {
+      "filename": "Kobylnica Słupska 2024 (city in 2025) 13.jpg",
+      "title": "File:Kobylnica Słupska 2024 (city in 2025) 13.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Kobylnica_S%C5%82upska_2024_%28city_in_2025%29_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Kobylnica_S%C5%82upska_2024_(city_in_2025)_13.jpg",
+      "width": 4420,
+      "height": 3315,
+      "mime": "image/jpeg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "MOs810",
+      "description": "Kobylnica (Słupska) tuż przed uzyskaniem praw miejskich.",
+      "dateCreated": "2024-10-06 10:57:03",
+      "sourceType": "commons-category",
+      "sourceArticleId": "uusikaupunki-wk",
+      "sourceGeohash4": "u6z1",
+      "mediumPath": "_m/u/6/z/1/uusikaupunki-wk/kobylnica-s-upska-2024-city-in-medium.webp",
+      "smallPath": "_m/u/6/z/1/uusikaupunki-wk/kobylnica-s-upska-2024-city-in-small.webp"
     }
   ],
   "galleryPaths": [
-    "_m/u/6/z/1/uusikaupunki-wk/uusikaupunki-1.jpg",
     "_m/u/6/z/1/uusikaupunki-wk/kohtuullisen-ruma-porschenkulj.jpg",
     "_m/u/6/z/1/uusikaupunki-wk/sapin-satama.jpg",
     "_m/u/6/z/1/uusikaupunki-wk/kalanti-church-1-ab.jpg",
     "_m/u/6/z/1/uusikaupunki-wk/uusikaupunki-myllymaki.jpg",
     "_m/u/6/z/1/uusikaupunki-wk/automobile-museum-uusikaupunki.jpg",
-    "_m/u/6/z/1/uusikaupunki-wk/valmet-automotive.jpg"
+    "_m/u/6/z/1/uusikaupunki-wk/valmet-automotive.jpg",
+    "_m/u/6/z/1/uusikaupunki-wk/uusikaupunki-playground.jpg",
+    "_m/u/6/z/1/uusikaupunki-wk/uudenkaupungin-kanaali.jpg",
+    "_m/u/6/z/1/uusikaupunki-wk/rauhanpuisto-uusikaupunki.jpg",
+    "_m/u/6/z/1/uusikaupunki-wk/uudenkaupungin-aittaranta-1.jpg",
+    "_m/u/6/z/2/taivassalo-wp/uudenkaupungin-aittaranta-2.jpg",
+    "_m/u/6/z/1/uusikaupunki-wk/admiralty-chart-no-2298-gulf-o.jpg",
+    "_m/u/6/z/1/uusikaupunki-wk/kobylnica-s-upska-2024-city-in.jpg"
   ],
-  "updatedAt": "2026-08-18T14:27:17.707Z",
+  "updatedAt": "2026-10-19T17:12:20.574Z",
   "narration": {
     "files": [
       "u6z1-uusikaupunki-flight-context.mp3",
@@ -222,5 +396,59 @@
       "u6z1-uusikaupunki-the-sea-and-the-line.mp3": 55.7219166
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Uusikaupunki 1.jpg",
+    "title": "File:Uusikaupunki 1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Uusikaupunki_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Uusikaupunki_1.jpg",
+    "width": 2272,
+    "height": 1704,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Uusikaupunki 1",
+    "dateCreated": "2007-09-02 18:51:59",
+    "categories": [
+      "Buildings in Uusikaupunki",
+      "CC-BY-SA-3.0-migrated",
+      "Files with no machine-readable author",
+      "Files with no machine-readable source",
+      "GFDL",
+      "License migration completed",
+      "Media missing infobox template",
+      "Streets in Uusikaupunki",
+      "Wooden houses in Finland Proper"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "uusikaupunki-wk",
+    "sourceGeohash4": "u6z1"
+  },
+  "thumbnail": {
+    "filename": "Uusikaupunki 1.jpg",
+    "title": "File:Uusikaupunki 1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Uusikaupunki_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Uusikaupunki_1.jpg",
+    "width": 2272,
+    "height": 1704,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Uusikaupunki 1",
+    "dateCreated": "2007-09-02 18:51:59",
+    "categories": [
+      "Buildings in Uusikaupunki",
+      "CC-BY-SA-3.0-migrated",
+      "Files with no machine-readable author",
+      "Files with no machine-readable source",
+      "GFDL",
+      "License migration completed",
+      "Media missing infobox template",
+      "Streets in Uusikaupunki",
+      "Wooden houses in Finland Proper"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "uusikaupunki-wk",
+    "sourceGeohash4": "u6z1"
   }
 }

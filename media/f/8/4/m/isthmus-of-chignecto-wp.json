@@ -3,31 +3,20 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/f/8/4/m/isthmus-of-chignecto-wp/hero.jpg",
-        "filename": "Raid on Fort Monckton (1756), New Brunswick.jpg",
-        "caption": "Raid on Fort Monckton (1756), New Brunswick",
-        "alt": "Raid on Fort Monckton (1756), New Brunswick",
-        "width": 3264,
-        "height": 2448,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Hantsheroes",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raid_on_Fort_Monckton_(1756),_New_Brunswick.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "isthmus-of-chignecto-wp",
-        "sourceGeohash4": "f84m",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Files with coordinates missing SDC location of creation",
-          "History of New Brunswick",
-          "Military history of Nova Scotia",
-          "Self-published work",
-          "Westmorland County, New Brunswick"
-        ]
+        "path": "_m/f/8/0/t/siege-of-fort-nashwaak-wp/hero.jpg",
+        "filename": "Colonel Benjamin Church.jpg",
+        "caption": "Captain Benjamin Church (c. 1675)",
+        "alt": "Captain Benjamin Church (c. 1675)",
+        "width": 538,
+        "height": 760,
+        "license": "Public domain",
+        "artist": "Unknown author.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colonel_Benjamin_Church.jpg",
+        "smallPath": "_m/f/8/0/t/siege-of-fort-nashwaak-wp/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/f/8/4/m/isthmus-of-chignecto-wp/hero.jpg",
+          "path": "_m/f/8/0/t/siege-of-fort-nashwaak-wp/hero.jpg",
           "filename": "Colonel Benjamin Church.jpg",
           "caption": "Captain Benjamin Church (c. 1675)",
           "alt": "Captain Benjamin Church (c. 1675)",
@@ -47,7 +36,8 @@
             "PD Old",
             "Plymouth Colony in art",
             "Queen Anne's War"
-          ]
+          ],
+          "smallPath": "_m/f/8/0/t/siege-of-fort-nashwaak-wp/hero-small.webp"
         }
       ],
       "narration": [
@@ -60,8 +50,9 @@
         "_m/f/8/4/m/isthmus-of-chignecto-wp/f84m-isthmus-of-chignecto-holding-back-the-tide.mp3"
       ],
       "combinedNarration": "_m/f/8/4/m/isthmus-of-chignecto-wp/f84m-isthmus-of-chignecto-combined.mp3",
-      "combinedNarrationBytes": 4332749,
-      "combinedNarrationDuration": 361
+      "combinedNarrationBytes": 4435891,
+      "combinedNarrationDuration": 361,
+      "combinedCover": "_m/f/8/4/m/isthmus-of-chignecto-wp/f84m-isthmus-of-chignecto-combined-cover.jpg"
     }
   }
 }

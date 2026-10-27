@@ -33,7 +33,7 @@ Located at 35.669N, 139.705E in the Shibuya ward of central Tokyo. From the air,
 ## Sources
 
 - [Harajuku - Wikipedia](https://en.wikipedia.org/?curid=148882)
-- [Harajuku - Wikipedia](https://en.wikipedia.org/wiki/Harajuku)
+- [Harajuku - Wikipedia](https://en.wikipedia.org/?curid=148882)
   - Iga ninja received Harajuku-mura and Onden-mura villages in 1590 as reward for assisting Ieyasu's escape from Sakai to Mikawa after the 1582 Honno-ji Incident
   - Washington Heights military housing built on land now occupied by Yoyogi Park
   - Laforet Harajuku opened in 1978

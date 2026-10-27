@@ -36,7 +36,7 @@ The Bergpark occupies the eastern flank of the Habichtswald ridge at 51.317°N, 
 
 ## Sources
 
-- [Bergpark Wilhelmshöhe - Wikipedia](https://en.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he)
+- [Bergpark Wilhelmshöhe - Wikipedia](https://en.wikipedia.org/?curid=22113334)
 - [Hercules monument (Kassel) - Wikipedia](https://en.wikipedia.org/wiki/Hercules_monument_(Kassel))
 - [Wasserspiele im UNESCO-Welterbe - Stadt Kassel](https://www.kassel.de/buerger/kunst_und_kultur/parks_und_gaerten/wilhelmshoehe/wasserspiele.php)
   - Corrected: 350,000 litres (English Wikipedia Hercules-monument figure) to 750,000 litres / 750 m3 per display, confirmed by the City of Kassel, Museumslandschaft Hessen Kassel, and Hessen Tourismus, which all independently give 750,000 litres and none give 350,000

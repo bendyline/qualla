@@ -33,7 +33,7 @@ Kerr-Addison Mine at 48.139N, 79.578W on the northeast shore of Larder Lake in t
 ## Sources
 
 - [Kerr-Addison Mine - Wikipedia](https://en.wikipedia.org/?curid=70639690)
-- [Wikipedia - Kerr-Addison Mine](https://en.wikipedia.org/wiki/Kerr-Addison_Mine)
+- [Wikipedia - Kerr-Addison Mine](https://en.wikipedia.org/?curid=70639690)
   - Ignace Tonene (Teme-Augama Anishnabai chief) discovered gold and registered claims that were jumped by settlers
   - H.L. Kerr was a 1903 University of Toronto graduate who spent one week at Geological Survey of Canada
   - Kerr examined area in 1904; William Addison visited in 1906 and found Dr. Reddick already there

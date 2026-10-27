@@ -3,23 +3,22 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/g/z/1/alice-springs-wp/hero.jpg",
-        "filename": "Alice Springs Panorama.jpg",
-        "caption": "Alice Springs Panorama",
-        "alt": "Alice Springs Panorama",
-        "width": 14656,
-        "height": 2515,
-        "mimeType": "image/jpeg",
+        "path": "_m/q/g/z/1/alice-springs-wk/alice-at-dawn.jpg",
+        "filename": "Alice at dawn.jpg",
+        "caption": "Alice Springs dawn panorama. Taken from Anzac Hill",
+        "alt": "Alice Springs dawn panorama. Taken from Anzac Hill",
+        "width": 10000,
+        "height": 1059,
         "license": "CC BY-SA 3.0",
-        "artist": "Ben Tillman",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_Panorama.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "alice-springs-wp",
-        "sourceGeohash4": "qgz1"
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Mark Marathon",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_at_dawn.jpg",
+        "mediumPath": "_m/q/g/z/1/alice-springs-wk/alice-at-dawn-medium.webp",
+        "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-at-dawn-small.webp"
       },
       "images": [
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs.jpg",
           "filename": "Alice Springs.jpg",
           "alt": "Alice Springs.jpg",
           "width": 768,
@@ -40,10 +39,11 @@
             "License migration completed",
             "Media missing infobox template",
             "Todd River"
-          ]
+          ],
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/hero.jpg",
+          "path": "_m/q/g/z/0/pine-gap-wp/hero.jpg",
           "filename": "PineGap-sign.jpg",
           "caption": "The road to the Joint Defence Facility of Pine Gap, near Alice Springs, Australia.",
           "alt": "The road to the Joint Defence Facility of Pine Gap, near Alice Springs, Australia.",
@@ -72,10 +72,11 @@
             "Roads in the Northern Territory",
             "Self-published work",
             "Signs in the Northern Territory"
-          ]
+          ],
+          "smallPath": "_m/q/g/z/0/pine-gap-wp/hero-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/ghan-waiting-alice-spr.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/ghan-waiting-alice-spr.jpg",
           "filename": "Ghan at Alice Springs.jpg",
           "caption": "The Ghan waiting at Alice Springs station before continuing north to Darwin",
           "alt": "The Ghan waiting at Alice Springs station before continuing north to Darwin",
@@ -104,10 +105,12 @@
             "Statues of camels in Australia",
             "Taken with Olympus C-730UZ",
             "The Ghan"
-          ]
+          ],
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/ghan-waiting-alice-spr-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/ghan-waiting-alice-spr-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/.png",
+          "path": "_m/2/0/4/m/chatham-islands-wp/image-40ee8373.png",
           "filename": "大洋.png",
           "caption": "Map of Oceania",
           "alt": "Map of Oceania",
@@ -123,10 +126,11 @@
           "categories": [
             "CC-BY-3.0",
             "Icon images that should use vector graphics"
-          ]
+          ],
+          "smallPath": "_m/2/0/4/m/chatham-islands-wp/image-40ee8373-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/flying-doctor-service.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/flying-doctor-service.jpg",
           "filename": "The Flying Doctor Service, Alice Springs, Australia.jpg",
           "caption": "The Flying Doctor Service in Alice Springs, Northern Territory",
           "alt": "The Flying Doctor Service in Alice Springs, Northern Territory",
@@ -138,10 +142,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Flying_Doctor_Service,_Alice_Springs,_Australia.jpg",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/flying-doctor-service-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/flying-doctor-service-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/australia-relief-map.jpg",
+          "path": "_m/q/d/6/6/perth-wp/australia-relief-map.jpg",
           "filename": "Australia relief map.jpg",
           "caption": "Relief map of Australia, including the borders of the states of the Commonwealth of Australia",
           "alt": "Relief map of Australia, including the borders of the states of the Commonwealth of Australia",
@@ -153,10 +159,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Australia_relief_map.jpg",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "smallPath": "_m/q/d/6/6/perth-wp/australia-relief-map-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/relief-location-map-no.png",
+          "path": "_m/q/g/m/p/uluru-kata-tjuta-national-park-wp/relief-location-map-no.png",
           "filename": "Australia Northern Territory relief location map.png",
           "caption": "Relief location map of the Northern Territory, Australia\nEquidistant cylindrical projection, latitude of true scale 17.75° S (equivalent to equirectangular projection with N/S stretching 105 %). Geographic limits of the map:\n\nN: 10.6° S\nS: 26.5° S\nW: 127.5° E\nE: 139.5° E",
           "alt": "Relief location map of the Northern Territory, Australia\nEquidistant cylindrical projection, latitude of true scale 17.75° S (equivalent to equirectangular projection with N/S stretching 105 %). Geographic limits of the map:\n\nN: 10.6° S\nS: 26.5° S\nW: 127.5° E\nE: 139.5° E",
@@ -168,10 +175,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Australia_Northern_Territory_relief_location_map.png",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "smallPath": "_m/q/g/m/p/uluru-kata-tjuta-national-park-wp/relief-location-map-no-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-airport.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-airport.jpg",
           "filename": "Alice Springs airport (3335054258).jpg",
           "caption": "Alice Springs airport",
           "alt": "Alice Springs airport",
@@ -183,10 +191,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_airport_(3335054258).jpg",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-airport-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-airport-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/view-alice-springs-nor.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/view-alice-springs-nor.jpg",
           "filename": "Alice Springs, 2015 (01).JPG",
           "caption": "View of Alice Springs, Northern Territory, Australia, from Anzac Hill.",
           "alt": "View of Alice Springs, Northern Territory, Australia, from Anzac Hill.",
@@ -198,10 +208,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs,_2015_(01).JPG",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/view-alice-springs-nor-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/view-alice-springs-nor-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/view-todd-mall-alice-s.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/view-todd-mall-alice-s.jpg",
           "filename": "Todd Mall, 2015 (11).JPG",
           "caption": "View of Todd Mall, Alice Springs, Australia.",
           "alt": "View of Todd Mall, Alice Springs, Australia.",
@@ -213,10 +225,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Todd_Mall,_2015_(11).JPG",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/view-todd-mall-alice-s-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/view-todd-mall-alice-s-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/view-adelaide-house-al.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/view-adelaide-house-al.jpg",
           "filename": "Adelaide House, Alice Springs, 2015.JPG",
           "caption": "View of Adelaide House, Alice Springs, an historic building that was the first hospital in central Australia.",
           "alt": "View of Adelaide House, Alice Springs, an historic building that was the first hospital in central Australia.",
@@ -228,10 +242,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adelaide_House,_Alice_Springs,_2015.JPG",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/view-adelaide-house-al-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/view-adelaide-house-al-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/view-alice-plaza-shopp.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/view-alice-plaza-shopp.jpg",
           "filename": "Alice Plaza, 2015 (02).JPG",
           "caption": "View of Alice Plaza, a shopping mall in Alice Springs, Australia.",
           "alt": "View of Alice Plaza, a shopping mall in Alice Springs, Australia.",
@@ -243,10 +259,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Plaza,_2015_(02).JPG",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/view-alice-plaza-shopp-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/view-alice-plaza-shopp-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/john-flynn-memorial-ch.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/john-flynn-memorial-ch.jpg",
           "filename": "John Flynn Memorial Church, Alice Springs, 2015.JPG",
           "caption": "John Flynn Memorial Church, Alice Springs, a church of the Uniting Church in Australia.",
           "alt": "John Flynn Memorial Church, Alice Springs, a church of the Uniting Church in Australia.",
@@ -258,10 +276,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Flynn_Memorial_Church,_Alice_Springs,_2015.JPG",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/john-flynn-memorial-ch-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/john-flynn-memorial-ch-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/view-civic-centre-alic.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/view-civic-centre-alic.jpg",
           "filename": "Alice Springs Civic Centre, 2015.JPG",
           "caption": "View of the Civic Centre in Alice Springs, Australia.",
           "alt": "View of the Civic Centre in Alice Springs, Australia.",
@@ -273,10 +293,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_Civic_Centre,_2015.JPG",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/view-civic-centre-alic-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/view-civic-centre-alic-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/view-law-courts-buildi.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/view-law-courts-buildi.jpg",
           "filename": "Law Courts, Alice Springs, 2015.JPG",
           "caption": "View of the Law Courts building in Alice Springs, Australia.",
           "alt": "View of the Law Courts building in Alice Springs, Australia.",
@@ -288,10 +310,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Law_Courts,_Alice_Springs,_2015.JPG",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/view-law-courts-buildi-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/view-law-courts-buildi-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/view-todd-tavern-todd.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/view-todd-tavern-todd.jpg",
           "filename": "Todd Tavern, 2015 (01).JPG",
           "caption": "View of Todd Tavern, Todd Street, Alice Springs, from the corner of Todd Street and Wills Terrace.",
           "alt": "View of Todd Tavern, Todd Street, Alice Springs, from the corner of Todd Street and Wills Terrace.",
@@ -303,10 +327,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Todd_Tavern,_2015_(01).JPG",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/view-todd-tavern-todd-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/view-todd-tavern-todd-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/view-alice-springs-con.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/view-alice-springs-con.jpg",
           "filename": "Alice Springs Convention Centre, 2015.JPG",
           "caption": "View of Alice Springs Convention Centre, part of the Lasseters entertainment complex in Alice Springs, Australia.",
           "alt": "View of Alice Springs Convention Centre, part of the Lasseters entertainment complex in Alice Springs, Australia.",
@@ -318,10 +344,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_Convention_Centre,_2015.JPG",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/view-alice-springs-con-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/view-alice-springs-con-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/view-headquarters-impa.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/view-headquarters-impa.jpg",
           "filename": "Imparja Television building, Alice Springs, 2015.JPG",
           "caption": "View of the headquarters of Imparja Television, Stott Terrace, Alice Springs, NT, Australia.",
           "alt": "View of the headquarters of Imparja Television, Stott Terrace, Alice Springs, NT, Australia.",
@@ -333,10 +361,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imparja_Television_building,_Alice_Springs,_2015.JPG",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/view-headquarters-impa-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/view-headquarters-impa-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/exterior-view-alice-sp.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/exterior-view-alice-sp.jpg",
           "filename": "Alice Springs Telegraph Station, 2015 (02).JPG",
           "caption": "Exterior view of the Alice Springs Telegraph Station, now a museum adjacent to the Todd River, about 4 km north of Alice Springs, NT, Australia.",
           "alt": "Exterior view of the Alice Springs Telegraph Station, now a museum adjacent to the Todd River, about 4 km north of Alice Springs, NT, Australia.",
@@ -348,10 +378,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_Telegraph_Station,_2015_(02).JPG",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/exterior-view-alice-sp-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/exterior-view-alice-sp-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-public-l.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-public-l.jpg",
           "filename": "Alice Springs Public Library.jpg",
           "caption": "Alice Springs Public Library, 2019",
           "alt": "Alice Springs Public Library, 2019",
@@ -363,10 +395,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_Public_Library.jpg",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-public-l-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-public-l-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/image-we-can-see-panor.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/image-we-can-see-panor.jpg",
           "filename": "Alice Springs Panoramic View(GN05767).jpg",
           "caption": "In this image we can see a panoramic view from a mountain top of some of the houses in Alice Springs. This image is a part of a wider series of photographs taken by Captain Frank Hurley in 1935.",
           "alt": "In this image we can see a panoramic view from a mountain top of some of the houses in Alice Springs. This image is a part of a wider series of photographs taken by Captain Frank Hurley in 1935.",
@@ -378,10 +412,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_Panoramic_View(GN05767).jpg",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/image-we-can-see-panor-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/image-we-can-see-panor-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-camp-arm.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-camp-arm.jpg",
           "filename": "Dowling 066.jpg",
           "caption": "\"Alice Springs camp [Army World War II From Anzac Hill]\"",
           "alt": "\"Alice Springs camp [Army World War II From Anzac Hill]\"",
@@ -393,10 +429,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dowling_066.jpg",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-camp-arm-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-camp-arm-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/araluen-arts-centre.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/araluen-arts-centre.jpg",
           "filename": "Araluen Arts Centre.JPG",
           "alt": "Araluen Arts Centre.JPG",
           "width": 2484,
@@ -406,10 +444,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Araluen_Arts_Centre.JPG",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/araluen-arts-centre-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/araluen-arts-centre-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/melbourne-v-st-kilda-t.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/melbourne-v-st-kilda-t.jpg",
           "filename": "Melbourne v. St Kilda, Traeger Park, Alice Springs, June 2025.jpg",
           "caption": "Melbourne v. St Kilda, Traeger Park, Alice Springs, 1 June 2025.\nSt Kilda 14.7 (91) defeated Melbourne 7.21 (63)",
           "alt": "Melbourne v. St Kilda, Traeger Park, Alice Springs, 1 June 2025.\nSt Kilda 14.7 (91) defeated Melbourne 7.21 (63)",
@@ -421,10 +461,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Melbourne_v._St_Kilda,_Traeger_Park,_Alice_Springs,_June_2025.jpg",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/melbourne-v-st-kilda-t-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/melbourne-v-st-kilda-t-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/traeger-park-basketbal.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/traeger-park-basketbal.jpg",
           "filename": "Traeger Park Basketball Stadium, October 2025 03.jpg",
           "caption": "Traeger Park Basketball Stadium, home of the Alice Springs Basketball Association in w:Alice Springs, Northern Territory",
           "alt": "Traeger Park Basketball Stadium, home of the Alice Springs Basketball Association in w:Alice Springs, Northern Territory",
@@ -436,10 +478,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Traeger_Park_Basketball_Stadium,_October_2025_03.jpg",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/traeger-park-basketbal-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/traeger-park-basketbal-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-coat-arm.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-coat-arm.jpg",
           "filename": "Alice Springs Coat of Arms.jpg",
           "caption": "Alice Springs Coat of Arms",
           "alt": "Alice Springs Coat of Arms",
@@ -451,10 +495,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_Coat_of_Arms.jpg",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-coat-arm-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-coat-arm-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-flag.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-flag.jpg",
           "filename": "Alice Springs Flag.jpg",
           "caption": "Alice Springs Flag",
           "alt": "Alice Springs Flag",
@@ -466,10 +512,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_Flag.jpg",
           "sourceType": "core",
           "sourceArticleId": "alice-springs-wp",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-flag-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-australia.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-australia.jpg",
           "filename": "Alice Springs Australia.jpg",
           "caption": "Alice Springs, Australia",
           "alt": "Alice Springs, Australia",
@@ -488,10 +535,12 @@
             "CC-BY-SA-2.0-AT",
             "March 2004 in the Northern Territory",
             "Taken with Canon PowerShot S1 IS"
-          ]
+          ],
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-australia-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-australia-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-city.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-city.jpg",
           "filename": "Alice Springs city.JPG",
           "caption": "Alice Springs city",
           "alt": "Alice Springs city",
@@ -512,10 +561,12 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ30"
-          ]
+          ],
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-city-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-city-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-aerial.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-aerial.jpg",
           "filename": "Alice Springs aerial.jpg",
           "caption": "An aerial of Alice Springs and the MacDonnell Ranges.",
           "alt": "An aerial of Alice Springs and the MacDonnell Ranges.",
@@ -533,10 +584,12 @@
             "CC-BY-2.0",
             "Flickr images uploaded by Flickr upload bot",
             "Taken with Konica Minolta Dimage G530"
-          ]
+          ],
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-aerial-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-aerial-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/albertnamatjira-1949-alicespri.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/albertnamatjira-1949-alicespri.jpg",
           "filename": "AlbertNamatjira-1949-AliceSprings.jpg",
           "caption": "Albert Namatjira-1949-AliceSprings, when the photo was about to be taken, Albert asked \"do you want the hat on or off\". He was selling his paintings at a private residence when this photo was taken",
           "alt": "Albert Namatjira-1949-AliceSprings, when the photo was about to be taken, Albert asked \"do you want the hat on or off\". He was selling his paintings at a private residence when this photo was taken",
@@ -555,10 +608,11 @@
             "PD-self",
             "Self-published work",
             "Unknown date"
-          ]
+          ],
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/albertnamatjira-1949-alicespri-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/abandoned-narrow-gauge-railway.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/abandoned-narrow-gauge-railway.jpg",
           "filename": "Abandoned narrow-gauge railway line -- former Central Australia Railway.jpg",
           "caption": "Abandoned narrow-gauge railway track on former Central Australia Railway, south of Alice Springs",
           "alt": "Abandoned narrow-gauge railway track on former Central Australia Railway, south of Alice Springs",
@@ -578,10 +632,12 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon PowerShot A95"
-          ]
+          ],
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/abandoned-narrow-gauge-railway-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/abandoned-narrow-gauge-railway-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-2.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-2.jpg",
           "filename": "Alice Springs 2.jpg",
           "caption": "POL_0009",
           "alt": "POL_0009",
@@ -602,10 +658,11 @@
             "Photographs by Michael Coghlan",
             "Taken with Polaroid PDC 1320",
             "Uploaded by user Berichard"
-          ]
+          ],
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-2-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-3.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-3.jpg",
           "filename": "Alice Springs 3.jpg",
           "caption": "A Town Called Alice",
           "alt": "A Town Called Alice",
@@ -626,10 +683,11 @@
             "Photographs by Michael Coghlan",
             "Taken with Polaroid PDC 1320",
             "Uploaded by user Berichard"
-          ]
+          ],
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-3-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-4.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-4.jpg",
           "filename": "Alice Springs 4.jpg",
           "caption": "POL_0007",
           "alt": "POL_0007",
@@ -650,10 +708,11 @@
             "Photographs by Michael Coghlan",
             "Taken with Polaroid PDC 1320",
             "Uploaded by user Berichard"
-          ]
+          ],
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-4-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-elerycreek.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-elerycreek.jpg",
           "filename": "Alice Springs elerycreek.jpg",
           "caption": "Ellery Creek, Alice Springs.",
           "alt": "Ellery Creek, Alice Springs.",
@@ -665,10 +724,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_elerycreek.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "alice-springs-wk",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-elerycreek-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-ellery-creek.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-ellery-creek.jpg",
           "filename": "Alice Springs Ellery Creek.jpg",
           "caption": "Ellery Creek, Alice Springs.",
           "alt": "Ellery Creek, Alice Springs.",
@@ -680,10 +740,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_Ellery_Creek.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "alice-springs-wk",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-ellery-creek-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-glenhelen.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-glenhelen.jpg",
           "filename": "Alice Springs GlenHelen.jpg",
           "caption": "Glen Helen. Glen Helen, Alice Springs.",
           "alt": "Glen Helen. Glen Helen, Alice Springs.",
@@ -695,10 +756,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_GlenHelen.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "alice-springs-wk",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-glenhelen-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-larapinta-trail.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-larapinta-trail.jpg",
           "filename": "Alice Springs Larapinta Trail.jpg",
           "caption": "Larapinta Trail, Alice Springs.",
           "alt": "Larapinta Trail, Alice Springs.",
@@ -710,10 +772,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_Larapinta_Trail.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "alice-springs-wk",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-larapinta-trail-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-from-anzac-hill.jpg",
+          "path": "_m/tpc/pi/ne/-g/ap/pine-gap/alice-springs-from-anzac-hill.jpg",
           "filename": "Alice Springs from Anzac Hill.jpg",
           "caption": "Alice Springs from Anzac Hill.",
           "alt": "Alice Springs from Anzac Hill.",
@@ -725,10 +788,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_from_Anzac_Hill.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "pine-gap",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "smallPath": "_m/tpc/pi/ne/-g/ap/pine-gap/alice-springs-from-anzac-hill-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-convention-centr.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-convention-centr.jpg",
           "filename": "Alice Springs Convention Centre (3365497793).jpg",
           "caption": "Alice Springs Convention Centre",
           "alt": "Alice Springs Convention Centre",
@@ -740,10 +804,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_Convention_Centre_(3365497793).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "alice-springs-wk",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-convention-centr-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-convention-centr-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-banner-township-.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-banner-township-.jpg",
           "filename": "Alice Springs banner Township and MacDonnell Ranges.jpg",
           "caption": "View of Alice Springs with the MacDonnell Ranges in the background.",
           "alt": "View of Alice Springs with the MacDonnell Ranges in the background.",
@@ -755,10 +821,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_banner_Township_and_MacDonnell_Ranges.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "alice-springs-wk",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-banner-township--medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-banner-township--small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-at-dawn.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-at-dawn.jpg",
           "filename": "Alice at dawn.jpg",
           "caption": "Alice Springs dawn panorama. Taken from Anzac Hill",
           "alt": "Alice Springs dawn panorama. Taken from Anzac Hill",
@@ -770,10 +838,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_at_dawn.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "alice-springs-wk",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/alice-at-dawn-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-at-dawn-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/aboriginal-children-at-the-bun.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/aboriginal-children-at-the-bun.jpg",
           "filename": "Aboriginal children at the Bungalow in Alice Springs.jpg",
           "caption": "Aboriginal children at the Bungalow in Alice Springs",
           "alt": "Aboriginal children at the Bungalow in Alice Springs",
@@ -785,10 +855,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aboriginal_children_at_the_Bungalow_in_Alice_Springs.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "alice-springs-wk",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/aboriginal-children-at-the-bun-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/aboriginal-children-at-the-bun-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/15-749-km-from-home-flickr-gre.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/15-749-km-from-home-flickr-gre.jpg",
           "filename": "15,749 km from Home - Flickr - GregTheBusker.jpg",
           "caption": "15,749 km from Home",
           "alt": "15,749 km from Home",
@@ -800,10 +872,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:15,749_km_from_Home_-_Flickr_-_GregTheBusker.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "alice-springs-wk",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/15-749-km-from-home-flickr-gre-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/15-749-km-from-home-flickr-gre-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-2050390498.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-2050390498.jpg",
           "filename": "Alice Springs (2050390498).jpg",
           "caption": "Alice Springs",
           "alt": "Alice Springs",
@@ -815,10 +889,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_(2050390498).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "alice-springs-wk",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-2050390498-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-2050390498-small.webp"
         },
         {
-          "path": "_m/q/g/z/1/alice-springs-wp/alice-springs-2049608113.jpg",
+          "path": "_m/q/g/z/1/alice-springs-wk/alice-springs-2049608113.jpg",
           "filename": "Alice Springs (2049608113).jpg",
           "caption": "Alice Springs",
           "alt": "Alice Springs",
@@ -830,7 +906,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_(2049608113).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "alice-springs-wk",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-2049608113-medium.webp",
+          "smallPath": "_m/q/g/z/1/alice-springs-wk/alice-springs-2049608113-small.webp"
         },
         {
           "path": "_m/tpc/pi/ne/-g/ap/pine-gap/thorny-devil-pale.jpg",
@@ -855,7 +933,9 @@
             "Moloch horridus",
             "Self-published work",
             "Taken with Nikon D70"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pi/ne/-g/ap/pine-gap/thorny-devil-pale-medium.webp",
+          "smallPath": "_m/tpc/pi/ne/-g/ap/pine-gap/thorny-devil-pale-small.webp"
         },
         {
           "path": "_m/tpc/pi/ne/-g/ap/pine-gap/alice-springs-airport.jpg",
@@ -876,7 +956,8 @@
             "CC-BY-2.0",
             "Flickr images uploaded by Flickr upload bot",
             "Taken with Canon Digital IXUS 75"
-          ]
+          ],
+          "smallPath": "_m/tpc/pi/ne/-g/ap/pine-gap/alice-springs-airport-small.webp"
         },
         {
           "path": "_m/tpc/pi/ne/-g/ap/pine-gap/alice-springs-desert-park.jpg",
@@ -899,7 +980,9 @@
             "Images with extracted images",
             "License migration completed",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pi/ne/-g/ap/pine-gap/alice-springs-desert-park-medium.webp",
+          "smallPath": "_m/tpc/pi/ne/-g/ap/pine-gap/alice-springs-desert-park-small.webp"
         },
         {
           "path": "_m/tpc/pi/ne/-g/ap/pine-gap/alice-springs-points-of-intere.png",
@@ -923,7 +1006,8 @@
             "PD-author",
             "PNG that should use vector graphics",
             "Road map images that should use vector graphics"
-          ]
+          ],
+          "smallPath": "_m/tpc/pi/ne/-g/ap/pine-gap/alice-springs-points-of-intere-small.webp"
         },
         {
           "path": "_m/tpc/pi/ne/-g/ap/pine-gap/alice-springscamel04.jpg",
@@ -949,7 +1033,8 @@
             "Files from Wikivoyage wts",
             "Mammals of the Northern Territory",
             "Taken with Canon Digital IXUS 400"
-          ]
+          ],
+          "smallPath": "_m/tpc/pi/ne/-g/ap/pine-gap/alice-springscamel04-small.webp"
         },
         {
           "path": "_m/tpc/pi/ne/-g/ap/pine-gap/alice-springs-telegraph-statio.jpg",
@@ -964,7 +1049,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_Springs_Telegraph_Station,_2015_(08).JPG",
           "sourceType": "sibling",
           "sourceArticleId": "pine-gap",
-          "sourceGeohash4": "qgz1"
+          "sourceGeohash4": "qgz1",
+          "mediumPath": "_m/tpc/pi/ne/-g/ap/pine-gap/alice-springs-telegraph-statio-medium.webp",
+          "smallPath": "_m/tpc/pi/ne/-g/ap/pine-gap/alice-springs-telegraph-statio-small.webp"
         }
       ],
       "narration": [

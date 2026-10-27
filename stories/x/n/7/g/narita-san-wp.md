@@ -37,7 +37,7 @@ Located at 35.786°N, 140.318°E in central Narita, Chiba Prefecture. The temple
 ## Sources
 
 - [Narita-san - Wikipedia](https://en.wikipedia.org/?curid=289974)
-- [Wikipedia - Narita-san](https://en.wikipedia.org/wiki/Narita-san)
+- [Wikipedia - Narita-san](https://en.wikipedia.org/?curid=289974)
   - Temple founded 940 AD by Kancho Daisojo confirmed
   - Taira no Masakado rebellion suppressed with sacred fire ritual confirmed
   - Statue of Acala from Fire Offering Hall of Takao-san Jingo-ji confirmed

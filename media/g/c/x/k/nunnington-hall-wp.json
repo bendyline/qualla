@@ -3,25 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/x/k/nunnington-hall-wp/hero.jpg",
-        "filename": "Nunnington Hall West.jpg",
-        "caption": "West Facade of Nunnington Hall",
-        "alt": "West Facade of Nunnington Hall",
+        "path": "_m/g/c/x/k/nunnington-hall-wp/south-facade-nunningto.jpg",
+        "filename": "Nunnington Hall South.JPG",
+        "caption": "South Facade of Nunnington Hall",
+        "alt": "South Facade of Nunnington Hall",
         "width": 3648,
         "height": 2236,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
         "artist": "Wehha",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nunnington_Hall_West.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nunnington_Hall_South.JPG",
         "sourceType": "core",
         "sourceArticleId": "nunnington-hall-wp",
         "sourceGeohash4": "gcxk",
         "categories": [
           "CC-BY-SA-3.0",
+          "Listed buildings in England with known IDs",
           "Nunnington Hall",
           "Self-published work",
           "Taken with Panasonic Lumix DMC-TZ7"
-        ]
+        ],
+        "mediumPath": "_m/g/c/x/k/nunnington-hall-wp/south-facade-nunningto-medium.webp",
+        "smallPath": "_m/g/c/x/k/nunnington-hall-wp/south-facade-nunningto-small.webp"
       },
       "images": [
         {
@@ -490,7 +493,8 @@
             "PD-self",
             "Self-published work",
             "Taken with TCL CoolPhoto 1.0"
-          ]
+          ],
+          "smallPath": "_m/g/c/x/5/north-yorkshire-wp/gisborough-priory-nez202-small.webp"
         },
         {
           "path": "_m/g/c/w/d/bronte-country-wp/scarborough-north-yorkshire-4-.jpg",
@@ -515,7 +519,9 @@
             "Seaside resorts in the United Kingdom",
             "Taken with Nikon D7000",
             "Victorian architecture in North Yorkshire"
-          ]
+          ],
+          "mediumPath": "_m/g/c/w/d/bronte-country-wp/scarborough-north-yorkshire-4--medium.webp",
+          "smallPath": "_m/g/c/w/d/bronte-country-wp/scarborough-north-yorkshire-4--small.webp"
         },
         {
           "path": "_m/g/c/x/m/north-york-moors-wp/nymgmap.jpg",
@@ -545,7 +551,9 @@
             "Limestone formations in England",
             "North York Moors",
             "Oxford Clay"
-          ]
+          ],
+          "mediumPath": "_m/g/c/x/m/north-york-moors-wp/nymgmap-medium.webp",
+          "smallPath": "_m/g/c/x/m/north-york-moors-wp/nymgmap-small.webp"
         },
         {
           "path": "_m/g/c/x/m/north-york-moors-wp/north-york-moors-banner-rievau.jpg",
@@ -560,7 +568,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_York_Moors_banner_Rievaulx_Abbey.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-york-moors-wp",
-          "sourceGeohash4": "gcxm"
+          "sourceGeohash4": "gcxm",
+          "mediumPath": "_m/g/c/x/m/north-york-moors-wp/north-york-moors-banner-rievau-medium.webp",
+          "smallPath": "_m/g/c/x/m/north-york-moors-wp/north-york-moors-banner-rievau-small.webp"
         },
         {
           "path": "_m/tpc/dr/ac/ul/a_/dracula/rj-whitby.jpg",
@@ -575,7 +585,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rj_whitby.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dracula",
-          "sourceGeohash4": "gcxm"
+          "sourceGeohash4": "gcxm",
+          "mediumPath": "_m/tpc/dr/ac/ul/a_/dracula/rj-whitby-medium.webp",
+          "smallPath": "_m/tpc/dr/ac/ul/a_/dracula/rj-whitby-small.webp"
         },
         {
           "path": "_m/g/c/x/m/north-york-moors-wp/scarborough-do-not-feed-the-se.jpg",
@@ -590,7 +602,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scarborough_Do_Not_Feed_the_Seagulls_Sign.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-york-moors-wp",
-          "sourceGeohash4": "gcxm"
+          "sourceGeohash4": "gcxm",
+          "mediumPath": "_m/g/c/x/m/north-york-moors-wp/scarborough-do-not-feed-the-se-medium.webp",
+          "smallPath": "_m/g/c/x/m/north-york-moors-wp/scarborough-do-not-feed-the-se-small.webp"
         },
         {
           "path": "_m/g/c/x/m/north-york-moors-wp/wild-daffodils-at-st-mary-s-ge.jpg",
@@ -605,7 +619,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wild_daffodils_at_St_Mary%27s_-_geograph.org.uk_-_3918648.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-york-moors-wp",
-          "sourceGeohash4": "gcxm"
+          "sourceGeohash4": "gcxm",
+          "smallPath": "_m/g/c/x/m/north-york-moors-wp/wild-daffodils-at-st-mary-s-ge-small.webp"
         },
         {
           "path": "_m/g/c/x/m/north-york-moors-wp/the-white-swan-inn-geograph-or.jpg",
@@ -620,7 +635,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_White_Swan_Inn_-_geograph.org.uk_-_7375220.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-york-moors-wp",
-          "sourceGeohash4": "gcxm"
+          "sourceGeohash4": "gcxm",
+          "mediumPath": "_m/g/c/x/m/north-york-moors-wp/the-white-swan-inn-geograph-or-medium.webp",
+          "smallPath": "_m/g/c/x/m/north-york-moors-wp/the-white-swan-inn-geograph-or-small.webp"
         },
         {
           "path": "_m/g/c/w/g/fountains-abbey-wp/fountains-abbey-ruins.jpg",
@@ -650,7 +667,9 @@
             "Self-published work",
             "Taken with Canon PowerShot A95",
             "United Kingdom photographs taken on 2005-08-27"
-          ]
+          ],
+          "mediumPath": "_m/g/c/w/g/fountains-abbey-wp/fountains-abbey-ruins-medium.webp",
+          "smallPath": "_m/g/c/w/g/fountains-abbey-wp/fountains-abbey-ruins-small.webp"
         },
         {
           "path": "_m/g/c/x/5/north-yorkshire-wp/canal-in-skipton-02.jpg",
@@ -675,7 +694,8 @@
             "Self-published work",
             "Stone arch bridges over the Leeds and Liverpool Canal",
             "Taken with Konica Minolta Dimage E500"
-          ]
+          ],
+          "smallPath": "_m/g/c/x/5/north-yorkshire-wp/canal-in-skipton-02-small.webp"
         },
         {
           "path": "_m/g/c/x/5/north-yorkshire-wp/hawes.jpg",
@@ -690,7 +710,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hawes.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-yorkshire-wp",
-          "sourceGeohash4": "gcx5"
+          "sourceGeohash4": "gcx5",
+          "mediumPath": "_m/g/c/x/5/north-yorkshire-wp/hawes-medium.webp",
+          "smallPath": "_m/g/c/x/5/north-yorkshire-wp/hawes-small.webp"
         },
         {
           "path": "_m/g/c/x/5/north-yorkshire-wp/knaresborough-view.jpg",
@@ -705,7 +727,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knaresborough_view.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-yorkshire-wp",
-          "sourceGeohash4": "gcx5"
+          "sourceGeohash4": "gcx5",
+          "smallPath": "_m/g/c/x/5/north-yorkshire-wp/knaresborough-view-small.webp"
         },
         {
           "path": "_m/tpc/wa/rs/-o/f-/wars-of-the-roses/cottage-of-india-tadcaster-24t.jpg",
@@ -720,7 +743,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cottage_of_India,_Tadcaster_(24th_April_2014).jpg",
           "sourceType": "poi",
           "sourceArticleId": "wars-of-the-roses",
-          "sourceGeohash4": "gcx5"
+          "sourceGeohash4": "gcx5",
+          "mediumPath": "_m/tpc/wa/rs/-o/f-/wars-of-the-roses/cottage-of-india-tadcaster-24t-medium.webp",
+          "smallPath": "_m/tpc/wa/rs/-o/f-/wars-of-the-roses/cottage-of-india-tadcaster-24t-small.webp"
         },
         {
           "path": "_m/g/c/x/5/north-yorkshire-wp/carousel-horses-lightwater-val.jpg",
@@ -735,7 +760,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carousel_horses,_Lightwater_Valley_-_geograph.org.uk_-_3049216.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-yorkshire-wp",
-          "sourceGeohash4": "gcx5"
+          "sourceGeohash4": "gcx5",
+          "smallPath": "_m/g/c/x/5/north-yorkshire-wp/carousel-horses-lightwater-val-small.webp"
         }
       ],
       "narration": [

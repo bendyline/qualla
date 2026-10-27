@@ -28,7 +28,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/g/s/dunyvaig-castle-wp/wfm-islay-landsat.jpg",
+          "path": "_m/g/c/g/m/bruichladdich-distillery-wp/wfm-islay-landsat.jpg",
           "filename": "Wfm islay landsat.jpg",
           "alt": "Wfm islay landsat.jpg",
           "width": 1280,
@@ -48,7 +48,8 @@
             "NASA World Wind",
             "PD World Wind",
             "Satellite pictures of the Hebrides"
-          ]
+          ],
+          "smallPath": "_m/g/c/g/m/bruichladdich-distillery-wp/wfm-islay-landsat-small.webp"
         },
         {
           "path": "_m/g/c/g/s/dunyvaig-castle-wp/dunyveg-castle-geograph-org-uk.jpg",
@@ -329,7 +330,8 @@
             "CC-BY-SA-2.5",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/is/la/y_/__/islay/bunnahabhain-destillery-small.webp"
         },
         {
           "path": "_m/g/c/g/m/bruichladdich-distillery-wp/hero.jpg",
@@ -350,7 +352,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon D2X"
-          ]
+          ],
+          "mediumPath": "_m/g/c/g/m/bruichladdich-distillery-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/g/m/bruichladdich-distillery-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/bowmore-dist.jpg",
@@ -370,7 +374,9 @@
             "Bowmore distillery",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/is/la/y_/__/islay/bowmore-dist-medium.webp",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/bowmore-dist-small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/ardbeg-whiskybrennerei-islay-s.jpg",
@@ -394,7 +400,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Sony DSC-T100"
-          ]
+          ],
+          "mediumPath": "_m/tpc/is/la/y_/__/islay/ardbeg-whiskybrennerei-islay-s-medium.webp",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/ardbeg-whiskybrennerei-islay-s-small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/finlaggan.jpg",
@@ -415,7 +423,9 @@
             "Jura, Scotland",
             "Kilfinlaggan Chapel",
             "Loch Finlaggan"
-          ]
+          ],
+          "mediumPath": "_m/tpc/is/la/y_/__/islay/finlaggan-medium.webp",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/finlaggan-small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/kilchoman-distillery-on-islay-.jpg",
@@ -430,7 +440,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kilchoman_Distillery_on_Islay,_Scotland.jpg",
           "sourceType": "poi",
           "sourceArticleId": "islay",
-          "sourceGeohash4": "gcgt"
+          "sourceGeohash4": "gcgt",
+          "mediumPath": "_m/tpc/is/la/y_/__/islay/kilchoman-distillery-on-islay--medium.webp",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/kilchoman-distillery-on-islay--small.webp"
         },
         {
           "path": "_m/tpc/is/la/y_/__/islay/kildalton-high-cross-from-the-.jpg",
@@ -445,7 +457,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kildalton_High_Cross_from_the_West_-_geograph.org.uk_-_2971870.jpg",
           "sourceType": "poi",
           "sourceArticleId": "islay",
-          "sourceGeohash4": "gcgt"
+          "sourceGeohash4": "gcgt",
+          "smallPath": "_m/tpc/is/la/y_/__/islay/kildalton-high-cross-from-the--small.webp"
         }
       ],
       "narration": [

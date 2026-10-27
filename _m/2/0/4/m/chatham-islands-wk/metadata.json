@@ -85,7 +85,7 @@
       "sourceType": "core",
       "sourceArticleId": "chatham-islands-wk",
       "sourceGeohash4": "204m",
-      "smallPath": "_m/2/0/4/m/chatham-islands-wk/myosotidium-hortensia-small.webp"
+      "smallPath": "_m/2/0/4/t/chatham-islands-wk/myosotidium-hortensia-small.webp"
     },
     {
       "filename": "KahuitaraPoint.JPG",
@@ -110,8 +110,8 @@
       "sourceType": "core",
       "sourceArticleId": "chatham-islands-wk",
       "sourceGeohash4": "204m",
-      "smallPath": "_m/2/0/4/m/chatham-islands-wk/kahuitara-point-pitt-i-small.webp",
-      "mediumPath": "_m/2/0/4/m/chatham-islands-wk/kahuitara-point-pitt-i-medium.webp"
+      "smallPath": "_m/2/0/4/t/chatham-islands-wk/kahuitara-point-pitt-i-small.webp",
+      "mediumPath": "_m/2/0/4/t/chatham-islands-wk/kahuitara-point-pitt-i-medium.webp"
     },
     {
       "filename": "Landing approach to Tuuta Airport, Chatham Island.jpg",
@@ -131,8 +131,8 @@
       "sourceType": "core",
       "sourceArticleId": "chatham-islands-wk",
       "sourceGeohash4": "204m",
-      "smallPath": "_m/2/0/4/m/chatham-islands-wk/real-thrill-see-airpor-small.webp",
-      "mediumPath": "_m/2/0/4/m/chatham-islands-wk/real-thrill-see-airpor-medium.webp"
+      "smallPath": "_m/2/0/4/t/chatham-islands-wk/real-thrill-see-airpor-small.webp",
+      "mediumPath": "_m/2/0/4/t/chatham-islands-wk/real-thrill-see-airpor-medium.webp"
     },
     {
       "filename": "Port Hutt.jpg",
@@ -152,8 +152,8 @@
       "sourceType": "core",
       "sourceArticleId": "chatham-islands-wk",
       "sourceGeohash4": "204m",
-      "smallPath": "_m/2/0/4/m/chatham-islands-wk/port-hutt-small.webp",
-      "mediumPath": "_m/2/0/4/m/chatham-islands-wk/port-hutt-medium.webp"
+      "smallPath": "_m/2/0/4/t/chatham-islands-wk/port-hutt-small.webp",
+      "mediumPath": "_m/2/0/4/t/chatham-islands-wk/port-hutt-medium.webp"
     },
     {
       "filename": "Fig 1 Chatham Rise Map.jpg",
@@ -468,5 +468,26 @@
     "_m/2/0/4/m/chatham-islands-wk/dsir-archive-1-08-camping-for-.jpg",
     "_m/2/0/4/m/chatham-islands-wk/dsir-archive-1-10-chathams-isl.jpg"
   ],
-  "updatedAt": "2026-02-21T20:02:24.219Z"
+  "updatedAt": "2026-02-21T20:02:24.219Z",
+  "narration": {
+    "files": [
+      "204m-chatham-islands-flight-context.mp3",
+      "204t-chatham-islands-intro.mp3",
+      "204t-chatham-islands-a-pacifist-people.mp3",
+      "204t-chatham-islands-where-new-zealand-began.mp3",
+      "204t-chatham-islands-a-floristic-kingdom.mp3",
+      "204t-chatham-islands-life-at-the-edge.mp3",
+      "204t-chatham-islands-three-cultures-one-place.mp3"
+    ],
+    "durations": {
+      "204m-chatham-islands-flight-context.mp3": 71.1990833,
+      "204t-chatham-islands-intro.mp3": 50.8163333,
+      "204t-chatham-islands-a-pacifist-people.mp3": 69.1518333,
+      "204t-chatham-islands-where-new-zealand-began.mp3": 52.27525,
+      "204t-chatham-islands-a-floristic-kingdom.mp3": 64.759,
+      "204t-chatham-islands-life-at-the-edge.mp3": 54.13925,
+      "204t-chatham-islands-three-cultures-one-place.mp3": 68.7963333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

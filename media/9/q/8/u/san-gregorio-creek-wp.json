@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/8/u/san-gregorio-creek-wp/hero.jpg",
-        "filename": "CRW 2419.jpg",
-        "caption": "en:San Gregorio State Beach near San Gregorio, en:California by Sean O'Faherty\n\nSan Gregorio State Beach",
-        "alt": "en:San Gregorio State Beach near San Gregorio, en:California by Sean O'Faherty\n\nSan Gregorio State Beach",
-        "width": 3072,
-        "height": 2048,
-        "mimeType": "image/jpeg",
+        "path": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero.png",
+        "filename": "Relief map of California.png",
+        "caption": "Relief map of California, USA.",
+        "alt": "Relief map of California, USA.",
+        "width": 681,
+        "height": 780,
         "license": "CC BY-SA 3.0",
-        "artist": "The original uploader was Seano1 at English Wikipedia.",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:CRW_2419.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "san-gregorio-creek-wp",
-        "sourceGeohash4": "9q8u",
-        "categories": [
-          "CC-BY-SA-3.0-migrated-with-disclaimers",
-          "GFDL-en",
-          "License migration completed",
-          "San Gregorio State Beach"
-        ]
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Nzeemin",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Relief_map_of_California.png",
+        "smallPath": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/8/u/san-gregorio-creek-wp/hero.png",
+          "path": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero.png",
           "filename": "Relief map of California.png",
           "caption": "Relief map of California, USA.",
           "alt": "Relief map of California, USA.",
@@ -50,7 +42,8 @@
             "Self-published work",
             "Topographic maps of California",
             "Vaca Mountains"
-          ]
+          ],
+          "smallPath": "_m/9/m/u/d/kendall-frost-mission-bay-marsh-reserve-wp/hero-small.webp"
         }
       ],
       "narration": [
@@ -62,8 +55,9 @@
         "_m/9/q/8/u/san-gregorio-creek-wp/9q8u-san-gregorio-creek-rare-plants-on-the-canyon-walls.mp3"
       ],
       "combinedNarration": "_m/9/q/8/u/san-gregorio-creek-wp/9q8u-san-gregorio-creek-combined.mp3",
-      "combinedNarrationBytes": 3193919,
-      "combinedNarrationDuration": 266
+      "combinedNarrationBytes": 3281374,
+      "combinedNarrationDuration": 266,
+      "combinedCover": "_m/9/q/8/u/san-gregorio-creek-wp/9q8u-san-gregorio-creek-combined-cover.jpg"
     }
   }
 }

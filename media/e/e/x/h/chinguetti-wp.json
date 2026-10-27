@@ -3,30 +3,34 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/e/x/h/chinguetti-wp/hero.jpg",
-        "filename": "Chinguetti-Vue Goblale Vieille ville.jpg",
-        "caption": "Vue Generale de la vieille ville de Chinguetti en Mauritanie",
-        "alt": "Vue Generale de la vieille ville de Chinguetti en Mauritanie",
-        "width": 1700,
-        "height": 1138,
+        "path": "_m/e/e/x/h/chinguetti-wp/chinguetti-donkey.jpg",
+        "filename": "Chinguetti-Donkey.jpg",
+        "caption": "Donkey in Chinguetti (Adrar, Mauritania)",
+        "alt": "Donkey in Chinguetti (Adrar, Mauritania)",
+        "width": 3648,
+        "height": 2736,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.5",
-        "artist": "François COLIN",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chinguetti-Vue_Goblale_Vieille_ville.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "Ji-Elle",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chinguetti-Donkey.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "chinguetti-wp",
         "sourceGeohash4": "eexh",
         "categories": [
-          "August 2004",
-          "CC-BY-SA-2.5",
-          "Chinguetti Mosque",
-          "Files with coordinates missing SDC location of creation",
-          "Self-published work"
-        ]
+          "CC-BY-SA-3.0,2.5,2.0,1.0",
+          "Chinguetti",
+          "Donkeys of Mauritania",
+          "GFDL",
+          "License migration redundant",
+          "Self-published work",
+          "Taken with Panasonic Lumix DMC-FZ28"
+        ],
+        "mediumPath": "_m/e/e/x/h/chinguetti-wp/chinguetti-donkey-medium.webp",
+        "smallPath": "_m/e/e/x/h/chinguetti-wp/chinguetti-donkey-small.webp"
       },
       "images": [
         {
-          "path": "_m/e/e/x/h/chinguetti-wp/chinguetti-mosquee.jpg",
+          "path": "_m/e/e/x/h/chinguetti-mosque-wp/chinguetti-mosquee.jpg",
           "filename": "Chinguetti mosquee.jpg",
           "alt": "Chinguetti mosquee.jpg",
           "width": 1024,
@@ -47,7 +51,8 @@
             "License migration completed",
             "Media missing infobox template",
             "Taken with Canon Digital IXUS 430"
-          ]
+          ],
+          "smallPath": "_m/e/e/x/h/chinguetti-mosque-wp/chinguetti-mosquee-small.webp"
         },
         {
           "path": "_m/e/e/x/h/chinguetti-wp/chinguetti-biblio.jpg",
@@ -504,7 +509,9 @@
             "CC-BY-SA-3.0",
             "Derivative versions",
             "Wikivoyage banners of Mauritania"
-          ]
+          ],
+          "mediumPath": "_m/e/e/x/h/chinguetti-wk/chinguetti-banner-medium.webp",
+          "smallPath": "_m/e/e/x/h/chinguetti-wk/chinguetti-banner-small.webp"
         },
         {
           "path": "_m/e/e/x/h/chinguetti-mosque-wp/hero.jpg",
@@ -531,7 +538,9 @@
             "Images from Wiki Loves Monuments missing SDC location of creation",
             "Self-published work",
             "Uploaded via Campaign:wlm-mr"
-          ]
+          ],
+          "mediumPath": "_m/e/e/x/h/chinguetti-mosque-wp/hero-medium.webp",
+          "smallPath": "_m/e/e/x/h/chinguetti-mosque-wp/hero-small.webp"
         }
       ],
       "narration": [

@@ -28,7 +28,7 @@ The stretch of coast that serves as prime jubilee ground runs along the densely 
 
 ## Flight Context
 
-Mobile Bay lies at approximately 30.57N, 87.93W, stretching roughly 31 miles from the Mobile River delta to the Gulf of Mexico. The bay is easily identifiable from altitude as a large, shallow body of water flanked by Mobile to the west and Fairhope/Daphne to the east. The eastern shore near Fairhope is where jubilees typically occur. Nearest airports are Mobile Regional Airport (KMOB) to the west and Jack Edwards National Airport (KJKA) in Gulf Shores to the south. At 3,000-5,000 feet AGL, the bay's shallow waters, river sediment plumes, and shoreline development are all clearly visible.
+Mobile Bay lies at approximately 30.57N, 87.93W, stretching roughly 31 miles from the Mobile River delta to the Gulf of Mexico. The bay is easily identifiable from altitude as a large, shallow body of water flanked by Mobile to the west and Fairhope/Daphne to the east. The eastern shore near Fairhope is where jubilees typically occur. Nearest airports are Mobile Regional Airport (KMOB) to the west and Gulf Shores International Airport (KJKA, formerly Jack Edwards National) in Gulf Shores to the south. At 3,000-5,000 feet AGL, the bay's shallow waters, river sediment plumes, and shoreline development are all clearly visible.
 
 ## Sources
 

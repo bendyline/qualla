@@ -34,7 +34,7 @@
           "Files with coordinates missing SDC location of creation",
           "Flickr images uploaded by Flickr upload bot"
         ],
-        "smallPath": "_m/1/c/b/y/west-antarctica-wk/hero-small.webp",
+        "smallPath": "_m/1/c/b/y/west-antarctica-wk/ilyushin-il-76-air-alm-small.webp",
         "evaluation": {
           "relevance": 10,
           "visualQuality": 9,
@@ -51,8 +51,7 @@
             "sectionTitle": "Getting There, Barely"
           },
           "rationale": "IL-76 at Union Glacier explicitly mentioned in article - captures the only way into West Antarctica's interior"
-        },
-        "mediumPath": "_m/1/c/b/y/west-antarctica-wk/hero-medium.webp"
+        }
       },
       "images": [
         {
@@ -218,7 +217,7 @@
             "Neumayer Station III",
             "Taken with Canon EOS 500D"
           ],
-          "smallPath": "_m/1/c/b/y/west-antarctica-wk/ilyushin-il-76-air-alm-small.webp",
+          "smallPath": "_m/1/c/b/y/west-antarctica-wk/hero-small.webp",
           "evaluation": {
             "relevance": 8,
             "qualitySkipReason": "map",
@@ -227,7 +226,8 @@
             ],
             "sectionAffinity": "flightContext",
             "rationale": "Useful reference showing Vinson Massif location and West/East Antarctica division"
-          }
+          },
+          "mediumPath": "_m/1/c/b/y/west-antarctica-wk/hero-medium.webp"
         },
         {
           "path": "_m/1/c/b/y/west-antarctica-wp/2008-south-pole-marker-1.jpg",
@@ -249,7 +249,9 @@
             "Flickr images uploaded by Flickr upload bot",
             "January 2008 in Antarctica",
             "South Pole"
-          ]
+          ],
+          "mediumPath": "_m/1/c/b/y/west-antarctica-wp/2008-south-pole-marker-1-medium.webp",
+          "smallPath": "_m/1/c/b/y/west-antarctica-wp/2008-south-pole-marker-1-small.webp"
         }
       ],
       "combinedNarration": "_m/1/c/b/y/west-antarctica-wk/1cby-west-antarctica-combined.mp3",

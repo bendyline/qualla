@@ -3,29 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/e/1/x/congress-of-tucuman-wp/hero.jpg",
-        "filename": "El-Congreso-de-Tucumán-1816-Francisco-Fortuny.jpg",
+        "path": "_m/6/e/1/x/congress-of-tucuman-wp/congreso-de-tucuman.jpg",
+        "filename": "Congreso de Tucumán.JPG",
         "caption": "Congreso de Tucumán",
         "alt": "Congreso de Tucumán",
-        "width": 1024,
-        "height": 768,
+        "width": 2589,
+        "height": 1096,
         "mimeType": "image/jpeg",
         "license": "Public domain",
-        "artist": "Francisco Fortuny",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:El-Congreso-de-Tucum%C3%A1n-1816-Francisco-Fortuny.jpg",
-        "sourceType": "core",
+        "artist": "Lola Mora (1866 - 1936) (mural) / Cambalachero (foto)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Congreso_de_Tucum%C3%A1n.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "congress-of-tucuman-wp",
         "sourceGeohash4": "6e1x",
         "categories": [
-          "1816 in Argentina",
-          "1910 works",
-          "Argentina in history paintings",
-          "Argentine Declaration of Independence",
           "CC-PD-Mark",
-          "Francisco Fortuny",
-          "PD-Art (PD-old-auto-expired)",
-          "PD-old-80-expired"
-        ]
+          "CC-Zero",
+          "Casa de Tucumán",
+          "Congreso de Tucumán",
+          "PD-old-70-expired",
+          "Self-published work",
+          "Statues by Lola Mora"
+        ],
+        "mediumPath": "_m/6/e/1/x/congress-of-tucuman-wp/congreso-de-tucuman-medium.webp",
+        "smallPath": "_m/6/e/1/x/congress-of-tucuman-wp/congreso-de-tucuman-small.webp"
       },
       "images": [
         {
@@ -58,7 +59,7 @@
           "smallPath": "_m/6/e/1/x/congress-of-tucuman-wp/casa-de-tucuman-restor-small.webp"
         },
         {
-          "path": "_m/6/e/1/x/congress-of-tucuman-wp/most-canonical-portrai.jpg",
+          "path": "_m/6/e/1/x/argentine-declaration-of-independence-wp/most-canonical-portrai.jpg",
           "filename": "Retrato más canónico de José de San Martín.jpg",
           "caption": "Most canonical portrait of José de San Martín.",
           "alt": "Most canonical portrait of José de San Martín.",
@@ -83,10 +84,11 @@
             "PD-Art (PD-anon-expired)",
             "PD-Art missing SDC copyright status",
             "Portraits of San Martin"
-          ]
+          ],
+          "smallPath": "_m/6/e/1/x/argentine-declaration-of-independence-wp/most-canonical-portrai-small.webp"
         },
         {
-          "path": "_m/6/e/1/x/congress-of-tucuman-wp/ejercito-libertador-cr.jpg",
+          "path": "_m/6/e/1/x/argentine-declaration-of-independence-wp/ejercito-libertador-cr.jpg",
           "filename": "Ejercito Libertador cruce de Cordillera de los andes.jpg",
           "alt": "Ejercito Libertador cruce de Cordillera de los andes.jpg",
           "width": 799,
@@ -106,10 +108,11 @@
             "Julio Vila y Prades",
             "PD-Art (PD-old-auto-expired)",
             "PD-old-95-expired"
-          ]
+          ],
+          "smallPath": "_m/6/e/1/x/argentine-declaration-of-independence-wp/ejercito-libertador-cr-small.webp"
         },
         {
-          "path": "_m/6/e/1/x/congress-of-tucuman-wp/primera-junta.jpg",
+          "path": "_m/6/e/1/x/argentine-declaration-of-independence-wp/primera-junta.jpg",
           "filename": "Primera junta por Francisco Fortuny.jpg",
           "caption": "Primera Junta",
           "alt": "Primera Junta",
@@ -134,10 +137,11 @@
             "PD-old missing SDC copyright status",
             "People of Argentina in the 1810s",
             "Primera Junta"
-          ]
+          ],
+          "smallPath": "_m/6/e/1/x/argentine-declaration-of-independence-wp/primera-junta-small.webp"
         },
         {
-          "path": "_m/6/e/1/x/congress-of-tucuman-wp/tucuman-1812.jpg",
+          "path": "_m/6/e/1/x/battle-of-tucuman-wp/tucuman-1812.jpg",
           "filename": "TUCUMAN-1812.jpg",
           "caption": "\"TUCUMAN 1812\" Oleo de Gerardo Flores Ivaldi que representa la esquina de 25 de mayo y San Martín hacia el año 1812. Se pueden ver la antigua iglesia de San Francisco y el cabildo de Tucumán que aun no llegaba hasta la esquina. La actual Plaza Independencia no era mas que un descampado. A la izquierda del cabildo estaba el \"hueco del ahorcado\"",
           "alt": "\"TUCUMAN 1812\" Oleo de Gerardo Flores Ivaldi que representa la esquina de 25 de mayo y San Martín hacia el año 1812. Se pueden ver la antigua iglesia de San Francisco y el cabildo de Tucumán que aun no llegaba hasta la esquina. La actual Plaza Independencia no era mas que un descampado. A la izquierda del cabildo estaba el \"hueco del ahorcado\"",
@@ -159,7 +163,8 @@
             "Media needing category review as of 7 May 2015",
             "San Miguel de Tucumán",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/6/e/1/x/battle-of-tucuman-wp/tucuman-1812-small.webp"
         },
         {
           "path": "_m/6/e/1/x/congress-of-tucuman-wp/congreso-de-tucuman.jpg",
@@ -232,7 +237,9 @@
             "Flickr images uploaded by Flickr upload bot",
             "FoP-Argentina",
             "Tucumán train station (Mitre)"
-          ]
+          ],
+          "mediumPath": "_m/tpc/sa/n-/mi/gu/san-miguel-de-tucuman/estacion-de-trenes-ferrocental-medium.webp",
+          "smallPath": "_m/tpc/sa/n-/mi/gu/san-miguel-de-tucuman/estacion-de-trenes-ferrocental-small.webp"
         },
         {
           "path": "_m/tpc/sa/n-/mi/gu/san-miguel-de-tucuman/basilica-de-la-merced.jpg",
@@ -253,7 +260,9 @@
             "CC-Zero",
             "FoP-Argentina",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/sa/n-/mi/gu/san-miguel-de-tucuman/basilica-de-la-merced-medium.webp",
+          "smallPath": "_m/tpc/sa/n-/mi/gu/san-miguel-de-tucuman/basilica-de-la-merced-small.webp"
         }
       ],
       "narration": [

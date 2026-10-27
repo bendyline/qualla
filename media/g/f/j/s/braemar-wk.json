@@ -3,32 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/j/s/braemar-wk/hero.png",
-        "filename": "Schotland Braemar Castle 9-5-2010 12-16.png",
-        "caption": "Braemar Castle, Scotland",
-        "alt": "Braemar Castle, Scotland",
-        "width": 2914,
-        "height": 1821,
-        "mimeType": "image/png",
-        "license": "CC BY-SA 3.0",
-        "artist": "Paul Hermans",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schotland_Braemar_Castle_9-5-2010_12-16.png",
-        "sourceType": "core",
+        "path": "_m/g/f/j/s/braemar-wk/a-terrace-cottage-just-north-o.jpg",
+        "filename": "A terrace cottage just north of the Episcopalian Church - geograph.org.uk - 2290415.jpg",
+        "caption": "A terrace cottage just north of the Episcopalian Church",
+        "alt": "A terrace cottage just north of the Episcopalian Church",
+        "width": 3648,
+        "height": 2736,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 2.0",
+        "artist": "Stanley Howe",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_terrace_cottage_just_north_of_the_Episcopalian_Church_-_geograph.org.uk_-_2290415.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "braemar-wk",
         "sourceGeohash4": "gfjs",
-        "categories": [
-          "Braemar Castle",
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "Files by User:Paul Hermans",
-          "GFDL",
-          "Images with extracted images",
-          "License migration redundant",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/g/f/j/s/braemar-wk/a-terrace-cottage-just-north-o-medium.webp",
+        "smallPath": "_m/g/f/j/s/braemar-wk/a-terrace-cottage-just-north-o-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/j/s/braemar-wk/linn-of-dee-geograph-org-uk-15.jpg",
+          "path": "_m/g/f/j/s/braemar-wp/linn-of-dee-geograph-org-uk-15.jpg",
           "filename": "Linn of Dee - geograph.org.uk - 1548015.jpg",
           "caption": "Linn of Dee",
           "alt": "Linn of Dee",
@@ -48,7 +41,9 @@
             "Information field template with formatting",
             "Linn Of Dee",
             "United Kingdom photographs taken on 2009-05-13"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/s/braemar-wp/linn-of-dee-geograph-org-uk-15-medium.webp",
+          "smallPath": "_m/g/f/j/s/braemar-wp/linn-of-dee-geograph-org-uk-15-small.webp"
         },
         {
           "path": "_m/g/f/j/s/braemar-wk/auchendrynelodge-braemar-01sep.jpg",
@@ -243,7 +238,7 @@
           "smallPath": "_m/g/f/j/s/braemar-wk/a-wet-road-to-keiloch-geograph-small.webp"
         },
         {
-          "path": "_m/g/f/j/s/braemar-wk/bend-in-the-road-near-braemar-.jpg",
+          "path": "_m/g/f/j/s/braemar-castle-wp/bend-in-the-road-near-braemar-.jpg",
           "filename": "Bend in the road near Braemar Castle - geograph.org.uk - 478455.jpg",
           "caption": "Bend in the road near Braemar Castle The A93 heading towards Braemar. Braemar Castle is on the right round the corner.",
           "alt": "Bend in the road near Braemar Castle The A93 heading towards Braemar. Braemar Castle is on the right round the corner.",
@@ -255,7 +250,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bend_in_the_road_near_Braemar_Castle_-_geograph.org.uk_-_478455.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "braemar-castle-wp",
-          "sourceGeohash4": "gfjs"
+          "sourceGeohash4": "gfjs",
+          "smallPath": "_m/g/f/j/s/braemar-castle-wp/bend-in-the-road-near-braemar--small.webp"
         },
         {
           "path": "_m/g/f/j/s/braemar-wk/braemar-14-miles-geograph-org-.jpg",
@@ -454,7 +450,8 @@
           "categories": [
             "Mar Lodge Estate",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/s/braemar-wp/morrone-birkwood-nature-reserv-small.webp"
         },
         {
           "path": "_m/g/f/j/s/braemar-wp/braemargames-2006-06.jpg",
@@ -474,7 +471,8 @@
             "2006 Braemar Games",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/s/braemar-wp/braemargames-2006-06-small.webp"
         },
         {
           "path": "_m/g/f/j/s/braemar-wp/kindrochit-castle-03.jpg",
@@ -495,7 +493,8 @@
             "Kindrochit Castle",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/s/braemar-wp/kindrochit-castle-03-small.webp"
         },
         {
           "path": "_m/g/f/j/s/braemar-wp/braemar-from-morrone-01sep06.jpg",
@@ -514,7 +513,8 @@
           "categories": [
             "Morrone, Braemar",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/s/braemar-wp/braemar-from-morrone-01sep06-small.webp"
         },
         {
           "path": "_m/g/f/j/s/braemar-wp/john-campbell-hamilton-gordon-.jpg",
@@ -536,7 +536,9 @@
             "Cornelia Sorabji",
             "Files from Gallica",
             "Furs in 1942"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/s/braemar-wp/john-campbell-hamilton-gordon--medium.webp",
+          "smallPath": "_m/g/f/j/s/braemar-wp/john-campbell-hamilton-gordon--small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/braemar-from-morrone.jpg",
@@ -561,7 +563,8 @@
             "Mar Lodge Estate",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/braemar-from-morrone-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/grantown-on-spey-winter.jpg",
@@ -587,7 +590,9 @@
             "Snow in Highland council area",
             "United Kingdom photographs taken on 2006-03-05",
             "Winter in Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/j/k/cairngorms-national-park-wp/grantown-on-spey-winter-medium.webp",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/grantown-on-spey-winter-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/carl-haag-morning-in-the-highl.jpg",
@@ -601,7 +606,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carl_Haag_-_Morning_in_the_Highlands-_the_royal_family_ascending_Lochnagar_-_Google_Art_Project.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": "gfjk"
+          "sourceGeohash4": "gfjk",
+          "mediumPath": "_m/g/f/j/k/cairngorms-national-park-wp/carl-haag-morning-in-the-highl-medium.webp",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/carl-haag-morning-in-the-highl-small.webp"
         },
         {
           "path": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr.jpg",
@@ -616,7 +623,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blair_Atholl_Post_Office_-_geograph_-_3206161-by-Andrew-Abbott.jpg",
           "sourceType": "poi",
           "sourceArticleId": "perthshire-wp",
-          "sourceGeohash4": "gfjk"
+          "sourceGeohash4": "gfjk",
+          "mediumPath": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr-medium.webp",
+          "smallPath": "_m/g/f/j/1/perthshire-wp/blair-atholl-post-office-geogr-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/ski-slopes-on-cairngorm-geogra.jpg",
@@ -631,7 +640,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ski_Slopes_On_Cairngorm_-_geograph.org.uk_-_2280829.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": "gfjk"
+          "sourceGeohash4": "gfjk",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/ski-slopes-on-cairngorm-geogra-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/highland-cattle-at-kingussie-w.jpg",
@@ -646,7 +656,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Highland_Cattle_at_Kingussie_Wildlife_Park_-_geograph.org.uk_-_2398705.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": "gfjk"
+          "sourceGeohash4": "gfjk",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/highland-cattle-at-kingussie-w-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/cairngorms-national-park-pairc.jpg",
@@ -661,7 +672,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairngorms_National_Park_(P%C3%A0irc_N%C3%A0iseanta_a%27_Mhonaidh_Ruaidh)_28.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": "gfjk"
+          "sourceGeohash4": "gfjk",
+          "mediumPath": "_m/g/f/j/k/cairngorms-national-park-wp/cairngorms-national-park-pairc-medium.webp",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/cairngorms-national-park-pairc-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/balmoral-castle-cropped.jpg",
@@ -676,7 +689,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balmoral_Castle_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "cairngorms-national-park-wp",
-          "sourceGeohash4": "gfjk"
+          "sourceGeohash4": "gfjk",
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/balmoral-castle-cropped-small.webp"
         },
         {
           "path": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/balmoral-castle.jpg",
@@ -703,7 +717,9 @@
             "Lawns in the United Kingdom",
             "Royal Banner of Scotland",
             "Taken with Polaroid PDC 3350"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/balmoral-castle-medium.webp",
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/balmoral-castle-small.webp"
         },
         {
           "path": "_m/g/f/j/u/ballater-wp/corgarff-castle-13.jpg",
@@ -728,7 +744,8 @@
             "Self-published work",
             "Taken with Vivitar ViviCam 8300s",
             "United Kingdom photographs taken on 2007-08-04"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/u/ballater-wp/corgarff-castle-13-small.webp"
         },
         {
           "path": "_m/g/f/j/u/ballater-wp/royal-lochnagar-distillery-mai.jpg",
@@ -743,7 +760,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Lochnagar_Distillery_Main_Building_2012.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ballater-wp",
-          "sourceGeohash4": "gfju"
+          "sourceGeohash4": "gfju",
+          "mediumPath": "_m/g/f/j/u/ballater-wp/royal-lochnagar-distillery-mai-medium.webp",
+          "smallPath": "_m/g/f/j/u/ballater-wp/royal-lochnagar-distillery-mai-small.webp"
         },
         {
           "path": "_m/g/f/j/u/ballater-wp/strathdon-banner-corgarff-cast.jpg",
@@ -758,7 +777,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strathdon_banner_Corgarff_Castle_from_Lecht_Road.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ballater-wp",
-          "sourceGeohash4": "gfju"
+          "sourceGeohash4": "gfju",
+          "mediumPath": "_m/g/f/j/u/ballater-wp/strathdon-banner-corgarff-cast-medium.webp",
+          "smallPath": "_m/g/f/j/u/ballater-wp/strathdon-banner-corgarff-cast-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorm-mountain-railway-wp/i-created-file-myself.jpg",
@@ -778,7 +799,8 @@
             "Abtsche Weiche",
             "Cairngorm Mountain Railway",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/k/cairngorm-mountain-railway-wp/i-created-file-myself-small.webp"
         },
         {
           "path": "_m/tpc/av/ie/mo/re/aviemore/strathspey-railway-aviemore.jpg",
@@ -805,7 +827,8 @@
             "Taken with Fujifilm FinePix A330",
             "Trains on the Strathspey Railway (preserved)",
             "United Kingdom photographs taken on 2005-10-12"
-          ]
+          ],
+          "smallPath": "_m/tpc/av/ie/mo/re/aviemore/strathspey-railway-aviemore-small.webp"
         },
         {
           "path": "_m/tpc/av/ie/mo/re/aviemore/aviemore-stone-circle-2.jpg",
@@ -827,7 +850,9 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work",
             "Stone circles in Scotland"
-          ]
+          ],
+          "mediumPath": "_m/tpc/av/ie/mo/re/aviemore/aviemore-stone-circle-2-medium.webp",
+          "smallPath": "_m/tpc/av/ie/mo/re/aviemore/aviemore-stone-circle-2-small.webp"
         }
       ],
       "narration": [

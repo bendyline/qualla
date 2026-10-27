@@ -43,7 +43,7 @@ Located at 9.57N, 8.92E in Plateau State, central Nigeria. The Jos Plateau rises
   - Corrected: Nigeria fertility rate 5.3 → ~4.5 (World Bank 2023 data: 4.48)
 - [Nigeria Fertility Rate - World Bank / Macrotrends](https://www.macrotrends.net/global-metrics/countries/nga/nigeria/fertility-rate)
   - Nigeria fertility rate 2023 is approximately 4.48 births per woman, not 5.3
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2023_Plateau_State_massacres)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=75650448)
   - Corrected the settled farming communities from "primarily Hausa" to the documented Berom and other Middle Belt Christian groups.
 
 ## Review Notes

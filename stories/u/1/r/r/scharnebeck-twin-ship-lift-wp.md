@@ -36,7 +36,7 @@ The lift stands at 53.292 degrees N, 10.488 degrees E, at canal kilometre 106 of
 
 ## Sources
 
-- [Scharnebeck twin ship lift - Wikipedia](https://en.wikipedia.org/wiki/Scharnebeck_twin_ship_lift)
+- [Scharnebeck twin ship lift - Wikipedia](https://en.wikipedia.org/?curid=11532058)
   - Maximum lift 38 m, varying with Elbe water level (confirmed)
   - First ship passed 5 December 1975 (confirmed)
   - Construction cost 152 million Deutsche Mark (confirmed)

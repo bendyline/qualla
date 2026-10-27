@@ -3,30 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/5/1/tiree-wk/hero.jpg",
-        "filename": "Loganair Viking Air DHC-6-400 Twin Otter at Tiree Airport.jpg",
-        "caption": "Loganair Viking Air DHC-6-400 Twin Otter (G-SGTS) at Tiree Airport. The aircraft is operated by Loganair on behalf of Highlands and Islands Airports Limited.",
-        "alt": "Loganair Viking Air DHC-6-400 Twin Otter (G-SGTS) at Tiree Airport. The aircraft is operated by Loganair on behalf of Highlands and Islands Airports Limited.",
-        "width": 4000,
-        "height": 3000,
+        "path": "_m/g/f/5/1/tiree-wk/ferry-arrival-tiree-geograph-o.jpg",
+        "filename": "Ferry arrival, Tiree - geograph.org.uk - 7992.jpg",
+        "caption": "Ferry arrival, Tiree. Arrival of the daily ferry from Oban - MV Clansman comes in to dock in Gott Bay, Tiree",
+        "alt": "Ferry arrival, Tiree. Arrival of the daily ferry from Oban - MV Clansman comes in to dock in Gott Bay, Tiree",
+        "width": 640,
+        "height": 480,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 2.0",
-        "artist": "goldencondor",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Loganair_Viking_Air_DHC-6-400_Twin_Otter_at_Tiree_Airport.jpg",
-        "sourceType": "core",
+        "artist": "Sue Jackson",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferry_arrival,_Tiree_-_geograph.org.uk_-_7992.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "tiree-wk",
         "sourceGeohash4": "gf51",
         "categories": [
-          "2015 in aviation in Scotland",
           "CC-BY-SA-2.0",
-          "De Havilland Canada DHC-6 Twin Otter at Tiree Airport",
-          "Flickr images missing SDC published in",
-          "Flickr images reviewed by FlickreviewR"
-        ]
+          "Clansman (ship, 1998)",
+          "Images from Geograph Britain and Ireland",
+          "Images from Geograph Britain and Ireland missing SDC coordinates of the point of view",
+          "Information field template with formatting",
+          "Tiree",
+          "United Kingdom photographs taken on 2004-07-27"
+        ],
+        "smallPath": "_m/g/f/5/1/tiree-wk/ferry-arrival-tiree-geograph-o-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/5/1/tiree-wk/hynish-signal.jpg",
+          "path": "_m/g/f/4/b/skerryvore-wp/hynish-signal.jpg",
           "filename": "Hynish signal.jpg",
           "caption": "Signal tower for en:Skerryvore lighthouse at Hynish, en:Tiree, Scotland",
           "alt": "Signal tower for en:Skerryvore lighthouse at Hynish, en:Tiree, Scotland",
@@ -47,7 +50,8 @@
             "Skerryvore",
             "Tiree",
             "United Kingdom photographs taken on 2007-09-06"
-          ]
+          ],
+          "smallPath": "_m/g/f/4/b/skerryvore-wp/hynish-signal-small.webp"
         },
         {
           "path": "_m/g/f/5/1/tiree-wk/ferry-arrival-tiree-geograph-o.jpg",
@@ -431,7 +435,8 @@
             "PNG that should use vector graphics",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/6/e/flannan-isles-wk/hebridesmap-small.webp"
         },
         {
           "path": "_m/g/f/5/1/tiree-wp/klimadiagramm-metrisch-deutsch.png",
@@ -455,7 +460,8 @@
             "License migration redundant",
             "Self-published work",
             "Tiree"
-          ]
+          ],
+          "smallPath": "_m/g/f/5/1/tiree-wp/klimadiagramm-metrisch-deutsch-small.webp"
         },
         {
           "path": "_m/g/f/5/1/tiree-wp/tiree-ringing-stone.jpg",
@@ -470,7 +476,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiree_ringing_stone.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "tiree-wp",
-          "sourceGeohash4": "gf51"
+          "sourceGeohash4": "gf51",
+          "smallPath": "_m/g/f/5/1/tiree-wp/tiree-ringing-stone-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map.jpg",
@@ -485,7 +492,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scotland_relief_location_map.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "edinburgh-wp",
-          "sourceGeohash4": "gf51"
+          "sourceGeohash4": "gf51",
+          "smallPath": "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map-small.webp"
         },
         {
           "path": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute.jpg",
@@ -500,7 +508,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Argyll_and_Bute_UK_relief_location_map.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "isle-of-mull-wp",
-          "sourceGeohash4": "gf51"
+          "sourceGeohash4": "gf51",
+          "mediumPath": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute-medium.webp",
+          "smallPath": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute-small.webp"
         },
         {
           "path": "_m/g/f/5/1/tiree-wp/balephuil-bay-from-carnan-mor-.jpg",
@@ -515,7 +525,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balephuil_Bay_from_Carnan_Mor_-_geograph.org.uk_-_2384121.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "tiree-wp",
-          "sourceGeohash4": "gf51"
+          "sourceGeohash4": "gf51",
+          "mediumPath": "_m/g/f/5/1/tiree-wp/balephuil-bay-from-carnan-mor--medium.webp",
+          "smallPath": "_m/g/f/5/1/tiree-wp/balephuil-bay-from-carnan-mor--small.webp"
         },
         {
           "path": "_m/g/f/5/1/tiree-wp/scarinish-harbour-geograph-org.jpg",
@@ -530,7 +542,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scarinish_Harbour_-_geograph.org.uk_-_6530519.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "tiree-wp",
-          "sourceGeohash4": "gf51"
+          "sourceGeohash4": "gf51",
+          "smallPath": "_m/g/f/5/1/tiree-wp/scarinish-harbour-geograph-org-small.webp"
         },
         {
           "path": "_m/g/f/5/1/tiree-wp/topographic-relief-map-of-coll.png",
@@ -545,7 +558,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Topographic_relief_map_of_Coll_and_Tiree.png",
           "sourceType": "sibling",
           "sourceArticleId": "tiree-wp",
-          "sourceGeohash4": "gf51"
+          "sourceGeohash4": "gf51",
+          "mediumPath": "_m/g/f/5/1/tiree-wp/topographic-relief-map-of-coll-medium.webp",
+          "smallPath": "_m/g/f/5/1/tiree-wp/topographic-relief-map-of-coll-small.webp"
         },
         {
           "path": "_m/g/f/5/6/coll-wp/coll.jpg",
@@ -571,7 +586,8 @@
             "Self-published work",
             "Taken with Canon EOS 20D",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/5/6/coll-wp/coll-small.webp"
         },
         {
           "path": "_m/g/f/5/6/coll-wp/isle-of-coll-april-2017-7.jpg",
@@ -591,7 +607,9 @@
             "April 2017 by user:Alexkom000",
             "April 2017 in Argyll and Bute",
             "Buildings on Coll"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/6/coll-wp/isle-of-coll-april-2017-7-medium.webp",
+          "smallPath": "_m/g/f/5/6/coll-wp/isle-of-coll-april-2017-7-small.webp"
         },
         {
           "path": "_m/g/f/5/9/inner-hebrides-wp/traigh-feall-isle-of-coll.jpg",
@@ -615,7 +633,9 @@
             "Fences in Argyll and Bute",
             "PD-user",
             "Taken with Pentax Optio 330RS"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/9/inner-hebrides-wp/traigh-feall-isle-of-coll-medium.webp",
+          "smallPath": "_m/g/f/5/9/inner-hebrides-wp/traigh-feall-isle-of-coll-small.webp"
         },
         {
           "path": "_m/g/f/5/9/inner-hebrides-wp/fingal-s-cave-staffa-island-01.jpg",
@@ -630,7 +650,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fingal%27s_Cave,_Staffa_Island_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "inner-hebrides-wp",
-          "sourceGeohash4": "gf59"
+          "sourceGeohash4": "gf59",
+          "mediumPath": "_m/g/f/5/9/inner-hebrides-wp/fingal-s-cave-staffa-island-01-medium.webp",
+          "smallPath": "_m/g/f/5/9/inner-hebrides-wp/fingal-s-cave-staffa-island-01-small.webp"
         },
         {
           "path": "_m/g/f/5/9/inner-hebrides-wp/00-2355-skye-bridge-scotland.jpg",
@@ -645,7 +667,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_2355_Skye_Bridge_-_(Scotland).jpg",
           "sourceType": "poi",
           "sourceArticleId": "inner-hebrides-wp",
-          "sourceGeohash4": "gf59"
+          "sourceGeohash4": "gf59",
+          "mediumPath": "_m/g/f/5/9/inner-hebrides-wp/00-2355-skye-bridge-scotland-medium.webp",
+          "smallPath": "_m/g/f/5/9/inner-hebrides-wp/00-2355-skye-bridge-scotland-small.webp"
         },
         {
           "path": "_m/g/f/5/9/inner-hebrides-wp/aus-dem-13-jahrhundert-stammen.jpg",
@@ -660,7 +684,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%2B_Aus_dem_13._Jahrhundert_stammen_die_ersten_Geb%C3%A4udeteile_der_Duart_Burg._3.jpg",
           "sourceType": "poi",
           "sourceArticleId": "inner-hebrides-wp",
-          "sourceGeohash4": "gf59"
+          "sourceGeohash4": "gf59",
+          "mediumPath": "_m/g/f/5/9/inner-hebrides-wp/aus-dem-13-jahrhundert-stammen-medium.webp",
+          "smallPath": "_m/g/f/5/9/inner-hebrides-wp/aus-dem-13-jahrhundert-stammen-small.webp"
         }
       ],
       "narration": [

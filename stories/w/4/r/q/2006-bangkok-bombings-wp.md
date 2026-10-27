@@ -47,7 +47,7 @@ The bombings struck multiple locations across central Bangkok. Victory Monument 
   - 186 million baht CCTV plan announced
   - 15 military officers arrested Jan 20 2007
   - Stock exchange fell 3.2 percent
-- [2006 Bangkok bombings - Wikipedia (2026 review)](https://en.wikipedia.org/wiki/2006_Bangkok_bombings)
+- [2006 Bangkok bombings - Wikipedia (2026 review)](https://en.wikipedia.org/?curid=8689989)
   - First bombs at 6 p.m. December 31 2006 confirmed
   - Victory Monument blast killed two people and injured seventeen confirmed
   - Hungarian tourist among injured at Victory Monument confirmed

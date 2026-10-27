@@ -37,7 +37,7 @@ CBC Monkstown sits at approximately 53.290 degrees N, 6.149 degrees W on the coa
 ## Sources
 
 - [C.B.C. Monkstown - Wikipedia](https://en.wikipedia.org/?curid=4261231)
-- [CBC Monkstown - Wikipedia](https://en.wikipedia.org/wiki/CBC_Monkstown)
+- [CBC Monkstown - Wikipedia](https://en.wikipedia.org/?curid=4261231)
   - Opened 1 January 1856 confirmed
   - Dublin and Kingstown Railway opened 1834 confirmed
   - First school to perform at Abbey Theatre 1958 confirmed

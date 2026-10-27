@@ -24,7 +24,7 @@ The film operates simultaneously as a Western and a critique of Westerns — or 
 
 ## Flight Context
 
-The manhunt's terrain is centered around the Morongo Valley and Yucca Valley area in the San Bernardino Mountains, approximately 34.29°N, 116.54°W. Ruby Mountain, the final confrontation site, lies in this range. The Pipes area in northwest Yucca Valley where Carlota was found is a canyon system identifiable from above. Nearest airports: Desert Resorts Regional (PSP) ~20 miles south, Twentynine Palms (TNP) ~25 miles east.
+The manhunt's terrain is centered around the Morongo Valley and Yucca Valley area in the San Bernardino Mountains, approximately 34.29°N, 116.54°W. Ruby Mountain, the final confrontation site, lies in this range. The Pipes area in northwest Yucca Valley where Carlota was found is a canyon system identifiable from above. Nearest airports: Palm Springs International (PSP) ~20 miles south, Twentynine Palms (TNP) ~25 miles east.
 
 ## Sources
 

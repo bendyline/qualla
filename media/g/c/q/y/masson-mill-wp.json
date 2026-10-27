@@ -3,29 +3,20 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/q/y/masson-mill-wp/hero.jpg",
-        "filename": "Arkwright Masson Mills.jpg",
-        "alt": "Arkwright Masson Mills.jpg",
-        "width": 3840,
-        "height": 2160,
+        "path": "_m/g/c/q/y/masson-mill-wp/masson-mill-geograph-org-uk-23-1.jpg",
+        "filename": "Masson Mill - geograph.org.uk - 2328009.jpg",
+        "caption": "Masson Mill",
+        "alt": "Masson Mill",
+        "width": 1280,
+        "height": 856,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 2.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arkwright_Masson_Mills.jpg",
-        "sourceType": "core",
+        "artist": "Stephen McKay",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masson_Mill_-_geograph.org.uk_-_2328009.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "masson-mill-wp",
         "sourceGeohash4": "gcqy",
-        "categories": [
-          "CC-BY-SA-2.0",
-          "Files with no machine-readable author",
-          "Files with no machine-readable source",
-          "Masson Mills",
-          "Media missing infobox template",
-          "Museums in Derbyshire",
-          "Richard Arkwright",
-          "Taken with Panasonic Lumix DMC-LX1",
-          "Textile museums",
-          "User:Justinc"
-        ]
+        "smallPath": "_m/g/c/q/y/masson-mill-wp/masson-mill-geograph-org-uk-23-1-small.webp"
       },
       "images": [
         {
@@ -418,7 +409,8 @@
             "CC-BY-SA-3.0",
             "Peak District Lead Mining Museum",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/y/matlock-bath-wp/peak-district-mining-museum-small.webp"
         },
         {
           "path": "_m/g/c/q/y/matlock-bath-wp/matlock-station-with-peak-rail.jpg",
@@ -443,7 +435,9 @@
             "RSH 0-6-0ST 7136 Royal Pioneer",
             "Self-published work",
             "Trains on Peak Rail"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/y/matlock-bath-wp/matlock-station-with-peak-rail-medium.webp",
+          "smallPath": "_m/g/c/q/y/matlock-bath-wp/matlock-station-with-peak-rail-small.webp"
         }
       ],
       "narration": [

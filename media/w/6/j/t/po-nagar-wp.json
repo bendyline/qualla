@@ -3,31 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/6/j/t/po-nagar-wp/hero.jpg",
-        "filename": "Champa Po Nagar Nha Trang.jpg",
-        "caption": "Champa Po Nagar in Nha Trangchram",
-        "alt": "Champa Po Nagar in Nha Trangchram",
-        "width": 1535,
-        "height": 1063,
+        "path": "_m/w/6/j/t/po-nagar-wp/8th-century-hindu-temple-in-nh.jpg",
+        "filename": "8th century Hindu temple in Nha Trang Vietnam.jpg",
+        "caption": "Nha Trang is a Champa temple site founded sometime around 781 A.D. and was located in the medieval principality of Kauthara, near modern Nha Trang.)",
+        "alt": "Nha Trang is a Champa temple site founded sometime around 781 A.D. and was located in the medieval principality of Kauthara, near modern Nha Trang.)",
+        "width": 6016,
+        "height": 4016,
         "mimeType": "image/jpeg",
         "license": "CC BY 2.0",
-        "artist": "Petr &amp; Bara Ruzicka",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Champa_Po_Nagar_Nha_Trang.jpg",
-        "sourceType": "core",
+        "artist": "Tartarin2009",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:8th_century_Hindu_temple_in_Nha_Trang_Vietnam.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "po-nagar-wp",
         "sourceGeohash4": "w6jt",
-        "categories": [
-          "CC-BY-2.0",
-          "Files with coordinates missing SDC location of creation",
-          "Flickr images uploaded by Flickr upload bot",
-          "Information field template with formatting",
-          "Taken with Canon EOS 300D",
-          "Thap Po Nagar"
-        ]
+        "mediumPath": "_m/w/6/j/t/po-nagar-wp/8th-century-hindu-temple-in-nh-medium.webp",
+        "smallPath": "_m/w/6/j/t/po-nagar-wp/8th-century-hindu-temple-in-nh-small.webp"
       },
       "images": [
         {
-          "path": "_m/w/6/j/t/po-nagar-wp/durga-ornament-po-nagar.jpg",
+          "path": "_m/w/6/j/t/nha-trang-wp/durga-ornament-po-nagar.jpg",
           "filename": "Durga ornament Po Nagar.jpg",
           "caption": "Durga ornament on the main Tower in Category:Po Nagar towers in Nha Trangornament nad vchodem",
           "alt": "Durga ornament on the main Tower in Category:Po Nagar towers in Nha Trangornament nad vchodem",
@@ -47,7 +41,8 @@
             "Sculptures of Durga",
             "Taken with Canon EOS 300D",
             "Thap Po Nagar"
-          ]
+          ],
+          "smallPath": "_m/w/6/j/t/nha-trang-wp/durga-ornament-po-nagar-small.webp"
         },
         {
           "path": "_m/w/6/j/t/po-nagar-wp/smallest-four-temples.jpg",
@@ -142,7 +137,7 @@
           "smallPath": "_m/w/6/j/t/po-nagar-wp/dinh-mau-small.webp"
         },
         {
-          "path": "_m/w/6/j/t/po-nagar-wp/binh-ai-o-thap-ponagar-nha-tra.jpg",
+          "path": "_m/w/6/j/t/nha-trang-wp/binh-ai-o-thap-ponagar-nha-tra.jpg",
           "filename": "Bình đài ở tháp Ponagar, Nha Trang.JPG",
           "caption": "In Po Nagar",
           "alt": "In Po Nagar",
@@ -163,7 +158,9 @@
             "Self-published work",
             "Taken with Nikon Coolpix L19",
             "Thap Po Nagar"
-          ]
+          ],
+          "mediumPath": "_m/w/6/j/t/nha-trang-wp/binh-ai-o-thap-ponagar-nha-tra-medium.webp",
+          "smallPath": "_m/w/6/j/t/nha-trang-wp/binh-ai-o-thap-ponagar-nha-tra-small.webp"
         },
         {
           "path": "_m/w/6/j/t/po-nagar-wp/cham-temple-in-nha-trang.jpg",
@@ -472,7 +469,9 @@
             "PD-self",
             "Self-published work",
             "Thang Long Water Puppet Theatre"
-          ]
+          ],
+          "mediumPath": "_m/w/6/j/t/nha-trang-wk/picture-mine-i-took-pu-medium.webp",
+          "smallPath": "_m/w/6/j/t/nha-trang-wk/picture-mine-i-took-pu-small.webp"
         },
         {
           "path": "_m/w/6/j/t/nha-trang-wk/great-buddha-statue-nh.jpg",
@@ -496,7 +495,9 @@
             "Taken with Canon EOS 300D",
             "White Buddha",
             "Worm's-eye view of sculptures"
-          ]
+          ],
+          "mediumPath": "_m/w/6/j/t/nha-trang-wk/great-buddha-statue-nh-medium.webp",
+          "smallPath": "_m/w/6/j/t/nha-trang-wk/great-buddha-statue-nh-small.webp"
         },
         {
           "path": "_m/w/6/j/t/nha-trang-wk/front-gate-old-citadel.jpg",
@@ -520,7 +521,9 @@
             "Gates in Vietnam",
             "Self-published work",
             "Taken with Nikon Coolpix 8700"
-          ]
+          ],
+          "mediumPath": "_m/w/6/j/t/nha-trang-wk/front-gate-old-citadel-medium.webp",
+          "smallPath": "_m/w/6/j/t/nha-trang-wk/front-gate-old-citadel-small.webp"
         },
         {
           "path": "_m/w/6/j/t/nha-trang-wk/vinpearl-hotel-nha-tra.jpg",
@@ -543,7 +546,8 @@
             "Flickr images uploaded by Flickr upload bot",
             "Hotels in Vietnam",
             "Vinpearl Resort Nha Trang"
-          ]
+          ],
+          "smallPath": "_m/w/6/j/t/nha-trang-wk/vinpearl-hotel-nha-tra-small.webp"
         },
         {
           "path": "_m/w/6/j/t/nha-trang-wk/hero.jpg",
@@ -565,7 +569,8 @@
             "Flickr images uploaded by Flickr upload bot",
             "Ninh Hoa",
             "Taken with Panasonic Lumix DMC-FZ7"
-          ]
+          ],
+          "smallPath": "_m/w/6/j/t/nha-trang-wk/hero-small.webp"
         },
         {
           "path": "_m/w/6/j/t/nha-trang-wk/une-plage-nha-trang.jpg",
@@ -588,7 +593,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/w/6/j/t/nha-trang-wk/une-plage-nha-trang-medium.webp",
+          "smallPath": "_m/w/6/j/t/nha-trang-wk/une-plage-nha-trang-small.webp"
         },
         {
           "path": "_m/w/6/j/t/nha-trang-wk/la-rue-tran-phu-avec-l.jpg",
@@ -612,7 +619,9 @@
             "Self-published work",
             "Streets in Vietnam",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/w/6/j/t/nha-trang-wk/la-rue-tran-phu-avec-l-medium.webp",
+          "smallPath": "_m/w/6/j/t/nha-trang-wk/la-rue-tran-phu-avec-l-small.webp"
         },
         {
           "path": "_m/w/6/j/t/nha-trang-wk/nha-trang.jpg",
@@ -632,7 +641,8 @@
             "CC-BY-SA-2.0",
             "Flickr images uploaded by Flickr upload bot",
             "Night in Nha Trang"
-          ]
+          ],
+          "smallPath": "_m/w/6/j/t/nha-trang-wk/nha-trang-small.webp"
         },
         {
           "path": "_m/w/6/j/t/nha-trang-wk/vin-pearl-water-park-n.jpg",
@@ -647,7 +657,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vinpearl_waterpark.jpg",
           "sourceType": "poi",
           "sourceArticleId": "nha-trang-wk",
-          "sourceGeohash4": "w6jt"
+          "sourceGeohash4": "w6jt",
+          "smallPath": "_m/w/6/j/t/nha-trang-wk/vin-pearl-water-park-n-small.webp"
         },
         {
           "path": "_m/w/6/j/t/nha-trang-wk/terminal-2-cam-ranh-in.jpg",
@@ -662,7 +673,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cam_Ranh_International_Airport_Terminal_2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "nha-trang-wk",
-          "sourceGeohash4": "w6jt"
+          "sourceGeohash4": "w6jt",
+          "smallPath": "_m/w/6/j/t/nha-trang-wk/terminal-2-cam-ranh-in-small.webp"
         }
       ],
       "videos": [

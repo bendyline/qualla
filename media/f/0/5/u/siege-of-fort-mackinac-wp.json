@@ -3,31 +3,18 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/f/0/5/u/siege-of-fort-mackinac-wp/hero.jpg",
-        "filename": "Fort Mackinack.jpg",
-        "caption": "Fort Mackinack",
-        "alt": "Fort Mackinack",
-        "width": 5312,
-        "height": 2988,
-        "mimeType": "image/jpeg",
+        "path": "_m/f/0/5/u/fort-mackinac-wp/btlmackinac.jpg",
+        "filename": "BtlMackinac.jpeg",
+        "width": 2387,
+        "height": 1614,
         "license": "Public domain",
-        "artist": "Benson Lossing",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Mackinack.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "siege-of-fort-mackinac-wp",
-        "sourceGeohash4": "f05u",
-        "accessedAt": "2026-02-28T10:32:41.039Z",
-        "categories": [
-          "Fort Mackinac",
-          "PD-US missing SDC copyright status",
-          "PD US",
-          "Taken with Samsung Galaxy S5 Active",
-          "The Pictorial Field Book of the War of 1812"
-        ]
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BtlMackinac.jpeg",
+        "mediumPath": "_m/f/0/5/u/fort-mackinac-wp/btlmackinac-medium.webp",
+        "smallPath": "_m/f/0/5/u/fort-mackinac-wp/btlmackinac-small.webp"
       },
       "images": [
         {
-          "path": "_m/f/0/5/u/siege-of-fort-mackinac-wp/btlmackinac.jpg",
+          "path": "_m/f/0/5/u/fort-mackinac-wp/btlmackinac.jpg",
           "filename": "BtlMackinac.jpeg",
           "alt": "BtlMackinac.jpeg",
           "width": 2387,
@@ -47,7 +34,9 @@
             "Michigan in the 1870s",
             "PD US Army",
             "Paintings of U.S. Army forts by Seth Eastman"
-          ]
+          ],
+          "mediumPath": "_m/f/0/5/u/fort-mackinac-wp/btlmackinac-medium.webp",
+          "smallPath": "_m/f/0/5/u/fort-mackinac-wp/btlmackinac-small.webp"
         },
         {
           "path": "_m/f/0/5/u/mackinac-island-wk/grand-hotel-mackinac-i.jpg",
@@ -69,7 +58,8 @@
             "Files with coordinates missing SDC location of creation",
             "Grand Hotel (Michigan)",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/f/0/5/u/mackinac-island-wk/grand-hotel-mackinac-i-small.webp"
         },
         {
           "path": "_m/f/0/5/u/mackinac-island-wk/view-grand-hotel-ferry.jpg",
@@ -91,7 +81,8 @@
             "Self-published work",
             "Taken with Pentax K100D Super",
             "Views of Grand Hotel (Michigan) from Lake Huron"
-          ]
+          ],
+          "smallPath": "_m/f/0/5/u/mackinac-island-wk/view-grand-hotel-ferry-small.webp"
         },
         {
           "path": "_m/f/0/5/u/mackinac-island-wk/hero.jpg",
@@ -116,7 +107,9 @@
             "Mackinac Island, Michigan",
             "Self-published work",
             "Tourism in Michigan"
-          ]
+          ],
+          "mediumPath": "_m/f/0/5/u/mackinac-island-wk/hero-medium.webp",
+          "smallPath": "_m/f/0/5/u/mackinac-island-wk/hero-small.webp"
         },
         {
           "path": "_m/f/0/5/u/mackinac-island-wk/mission-point-resort-m.jpg",
@@ -137,7 +130,9 @@
             "Buildings in Mackinac Island, Michigan",
             "CC-BY-SA-4.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/f/0/5/u/mackinac-island-wk/mission-point-resort-m-medium.webp",
+          "smallPath": "_m/f/0/5/u/mackinac-island-wk/mission-point-resort-m-small.webp"
         }
       ],
       "narration": [

@@ -3,28 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/u/g/cumnock-wp/hero.jpg",
-        "filename": "Cumnock town centre, Scotland.jpg",
-        "caption": "Glaisnock Street, Cumnock",
-        "alt": "Glaisnock Street, Cumnock",
-        "width": 1920,
-        "height": 1280,
+        "path": "_m/g/c/u/g/cumnock-wp/cumnock-war-memorial.jpg",
+        "filename": "Cumnock War Memorial - geograph.org.uk - 3745978.jpg",
+        "caption": "Cumnock War Memorial",
+        "alt": "Cumnock War Memorial",
+        "width": 3456,
+        "height": 5184,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 2.0",
-        "artist": "Billy McCrorie",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cumnock_town_centre,_Scotland.jpg",
+        "artist": "Leslie Barrie",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cumnock_War_Memorial_-_geograph.org.uk_-_3745978.jpg",
         "sourceType": "core",
         "sourceArticleId": "cumnock-wp",
         "sourceGeohash4": "gcug",
         "categories": [
           "CC-BY-SA-2.0",
-          "Cumnock",
-          "East Ayrshire",
-          "Images by Billy McCrorie",
           "Images from Geograph Britain and Ireland",
-          "Information field template with formatting",
-          "United Kingdom photographs taken on 2014-08-07"
-        ]
+          "Old Cumnock (civil parish)"
+        ],
+        "mediumPath": "_m/g/c/u/g/cumnock-wp/cumnock-war-memorial-medium.webp",
+        "smallPath": "_m/g/c/u/g/cumnock-wp/cumnock-war-memorial-small.webp"
       },
       "images": [
         {
@@ -219,7 +217,7 @@
           "smallPath": "_m/g/c/u/g/cumnock-wp/east-ayrshire-community-hospit-small.webp"
         },
         {
-          "path": "_m/g/c/u/g/cumnock-wp/map-of-auchinleck-and-cumnock-.jpg",
+          "path": "_m/g/c/u/g/auchinleck-wp/map-of-auchinleck-and-cumnock-.jpg",
           "filename": "Map of Auchinleck and Cumnock, Circa 1811.jpg",
           "caption": "A map of the area around Cumnock &amp; Auchinleck, Circa 1811. Ayrshire, Scotland",
           "alt": "A map of the area around Cumnock &amp; Auchinleck, Circa 1811. Ayrshire, Scotland",
@@ -241,7 +239,8 @@
             "Old maps of Ayrshire",
             "PD-old missing SDC copyright status",
             "Terringzean Castle"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/g/auchinleck-wp/map-of-auchinleck-and-cumnock--small.webp"
         },
         {
           "path": "_m/g/c/u/g/cumnock-wp/bridge-over-the-rose-burn-geog.jpg",
@@ -545,7 +544,9 @@
             "Scotland photographs taken on 2006-07-28",
             "Self-published work",
             "Taken with Vivitar ViviCam 3760"
-          ]
+          ],
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/dean-castle-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/dean-castle-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/dpp-00226.jpg",
@@ -567,7 +568,8 @@
             "Scotland photographs taken on 2011-01-07",
             "Self-published work",
             "Taken with Canon EOS 500D"
-          ]
+          ],
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/dpp-00226-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/kirktonhall-house.jpg",
@@ -582,7 +584,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kirktonhall_House.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-ayrshire",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/kirktonhall-house-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/kirktonhall-house-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/eglinton-street-irvine.jpg",
@@ -597,7 +601,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eglinton_Street,_Irvine.JPG",
           "sourceType": "poi",
           "sourceArticleId": "south-ayrshire",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/eglinton-street-irvine-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/eglinton-street-irvine-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/culzean-castle-house-and-garde.jpg",
@@ -612,7 +618,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Culzean_Castle_house_and_gardens_02.JPG",
           "sourceType": "poi",
           "sourceArticleId": "south-ayrshire",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/culzean-castle-house-and-garde-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/culzean-castle-house-and-garde-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/burns-cottage-alloway.jpg",
@@ -627,7 +635,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burns_Cottage_-_Alloway.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-ayrshire",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/burns-cottage-alloway-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/burns-cottage-alloway-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/ayrshire-banner-culzean-castle.jpg",
@@ -642,7 +652,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ayrshire_banner_Culzean_Castle.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-ayrshire",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/ayrshire-banner-culzean-castle-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/ayrshire-banner-culzean-castle-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/garrison-house-millport-cumbra.jpg",
@@ -657,7 +669,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garrison_House,_Millport,_Cumbrae,_Scotland_05.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-ayrshire",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/garrison-house-millport-cumbra-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/garrison-house-millport-cumbra-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/ailsa-craig-scotland-2022.jpg",
@@ -672,7 +686,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ailsa_Craig_Scotland_2022.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-ayrshire",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/ailsa-craig-scotland-2022-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/ailsa-craig-scotland-2022-small.webp"
         }
       ],
       "narration": [

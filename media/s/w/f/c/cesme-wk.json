@@ -3,35 +3,37 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/w/f/c/cesme-wk/hero.jpg",
-        "filename": "Çeşme Kalesi, İzmir, 2020 07.jpg",
-        "caption": "Çeşme Kalesi, İzmir, 2020",
-        "alt": "Çeşme Kalesi, İzmir, 2020",
-        "width": 2736,
-        "height": 3648,
+        "path": "_m/s/w/f/c/cesme-wk/archon-apollinus-mhnt-cut-2013-1.jpg",
+        "filename": "Archon apollinus MHNT CUT 2013 3 7 male ventre Turquie.jpg",
+        "caption": "False Apollo. △ Ventral side.",
+        "alt": "False Apollo. △ Ventral side.",
+        "width": 4167,
+        "height": 3162,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Gargarapalvin",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%87e%C5%9Fme_Kalesi,_%C4%B0zmir,_2020_07.jpg",
-        "sourceType": "core",
+        "artist": "Didier Descouens",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Archon_apollinus_MHNT_CUT_2013_3_7_male_ventre_Turquie.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "cesme-wk",
         "sourceGeohash4": "swfc",
         "categories": [
-          "2020 in İzmir",
+          "Archon apollinus specimens",
           "CC-BY-SA-4.0",
-          "Castles in Turkey photographed in 2020",
-          "Museums in Turkey photographed in 2020",
-          "Photographs taken by User:Görkem Yavuz in 2020",
-          "Self-published work",
-          "Taken with Huawei P20 Pro",
-          "Turkey photographs taken on 2020-09-06",
-          "Çeşme Castle",
-          "Çeşme Castle photographs taken by User:Gargarapalvin"
-        ]
+          "Files with coordinates missing SDC location of creation",
+          "France photographs taken on 2014-10-08",
+          "Images by Archaeodontosaurus mounted Papilionidae",
+          "Lepidoptera on black background",
+          "Media supported by Wikimedia France",
+          "Muséum de Toulouse collection of Lepidoptera",
+          "Papilionidae of Turkey",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/s/w/f/c/cesme-wk/archon-apollinus-mhnt-cut-2013-1-medium.webp",
+        "smallPath": "_m/s/w/f/c/cesme-wk/archon-apollinus-mhnt-cut-2013-1-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/w/f/c/cesme-wk/turkish-town-cesme.jpg",
+          "path": "_m/tpc/ce/sm/e_/__/cesme/turkish-town-cesme.jpg",
           "filename": "Turkish.town.cesme.jpg",
           "caption": "Cesme, Izmir, Turchia",
           "alt": "Cesme, Izmir, Turchia",
@@ -49,10 +51,10 @@
             "Self-published work",
             "Çeşme Castle"
           ],
-          "smallPath": "_m/s/w/f/c/cesme-wk/turkish-town-cesme-small.webp"
+          "smallPath": "_m/tpc/ce/sm/e_/__/cesme/turkish-town-cesme-small.webp"
         },
         {
-          "path": "_m/s/w/f/c/cesme-wk/ayios-harambolos-kirche-cesme.jpg",
+          "path": "_m/tpc/ce/sm/e_/__/cesme/ayios-harambolos-kirche-cesme.jpg",
           "filename": "Ayios Harambolos Kirche Cesme.JPG",
           "caption": "Ayios Harambolos Kirche Cesme",
           "alt": "Ayios Harambolos Kirche Cesme",
@@ -75,7 +77,7 @@
             "Taken with Nikon D80",
             "Turkey photographs taken on 2011-01-25"
           ],
-          "smallPath": "_m/s/w/f/c/cesme-wk/ayios-harambolos-kirche-cesme-small.webp"
+          "smallPath": "_m/tpc/ce/sm/e_/__/cesme/ayios-harambolos-kirche-cesme-small.webp"
         },
         {
           "path": "_m/s/w/f/c/cesme-wk/autobahnkreuz-cesme-2.jpg",
@@ -369,7 +371,8 @@
             "Maps of districts of İzmir Province",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/w/g/6/izmir-wp/izmir-districts-small.webp"
         },
         {
           "path": "_m/s/w/f/c/alacat-wk/cesme-streets.jpg",
@@ -392,7 +395,8 @@
             "Self-published work",
             "Taken with Sony DSC-W90",
             "Turkey photographs taken on 2008-08-21"
-          ]
+          ],
+          "smallPath": "_m/s/w/f/c/alacat-wk/cesme-streets-small.webp"
         },
         {
           "path": "_m/s/w/g/6/izmir-wp/nuts-map-of-turkey.png",
@@ -417,7 +421,8 @@
             "NUTS maps of Turkey",
             "Self-published work",
             "Vector version available"
-          ]
+          ],
+          "smallPath": "_m/s/w/g/6/izmir-wp/nuts-map-of-turkey-small.webp"
         },
         {
           "path": "_m/tpc/ce/sm/e_/__/cesme/alacati3.jpg",
@@ -443,7 +448,9 @@
             "Self-published work",
             "Taken with Nikon D60",
             "Turkey photographs taken on 2012-07-27"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ce/sm/e_/__/cesme/alacati3-medium.webp",
+          "smallPath": "_m/tpc/ce/sm/e_/__/cesme/alacati3-small.webp"
         },
         {
           "path": "_m/tpc/ce/sm/e_/__/cesme/cesme-marina.jpg",
@@ -463,7 +470,9 @@
             "CC-BY-SA-4.0",
             "Self-published work",
             "Çeşme Marina"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ce/sm/e_/__/cesme/cesme-marina-medium.webp",
+          "smallPath": "_m/tpc/ce/sm/e_/__/cesme/cesme-marina-small.webp"
         },
         {
           "path": "_m/s/w/f/d/chios-wp/mestaxiou1.jpg",
@@ -484,7 +493,8 @@
             "PD-self",
             "Self-published work",
             "Streets in Chios"
-          ]
+          ],
+          "smallPath": "_m/s/w/f/d/chios-wp/mestaxiou1-small.webp"
         },
         {
           "path": "_m/s/w/f/d/chios-wp/nea-moni-buildings.jpg",
@@ -508,7 +518,9 @@
             "Photographs by Maarten Sepp",
             "Self-published work",
             "Taken with Canon Digital IXUS 60"
-          ]
+          ],
+          "mediumPath": "_m/s/w/f/d/chios-wp/nea-moni-buildings-medium.webp",
+          "smallPath": "_m/s/w/f/d/chios-wp/nea-moni-buildings-small.webp"
         },
         {
           "path": "_m/s/x/k/9/ottoman-empire-wk/chios-town.jpg",
@@ -530,7 +542,9 @@
             "License migration redundant",
             "Self-published work",
             "Views of Chios town"
-          ]
+          ],
+          "mediumPath": "_m/s/x/k/9/ottoman-empire-wk/chios-town-medium.webp",
+          "smallPath": "_m/s/x/k/9/ottoman-empire-wk/chios-town-small.webp"
         },
         {
           "path": "_m/s/w/f/d/chios-wp/gios-anavatos-2005.jpg",
@@ -551,7 +565,9 @@
             "CC-BY-SA-4.0",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/w/f/d/chios-wp/gios-anavatos-2005-medium.webp",
+          "smallPath": "_m/s/w/f/d/chios-wp/gios-anavatos-2005-small.webp"
         },
         {
           "path": "_m/s/w/f/c/alacat-wk/alacati-wv-banner.jpg",
@@ -573,7 +589,9 @@
             "Extracted images",
             "Wikivoyage banners by Missvain",
             "Wikivoyage banners of Turkey"
-          ]
+          ],
+          "mediumPath": "_m/s/w/f/c/alacat-wk/alacati-wv-banner-medium.webp",
+          "smallPath": "_m/s/w/f/c/alacat-wk/alacati-wv-banner-small.webp"
         },
         {
           "path": "_m/s/w/f/c/alacat-wk/alacat-degirmenler-03.jpg",
@@ -595,7 +613,9 @@
             "Self-published work",
             "Turkey photographs taken on 2022-08-22",
             "Windmills in Turkey"
-          ]
+          ],
+          "mediumPath": "_m/s/w/f/c/alacat-wk/alacat-degirmenler-03-medium.webp",
+          "smallPath": "_m/s/w/f/c/alacat-wk/alacat-degirmenler-03-small.webp"
         }
       ],
       "narration": [

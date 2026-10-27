@@ -46,7 +46,7 @@ Located at 52.4331 N, 13.1656 E on the western shore of the Grosser Wannsee in B
 
 ## Sources
 
-- [Wannsee Conference - Wikipedia](https://en.wikipedia.org/wiki/Wannsee_Conference)
+- [Wannsee Conference - Wikipedia](https://en.wikipedia.org/?curid=33862)
   - Held 20 January 1942 at Am Grossen Wannsee 56-58; lasted about ninety minutes; cognac served near the end
   - Fifteen officials attended; half under forty, only two over fifty; ten university-educated, eight with doctorates, eight lawyers
   - Heydrich called the conference as chief of the Reich Security Main Office; Hitler, Himmler and Goebbels were not present
@@ -70,7 +70,7 @@ Located at 52.4331 N, 13.1656 E on the western shore of the Grosser Wannsee in B
   - Several participants were never prosecuted
 - [Josef Bühler - Wikipedia](https://en.wikipedia.org/wiki/Josef_B%C3%BChler)
   - confirmed trial before the Supreme National Tribunal in Poland (opened 17 June 1948) and execution by hanging on 22 August 1948 at Montelupich Prison, Kraków
-- [Wannsee Conference - Wikipedia (re-check)](https://en.wikipedia.org/wiki/Wannsee_Conference)
+- [Wannsee Conference - Wikipedia (re-check)](https://en.wikipedia.org/?curid=33862)
   - re-confirmed ~11 million European Jews on Eichmann's table, Estonia listed judenfrei after murder of its remaining ~4,500 Jews by end of 1941, 20 January 1942 date and ~90-minute duration, 15 attendees with stated age/education breakdown, copy 16 found by Robert Kempner March 1947
 
 ## Review Notes

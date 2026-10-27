@@ -3,30 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/v/y/arthur-s-seat-wp/hero.jpg",
-        "filename": "Arthurs seat summit panorama.jpg",
-        "caption": "360 degree panorama taken from the summit of Arthur's Seat in Holyrood Park, Edinburgh, UK. Edinburgh Castle is visible in the distance.",
-        "alt": "360 degree panorama taken from the summit of Arthur's Seat in Holyrood Park, Edinburgh, UK. Edinburgh Castle is visible in the distance.",
-        "width": 16773,
-        "height": 1697,
+        "path": "_m/g/c/v/y/arthur-s-seat-wp/arthur-s-seat-edinburgh-scotla.jpg",
+        "filename": "Arthur's Seat, Edinburgh, Scotland, GB, IMG 3677 edit.jpg",
+        "caption": "Arthur's Seat as seen from Calton Hill.",
+        "alt": "Arthur's Seat as seen from Calton Hill.",
+        "width": 5616,
+        "height": 3744,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "Tyler Brenot",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arthurs_seat_summit_panorama.jpg",
-        "sourceType": "core",
+        "license": "CC0",
+        "artist": "Christoph Braun",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arthur%27s_Seat,_Edinburgh,_Scotland,_GB,_IMG_3677_edit.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "arthur-s-seat-wp",
         "sourceGeohash4": "gcvy",
         "categories": [
-          "CC-BY-3.0",
-          "Holyrood Park",
-          "Landscapes of Edinburgh",
+          "Arthur's Seat",
+          "CC-Zero",
+          "Edinburgh Photography Workshop 2012",
+          "Files by Christoph Braun",
           "Self-published work",
-          "Taken with Canon PowerShot S3 IS"
-        ]
+          "Taken with Canon EOS 5D Mark II"
+        ],
+        "mediumPath": "_m/g/c/v/y/arthur-s-seat-wp/arthur-s-seat-edinburgh-scotla-medium.webp",
+        "smallPath": "_m/g/c/v/y/arthur-s-seat-wp/arthur-s-seat-edinburgh-scotla-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/v/y/arthur-s-seat-wp/scotland-relief-location-map.jpg",
+          "path": "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map.jpg",
           "filename": "Scotland relief location map.jpg",
           "caption": "Location map of Scotland, United Kingdom",
           "alt": "Location map of Scotland, United Kingdom",
@@ -49,7 +52,8 @@
             "Self-published work",
             "Topographic maps of Scotland",
             "Uploaded with derivativeFX"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map-small.webp"
         },
         {
           "path": "_m/g/c/v/y/arthur-s-seat-wp/some-miniature-coffins.jpg",
@@ -98,7 +102,7 @@
           "smallPath": "_m/g/c/v/y/arthur-s-seat-wp/seen-mercat-cross-edin-small.webp"
         },
         {
-          "path": "_m/g/c/v/y/arthur-s-seat-wp/relief-map-edinburgh-u.jpg",
+          "path": "_m/g/c/v/t/pentland-hills-wp/relief-map-edinburgh-u.jpg",
           "filename": "Edinburgh UK relief location map.jpg",
           "caption": "Relief map of Edinburgh, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 175%\nGeographic limits:\n\nWest: 3.47W\nEast: 3.05W\nNorth: 56.05N\nSouth: 55.80N",
           "alt": "Relief map of Edinburgh, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 175%\nGeographic limits:\n\nWest: 3.47W\nEast: 3.05W\nNorth: 56.05N\nSouth: 55.80N",
@@ -117,7 +121,9 @@
             "Maps of Edinburgh",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/t/pentland-hills-wp/relief-map-edinburgh-u-medium.webp",
+          "smallPath": "_m/g/c/v/t/pentland-hills-wp/relief-map-edinburgh-u-small.webp"
         },
         {
           "path": "_m/g/c/v/y/arthur-s-seat-wp/arthur-s-seat-edinburg.jpg",
@@ -141,7 +147,7 @@
           "smallPath": "_m/g/c/v/y/arthur-s-seat-wp/arthur-s-seat-edinburg-small.webp"
         },
         {
-          "path": "_m/g/c/v/y/arthur-s-seat-wp/arthur-s-seat-edinburgh.jpg",
+          "path": "_m/g/c/v/w/edinburgh-old-town-wk/arthur-s-seat-edinburgh.jpg",
           "filename": "Arthur's Seat, Edinburgh.JPG",
           "caption": "Arthur's Seat, Edinburgh, February 2012",
           "alt": "Arthur's Seat, Edinburgh, February 2012",
@@ -161,7 +167,9 @@
             "Lion's Head (Edinburgh)",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FS10"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/w/edinburgh-old-town-wk/arthur-s-seat-edinburgh-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-old-town-wk/arthur-s-seat-edinburgh-small.webp"
         },
         {
           "path": "_m/g/c/v/y/arthur-s-seat-wp/arthur-s-seat-left-see.jpg",
@@ -600,7 +608,9 @@
             "GFDL",
             "License migration completed",
             "Taken with Sony DSC-P92"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/w/edinburgh-wk/hero-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-wk/hero-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wk/edinburgh-royal-mile01.jpg",
@@ -624,7 +634,8 @@
             "Media missing infobox template",
             "Taken with Panasonic Lumix DMC-FZ10",
             "The Hub, Edinburgh"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/edinburgh-wk/edinburgh-royal-mile01-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wk/turnhouse-edinburgh-ai.jpg",
@@ -655,7 +666,9 @@
             "Scotland photographs taken on 2010-08-20",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ50"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/w/edinburgh-wk/turnhouse-edinburgh-ai-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-wk/turnhouse-edinburgh-ai-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wk/high-street-edinburgh.jpg",
@@ -677,7 +690,9 @@
             "Scotland photographs taken on 2009-08-29",
             "Self-published work",
             "Taken with Nikon D700"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/w/edinburgh-wk/high-street-edinburgh-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-wk/high-street-edinburgh-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wk/edinburgh-rock-hard-br.jpg",
@@ -697,7 +712,9 @@
             "Edinburgh rock",
             "PD-user",
             "Taken with Panasonic Lumix DMC-FS15"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/w/edinburgh-wk/edinburgh-rock-hard-br-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-wk/edinburgh-rock-hard-br-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wk/edinburgh-bus-station.jpg",
@@ -726,7 +743,9 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FS10",
             "Wright Eclipse Urban on Volvo B7RLE buses in the United Kingdom"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/w/edinburgh-wk/edinburgh-bus-station-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-wk/edinburgh-bus-station-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wk/entrance-edinburgh-cas.jpg",
@@ -741,7 +760,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_to_Edinburgh_Castle.JPG",
           "sourceType": "poi",
           "sourceArticleId": "edinburgh-wk",
-          "sourceGeohash4": "gcvw"
+          "sourceGeohash4": "gcvw",
+          "mediumPath": "_m/g/c/v/w/edinburgh-wk/entrance-edinburgh-cas-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-wk/entrance-edinburgh-cas-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wk/edinburgh-military-tat.jpg",
@@ -756,7 +777,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Tattoo_2010_(4946272332).jpg",
           "sourceType": "poi",
           "sourceArticleId": "edinburgh-wk",
-          "sourceGeohash4": "gcvw"
+          "sourceGeohash4": "gcvw",
+          "mediumPath": "_m/g/c/v/w/edinburgh-wk/edinburgh-military-tat-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-wk/edinburgh-military-tat-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wk/craigmillar-castle-dov.jpg",
@@ -771,7 +794,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Craigmillar_Castle_15.JPG",
           "sourceType": "poi",
           "sourceArticleId": "edinburgh-wk",
-          "sourceGeohash4": "gcvw"
+          "sourceGeohash4": "gcvw",
+          "mediumPath": "_m/g/c/v/w/edinburgh-wk/craigmillar-castle-dov-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-wk/craigmillar-castle-dov-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wk/img_4003.jpg",
@@ -786,7 +811,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_img_4003_(3656536681).jpg",
           "sourceType": "poi",
           "sourceArticleId": "edinburgh-wk",
-          "sourceGeohash4": "gcvw"
+          "sourceGeohash4": "gcvw",
+          "mediumPath": "_m/g/c/v/w/edinburgh-wk/img_4003-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-wk/img_4003-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wk/calton-hill.jpg",
@@ -801,7 +828,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calton_Hill_20140318.jpg",
           "sourceType": "poi",
           "sourceArticleId": "edinburgh-wk",
-          "sourceGeohash4": "gcvw"
+          "sourceGeohash4": "gcvw",
+          "mediumPath": "_m/g/c/v/w/edinburgh-wk/calton-hill-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-wk/calton-hill-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wk/communications-complex.jpg",
@@ -816,7 +845,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Communications_complex_on_Blackford_Hill_-_geograph.org.uk_-_3518140.jpg",
           "sourceType": "poi",
           "sourceArticleId": "edinburgh-wk",
-          "sourceGeohash4": "gcvw"
+          "sourceGeohash4": "gcvw",
+          "smallPath": "_m/g/c/v/w/edinburgh-wk/communications-complex-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wk/edinburgh-waverley-rai.jpg",
@@ -831,7 +861,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Waverley_railway_station_-_aerial_-_2025-04-19_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "edinburgh-wk",
-          "sourceGeohash4": "gcvw"
+          "sourceGeohash4": "gcvw",
+          "mediumPath": "_m/g/c/v/w/edinburgh-wk/edinburgh-waverley-rai-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-wk/edinburgh-waverley-rai-small.webp"
         }
       ],
       "videos": [

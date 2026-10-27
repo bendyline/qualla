@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/n/s/silbury-hill-wp/hero.jpg",
-        "filename": "SilburyHill gobeirne.jpg",
-        "caption": "Silbury Hill, Wiltshire, UK.",
-        "alt": "Silbury Hill, Wiltshire, UK.",
-        "width": 3384,
-        "height": 2220,
+        "path": "_m/g/c/n/s/silbury-hill-wp/avebury-2022-august-2.jpg",
+        "filename": "Avebury 2022 August 2.jpg",
+        "caption": "A view from the top of Silbury Hill, Avebury UNESCO World Heritage Site.",
+        "alt": "A view from the top of Silbury Hill, Avebury UNESCO World Heritage Site.",
+        "width": 6720,
+        "height": 4480,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Photograph by Greg O'Beirne",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SilburyHill_gobeirne.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Jwslubbock",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avebury_2022_August_2.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "silbury-hill-wp",
         "sourceGeohash4": "gcns",
-        "categories": [
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "Clouds and blue sky in England",
-          "Files by gobeirne",
-          "Files with coordinates missing SDC location of creation (51° N, 2° W)",
-          "GFDL",
-          "License migration redundant",
-          "Self-published work",
-          "Silbury Hill"
-        ]
+        "mediumPath": "_m/g/c/n/s/silbury-hill-wp/avebury-2022-august-2-medium.webp",
+        "smallPath": "_m/g/c/n/s/silbury-hill-wp/avebury-2022-august-2-small.webp"
       },
       "images": [
         {
@@ -70,7 +62,7 @@
           "smallPath": "_m/g/c/n/s/silbury-hill-wp/marden-bridge-simple-b-small.webp"
         },
         {
-          "path": "_m/g/c/n/s/silbury-hill-wp/england-relief-location-map.jpg",
+          "path": "_m/g/c/p/v/london-wp/england-relief-location-map.jpg",
           "filename": "England relief location map.jpg",
           "caption": "Relief map of England, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 6.75W\nEast: 2.0E\nNorth: 56.0N\nSouth: 49.75N",
           "alt": "Relief map of England, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 6.75W\nEast: 2.0E\nNorth: 56.0N\nSouth: 49.75N",
@@ -82,7 +74,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:England_relief_location_map.jpg",
           "sourceType": "core",
           "sourceArticleId": "silbury-hill-wp",
-          "sourceGeohash4": "gcns"
+          "sourceGeohash4": "gcns",
+          "mediumPath": "_m/g/c/p/v/london-wp/england-relief-location-map-medium.webp",
+          "smallPath": "_m/g/c/p/v/london-wp/england-relief-location-map-small.webp"
         },
         {
           "path": "_m/g/c/n/s/silbury-hill-wp/photograph-prehistoric.jpg",
@@ -542,7 +536,8 @@
             "Information field template with formatting",
             "Taken with Canon PowerShot A60",
             "United Kingdom photographs taken on 2005-08-10"
-          ]
+          ],
+          "smallPath": "_m/tpc/av/eb/ur/y_/avebury/avebury-manor-01-small.webp"
         }
       ],
       "videos": [

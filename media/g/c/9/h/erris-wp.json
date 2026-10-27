@@ -3,24 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/9/h/erris-wp/hero.jpg",
-        "filename": "An Dúna.jpg",
-        "caption": "Cliffs of the North Mayo coast, Kilcommon parish Erris",
-        "alt": "Cliffs of the North Mayo coast, Kilcommon parish Erris",
-        "width": 2272,
-        "height": 1704,
+        "path": "_m/g/c/9/h/erris-wp/mayo-blanket-bog-srah.jpg",
+        "filename": "View across Mayo blanket bog from Rathmore.JPG",
+        "caption": "Mayo blanket bog Srah, North Mayo",
+        "alt": "Mayo blanket bog Srah, North Mayo",
+        "width": 3264,
+        "height": 2448,
         "mimeType": "image/jpeg",
         "license": "Public domain",
         "artist": "Comhar",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_D%C3%BAna.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_across_Mayo_blanket_bog_from_Rathmore.JPG",
         "sourceType": "core",
         "sourceArticleId": "erris-wp",
         "sourceGeohash4": "gc9h",
         "categories": [
           "Geography of County Mayo",
           "PD-self",
-          "Self-published work"
-        ]
+          "Self-published work",
+          "Taken with Fujifilm FinePix J50"
+        ],
+        "mediumPath": "_m/g/c/9/h/erris-wp/mayo-blanket-bog-srah-medium.webp",
+        "smallPath": "_m/g/c/9/h/erris-wp/mayo-blanket-bog-srah-small.webp"
       },
       "images": [
         {
@@ -71,7 +74,7 @@
           "smallPath": "_m/g/c/9/h/erris-wp/gortbrack-has-many-meg-small.webp"
         },
         {
-          "path": "_m/g/c/9/h/erris-wp/na-stacai-the-stacks-of-broadh.jpg",
+          "path": "_m/g/c/9/7/ballina-county-mayo-wp/na-stacai-the-stacks-of-broadh.jpg",
           "filename": "Na Stácaí ( The Stacks of Broadhaven).jpg",
           "caption": "Stags of Broadhaven on the North Mayo coast Kilcommon parish Erris",
           "alt": "Stags of Broadhaven on the North Mayo coast Kilcommon parish Erris",
@@ -89,7 +92,8 @@
             "Islands of County Mayo",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/7/ballina-county-mayo-wp/na-stacai-the-stacks-of-broadh-small.webp"
         },
         {
           "path": "_m/g/c/9/h/erris-wp/mayo-blanket-bog-srah.jpg",
@@ -156,7 +160,7 @@
           "smallPath": "_m/g/c/9/h/erris-wp/barony-map-mayo-erris-small.webp"
         },
         {
-          "path": "_m/g/c/9/h/erris-wp/coa-of-county-mayo.png",
+          "path": "_m/g/c/8/f/achill-island-wp/coa-of-county-mayo.png",
           "filename": "COA of County Mayo.png",
           "caption": "Digital recreation of The Coat of Arms (\"crest\") of County Mayo in the Republic of Ireland, based on the following official description:\n\"Per fess gules and argent in chief four crosses one and three the first patriarchal the others passion crosses or, in base on waves of the sea a lymphad proper, the whole within a bordure of the third charged with nine yew trees also proper, with the Crest: On a mount vert a garden rose slipped or and with the Motto: Dia is Muire linn.\"",
           "alt": "Digital recreation of The Coat of Arms (\"crest\") of County Mayo in the Republic of Ireland, based on the following official description:\n\"Per fess gules and argent in chief four crosses one and three the first patriarchal the others passion crosses or, in base on waves of the sea a lymphad proper, the whole within a bordure of the third charged with nine yew trees also proper, with the Crest: On a mount vert a garden rose slipped or and with the Motto: Dia is Muire linn.\"",
@@ -168,7 +172,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:COA_of_County_Mayo.png",
           "sourceType": "core",
           "sourceArticleId": "erris-wp",
-          "sourceGeohash4": "gc9h"
+          "sourceGeohash4": "gc9h",
+          "smallPath": "_m/g/c/8/f/achill-island-wp/coa-of-county-mayo-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/ashford-castle.jpg",
@@ -193,7 +198,8 @@
             "PD-self",
             "Photographs taken on 2006-04-19",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/ashford-castle-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/castlebar-large-view-from-abov.jpg",
@@ -213,7 +219,9 @@
             "CC-BY-SA-3.0",
             "Castlebar",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/castlebar-large-view-from-abov-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/castlebar-large-view-from-abov-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/croagh-patrick-chapel.jpg",
@@ -239,7 +247,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/croagh-patrick-chapel-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/croagh-patrick-chapel-small.webp"
         },
         {
           "path": "_m/g/c/9/6/castlebar-wp/ballintubber-abbey-eastern-ele.jpg",
@@ -254,7 +264,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballintubber_Abbey_eastern_elevation.JPG",
           "sourceType": "poi",
           "sourceArticleId": "castlebar-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "mediumPath": "_m/g/c/9/6/castlebar-wp/ballintubber-abbey-eastern-ele-medium.webp",
+          "smallPath": "_m/g/c/9/6/castlebar-wp/ballintubber-abbey-eastern-ele-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/cong-mayo-main-street-2119.jpg",
@@ -269,7 +281,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cong_Mayo_Main_street_2119.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-mayo-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/cong-mayo-main-street-2119-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/cong-mayo-main-street-2119-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/blacksod-lighthouse-geograph-4.jpg",
@@ -284,7 +298,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blacksod_Lighthouse_(geograph_4678840).jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-mayo-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/blacksod-lighthouse-geograph-4-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/ballina-st-muredach-s-cathedra.jpg",
@@ -299,7 +314,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballina_St._Muredach%27s_Cathedral_2013_09_14.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-mayo-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/ballina-st-muredach-s-cathedra-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/ballina-st-muredach-s-cathedra-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/beautiful-achill-islands-in-co.jpg",
@@ -313,7 +330,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_Achill_Islands_in_County_Mayo_of_Ireland.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-mayo-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/beautiful-achill-islands-in-co-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/beautiful-achill-islands-in-co-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/lough-doo-achill-island-co-may.jpg",
@@ -328,7 +347,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lough_Doo,_Achill_Island,_Co._Mayo_-_Banner_for_Wikivoyage.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-mayo-wp",
-          "sourceGeohash4": "gc96"
+          "sourceGeohash4": "gc96",
+          "mediumPath": "_m/g/c/9/6/county-mayo-wp/lough-doo-achill-island-co-may-medium.webp",
+          "smallPath": "_m/g/c/9/6/county-mayo-wp/lough-doo-achill-island-co-may-small.webp"
         }
       ],
       "narration": [

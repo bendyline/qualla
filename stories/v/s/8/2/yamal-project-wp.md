@@ -33,7 +33,7 @@ Located at 70.48N, 68.00E on the Yamal Peninsula, Yamalo-Nenets Autonomous Okrug
 ## Sources
 
 - [Yamal project - Wikipedia](https://en.wikipedia.org/?curid=20792505)
-- [Yamal project - Wikipedia](https://en.wikipedia.org/wiki/Yamal_project)
+- [Yamal project - Wikipedia](https://en.wikipedia.org/?curid=20792505)
   - Estimated 22 trillion cubic meters of natural gas — consistent with Gazprom's 20.4 tcm figure plus forecast reserves; range of estimates exist (16-55 tcm depending on scope)
   - Project officially inaugurated 3 December 2008 — confirmed
   - 11 gas fields and 15 oil/gas/condensate fields catalogued — confirmed

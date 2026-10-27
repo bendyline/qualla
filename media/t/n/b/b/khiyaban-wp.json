@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/t/n/b/b/khiyaban-wp/hero.jpg",
-        "filename": "Azerbaijan Museum, Tabriz, Iran, and stone lions in entrance.jpg",
-        "caption": "Azerbaijan Museum is home to ancient artifacts, some dates back centuries before Christ",
-        "alt": "Azerbaijan Museum is home to ancient artifacts, some dates back centuries before Christ",
-        "width": 1566,
-        "height": 1181,
-        "mimeType": "image/jpeg",
+        "path": "_m/t/n/b/b/tabriz-wk/amir-nezam-garosi-by-mojtaba-p.jpg",
+        "filename": "Amir Nezam Garosi By Mojtaba Pedram.jpg",
+        "caption": "This is a photo of a monument in Iran identified by the ID",
+        "alt": "This is a photo of a monument in Iran identified by the ID",
+        "width": 1772,
+        "height": 1009,
         "license": "CC BY-SA 4.0",
-        "artist": "Navid Sadighi",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Azerbaijan_Museum,_Tabriz,_Iran,_and_stone_lions_in_entrance.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "khiyaban-wp",
-        "sourceGeohash4": "tnbb",
-        "accessedAt": "2026-03-01T13:19:57.484Z",
-        "categories": [
-          "Azerbaijan Museum (Tabriz)",
-          "CC-BY-SA-4.0",
-          "Self-published work"
-        ]
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Mojtaba Pedram",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amir_Nezam_Garosi_By_Mojtaba_Pedram.jpg",
+        "smallPath": "_m/t/n/b/b/tabriz-wk/amir-nezam-garosi-by-mojtaba-p-small.webp"
       },
       "images": [
         {
-          "path": "_m/t/n/b/b/khiyaban-wp/tabriz-map-1908.jpg",
+          "path": "_m/t/n/b/b/tabriz-wp/tabriz-map-1908.jpg",
           "filename": "Tabriz Map 1908.jpg",
           "caption": "The map of Tabriz in Constitution Revolution",
           "alt": "The map of Tabriz in Constitution Revolution",
@@ -48,10 +40,12 @@
             "Tabriz Constitution Museum",
             "Tabriz in the 1900s",
             "Template Unknown (author)"
-          ]
+          ],
+          "mediumPath": "_m/t/n/b/b/tabriz-wp/tabriz-map-1908-medium.webp",
+          "smallPath": "_m/t/n/b/b/tabriz-wp/tabriz-map-1908-small.webp"
         },
         {
-          "path": "_m/t/n/b/b/khiyaban-wp/amir-nezam-garosi-by-mojtaba-p.jpg",
+          "path": "_m/t/n/b/b/tabriz-wk/amir-nezam-garosi-by-mojtaba-p.jpg",
           "filename": "Amir Nezam Garosi By Mojtaba Pedram.jpg",
           "caption": "This is a photo of a monument in Iran identified by the ID",
           "alt": "This is a photo of a monument in Iran identified by the ID",
@@ -77,7 +71,7 @@
             "Tabriz",
             "Uploaded via Campaign:wlm-ir"
           ],
-          "smallPath": "_m/t/n/b/b/khiyaban-wp/amir-nezam-garosi-by-mojtaba-p-small.webp"
+          "smallPath": "_m/t/n/b/b/tabriz-wk/amir-nezam-garosi-by-mojtaba-p-small.webp"
         }
       ],
       "narration": [
@@ -89,8 +83,9 @@
         "_m/t/n/b/b/khiyaban-wp/tnbb-khiyaban-tabrizs-revolutionary-quarter-wolf-games-and-hidden-waterways.mp3"
       ],
       "combinedNarration": "_m/t/n/b/b/khiyaban-wp/tnbb-khiyaban-combined.mp3",
-      "combinedNarrationBytes": 2762551,
-      "combinedNarrationDuration": 230
+      "combinedNarrationBytes": 2900910,
+      "combinedNarrationDuration": 230,
+      "combinedCover": "_m/t/n/b/b/khiyaban-wp/tnbb-khiyaban-combined-cover.jpg"
     }
   }
 }

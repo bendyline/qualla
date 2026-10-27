@@ -33,7 +33,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/x/4/battle-of-tadcaster-wp/relief-map-north-yorks.jpg",
+          "path": "_m/g/c/x/4/battle-of-marston-moor-wp/relief-map-north-yorks.jpg",
           "filename": "North Yorkshire UK relief location map.jpg",
           "caption": "Relief map of North Yorkshire, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 2.60W\nEast: 0.10W\nNorth: 54.67N\nSouth: 53.60N",
           "alt": "Relief map of North Yorkshire, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 2.60W\nEast: 0.10W\nNorth: 54.67N\nSouth: 53.60N",
@@ -52,7 +52,9 @@
             "Maps of North Yorkshire",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/x/4/battle-of-marston-moor-wp/relief-map-north-yorks-medium.webp",
+          "smallPath": "_m/g/c/x/4/battle-of-marston-moor-wp/relief-map-north-yorks-small.webp"
         },
         {
           "path": "_m/g/c/x/4/tadcaster-wp/silos-tower-brewery-tadcaster-.jpg",
@@ -72,7 +74,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Tadcaster"
-          ]
+          ],
+          "smallPath": "_m/g/c/x/4/tadcaster-wp/silos-tower-brewery-tadcaster--small.webp"
         }
       ],
       "narration": [

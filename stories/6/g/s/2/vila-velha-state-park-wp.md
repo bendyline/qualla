@@ -33,7 +33,7 @@ Vila Velha State Park is located at 25.24°S, 50.01°W, near the city of Ponta G
 ## Sources
 
 - [Vila Velha State Park - Wikipedia](https://en.wikipedia.org/?curid=46608029)
-- [Vila Velha State Park - Wikipedia / SIGEP](https://en.wikipedia.org/wiki/Vila_Velha_State_Park)
+- [Vila Velha State Park - Wikipedia / SIGEP](https://en.wikipedia.org/?curid=46608029)
   - Sandstone Carboniferous period ~340 million years ago confirmed
   - Iron oxide cementation giving reddish color confirmed
   - Park covers 3,803 hectares confirmed

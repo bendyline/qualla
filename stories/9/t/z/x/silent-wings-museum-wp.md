@@ -38,7 +38,7 @@ Silent Wings Museum is located at 33.658N, 101.832W on Lubbock's north side, jus
   - Carried 13 troops confirmed
   - Could carry a Jeep confirmed
   - Fabric-covered construction confirmed
-- [Wikipedia - Silent Wings Museum History](https://en.wikipedia.org/wiki/Silent_Wings_Museum)
+- [Wikipedia - Silent Wings Museum History](https://en.wikipedia.org/?curid=4739241)
   - First museum opened November 10, 1984 in Terrell, Texas confirmed
   - Glider Pilots Association first meeting 1971 in Dallas confirmed
   - Terrell site closed January 2001 confirmed

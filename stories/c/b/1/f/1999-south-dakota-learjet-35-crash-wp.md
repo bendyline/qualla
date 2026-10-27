@@ -47,7 +47,7 @@ Crash site located at 45.42N, 98.75W, approximately 8 miles southwest of Aberdee
   - One-stroke victory over Phil Mickelson confirmed
   - PGA Tour established Payne Stewart Award in 2000 confirmed
   - Stewart was 42 years old at time of death confirmed
-- [Wikipedia - 1999 South Dakota Learjet 35 crash](https://en.wikipedia.org/wiki/1999_South_Dakota_Learjet_35_crash)
+- [Wikipedia - 1999 South Dakota Learjet 35 crash](https://en.wikipedia.org/?curid=8911499)
   - Six fatalities: two pilots (Kling, Bellegarrigue) and four passengers confirmed
   - Registration N47BA, Sunjet Aviation of Sanford, Florida confirmed
   - Robert Fraley was indeed a former Alabama Crimson Tide quarterback confirmed

@@ -28,7 +28,7 @@ Only CSS General Earl Van Dorn escaped, fleeing to the Yazoo River near Vicksbur
 
 ## Flight Context
 
-Located at 35.129°N, 90.156°W on the Mississippi River immediately north of downtown Memphis, Tennessee. The battle took place on the river itself, with the Memphis bluffs providing the spectator gallery on the east bank. The river is wide and clearly visible from any altitude. Memphis International Airport (KMEM) is approximately 10 nm southeast. The downtown Memphis waterfront, including the Hernando de Soto Bridge and Mud Island, are prominent landmarks. Best viewed at 3,000-5,000 feet AGL to appreciate the river width and bluff topography that shaped both the battle and its audience.
+Located at 35.129°N, 90.156°W on the Mississippi River immediately north of downtown Memphis, Tennessee. The battle took place on the river itself, with the Memphis bluffs providing the spectator gallery on the east bank. The river is wide and clearly visible from any altitude. Frederick W. Smith International Airport (KMEM, formerly Memphis International) is approximately 10 nm southeast. The downtown Memphis waterfront, including the Hernando de Soto Bridge and Mud Island, are prominent landmarks. Best viewed at 3,000-5,000 feet AGL to appreciate the river width and bluff topography that shaped both the battle and its audience.
 
 ## Sources
 

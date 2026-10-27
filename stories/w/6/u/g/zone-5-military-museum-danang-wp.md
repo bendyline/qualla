@@ -35,6 +35,14 @@ The museum sits in central Da Nang at approximately 16.0487°N, 108.218°E, adja
 ## Sources
 
 - [Zone 5 Military Museum, Danang - Wikipedia](https://en.wikipedia.org/?curid=43669897)
+- [Zone 5 Military Museum, Danang - Wikipedia](https://en.wikipedia.org/?curid=43669897)
+  - Museum located at 3 Duy Tân Street, Da Nang
+  - MiG-21 tail number 5114 used by Nguyen Van Nghia to shoot down a US F-4 Phantom over Bac Thai in 1972
+  - Museum hours 07:30–10:30 and 13:30–16:30 daily except Monday
+  - Admission note: admission fee for foreigners varies by source (some list 40,000 VND, others 60,000 VND); story's VND 60,000 figure appears in some sources — treat as approximate
+  - Four museum sections confirmed: outdoor equipment, military museum, Ho Chi Minh house replica, Ho Chi Minh Museum
+- [Zone 5 Military Museum - Da Nang Entrance Fees (2025)](https://hoiandaytrip.com/ho-chi-minh-zone-5-military-museum-da-nang/)
+  - Museum covers Vietnamese resistance from Chinese occupation through modern Spratly/Paracel standoff
 
 ## Review Notes
 

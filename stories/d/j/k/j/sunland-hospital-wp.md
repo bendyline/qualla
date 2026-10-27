@@ -33,7 +33,7 @@ Located at 30.46°N, 84.24°W in the northeastern part of Tallahassee, Leon Coun
 ## Sources
 
 - [Sunland Hospital - Wikipedia](https://en.wikipedia.org/?curid=5656159)
-- [Sunland Hospital - Wikipedia](https://en.wikipedia.org/wiki/Sunland_Hospital)
+- [Sunland Hospital - Wikipedia](https://en.wikipedia.org/?curid=5656159)
   - W.T. Edwards came to Florida from Virginia in 1925 with Alfred I. du Pont
   - Edwards was VP of St. Joe Paper Company and first chairman of State Tuberculosis Board
   - TB hospitals opened around 1952 in Tampa, Lantana, Marianna, Tallahassee, Miami

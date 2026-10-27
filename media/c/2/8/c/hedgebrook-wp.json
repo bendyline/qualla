@@ -3,29 +3,22 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/c/2/8/c/hedgebrook-wp/hero.jpg",
-        "filename": "Hedgebrook cottage 2.jpg",
+        "path": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage1.jpg",
+        "filename": "Hedgebrook cottage1.jpg",
         "caption": "Artist's individual cottage at the Hedgebrook Artist Colony on Whidbey Island, Washington.",
         "alt": "Artist's individual cottage at the Hedgebrook Artist Colony on Whidbey Island, Washington.",
-        "width": 3648,
-        "height": 2736,
-        "mimeType": "image/jpeg",
+        "width": 2448,
+        "height": 3264,
         "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "artist": "44Columbia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hedgebrook_cottage_2.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "hedgebrook-wp",
-        "sourceGeohash4": "c28c",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Houses in Island County, Washington",
-          "Self-published work",
-          "Whidbey Island"
-        ]
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hedgebrook_cottage1.jpg",
+        "mediumPath": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage1-medium.webp",
+        "smallPath": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage1-small.webp"
       },
       "images": [
         {
-          "path": "_m/c/2/8/c/hedgebrook-wp/hedgebrook-cottage1.jpg",
+          "path": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage1.jpg",
           "filename": "Hedgebrook cottage1.jpg",
           "caption": "Artist's individual cottage at the Hedgebrook Artist Colony on Whidbey Island, Washington.",
           "alt": "Artist's individual cottage at the Hedgebrook Artist Colony on Whidbey Island, Washington.",
@@ -42,7 +35,9 @@
             "CC-BY-SA-4.0",
             "Self-published work",
             "Whidbey Island"
-          ]
+          ],
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage1-medium.webp",
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage1-small.webp"
         }
       ],
       "narration": [
@@ -54,8 +49,9 @@
         "_m/c/2/8/c/hedgebrook-wp/c28c-hedgebrook-island-silence.mp3"
       ],
       "combinedNarration": "_m/c/2/8/c/hedgebrook-wp/c28c-hedgebrook-combined.mp3",
-      "combinedNarrationBytes": 3145111,
-      "combinedNarrationDuration": 262
+      "combinedNarrationBytes": 3304105,
+      "combinedNarrationDuration": 262,
+      "combinedCover": "_m/c/2/8/c/hedgebrook-wp/c28c-hedgebrook-combined-cover.jpg"
     }
   }
 }

@@ -3,28 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/y/z/d/lucentum-wp/hero.jpg",
-        "filename": "Lucentum-Foro.jpg",
-        "caption": "Lucentum Forum",
-        "alt": "Lucentum Forum",
-        "width": 1280,
-        "height": 1024,
+        "path": "_m/e/y/z/d/lucentum-wp/base-atica-del-portic-oriental.jpg",
+        "filename": "Base àtica del pòrtic oriental del fòrum de Lucentum, MARQ.JPG",
+        "caption": "Base àtica del pòrtic oriental del fòrum de Lucentum (Tossal de Manises), fi del segle I aC. Museu Arqueològic d'Alacant.",
+        "alt": "Base àtica del pòrtic oriental del fòrum de Lucentum (Tossal de Manises), fi del segle I aC. Museu Arqueològic d'Alacant.",
+        "width": 4389,
+        "height": 3071,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Hulius",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lucentum-Foro.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "Joanbanjo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Base_%C3%A0tica_del_p%C3%B2rtic_oriental_del_f%C3%B2rum_de_Lucentum,_MARQ.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "lucentum-wp",
         "sourceGeohash4": "eyzd",
-        "categories": [
-          "Lucentum",
-          "PD-self",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/e/y/z/d/lucentum-wp/base-atica-del-portic-oriental-medium.webp",
+        "smallPath": "_m/e/y/z/d/lucentum-wp/base-atica-del-portic-oriental-small.webp"
       },
       "images": [
         {
-          "path": "_m/e/y/z/d/lucentum-wp/tossal-plantagral.jpg",
+          "path": "_m/e/y/z/d/alicante-wp/tossal-plantagral.jpg",
           "filename": "Tossal-plantagral.jpg",
           "alt": "Tossal-plantagral.jpg",
           "width": 756,
@@ -46,7 +43,8 @@
             "License migration completed",
             "Lucentum",
             "Media missing infobox template"
-          ]
+          ],
+          "smallPath": "_m/e/y/z/d/alicante-wp/tossal-plantagral-small.webp"
         },
         {
           "path": "_m/e/y/z/d/lucentum-wp/hypothetical-map-lucen.jpg",
@@ -441,7 +439,9 @@
             "Port of Alicante",
             "Self-published work",
             "Taken with HP PhotoSmart C850"
-          ]
+          ],
+          "mediumPath": "_m/e/y/z/d/alicante-wk/der-hafen-von-alicante-medium.webp",
+          "smallPath": "_m/e/y/z/d/alicante-wk/der-hafen-von-alicante-small.webp"
         },
         {
           "path": "_m/e/y/z/d/alicante-wk/esglesia-de-santa-mari.jpg",
@@ -464,7 +464,9 @@
             "Niches in the Land of Valencia",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/e/y/z/d/alicante-wk/esglesia-de-santa-mari-medium.webp",
+          "smallPath": "_m/e/y/z/d/alicante-wk/esglesia-de-santa-mari-small.webp"
         },
         {
           "path": "_m/e/y/z/d/alicante-wk/estacion-de-alicante.jpg",
@@ -488,7 +490,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Nikon Coolpix 2200"
-          ]
+          ],
+          "smallPath": "_m/e/y/z/d/alicante-wk/estacion-de-alicante-small.webp"
         },
         {
           "path": "_m/e/y/z/d/alicante-wk/alicante-trams.jpg",
@@ -515,7 +518,8 @@
             "Media missing infobox template",
             "Taken with Nikon Coolpix 3100",
             "Train station Puerta del Mar"
-          ]
+          ],
+          "smallPath": "_m/e/y/z/d/alicante-wk/alicante-trams-small.webp"
         },
         {
           "path": "_m/e/y/z/d/alicante-wk/alicante-entrance-cast.jpg",
@@ -536,7 +540,9 @@
             "Puerta de los Leones del castillo de San Fernando",
             "Self-published work",
             "Taken with Olympus C-740UZ"
-          ]
+          ],
+          "mediumPath": "_m/e/y/z/d/alicante-wk/alicante-entrance-cast-medium.webp",
+          "smallPath": "_m/e/y/z/d/alicante-wk/alicante-entrance-cast-small.webp"
         },
         {
           "path": "_m/e/y/z/d/alicante-wk/alicante-airport.jpg",
@@ -560,7 +566,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with BenQ DC X735"
-          ]
+          ],
+          "mediumPath": "_m/e/y/z/d/alicante-wk/alicante-airport-medium.webp",
+          "smallPath": "_m/e/y/z/d/alicante-wk/alicante-airport-small.webp"
         },
         {
           "path": "_m/e/y/z/d/alicante-wk/basilica-santa-maria-a.jpg",
@@ -581,7 +589,9 @@
             "Exterior of the Basilica of Santa María, Alicante",
             "Self-published work",
             "Taken with Canon Digital IXUS 105"
-          ]
+          ],
+          "mediumPath": "_m/e/y/z/d/alicante-wk/basilica-santa-maria-a-medium.webp",
+          "smallPath": "_m/e/y/z/d/alicante-wk/basilica-santa-maria-a-small.webp"
         },
         {
           "path": "_m/e/y/z/d/alicante-wk/alicante-tryp-alicante.jpg",
@@ -596,7 +606,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alicante_-_Tryp_Alicante_Gran_Sol_Hotel_08.jpg",
           "sourceType": "poi",
           "sourceArticleId": "alicante-wk",
-          "sourceGeohash4": "eyzd"
+          "sourceGeohash4": "eyzd",
+          "smallPath": "_m/e/y/z/d/alicante-wk/alicante-tryp-alicante-small.webp"
         },
         {
           "path": "_m/e/y/z/d/alicante-wk/alicante-hospes-amerig.jpg",
@@ -611,7 +622,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alicante_-_Hospes_Am%C3%A9rigo_3.jpg",
           "sourceType": "poi",
           "sourceArticleId": "alicante-wk",
-          "sourceGeohash4": "eyzd"
+          "sourceGeohash4": "eyzd",
+          "smallPath": "_m/e/y/z/d/alicante-wk/alicante-hospes-amerig-small.webp"
         },
         {
           "path": "_m/e/y/z/d/alicante-wk/alicante-hostal-les-mo.jpg",
@@ -626,7 +638,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alicante_-_Hostal_Les_Monges_Palace_2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "alicante-wk",
-          "sourceGeohash4": "eyzd"
+          "sourceGeohash4": "eyzd",
+          "smallPath": "_m/e/y/z/d/alicante-wk/alicante-hostal-les-mo-small.webp"
         },
         {
           "path": "_m/e/y/z/d/alicante-wk/hotel-melia-alicante.jpg",
@@ -641,7 +654,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alicante_-_Hotel_Meli%C3%A1_Alicante_2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "alicante-wk",
-          "sourceGeohash4": "eyzd"
+          "sourceGeohash4": "eyzd",
+          "mediumPath": "_m/e/y/z/d/alicante-wk/hotel-melia-alicante-medium.webp",
+          "smallPath": "_m/e/y/z/d/alicante-wk/hotel-melia-alicante-small.webp"
         },
         {
           "path": "_m/e/y/z/d/alicante-wk/alicante-sercotel-hote.jpg",
@@ -656,7 +671,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alicante_-_Sercotel_Hotel_Spa_Portamaris_2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "alicante-wk",
-          "sourceGeohash4": "eyzd"
+          "sourceGeohash4": "eyzd",
+          "mediumPath": "_m/e/y/z/d/alicante-wk/alicante-sercotel-hote-medium.webp",
+          "smallPath": "_m/e/y/z/d/alicante-wk/alicante-sercotel-hote-small.webp"
         },
         {
           "path": "_m/e/y/z/d/alicante-wk/estacion-de-autobuses.jpg",
@@ -671,7 +688,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alicante_-_Estaci%C3%B3n_de_Autobuses_5.jpg",
           "sourceType": "poi",
           "sourceArticleId": "alicante-wk",
-          "sourceGeohash4": "eyzd"
+          "sourceGeohash4": "eyzd",
+          "mediumPath": "_m/e/y/z/d/alicante-wk/estacion-de-autobuses-medium.webp",
+          "smallPath": "_m/e/y/z/d/alicante-wk/estacion-de-autobuses-small.webp"
         },
         {
           "path": "_m/e/y/z/d/alicante-wk/casino-mediterraneo-al.jpg",
@@ -686,7 +705,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alicante_-_Casino_Mediterr%C3%A1neo_Alicante_2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "alicante-wk",
-          "sourceGeohash4": "eyzd"
+          "sourceGeohash4": "eyzd",
+          "mediumPath": "_m/e/y/z/d/alicante-wk/casino-mediterraneo-al-medium.webp",
+          "smallPath": "_m/e/y/z/d/alicante-wk/casino-mediterraneo-al-small.webp"
         }
       ],
       "narration": [

@@ -37,7 +37,7 @@ Coordinates 50.99 N, 2.13 E - on the Channel coast 16 km southwest of Dunkirk. T
 ## Sources
 
 - [Siege of Gravelines - Wikipedia](https://en.wikipedia.org/?curid=59284222)
-- [Siege of Gravelines (1644) - Wikipedia](https://en.wikipedia.org/wiki/Siege_of_Gravelines_(1644))
+- [Siege of Gravelines (1644) - Wikipedia](https://en.wikipedia.org/?curid=59284222)
   - ~20,000 French troops arrived before Gravelines on 28 May 1644 confirmed
   - Fort Saint-Philippe fell 13 June confirmed
   - Four French assaults repulsed before establishing lodgement on outer walls 26 July confirmed

@@ -48,7 +48,7 @@ Located at 52.5783 N, 13.4056 E in Niederschönhausen, borough of Pankow, about 
 
 ## Sources
 
-- [Schönhausen Palace - Wikipedia](https://en.wikipedia.org/wiki/Sch%C3%B6nhausen_Palace)
+- [Schönhausen Palace - Wikipedia](https://en.wikipedia.org/?curid=4200595)
   - Baroque palace at Niederschönhausen in the borough of Pankow, Berlin, with gardens through which the Panke river runs; maintained by the Prussian Palaces and Gardens Foundation Berlin-Brandenburg and reopened to the public in 2009 after restoration
   - Countess Sophie Theodore of the Holland-Brederode family, wife of Christian Albert of Dohna, acquired Niederschönhausen and Pankow in 1662 and built a Dutch-style manor in 1664
   - Joachim Ernst von Grumbkow acquired it in 1680; his widow sold it in 1691 for 16,000 Thalers to Frederick III of Brandenburg, who had it remodelled by Johann Arnold Nering 1691-1693 and planned his coronation there in August 1700; enlarged in 1704, then neglected after Frederick William I's accession in 1713

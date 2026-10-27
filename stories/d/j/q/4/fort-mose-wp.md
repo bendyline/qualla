@@ -32,7 +32,7 @@ Fort Mose Historic State Park was established after those initial excavations. T
 
 ## Flight Context
 
-Fort Mose Historic State Park is located approximately 2 miles north of downtown St. Augustine, at 29.928N, 81.325W. From the air, the site appears as coastal hammock and salt marsh along tidal creeks northwest of the city. The newly constructed replica fort (completed 2025) may be visible as an earthen structure amid the marshland. The Castillo de San Marcos and downtown St. Augustine are visible to the south. The Matanzas River and Intracoastal Waterway run to the east. Nearest airports: St. Augustine Airport (KSGJ) approximately 3nm west-northwest, Jacksonville International (KJAX) 35nm north. Best viewed at 1,000-2,000 feet AGL to distinguish the park grounds from surrounding marsh.
+Fort Mose Historic State Park is located approximately 2 miles north of downtown St. Augustine, at 29.928N, 81.325W. From the air, the site appears as coastal hammock and salt marsh along tidal creeks northwest of the city. The newly constructed replica fort (completed 2025) may be visible as an earthen structure amid the marshland. The Castillo de San Marcos and downtown St. Augustine are visible to the south. The Matanzas River and Intracoastal Waterway run to the east. Nearest airports: Northeast Florida Regional Airport (KSGJ, formerly St. Augustine Airport) approximately 3nm west-northwest, Jacksonville International (KJAX) 35nm north. Best viewed at 1,000-2,000 feet AGL to distinguish the park grounds from surrounding marsh.
 
 ## Sources
 

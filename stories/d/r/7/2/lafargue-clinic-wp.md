@@ -51,7 +51,7 @@ Located at 40.81N, 73.95W in Harlem, Manhattan, near the site of St. Philip's Ep
   - Thurgood Marshall letter to Wertham confirmed
   - Clinic closed November 1, 1958 confirmed
   - Seduction of the Innocent published 1954 confirmed
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Lafargue_Clinic)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=58106050)
   - Restored an ellipsis marking an omission inside a Wertham quote.
 
 ## Review Notes

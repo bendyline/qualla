@@ -32,7 +32,7 @@ Located at 34.615°N, 135.739°E in Ikaruga, Nara Prefecture, immediately northe
 
 ## Sources
 
-- [Chuguji - Wikipedia](https://en.wikipedia.org/wiki/Ch%C5%ABg%C5%AB-ji)
+- [Chuguji - Wikipedia](https://en.wikipedia.org/?curid=31621280)
 - [Chuguji Temple - Japan Experience](https://www.japan-experience.com/all-about-japan/nara/temples-shrines/chuguji-temple)
   - Miroku Bosatsu carved from camphor wood, finished in lacquer
   - Statue compared to the Mona Lisa for its serene expression
@@ -50,7 +50,7 @@ Located at 34.615°N, 135.739°E in Ikaruga, Nara Prefecture, immediately northe
   - Oldest known example of embroidery in Japan, dating to 622 CE
   - Commissioned by Tachibana no Oiratsume after Prince Shotoku's death
   - Depicts Land of Heavenly Longevity (Tenjukoku)
-- [Chuguji - Wikipedia](https://en.wikipedia.org/wiki/Ch%C5%ABg%C5%AB-ji)
+- [Chuguji - Wikipedia](https://en.wikipedia.org/?curid=31621280)
   - 1602 imperial princess appointed as monzeki abbess confirmed
   - One of three nunneries in Yamato Province with imperial princesses confirmed
   - Name means Middle Palace Temple, between Ashigamiya and Okamotomiya palaces

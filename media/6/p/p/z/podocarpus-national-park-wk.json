@@ -3,32 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/p/p/z/podocarpus-national-park-wk/hero.jpg",
-        "filename": "Parque Nacional Podocarpus banner.jpg",
-        "caption": "Podocarpus National Park",
-        "alt": "Podocarpus National Park",
-        "width": 3917,
-        "height": 560,
+        "path": "_m/6/p/p/z/podocarpus-national-park-wk/podocarpus-ecuador214.jpg",
+        "filename": "Podocarpus Ecuador214.JPG",
+        "caption": "Im Podocarpus National Park",
+        "alt": "Im Podocarpus National Park",
+        "width": 5808,
+        "height": 848,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
         "artist": "Arabsalam",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Podocarpus_banner.jpg",
-        "sourceType": "core",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Podocarpus_Ecuador214.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "podocarpus-national-park-wk",
         "sourceGeohash4": "6ppz",
-        "categories": [
-          "Ambiguous location in EXIF",
-          "CC-BY-SA-4.0",
-          "Extracted images",
-          "Podocarpus National Park",
-          "Self-published work",
-          "Taken with Panasonic Lumix DMC-TZ61",
-          "Wikivoyage banners of Ecuador"
-        ]
+        "mediumPath": "_m/6/p/p/z/podocarpus-national-park-wk/podocarpus-ecuador214-medium.webp",
+        "smallPath": "_m/6/p/p/z/podocarpus-national-park-wk/podocarpus-ecuador214-small.webp"
       },
       "images": [
         {
-          "path": "_m/6/p/p/z/podocarpus-national-park-wk/laguna-del-compadre.jpg",
+          "path": "_m/6/p/p/z/podocarpus-national-park-wp/laguna-del-compadre.jpg",
           "filename": "Laguna del Compadre.jpg",
           "caption": "Foto Laguna del Compadre",
           "alt": "Foto Laguna del Compadre",
@@ -48,8 +41,8 @@
             "Self-published work",
             "Zamora Canton"
           ],
-          "mediumPath": "_m/6/p/p/z/podocarpus-national-park-wk/laguna-del-compadre-medium.webp",
-          "smallPath": "_m/6/p/p/z/podocarpus-national-park-wk/laguna-del-compadre-small.webp"
+          "mediumPath": "_m/6/p/p/z/podocarpus-national-park-wp/laguna-del-compadre-medium.webp",
+          "smallPath": "_m/6/p/p/z/podocarpus-national-park-wp/laguna-del-compadre-small.webp"
         },
         {
           "path": "_m/6/p/p/z/podocarpus-national-park-wk/bosquebombus.jpg",
@@ -387,7 +380,9 @@
             "Streambed boulders in Ecuador",
             "Taken with Sony DSC-S500",
             "Zamora (Ecuador)"
-          ]
+          ],
+          "mediumPath": "_m/6/p/r/b/zamora-ecuador-wp/rio-zamora-medium.webp",
+          "smallPath": "_m/6/p/r/b/zamora-ecuador-wp/rio-zamora-small.webp"
         },
         {
           "path": "_m/6/p/r/b/zamora-ecuador-wp/zamora-ecuador-banner.jpg",
@@ -408,7 +403,9 @@
             "Extracted images",
             "Self-published work",
             "Wikivoyage banners of Ecuador"
-          ]
+          ],
+          "mediumPath": "_m/6/p/r/b/zamora-ecuador-wp/zamora-ecuador-banner-medium.webp",
+          "smallPath": "_m/6/p/r/b/zamora-ecuador-wp/zamora-ecuador-banner-small.webp"
         }
       ],
       "narration": [

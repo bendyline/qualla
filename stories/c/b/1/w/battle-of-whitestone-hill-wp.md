@@ -46,7 +46,7 @@ Located at 46.17N, 98.86W in Dickey County, North Dakota. The terrain is flat to
   - 6th Iowa Cavalry and 2nd Nebraska Cavalry units confirmed
   - Approximately 22 soldiers killed and 38 wounded confirmed
   - Destruction of tipis and winter food supplies confirmed
-- [Wikipedia - Battle of Whitestone Hill](https://en.wikipedia.org/wiki/Battle_of_Whitestone_Hill)
+- [Wikipedia - Battle of Whitestone Hill](https://en.wikipedia.org/?curid=3485167)
   - September 3-5, 1863 dates confirmed
   - Sully's force of approximately 1,200 men confirmed
   - 400 lodges in the village confirmed

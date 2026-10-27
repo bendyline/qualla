@@ -28,7 +28,7 @@ The Oklahoma Organic Act of 1890 disbanded the Quapaw Agency, designed to exting
 
 ## Flight Context
 
-Located at 36.60N, 94.80W in the northeastern corner of Oklahoma near the Missouri and Kansas borders. The area encompasses Ottawa and Delaware counties. Nearest airports include Joplin Regional Airport (KJLN) approximately 25 nm northeast and Miami Municipal Airport (KMIC) nearby. The terrain is gently rolling prairie at approximately 800 feet MSL. The Grand Lake O' the Cherokees is a prominent visual landmark to the south. Best viewed at 3,000-5,000 feet AGL to appreciate the geographic convergence of three states.
+Located at 36.60N, 94.80W in the northeastern corner of Oklahoma near the Missouri and Kansas borders. The area encompasses Ottawa and Delaware counties. Nearest airports include Joplin Regional Airport (KJLN) approximately 25 nm northeast and Miami Municipal Airport (KMIO) nearby. The terrain is gently rolling prairie at approximately 800 feet MSL. The Grand Lake O' the Cherokees is a prominent visual landmark to the south. Best viewed at 3,000-5,000 feet AGL to appreciate the geographic convergence of three states.
 
 ## Sources
 

@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/b/y/3/herm-wk/hero.jpg",
-        "filename": "St Tugual's Chapel op Herm.jpg",
-        "alt": "St Tugual's Chapel op Herm.jpg",
-        "width": 742,
-        "height": 1024,
+        "path": "_m/g/b/y/3/herm-wk/antony-gormley-s-another-time-.jpg",
+        "filename": "Antony Gormley's \"Another Time XI\" on Herm - facing nothing.JPG",
+        "caption": "\"Another Time XI\" by Antony Gormley at Le Petit Monceau on Herm, facing nothing.",
+        "alt": "\"Another Time XI\" by Antony Gormley at Le Petit Monceau on Herm, facing nothing.",
+        "width": 4000,
+        "height": 3000,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Tugual%27s_Chapel_op_Herm.jpg",
-        "sourceType": "core",
+        "artist": "Erik1980",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antony_Gormley%27s_%22Another_Time_XI%22_on_Herm_-_facing_nothing.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "herm-wk",
         "sourceGeohash4": "gby3",
-        "categories": [
-          "CC-BY-SA-3.0-migrated",
-          "Files with no machine-readable author",
-          "Files with no machine-readable source",
-          "GFDL",
-          "License migration completed",
-          "Media missing infobox template",
-          "Self-published work",
-          "St. Tugual's Chapel",
-          "Taken with Canon PowerShot G3"
-        ]
+        "mediumPath": "_m/g/b/y/3/herm-wk/antony-gormley-s-another-time--medium.webp",
+        "smallPath": "_m/g/b/y/3/herm-wk/antony-gormley-s-another-time--small.webp"
       },
       "images": [
         {
@@ -430,7 +423,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Nikon Coolpix 7900"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/3/herm-wp/hermshellbeach-medium.webp",
+          "smallPath": "_m/g/b/y/3/herm-wp/hermshellbeach-small.webp"
         },
         {
           "path": "_m/g/b/y/3/herm-wp/caquorobert.jpg",
@@ -445,7 +440,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caquorobert.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "herm-wp",
-          "sourceGeohash4": "gby3"
+          "sourceGeohash4": "gby3",
+          "mediumPath": "_m/g/b/y/3/herm-wp/caquorobert-medium.webp",
+          "smallPath": "_m/g/b/y/3/herm-wp/caquorobert-small.webp"
         },
         {
           "path": "_m/g/b/y/3/herm-wp/roberts-cross-herm.jpg",
@@ -460,7 +457,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roberts_Cross_Herm.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "herm-wp",
-          "sourceGeohash4": "gby3"
+          "sourceGeohash4": "gby3",
+          "mediumPath": "_m/g/b/y/3/herm-wp/roberts-cross-herm-medium.webp",
+          "smallPath": "_m/g/b/y/3/herm-wp/roberts-cross-herm-small.webp"
         },
         {
           "path": "_m/g/b/y/3/herm-wp/herm-obelisk.jpg",
@@ -475,7 +474,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herm_Obelisk.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "herm-wp",
-          "sourceGeohash4": "gby3"
+          "sourceGeohash4": "gby3",
+          "mediumPath": "_m/g/b/y/3/herm-wp/herm-obelisk-medium.webp",
+          "smallPath": "_m/g/b/y/3/herm-wp/herm-obelisk-small.webp"
         },
         {
           "path": "_m/g/b/y/2/channel-islands-wk/img-2450-la-hougue-bie.jpg",
@@ -503,7 +504,8 @@
             "Photographs taken on 2006-08-07",
             "Self-published work",
             "Taken with Canon PowerShot A20"
-          ]
+          ],
+          "smallPath": "_m/g/b/y/2/channel-islands-wk/img-2450-la-hougue-bie-small.webp"
         },
         {
           "path": "_m/g/b/y/1/guernsey-wk/hero.jpg",
@@ -527,7 +529,9 @@
             "Monuments and memorials of World War II",
             "Saint Andrew's, Guernsey",
             "Taken with Canon EOS 300D"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/1/guernsey-wk/hero-medium.webp",
+          "smallPath": "_m/g/b/y/1/guernsey-wk/hero-small.webp"
         },
         {
           "path": "_m/g/b/y/2/channel-islands-wk/saint-en-helier-pilgri.jpg",
@@ -549,7 +553,8 @@
             "PD-self",
             "Self-published work",
             "Upper Ward, Elizabeth Castle"
-          ]
+          ],
+          "smallPath": "_m/g/b/y/2/channel-islands-wk/saint-en-helier-pilgri-small.webp"
         },
         {
           "path": "_m/g/b/y/2/channel-islands-wk/hero.jpg",
@@ -573,7 +578,9 @@
             "Images with annotations",
             "La Coupée",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/2/channel-islands-wk/hero-medium.webp",
+          "smallPath": "_m/g/b/y/2/channel-islands-wk/hero-small.webp"
         },
         {
           "path": "_m/g/b/y/1/guernsey-wk/renoir16.jpg",
@@ -605,7 +612,8 @@
             "People at the beach in 1883",
             "Superseded",
             "Works by Pierre-Auguste Renoir by Fezzi number"
-          ]
+          ],
+          "smallPath": "_m/g/b/y/1/guernsey-wk/renoir16-small.webp"
         },
         {
           "path": "_m/g/b/y/1/guernsey-wk/blue-telephone-boxes-s.jpg",
@@ -628,7 +636,8 @@
             "Saint Peter Port",
             "Sure (company)",
             "Telephone booths in Guernsey"
-          ]
+          ],
+          "smallPath": "_m/g/b/y/1/guernsey-wk/blue-telephone-boxes-s-small.webp"
         },
         {
           "path": "_m/g/b/y/1/guernsey-wk/guernsey-june-july-201.jpg",
@@ -649,7 +658,9 @@
             "Sausmarez Manor",
             "Self-published work",
             "Taken with Canon PowerShot A2100 IS"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/1/guernsey-wk/guernsey-june-july-201-medium.webp",
+          "smallPath": "_m/g/b/y/1/guernsey-wk/guernsey-june-july-201-small.webp"
         },
         {
           "path": "_m/g/b/y/1/guernsey-wk/guernsey-june-july-201-1.jpg",
@@ -670,7 +681,9 @@
             "Photographs of flags of the Bailiwick of Guernsey",
             "Photographs of flags of the Bailiwick of Guernsey in Guernsey",
             "Sausmarez Manor"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/1/guernsey-wk/guernsey-june-july-201-1-medium.webp",
+          "smallPath": "_m/g/b/y/1/guernsey-wk/guernsey-june-july-201-1-small.webp"
         },
         {
           "path": "_m/g/b/y/1/guernsey-wk/guernsey-june-july-201-2.jpg",
@@ -685,7 +698,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guernsey_2011_150,_Fort_Grey.jpg",
           "sourceType": "poi",
           "sourceArticleId": "guernsey-wk",
-          "sourceGeohash4": "gby1"
+          "sourceGeohash4": "gby1",
+          "mediumPath": "_m/g/b/y/1/guernsey-wk/guernsey-june-july-201-2-medium.webp",
+          "smallPath": "_m/g/b/y/1/guernsey-wk/guernsey-june-july-201-2-small.webp"
         },
         {
           "path": "_m/g/b/y/1/guernsey-wk/castle-cornet-viewed-b.jpg",
@@ -700,7 +715,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle_Cornet_Floodlit.jpg",
           "sourceType": "poi",
           "sourceArticleId": "guernsey-wk",
-          "sourceGeohash4": "gby1"
+          "sourceGeohash4": "gby1",
+          "smallPath": "_m/g/b/y/1/guernsey-wk/castle-cornet-viewed-b-small.webp"
         },
         {
           "path": "_m/g/b/y/1/guernsey-wk/map-wikivoyage-s-guern.png",
@@ -715,7 +731,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wikivoyage_Guernsey_mapPNG.png",
           "sourceType": "poi",
           "sourceArticleId": "guernsey-wk",
-          "sourceGeohash4": "gby1"
+          "sourceGeohash4": "gby1",
+          "smallPath": "_m/g/b/y/1/guernsey-wk/map-wikivoyage-s-guern-small.webp"
         },
         {
           "path": "_m/g/b/y/1/guernsey-wk/farmhouse-lihou-island.jpg",
@@ -730,7 +747,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lihou_farmhouse.jpg",
           "sourceType": "poi",
           "sourceArticleId": "guernsey-wk",
-          "sourceGeohash4": "gby1"
+          "sourceGeohash4": "gby1",
+          "mediumPath": "_m/g/b/y/1/guernsey-wk/farmhouse-lihou-island-medium.webp",
+          "smallPath": "_m/g/b/y/1/guernsey-wk/farmhouse-lihou-island-small.webp"
         },
         {
           "path": "_m/g/b/y/1/guernsey-wk/photograph-castle-corn.jpg",
@@ -745,7 +764,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle_Cornet,_Guernsey.jpg",
           "sourceType": "poi",
           "sourceArticleId": "guernsey-wk",
-          "sourceGeohash4": "gby1"
+          "sourceGeohash4": "gby1",
+          "mediumPath": "_m/g/b/y/1/guernsey-wk/photograph-castle-corn-medium.webp",
+          "smallPath": "_m/g/b/y/1/guernsey-wk/photograph-castle-corn-small.webp"
         }
       ],
       "narration": [

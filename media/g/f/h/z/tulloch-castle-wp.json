@@ -3,27 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/h/z/tulloch-castle-wp/hero.jpg",
-        "filename": "Tulloch Castle (geograph 3548404).jpg",
-        "caption": "Tulloch Castle",
-        "alt": "Tulloch Castle",
-        "width": 1440,
-        "height": 964,
+        "path": "_m/g/f/h/z/tulloch-castle-wp/tulloch-castle-dingwall-geogra.jpg",
+        "filename": "Tulloch Castle, Dingwall (geograph 6139358).jpg",
+        "caption": "Tulloch Castle, Dingwall",
+        "alt": "Tulloch Castle, Dingwall",
+        "width": 3968,
+        "height": 2976,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 2.0",
-        "artist": "Peter Moore",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tulloch_Castle_(geograph_3548404).jpg",
-        "sourceType": "core",
+        "artist": "Euan Nelson",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tulloch_Castle,_Dingwall_(geograph_6139358).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "tulloch-castle-wp",
         "sourceGeohash4": "gfhz",
         "categories": [
           "CC-BY-SA-2.0",
-          "Images by Peter Moore",
+          "Images by Euan Nelson",
           "Images from Geograph Britain and Ireland",
           "Information field template with formatting",
-          "Taken with Nikon D3000",
           "Tulloch Castle"
-        ]
+        ],
+        "mediumPath": "_m/g/f/h/z/tulloch-castle-wp/tulloch-castle-dingwall-geogra-medium.webp",
+        "smallPath": "_m/g/f/h/z/tulloch-castle-wp/tulloch-castle-dingwall-geogra-small.webp"
       },
       "images": [
         {
@@ -295,7 +296,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tulloch_Castle_-_geograph.org.uk_-_7004010.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "dingwall-wp",
-          "sourceGeohash4": "gfhz"
+          "sourceGeohash4": "gfhz",
+          "smallPath": "_m/g/f/h/z/tulloch-castle-wp/tulloch-castle-small.webp"
         },
         {
           "path": "_m/g/f/h/z/tulloch-castle-wp/tulloch-castle-turret-geograph.jpg",
@@ -353,7 +355,9 @@
             "Photographs by Phil Sangwell",
             "Taken with Panasonic Lumix DMC-FZ38",
             "United Kingdom photographs taken on 2010-07-19"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/z/dingwall-wk/dingwall-evening-mist-medium.webp",
+          "smallPath": "_m/g/f/h/z/dingwall-wk/dingwall-evening-mist-small.webp"
         },
         {
           "path": "_m/g/f/h/z/dingwall-wk/dingwall-town-hall-geograph-20.jpg",
@@ -375,7 +379,9 @@
             "Images by Andrew Wood (28779)",
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/z/dingwall-wk/dingwall-town-hall-geograph-20-medium.webp",
+          "smallPath": "_m/g/f/h/z/dingwall-wk/dingwall-town-hall-geograph-20-small.webp"
         },
         {
           "path": "_m/g/f/h/z/dingwall-wk/northern-constabulary-pipe-ban.jpg",
@@ -398,7 +404,9 @@
             "Flickr images reviewed by FlickreviewR 2",
             "Northern Constabulary Pipe Band",
             "Photographs by conner395"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/z/dingwall-wk/northern-constabulary-pipe-ban-medium.webp",
+          "smallPath": "_m/g/f/h/z/dingwall-wk/northern-constabulary-pipe-ban-small.webp"
         },
         {
           "path": "_m/g/f/h/z/dingwall-wk/st-lawrence-s-catholic-church-.jpg",
@@ -422,7 +430,9 @@
             "Images by Craig Wallace",
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/z/dingwall-wk/st-lawrence-s-catholic-church--medium.webp",
+          "smallPath": "_m/g/f/h/z/dingwall-wk/st-lawrence-s-catholic-church--small.webp"
         },
         {
           "path": "_m/g/f/h/z/dingwall-wk/dingwall-station-geograph-org-.jpg",
@@ -437,7 +447,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dingwall_station_-_geograph.org.uk_-_6897562.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dingwall-wk",
-          "sourceGeohash4": "gfhz"
+          "sourceGeohash4": "gfhz",
+          "mediumPath": "_m/g/f/h/z/dingwall-wk/dingwall-station-geograph-org--medium.webp",
+          "smallPath": "_m/g/f/h/z/dingwall-wk/dingwall-station-geograph-org--small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/oban-harbour-14839d.jpg",
@@ -459,7 +471,8 @@
             "Isle of Mull (ship, 1988)",
             "License migration completed",
             "Oban harbour"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/oban-harbour-14839d-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/bute-satellite.jpg",
@@ -480,7 +493,8 @@
             "Landsat images of the United Kingdom",
             "NASA World Wind",
             "PD World Wind"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/bute-satellite-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden.jpg",
@@ -504,7 +518,9 @@
             "PD-Art (PD-old-auto-expired)",
             "PD-old-100-expired",
             "Paintings without Wikidata item"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j.jpg",
@@ -523,7 +539,9 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Eilean Donan Castle viewed from south"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/scottish-highlands-wv-region-m.png",
@@ -538,7 +556,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scottish_Highlands_WV_region_map_EN.png",
           "sourceType": "poi",
           "sourceArticleId": "scottish-highlands-wp",
-          "sourceGeohash4": "gfhs"
+          "sourceGeohash4": "gfhs",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/scottish-highlands-wv-region-m-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr.jpg",
@@ -553,7 +572,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:62005_Glenfinnan_Viaduct_-_geograph.org.uk_-_2308595.jpg",
           "sourceType": "poi",
           "sourceArticleId": "scottish-highlands-wp",
-          "sourceGeohash4": "gfhs"
+          "sourceGeohash4": "gfhs",
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr-small.webp"
         }
       ],
       "narration": [

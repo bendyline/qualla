@@ -64,7 +64,7 @@ Köpenick sits at 52.4458 N, 13.5772 E in southeastern Berlin, at the confluence
   - Confiscated 4,002 marks and 37 pfennigs and issued a receipt signed with his former warden's name
   - Arrested 26 October 1906 after a former cellmate informed police; sentenced 1 December to four years for forgery, impersonating an officer and false imprisonment
   - Pardoned by Wilhelm II on 16 August 1908; appeared in waxworks, published 'How I became the Captain of Köpenick' in 1909, toured, settled in Luxembourg as a waiter and shoemaker, died of flu in Luxembourg City on 3 January 1922
-- [Köpenick - Wikipedia (independent final-review re-check)](https://en.wikipedia.org/wiki/K%C3%B6penick)
+- [Köpenick - Wikipedia (independent final-review re-check)](https://en.wikipedia.org/?curid=409127)
   - Köpenick Week of Blood, June 1933: at least 24 killed, many more maimed - re-confirmed
   - Müggelberge 115 m, highest natural point in Berlin - re-confirmed
   - merged with Treptow in 2001 to form Treptow-Köpenick - re-confirmed

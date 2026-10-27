@@ -3,31 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/s/s/st-patrick-s-isle-wp/hero.jpg",
-        "filename": "Peel - isle of man.jpg",
-        "caption": "Peel, Isle of Man, 2002",
-        "alt": "Peel, Isle of Man, 2002",
-        "width": 800,
-        "height": 600,
+        "path": "_m/g/c/s/s/st-patrick-s-isle-wp/peel-2023-05-05-04.jpg",
+        "filename": "Peel (2023-05-05) 04.jpg",
+        "caption": "Peel, Isle of Man",
+        "alt": "Peel, Isle of Man",
+        "width": 5568,
+        "height": 3712,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "Eirik Newth from Oslo, Oslo",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peel_-_isle_of_man.jpg",
-        "sourceType": "core",
+        "license": "CC0",
+        "artist": "Simon Cobb",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peel_(2023-05-05)_04.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "st-patrick-s-isle-wp",
         "sourceGeohash4": "gcss",
         "categories": [
-          "CC-BY-2.0",
-          "Fenella Beach",
-          "FlickrLickr images",
-          "Flickr images reviewed by FlickreviewR",
-          "Information field template with formatting",
-          "Taken with Canon Digital IXUS 330"
-        ]
+          "CC-Zero",
+          "Photographs by Simon Cobb",
+          "Self-published work",
+          "St Patrick's Isle",
+          "Uploaded with OpenRefine",
+          "Uploaded with pattypan"
+        ],
+        "mediumPath": "_m/g/c/s/s/st-patrick-s-isle-wp/peel-2023-05-05-04-medium.webp",
+        "smallPath": "_m/g/c/s/s/st-patrick-s-isle-wp/peel-2023-05-05-04-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/s/s/st-patrick-s-isle-wp/map-diocese-isles-abou.png",
+          "path": "_m/g/c/s/s/diocese-of-the-isles-wp/map-diocese-isles-abou.png",
           "filename": "Diocese of the Isles, circa 1300 (map 2).png",
           "caption": "Map of the Diocese of the Isles in about 1300.",
           "alt": "Map of the Diocese of the Isles in about 1300.",
@@ -46,7 +48,8 @@
             "Kingdom of the Isles",
             "Maps of the history of Scotland",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/s/diocese-of-the-isles-wp/map-diocese-isles-abou-small.webp"
         },
         {
           "path": "_m/g/c/s/s/st-patrick-s-isle-wp/northwest-coast-of-st-patrick-.jpg",
@@ -164,7 +167,8 @@
             "Photographs taken on 2005-07-31",
             "Self-published work",
             "Taken with Fujifilm FinePix A205"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/laxey-wheel-1-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/snaefell.jpg",
@@ -185,7 +189,8 @@
             "Self-published work",
             "Snaefell",
             "Taken with Canon PowerShot S3 IS"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/snaefell-small.webp"
         },
         {
           "path": "_m/g/c/s/e/castle-rushen-wp/hero.jpg",
@@ -200,7 +205,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle_Rushen.jpg",
           "sourceType": "poi",
           "sourceArticleId": "castle-rushen-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/e/castle-rushen-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/s/e/castle-rushen-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/cregneash-folk-museum-1988.jpg",
@@ -215,7 +222,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cregneash_Folk_Museum_1988.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/cregneash-folk-museum-1988-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22.jpg",
@@ -230,7 +238,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doolish_2013_22.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22-medium.webp",
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812.jpg",
@@ -245,7 +255,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jurby_Busses_(28134100812).jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812-medium.webp",
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812-small.webp"
         }
       ],
       "narration": [

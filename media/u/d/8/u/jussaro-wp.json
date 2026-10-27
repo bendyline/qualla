@@ -3,27 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/d/8/u/jussaro-wp/hero.jpg",
-        "filename": "Jussarö building2.jpg",
-        "caption": "Mining building on Jussarö island, Raseborg, Finland",
-        "alt": "Mining building on Jussarö island, Raseborg, Finland",
-        "width": 1800,
-        "height": 1200,
+        "path": "_m/u/d/8/u/jussaro-wp/jussaro3.jpg",
+        "filename": "Jussarö3.jpg",
+        "caption": "This is a photo of a monument in Finland identified by the ID 'Jussarö' (Q4348854) -  RKY: 1208",
+        "alt": "This is a photo of a monument in Finland identified by the ID 'Jussarö' (Q4348854) -  RKY: 1208",
+        "width": 4032,
+        "height": 3024,
         "mimeType": "image/jpeg",
-        "license": "CC0",
-        "artist": "Migro",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jussar%C3%B6_building2.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mikkoau",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jussar%C3%B63.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "jussaro-wp",
         "sourceGeohash4": "ud8u",
-        "categories": [
-          "Buildings in Raseborg",
-          "CC-Zero",
-          "July 2011 Finland photographs",
-          "Jussarö",
-          "Mining in Finland",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/u/d/8/u/jussaro-wp/jussaro3-medium.webp",
+        "smallPath": "_m/u/d/8/u/jussaro-wp/jussaro3-small.webp"
       },
       "images": [
         {
@@ -55,7 +49,7 @@
           "smallPath": "_m/u/d/8/u/jussaro-wp/jussarotower-small.webp"
         },
         {
-          "path": "_m/u/d/8/u/jussaro-wp/hero.jpg",
+          "path": "_m/u/d/8/s/jussaro-lighthouse-wp/hero.jpg",
           "filename": "Sundharu Jussarö.jpg",
           "caption": "Sundharun and Jussarö 1994",
           "alt": "Sundharun and Jussarö 1994",
@@ -82,7 +76,8 @@
             "Red and white lighthouses in Finland",
             "Self-published work",
             "Summer 1994 in Finland"
-          ]
+          ],
+          "smallPath": "_m/u/d/8/s/jussaro-lighthouse-wp/hero-small.webp"
         },
         {
           "path": "_m/u/d/8/u/jussaro-wp/jussaro-building1.jpg",
@@ -109,7 +104,7 @@
           "smallPath": "_m/u/d/8/u/jussaro-wp/jussaro-building1-small.webp"
         },
         {
-          "path": "_m/u/d/8/u/jussaro-wp/jussaro-building3.jpg",
+          "path": "_m/u/d/8/t/raseborg-wp/jussaro-building3.jpg",
           "filename": "Jussarö building3.jpg",
           "caption": "Mining building on Jussarö island, Raseborg, Finland",
           "alt": "Mining building on Jussarö island, Raseborg, Finland",
@@ -129,7 +124,8 @@
             "Jussarö",
             "Mining in Finland",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/d/8/t/raseborg-wp/jussaro-building3-small.webp"
         },
         {
           "path": "_m/u/d/8/u/jussaro-wp/jussaro-building4.jpg",
@@ -177,7 +173,7 @@
           "smallPath": "_m/u/d/8/u/jussaro-wp/jussaro-marina-small.webp"
         },
         {
-          "path": "_m/u/d/8/u/jussaro-wp/jussaro-meadow.jpg",
+          "path": "_m/u/d/8/s/ekenas-archipelago-national-park-wp/jussaro-meadow.jpg",
           "filename": "Jussarö meadow.jpg",
           "caption": "Meadow on Jussarö island, Ekenäs archipelago national park, Finland",
           "alt": "Meadow on Jussarö island, Ekenäs archipelago national park, Finland",
@@ -189,7 +185,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jussar%C3%B6_meadow.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "ekenas-archipelago-national-park-wp",
-          "sourceGeohash4": "ud8u"
+          "sourceGeohash4": "ud8u",
+          "smallPath": "_m/u/d/8/s/ekenas-archipelago-national-park-wp/jussaro-meadow-small.webp"
         },
         {
           "path": "_m/u/d/8/u/jussaro-wp/jussaro3.jpg",
@@ -268,7 +265,9 @@
             "Musical groups from Finland",
             "Pekka Kuusisto",
             "Taken with Canon Digital IXUS 50"
-          ]
+          ],
+          "mediumPath": "_m/u/d/8/t/raseborg-wp/pekka-kuusisto-and-the-luomupl-medium.webp",
+          "smallPath": "_m/u/d/8/t/raseborg-wp/pekka-kuusisto-and-the-luomupl-small.webp"
         },
         {
           "path": "_m/u/d/8/t/raseborg-wp/ekenas-old-town-2.jpg",
@@ -293,7 +292,9 @@
             "Streets in Raseborg",
             "Taken with Canon Digital IXUS 40",
             "Wooden houses in Uusimaa"
-          ]
+          ],
+          "mediumPath": "_m/u/d/8/t/raseborg-wp/ekenas-old-town-2-medium.webp",
+          "smallPath": "_m/u/d/8/t/raseborg-wp/ekenas-old-town-2-small.webp"
         },
         {
           "path": "_m/u/d/8/t/raseborg-wp/rodjan-flygfoto-mini.jpg",
@@ -319,7 +320,8 @@
             "Islands of Finland",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/d/8/t/raseborg-wp/rodjan-flygfoto-mini-small.webp"
         },
         {
           "path": "_m/u/d/8/t/raseborg-wp/raseborg-06042008-au-enansicht.jpg",
@@ -343,7 +345,9 @@
             "Raseborg castle",
             "Self-published work",
             "Taken with Olympus E-510"
-          ]
+          ],
+          "mediumPath": "_m/u/d/8/t/raseborg-wp/raseborg-06042008-au-enansicht-medium.webp",
+          "smallPath": "_m/u/d/8/t/raseborg-wp/raseborg-06042008-au-enansicht-small.webp"
         },
         {
           "path": "_m/u/d/8/v/raseborg-castle-wp/raseborg-22062008-au-enansicht-1.jpg",
@@ -366,7 +370,9 @@
             "Raseborg castle",
             "Self-published work",
             "Taken with Olympus E-510"
-          ]
+          ],
+          "mediumPath": "_m/u/d/8/v/raseborg-castle-wp/raseborg-22062008-au-enansicht-1-medium.webp",
+          "smallPath": "_m/u/d/8/v/raseborg-castle-wp/raseborg-22062008-au-enansicht-1-small.webp"
         },
         {
           "path": "_m/u/d/8/t/raseborg-wp/scenary-of-the-fiskars.jpg",
@@ -384,7 +390,9 @@
           "sourceGeohash4": "ud8u",
           "categories": [
             "CC-BY-3.0"
-          ]
+          ],
+          "mediumPath": "_m/u/d/8/t/raseborg-wp/scenary-of-the-fiskars-medium.webp",
+          "smallPath": "_m/u/d/8/t/raseborg-wp/scenary-of-the-fiskars-small.webp"
         },
         {
           "path": "_m/u/d/8/t/raseborg-wp/ekenas-square.jpg",
@@ -399,7 +407,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ekenas_square.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "raseborg-wp",
-          "sourceGeohash4": "ud8u"
+          "sourceGeohash4": "ud8u",
+          "smallPath": "_m/u/d/8/t/raseborg-wp/ekenas-square-small.webp"
         },
         {
           "path": "_m/u/d/8/t/raseborg-wp/bromarv-satama-juhannussalko-k.jpg",
@@ -414,7 +423,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bromarv._Satama._Juhannussalko._Kirkko_2019.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "raseborg-wp",
-          "sourceGeohash4": "ud8u"
+          "sourceGeohash4": "ud8u",
+          "mediumPath": "_m/u/d/8/t/raseborg-wp/bromarv-satama-juhannussalko-k-medium.webp",
+          "smallPath": "_m/u/d/8/t/raseborg-wp/bromarv-satama-juhannussalko-k-small.webp"
         },
         {
           "path": "_m/u/d/8/t/raseborg-wp/fiskars-tornursbyggnaden-fiska.jpg",
@@ -429,7 +440,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fiskars_tornursbyggnaden_Fiskars_kellotorni.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "raseborg-wp",
-          "sourceGeohash4": "ud8u"
+          "sourceGeohash4": "ud8u",
+          "smallPath": "_m/u/d/8/t/raseborg-wp/fiskars-tornursbyggnaden-fiska-small.webp"
         }
       ],
       "narration": [

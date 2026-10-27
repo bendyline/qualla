@@ -3,26 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/8/y/fine-arts-museums-of-san-francisco-wp/hero.jpg",
-        "filename": "M. H. de Young Memorial Museum.jpg",
-        "caption": "De Young Museum, San Francisco, in 2009 during the Tutankhamun exhibition",
-        "alt": "De Young Museum, San Francisco, in 2009 during the Tutankhamun exhibition",
-        "width": 3264,
-        "height": 2448,
+        "path": "_m/9/q/8/y/fine-arts-museums-of-san-francisco-wp/herminette-ceremonielle-dogon-.jpg",
+        "filename": "Herminette cérémonielle Dogon (détail).jpg",
+        "caption": "Herminette cérémonielle Dogon\nMali\nDébut du 20e s.\nFer, bois\nFine Arts Museum of San Francisco\nObjet présenté lors de l'exposition Frapper le fer. L'art des forgerons africains au musée du quai Branly Jacques Chirac.",
+        "alt": "Herminette cérémonielle Dogon\nMali\nDébut du 20e s.\nFer, bois\nFine Arts Museum of San Francisco\nObjet présenté lors de l'exposition Frapper le fer. L'art des forgerons africains au musée du quai Branly Jacques Chirac.",
+        "width": 4010,
+        "height": 3326,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Mark Miller",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:M._H._de_Young_Memorial_Museum.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Ji-Elle",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herminette_c%C3%A9r%C3%A9monielle_Dogon_(d%C3%A9tail).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "fine-arts-museums-of-san-francisco-wp",
         "sourceGeohash4": "9q8y",
-        "categories": [
-          "De Young Museum - Building",
-          "Museums in the United States photographed in 2009",
-          "PD-self",
-          "Self-published work",
-          "Taken with Sony DSC-T100"
-        ]
+        "mediumPath": "_m/9/q/8/y/fine-arts-museums-of-san-francisco-wp/herminette-ceremonielle-dogon--medium.webp",
+        "smallPath": "_m/9/q/8/y/fine-arts-museums-of-san-francisco-wp/herminette-ceremonielle-dogon--small.webp"
       },
       "images": [
         {
@@ -408,7 +403,9 @@
             "Taken with Canon EOS 400D",
             "United States photographs taken on 2008-02-12",
             "Water reflections of trees in California"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/golden-gate-park-wp/crepuscular-rays-in-ggp-2-medium.webp",
+          "smallPath": "_m/9/q/8/y/golden-gate-park-wp/crepuscular-rays-in-ggp-2-small.webp"
         },
         {
           "path": "_m/9/q/8/y/golden-gate-park-wp/beach-chalet-san-francisco.jpg",
@@ -435,7 +432,8 @@
             "Self-published work",
             "Taken with Canon PowerShot A620",
             "United States photographs taken on 2008-03-16"
-          ]
+          ],
+          "smallPath": "_m/9/q/8/y/golden-gate-park-wp/beach-chalet-san-francisco-small.webp"
         },
         {
           "path": "_m/9/q/8/y/golden-gate-park-wp/golden-gate-park-03.jpg",
@@ -458,7 +456,9 @@
             "Lloyd Lake",
             "Self-published work",
             "Taken with Olympus FE-210 / X-775"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/golden-gate-park-wp/golden-gate-park-03-medium.webp",
+          "smallPath": "_m/9/q/8/y/golden-gate-park-wp/golden-gate-park-03-small.webp"
         },
         {
           "path": "_m/9/q/8/y/golden-gate-park-wp/golden-gate-park-carousel-06.jpg",
@@ -484,7 +484,9 @@
             "License migration redundant",
             "Sculptures of chickens in the United States",
             "Sculptures of goats in the United States"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/golden-gate-park-wp/golden-gate-park-carousel-06-medium.webp",
+          "smallPath": "_m/9/q/8/y/golden-gate-park-wp/golden-gate-park-carousel-06-small.webp"
         },
         {
           "path": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/hero.jpg",
@@ -499,7 +501,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:GGParkNorthWindmill2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dutch-windmill-golden-gate-park-wp",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "smallPath": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/hero-small.webp"
         },
         {
           "path": "_m/9/q/8/y/cliff-house-camera-obscura-wk/cliff-house-from-ocean-beach.jpg",
@@ -514,7 +517,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cliff_House_from_Ocean_Beach.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cliff-house-camera-obscura-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/cliff-house-camera-obscura-wk/cliff-house-from-ocean-beach-medium.webp",
+          "smallPath": "_m/9/q/8/y/cliff-house-camera-obscura-wk/cliff-house-from-ocean-beach-small.webp"
         },
         {
           "path": "_m/9/q/8/y/golden-gate-park-wp/golden-gate-park-rose-garden-1.jpg",
@@ -529,7 +534,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Park_Rose_Garden_1_2016-06-29.jpg",
           "sourceType": "poi",
           "sourceArticleId": "golden-gate-park-wp",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/golden-gate-park-wp/golden-gate-park-rose-garden-1-medium.webp",
+          "smallPath": "_m/9/q/8/y/golden-gate-park-wp/golden-gate-park-rose-garden-1-small.webp"
         },
         {
           "path": "_m/9/q/8/y/golden-gate-park-wp/2017-lands-end-lookout.jpg",
@@ -544,7 +551,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017_Lands_End_Lookout.jpg",
           "sourceType": "poi",
           "sourceArticleId": "golden-gate-park-wp",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/golden-gate-park-wp/2017-lands-end-lookout-medium.webp",
+          "smallPath": "_m/9/q/8/y/golden-gate-park-wp/2017-lands-end-lookout-small.webp"
         },
         {
           "path": "_m/9/q/8/y/sutro-baths-ruins-wk/hero.jpg",
@@ -559,7 +568,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017_Sutro_Baths_1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "sutro-baths-ruins-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/sutro-baths-ruins-wk/hero-medium.webp",
+          "smallPath": "_m/9/q/8/y/sutro-baths-ruins-wk/hero-small.webp"
         },
         {
           "path": "_m/9/q/8/y/golden-gate-park-wp/4-star-cinema-san-francisco.jpg",
@@ -574,7 +585,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:4-star_cinema_San_Francisco.jpg",
           "sourceType": "poi",
           "sourceArticleId": "golden-gate-park-wp",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/golden-gate-park-wp/4-star-cinema-san-francisco-medium.webp",
+          "smallPath": "_m/9/q/8/y/golden-gate-park-wp/4-star-cinema-san-francisco-small.webp"
         },
         {
           "path": "_m/9/q/8/y/golden-gate-park-wp/2013-01-13-01-20-san-francisco.jpg",
@@ -589,7 +602,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2013-01-13_01-20_San_Francisco_285_Golden_Gate_Park,,_Spreckels_Lake_(8457034894).jpg",
           "sourceType": "poi",
           "sourceArticleId": "golden-gate-park-wp",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/golden-gate-park-wp/2013-01-13-01-20-san-francisco-medium.webp",
+          "smallPath": "_m/9/q/8/y/golden-gate-park-wp/2013-01-13-01-20-san-francisco-small.webp"
         },
         {
           "path": "_m/9/q/8/y/golden-gate-park-wp/grandview-park-from-ucsf-parna.jpg",
@@ -604,7 +619,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grandview_Park_from_UCSF_Parnassus,_March_2019.JPG",
           "sourceType": "poi",
           "sourceArticleId": "golden-gate-park-wp",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/golden-gate-park-wp/grandview-park-from-ucsf-parna-medium.webp",
+          "smallPath": "_m/9/q/8/y/golden-gate-park-wp/grandview-park-from-ucsf-parna-small.webp"
         },
         {
           "path": "_m/9/q/8/y/golden-gate-park-wp/balboa-theatre-1.jpg",
@@ -619,7 +636,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balboa_Theatre_(1).jpg",
           "sourceType": "poi",
           "sourceArticleId": "golden-gate-park-wp",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/golden-gate-park-wp/balboa-theatre-1-medium.webp",
+          "smallPath": "_m/9/q/8/y/golden-gate-park-wp/balboa-theatre-1-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/sunset-at-land-s-end-in-san-fr.jpg",
@@ -657,7 +676,9 @@
             "Self-published work",
             "Sunsets of San Francisco Bay Area",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/sunset-at-land-s-end-in-san-fr-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/sunset-at-land-s-end-in-san-fr-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/at-the-top-of-grandview-park-4.jpg",
@@ -682,7 +703,9 @@
             "Photographs by Daniel Ramirez",
             "Taken with Nikon Coolpix L18",
             "Views from Grandview Park"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/at-the-top-of-grandview-park-4-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/at-the-top-of-grandview-park-4-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/candlestick-point-recreation-a.jpg",
@@ -706,7 +729,9 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Photographs by Daniel Ramirez",
             "Taken with Nikon Coolpix L18"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/candlestick-point-recreation-a-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/candlestick-point-recreation-a-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/path-in-glen-canyon-park-70580.jpg",
@@ -726,7 +751,8 @@
             "CC-BY-2.0",
             "Flickr images reviewed by FlickreviewR",
             "Glen Canyon Park"
-          ]
+          ],
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/path-in-glen-canyon-park-70580-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/baker-beach-with-golden-gate-b.jpg",
@@ -749,7 +775,9 @@
             "People at the beach in 2012",
             "People at the beach in California",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/baker-beach-with-golden-gate-b-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/baker-beach-with-golden-gate-b-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/forest-hill-station-headhouse-.jpg",
@@ -771,7 +799,9 @@
             "Files with coordinates missing SDC location of creation",
             "GFDL",
             "Headhouse of Forest Hill station (Muni Metro)"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/forest-hill-station-headhouse--medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/forest-hill-station-headhouse--small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/glen-park-station-platform-mar.jpg",
@@ -786,7 +816,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glen_Park_station_platform,_March_2018.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "san-francisco-crosstown-trail-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/glen-park-station-platform-mar-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/glen-park-station-platform-mar-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/outbound-train-at-judah-and-16.jpg",
@@ -801,7 +833,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outbound_train_at_Judah_and_16th_Avenue,_March_2019.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "san-francisco-crosstown-trail-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/outbound-train-at-judah-and-16-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/outbound-train-at-judah-and-16-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/bridge-to-strawberry-hill-2713.jpg",
@@ -816,7 +850,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bridge_to_Strawberry_Hill_(27132).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "san-francisco-crosstown-trail-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/bridge-to-strawberry-hill-2713-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/bridge-to-strawberry-hill-2713-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/glen-park-san-francisco.jpg",
@@ -831,7 +867,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glen_Park,_San_Francisco.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "san-francisco-crosstown-trail-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/glen-park-san-francisco-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/glen-park-san-francisco-small.webp"
         },
         {
           "path": "_m/9/q/8/y/candlestick-point-state-recreation-area-wp/candlestick-point-fishing-pier.jpg",
@@ -846,7 +884,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Candlestick_Point_fishing_pier.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "candlestick-point-state-recreation-area-wp",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/candlestick-point-state-recreation-area-wp/candlestick-point-fishing-pier-medium.webp",
+          "smallPath": "_m/9/q/8/y/candlestick-point-state-recreation-area-wp/candlestick-point-fishing-pier-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/view-from-mclaren-park.jpg",
@@ -861,7 +901,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_McLaren_Park.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "san-francisco-crosstown-trail-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/view-from-mclaren-park-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/view-from-mclaren-park-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/crosstown-trail-banner-view-fr.jpg",
@@ -876,7 +918,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crosstown_Trail_banner_View_from_McLaren_Park.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "san-francisco-crosstown-trail-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/crosstown-trail-banner-view-fr-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/crosstown-trail-banner-view-fr-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/trail-in-lands-end.jpg",
@@ -891,7 +935,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trail_in_Lands_End.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "san-francisco-crosstown-trail-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/trail-in-lands-end-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/trail-in-lands-end-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/view-from-grandview-park.jpg",
@@ -906,7 +952,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Grandview_Park.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "san-francisco-crosstown-trail-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/view-from-grandview-park-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/view-from-grandview-park-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/crosstown-trail-near-laguna-ho.jpg",
@@ -921,7 +969,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crosstown_Trail_near_Laguna_Honda_Hospital_2.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "san-francisco-crosstown-trail-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/crosstown-trail-near-laguna-ho-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/crosstown-trail-near-laguna-ho-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/crosstown-trail-near-laguna-ho.jpg",
@@ -936,7 +986,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crosstown_Trail_near_Laguna_Honda_Hospital_1.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "san-francisco-crosstown-trail-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/crosstown-trail-near-laguna-ho-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/crosstown-trail-near-laguna-ho-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/view-from-the-crosstown-trail.jpg",
@@ -951,7 +1003,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_the_Crosstown_Trail.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "san-francisco-crosstown-trail-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/view-from-the-crosstown-trail-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/view-from-the-crosstown-trail-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/southbound-train-at-arleta-sta.jpg",
@@ -966,7 +1020,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southbound_train_at_Arleta_station,_August_2025.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "san-francisco-crosstown-trail-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/southbound-train-at-arleta-sta-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-crosstown-trail-wk/southbound-train-at-arleta-sta-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/palace-of-fine-arts.jpg",
@@ -988,7 +1044,8 @@
             "PD reviewed files",
             "PDphotos.org",
             "Palace of Fine Arts, San Francisco"
-          ]
+          ],
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/palace-of-fine-arts-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/oak-control-tower-07832.jpg",
@@ -1014,7 +1071,9 @@
             "Oakland San Francisco Bay Airport",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ5"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/san-francisco-wk/oak-control-tower-07832-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/oak-control-tower-07832-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/lombardstreet.jpg",
@@ -1034,7 +1093,9 @@
             "Crooked section of Lombard Street (San Francisco)",
             "PD-user",
             "Taken with Canon PowerShot A520"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/san-francisco-wk/lombardstreet-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/lombardstreet-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/legion-of-honor-san-francisco.jpg",
@@ -1055,7 +1116,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Sony DSC-T100"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/san-francisco-wk/legion-of-honor-san-francisco-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/legion-of-honor-san-francisco-small.webp"
         },
         {
           "path": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-aerial-view-of-san-francisco-i.jpg",
@@ -1083,7 +1146,9 @@
             "Self-published work",
             "Taken with Canon PowerShot A1000 IS",
             "United States photographs taken on 2010-02-07"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-aerial-view-of-san-francisco-i-medium.webp",
+          "smallPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-aerial-view-of-san-francisco-i-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/nortonplaque3-01.png",
@@ -1107,7 +1172,8 @@
             "PD US no notice",
             "PD US not renewed",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/nortonplaque3-01-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/cable-cars-sf.jpg",
@@ -1130,7 +1196,9 @@
             "San Francisco cable car no. 19",
             "Self-published work",
             "Taken with Pentax K-5"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/san-francisco-wk/cable-cars-sf-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/cable-cars-sf-small.webp"
         },
         {
           "path": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-1948-cincinnati-street-railway.jpg",
@@ -1149,7 +1217,9 @@
           "categories": [
             "CC-BY-2.0",
             "F Market & Wharves streetcars"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-1948-cincinnati-street-railway-medium.webp",
+          "smallPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-1948-cincinnati-street-railway-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/clipper-card-tagging-use.jpg",
@@ -1164,7 +1234,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clipper_card_tagging_use.jpg",
           "sourceType": "poi",
           "sourceArticleId": "san-francisco-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-wk/clipper-card-tagging-use-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/clipper-card-tagging-use-small.webp"
         },
         {
           "path": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-bart-train-at-lafayette-statio.jpg",
@@ -1179,7 +1251,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BART_train_at_Lafayette_station,_January_2014.jpg",
           "sourceType": "poi",
           "sourceArticleId": "farallones-islands-wildlife-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-bart-train-at-lafayette-statio-medium.webp",
+          "smallPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-bart-train-at-lafayette-statio-small.webp"
         },
         {
           "path": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-at-t-park-overlooking-san-fran.jpg",
@@ -1194,7 +1268,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:AT%26T_Park_Overlooking_San_Francisco_Bay.jpg",
           "sourceType": "poi",
           "sourceArticleId": "farallones-islands-wildlife-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-at-t-park-overlooking-san-fran-medium.webp",
+          "smallPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-at-t-park-overlooking-san-fran-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/noleftturns.jpg",
@@ -1209,7 +1285,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noleftturns.jpg",
           "sourceType": "poi",
           "sourceArticleId": "san-francisco-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-wk/noleftturns-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/noleftturns-small.webp"
         }
       ],
       "narration": [

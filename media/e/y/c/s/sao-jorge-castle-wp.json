@@ -3,33 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/y/c/s/sao-jorge-castle-wp/hero.jpg",
-        "filename": "CastleSaintGeorge.jpg",
-        "caption": "The Castle of São Jorge occupies a commanding position overlooking the city of Lisbon, the capital of Portugal, and the Tagus River beyond. The fortified citadel, which dates from medieval times, is located atop the highest hill in the historic center of the city. The castle is one of the main historical and touristic sites of Lisbon.",
-        "alt": "The Castle of São Jorge occupies a commanding position overlooking the city of Lisbon, the capital of Portugal, and the Tagus River beyond. The fortified citadel, which dates from medieval times, is located atop the highest hill in the historic center of the city. The castle is one of the main historical and touristic sites of Lisbon.",
-        "width": 10986,
-        "height": 2967,
+        "path": "_m/e/y/c/s/sao-jorge-castle-wp/portugal-lisbon-castel-1.jpg",
+        "filename": "Lisbon Castelo de São Jorge BW 2018-10-03 11-13-09.jpg",
+        "caption": "Portugal, Lisbon, Castelo de São Jorge",
+        "alt": "Portugal, Lisbon, Castelo de São Jorge",
+        "width": 6475,
+        "height": 6360,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "Massimo Catarinella",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:CastleSaintGeorge.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Berthold Werner",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_Castelo_de_S%C3%A3o_Jorge_BW_2018-10-03_11-13-09.jpg",
         "sourceType": "core",
         "sourceArticleId": "sao-jorge-castle-wp",
         "sourceGeohash4": "eycs",
-        "categories": [
-          "CC-BY-3.0",
-          "Featured pictures on Wikipedia, English",
-          "Featured pictures on Wikipedia, Turkish",
-          "Files with coordinates missing SDC location of creation",
-          "Images with extracted images",
-          "Panoramas of Lisbon",
-          "Pinus pinea in Castelo de São Jorge",
-          "Quality images",
-          "Quality images missing SDC depicts",
-          "Quality images of Santa Maria Maior (Lisbon)",
-          "Self-published work",
-          "Taken with Canon EOS 50D"
-        ]
+        "mediumPath": "_m/e/y/c/s/sao-jorge-castle-wp/portugal-lisbon-castel-1-medium.webp",
+        "smallPath": "_m/e/y/c/s/sao-jorge-castle-wp/portugal-lisbon-castel-1-small.webp"
       },
       "images": [
         {
@@ -62,7 +50,7 @@
           "smallPath": "_m/e/y/c/s/sao-jorge-castle-wp/view-lisbon-castle-ill-small.webp"
         },
         {
-          "path": "_m/e/y/c/s/sao-jorge-castle-wp/hero.jpg",
+          "path": "_m/e/y/c/s/lisbon-wk/hero.jpg",
           "filename": "LisbonCastle.jpg",
           "caption": "Lisbon Castle",
           "alt": "Lisbon Castle",
@@ -80,10 +68,12 @@
             "GFDL",
             "License migration completed",
             "Views of Castelo de São Jorge from the West"
-          ]
+          ],
+          "mediumPath": "_m/e/y/c/s/lisbon-wk/hero-medium.webp",
+          "smallPath": "_m/e/y/c/s/lisbon-wk/hero-small.webp"
         },
         {
-          "path": "_m/e/y/c/s/sao-jorge-castle-wp/guimaraes-castle.jpg",
+          "path": "_m/e/y/9/g/castle-of-silves-wp/guimaraes-castle.jpg",
           "filename": "Castelo de Guimarães Castelo da Fundação.JPG",
           "caption": "Guimaraes Castle",
           "alt": "Guimaraes Castle",
@@ -106,10 +96,12 @@
             "License migration redundant",
             "Self-published work",
             "Taken with HP PhotoSmart M440"
-          ]
+          ],
+          "mediumPath": "_m/e/y/9/g/castle-of-silves-wp/guimaraes-castle-medium.webp",
+          "smallPath": "_m/e/y/9/g/castle-of-silves-wp/guimaraes-castle-small.webp"
         },
         {
-          "path": "_m/e/y/c/s/sao-jorge-castle-wp/castle-penela-coimbra.jpg",
+          "path": "_m/e/y/9/g/castle-of-silves-wp/castle-penela-coimbra.jpg",
           "filename": "Castelo de Penela - vista geral.JPG",
           "caption": "Castle of Penela, Coimbra, Portugal.",
           "alt": "Castle of Penela, Coimbra, Portugal.",
@@ -130,10 +122,12 @@
             "Photographs with polarization filter",
             "Self-published work",
             "Taken with Olympus E-420"
-          ]
+          ],
+          "mediumPath": "_m/e/y/9/g/castle-of-silves-wp/castle-penela-coimbra-medium.webp",
+          "smallPath": "_m/e/y/9/g/castle-of-silves-wp/castle-penela-coimbra-small.webp"
         },
         {
-          "path": "_m/e/y/c/s/sao-jorge-castle-wp/palmela-castle-setubal.jpg",
+          "path": "_m/e/y/9/g/castle-of-silves-wp/palmela-castle-setubal.jpg",
           "filename": "Castelo de Plamela 2004-04.jpg",
           "caption": "Palmela Castle, Setúbal, Portugal",
           "alt": "Palmela Castle, Setúbal, Portugal",
@@ -145,7 +139,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Plamela_2004-04.jpg",
           "sourceType": "core",
           "sourceArticleId": "sao-jorge-castle-wp",
-          "sourceGeohash4": "eycs"
+          "sourceGeohash4": "eycs",
+          "smallPath": "_m/e/y/9/g/castle-of-silves-wp/palmela-castle-setubal-small.webp"
         },
         {
           "path": "_m/e/y/c/s/sao-jorge-castle-wp/castelo-de-sao-jorge.jpg",
@@ -641,7 +636,9 @@
             "Montes Claros (ship, 1981)",
             "Self-published work",
             "Taken with HP PhotoSmart C945"
-          ]
+          ],
+          "mediumPath": "_m/e/y/c/s/lisbon-wk/cacilheiros-boats-tagu-medium.webp",
+          "smallPath": "_m/e/y/c/s/lisbon-wk/cacilheiros-boats-tagu-small.webp"
         },
         {
           "path": "_m/e/y/c/s/lisbon-wk/gare-do-oriente-train.jpg",
@@ -665,7 +662,9 @@
             "License migration redundant",
             "March 2009 in Lisbon",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/e/y/c/s/lisbon-wk/gare-do-oriente-train-medium.webp",
+          "smallPath": "_m/e/y/c/s/lisbon-wk/gare-do-oriente-train-small.webp"
         },
         {
           "path": "_m/e/y/c/s/lisbon-wk/rua-augusta-lisbon-por.jpg",
@@ -690,7 +689,9 @@
             "Rua Augusta (Lisbon)",
             "Self-published work",
             "Sidewalk cafés in Lisbon"
-          ]
+          ],
+          "mediumPath": "_m/e/y/c/s/lisbon-wk/rua-augusta-lisbon-por-medium.webp",
+          "smallPath": "_m/e/y/c/s/lisbon-wk/rua-augusta-lisbon-por-small.webp"
         },
         {
           "path": "_m/e/y/c/s/lisbon-wk/celeste-rodrigues-cant.jpg",
@@ -714,7 +715,8 @@
             "Guitarists with steel-string acoustic guitars",
             "Male guitarists from Portugal",
             "Taken with Ricoh Caplio R7"
-          ]
+          ],
+          "smallPath": "_m/e/y/c/s/lisbon-wk/celeste-rodrigues-cant-small.webp"
         },
         {
           "path": "_m/e/y/c/s/lisbon-wk/estacao-ferroviaria-de.jpg",
@@ -735,7 +737,9 @@
             "Files with coordinates missing SDC location of creation",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/e/y/c/s/lisbon-wk/estacao-ferroviaria-de-medium.webp",
+          "smallPath": "_m/e/y/c/s/lisbon-wk/estacao-ferroviaria-de-small.webp"
         },
         {
           "path": "_m/e/y/c/s/lisbon-wk/gare-maritima-de-alcan.jpg",
@@ -765,7 +769,9 @@
             "Self-published work",
             "Taken with Canon EOS 500D",
             "WLM-PT with known IDs"
-          ]
+          ],
+          "mediumPath": "_m/e/y/c/s/lisbon-wk/gare-maritima-de-alcan-medium.webp",
+          "smallPath": "_m/e/y/c/s/lisbon-wk/gare-maritima-de-alcan-small.webp"
         },
         {
           "path": "_m/e/y/c/s/lisbon-wk/lisbon.jpg",
@@ -786,7 +792,9 @@
             "CC-BY-SA-3.0",
             "Cobbled streets in Lisbon",
             "October 2012 in Lisbon"
-          ]
+          ],
+          "mediumPath": "_m/e/y/c/s/lisbon-wk/lisbon-medium.webp",
+          "smallPath": "_m/e/y/c/s/lisbon-wk/lisbon-small.webp"
         },
         {
           "path": "_m/e/y/c/s/lisbon-wk/dsc_2280.jpg",
@@ -801,7 +809,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:DSC_2280_(5581984932).jpg",
           "sourceType": "poi",
           "sourceArticleId": "lisbon-wk",
-          "sourceGeohash4": "eycs"
+          "sourceGeohash4": "eycs",
+          "mediumPath": "_m/e/y/c/s/lisbon-wk/dsc_2280-medium.webp",
+          "smallPath": "_m/e/y/c/s/lisbon-wk/dsc_2280-small.webp"
         },
         {
           "path": "_m/e/y/c/s/lisbon-wk/photo-trams-aux-fils-b.jpg",
@@ -816,7 +826,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_de_Lisbonne_(Portugal)_(5911024187)_(2).jpg",
           "sourceType": "poi",
           "sourceArticleId": "lisbon-wk",
-          "sourceGeohash4": "eycs"
+          "sourceGeohash4": "eycs",
+          "mediumPath": "_m/e/y/c/s/lisbon-wk/photo-trams-aux-fils-b-medium.webp",
+          "smallPath": "_m/e/y/c/s/lisbon-wk/photo-trams-aux-fils-b-small.webp"
         },
         {
           "path": "_m/e/y/c/s/lisbon-wk/gloria-funicular-portu.jpg",
@@ -831,7 +843,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gloria_Funicular_(14025314679).jpg",
           "sourceType": "poi",
           "sourceArticleId": "lisbon-wk",
-          "sourceGeohash4": "eycs"
+          "sourceGeohash4": "eycs",
+          "mediumPath": "_m/e/y/c/s/lisbon-wk/gloria-funicular-portu-medium.webp",
+          "smallPath": "_m/e/y/c/s/lisbon-wk/gloria-funicular-portu-small.webp"
         },
         {
           "path": "_m/e/y/c/s/lisbon-wk/25-de-abril-bridge.jpg",
@@ -846,7 +860,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:25_de_Abril_Bridge_(34020157851).jpg",
           "sourceType": "poi",
           "sourceArticleId": "lisbon-wk",
-          "sourceGeohash4": "eycs"
+          "sourceGeohash4": "eycs",
+          "mediumPath": "_m/e/y/c/s/lisbon-wk/25-de-abril-bridge-medium.webp",
+          "smallPath": "_m/e/y/c/s/lisbon-wk/25-de-abril-bridge-small.webp"
         },
         {
           "path": "_m/e/y/c/s/lisbon-wk/u-s-ambassador-portuga.jpg",
@@ -861,7 +877,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ambassador_Sherman_and_Ms._Sawyer_Celebrate_America%27s_Independence_Day_at_Embassy_Lisbon_(July_3,_2015).jpg",
           "sourceType": "poi",
           "sourceArticleId": "lisbon-wk",
-          "sourceGeohash4": "eycs"
+          "sourceGeohash4": "eycs",
+          "smallPath": "_m/e/y/c/s/lisbon-wk/u-s-ambassador-portuga-small.webp"
         },
         {
           "path": "_m/e/y/c/s/lisbon-wk/estatua-do-rei-dom-jos.jpg",
@@ -876,7 +893,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Est%C3%A1tua_do_Rei_Dom_Jos%C3%A9_I_DSC_0078_(52635007867).jpg",
           "sourceType": "poi",
           "sourceArticleId": "lisbon-wk",
-          "sourceGeohash4": "eycs"
+          "sourceGeohash4": "eycs",
+          "mediumPath": "_m/e/y/c/s/lisbon-wk/estatua-do-rei-dom-jos-medium.webp",
+          "smallPath": "_m/e/y/c/s/lisbon-wk/estatua-do-rei-dom-jos-small.webp"
         },
         {
           "path": "_m/e/y/c/k/portugal-wp/arco-da-porta-nova-braga.jpg",
@@ -901,7 +920,9 @@
             "Media missing infobox template",
             "Portugal photographs taken on 2007-08-29",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/e/y/c/k/portugal-wp/arco-da-porta-nova-braga-medium.webp",
+          "smallPath": "_m/e/y/c/k/portugal-wp/arco-da-porta-nova-braga-small.webp"
         },
         {
           "path": "_m/e/y/c/k/portugal-wp/cidade-de-angra-do-heroismo-il.jpg",
@@ -922,7 +943,8 @@
             "PD-self",
             "Self-published work",
             "Sé (Angra do Heroísmo)"
-          ]
+          ],
+          "smallPath": "_m/e/y/c/k/portugal-wp/cidade-de-angra-do-heroismo-il-small.webp"
         },
         {
           "path": "_m/e/y/c/k/portugal-wp/coimbra-tozu.jpg",
@@ -943,7 +965,9 @@
             "Panoramas of Coimbra",
             "Self-published work",
             "Taken with Fujifilm FinePix A370"
-          ]
+          ],
+          "mediumPath": "_m/e/y/c/k/portugal-wp/coimbra-tozu-medium.webp",
+          "smallPath": "_m/e/y/c/k/portugal-wp/coimbra-tozu-small.webp"
         },
         {
           "path": "_m/e/y/c/k/portugal-wp/bacalhau-a-bras.jpg",
@@ -965,7 +989,8 @@
             "Self-published work",
             "Stockfish dishes",
             "Taken with Panasonic VDR-D310"
-          ]
+          ],
+          "smallPath": "_m/e/y/c/k/portugal-wp/bacalhau-a-bras-small.webp"
         },
         {
           "path": "_m/e/y/c/k/portugal-wp/caldo-verde-jul-2008.jpg",
@@ -988,7 +1013,9 @@
             "Cazuela",
             "Flickr images uploaded by Flickr upload bot",
             "Taken with Nikon Coolpix L3"
-          ]
+          ],
+          "mediumPath": "_m/e/y/c/k/portugal-wp/caldo-verde-jul-2008-medium.webp",
+          "smallPath": "_m/e/y/c/k/portugal-wp/caldo-verde-jul-2008-small.webp"
         },
         {
           "path": "_m/e/y/c/k/portugal-wp/douro-do-museu-do-coa-2-492822.jpg",
@@ -1012,7 +1039,9 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Photographs by Aires Almeida",
             "Taken with Nikon D40x"
-          ]
+          ],
+          "mediumPath": "_m/e/y/c/k/portugal-wp/douro-do-museu-do-coa-2-492822-medium.webp",
+          "smallPath": "_m/e/y/c/k/portugal-wp/douro-do-museu-do-coa-2-492822-small.webp"
         },
         {
           "path": "_m/e/y/c/k/portugal-wp/arrabida-estrada-para-o-parais.jpg",
@@ -1042,7 +1071,9 @@
             "Sites of Community Importance in Portugal with known IDs",
             "Uploaded via Campaign:wle-pt",
             "Uploaded via Campaign:wle-pt in 2015"
-          ]
+          ],
+          "mediumPath": "_m/e/y/c/k/portugal-wp/arrabida-estrada-para-o-parais-medium.webp",
+          "smallPath": "_m/e/y/c/k/portugal-wp/arrabida-estrada-para-o-parais-small.webp"
         },
         {
           "path": "_m/e/y/c/k/portugal-wp/cozido-furnas-1.jpg",
@@ -1060,7 +1091,9 @@
           "sourceGeohash4": "eyck",
           "categories": [
             "CC-BY-SA-4.0"
-          ]
+          ],
+          "mediumPath": "_m/e/y/c/k/portugal-wp/cozido-furnas-1-medium.webp",
+          "smallPath": "_m/e/y/c/k/portugal-wp/cozido-furnas-1-small.webp"
         },
         {
           "path": "_m/e/y/c/k/portugal-wp/welcome-to-porto-29723224046.jpg",
@@ -1075,7 +1108,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:(Welcome_to)_Porto_(29723224046).jpg",
           "sourceType": "poi",
           "sourceArticleId": "portugal-wp",
-          "sourceGeohash4": "eyck"
+          "sourceGeohash4": "eyck",
+          "smallPath": "_m/e/y/c/k/portugal-wp/welcome-to-porto-29723224046-small.webp"
         },
         {
           "path": "_m/e/y/c/k/portugal-wp/cs-ttc-16177532435.jpg",
@@ -1090,7 +1124,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CS-TTC_(16177532435).jpg",
           "sourceType": "poi",
           "sourceArticleId": "portugal-wp",
-          "sourceGeohash4": "eyck"
+          "sourceGeohash4": "eyck",
+          "smallPath": "_m/e/y/c/k/portugal-wp/cs-ttc-16177532435-small.webp"
         },
         {
           "path": "_m/e/y/c/k/portugal-wp/33037-cascais-35538412783.jpg",
@@ -1105,7 +1140,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:33037-Cascais_(35538412783).jpg",
           "sourceType": "poi",
           "sourceArticleId": "portugal-wp",
-          "sourceGeohash4": "eyck"
+          "sourceGeohash4": "eyck",
+          "mediumPath": "_m/e/y/c/k/portugal-wp/33037-cascais-35538412783-medium.webp",
+          "smallPath": "_m/e/y/c/k/portugal-wp/33037-cascais-35538412783-small.webp"
         },
         {
           "path": "_m/e/y/c/k/portugal-wp/25-de-abril-bridge-36211704453.jpg",
@@ -1120,7 +1157,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:25_de_Abril_Bridge_(36211704453).jpg",
           "sourceType": "poi",
           "sourceArticleId": "portugal-wp",
-          "sourceGeohash4": "eyck"
+          "sourceGeohash4": "eyck",
+          "mediumPath": "_m/e/y/c/k/portugal-wp/25-de-abril-bridge-36211704453-medium.webp",
+          "smallPath": "_m/e/y/c/k/portugal-wp/25-de-abril-bridge-36211704453-small.webp"
         },
         {
           "path": "_m/e/y/c/k/portugal-wp/cristo-rei-36211699613.jpg",
@@ -1135,7 +1174,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cristo_Rei_(36211699613).jpg",
           "sourceType": "poi",
           "sourceArticleId": "portugal-wp",
-          "sourceGeohash4": "eyck"
+          "sourceGeohash4": "eyck",
+          "mediumPath": "_m/e/y/c/k/portugal-wp/cristo-rei-36211699613-medium.webp",
+          "smallPath": "_m/e/y/c/k/portugal-wp/cristo-rei-36211699613-small.webp"
         },
         {
           "path": "_m/e/y/c/k/portugal-wp/capela-das-almas-oporto-banner.jpg",
@@ -1150,7 +1191,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capela_Das_Almas_Oporto_Banner.jpg",
           "sourceType": "poi",
           "sourceArticleId": "portugal-wp",
-          "sourceGeohash4": "eyck"
+          "sourceGeohash4": "eyck",
+          "mediumPath": "_m/e/y/c/k/portugal-wp/capela-das-almas-oporto-banner-medium.webp",
+          "smallPath": "_m/e/y/c/k/portugal-wp/capela-das-almas-oporto-banner-small.webp"
         }
       ],
       "narration": [

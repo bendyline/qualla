@@ -32,7 +32,7 @@ Located at 35.695N, 139.705E in Shinjuku, central Tokyo. The dense neon-lit bloc
 
 ## Sources
 
-- [Kabukicho - Wikipedia](https://en.wikipedia.org/wiki/Kabukicho)
+- [Kabukicho - Wikipedia](https://en.wikipedia.org/?curid=667914)
   - Myojo 56 fire September 2001 killed 44 people confirmed
   - Tokyu Kabukicho Tower 48 stories opened April 14 2023 confirmed
   - Tokyu Milano-za closed December 31 2014 confirmed

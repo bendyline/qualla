@@ -3,26 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/z/0/sunderland-synagogue-wp/hero.jpg",
-        "filename": "Tyne and Wear UK relief location map.jpg",
-        "caption": "Relief map of Tyne and Wear, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 1.90W\nEast: 1.30W\nNorth: 55.09N\nSouth: 54.78N",
-        "alt": "Relief map of Tyne and Wear, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 1.90W\nEast: 1.30W\nNorth: 55.09N\nSouth: 54.78N",
-        "width": 1999,
-        "height": 1756,
+        "path": "_m/g/c/z/0/sunderland-synagogue-wp/sunderland-synagogue.jpg",
+        "filename": "Sunderland Synagogue.jpg",
+        "caption": "Sunderland Synagogue, Ryhope Road",
+        "alt": "Sunderland Synagogue, Ryhope Road",
+        "width": 3648,
+        "height": 2736,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Nilfanion, created using Ordnance Survey data",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tyne_and_Wear_UK_relief_location_map.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "She11cr",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunderland_Synagogue.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "sunderland-synagogue-wp",
         "sourceGeohash4": "gcz0",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Maps by Nilfanion",
-          "Maps of Tyne and Wear",
-          "Ordnance Survey Boundary Line maps",
-          "Topographic maps of England"
-        ]
+          "CC-BY-SA-4.0",
+          "Images from Wiki Loves Monuments 2020",
+          "Images from Wiki Loves Monuments 2020 in England",
+          "Images from Wiki Loves Monuments 2020 in the United Kingdom",
+          "Listed buildings in England with known IDs",
+          "Self-published work",
+          "Sunderland Synagogue",
+          "United Kingdom photographs taken on 2020-09-09",
+          "Uploaded via Campaign:wlm-gb-eng",
+          "WLM-UK 2020 unfiltered 09-09"
+        ],
+        "mediumPath": "_m/g/c/z/0/sunderland-synagogue-wp/sunderland-synagogue-medium.webp",
+        "smallPath": "_m/g/c/z/0/sunderland-synagogue-wp/sunderland-synagogue-small.webp"
       },
       "images": [
         {
@@ -76,7 +83,8 @@
             "Self-published work",
             "Sunderland station",
             "Taken with Panasonic Lumix DMC-FZ20"
-          ]
+          ],
+          "smallPath": "_m/g/c/z/0/sunderland-wp/sunderland-station-metro-platf-small.webp"
         },
         {
           "path": "_m/g/c/z/0/sunderland-wp/sunderland-empire.jpg",
@@ -100,7 +108,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon PowerShot G5"
-          ]
+          ],
+          "smallPath": "_m/g/c/z/0/sunderland-wp/sunderland-empire-small.webp"
         },
         {
           "path": "_m/g/c/z/0/monkwearmouth-railway-bridge-wp/hero.jpg",
@@ -115,7 +124,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wearmouth_Bridge,_Sunderland.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "monkwearmouth-railway-bridge-wp",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "smallPath": "_m/g/c/z/0/monkwearmouth-railway-bridge-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/z/0/sunderland-wp/penshaw-monument-6405902427.jpg",
@@ -130,7 +140,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Penshaw_monument_(6405902427).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sunderland-wp",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "smallPath": "_m/g/c/z/0/sunderland-wp/penshaw-monument-6405902427-small.webp"
         },
         {
           "path": "_m/g/c/z/0/sunderland-wp/sunderland-minster-geograph-18.jpg",
@@ -145,7 +156,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunderland_Minster_(geograph_1841095).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sunderland-wp",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "smallPath": "_m/g/c/z/0/sunderland-wp/sunderland-minster-geograph-18-small.webp"
         },
         {
           "path": "_m/g/c/z/0/sunderland-wk/william-pile-s-shipyard-north-.jpg",
@@ -160,7 +172,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Pile%27s_Shipyard,_North_Sands,_Sunderland.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sunderland-wk",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "smallPath": "_m/g/c/z/0/sunderland-wk/william-pile-s-shipyard-north--small.webp"
         },
         {
           "path": "_m/g/c/z/0/sunderland-wp/sunderland-museum-and-winter-g.jpg",
@@ -175,7 +188,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunderland_Museum_and_Winter_Gardens_05.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sunderland-wp",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "smallPath": "_m/g/c/z/0/sunderland-wp/sunderland-museum-and-winter-g-small.webp"
         }
       ],
       "narration": [

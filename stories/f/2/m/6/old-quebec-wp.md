@@ -33,7 +33,7 @@ Old Quebec is located at 46.813N, 71.208W, on the north shore of the Saint Lawre
 ## Sources
 
 - [Old Quebec - Wikipedia](https://en.wikipedia.org/?curid=2906906)
-- [Old Quebec - Wikipedia](https://en.wikipedia.org/wiki/Old_Quebec)
+- [Old Quebec - Wikipedia](https://en.wikipedia.org/?curid=2906906)
   - UNESCO World Heritage Site designation December 3, 1985 confirmed
   - 1,400 buildings within and around the walls confirmed
   - Champlain chose Cap Diamant in 1608 for Fort Saint Louis confirmed

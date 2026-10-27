@@ -3,25 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/c/b/c/la-mano-de-punta-del-este-wp/hero.jpg",
-        "filename": "Thehandofpuntadeleste.jpg",
-        "caption": "The Hand sculpture at Punta Del Este, Uruguay.  Photographed by user Coolcaesar on November 20, 2012.",
-        "alt": "The Hand sculpture at Punta Del Este, Uruguay.  Photographed by user Coolcaesar on November 20, 2012.",
-        "width": 3648,
-        "height": 2736,
+        "path": "_m/6/c/b/c/la-mano-de-punta-del-este-wp/la-mano-8453942138.jpg",
+        "filename": "La Mano (8453942138).jpg",
+        "caption": "La Mano",
+        "alt": "La Mano",
+        "width": 5164,
+        "height": 3047,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Coolcaesar",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thehandofpuntadeleste.jpg",
-        "sourceType": "core",
+        "license": "CC BY 2.0",
+        "artist": "Davi Sanchez",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Mano_(8453942138).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "la-mano-de-punta-del-este-wp",
         "sourceGeohash4": "6cbc",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "FoP-Uruguay",
-          "La Mano de Punta del Este",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/6/c/b/c/la-mano-de-punta-del-este-wp/la-mano-8453942138-medium.webp",
+        "smallPath": "_m/6/c/b/c/la-mano-de-punta-del-este-wp/la-mano-8453942138-small.webp"
       },
       "images": [
         {
@@ -165,7 +161,7 @@
           "smallPath": "_m/6/c/b/c/la-mano-de-punta-del-este-wp/la-mano-de-punta-del-este-small.webp"
         },
         {
-          "path": "_m/6/c/b/c/la-mano-de-punta-del-este-wp/s-mbolo-punta-del-este-2013-05.jpg",
+          "path": "_m/6/c/c/k/atlantic-coast-uruguay-wk/s-mbolo-punta-del-este-2013-05.jpg",
           "filename": "Símbolo Punta del Este 2013-05-11 17-38.jpg",
           "caption": "Símbolo Punta del Este",
           "alt": "Símbolo Punta del Este",
@@ -184,7 +180,9 @@
             "Mobile uploads lacking EXIF data for camera",
             "Self-published work",
             "Uploaded with Mobile/Web"
-          ]
+          ],
+          "mediumPath": "_m/6/c/c/k/atlantic-coast-uruguay-wk/s-mbolo-punta-del-este-2013-05-medium.webp",
+          "smallPath": "_m/6/c/c/k/atlantic-coast-uruguay-wk/s-mbolo-punta-del-este-2013-05-small.webp"
         },
         {
           "path": "_m/6/c/b/c/la-mano-de-punta-del-este-wp/la-mano-que-emerge-en-punta-de.jpg",
@@ -403,7 +401,7 @@
           "smallPath": "_m/6/c/b/c/la-mano-de-punta-del-este-wp/the-hand-14455164398-2-small.webp"
         },
         {
-          "path": "_m/6/c/b/c/la-mano-de-punta-del-este-wp/ur-puntadeleste-skulptur.jpg",
+          "path": "_m/6/c/b/c/punta-del-este-wp/ur-puntadeleste-skulptur.jpg",
           "filename": "UR-puntadeleste-skulptur.jpg",
           "caption": "Punta del Este",
           "alt": "Punta del Este",
@@ -415,7 +413,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:UR-puntadeleste-skulptur.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "punta-del-este-wp",
-          "sourceGeohash4": "6cbc"
+          "sourceGeohash4": "6cbc",
+          "mediumPath": "_m/6/c/b/c/punta-del-este-wp/ur-puntadeleste-skulptur-medium.webp",
+          "smallPath": "_m/6/c/b/c/punta-del-este-wp/ur-puntadeleste-skulptur-small.webp"
         },
         {
           "path": "_m/6/c/b/c/punta-del-este-wk/hero.jpg",
@@ -438,7 +438,8 @@
             "FoP-Uruguay",
             "PD-author",
             "Taken with Sony DSC-P92"
-          ]
+          ],
+          "smallPath": "_m/6/c/b/c/punta-del-este-wk/hero-small.webp"
         },
         {
           "path": "_m/6/c/b/c/punta-del-este-wk/der-flughafen-capitan.jpg",
@@ -462,7 +463,8 @@
             "Files with coordinates missing SDC location of creation (35° S, 56° W)",
             "Self-published work",
             "Taken with iPhone 4"
-          ]
+          ],
+          "smallPath": "_m/6/c/b/c/punta-del-este-wk/der-flughafen-capitan-small.webp"
         }
       ],
       "videos": [

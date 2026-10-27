@@ -32,7 +32,7 @@ The three forts fell in sequence. Fort Powell's garrison spiked its guns and fle
 
 ## Flight Context
 
-The Battle of Mobile Bay took place at the entrance to Mobile Bay near 30.24N, 88.05W, between Fort Morgan on the eastern tip of Mobile Point and Dauphin Island to the west. From the air, the narrow channel between these two landforms is clearly visible, with Fort Morgan's pentagonal outline on the sand peninsula. The wreck of CSS Tennessee and other Civil War-era vessels remain on the bay floor. Nearest airports: Jack Edwards National Airport (KJKA) in Gulf Shores approximately 10nm east, Mobile Regional Airport (KMOB) roughly 35nm north. Dauphin Island is visible across the channel to the west. The bay stretches north toward Mobile where the Mobile and Tensaw rivers converge.
+The Battle of Mobile Bay took place at the entrance to Mobile Bay near 30.24N, 88.05W, between Fort Morgan on the eastern tip of Mobile Point and Dauphin Island to the west. From the air, the narrow channel between these two landforms is clearly visible, with Fort Morgan's pentagonal outline on the sand peninsula. The wreck of CSS Tennessee and other Civil War-era vessels remain on the bay floor. Nearest airports: Gulf Shores International Airport (KJKA, formerly Jack Edwards National) in Gulf Shores approximately 10nm east, Mobile Regional Airport (KMOB) roughly 35nm north. Dauphin Island is visible across the channel to the west. The bay stretches north toward Mobile where the Mobile and Tensaw rivers converge.
 
 ## Sources
 

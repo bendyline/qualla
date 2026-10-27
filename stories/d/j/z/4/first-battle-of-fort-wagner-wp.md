@@ -33,7 +33,7 @@ Located at 32.73°N, 79.87°W on Morris Island at the southern entrance to Charl
 ## Sources
 
 - [First Battle of Fort Wagner - Wikipedia](https://en.wikipedia.org/?curid=1896590)
-- [First Battle of Fort Wagner - Wikipedia](https://en.wikipedia.org/wiki/First_Battle_of_Fort_Wagner)
+- [First Battle of Fort Wagner - Wikipedia](https://en.wikipedia.org/?curid=1896590)
   - Landing on Morris Island July 10, 1863; first assault July 11
   - Quincy Adams Gillmore commanded Department of the South from early June 1863
   - Fort Wagner garrison of 1,770 Confederates under Col. Robert F. Graham

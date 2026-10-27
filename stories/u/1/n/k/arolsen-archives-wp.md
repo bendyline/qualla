@@ -36,7 +36,7 @@ The Arolsen Archives sit at 51.378N, 9.019E on the edge of Bad Arolsen in Waldec
 
 ## Sources
 
-- [Arolsen Archives - Wikipedia](https://en.wikipedia.org/wiki/Arolsen_Archives)
+- [Arolsen Archives - Wikipedia](https://en.wikipedia.org/?curid=4083754)
 - [About us - Arolsen Archives](https://arolsen-archives.org/en/about-us/)
   - 30 million documents with information on more than 17.5 million victims and survivors
   - described as the world's most comprehensive archive on the victims and survivors of National Socialism
@@ -50,7 +50,7 @@ The Arolsen Archives sit at 51.378N, 9.019E on the edge of Bad Arolsen in Waldec
   - a Buchenwald subcamp operated in the town from 1943 to 1945 with 185 prisoners
 - [Arolsen Archives - Wikipedia (German)](https://de.wikipedia.org/wiki/Arolsen_Archives)
   - Corrected/added: the institution was renamed from International Tracing Service to Arolsen Archives - International Center on Nazi Persecution on 20 May 2019, a fact absent from the original story text
-- [Arolsen Archives - Wikipedia (re-verification)](https://en.wikipedia.org/wiki/Arolsen_Archives)
+- [Arolsen Archives - Wikipedia (re-verification)](https://en.wikipedia.org/?curid=4083754)
   - 30 million documents, 50 million references on the fate of over 17.5 million people re-confirmed
   - Central Tracing Bureau formalized 15 February 1944 under SHAEF; IRO took over 1 July 1947; renamed International Tracing Service 1 January 1948
   - director historically appointed by ICRC and required to be a Swiss citizen - now historical; current director Floriane Azoulay since January 2016 confirms this clause is no longer in force, consistent with the story's past-tense framing

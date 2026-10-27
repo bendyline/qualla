@@ -30,7 +30,7 @@ What the undisclosed buyer intends to do with Eagle Mountain remains unresolved.
 
 ## Flight Context
 
-Located at approximately 33.83°N, 115.43°W in the Eagle Mountains of Riverside County, south of Interstate 10 near Desert Center. The town's street grid is identifiable from altitude as a regular pattern of roads against the desert terrain. The Eagle Mountains rise to the north and northeast. Nearest airports: Thermal/Jacqueline Cochran Regional (TRM) ~30 miles west, Desert Resorts Regional (PSP) ~50 miles northwest.
+Located at approximately 33.83°N, 115.43°W in the Eagle Mountains of Riverside County, south of Interstate 10 near Desert Center. The town's street grid is identifiable from altitude as a regular pattern of roads against the desert terrain. The Eagle Mountains rise to the north and northeast. Nearest airports: Thermal/Jacqueline Cochran Regional (TRM) ~30 miles west, Palm Springs International (PSP) ~50 miles northwest.
 
 ## Sources
 

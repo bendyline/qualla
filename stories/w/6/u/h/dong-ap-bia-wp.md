@@ -31,6 +31,17 @@ Dong Ap Bia (Hill 937) sits at approximately 16.25°N, 107.183°E, at the northe
 ## Sources
 
 - [Dong Ap Bia - Wikipedia](https://en.wikipedia.org/?curid=2045381)
+- [Battle of Hamburger Hill - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Hamburger_Hill)
+  - 3rd Battalion, 187th Infantry ('Rakkasans') of 101st Airborne Division confirmed as primary assault unit
+  - PAVN 29th Regiment defended the hill confirmed
+  - Hill 937 (Dong Ap Bia) summit reached May 20, 1969 confirmed
+  - Eleven infantry assaults to take the summit confirmed
+  - Corrected: casualty figures changed from '72 killed and 372 wounded' to '56 killed and 367 wounded' (per Wikipedia and most authoritative sources)
+  - PAVN casualties ~630 dead confirmed (story says 'over 600' which is accurate)
+  - Operation Apache Snow was the name of the broader operation (story says 'Operation Apache Snow' — confirmed)
+- [Rakkasans on Hamburger Hill - U.S. Army](https://www.army.mil/article/38997/rakkasans_on_hamburger_hill)
+  - 3rd Battalion, 187th Infantry 'Rakkasans' designation confirmed
+  - Senator Edward Kennedy condemned the battle on the Senate floor confirmed
 
 ## Review Notes
 

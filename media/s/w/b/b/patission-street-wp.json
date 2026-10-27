@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/w/b/b/patission-street-wp/hero.jpg",
-        "filename": "Patission Avenue.JPG",
-        "caption": "Patission Avenue in Athens, Greece. One of the bussiest streets of the Greek capital.",
-        "alt": "Patission Avenue in Athens, Greece. One of the bussiest streets of the Greek capital.",
-        "width": 900,
-        "height": 1200,
+        "path": "_m/s/w/b/b/patission-street-wp/athens-van-hool-trolleybus-on-.jpg",
+        "filename": "Athens Van Hool trolleybus on Patission Street in 2012.jpg",
+        "caption": "A 7000-series trolleybus (Van Hool model A300T) on Patission Street, in Athens.",
+        "alt": "A 7000-series trolleybus (Van Hool model A300T) on Patission Street, in Athens.",
+        "width": 4288,
+        "height": 2848,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "No machine-readable author provided. Malakas assumed (based on copyright claims).",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Patission_Avenue.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "Georgedogor",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Athens_Van_Hool_trolleybus_on_Patission_Street_in_2012.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "patission-street-wp",
         "sourceGeohash4": "swbb",
-        "categories": [
-          "2006 in Athens",
-          "Assumed own work",
-          "Files with no machine-readable source",
-          "Groups of buses",
-          "PD-self",
-          "Patission Street",
-          "Self-published work",
-          "Trolleybuses in Athens"
-        ]
+        "mediumPath": "_m/s/w/b/b/patission-street-wp/athens-van-hool-trolleybus-on--medium.webp",
+        "smallPath": "_m/s/w/b/b/patission-street-wp/athens-van-hool-trolleybus-on--small.webp"
       },
       "images": [
         {
@@ -87,7 +79,7 @@
           "smallPath": "_m/s/w/b/b/patission-street-wp/athens-patision-student-dormit-small.webp"
         },
         {
-          "path": "_m/s/w/b/b/patission-street-wp/condominium-in-kypseli-2.jpg",
+          "path": "_m/s/w/b/b/kypseli-athens-wp/condominium-in-kypseli-2.jpg",
           "filename": "Condominium in Kypseli 2.jpg",
           "caption": "Condominium in Kypseli, Athens, Greece",
           "alt": "Condominium in Kypseli, Athens, Greece",
@@ -109,7 +101,9 @@
             "Kypseli",
             "Patission Street",
             "Taken with Kodak EasyShare V1253"
-          ]
+          ],
+          "mediumPath": "_m/s/w/b/b/kypseli-athens-wp/condominium-in-kypseli-2-medium.webp",
+          "smallPath": "_m/s/w/b/b/kypseli-athens-wp/condominium-in-kypseli-2-small.webp"
         },
         {
           "path": "_m/s/w/b/b/patission-street-wp/20090801-athina08.jpg",
@@ -227,7 +221,7 @@
           "smallPath": "_m/s/w/b/b/patission-street-wp/20090801-athina22-small.webp"
         },
         {
-          "path": "_m/s/w/b/b/patission-street-wp/ioannis-metaxas-house.jpg",
+          "path": "_m/s/w/b/b/kypseli-athens-wp/ioannis-metaxas-house.jpg",
           "filename": "Metaxas house in Athens.jpg",
           "caption": "Ioannis Metaxas house in Athens",
           "alt": "Ioannis Metaxas house in Athens",
@@ -239,7 +233,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Metaxas_house_in_Athens.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "kypseli-athens-wp",
-          "sourceGeohash4": "swbb"
+          "sourceGeohash4": "swbb",
+          "smallPath": "_m/s/w/b/b/kypseli-athens-wp/ioannis-metaxas-house-small.webp"
         },
         {
           "path": "_m/s/w/b/b/patission-street-wp/kallas-house.jpg",
@@ -308,7 +303,7 @@
           "smallPath": "_m/s/w/b/b/patission-street-wp/patision-2-small.webp"
         },
         {
-          "path": "_m/s/w/b/b/patission-street-wp/patision.jpg",
+          "path": "_m/s/w/b/b/exarcheia-wp/patision.jpg",
           "filename": "Patision.jpg",
           "caption": "patision",
           "alt": "patision",
@@ -320,7 +315,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Patision.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "exarcheia-wp",
-          "sourceGeohash4": "swbb"
+          "sourceGeohash4": "swbb",
+          "smallPath": "_m/s/w/b/b/exarcheia-wp/patision-small.webp"
         },
         {
           "path": "_m/s/w/b/b/patission-street-wp/athinaion-open-summer-theater.jpg",

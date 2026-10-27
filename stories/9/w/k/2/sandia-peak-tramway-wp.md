@@ -33,7 +33,7 @@ Located at 35.19N, 106.48W on the western face of the Sandia Mountains, immediat
 ## Sources
 
 - [Sandia Peak Tramway - Wikipedia](https://en.wikipedia.org/?curid=853158)
-- [Sandia Peak Tramway - Wikipedia](https://en.wikipedia.org/wiki/Sandia_Peak_Tramway)
+- [Sandia Peak Tramway - Wikipedia](https://en.wikipedia.org/?curid=853158)
   - 2.7 miles length
   - opened May 7 1966
   - longest aerial tram in Americas

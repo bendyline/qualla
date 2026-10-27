@@ -3,27 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/hero.jpg",
-        "filename": "Randstadrail lijn 4 in tramtunnel.jpg",
-        "caption": "A tram (line 4) of the Dutch RandstadRail in The Hague.",
-        "alt": "A tram (line 4) of the Dutch RandstadRail in The Hague.",
-        "width": 2816,
-        "height": 2112,
+        "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/station-den-haag-holla.jpg",
+        "filename": "Station Hollands Spoor.JPG",
+        "caption": "Station Den Haag Hollands Spoor in The Hague, from the inside.",
+        "alt": "Station Den Haag Hollands Spoor in The Hague, from the inside.",
+        "width": 3648,
+        "height": 2736,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "SNR at Dutch Wikipedia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Randstadrail_lijn_4_in_tramtunnel.jpg",
+        "license": "CC BY-SA 2.5",
+        "artist": "Effeietsanders (talk)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Station_Hollands_Spoor.JPG",
         "sourceType": "core",
         "sourceArticleId": "rotterdam-the-hague-metropolitan-region-wk",
         "sourceGeohash4": "u15p",
-        "categories": [
-          "2007 in tram transport in Haaglanden",
-          "Grote Markt (tram station)",
-          "PD-user",
-          "RegioCitadis trams in The Hague",
-          "Taken with Sanyo Xacti VPC-E6",
-          "Tramline 4 in The Hague"
-        ]
+        "mediumPath": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/station-den-haag-holla-medium.webp",
+        "smallPath": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/station-den-haag-holla-small.webp"
       },
       "images": [
         {
@@ -75,7 +69,7 @@
           "smallPath": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/oude-haven-vlaardingen-small.webp"
         },
         {
-          "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/maassluis-grote-kerk-foto2-200.jpg",
+          "path": "_m/u/1/5/p/rijnmond-wp/maassluis-grote-kerk-foto2-200.jpg",
           "filename": "Maassluis, Grote Kerk foto2 2007-03-10 09.33.JPG",
           "caption": "Maassluis, the Groote Kerk",
           "alt": "Maassluis, the Groote Kerk",
@@ -97,10 +91,12 @@
             "Netherlands photographs taken on 2007-03-10",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/rijnmond-wp/maassluis-grote-kerk-foto2-200-medium.webp",
+          "smallPath": "_m/u/1/5/p/rijnmond-wp/maassluis-grote-kerk-foto2-200-small.webp"
         },
         {
-          "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/de-zweth-netherlands-2.jpg",
+          "path": "_m/u/1/5/p/rijnmond-wp/de-zweth-netherlands-2.jpg",
           "filename": "De Zweth (Netherlands) 2.JPG",
           "caption": "De Zweth tussen Rotterdam en Delft",
           "alt": "De Zweth tussen Rotterdam en Delft",
@@ -124,10 +120,12 @@
             "Photographs by S.J. de Waard",
             "Rotterdamseweg 480, Schipluiden",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/rijnmond-wp/de-zweth-netherlands-2-medium.webp",
+          "smallPath": "_m/u/1/5/p/rijnmond-wp/de-zweth-netherlands-2-small.webp"
         },
         {
-          "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/oud-wassenaar-kasteel.jpg",
+          "path": "_m/u/1/5/p/rijnmond-wp/oud-wassenaar-kasteel.jpg",
           "filename": "Oud-Wassenaar kasteel.JPG",
           "caption": "Kasteel Oud-Wassenaar in Wassenaar",
           "alt": "Kasteel Oud-Wassenaar in Wassenaar",
@@ -139,7 +137,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oud-Wassenaar_kasteel.JPG",
           "sourceType": "core",
           "sourceArticleId": "rotterdam-the-hague-metropolitan-region-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rijnmond-wp/oud-wassenaar-kasteel-medium.webp",
+          "smallPath": "_m/u/1/5/p/rijnmond-wp/oud-wassenaar-kasteel-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/station-den-haag-holla.jpg",
@@ -159,7 +159,7 @@
           "smallPath": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/station-den-haag-holla-small.webp"
         },
         {
-          "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/leidschendam-aan-de-vliet.jpg",
+          "path": "_m/u/1/5/p/rijnmond-wp/leidschendam-aan-de-vliet.jpg",
           "filename": "Leidschendam aan de Vliet.jpg",
           "caption": "Facades of Leidschendam (Netherlands) are reflected in the Vliet canal",
           "alt": "Facades of Leidschendam (Netherlands) are reflected in the Vliet canal",
@@ -171,10 +171,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leidschendam_aan_de_Vliet.jpg",
           "sourceType": "core",
           "sourceArticleId": "rotterdam-the-hague-metropolitan-region-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "smallPath": "_m/u/1/5/p/rijnmond-wp/leidschendam-aan-de-vliet-small.webp"
         },
         {
-          "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/hoek-van-holland-town-centre.jpg",
+          "path": "_m/u/1/5/p/rijnmond-wp/hoek-van-holland-town-centre.jpg",
           "filename": "Hoek van Holland town centre.jpg",
           "caption": "Town centre of Hoek van Holland.",
           "alt": "Town centre of Hoek van Holland.",
@@ -186,10 +187,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hoek_van_Holland_town_centre.jpg",
           "sourceType": "core",
           "sourceArticleId": "rotterdam-the-hague-metropolitan-region-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rijnmond-wp/hoek-van-holland-town-centre-medium.webp",
+          "smallPath": "_m/u/1/5/p/rijnmond-wp/hoek-van-holland-town-centre-small.webp"
         },
         {
-          "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/metropoolregio-rotterdam-den-h.png",
+          "path": "_m/u/1/5/p/rijnmond-wp/metropoolregio-rotterdam-den-h.png",
           "filename": "Metropoolregio Rotterdam-Den Haag.png",
           "caption": "Metropoolregio Rotterdam-Den Haag, deelnemende gemeenten.",
           "alt": "Metropoolregio Rotterdam-Den Haag, deelnemende gemeenten.",
@@ -201,10 +204,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Metropoolregio_Rotterdam-Den_Haag.png",
           "sourceType": "core",
           "sourceArticleId": "rotterdam-the-hague-metropolitan-region-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "smallPath": "_m/u/1/5/p/rijnmond-wp/metropoolregio-rotterdam-den-h-small.webp"
         },
         {
-          "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/fietsknooppuntennetwerk-haagla.jpg",
+          "path": "_m/u/1/5/p/rijnmond-wp/fietsknooppuntennetwerk-haagla.jpg",
           "filename": "Fietsknooppuntennetwerk Haaglanden (2).JPG",
           "caption": "Cycle node network sign Haaglanden",
           "alt": "Cycle node network sign Haaglanden",
@@ -216,10 +220,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fietsknooppuntennetwerk_Haaglanden_(2).JPG",
           "sourceType": "core",
           "sourceArticleId": "rotterdam-the-hague-metropolitan-region-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "smallPath": "_m/u/1/5/p/rijnmond-wp/fietsknooppuntennetwerk-haagla-small.webp"
         },
         {
-          "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/related-poi-erasmusbrug-seen-from-euromast.jpg",
+          "path": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbrug-seen-from-euromast.jpg",
           "filename": "Erasmusbrug seen from Euromast.jpg",
           "caption": "Erasmusbrug and the 'Kop van Zuid' (Rotterdam) seen from the Euromast tower",
           "alt": "Erasmusbrug and the 'Kop van Zuid' (Rotterdam) seen from the Euromast tower",
@@ -231,7 +236,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erasmusbrug_seen_from_Euromast.jpg",
           "sourceType": "core",
           "sourceArticleId": "rotterdam-the-hague-metropolitan-region-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbrug-seen-from-euromast-medium.webp",
+          "smallPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbrug-seen-from-euromast-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/vogelkijkscherm-midden.jpg",
@@ -251,7 +258,7 @@
           "smallPath": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/vogelkijkscherm-midden-small.webp"
         },
         {
-          "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/00-0781-canal-in-delft-nl.jpg",
+          "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-0781-canal-in-delft-nl.jpg",
           "filename": "00 0781 Canal in Delft (NL).jpg",
           "caption": "Vrauwjutteland Kanaal in Delft: Blick von der Brücke Choorstraat, im Hintergrund die Nieuwe Kerk.",
           "alt": "Vrauwjutteland Kanaal in Delft: Blick von der Brücke Choorstraat, im Hintergrund die Nieuwe Kerk.",
@@ -263,10 +270,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_0781_Canal_in_Delft_(NL).jpg",
           "sourceType": "core",
           "sourceArticleId": "rotterdam-the-hague-metropolitan-region-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-0781-canal-in-delft-nl-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-0781-canal-in-delft-nl-small.webp"
         },
         {
-          "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/the-hague-montage-2021.png",
+          "path": "_m/u/1/5/e/benelux-wk/the-hague-montage-2021.png",
           "filename": "The Hague Montage 2021.png",
           "caption": "A montage of important buildings and cityscapes in The Hague, Netherlands.",
           "alt": "A montage of important buildings and cityscapes in The Hague, Netherlands.",
@@ -278,10 +287,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Hague_Montage_2021.png",
           "sourceType": "core",
           "sourceArticleId": "rotterdam-the-hague-metropolitan-region-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/e/benelux-wk/the-hague-montage-2021-medium.webp",
+          "smallPath": "_m/u/1/5/e/benelux-wk/the-hague-montage-2021-small.webp"
         },
         {
-          "path": "_m/u/1/5/p/rotterdam-the-hague-metropolitan-region-wk/netherlands-rijswijk-s-holland.jpg",
+          "path": "_m/u/1/5/p/rijnmond-wp/netherlands-rijswijk-s-holland.jpg",
           "filename": "Netherlands, Rijswijk (S.-Holland), Herenstraat (05).jpg",
           "caption": "The Herenstraat is the main shopping street in the old town center of Rijswijk (South Holland province, Netherlands).",
           "alt": "The Herenstraat is the main shopping street in the old town center of Rijswijk (South Holland province, Netherlands).",
@@ -293,7 +304,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Netherlands,_Rijswijk_(S.-Holland),_Herenstraat_(05).jpg",
           "sourceType": "core",
           "sourceArticleId": "rotterdam-the-hague-metropolitan-region-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rijnmond-wp/netherlands-rijswijk-s-holland-medium.webp",
+          "smallPath": "_m/u/1/5/p/rijnmond-wp/netherlands-rijswijk-s-holland-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-the-hague-airport-wp/vliegveld-zestienhoven.jpg",
@@ -320,7 +333,9 @@
             "Self-published work",
             "Taken by Bryan",
             "Taken with Canon PowerShot A700"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/rotterdam-the-hague-airport-wp/vliegveld-zestienhoven-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-the-hague-airport-wp/vliegveld-zestienhoven-small.webp"
         },
         {
           "path": "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png",
@@ -343,7 +358,8 @@
             "Retouched pictures",
             "Self-published work",
             "Uploaded with derivativeFX"
-          ]
+          ],
+          "smallPath": "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-the-hague-airport-wp/metrostation-meijersplein-2.jpg",
@@ -365,7 +381,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon EOS 500D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/rotterdam-the-hague-airport-wp/metrostation-meijersplein-2-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-the-hague-airport-wp/metrostation-meijersplein-2-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-the-hague-airport-wp/oo-bia-dh114-heron-1-sabena-rt.jpg",
@@ -393,7 +411,8 @@
             "Parked piston-engined airliners",
             "Photographs by Ken Fielding",
             "Sabena aircraft at Rotterdam The Hague Airport"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/rotterdam-the-hague-airport-wp/oo-bia-dh114-heron-1-sabena-rt-small.webp"
         },
         {
           "path": "_m/u/1/5/r/kinderdijk-windmills-wp/positiekaartje-van-de.png",
@@ -408,7 +427,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:P08-ZH-positiekaart2-gemlabels.png",
           "sourceType": "sibling",
           "sourceArticleId": "kinderdijk-windmills-wp",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "smallPath": "_m/u/1/5/r/kinderdijk-windmills-wp/positiekaartje-van-de-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/sculpture-installation.jpg",
@@ -428,7 +448,9 @@
             "PD-self",
             "Rode BMW (1987) by Kunst & Vaarwerk",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/sculpture-installation-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/sculpture-installation-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/rotterdam-erasmusbrug.jpg",
@@ -453,7 +475,8 @@
             "Night in Rotterdam",
             "Self-published work",
             "Statue of Peter the Great in Rotterdam"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/rotterdam-erasmusbrug-small.webp"
         },
         {
           "path": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-eni-02324345-alblas-14.jpg",
@@ -478,7 +501,9 @@
             "Ships in motion in Nieuwe Maas (Rotterdam)",
             "Taken with Nikon D90 and AF-S DX Nikkor 18-200mm/3.5-5.6G ED VR II",
             "Witte Huis (Rotterdam)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-eni-02324345-alblas-14-medium.webp",
+          "smallPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-eni-02324345-alblas-14-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/oude-haven-rotterdam-e.jpg",
@@ -509,7 +534,9 @@
             "Self-published work",
             "Taken with Canon PowerShot SX200 IS",
             "Witte Huis (Rotterdam)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/oude-haven-rotterdam-e-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/oude-haven-rotterdam-e-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/north-sea-jazz-festiva.jpg",
@@ -531,7 +558,8 @@
             "CC-BY-SA-3.0",
             "Self-published work",
             "Taken with Canon EOS 1000D"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/north-sea-jazz-festiva-small.webp"
         },
         {
           "path": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbr-ck-w.jpg",
@@ -553,7 +581,8 @@
             "CC-BY-SA-2.5",
             "CC-BY-SA-3.0-migrated",
             "Derivative versions"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-erasmusbr-ck-w-small.webp"
         },
         {
           "path": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-delfshaven-rotterdam-the-nethe.jpg",
@@ -568,7 +597,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delfshaven_Rotterdam_(the_Netherlands)_17.JPG",
           "sourceType": "poi",
           "sourceArticleId": "1976-schiedam-train-accident-wp",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-delfshaven-rotterdam-the-nethe-medium.webp",
+          "smallPath": "_m/u/1/5/p/1976-schiedam-train-accident-wp/related-poi-delfshaven-rotterdam-the-nethe-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/diergaarde-blijdorp-me.jpg",
@@ -583,7 +614,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medusakop_op_kolom_in_giraffenweide_-_Rotterdam_-_20348014_-_RCE.jpg",
           "sourceType": "poi",
           "sourceArticleId": "rotterdam-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/diergaarde-blijdorp-me-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/diergaarde-blijdorp-me-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/concert-en-congresgebo.jpg",
@@ -598,7 +631,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Overzicht_-_Rotterdam_-_20534496_-_RCE.jpg",
           "sourceType": "poi",
           "sourceArticleId": "rotterdam-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/concert-en-congresgebo-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/concert-en-congresgebo-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/museum-boymans-van-beu.jpg",
@@ -613,7 +648,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Overzicht_achtergevel_-_Rotterdam_-_20534511_-_RCE.jpg",
           "sourceType": "poi",
           "sourceArticleId": "rotterdam-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/museum-boymans-van-beu-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/museum-boymans-van-beu-small.webp"
         },
         {
           "path": "_m/u/1/5/p/rotterdam-wk/witte-de-center-contem.jpg",
@@ -628,7 +665,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_Witte_de_With_Center_for_Contemporary_Art.jpg",
           "sourceType": "poi",
           "sourceArticleId": "rotterdam-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/rotterdam-wk/witte-de-center-contem-medium.webp",
+          "smallPath": "_m/u/1/5/p/rotterdam-wk/witte-de-center-contem-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/entry-botanische-tuin.jpg",
@@ -652,7 +691,8 @@
             "Self-published work",
             "TU Delft Hortus Botanicus",
             "Taken with Canon PowerShot A520"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/delft-wk/entry-botanische-tuin-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/de-porceleyne-fles-ima.jpg",
@@ -679,7 +719,8 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon PowerShot A530"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/delft-wk/de-porceleyne-fles-ima-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/artilleriemagazijn-paa.jpg",
@@ -706,7 +747,9 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon PowerShot A530"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/delft-wk/artilleriemagazijn-paa-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/artilleriemagazijn-paa-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/bagijnetoren-delft-net.jpg",
@@ -733,7 +776,9 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon Digital IXUS 70"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/delft-wk/bagijnetoren-delft-net-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/bagijnetoren-delft-net-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/oude-kerk-old-church-d.jpg",
@@ -754,7 +799,9 @@
             "Aerial views of Oude Kerk (Delft)",
             "CC-BY-SA-3.0",
             "GFDL"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/delft-wk/oude-kerk-old-church-d-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/oude-kerk-old-church-d-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/view-delft-central-mar.jpg",
@@ -769,7 +816,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delft_Central_Market_Square.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/view-delft-central-mar-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/view-delft-central-mar-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/delft-mijnbouwstraat-1.jpg",
@@ -784,7 +833,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delft_-_Mijnbouwstraat_120.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/delft-mijnbouwstraat-1-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/delft-mijnbouwstraat-1-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/en-delft-markt-57-75.jpg",
@@ -799,7 +850,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:DelftMarkt57-75.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/en-delft-markt-57-75-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/en-delft-markt-57-75-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/canal-cafe-delft-nethe.jpg",
@@ -814,7 +867,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:DelftCanal.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/canal-cafe-delft-nethe-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/canal-cafe-delft-nethe-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/canal-view-delft-nethe.jpg",
@@ -829,7 +884,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:DelftCanalView.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/canal-view-delft-nethe-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/canal-view-delft-nethe-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/eastgate-delft-netherl.jpg",
@@ -844,7 +901,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:(46-365)_Oostpoort_Delft_(5274822905).jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/eastgate-delft-netherl-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/eastgate-delft-netherl-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/de-delftse-pauw.jpg",
@@ -859,7 +918,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:De_Delftse_Pauw.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/de-delftse-pauw-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/de-delftse-pauw-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/bahnhof-delft-eine-nie.jpg",
@@ -874,7 +935,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_2474_Delft_-_Railway_station.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/bahnhof-delft-eine-nie-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/bahnhof-delft-eine-nie-small.webp"
         },
         {
           "path": "_m/u/1/5/p/delft-wk/de-gevel-van-de-delfts.jpg",
@@ -889,7 +952,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delft_Wikivoyage_Banner_(5).jpg",
           "sourceType": "poi",
           "sourceArticleId": "delft-wk",
-          "sourceGeohash4": "u15p"
+          "sourceGeohash4": "u15p",
+          "mediumPath": "_m/u/1/5/p/delft-wk/de-gevel-van-de-delfts-medium.webp",
+          "smallPath": "_m/u/1/5/p/delft-wk/de-gevel-van-de-delfts-small.webp"
         },
         {
           "path": "_m/u/1/5/p/schiedam-wp/stadhuis-schiedam.jpg",
@@ -916,7 +981,8 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon PowerShot A310"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/schiedam-wp/stadhuis-schiedam-small.webp"
         },
         {
           "path": "_m/u/1/5/p/schiedam-wp/schiedam-molen-de-nieuwe-palmb.jpg",
@@ -937,7 +1003,8 @@
             "De Nieuwe Palmboom",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/p/schiedam-wp/schiedam-molen-de-nieuwe-palmb-small.webp"
         },
         {
           "path": "_m/u/1/5/p/schiedam-wp/schiedam-zicht-op-haven-foto2-.jpg",
@@ -960,7 +1027,9 @@
             "License migration redundant",
             "Self-published work",
             "Zakkendragershuisje (Schiedam)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/schiedam-wp/schiedam-zicht-op-haven-foto2--medium.webp",
+          "smallPath": "_m/u/1/5/p/schiedam-wp/schiedam-zicht-op-haven-foto2--small.webp"
         },
         {
           "path": "_m/u/1/5/p/schiedam-wp/schiedam-hangbruggen-met-molen.jpg",
@@ -985,7 +1054,9 @@
             "Netherlands photographs taken on 2008-05-12",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/p/schiedam-wp/schiedam-hangbruggen-met-molen-medium.webp",
+          "smallPath": "_m/u/1/5/p/schiedam-wp/schiedam-hangbruggen-met-molen-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/flower-market-singel-c.jpg",
@@ -1015,7 +1086,8 @@
             "Tulips in floristry",
             "Unidentified Tulipa cultivars",
             "Yellow tulips"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/flower-market-singel-c-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/beer-house-amsterdam-n.jpg",
@@ -1038,7 +1110,9 @@
             "Photos of the Netherlands by User:jorgeroyan",
             "Self-published work",
             "Taken with Canon EOS 5D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/beer-house-amsterdam-n-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/beer-house-amsterdam-n-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/street-scene-boathouse.jpg",
@@ -1064,7 +1138,9 @@
             "Self-published work",
             "Taken with Canon EOS 5D",
             "Water transport in Amsterdam"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/street-scene-boathouse-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/street-scene-boathouse-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/magere-brug-bridge-ams.jpg",
@@ -1089,7 +1165,9 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon EOS 5D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/magere-brug-bridge-ams-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/magere-brug-bridge-ams-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/map-amsterdam.png",
@@ -1110,7 +1188,9 @@
             "Files by Wikivoyage user Globe-trotter",
             "Files from Wikivoyage wts",
             "Locator maps of neighborhoods in Amsterdam"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/map-amsterdam-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/map-amsterdam-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/amsterdam.jpg",
@@ -1125,7 +1205,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_(7758040180).jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/amsterdam-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/amsterdam-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/20130420-amsterdam-rij.jpg",
@@ -1140,7 +1222,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20130420_Amsterdam_05_Rijksmuseum.JPG",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/20130420-amsterdam-rij-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/20130420-amsterdam-rij-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/begijnhof-amsterdam-ne.jpg",
@@ -1155,7 +1239,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Begijnhof_--_2015_--_7215-8.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/begijnhof-amsterdam-ne-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/begijnhof-amsterdam-ne-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/centraal-station-amste.jpg",
@@ -1170,7 +1256,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Centraal_Station_--_2015_--_7269.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/centraal-station-amste-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/centraal-station-amste-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/central-station-amster.jpg",
@@ -1185,7 +1273,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_Central,_%C3%81msterdam,_Pa%C3%ADses_Bajos,_2016-05-30,_DD_01-03_HDR.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/central-station-amster-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/central-station-amster-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wp/colin-benders-installatie-in-h.jpg",
@@ -1200,7 +1290,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colin_Benders_installatie_in_het_Concertgebouw.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wp",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wp/colin-benders-installatie-in-h-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wp/colin-benders-installatie-in-h-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/flag-amsterdam.jpg",
@@ -1215,7 +1307,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_flag.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/flag-amsterdam-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/flag-amsterdam-small.webp"
         },
         {
           "path": "_m/u/1/5/r/kinderdijk-windmills-wp/see-original-image.jpg",
@@ -1245,7 +1339,8 @@
             "Pictures of the Year (candidate)",
             "Pictures of the day (2009)",
             "Taken with Epson PhotoPC L-400"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/r/kinderdijk-windmills-wp/see-original-image-small.webp"
         },
         {
           "path": "_m/u/1/7/2/randstad-wp/emmeloord-20041105-2379.jpg",
@@ -1269,7 +1364,9 @@
             "License migration completed",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/2/randstad-wp/emmeloord-20041105-2379-medium.webp",
+          "smallPath": "_m/u/1/7/2/randstad-wp/emmeloord-20041105-2379-small.webp"
         },
         {
           "path": "_m/u/1/7/2/randstad-wp/duinen-in-nationaal-park-zuid-.jpg",
@@ -1295,7 +1392,8 @@
             "Self-published work",
             "Taken with Canon PowerShot A40",
             "Vogelmeer Zuid-Kennemerland"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/2/randstad-wp/duinen-in-nationaal-park-zuid--small.webp"
         },
         {
           "path": "_m/u/1/7/2/randstad-wp/gouda-vanuit-de-lucht.jpg",
@@ -1321,7 +1419,9 @@
             "Stadhuis (Gouda)",
             "Taken with Nikon D40x",
             "Waag (Gouda)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/2/randstad-wp/gouda-vanuit-de-lucht-medium.webp",
+          "smallPath": "_m/u/1/7/2/randstad-wp/gouda-vanuit-de-lucht-small.webp"
         },
         {
           "path": "_m/u/1/7/2/randstad-wp/alkmaar-waag-door-het-geboomte.jpg",
@@ -1339,7 +1439,9 @@
           "sourceGeohash4": "u179",
           "categories": [
             "2012 in Alkmaar"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/2/randstad-wp/alkmaar-waag-door-het-geboomte-medium.webp",
+          "smallPath": "_m/u/1/7/2/randstad-wp/alkmaar-waag-door-het-geboomte-small.webp"
         },
         {
           "path": "_m/u/1/7/2/randstad-wp/haarlemgrotemarkt1.jpg",
@@ -1354,7 +1456,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:HaarlemGroteMarkt1.JPG",
           "sourceType": "poi",
           "sourceArticleId": "randstad-wp",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "mediumPath": "_m/u/1/7/2/randstad-wp/haarlemgrotemarkt1-medium.webp",
+          "smallPath": "_m/u/1/7/2/randstad-wp/haarlemgrotemarkt1-small.webp"
         },
         {
           "path": "_m/u/1/7/2/randstad-wp/keukenhof-flowers-park-netherl.jpg",
@@ -1369,7 +1473,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Keukenhof_flowers_park,_Netherlands_(33096051910).jpg",
           "sourceType": "poi",
           "sourceArticleId": "randstad-wp",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "mediumPath": "_m/u/1/7/2/randstad-wp/keukenhof-flowers-park-netherl-medium.webp",
+          "smallPath": "_m/u/1/7/2/randstad-wp/keukenhof-flowers-park-netherl-small.webp"
         },
         {
           "path": "_m/u/1/7/2/randstad-wp/20170827-015-lelystad-oostvade.jpg",
@@ -1384,7 +1490,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20170827_015_Lelystad_Oostvadersplassen_(36878065565).jpg",
           "sourceType": "poi",
           "sourceArticleId": "randstad-wp",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "mediumPath": "_m/u/1/7/2/randstad-wp/20170827-015-lelystad-oostvade-medium.webp",
+          "smallPath": "_m/u/1/7/2/randstad-wp/20170827-015-lelystad-oostvade-small.webp"
         },
         {
           "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-1865-leiden-netherlands.jpg",
@@ -1399,7 +1507,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_1865_Leiden_-_Netherlands.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kingdom-of-the-netherlands",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-1865-leiden-netherlands-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/00-1865-leiden-netherlands-small.webp"
         },
         {
           "path": "_m/u/1/7/2/randstad-wp/den-haag-scheveningen-de-pier-.jpg",
@@ -1414,7 +1524,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Den_Haag-Scheveningen,_de_Pier_IMG_0095_2021-08-04_10.46.jpg",
           "sourceType": "poi",
           "sourceArticleId": "randstad-wp",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "mediumPath": "_m/u/1/7/2/randstad-wp/den-haag-scheveningen-de-pier--medium.webp",
+          "smallPath": "_m/u/1/7/2/randstad-wp/den-haag-scheveningen-de-pier--small.webp"
         }
       ],
       "narration": [

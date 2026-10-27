@@ -39,7 +39,7 @@ Located at 47.02N, 99.63W in Kidder County, central North Dakota. The battlefiel
 - [Battle of Big Mound - Wikipedia](https://en.wikipedia.org/?curid=1843628)
 - [National Park Service battle description](https://web.archive.org/web/20050514074210/http://www.cr.nps.gov/hps/abpp/battles/nd001.htm)
 - [State Historical Society of North Dakota](http://history.nd.gov/historicsites/sibleysully/bmb.html)
-- [Wikipedia - Battle of Big Mound](https://en.wikipedia.org/wiki/Battle_of_Big_Mound)
+- [Wikipedia - Battle of Big Mound](https://en.wikipedia.org/?curid=1843628)
   - July 24 1863 date
   - Dr Josiah S Weiser killed by Tall Crown
   - Tall Crown was follower of Inkpaduta

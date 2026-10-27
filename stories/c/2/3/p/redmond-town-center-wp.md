@@ -36,7 +36,7 @@ Redmond Town Center is located at 47.670N, 122.120W in downtown Redmond, immedia
 - [Amazon claims former Macy's store at Redmond Town Center — Connect CRE](https://www.connectcre.com/stories/amazon-claims-former-macys-store-at-redmond-town-center/)
   - Amazon announced plans to house 600 employees in former Macy's building
   - Macy's announced departure in 2018, closed early 2019
-- [Redmond Town Center — Wikipedia](https://en.wikipedia.org/wiki/Redmond_Town_Center)
+- [Redmond Town Center — Wikipedia](https://en.wikipedia.org/?curid=9011352)
   - Opened 1997 on former golf course along SR-520
   - Bon Marche absorbed into Macy's in 2005
   - Zany Brainy closed 2003

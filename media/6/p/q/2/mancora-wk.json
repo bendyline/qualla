@@ -3,26 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/p/q/2/mancora-wk/hero.jpg",
-        "filename": "Máncora Beach.jpg",
-        "caption": "Máncora beach, Piura, northern Peru",
-        "alt": "Máncora beach, Piura, northern Peru",
-        "width": 3863,
-        "height": 1932,
+        "path": "_m/6/p/q/2/mancora-wk/mancora-playa.jpg",
+        "filename": "Mancora playa.JPG",
+        "caption": "Máncora beach, the man in the middle is searching for coins dropped by the surfers and brought by the tide",
+        "alt": "Máncora beach, the man in the middle is searching for coins dropped by the surfers and brought by the tide",
+        "width": 3264,
+        "height": 2448,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Melissamarzo",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:M%C3%A1ncora_Beach.jpg",
-        "sourceType": "core",
+        "license": "CC BY 3.0",
+        "artist": "Charles Gadbois",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mancora_playa.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "mancora-wk",
         "sourceGeohash4": "6pq2",
         "categories": [
-          "Beaches of Piura Department",
-          "CC-BY-SA-4.0",
+          "CC-BY-3.0",
+          "GFDL",
+          "License migration redundant",
           "Máncora",
-          "Photographs of the Pacific Ocean",
-          "Self-published work"
-        ]
+          "Sand beaches in Peru",
+          "Self-published work",
+          "Taken with Fujifilm FinePix J10"
+        ],
+        "mediumPath": "_m/6/p/q/2/mancora-wk/mancora-playa-medium.webp",
+        "smallPath": "_m/6/p/q/2/mancora-wk/mancora-playa-small.webp"
       },
       "images": [
         {
@@ -439,7 +443,8 @@
             "PD ineligible (flags)",
             "PNG that should use vector graphics",
             "With insignia"
-          ]
+          ],
+          "smallPath": "_m/6/p/q/2/mancora-wp/bandera-mancora-small.webp"
         },
         {
           "path": "_m/6/p/q/2/mancora-wp/mancora-municipal-council-buil.jpg",
@@ -464,7 +469,8 @@
             "Self-published work",
             "Taken with Canon PowerShot A75",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/6/p/q/2/mancora-wp/mancora-municipal-council-buil-small.webp"
         }
       ],
       "narration": [

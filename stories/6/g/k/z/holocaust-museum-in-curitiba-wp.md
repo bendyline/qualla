@@ -33,7 +33,7 @@ The Holocaust Museum in Curitiba is located at 25.4144S, 49.2722W in the central
 ## Sources
 
 - [Holocaust Museum in Curitiba - Wikipedia](https://en.wikipedia.org/?curid=47415874)
-- [Holocaust Museum in Curitiba - Wikipedia](https://en.wikipedia.org/wiki/Holocaust_Museum_in_Curitiba)
+- [Holocaust Museum in Curitiba - Wikipedia](https://en.wikipedia.org/?curid=47415874)
   - Opened November 20, 2011 — confirmed first Holocaust museum in Brazil
   - Founded by Miguel Krigsner, president of Beit Yaacov and founder of O Boticario
   - 400 square meters within Beit Yaacov synagogue

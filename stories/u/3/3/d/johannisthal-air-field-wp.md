@@ -36,7 +36,7 @@ The former Johannisthal Air Field lies at roughly 52.4333°N, 13.5167°E, in Tre
 
 ## Sources
 
-- [Johannisthal Air Field](https://en.wikipedia.org/wiki/Johannisthal_Air_Field)
+- [Johannisthal Air Field](https://en.wikipedia.org/?curid=3372618)
 - [Melli Beese](https://en.wikipedia.org/wiki/Melli_Beese)
   - Amelie Hedwig Boutard-Beese, 13 September 1886 - 21 December 1925 - source
   - German pilot's licence No. 115 on 13 September 1911, her 25th birthday, flying a Rumpler-Taube; first female pilot in Germany - source
@@ -51,7 +51,7 @@ The former Johannisthal Air Field lies at roughly 52.4333°N, 13.5167°E, in Tre
   - aircraft crashed shortly after 6 p.m. following a roll at low altitude; both men killed - source
 - [LZ 18 (L 2)](https://en.wikipedia.org/wiki/LZ_18_(L_2))
   - 17 October 1913, all 28 aboard died; vented hydrogen ignited by the forward engine car - source
-- [Johannisthal Air Field / Melli Beese - Wikipedia (independent final-review re-check)](https://en.wikipedia.org/wiki/Johannisthal_Air_Field)
+- [Johannisthal Air Field / Melli Beese - Wikipedia (independent final-review re-check)](https://en.wikipedia.org/?curid=3372618)
   - field opened 26 September 1909, weeks after the Reims airfield, as Germany's first commercial airfield - re-confirmed
   - GDR-era Academy of Sciences complex of 14 institutions plus six service centres, ~5,500 staff; 4.2 sq km Adlershof science park with ~30,000 planned jobs - re-confirmed
   - Melli Beese: licence No. 115 on 13 September 1911 (her 25th birthday); first female pilot in Germany; sabotage by rival aviators; married Boutard 25 Jan 1913, lost German nationality, barred from German airfields, interned; died by suicide 21 December 1925, age 39 - re-confirmed

@@ -36,7 +36,7 @@ Słubice lies at 52.35 N, 14.57 E on the east bank of the Oder, directly opposit
 
 ## Sources
 
-- [Słubice](https://en.wikivoyage.org/wiki/S%C5%82ubice)
+- [Słubice](https://en.wikivoyage.org/?curid=31840)
   - Population 16,705 (30 June 2019); Słubice-Frankfurt (Oder) agglomeration about 85,000 (en.wikipedia)
   - Name derives from the medieval West Slavic settlement Zliwitz, named in Frankfurt's charter of 1253; staple rights from Henry the Bearded 1225; Lubusz Land Polish until 1249, Brandenburg from 1324, Bohemian crown 1373-1415
   - Słubice was Frankfurt's Dammvorstadt until the 1945 Oder-Neisse border

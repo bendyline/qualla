@@ -3,24 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/k/x/holy-island-anglesey-wp/hero.png",
-        "filename": "Terra.png",
-        "alt": "Terra.png",
-        "width": 600,
-        "height": 600,
-        "mimeType": "image/png",
-        "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terra.png",
-        "sourceType": "core",
+        "path": "_m/g/c/k/x/holy-island-anglesey-wp/penrhos-feilw-holy-island-5072-1.jpg",
+        "filename": "Penrhos Feilw, Holy Island (507287) (33098788546).jpg",
+        "caption": "Penrhos Feilw, Holy Island, Anglesey, Wales",
+        "alt": "Penrhos Feilw, Holy Island, Anglesey, Wales",
+        "width": 5225,
+        "height": 2939,
+        "mimeType": "image/jpeg",
+        "license": "CC BY 2.0",
+        "artist": "Robert Linsdell from St. Andrews, Canada",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Penrhos_Feilw,_Holy_Island_(507287)_(33098788546).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "holy-island-anglesey-wp",
         "sourceGeohash4": "gckx",
         "categories": [
-          "Files with no machine-readable author",
-          "Files with no machine-readable source",
-          "Media missing infobox template",
-          "PD NASA",
-          "The Blue Marble"
-        ]
+          "CC-BY-2.0",
+          "Files by Robert Linsdell",
+          "Files uploaded by OceanAtoll",
+          "Files with coordinates missing SDC location of creation (53° N, 5° W)",
+          "Flickr images reviewed by FlickreviewR 2",
+          "Holy Island, Anglesey"
+        ],
+        "mediumPath": "_m/g/c/k/x/holy-island-anglesey-wp/penrhos-feilw-holy-island-5072-1-medium.webp",
+        "smallPath": "_m/g/c/k/x/holy-island-anglesey-wp/penrhos-feilw-holy-island-5072-1-small.webp"
       },
       "images": [
         {
@@ -493,7 +498,8 @@
             "License migration redundant",
             "Self-published work",
             "Trains of Arriva Trains Wales on the North Wales Coast Line"
-          ]
+          ],
+          "smallPath": "_m/g/c/k/x/holyhead-wp/holyhead-station1-small.webp"
         },
         {
           "path": "_m/g/c/k/x/holyhead-wp/holyhead-ferry-beaumaris.jpg",
@@ -515,7 +521,9 @@
             "Files by Wikivoyage user (not yet sorted)",
             "Files from Wikivoyage wts",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/k/x/holyhead-wp/holyhead-ferry-beaumaris-medium.webp",
+          "smallPath": "_m/g/c/k/x/holyhead-wp/holyhead-ferry-beaumaris-small.webp"
         },
         {
           "path": "_m/g/c/k/x/holyhead-wp/holyheadmuseumandharbour.jpg",
@@ -541,7 +549,8 @@
             "On OSM",
             "Self-published work",
             "Taken with Sony Ericsson C902"
-          ]
+          ],
+          "smallPath": "_m/g/c/k/x/holyhead-wp/holyheadmuseumandharbour-small.webp"
         },
         {
           "path": "_m/g/c/k/x/holyhead-wp/holyhead-banner.jpg",
@@ -566,7 +575,9 @@
             "GFDL",
             "Holyhead Marina",
             "Joadl 201107 aa"
-          ]
+          ],
+          "mediumPath": "_m/g/c/k/x/holyhead-wp/holyhead-banner-medium.webp",
+          "smallPath": "_m/g/c/k/x/holyhead-wp/holyhead-banner-small.webp"
         },
         {
           "path": "_m/g/c/k/x/holyhead-wp/marine-square-holyhead-geograp.jpg",
@@ -581,7 +592,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marine_Square,_Holyhead_-_geograph.org.uk_-_3203940.jpg",
           "sourceType": "poi",
           "sourceArticleId": "holyhead-wp",
-          "sourceGeohash4": "gckx"
+          "sourceGeohash4": "gckx",
+          "smallPath": "_m/g/c/k/x/holyhead-wp/marine-square-holyhead-geograp-small.webp"
         }
       ],
       "narration": [

@@ -3,34 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/9/p/university-of-california-berkeley-wp/hero.jpg",
-        "filename": "South Hall--UC Berkeley--Panoramic.jpg",
-        "caption": "South Hall, University of California, Berkeley, housing the UC Berkeley School of Information. Taken on March 2, 2007.",
-        "alt": "South Hall, University of California, Berkeley, housing the UC Berkeley School of Information. Taken on March 2, 2007.",
-        "width": 5764,
-        "height": 2970,
+        "path": "_m/9/q/9/p/university-of-california-berkeley-wp/360-degree-panorama-uc.jpg",
+        "filename": "University of California, Berkeley.jpg",
+        "caption": "360 degree panorama of the UC Berkeley campus",
+        "alt": "360 degree panorama of the UC Berkeley campus",
+        "width": 18796,
+        "height": 3158,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "User:Falcorian",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:South_Hall--UC_Berkeley--Panoramic.jpg",
+        "artist": "Daniel Koenig",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:University_of_California,_Berkeley.jpg",
         "sourceType": "core",
         "sourceArticleId": "university-of-california-berkeley-wp",
         "sourceGeohash4": "9q9p",
-        "categories": [
-          "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
-          "Created with Hugin",
-          "Files by Falcorian",
-          "GFDL",
-          "License migration redundant",
-          "National Register of Historic Places with known IDs",
-          "Panoramics of buildings in the United States",
-          "Self-published work",
-          "South Hall (UC Berkeley)"
-        ]
+        "mediumPath": "_m/9/q/9/p/university-of-california-berkeley-wp/360-degree-panorama-uc-medium.webp",
+        "smallPath": "_m/9/q/9/p/university-of-california-berkeley-wp/360-degree-panorama-uc-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/9/p/university-of-california-berkeley-wp/campanilemttamalpiassunset-ori.jpg",
+          "path": "_m/9/q/9/p/sather-tower-wp/campanilemttamalpiassunset-ori.jpg",
           "filename": "CampanileMtTamalpiasSunset-original.jpg",
           "alt": "CampanileMtTamalpiasSunset-original.jpg",
           "width": 2448,
@@ -51,10 +42,12 @@
             "Sather Tower",
             "Taken with Olympus E-500",
             "United States photographs taken on 2006-11-04"
-          ]
+          ],
+          "mediumPath": "_m/9/q/9/p/sather-tower-wp/campanilemttamalpiassunset-ori-medium.webp",
+          "smallPath": "_m/9/q/9/p/sather-tower-wp/campanilemttamalpiassunset-ori-small.webp"
         },
         {
-          "path": "_m/9/q/9/p/university-of-california-berkeley-wp/central-courtyard-haas.jpg",
+          "path": "_m/9/q/9/p/hearst-memorial-mining-building-wp/central-courtyard-haas.jpg",
           "filename": "Haas School of Business central courtyard.JPG",
           "caption": "The central courtyard of the Haas School of Business on the UC Berkeley campus in Berkeley, California.",
           "alt": "The central courtyard of the Haas School of Business on the UC Berkeley campus in Berkeley, California.",
@@ -77,10 +70,12 @@
             "Photos by User:BrokenSphere",
             "Self-published work",
             "Taken with Fujifilm FinePix A340"
-          ]
+          ],
+          "mediumPath": "_m/9/q/9/p/hearst-memorial-mining-building-wp/central-courtyard-haas-medium.webp",
+          "smallPath": "_m/9/q/9/p/hearst-memorial-mining-building-wp/central-courtyard-haas-small.webp"
         },
         {
-          "path": "_m/9/q/9/p/university-of-california-berkeley-wp/hero.jpg",
+          "path": "_m/9/q/8/y/mission-san-francisco-de-as-s-wp/hero.jpg",
           "filename": "SF From Marin Highlands3.jpg",
           "caption": "San Francisco from en:Marin Headlands",
           "alt": "San Francisco from en:Marin Headlands",
@@ -102,7 +97,9 @@
             "San Francisco skylines",
             "Taken with Canon Digital IXUS 800 IS",
             "United States photographs taken on 2006-11-05"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/mission-san-francisco-de-as-s-wp/hero-medium.webp",
+          "smallPath": "_m/9/q/8/y/mission-san-francisco-de-as-s-wp/hero-small.webp"
         },
         {
           "path": "_m/9/q/9/p/university-of-california-berkeley-wp/cal-performances-zelle.jpg",
@@ -143,7 +140,7 @@
           "smallPath": "_m/9/q/9/p/university-of-california-berkeley-wp/interior-haas-pavilion-small.webp"
         },
         {
-          "path": "_m/9/q/9/p/university-of-california-berkeley-wp/hero.jpg",
+          "path": "_m/9/q/9/p/hearst-memorial-mining-building-wp/hero.jpg",
           "filename": "Hearst Mining Building - Flickr - Joe Parks.jpg",
           "caption": "Hearst Memorial Mining Building, University of California, Berkeley. Listed on the National Register of Historic Places, and designated as California Historical Landmark #946 (Alameda County).",
           "alt": "Hearst Memorial Mining Building, University of California, Berkeley. Listed on the National Register of Historic Places, and designated as California Historical Landmark #946 (Alameda County).",
@@ -155,10 +152,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hearst_Mining_Building_-_Flickr_-_Joe_Parks.jpg",
           "sourceType": "core",
           "sourceArticleId": "university-of-california-berkeley-wp",
-          "sourceGeohash4": "9q9p"
+          "sourceGeohash4": "9q9p",
+          "mediumPath": "_m/9/q/9/p/hearst-memorial-mining-building-wp/hero-medium.webp",
+          "smallPath": "_m/9/q/9/p/hearst-memorial-mining-building-wp/hero-small.webp"
         },
         {
-          "path": "_m/9/q/9/p/university-of-california-berkeley-wp/cal-football-from-tightwad-hil.jpg",
+          "path": "_m/9/q/9/p/tightwad-hill-wp/cal-football-from-tightwad-hil.jpg",
           "filename": "Cal Football From Tightwad Hill - Flickr - Joe Parks.jpg",
           "caption": "Cal Bears vs. Colorado. 9/11/10",
           "alt": "Cal Bears vs. Colorado. 9/11/10",
@@ -170,7 +169,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cal_Football_From_Tightwad_Hill_-_Flickr_-_Joe_Parks.jpg",
           "sourceType": "core",
           "sourceArticleId": "university-of-california-berkeley-wp",
-          "sourceGeohash4": "9q9p"
+          "sourceGeohash4": "9q9p",
+          "mediumPath": "_m/9/q/9/p/tightwad-hill-wp/cal-football-from-tightwad-hil-medium.webp",
+          "smallPath": "_m/9/q/9/p/tightwad-hill-wp/cal-football-from-tightwad-hil-small.webp"
         },
         {
           "path": "_m/9/q/9/p/university-of-california-berkeley-wp/cast-wankel-rex-tyrann.jpg",
@@ -207,7 +208,7 @@
           "smallPath": "_m/9/q/9/p/university-of-california-berkeley-wp/wheeler-hall-part-univ-small.webp"
         },
         {
-          "path": "_m/9/q/9/p/university-of-california-berkeley-wp/hero.jpg",
+          "path": "_m/9/q/9/p/bancroft-library-wp/hero.jpg",
           "filename": "Bancroft Library - University of California, Berkeley - DSC04902.JPG",
           "caption": "University of California, Berkeley - Berkeley, California, USA.",
           "alt": "University of California, Berkeley - Berkeley, California, USA.",
@@ -219,10 +220,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bancroft_Library_-_University_of_California,_Berkeley_-_DSC04902.JPG",
           "sourceType": "core",
           "sourceArticleId": "university-of-california-berkeley-wp",
-          "sourceGeohash4": "9q9p"
+          "sourceGeohash4": "9q9p",
+          "mediumPath": "_m/9/q/9/p/bancroft-library-wp/hero-medium.webp",
+          "smallPath": "_m/9/q/9/p/bancroft-library-wp/hero-small.webp"
         },
         {
-          "path": "_m/9/q/9/p/university-of-california-berkeley-wp/botanischer-garten-in-berkeley.jpg",
+          "path": "_m/9/q/9/p/berkeley-wk/botanischer-garten-in-berkeley.jpg",
           "filename": "Botanischer Garten in Berkeley, California.JPG",
           "caption": "Entrance to the Berkeley botanical garden featuring Trachycarpus Palm and large Yucca rostrada",
           "alt": "Entrance to the Berkeley botanical garden featuring Trachycarpus Palm and large Yucca rostrada",
@@ -234,7 +237,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Botanischer_Garten_in_Berkeley,_California.JPG",
           "sourceType": "core",
           "sourceArticleId": "university-of-california-berkeley-wp",
-          "sourceGeohash4": "9q9p"
+          "sourceGeohash4": "9q9p",
+          "mediumPath": "_m/9/q/9/p/berkeley-wk/botanischer-garten-in-berkeley-medium.webp",
+          "smallPath": "_m/9/q/9/p/berkeley-wk/botanischer-garten-in-berkeley-small.webp"
         },
         {
           "path": "_m/9/q/9/p/university-of-california-berkeley-wp/360-degree-panorama-uc.jpg",
@@ -322,7 +327,7 @@
           "smallPath": "_m/9/q/9/p/university-of-california-berkeley-wp/steve-wozniak-speaking-small.webp"
         },
         {
-          "path": "_m/9/q/9/p/university-of-california-berkeley-wp/doe-memorial-library-l.jpg",
+          "path": "_m/9/q/9/p/hearst-memorial-mining-building-wp/doe-memorial-library-l.jpg",
           "filename": "UCB Doe Memorial Library oblique view dllu.jpg",
           "caption": "The Doe Memorial Library is a library at the University of California, Berkeley.",
           "alt": "The Doe Memorial Library is a library at the University of California, Berkeley.",
@@ -334,7 +339,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:UCB_Doe_Memorial_Library_oblique_view_dllu.jpg",
           "sourceType": "core",
           "sourceArticleId": "university-of-california-berkeley-wp",
-          "sourceGeohash4": "9q9p"
+          "sourceGeohash4": "9q9p",
+          "mediumPath": "_m/9/q/9/p/hearst-memorial-mining-building-wp/doe-memorial-library-l-medium.webp",
+          "smallPath": "_m/9/q/9/p/hearst-memorial-mining-building-wp/doe-memorial-library-l-small.webp"
         },
         {
           "path": "_m/9/q/9/p/university-of-california-berkeley-wp/natalie-coughlin-globa.jpg",
@@ -354,7 +361,7 @@
           "smallPath": "_m/9/q/9/p/university-of-california-berkeley-wp/natalie-coughlin-globa-small.webp"
         },
         {
-          "path": "_m/9/q/9/p/university-of-california-berkeley-wp/sather-gate-university.jpg",
+          "path": "_m/9/q/9/p/hearst-memorial-mining-building-wp/sather-gate-university.jpg",
           "filename": "Sather Gate at University of California, Berkeley, California LCCN2013633500 (edited).jpg",
           "caption": "Sather Gate at the University of California, Berkeley in Berkeley, California",
           "alt": "Sather Gate at the University of California, Berkeley in Berkeley, California",
@@ -366,7 +373,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sather_Gate_at_University_of_California,_Berkeley,_California_LCCN2013633500_(edited).jpg",
           "sourceType": "core",
           "sourceArticleId": "university-of-california-berkeley-wp",
-          "sourceGeohash4": "9q9p"
+          "sourceGeohash4": "9q9p",
+          "mediumPath": "_m/9/q/9/p/hearst-memorial-mining-building-wp/sather-gate-university-medium.webp",
+          "smallPath": "_m/9/q/9/p/hearst-memorial-mining-building-wp/sather-gate-university-small.webp"
         },
         {
           "path": "_m/9/q/9/p/university-of-california-berkeley-wp/gordon-e-moore-innovat.jpg",

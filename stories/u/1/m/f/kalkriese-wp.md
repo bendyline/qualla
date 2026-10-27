@@ -40,7 +40,7 @@ Kalkriese lies at 52.41 degrees N, 8.13 degrees E, roughly 15 km north of Osnabr
 
 ## Sources
 
-- [Kalkriese - Wikipedia](https://en.wikipedia.org/wiki/Kalkriese)
+- [Kalkriese - Wikipedia](https://en.wikipedia.org/?curid=12332461)
   - Kalkriese is part of Bramsche, district of Osnabrück, Lower Saxony, on the northern slope of the Wiehen Hills
   - Kalkrieser Berg / Schmittenhöhe is 157 m high
   - The corridor between the hill and the Großes Moor is about 220 m wide
@@ -56,7 +56,7 @@ Kalkriese lies at 52.41 degrees N, 8.13 degrees E, roughly 15 km north of Osnabr
   - Debate continues over whether the finds relate to Varus (9 AD) or to Germanicus's campaigns (14-16 AD)
 - [Acht Goldmünzen auf dem antiken Schlachtfeld in Kalkriese gefunden - University of Osnabrück](https://www.geschichte.uni-osnabrueck.de/abteilungen/archaeologie_der_roemischen_provinzen/forschungprojekte/kalkriese.html)
   - Eight gold coins were discovered at Kalkriese in 2016
-- [Final review pass - independent web verification](https://en.wikipedia.org/wiki/Kalkriese)
+- [Final review pass - independent web verification](https://en.wikipedia.org/?curid=12332461)
   - Re-confirmed via Wikipedia (Kalkriese, Tony Clunn) and Smithsonian: village administratively part of Bramsche, Osnabrück district; Kalkrieser Berg/Schmittenhöhe 157 m; corridor 220 m wide; excavation since 1988, 5,500+ objects over 17 km²; 2 BC Augustus adoption coin; eight aurei found 2016 (supplementing seven found earlier)
   - Confirmed Tony Clunn's exact coin counts: 89 denarii on the first day, 105 total after the following weekend, none minted later than Augustus - directed to the area by Wolfgang Schlüter, District of Osnabrück archaeologist
   - Confirmed identification of Kalkriese as the Varus battle site is described by scholarship as 'the likely site' / leading candidate, not an absolute certainty - the 2024/2025 Härtling et al. geoarchaeological study (Geoarchaeology journal) dates the rampart and ditch features to c. 900-1100 CE, challenging their association with the 9 AD battle

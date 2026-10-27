@@ -30,7 +30,7 @@ The landscape surrounding Desert Sunlight is flat, sparsely vegetated, and extre
 
 ## Flight Context
 
-Located at approximately 33.82°N, 115.45°W near Desert Center, California, south of Interstate 10. The array is one of the most visible landmarks in the Colorado Desert from altitude — a dark 6-square-mile rectangle against pale desert floor. Joshua Tree National Park lies to the northwest; the Salton Sea is visible to the southwest on clear days. Nearest airports: Thermal/Jacqueline Cochran Regional (TRM) ~25 miles west, Desert Resorts Regional (PSP) ~45 miles west.
+Located at approximately 33.82°N, 115.45°W near Desert Center, California, south of Interstate 10. The array is one of the most visible landmarks in the Colorado Desert from altitude — a dark 6-square-mile rectangle against pale desert floor. Joshua Tree National Park lies to the northwest; the Salton Sea is visible to the southwest on clear days. Nearest airports: Thermal/Jacqueline Cochran Regional (TRM) ~25 miles west, Palm Springs International (PSP) ~45 miles west.
 
 ## Sources
 

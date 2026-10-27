@@ -37,7 +37,7 @@ The Madeira River is visible as a wide, sediment-brown ribbon flowing northeast 
 ## Sources
 
 - [Madeira River - Wikipedia](https://en.wikipedia.org/?curid=19863)
-- [Madeira River - Wikipedia](https://en.wikipedia.org/wiki/Madeira_River)
+- [Madeira River - Wikipedia](https://en.wikipedia.org/?curid=19863)
   - Madeira is the Amazon's largest tributary confirmed
   - Delivers roughly 15 percent of entire basin's water confirmed
   - More than 900 documented fish species confirmed (some sources cite over 1,400 in basin)

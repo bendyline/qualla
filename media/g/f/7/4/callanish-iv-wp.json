@@ -3,35 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/7/4/callanish-iv-wp/hero.jpg",
-        "filename": "Wfm wallace monument.jpg",
-        "caption": "The Wallace Monument near Stirling, Scotland.",
-        "alt": "The Wallace Monument near Stirling, Scotland.",
-        "width": 2288,
-        "height": 1712,
+        "path": "_m/g/f/7/4/callanish-iv-wp/callanish-iv.jpg",
+        "filename": "Callanish IV.JPG",
+        "caption": "Callanish IV  lie on a hill above B8011",
+        "alt": "Callanish IV  lie on a hill above B8011",
+        "width": 3648,
+        "height": 2432,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "Finlay McWalter",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wfm_wallace_monument.jpg",
-        "sourceType": "core",
+        "artist": "Nessy-Pic",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Callanish_IV.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "callanish-iv-wp",
         "sourceGeohash4": "gf74",
         "categories": [
-          "CC-BY-SA-2.5,2.0,1.0",
-          "CC-BY-SA-3.0-migrated",
-          "Files with coordinates missing SDC location of creation",
-          "GFDL",
-          "Historic Scotland listings with known IDs",
-          "License migration redundant",
-          "Listed buildings in Scotland with known IDs",
+          "CC-BY-SA-3.0",
+          "Callanish IV",
           "Self-published work",
-          "Taken with Olympus C-750UZ",
-          "Wallace Monument"
-        ]
+          "Taken with Sony DSC-H20"
+        ],
+        "mediumPath": "_m/g/f/7/4/callanish-iv-wp/callanish-iv-medium.webp",
+        "smallPath": "_m/g/f/7/4/callanish-iv-wp/callanish-iv-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/7/4/callanish-iv-wp/stonehenge-closeup.jpg",
+          "path": "_m/9/x/q/z/carhenge-replica-wk/stonehenge-closeup.jpg",
           "filename": "Stonehenge Closeup.jpg",
           "alt": "Stonehenge Closeup.jpg",
           "width": 1280,
@@ -49,7 +45,8 @@
             "Media missing infobox template",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/9/x/q/z/carhenge-replica-wk/stonehenge-closeup-small.webp"
         },
         {
           "path": "_m/g/f/7/4/callanish-iv-wp/sron-chail-stone-circl.jpg",
@@ -277,7 +274,8 @@
             "Media missing infobox template",
             "PD-author",
             "Taken with Sony DCR-TRV740"
-          ]
+          ],
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-carloway-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/ness-western-isles-world-wind.png",
@@ -299,7 +297,8 @@
             "Ness, Isle of Lewis",
             "Outer Hebrides",
             "PD World Wind"
-          ]
+          ],
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/ness-western-isles-world-wind-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/dun-eistean-late-medieval-fort.jpg",
@@ -325,7 +324,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon EOS 50D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-eistean-late-medieval-fort-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-eistean-late-medieval-fort-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/church-in-carloway-in-summer-2.jpg",
@@ -347,7 +348,9 @@
             "Carloway",
             "Churches of the Isle of Lewis",
             "Files by User:Chmee2"
-          ]
+          ],
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/church-in-carloway-in-summer-2-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/church-in-carloway-in-summer-2-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/lewis-chessmen-27.jpg",
@@ -362,7 +365,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lewis_chessmen_27.JPG",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/lewis-chessmen-27-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/inside-nr-42-blackhouse-museum.jpg",
@@ -377,7 +381,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inside_Nr_42_Blackhouse_Museum.JPG",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/inside-nr-42-blackhouse-museum-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/inside-nr-42-blackhouse-museum-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/dun-charlabhaigh-carloway-broc.jpg",
@@ -392,7 +398,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dun_Charlabhaigh_Carloway_Broch_(14310329697).jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-charlabhaigh-carloway-broc-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-charlabhaigh-carloway-broc-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/outer-hebrides-steinacleit-201.jpg",
@@ -407,7 +415,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outer_Hebrides_-_Steinacleit_-_20180411114130.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/outer-hebrides-steinacleit-201-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/outer-hebrides-steinacleit-201-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/bungee-jumping-from-the-garry-.jpg",
@@ -422,7 +432,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bungee_jumping_from_the_Garry_Bridge_-_geograph.org.uk_-_2937884.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/bungee-jumping-from-the-garry--medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/bungee-jumping-from-the-garry--small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/callanish-stones-banner.jpg",
@@ -437,7 +449,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Callanish_Stones_banner.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/callanish-stones-banner-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/callanish-stones-banner-small.webp"
         },
         {
           "path": "_m/g/f/7/0/outer-hebrides-wp/callanish-standing-stones-1.jpg",
@@ -461,7 +475,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/7/0/outer-hebrides-wp/callanish-standing-stones-1-small.webp"
         },
         {
           "path": "_m/g/f/7/0/outer-hebrides-wp/oitir-mhor.jpg",
@@ -485,7 +500,8 @@
             "Causeways in Scotland",
             "North Uist",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/7/0/outer-hebrides-wp/oitir-mhor-small.webp"
         },
         {
           "path": "_m/g/f/7/0/outer-hebrides-wp/outer-hebrides-lews-castle-201.jpg",
@@ -500,7 +516,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outer_Hebrides_-_Lews_Castle_-_20190728100816.jpg",
           "sourceType": "poi",
           "sourceArticleId": "outer-hebrides-wp",
-          "sourceGeohash4": "gf70"
+          "sourceGeohash4": "gf70",
+          "mediumPath": "_m/g/f/7/0/outer-hebrides-wp/outer-hebrides-lews-castle-201-medium.webp",
+          "smallPath": "_m/g/f/7/0/outer-hebrides-wp/outer-hebrides-lews-castle-201-small.webp"
         },
         {
           "path": "_m/g/f/7/0/outer-hebrides-wp/scolpaig-tower-geograph-org-uk.jpg",
@@ -515,7 +533,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scolpaig_Tower_-_geograph.org.uk_-_3966213.jpg",
           "sourceType": "poi",
           "sourceArticleId": "outer-hebrides-wp",
-          "sourceGeohash4": "gf70"
+          "sourceGeohash4": "gf70",
+          "smallPath": "_m/g/f/7/0/outer-hebrides-wp/scolpaig-tower-geograph-org-uk-small.webp"
         }
       ],
       "narration": [

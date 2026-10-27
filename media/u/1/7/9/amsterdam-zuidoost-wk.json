@@ -3,34 +3,22 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/7/9/amsterdam-zuidoost-wk/hero.jpg",
-        "filename": "Gaasperpark1.jpg",
-        "caption": "The Gaasperpark is a park in Amsterdam.",
-        "alt": "The Gaasperpark is a park in Amsterdam.",
-        "width": 3888,
-        "height": 2592,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Arthena",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaasperpark1.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "amsterdam-zuidoost-wk",
-        "sourceGeohash4": "u179",
-        "categories": [
-          "2007 in Amsterdam",
-          "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
-          "GFDL",
-          "Gaasperpark",
-          "License migration redundant",
-          "Netherlands photographs taken on 2007-12-15",
-          "Planetarium Amsterdam",
-          "Self-published work",
-          "Taken with Canon EOS 400D"
-        ]
+        "path": "_m/u/1/7/9/amsterdam-zuidoost-wp/amsterdam-heineken-music-hall-.jpg",
+        "filename": "Amsterdam Heineken Music Hall 001.JPG",
+        "caption": "Heineken Music Hall, Amsterdam",
+        "alt": "Heineken Music Hall, Amsterdam",
+        "width": 3280,
+        "height": 1561,
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "artist": "Janericloebe",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_Heineken_Music_Hall_001.JPG",
+        "mediumPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/amsterdam-heineken-music-hall--medium.webp",
+        "smallPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/amsterdam-heineken-music-hall--small.webp"
       },
       "images": [
         {
-          "path": "_m/u/1/7/9/amsterdam-zuidoost-wk/amsterdam-arena.jpg",
+          "path": "_m/u/1/7/9/amsterdam-zuidoost-wp/amsterdam-arena.jpg",
           "filename": "Amsterdam Arena.jpg",
           "caption": "Amsterdam Arena, Amsterdam",
           "alt": "Amsterdam Arena, Amsterdam",
@@ -50,10 +38,10 @@
             "Johan Cruijff ArenA",
             "License migration completed"
           ],
-          "smallPath": "_m/u/1/7/9/amsterdam-zuidoost-wk/amsterdam-arena-small.webp"
+          "smallPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/amsterdam-arena-small.webp"
         },
         {
-          "path": "_m/u/1/7/9/amsterdam-zuidoost-wk/monument-bijlmerramp.jpg",
+          "path": "_m/u/1/7/9/amsterdam-zuidoost-wp/monument-bijlmerramp.jpg",
           "filename": "Monument Bijlmerramp.jpg",
           "caption": "Monument for the Bijlmerdisaster, oct. 4, 1992, Amsterdam, The Netherlands. The monument is designed by architect Herman Hertzberger together with survivors",
           "alt": "Monument for the Bijlmerdisaster, oct. 4, 1992, Amsterdam, The Netherlands. The monument is designed by architect Herman Hertzberger together with survivors",
@@ -73,11 +61,11 @@
             "Self-published work",
             "Taken with Sony Ericsson K800i"
           ],
-          "mediumPath": "_m/u/1/7/9/amsterdam-zuidoost-wk/monument-bijlmerramp-medium.webp",
-          "smallPath": "_m/u/1/7/9/amsterdam-zuidoost-wk/monument-bijlmerramp-small.webp"
+          "mediumPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/monument-bijlmerramp-medium.webp",
+          "smallPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/monument-bijlmerramp-small.webp"
         },
         {
-          "path": "_m/u/1/7/9/amsterdam-zuidoost-wk/amsterdam-heineken-music-hall-.jpg",
+          "path": "_m/u/1/7/9/amsterdam-zuidoost-wp/amsterdam-heineken-music-hall-.jpg",
           "filename": "Amsterdam Heineken Music Hall 001.JPG",
           "caption": "Heineken Music Hall, Amsterdam",
           "alt": "Heineken Music Hall, Amsterdam",
@@ -102,11 +90,11 @@
             "Taken with Pentax K10D",
             "Venues of the Junior Eurovision Song Contest"
           ],
-          "mediumPath": "_m/u/1/7/9/amsterdam-zuidoost-wk/amsterdam-heineken-music-hall--medium.webp",
-          "smallPath": "_m/u/1/7/9/amsterdam-zuidoost-wk/amsterdam-heineken-music-hall--small.webp"
+          "mediumPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/amsterdam-heineken-music-hall--medium.webp",
+          "smallPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/amsterdam-heineken-music-hall--small.webp"
         },
         {
-          "path": "_m/u/1/7/9/amsterdam-zuidoost-wk/ziggodome2012.jpg",
+          "path": "_m/u/1/7/9/amsterdam-zuidoost-wp/ziggodome2012.jpg",
           "filename": "ZiggoDome2012.jpg",
           "caption": "Picture I took of the Ziggo Dome in Amsterdam on 26th June 2012.",
           "alt": "Picture I took of the Ziggo Dome in Amsterdam on 26th June 2012.",
@@ -125,8 +113,8 @@
             "Taken with Kodak EasyShare C140",
             "Ziggo Dome"
           ],
-          "mediumPath": "_m/u/1/7/9/amsterdam-zuidoost-wk/ziggodome2012-medium.webp",
-          "smallPath": "_m/u/1/7/9/amsterdam-zuidoost-wk/ziggodome2012-small.webp"
+          "mediumPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/ziggodome2012-medium.webp",
+          "smallPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/ziggodome2012-small.webp"
         },
         {
           "path": "_m/u/1/7/9/amsterdam-zuidoost-wp/map-nl-amsterdam-stadsdeel-zui.png",
@@ -150,7 +138,8 @@
             "Locator maps of neighborhoods in Amsterdam-Zuidoost",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/map-nl-amsterdam-stadsdeel-zui-small.webp"
         },
         {
           "path": "_m/u/1/7/9/amsterdam-zuidoost-wp/amsterdam-zuidooist-amsterdams.jpg",
@@ -173,7 +162,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Pentax K10D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/amsterdam-zuidooist-amsterdams-medium.webp",
+          "smallPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/amsterdam-zuidooist-amsterdams-small.webp"
         },
         {
           "path": "_m/u/1/7/9/amsterdam-zuidoost-wp/twaalf-bokspringers-bijlmermee.jpg",
@@ -196,7 +187,9 @@
             "Netherlands photographs taken on 2013-08-10",
             "Sculptures in Amsterdam-Zuidoost",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/twaalf-bokspringers-bijlmermee-medium.webp",
+          "smallPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/twaalf-bokspringers-bijlmermee-small.webp"
         },
         {
           "path": "_m/u/1/7/9/amsterdam-zuidoost-wp/anton-de-komplein-150.jpg",
@@ -218,7 +211,9 @@
             "Netherlands photographs taken on 2016-08-31",
             "Self-published work",
             "Stadsdeelkantoor Zuidoost"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/anton-de-komplein-150-medium.webp",
+          "smallPath": "_m/u/1/7/9/amsterdam-zuidoost-wp/anton-de-komplein-150-small.webp"
         },
         {
           "path": "_m/u/1/7/9/diemen-wp/diemerbos3.jpg",
@@ -240,7 +235,9 @@
             "Netherlands photographs taken on 2013-12-11",
             "Self-published work",
             "Veeneikbrug"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/diemen-wp/diemerbos3-medium.webp",
+          "smallPath": "_m/u/1/7/9/diemen-wp/diemerbos3-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/weesp-met-fort-ossenmarkt.jpg",
@@ -262,7 +259,8 @@
             "PD-self",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/weesp-wp/weesp-met-fort-ossenmarkt-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/weesp-molen-t-haantje-vanaf-ov.jpg",
@@ -283,7 +281,9 @@
             "CC-BY-SA-2.5",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/weesp-wp/weesp-molen-t-haantje-vanaf-ov-medium.webp",
+          "smallPath": "_m/u/1/7/9/weesp-wp/weesp-molen-t-haantje-vanaf-ov-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/fort-ossenmarkt-weesp.jpg",
@@ -303,7 +303,9 @@
             "PD-self",
             "Self-published work",
             "Torenfort aan de Ossenmarkt"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/weesp-wp/fort-ossenmarkt-weesp-medium.webp",
+          "smallPath": "_m/u/1/7/9/weesp-wp/fort-ossenmarkt-weesp-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/weesp-herengracht.jpg",
@@ -326,7 +328,9 @@
             "Self-published work",
             "Sint-Laurentiuskerk, Weesp",
             "Taken with Sony DSC-H7"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/weesp-wp/weesp-herengracht-medium.webp",
+          "smallPath": "_m/u/1/7/9/weesp-wp/weesp-herengracht-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/s-gravelandsevaart-002.jpg",
@@ -348,7 +352,9 @@
             "Schutsluis en Ophaalbrug Fort Uitermeer",
             "Self-published work",
             "Taken with Pentax K10D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/weesp-wp/s-gravelandsevaart-002-medium.webp",
+          "smallPath": "_m/u/1/7/9/weesp-wp/s-gravelandsevaart-002-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/weesp-nieuwstad.jpg",
@@ -371,7 +377,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot SX200 IS"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/weesp-wp/weesp-nieuwstad-medium.webp",
+          "smallPath": "_m/u/1/7/9/weesp-wp/weesp-nieuwstad-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/weesp-kerk1-positie4-foto4-201.jpg",
@@ -395,7 +403,9 @@
             "Self-published work",
             "Sint-Laurentiuskerk, Weesp",
             "Taken with Canon PowerShot G10"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/weesp-wp/weesp-kerk1-positie4-foto4-201-medium.webp",
+          "smallPath": "_m/u/1/7/9/weesp-wp/weesp-kerk1-positie4-foto4-201-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/gemeentehuis-weesp.jpg",
@@ -418,7 +428,8 @@
             "Self-published work",
             "Stadhuis Weesp",
             "Uploaded via Campaign:wlm-nl"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/weesp-wp/gemeentehuis-weesp-small.webp"
         },
         {
           "path": "_m/u/1/7/9/pampus-wp/muiderslot-westzijde.jpg",
@@ -440,7 +451,9 @@
             "Photographs taken on 2012-08-22",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/pampus-wp/muiderslot-westzijde-medium.webp",
+          "smallPath": "_m/u/1/7/9/pampus-wp/muiderslot-westzijde-small.webp"
         },
         {
           "path": "_m/u/1/7/9/pampus-wp/westbatterij2-muiden.jpg",
@@ -462,7 +475,9 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Westbatterij Muiden"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/pampus-wp/westbatterij2-muiden-medium.webp",
+          "smallPath": "_m/u/1/7/9/pampus-wp/westbatterij2-muiden-small.webp"
         },
         {
           "path": "_m/u/1/7/9/pampus-wp/schleuse-muiden-niederlande-im.jpg",
@@ -484,7 +499,9 @@
             "Files by User:Losch",
             "Groote Zeesluis",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/pampus-wp/schleuse-muiden-niederlande-im-medium.webp",
+          "smallPath": "_m/u/1/7/9/pampus-wp/schleuse-muiden-niederlande-im-small.webp"
         },
         {
           "path": "_m/u/1/7/9/pampus-wp/muiden-p7180052.jpg",
@@ -508,7 +525,9 @@
             "Muiden",
             "Self-published work",
             "Taken with Olympus u30D / S-410D / u410D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/pampus-wp/muiden-p7180052-medium.webp",
+          "smallPath": "_m/u/1/7/9/pampus-wp/muiden-p7180052-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/gooise-wei.jpg",
@@ -532,7 +551,9 @@
             "Photographs taken on 2006-02-26",
             "Self-published work",
             "Taken with Canon PowerShot A410"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/gooise-wei-medium.webp",
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/gooise-wei-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/laren-brink-17juni2006.jpg",
@@ -556,7 +577,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot A520"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/laren-brink-17juni2006-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/huizen.jpg",
@@ -579,7 +601,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/huizen-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/muiden-het-slot-en-de-flevopol.jpg",
@@ -601,7 +624,8 @@
             "Netherlands photographs taken on 2007-07-21",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/muiden-het-slot-en-de-flevopol-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/brinklaan-bussum-2008.jpg",
@@ -628,7 +652,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot A530"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/brinklaan-bussum-2008-medium.webp",
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/brinklaan-bussum-2008-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/30282-vestingwerken-en-grachte.jpg",
@@ -643,7 +669,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:30282-Vestingwerken_en_grachten_van_Naarden.jpg",
           "sourceType": "poi",
           "sourceArticleId": "gooi-en-vechtstreek-wk",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "mediumPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/30282-vestingwerken-en-grachte-medium.webp",
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/30282-vestingwerken-en-grachte-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/veenendaal-winter.jpg",
@@ -666,7 +694,8 @@
             "Self-published work",
             "Taken with Canon EOS 300D",
             "Veenendaal"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/veenendaal-winter-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/rhenen-9.jpg",
@@ -687,7 +716,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FX01"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/rhenen-9-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/rhenen-9-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/martkplein-woerden.jpg",
@@ -709,7 +740,9 @@
             "Saint Peter Church (Woerden)",
             "Self-published work",
             "Taken with Sony DSC-H7"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/martkplein-woerden-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/martkplein-woerden-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/nachtegaalstraat-utrecht.jpg",
@@ -735,7 +768,9 @@
             "Nachtegaalstraat, Utrecht",
             "Self-published work",
             "Taken with Canon Digital IXUS"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/nachtegaalstraat-utrecht-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/nachtegaalstraat-utrecht-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/wijk-bij-duurstede-2009.jpg",
@@ -757,7 +792,9 @@
             "Self-published work",
             "Time 11:44",
             "Wijk bij Duurstede"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/wijk-bij-duurstede-2009-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/wijk-bij-duurstede-2009-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/koppelpoort-amersfoort-cropped.jpg",
@@ -789,7 +826,9 @@
             "On OSM",
             "Pictures of the Year (2010)",
             "Pictures of the Year (candidate)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/koppelpoort-amersfoort-cropped-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/koppelpoort-amersfoort-cropped-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/soest-netherlands-autumn-lands.jpg",
@@ -804,7 +843,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soest,_Netherlands_-_autumn_landscape_2015_(22743688092).jpg",
           "sourceType": "poi",
           "sourceArticleId": "utrecht-province-wp",
-          "sourceGeohash4": "u178"
+          "sourceGeohash4": "u178",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/soest-netherlands-autumn-lands-small.webp"
         }
       ],
       "narration": [

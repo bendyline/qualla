@@ -50,7 +50,7 @@ In its working years the castle stood on an island between the mouths of two riv
   - Treasure legends; crofter digging the mound in the late 1800s finding iron nails; Mikko Simonpoika accused of witchcraft in the early 1700s; copper serpent legend
   - Story of the castle lord sinking his son's ship, printed in Kansalainen 30 November 1898
   - Excavations by the University of Turku 12-30 July 2004; site open year round and maintained by Liinmaan perinneyhdistys ry with fire pit and outdoor toilet
-- [Liinmaa Castle - Wikipedia](https://en.wikipedia.org/wiki/Liinmaa_Castle)
+- [Liinmaa Castle - Wikipedia](https://en.wikipedia.org/?curid=7150608)
   - Medieval castle in Eurajoki, Satakunta, made of wood and brick with only earth walls remaining
   - In use during the 14th and 15th centuries per excavations in the 1970s and 2004-2005
   - Dietrich (Didrik) Vieregge served King Albrekt av Mecklenburg

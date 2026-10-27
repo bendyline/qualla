@@ -28,7 +28,7 @@ Ownership of Graceland has traced the Presley family line through triumph and tr
 
 ## Flight Context
 
-Located at 35.046°N, 90.023°W on Elvis Presley Boulevard (U.S. Route 51) in the Whitehaven neighborhood of south Memphis, Tennessee. The estate's tree-lined grounds and Colonial Revival mansion sit atop a hill visible from low altitude. The two display aircraft -- a Convair 880 and a Lockheed JetStar -- are prominent landmarks from the air, parked on the grounds east of the mansion. Memphis International Airport (KMEM) is approximately 4 nm east. The Mississippi state line is just a few miles south. Best viewed at 1,500-3,000 feet AGL where the estate layout, display aircraft, and surrounding development along Elvis Presley Boulevard are all visible.
+Located at 35.046°N, 90.023°W on Elvis Presley Boulevard (U.S. Route 51) in the Whitehaven neighborhood of south Memphis, Tennessee. The estate's tree-lined grounds and Colonial Revival mansion sit atop a hill visible from low altitude. The two display aircraft -- a Convair 880 and a Lockheed JetStar -- are prominent landmarks from the air, parked on the grounds east of the mansion. Frederick W. Smith International Airport (KMEM, formerly Memphis International) is approximately 4 nm east. The Mississippi state line is just a few miles south. Best viewed at 1,500-3,000 feet AGL where the estate layout, display aircraft, and surrounding development along Elvis Presley Boulevard are all visible.
 
 ## Sources
 

@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/9/0/twelve-bens-wp/hero.jpg",
-        "filename": "Connemara12Bens.jpg",
-        "caption": "Twelve Bens in Connemara Ireland",
-        "alt": "Twelve Bens in Connemara Ireland",
-        "width": 2272,
-        "height": 1704,
+        "path": "_m/g/c/9/0/twelve-bens-wp/2016-08-09-panorama-12-bens.jpg",
+        "filename": "2016-08-09-Panorama 12 Bens -.jpg",
+        "caption": "12 Bens in Connemara, vom Cullen an Cailin in Carna gesehen",
+        "alt": "12 Bens in Connemara, vom Cullen an Cailin in Carna gesehen",
+        "width": 11476,
+        "height": 3684,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Misik Péter Neo7",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Connemara12Bens.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Superbass",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016-08-09-Panorama_12_Bens_-.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "twelve-bens-wp",
         "sourceGeohash4": "gc90",
-        "categories": [
-          "CC-BY-SA-2.5,2.0,1.0",
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "License migration redundant",
-          "Self-published work",
-          "Taken with Canon PowerShot A420",
-          "Twelve Bens"
-        ]
+        "mediumPath": "_m/g/c/9/0/twelve-bens-wp/2016-08-09-panorama-12-bens-medium.webp",
+        "smallPath": "_m/g/c/9/0/twelve-bens-wp/2016-08-09-panorama-12-bens-small.webp"
       },
       "images": [
         {
@@ -78,7 +71,7 @@
           "smallPath": "_m/g/c/9/0/twelve-bens-wp/sgurr-nan-gillean-cuil-small.webp"
         },
         {
-          "path": "_m/g/c/9/0/twelve-bens-wp/ireland-relief-location-map.png",
+          "path": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map.png",
           "filename": "Ireland relief location map.png",
           "caption": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
           "alt": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
@@ -97,7 +90,8 @@
             "Images with extracted images",
             "Maps by Nilfanion",
             "Relief location maps of Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map-small.webp"
         },
         {
           "path": "_m/g/c/9/0/twelve-bens-wp/twelve-bins-distance.jpg",
@@ -125,7 +119,7 @@
           "smallPath": "_m/g/c/9/0/twelve-bens-wp/twelve-bins-distance-small.webp"
         },
         {
-          "path": "_m/g/c/9/0/twelve-bens-wp/boats-and-mountains-roundstone.jpg",
+          "path": "_m/g/c/2/z/roundstone-county-galway-wp/boats-and-mountains-roundstone.jpg",
           "filename": "Boats and mountains, Roundstone (6047965086).jpg",
           "caption": "Boats and mountains, Roundstone",
           "alt": "Boats and mountains, Roundstone",
@@ -148,7 +142,9 @@
             "Roundstone",
             "Twelve Bens",
             "Uploads by ww2censor"
-          ]
+          ],
+          "mediumPath": "_m/g/c/2/z/roundstone-county-galway-wp/boats-and-mountains-roundstone-medium.webp",
+          "smallPath": "_m/g/c/2/z/roundstone-county-galway-wp/boats-and-mountains-roundstone-small.webp"
         },
         {
           "path": "_m/g/c/9/0/twelve-bens-wp/caher-black-head.jpg",
@@ -448,7 +444,7 @@
           "smallPath": "_m/g/c/9/0/twelve-bens-wp/owengin-pool-geograph-org-uk-2-small.webp"
         },
         {
-          "path": "_m/g/c/9/0/twelve-bens-wp/errisbeg-and-the-twelve-pins-g.jpg",
+          "path": "_m/g/c/2/z/roundstone-county-galway-wp/errisbeg-and-the-twelve-pins-g.jpg",
           "filename": "Errisbeg and the Twelve Pins - geograph.org.uk - 377507.jpg",
           "caption": "Errisbeg &amp; the Twelve Pins Errisbeg is a modest hill providing superb views, over the boglands to the Twelve Pins, and also of the coast to the south.\nThe boglands provide plenty of scope for serious square-baggers.",
           "alt": "Errisbeg &amp; the Twelve Pins Errisbeg is a modest hill providing superb views, over the boglands to the Twelve Pins, and also of the coast to the south.\nThe boglands provide plenty of scope for serious square-baggers.",
@@ -460,7 +456,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Errisbeg_and_the_Twelve_Pins_-_geograph.org.uk_-_377507.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "roundstone-county-galway-wp",
-          "sourceGeohash4": "gc90"
+          "sourceGeohash4": "gc90",
+          "smallPath": "_m/g/c/2/z/roundstone-county-galway-wp/errisbeg-and-the-twelve-pins-g-small.webp"
         },
         {
           "path": "_m/g/c/9/0/twelve-bens-wp/derryclare-lough-geograph-org-.jpg",
@@ -548,7 +545,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/clifdenoverview-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/clifdenoverview-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/tuam-cathedral-of-the-assumpti.jpg",
@@ -583,7 +582,8 @@
             "September 2009 Ireland photographs",
             "Stained-glass windows of the Cathedral of the Assumption, Tuam",
             "Taken with Canon EOS 30D"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/r/county-galway-wp/tuam-cathedral-of-the-assumpti-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/tuam-high-street-2009-09-14.jpg",
@@ -612,7 +612,9 @@
             "Taken with Canon EOS 30D",
             "Time 01:32",
             "Tuam"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/tuam-high-street-2009-09-14-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/tuam-high-street-2009-09-14-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/letterfrack-connemara.jpg",
@@ -636,7 +638,9 @@
             "Letterfrack",
             "Taken with Fujifilm FinePix F30",
             "Tully Mountain"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/letterfrack-connemara-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/letterfrack-connemara-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/spiddal-pier.jpg",
@@ -651,7 +655,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spiddal_Pier.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc3r"
+          "sourceGeohash4": "gc3r",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/spiddal-pier-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/spiddal-pier-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/fahy-lake-omey-island-connemar.jpg",
@@ -666,7 +672,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fahy_Lake,_Omey_Island,_Connemara.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc3r"
+          "sourceGeohash4": "gc3r",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/fahy-lake-omey-island-connemar-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/fahy-lake-omey-island-connemar-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/portumna-castle.jpg",
@@ -681,7 +689,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portumna_Castle.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc3r"
+          "sourceGeohash4": "gc3r",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/portumna-castle-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/plassy-shipwreck-2016.jpg",
@@ -696,7 +705,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plassy_shipwreck_2016.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc3r"
+          "sourceGeohash4": "gc3r",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/plassy-shipwreck-2016-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/plassy-shipwreck-2016-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/galwaycitycollage.jpg",
@@ -711,7 +722,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galwaycitycollage.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc3r"
+          "sourceGeohash4": "gc3r",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/galwaycitycollage-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/galwaycitycollage-small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/inishbofin-cromwell-s-barrack-.jpg",
@@ -726,7 +739,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inishbofin_Cromwell%27s_Barrack_II_2018_09_03.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc3r"
+          "sourceGeohash4": "gc3r",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/inishbofin-cromwell-s-barrack--medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/inishbofin-cromwell-s-barrack--small.webp"
         },
         {
           "path": "_m/g/c/3/r/county-galway-wp/galway-hooker.jpg",
@@ -741,7 +756,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galway_Hooker.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-galway-wp",
-          "sourceGeohash4": "gc3r"
+          "sourceGeohash4": "gc3r",
+          "mediumPath": "_m/g/c/3/r/county-galway-wp/galway-hooker-medium.webp",
+          "smallPath": "_m/g/c/3/r/county-galway-wp/galway-hooker-small.webp"
         }
       ],
       "videos": [

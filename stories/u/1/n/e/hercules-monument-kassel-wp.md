@@ -36,14 +36,14 @@ The Hercules monument stands at 51.316°N, 9.393°E, on the eastern crest of the
 
 ## Sources
 
-- [Hercules monument (Kassel) - Wikipedia](https://en.wikipedia.org/wiki/Hercules_monument_(Kassel))
+- [Hercules monument (Kassel) - Wikipedia](https://en.wikipedia.org/?curid=16750973)
 - [Bergpark Wilhelmshöhe - Wikipedia](https://en.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he)
 - [Herkules (Kassel) - Wikipedia (German)](https://de.wikipedia.org/wiki/Herkules_(Kassel))
   - Corrected: restoration was not finished by 2018 as the English-language source implied; cascade restoration completed 2019, but Octagon interior restoration is ongoing due to worse-than-expected tuff damage found on the second floor, with a target completion of November 2026
   - cost estimate revised from an original 21 million euros to approximately 30 million euros by 2011
   - construction 1701-1717 to a design by Giovanni Francesco Guerniero confirmed
   - 70.5 m total height confirmed (Octagon 32.65 m, pyramid 29.60 m, statue 8.25 m)
-- [Hercules monument (Kassel) - Wikipedia](https://en.wikipedia.org/wiki/Hercules_monument_(Kassel))
+- [Hercules monument (Kassel) - Wikipedia](https://en.wikipedia.org/?curid=16750973)
   - 520 steps lead to the top of the monument
 
 ## Review Notes

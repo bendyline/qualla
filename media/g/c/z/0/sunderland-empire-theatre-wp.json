@@ -3,28 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/z/0/sunderland-empire-theatre-wp/hero.jpg",
-        "filename": "Sunderland Empire.jpg",
-        "alt": "Sunderland Empire.jpg",
-        "width": 800,
-        "height": 1067,
+        "path": "_m/g/c/z/0/sunderland-empire-theatre-wp/theatre-empire-sunderland-1.jpg",
+        "filename": "Théâtre Empire Sunderland 1.jpg",
+        "caption": "Théâtre Empire, Sunderland.",
+        "alt": "Théâtre Empire, Sunderland.",
+        "width": 3456,
+        "height": 5184,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunderland_Empire.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Chabe01",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Th%C3%A9%C3%A2tre_Empire_Sunderland_1.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "sunderland-empire-theatre-wp",
         "sourceGeohash4": "gcz0",
         "categories": [
-          "20th-century architecture in Sunderland",
+          "CC-BY-SA-4.0",
           "Empire Theatre, Sunderland",
-          "Files with coordinates missing SDC location of creation (54° N, 2° W)",
-          "Files with no machine-readable author",
-          "Files with no machine-readable source",
-          "Media missing infobox template",
-          "PD-self",
+          "Images by Chabe01 taken with Canon EOS 1200D",
+          "Images of City of Sunderland by Chabe01",
+          "June 2018 in Tyne and Wear",
+          "Matilda the Musical",
           "Self-published work",
-          "Taken with Canon PowerShot G5"
-        ]
+          "United Kingdom photographs taken on 2018-06-02"
+        ],
+        "mediumPath": "_m/g/c/z/0/sunderland-empire-theatre-wp/theatre-empire-sunderland-1-medium.webp",
+        "smallPath": "_m/g/c/z/0/sunderland-empire-theatre-wp/theatre-empire-sunderland-1-small.webp"
       },
       "images": [
         {
@@ -150,7 +153,8 @@
             "Self-published work",
             "Sunderland station",
             "Taken with Panasonic Lumix DMC-FZ20"
-          ]
+          ],
+          "smallPath": "_m/g/c/z/0/sunderland-wp/sunderland-station-metro-platf-small.webp"
         },
         {
           "path": "_m/g/c/z/0/monkwearmouth-railway-bridge-wp/hero.jpg",
@@ -165,7 +169,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wearmouth_Bridge,_Sunderland.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "monkwearmouth-railway-bridge-wp",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "smallPath": "_m/g/c/z/0/monkwearmouth-railway-bridge-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/z/0/sunderland-wp/penshaw-monument-6405902427.jpg",
@@ -180,7 +185,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Penshaw_monument_(6405902427).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sunderland-wp",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "smallPath": "_m/g/c/z/0/sunderland-wp/penshaw-monument-6405902427-small.webp"
         },
         {
           "path": "_m/g/c/z/0/sunderland-wp/sunderland-minster-geograph-18.jpg",
@@ -195,7 +201,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunderland_Minster_(geograph_1841095).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sunderland-wp",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "smallPath": "_m/g/c/z/0/sunderland-wp/sunderland-minster-geograph-18-small.webp"
         },
         {
           "path": "_m/g/c/z/0/sunderland-wk/william-pile-s-shipyard-north-.jpg",
@@ -210,7 +217,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Pile%27s_Shipyard,_North_Sands,_Sunderland.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sunderland-wk",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "smallPath": "_m/g/c/z/0/sunderland-wk/william-pile-s-shipyard-north--small.webp"
         },
         {
           "path": "_m/g/c/z/0/sunderland-wp/sunderland-museum-and-winter-g.jpg",
@@ -225,7 +233,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunderland_Museum_and_Winter_Gardens_05.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sunderland-wp",
-          "sourceGeohash4": "gcz0"
+          "sourceGeohash4": "gcz0",
+          "smallPath": "_m/g/c/z/0/sunderland-wp/sunderland-museum-and-winter-g-small.webp"
         },
         {
           "path": "_m/tpc/ha/dr/ia/n-/hadrian-s-wall/tyne-bridge-newcastle-upon-tyn.jpg",
@@ -248,7 +257,8 @@
             "Self-published work",
             "Tuxedo Princess (ship, 1961)",
             "Tyne Bridge"
-          ]
+          ],
+          "smallPath": "_m/tpc/ha/dr/ia/n-/hadrian-s-wall/tyne-bridge-newcastle-upon-tyn-small.webp"
         },
         {
           "path": "_m/g/c/w/w/county-durham-wp/durham-millburngate-bridge.jpg",
@@ -277,7 +287,8 @@
             "Self-published work",
             "Towers of Durham Cathedral",
             "Weirs in County Durham"
-          ]
+          ],
+          "smallPath": "_m/g/c/w/w/county-durham-wp/durham-millburngate-bridge-small.webp"
         },
         {
           "path": "_m/g/c/y/9/northumberland-wp/northumberland-national-park.jpg",
@@ -299,7 +310,8 @@
             "License migration completed",
             "Northumberland National Park",
             "Taken with Nikon Coolpix 995"
-          ]
+          ],
+          "smallPath": "_m/g/c/y/9/northumberland-wp/northumberland-national-park-small.webp"
         },
         {
           "path": "_m/tpc/wa/rs/-o/f-/wars-of-the-roses/hexham-beaumontstreet.jpg",
@@ -320,7 +332,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon PowerShot A60"
-          ]
+          ],
+          "smallPath": "_m/tpc/wa/rs/-o/f-/wars-of-the-roses/hexham-beaumontstreet-small.webp"
         },
         {
           "path": "_m/g/c/y/9/northumberland-wp/lindisfarnecastleholyisland.jpg",
@@ -342,7 +355,9 @@
             "Lindisfarne Castle",
             "Listed buildings in England with known IDs",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/y/9/northumberland-wp/lindisfarnecastleholyisland-medium.webp",
+          "smallPath": "_m/g/c/y/9/northumberland-wp/lindisfarnecastleholyisland-small.webp"
         },
         {
           "path": "_m/g/c/y/8/north-east-england-wk/newcastle-quayside-with-bridge.jpg",
@@ -364,7 +379,9 @@
             "Featured pictures on Wikipedia, Persian",
             "Featured pictures on Wikipedia, Turkish",
             "Files with Assessments template missing SDC Commons no value quality assessment"
-          ]
+          ],
+          "mediumPath": "_m/g/c/y/8/north-east-england-wk/newcastle-quayside-with-bridge-medium.webp",
+          "smallPath": "_m/g/c/y/8/north-east-england-wk/newcastle-quayside-with-bridge-small.webp"
         },
         {
           "path": "_m/g/c/y/8/north-east-england-wk/north-east-england-map.png",
@@ -379,7 +396,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_East_England_map.png",
           "sourceType": "poi",
           "sourceArticleId": "north-east-england-wk",
-          "sourceGeohash4": "gcy8"
+          "sourceGeohash4": "gcy8",
+          "mediumPath": "_m/g/c/y/8/north-east-england-wk/north-east-england-map-medium.webp",
+          "smallPath": "_m/g/c/y/8/north-east-england-wk/north-east-england-map-small.webp"
         },
         {
           "path": "_m/g/c/y/8/north-east-england-wk/north-east-england-banner-rive.jpg",
@@ -394,7 +413,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_East_England_banner_River_Aln_at_Alnmouth.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-east-england-wk",
-          "sourceGeohash4": "gcy8"
+          "sourceGeohash4": "gcy8",
+          "mediumPath": "_m/g/c/y/8/north-east-england-wk/north-east-england-banner-rive-medium.webp",
+          "smallPath": "_m/g/c/y/8/north-east-england-wk/north-east-england-banner-rive-small.webp"
         },
         {
           "path": "_m/g/c/y/3/hadrian-s-wall-wk/section-hadrian-s-wall.jpg",
@@ -409,7 +430,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Section_of_Hadrian%27s_Wall_1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "hadrian-s-wall-wk",
-          "sourceGeohash4": "gcy8"
+          "sourceGeohash4": "gcy8",
+          "mediumPath": "_m/g/c/y/3/hadrian-s-wall-wk/section-hadrian-s-wall-medium.webp",
+          "smallPath": "_m/g/c/y/3/hadrian-s-wall-wk/section-hadrian-s-wall-small.webp"
         }
       ],
       "narration": [

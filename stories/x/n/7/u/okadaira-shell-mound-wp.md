@@ -33,7 +33,7 @@ Located at 36.017°N, 140.349°E on the south-central shore of Lake Kasumigaura 
 ## Sources
 
 - [Okadaira Shell Mound - Wikipedia](https://en.wikipedia.org/?curid=67455908)
-- [Okadaira Shell Mound - Wikipedia (fact-check)](https://en.wikipedia.org/wiki/Okadaira_Shell_Mound)
+- [Okadaira Shell Mound - Wikipedia (fact-check)](https://en.wikipedia.org/?curid=67455908)
   - First archaeological excavation led by Japanese scholars confirmed
   - Excavators Chujiro Sasaki (story uses 'Tadajiro' - alternate romanization) and Isao Iijima from Tokyo Imperial University confirmed
   - Edward S. Morse as their teacher confirmed, Omori Shell Mounds connection confirmed

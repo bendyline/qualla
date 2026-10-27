@@ -52,7 +52,7 @@ Porto Alegre centers near 30.03 S, 51.23 W on the east bank of the Guaiba, unmis
   - Participatory budget started 1989 confirmed
   - World Social Forum first held in Porto Alegre in 2001 confirmed
   - ~50,000 residents participating at peak confirmed
-- [Corrected: African slaves → enslaved Africans](https://en.wikipedia.org/wiki/Porto_Alegre)
+- [Corrected: African slaves → enslaved Africans](https://en.wikipedia.org/?curid=172237)
   - Corrected: 'came with their African slaves' → 'came with enslaved Africans' (empathy/dignity fix)
 
 ## Review Notes

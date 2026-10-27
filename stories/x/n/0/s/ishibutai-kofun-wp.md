@@ -37,7 +37,7 @@ Located at 34.467N, 135.826E in the Asuka valley of Nara Prefecture, Japan. The 
 ## Sources
 
 - [Ishibutai Kofun - Wikipedia](https://en.wikipedia.org/?curid=9908534)
-- [Ishibutai Kofun - Wikipedia](https://en.wikipedia.org/wiki/Ishibutai_Kofun)
+- [Ishibutai Kofun - Wikipedia](https://en.wikipedia.org/?curid=9908534)
   - 30 stones used to construct the Ishibutai Kofun, total weight ~2,300 tons
   - Largest known megalithic structure in Japan
   - Tomb almost certainly belongs to Soga no Umako, died 626 AD per Nihon Shoki

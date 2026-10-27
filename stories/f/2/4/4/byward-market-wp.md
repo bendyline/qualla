@@ -37,7 +37,7 @@ The ByWard Market is located at 45.43N, 75.69W, in Ottawa's Lower Town district 
 ## Sources
 
 - [ByWard Market - Wikipedia](https://en.wikipedia.org/?curid=914226)
-- [ByWard Market - Wikipedia](https://en.wikipedia.org/wiki/ByWard_Market)
+- [ByWard Market - Wikipedia](https://en.wikipedia.org/?curid=914226)
   - John By surveyed and divided land into lots in late 1820s confirmed
   - Market named for the By Ward administrative division confirmed
   - National Gallery of Canada designed by Moshe Safdie confirmed

@@ -37,7 +37,7 @@ Located at 30.50°N, 84.31°W on the south shore of Lake Jackson in northern Tal
 ## Sources
 
 - [Lake Jackson Mounds Archaeological State Park - Wikipedia](https://en.wikipedia.org/?curid=1411613)
-- [Lake Jackson Mounds Archaeological State Park - Wikipedia](https://en.wikipedia.org/wiki/Lake_Jackson_Mounds_Archaeological_State_Park)
+- [Lake Jackson Mounds Archaeological State Park - Wikipedia](https://en.wikipedia.org/?curid=1411613)
   - seven platform mounds on south shore of Lake Jackson
   - Fort Walton Culture 1000-1500 CE
   - National Register of Historic Places May 6 1971

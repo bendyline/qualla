@@ -12,6 +12,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "wenstar",
+      "credit": "Own work",
+      "source": "Tku",
       "description": "Tamkang University",
       "dateCreated": "2006-03-09 08:19",
       "categories": [
@@ -25,37 +27,10 @@
         "Taken with Canon EOS 20D",
         "Tamkang University Tamsui Campus"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "jiaoxi-wk",
       "sourceGeohash4": "wsqt",
       "smallPath": "_m/w/s/q/t/jiaoxi-wk/tku-small.webp"
-    },
-    {
-      "filename": "Wufengqi Falls Taiwan.jpeg",
-      "title": "File:Wufengqi Falls Taiwan.jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wufengqi_Falls_Taiwan.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Wufengqi_Falls_Taiwan.jpeg",
-      "width": 2278,
-      "height": 2848,
-      "mime": "image/jpeg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "dateCreated": "2016-12-07 10:56:27",
-      "categories": [
-        "CC-BY-SA-4.0",
-        "Files with no machine-readable author",
-        "Files with no machine-readable source",
-        "GFDL",
-        "License migration redundant",
-        "Media missing infobox template",
-        "Self-published work",
-        "Wufengqi Waterfall"
-      ],
-      "sourceType": "poi",
-      "sourceArticleId": "jiaoxi-wk",
-      "sourceGeohash4": "wsqt",
-      "mediumPath": "_m/w/s/q/t/jiaoxi-wk/wufengqi-falls-taiwan-medium.webp",
-      "smallPath": "_m/w/s/q/t/jiaoxi-wk/wufengqi-falls-taiwan-small.webp"
     },
     {
       "filename": "礁溪協天廟牌樓.jpg",
@@ -68,6 +43,8 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Outlookxp",
+      "credit": "Own work",
+      "source": "礁溪協天廟牌樓",
       "description": "​礁溪協天廟牌樓",
       "dateCreated": "2017-09-11 08:09:53",
       "categories": [
@@ -78,16 +55,15 @@
         "Self-published work",
         "Temple paifangs in Yilan"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "jiaoxi-wk",
       "sourceGeohash4": "wsqt",
-      "mediumPath": "_m/w/s/q/t/jiaoxi-wk/image-20-medium.webp",
-      "smallPath": "_m/w/s/q/t/jiaoxi-wk/image-20-small.webp"
+      "smallPath": "_m/w/s/q/t/jiaoxi-wk/image-20-small.webp",
+      "mediumPath": "_m/w/s/q/t/jiaoxi-wk/image-20-medium.webp"
     }
   ],
   "galleryPaths": [
     "_m/w/s/q/t/jiaoxi-wk/tku.jpg",
-    "_m/w/s/q/t/jiaoxi-wk/wufengqi-falls-taiwan.jpg",
     "_m/w/s/q/t/jiaoxi-wk/image-20.jpg"
   ],
   "updatedAt": "2026-05-12T17:11:16.430Z",
@@ -111,5 +87,57 @@
       "wsqt-jiaoxi-the-view-from-linmei-golf-course.mp3": 52.9554166
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Wufengqi Falls Taiwan.jpeg",
+    "title": "File:Wufengqi Falls Taiwan.jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wufengqi_Falls_Taiwan.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Wufengqi_Falls_Taiwan.jpeg",
+    "width": 2278,
+    "height": 2848,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wufengqi Falls Taiwan",
+    "dateCreated": "2016-12-07 10:56:27",
+    "categories": [
+      "CC-BY-SA-4.0",
+      "Files with no machine-readable author",
+      "Files with no machine-readable source",
+      "GFDL",
+      "License migration redundant",
+      "Media missing infobox template",
+      "Self-published work",
+      "Wufengqi Waterfall"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "jiaoxi-wk",
+    "sourceGeohash4": "wsqt"
+  },
+  "thumbnail": {
+    "filename": "Wufengqi Falls Taiwan.jpeg",
+    "title": "File:Wufengqi Falls Taiwan.jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wufengqi_Falls_Taiwan.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Wufengqi_Falls_Taiwan.jpeg",
+    "width": 2278,
+    "height": 2848,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wufengqi Falls Taiwan",
+    "dateCreated": "2016-12-07 10:56:27",
+    "categories": [
+      "CC-BY-SA-4.0",
+      "Files with no machine-readable author",
+      "Files with no machine-readable source",
+      "GFDL",
+      "License migration redundant",
+      "Media missing infobox template",
+      "Self-published work",
+      "Wufengqi Waterfall"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "jiaoxi-wk",
+    "sourceGeohash4": "wsqt"
   }
 }

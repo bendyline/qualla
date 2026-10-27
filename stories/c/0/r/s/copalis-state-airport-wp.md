@@ -33,7 +33,7 @@ Copalis State Airport (S16) is located at 47.142N, 124.190W on the Pacific coast
 ## Sources
 
 - [Copalis State Airport - Wikipedia](https://en.wikipedia.org/?curid=2449017)
-- [Copalis State Airport - Wikipedia](https://en.wikipedia.org/wiki/Copalis_State_Airport)
+- [Copalis State Airport - Wikipedia](https://en.wikipedia.org/?curid=2449017)
   - only FAA-approved beach runway in America confirmed
   - FAA identifier S16 confirmed
   - runway designation 14/32 confirmed

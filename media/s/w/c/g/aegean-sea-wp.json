@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/w/c/g/aegean-sea-wp/hero.jpg",
-        "filename": "Waves in pacifica 1.jpg",
-        "caption": "Sea Storm in Pacifica, w:California",
-        "alt": "Sea Storm in Pacifica, w:California",
-        "width": 2000,
-        "height": 1358,
+        "path": "_m/s/w/c/g/aegean-sea-wp/aegean-sea-kolymbia.jpg",
+        "filename": "Aegean sea Kolymbia.jpg",
+        "caption": "The Aegean Sea in Kolymbia - Rodos, Greece.",
+        "alt": "The Aegean Sea in Kolymbia - Rodos, Greece.",
+        "width": 5472,
+        "height": 3080,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Brocken Inaglory",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waves_in_pacifica_1.jpg",
-        "sourceType": "core",
+        "artist": "WikipedystaGA",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aegean_sea_Kolymbia.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "aegean-sea-wp",
         "sourceGeohash4": "swcg",
-        "categories": [
-          "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
-          "California Coast",
-          "GFDL",
-          "Images with extracted images",
-          "License migration redundant",
-          "Ocean surface waves",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/s/w/c/g/aegean-sea-wp/aegean-sea-kolymbia-medium.webp",
+        "smallPath": "_m/s/w/c/g/aegean-sea-wp/aegean-sea-kolymbia-small.webp"
       },
       "images": [
         {
@@ -169,7 +162,7 @@
           "smallPath": "_m/s/w/c/g/aegean-sea-wp/agean-non-political-small.webp"
         },
         {
-          "path": "_m/s/w/c/g/aegean-sea-wp/skyscrapers-in-izmir-turkey.jpg",
+          "path": "_m/s/w/g/6/izmir-wp/skyscrapers-in-izmir-turkey.jpg",
           "filename": "Skyscrapers in Izmir - Turkey.jpg",
           "caption": "Skyscrapers in Izmir, Turkey.",
           "alt": "Skyscrapers in Izmir, Turkey.",
@@ -181,7 +174,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skyscrapers_in_Izmir_-_Turkey.jpg",
           "sourceType": "core",
           "sourceArticleId": "aegean-sea-wp",
-          "sourceGeohash4": "swcg"
+          "sourceGeohash4": "swcg",
+          "mediumPath": "_m/s/w/g/6/izmir-wp/skyscrapers-in-izmir-turkey-medium.webp",
+          "smallPath": "_m/s/w/g/6/izmir-wp/skyscrapers-in-izmir-turkey-small.webp"
         },
         {
           "path": "_m/s/w/c/g/aegean-sea-wp/location-aegean-sea.png",

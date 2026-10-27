@@ -3,23 +3,22 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/0/0/b/lascaux-wp/hero.jpg",
-        "filename": "Lascaux II.jpg",
-        "caption": "Reproductions of some Lascaux artworks in Lascaux II.",
-        "alt": "Reproductions of some Lascaux artworks in Lascaux II.",
-        "width": 2748,
-        "height": 1827,
-        "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "Jack Versloot",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lascaux_II.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "lascaux-wp",
-        "sourceGeohash4": "u00b"
+        "path": "_m/u/0/0/b/lascaux-cave-wk/construction-lascaux-iv.jpg",
+        "filename": "Construction lascaux-IV.JPG",
+        "caption": "Site de construction de Lascaux IV en août 2014.",
+        "alt": "Site de construction de Lascaux IV en août 2014.",
+        "width": 4608,
+        "height": 3456,
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Skull33",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Construction_lascaux-IV.JPG",
+        "mediumPath": "_m/u/0/0/b/lascaux-cave-wk/construction-lascaux-iv-medium.webp",
+        "smallPath": "_m/u/0/0/b/lascaux-cave-wk/construction-lascaux-iv-small.webp"
       },
       "images": [
         {
-          "path": "_m/u/0/0/b/lascaux-wp/blank-physical-map-met.jpg",
+          "path": "_m/u/0/0/b/lascaux-cave-wk/blank-physical-map-met.jpg",
           "filename": "France relief location map.jpg",
           "caption": "Blank physical map of metropolitan France for geo-location purpose.Scale : 1:14 816 000 (accuracy : about 3,7 km) for the bathymetry. More maps of France, view → Commons Atlas of France.",
           "alt": "Blank physical map of metropolitan France for geo-location purpose.Scale : 1:14 816 000 (accuracy : about 3,7 km) for the bathymetry. More maps of France, view → Commons Atlas of France.",
@@ -39,10 +38,12 @@
             "Files with coordinates missing SDC location of creation",
             "Files with derivative versions",
             "GFDL"
-          ]
+          ],
+          "mediumPath": "_m/u/0/0/b/lascaux-cave-wk/blank-physical-map-met-medium.webp",
+          "smallPath": "_m/u/0/0/b/lascaux-cave-wk/blank-physical-map-met-small.webp"
         },
         {
-          "path": "_m/u/0/0/b/lascaux-wp/replica-depiction-cave.jpg",
+          "path": "_m/u/0/0/b/lascaux-cave-wk/replica-depiction-cave.jpg",
           "filename": "Lascaux, Megaloceros.jpg",
           "caption": "A REPLICA of depiction at the cave of Lascaux. It is NOT THE ORIGINAL",
           "alt": "A REPLICA of depiction at the cave of Lascaux. It is NOT THE ORIGINAL",
@@ -54,10 +55,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lascaux,_Megaloceros.jpg",
           "sourceType": "core",
           "sourceArticleId": "lascaux-wp",
-          "sourceGeohash4": "u00b"
+          "sourceGeohash4": "u00b",
+          "smallPath": "_m/u/0/0/b/lascaux-cave-wk/replica-depiction-cave-small.webp"
         },
         {
-          "path": "_m/u/0/0/b/lascaux-wp/blank-physical-map-dep.jpg",
+          "path": "_m/u/0/0/b/lascaux-cave-wk/blank-physical-map-dep.jpg",
           "filename": "Dordogne department relief location map.jpg",
           "caption": "Blank physical map of the department of en:Dordogne, France, for geo-location purpose.",
           "alt": "Blank physical map of the department of en:Dordogne, France, for geo-location purpose.",
@@ -69,10 +71,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dordogne_department_relief_location_map.jpg",
           "sourceType": "core",
           "sourceArticleId": "lascaux-wp",
-          "sourceGeohash4": "u00b"
+          "sourceGeohash4": "u00b",
+          "smallPath": "_m/u/0/0/b/lascaux-cave-wk/blank-physical-map-dep-small.webp"
         },
         {
-          "path": "_m/u/0/0/b/lascaux-wp/entrance-famed-lascaux.jpg",
+          "path": "_m/u/0/0/b/lascaux-cave-wk/entrance-famed-lascaux.jpg",
           "filename": "Lascaux entrance.jpg",
           "caption": "The entrance to the famed Lascaux cave, in Dordogne, South-Western France. Contained therein are Upper Palaeolithic paintings now off-limits to the public.",
           "alt": "The entrance to the famed Lascaux cave, in Dordogne, South-Western France. Contained therein are Upper Palaeolithic paintings now off-limits to the public.",
@@ -84,10 +87,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lascaux_entrance.jpg",
           "sourceType": "core",
           "sourceArticleId": "lascaux-wp",
-          "sourceGeohash4": "u00b"
+          "sourceGeohash4": "u00b",
+          "smallPath": "_m/u/0/0/b/lascaux-cave-wk/entrance-famed-lascaux-small.webp"
         },
         {
-          "path": "_m/u/0/0/b/lascaux-wp/lascaux-4-montignac-do.jpg",
+          "path": "_m/u/0/0/b/lascaux-cave-wk/lascaux-4-montignac-do.jpg",
           "filename": "Lascaux-IV 01.jpg",
           "caption": "Lascaux 4, Montignac, Dordogne, France. Pictures takes in the part called atelier.",
           "alt": "Lascaux 4, Montignac, Dordogne, France. Pictures takes in the part called atelier.",
@@ -99,10 +103,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lascaux-IV_01.jpg",
           "sourceType": "core",
           "sourceArticleId": "lascaux-wp",
-          "sourceGeohash4": "u00b"
+          "sourceGeohash4": "u00b",
+          "mediumPath": "_m/u/0/0/b/lascaux-cave-wk/lascaux-4-montignac-do-medium.webp",
+          "smallPath": "_m/u/0/0/b/lascaux-cave-wk/lascaux-4-montignac-do-small.webp"
         },
         {
-          "path": "_m/u/0/0/b/lascaux-wp/lascaux-plan-ru.jpg",
+          "path": "_m/u/0/0/b/lascaux-cave-wk/lascaux-plan-ru.jpg",
           "filename": "Lascaux plan-ru.JPG",
           "caption": "map of Lascaux cave, Dordogne, France (redrawn after A. Leroi-Gourhan, (1984), « Grotte de Lascaux », in L'art des cavernes - Atlas des grottes ornées paléolithiques françaises, Ministère de la culture, ISBN 2-11-080817-9)\n\nwith russian titles",
           "alt": "map of Lascaux cave, Dordogne, France (redrawn after A. Leroi-Gourhan, (1984), « Grotte de Lascaux », in L'art des cavernes - Atlas des grottes ornées paléolithiques françaises, Ministère de la culture, ISBN 2-11-080817-9)\n\nwith russian titles",
@@ -126,10 +132,11 @@
             "License migration redundant",
             "Maps of caves in France",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/0/0/b/lascaux-cave-wk/lascaux-plan-ru-small.webp"
         },
         {
-          "path": "_m/u/0/0/b/lascaux-wp/lampe-a-graisse-lascaux.png",
+          "path": "_m/u/0/0/b/lascaux-cave-wk/lampe-a-graisse-lascaux.png",
           "filename": "Lampe a graisse - Lascaux.png",
           "caption": "Oil lamp (exactly, deer fat lamp), found in Lascaux cave in Montignac, Dordogne, Aquitaine, France. Magdalenian culture, 17,000 BP. It can be viewed in the National Prehistory Museum in Les Eyzies-de-Tayac.",
           "alt": "Oil lamp (exactly, deer fat lamp), found in Lascaux cave in Montignac, Dordogne, Aquitaine, France. Magdalenian culture, 17,000 BP. It can be viewed in the National Prehistory Museum in Les Eyzies-de-Tayac.",
@@ -156,10 +163,12 @@
             "Photos by User:Sémhur",
             "Self-published work",
             "Stone tools"
-          ]
+          ],
+          "mediumPath": "_m/u/0/0/b/lascaux-cave-wk/lampe-a-graisse-lascaux-medium.webp",
+          "smallPath": "_m/u/0/0/b/lascaux-cave-wk/lampe-a-graisse-lascaux-small.webp"
         },
         {
-          "path": "_m/u/0/0/b/lascaux-wp/lampe-a-graisse-lascaux.jpg",
+          "path": "_m/u/0/0/b/lascaux-cave-wk/lampe-a-graisse-lascaux.jpg",
           "filename": "Lampe a graisse - Lascaux.jpg",
           "caption": "Oil lamp (exactly, deer fat lamp), found in Lascaux cave in Montignac, Dordogne, Aquitaine, France. Magdalenian culture, 17,000 BP. It can be viewed in the National Prehistory Museum in Les Eyzies-de-Tayac.",
           "alt": "Oil lamp (exactly, deer fat lamp), found in Lascaux cave in Montignac, Dordogne, Aquitaine, France. Magdalenian culture, 17,000 BP. It can be viewed in the National Prehistory Museum in Les Eyzies-de-Tayac.",
@@ -187,10 +196,12 @@
             "Self-published work",
             "Stone tools",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/u/0/0/b/lascaux-cave-wk/lampe-a-graisse-lascaux-medium.webp",
+          "smallPath": "_m/u/0/0/b/lascaux-cave-wk/lampe-a-graisse-lascaux-small.webp"
         },
         {
-          "path": "_m/u/0/0/b/lascaux-wp/montignac-lascaux-banner.jpg",
+          "path": "_m/u/0/0/b/lascaux-cave-wk/montignac-lascaux-banner.jpg",
           "filename": "Montignac(Lascaux) banner.jpg",
           "caption": "Copy of a prehistoric painting of the Lascaux cave, Musée d'Aquitaine, Bordeaux, France",
           "alt": "Copy of a prehistoric painting of the Lascaux cave, Musée d'Aquitaine, Bordeaux, France",
@@ -209,10 +220,12 @@
             "GFDL",
             "Lascaux",
             "License migration redundant"
-          ]
+          ],
+          "mediumPath": "_m/u/0/0/b/lascaux-cave-wk/montignac-lascaux-banner-medium.webp",
+          "smallPath": "_m/u/0/0/b/lascaux-cave-wk/montignac-lascaux-banner-small.webp"
         },
         {
-          "path": "_m/u/0/0/b/lascaux-wp/construction-lascaux-iv.jpg",
+          "path": "_m/u/0/0/b/lascaux-cave-wk/construction-lascaux-iv.jpg",
           "filename": "Construction lascaux-IV.JPG",
           "caption": "Site de construction de Lascaux IV en août 2014.",
           "alt": "Site de construction de Lascaux IV en août 2014.",
@@ -224,10 +237,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Construction_lascaux-IV.JPG",
           "sourceType": "commons-category",
           "sourceArticleId": "lascaux-cave-wk",
-          "sourceGeohash4": "u00b"
+          "sourceGeohash4": "u00b",
+          "mediumPath": "_m/u/0/0/b/lascaux-cave-wk/construction-lascaux-iv-medium.webp",
+          "smallPath": "_m/u/0/0/b/lascaux-cave-wk/construction-lascaux-iv-small.webp"
         },
         {
-          "path": "_m/u/0/0/b/lascaux-wp/montignac-chantier-lascaux-4.jpg",
+          "path": "_m/u/0/0/b/lascaux-cave-wk/montignac-chantier-lascaux-4.jpg",
           "filename": "Montignac chantier Lascaux 4.JPG",
           "caption": "Le chantier de Lascaux 4 à Montignac, Dordogne, France.",
           "alt": "Le chantier de Lascaux 4 à Montignac, Dordogne, France.",
@@ -239,10 +254,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Montignac_chantier_Lascaux_4.JPG",
           "sourceType": "commons-category",
           "sourceArticleId": "lascaux-cave-wk",
-          "sourceGeohash4": "u00b"
+          "sourceGeohash4": "u00b",
+          "mediumPath": "_m/u/0/0/b/lascaux-cave-wk/montignac-chantier-lascaux-4-medium.webp",
+          "smallPath": "_m/u/0/0/b/lascaux-cave-wk/montignac-chantier-lascaux-4-small.webp"
         },
         {
-          "path": "_m/u/0/0/b/lascaux-wp/lascaux-cave-paintings-on-tran.jpg",
+          "path": "_m/u/0/0/b/lascaux-cave-wk/lascaux-cave-paintings-on-tran.jpg",
           "filename": "Lascaux cave paintings on Transit Van.jpg",
           "caption": "Cave painting on Transit van",
           "alt": "Cave painting on Transit van",
@@ -254,10 +271,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lascaux_cave_paintings_on_Transit_Van.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "lascaux-cave-wk",
-          "sourceGeohash4": "u00b"
+          "sourceGeohash4": "u00b",
+          "smallPath": "_m/u/0/0/b/lascaux-cave-wk/lascaux-cave-paintings-on-tran-small.webp"
         },
         {
-          "path": "_m/u/0/0/b/lascaux-wp/lascaux-iv-von-sn-hetta.jpg",
+          "path": "_m/u/0/0/b/lascaux-cave-wk/lascaux-iv-von-sn-hetta.jpg",
           "filename": "Lascaux-IV von Snøhetta.jpg",
           "caption": "Entrance to Lascaux IV in France by Architects Snøhetta",
           "alt": "Entrance to Lascaux IV in France by Architects Snøhetta",
@@ -269,10 +287,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lascaux-IV_von_Sn%C3%B8hetta.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "lascaux-cave-wk",
-          "sourceGeohash4": "u00b"
+          "sourceGeohash4": "u00b",
+          "mediumPath": "_m/u/0/0/b/lascaux-cave-wk/lascaux-iv-von-sn-hetta-medium.webp",
+          "smallPath": "_m/u/0/0/b/lascaux-cave-wk/lascaux-iv-von-sn-hetta-small.webp"
         },
         {
-          "path": "_m/u/0/0/b/lascaux-wp/peinture-grotte-de-lascaux.jpg",
+          "path": "_m/u/0/0/b/lascaux-cave-wk/peinture-grotte-de-lascaux.jpg",
           "filename": "Peinture Grotte de Lascaux.jpg",
           "caption": "Peinture de la grotte de Lascaux",
           "alt": "Peinture de la grotte de Lascaux",
@@ -284,7 +304,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peinture_Grotte_de_Lascaux.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "lascaux-cave-wk",
-          "sourceGeohash4": "u00b"
+          "sourceGeohash4": "u00b",
+          "mediumPath": "_m/u/0/0/b/lascaux-cave-wk/peinture-grotte-de-lascaux-medium.webp",
+          "smallPath": "_m/u/0/0/b/lascaux-cave-wk/peinture-grotte-de-lascaux-small.webp"
         },
         {
           "path": "_m/tpc/la/sc/au/x_/lascaux/montignacbynight.jpg",
@@ -307,7 +329,9 @@
             "Montignac-Lascaux",
             "PD-author",
             "Taken with Nikon Coolpix 3200"
-          ]
+          ],
+          "mediumPath": "_m/tpc/la/sc/au/x_/lascaux/montignacbynight-medium.webp",
+          "smallPath": "_m/tpc/la/sc/au/x_/lascaux/montignacbynight-small.webp"
         },
         {
           "path": "_m/s/p/b/r/dordogne-wp/dordogne-2.jpg",
@@ -338,7 +362,9 @@
             "Routes départementales in Dordogne",
             "Self-published work",
             "Taken with Nikon Coolpix 5200"
-          ]
+          ],
+          "mediumPath": "_m/s/p/b/r/dordogne-wp/dordogne-2-medium.webp",
+          "smallPath": "_m/s/p/b/r/dordogne-wp/dordogne-2-small.webp"
         },
         {
           "path": "_m/s/p/b/r/dordogne-wp/bergerac-overlooking-dordogne.jpg",
@@ -359,7 +385,8 @@
             "PD-user",
             "Quai Salvette",
             "Taken with Olympus C-1"
-          ]
+          ],
+          "smallPath": "_m/s/p/b/r/dordogne-wp/bergerac-overlooking-dordogne-small.webp"
         },
         {
           "path": "_m/s/p/b/r/dordogne-wp/abbaye-brantome.jpg",
@@ -384,7 +411,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon Digital IXUS 400"
-          ]
+          ],
+          "smallPath": "_m/s/p/b/r/dordogne-wp/abbaye-brantome-small.webp"
         },
         {
           "path": "_m/s/p/b/r/dordogne-wp/puymartin02.jpg",
@@ -403,7 +431,9 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Château de Puymartin"
-          ]
+          ],
+          "mediumPath": "_m/s/p/b/r/dordogne-wp/puymartin02-medium.webp",
+          "smallPath": "_m/s/p/b/r/dordogne-wp/puymartin02-small.webp"
         },
         {
           "path": "_m/s/p/b/r/dordogne-wp/losse01.jpg",
@@ -418,7 +448,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Losse01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dordogne-wp",
-          "sourceGeohash4": "spbr"
+          "sourceGeohash4": "spbr",
+          "mediumPath": "_m/s/p/b/r/dordogne-wp/losse01-medium.webp",
+          "smallPath": "_m/s/p/b/r/dordogne-wp/losse01-small.webp"
         },
         {
           "path": "_m/s/p/b/r/dordogne-wp/eymet-place-arcades-13.jpg",
@@ -433,7 +465,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eymet_place_arcades_(13).JPG",
           "sourceType": "poi",
           "sourceArticleId": "dordogne-wp",
-          "sourceGeohash4": "spbr"
+          "sourceGeohash4": "spbr",
+          "mediumPath": "_m/s/p/b/r/dordogne-wp/eymet-place-arcades-13-medium.webp",
+          "smallPath": "_m/s/p/b/r/dordogne-wp/eymet-place-arcades-13-small.webp"
         },
         {
           "path": "_m/s/p/b/r/dordogne-wp/beynac-et-son-chateau-20090926.jpg",
@@ -448,7 +482,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beynac_et_son_ch%C3%A2teau_-_20090926.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dordogne-wp",
-          "sourceGeohash4": "spbr"
+          "sourceGeohash4": "spbr",
+          "mediumPath": "_m/s/p/b/r/dordogne-wp/beynac-et-son-chateau-20090926-medium.webp",
+          "smallPath": "_m/s/p/b/r/dordogne-wp/beynac-et-son-chateau-20090926-small.webp"
         },
         {
           "path": "_m/s/p/b/r/dordogne-wp/montignac.jpg",
@@ -463,7 +499,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Montignac.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dordogne-wp",
-          "sourceGeohash4": "spbr"
+          "sourceGeohash4": "spbr",
+          "mediumPath": "_m/s/p/b/r/dordogne-wp/montignac-medium.webp",
+          "smallPath": "_m/s/p/b/r/dordogne-wp/montignac-small.webp"
         },
         {
           "path": "_m/s/p/b/r/dordogne-wp/monpazier-eglise-saint-dominiq.jpg",
@@ -478,7 +516,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monpazier_-_Eglise_Saint-Dominique_-_Fa%C3%A7ade_occidentale_vue_d%27une_corni%C3%A8re_de_la_place.JPG",
           "sourceType": "poi",
           "sourceArticleId": "dordogne-wp",
-          "sourceGeohash4": "spbr"
+          "sourceGeohash4": "spbr",
+          "smallPath": "_m/s/p/b/r/dordogne-wp/monpazier-eglise-saint-dominiq-small.webp"
         },
         {
           "path": "_m/s/p/b/r/dordogne-wp/eygurande-et-gardedeuil-eglise.jpg",
@@ -493,7 +532,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eygurande-et-Gardedeuil_%C3%A9glise_(4).JPG",
           "sourceType": "poi",
           "sourceArticleId": "dordogne-wp",
-          "sourceGeohash4": "spbr"
+          "sourceGeohash4": "spbr",
+          "mediumPath": "_m/s/p/b/r/dordogne-wp/eygurande-et-gardedeuil-eglise-medium.webp",
+          "smallPath": "_m/s/p/b/r/dordogne-wp/eygurande-et-gardedeuil-eglise-small.webp"
         },
         {
           "path": "_m/s/p/b/r/dordogne-wp/paysage-dordogne-domme.jpg",
@@ -508,7 +549,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paysage_Dordogne_Domme.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dordogne-wp",
-          "sourceGeohash4": "spbr"
+          "sourceGeohash4": "spbr",
+          "mediumPath": "_m/s/p/b/r/dordogne-wp/paysage-dordogne-domme-medium.webp",
+          "smallPath": "_m/s/p/b/r/dordogne-wp/paysage-dordogne-domme-small.webp"
         },
         {
           "path": "_m/s/p/b/r/dordogne-wp/perigueux-infobox-montage.jpg",
@@ -523,7 +566,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Perigueux_Infobox_Montage.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dordogne-wp",
-          "sourceGeohash4": "spbr"
+          "sourceGeohash4": "spbr",
+          "smallPath": "_m/s/p/b/r/dordogne-wp/perigueux-infobox-montage-small.webp"
         },
         {
           "path": "_m/s/p/b/r/dordogne-wp/1-sarlat-la-caneda-2016.jpg",
@@ -538,7 +582,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_sarlat_la_caneda_2016.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dordogne-wp",
-          "sourceGeohash4": "spbr"
+          "sourceGeohash4": "spbr",
+          "mediumPath": "_m/s/p/b/r/dordogne-wp/1-sarlat-la-caneda-2016-medium.webp",
+          "smallPath": "_m/s/p/b/r/dordogne-wp/1-sarlat-la-caneda-2016-small.webp"
         }
       ],
       "videos": [

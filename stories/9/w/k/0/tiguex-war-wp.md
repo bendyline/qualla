@@ -33,7 +33,7 @@ Located at 35.31N, 106.55W along the Rio Grande valley near Bernalillo, New Mexi
 ## Sources
 
 - [Tiguex War - Wikipedia](https://en.wikipedia.org/?curid=3154873)
-- [Tiguex War - Wikipedia (fact-check)](https://en.wikipedia.org/wiki/Tiguex_War)
+- [Tiguex War - Wikipedia (fact-check)](https://en.wikipedia.org/?curid=3154873)
   - First named war between Europeans and Native Americans in present-day US
   - Twelve or thirteen pueblos in Tiguex Province
   - Garcia Lopez de Cardenas led attack on Arenal

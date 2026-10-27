@@ -3,34 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/b/y/r/portland-bill-wp/hero.jpg",
-        "filename": "PortlandBill&ChesilBeach.jpg",
-        "caption": "Photograph of Portland Bill and Chesil Beach, Dorset, England, from the air.",
-        "alt": "Photograph of Portland Bill and Chesil Beach, Dorset, England, from the air.",
-        "width": 4224,
-        "height": 3168,
+        "path": "_m/g/b/y/r/portland-bill-wp/admiralty-chart-no-2615-portla.jpg",
+        "filename": "Admiralty Chart No 2615 Portland to Christchurch, Published 1954.jpg",
+        "caption": "Nautical chart covering the Portland to Christchurch, and the adjacent coasts to a scale of 1/75,000. Not current - not to be used for navigation!",
+        "alt": "Nautical chart covering the Portland to Christchurch, and the adjacent coasts to a scale of 1/75,000. Not current - not to be used for navigation!",
+        "width": 16379,
+        "height": 11256,
         "mimeType": "image/jpeg",
         "license": "Public domain",
-        "artist": "JohnArmagh",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PortlandBill%26ChesilBeach.jpg",
-        "sourceType": "core",
+        "artist": "United Kingdom Hydrographic Office",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_2615_Portland_to_Christchurch,_Published_1954.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "portland-bill-wp",
         "sourceGeohash4": "gbyr",
-        "categories": [
-          "Chesil Beach",
-          "PD-self",
-          "Peninsulas of England",
-          "Seaside resorts in England",
-          "Self-published work",
-          "Sites of Special Scientific Interest in Dorset",
-          "Special Protection Areas in England",
-          "Taken with Sony DSC-W300",
-          "Transport in Dorset"
-        ]
+        "mediumPath": "_m/g/b/y/r/portland-bill-wp/admiralty-chart-no-2615-portla-medium.webp",
+        "smallPath": "_m/g/b/y/r/portland-bill-wp/admiralty-chart-no-2615-portla-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/b/y/r/portland-bill-wp/portland-bill-lighthouse-2.jpg",
+          "path": "_m/g/b/y/r/isle-of-portland-wp/portland-bill-lighthouse-2.jpg",
           "filename": "Portland Bill Lighthouse 2.jpg",
           "alt": "Portland Bill Lighthouse 2.jpg",
           "width": 1650,
@@ -50,7 +41,8 @@
             "Media missing infobox template",
             "Portland Bill Lighthouse",
             "Towers with flags in Europe"
-          ]
+          ],
+          "smallPath": "_m/g/b/y/r/isle-of-portland-wp/portland-bill-lighthouse-2-small.webp"
         },
         {
           "path": "_m/g/b/y/r/portland-bill-wp/piles-stone-portland-b.jpg",
@@ -471,7 +463,9 @@
             "Self-published work",
             "Taken with Nikon D50",
             "Weymouth and Portland National Sailing Academy"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/r/isle-of-portland-wp/uk-dor-sailingacademy-medium.webp",
+          "smallPath": "_m/g/b/y/r/isle-of-portland-wp/uk-dor-sailingacademy-small.webp"
         },
         {
           "path": "_m/g/b/y/r/isle-of-portland-wp/uk-dor-portcastle.jpg",
@@ -496,7 +490,9 @@
             "Portland Castle",
             "Self-published work",
             "Taken with Nikon D50"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/r/isle-of-portland-wp/uk-dor-portcastle-medium.webp",
+          "smallPath": "_m/g/b/y/r/isle-of-portland-wp/uk-dor-portcastle-small.webp"
         },
         {
           "path": "_m/g/b/y/r/hm-prison-portland-wp/hero.jpg",
@@ -519,7 +515,9 @@
             "Portland Prison, Dorset",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FX500"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/r/hm-prison-portland-wp/hero-medium.webp",
+          "smallPath": "_m/g/b/y/r/hm-prison-portland-wp/hero-small.webp"
         },
         {
           "path": "_m/g/b/y/r/isle-of-portland-wp/isle-of-portland-tout-quarry-l.jpg",
@@ -534,7 +532,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isle_of_Portland_Tout_Quarry_Landscape.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-portland-wp",
-          "sourceGeohash4": "gbyr"
+          "sourceGeohash4": "gbyr",
+          "mediumPath": "_m/g/b/y/r/isle-of-portland-wp/isle-of-portland-tout-quarry-l-medium.webp",
+          "smallPath": "_m/g/b/y/r/isle-of-portland-wp/isle-of-portland-tout-quarry-l-small.webp"
         },
         {
           "path": "_m/g/b/y/r/isle-of-portland-wp/isle-of-portland-from-ringstea.jpg",
@@ -549,7 +549,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isle_of_Portland_from_Ringstead_Bay_with_Weymouth.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-portland-wp",
-          "sourceGeohash4": "gbyr"
+          "sourceGeohash4": "gbyr",
+          "mediumPath": "_m/g/b/y/r/isle-of-portland-wp/isle-of-portland-from-ringstea-medium.webp",
+          "smallPath": "_m/g/b/y/r/isle-of-portland-wp/isle-of-portland-from-ringstea-small.webp"
         },
         {
           "path": "_m/g/b/y/r/isle-of-portland-wp/royal-manor-theatre-portland-d.jpg",
@@ -564,7 +566,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Manor_Theatre,_Portland,_Dorset.JPG",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-portland-wp",
-          "sourceGeohash4": "gbyr"
+          "sourceGeohash4": "gbyr",
+          "smallPath": "_m/g/b/y/r/isle-of-portland-wp/royal-manor-theatre-portland-d-small.webp"
         },
         {
           "path": "_m/g/b/y/r/isle-of-portland-wp/chesil-beach-isle-of-portland-.jpg",
@@ -579,7 +582,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chesil_Beach,_Isle_of_Portland,_Dorset-9457.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-portland-wp",
-          "sourceGeohash4": "gbyr"
+          "sourceGeohash4": "gbyr",
+          "mediumPath": "_m/g/b/y/r/isle-of-portland-wp/chesil-beach-isle-of-portland--medium.webp",
+          "smallPath": "_m/g/b/y/r/isle-of-portland-wp/chesil-beach-isle-of-portland--small.webp"
         },
         {
           "path": "_m/g/c/n/3/dorset-wp/corfe-castle-and-greyhound-inn.jpg",
@@ -605,7 +610,9 @@
             "Roads in Dorset",
             "Self-published work",
             "The Greyhound, Corfe Castle"
-          ]
+          ],
+          "mediumPath": "_m/g/c/n/3/dorset-wp/corfe-castle-and-greyhound-inn-medium.webp",
+          "smallPath": "_m/g/c/n/3/dorset-wp/corfe-castle-and-greyhound-inn-small.webp"
         },
         {
           "path": "_m/g/c/n/3/dorset-wp/lyme-regis-centre-arp.jpg",
@@ -629,7 +636,9 @@
             "Roads in Dorset",
             "Shops in Lyme Regis",
             "Street lights in Lyme Regis"
-          ]
+          ],
+          "mediumPath": "_m/g/c/n/3/dorset-wp/lyme-regis-centre-arp-medium.webp",
+          "smallPath": "_m/g/c/n/3/dorset-wp/lyme-regis-centre-arp-small.webp"
         },
         {
           "path": "_m/g/c/n/3/dorset-wp/newgrounds-viewpoint-chesil-be.jpg",
@@ -658,7 +667,9 @@
             "Self-published work",
             "South West Coast Path in Dorset",
             "Taken with Olympus SP-500UZ"
-          ]
+          ],
+          "mediumPath": "_m/g/c/n/3/dorset-wp/newgrounds-viewpoint-chesil-be-medium.webp",
+          "smallPath": "_m/g/c/n/3/dorset-wp/newgrounds-viewpoint-chesil-be-small.webp"
         },
         {
           "path": "_m/g/c/n/3/dorset-wp/market-place-blandford-forum-2.jpg",
@@ -673,7 +684,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Market_Place,_Blandford_Forum,_2015_(a).JPG",
           "sourceType": "poi",
           "sourceArticleId": "dorset-wp",
-          "sourceGeohash4": "gcn3"
+          "sourceGeohash4": "gcn3",
+          "mediumPath": "_m/g/c/n/3/dorset-wp/market-place-blandford-forum-2-medium.webp",
+          "smallPath": "_m/g/c/n/3/dorset-wp/market-place-blandford-forum-2-small.webp"
         },
         {
           "path": "_m/g/c/n/3/dorset-wp/8-10-and-12-long-street-cerne-.jpg",
@@ -688,7 +701,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:8,_10_and_12,_Long_Street,_Cerne_Abbas.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dorset-wp",
-          "sourceGeohash4": "gcn3"
+          "sourceGeohash4": "gcn3",
+          "mediumPath": "_m/g/c/n/3/dorset-wp/8-10-and-12-long-street-cerne--medium.webp",
+          "smallPath": "_m/g/c/n/3/dorset-wp/8-10-and-12-long-street-cerne--small.webp"
         }
       ],
       "narration": [

@@ -39,7 +39,7 @@ Located at 37.644N, 140.286E in central Fukushima Prefecture, Japan. Mount Adata
 - [Adatara Yama](https://gbank.gsj.jp/volcano/Quat_Vol/volcano_data/D63.html)
 - [Adatarayama](http://www.data.jma.go.jp/svd/vois/data/sendai/214_Adatarayama/214_index.html)
 - [Adatarayama: Global Volcanism Program](http://volcano.si.edu/volcano.cfm?vn=283170)
-- [Mount Adatara - Wikipedia](https://en.wikipedia.org/wiki/Mount_Adatara)
+- [Mount Adatara - Wikipedia](https://en.wikipedia.org/?curid=10374483)
   - 1,728m elevation confirmed (official measurement)
   - 1900 eruption killed 72 mine workers confirmed
   - Chieko Takamura / Kotaro Takamura 'Chieko-sho' 1941 poetry confirmed

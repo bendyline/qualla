@@ -28,7 +28,7 @@ The museum's Lighthouse Archaeological Maritime Program, known as LAMP, employs 
 
 ## Flight Context
 
-The St. Augustine Light stands at the north end of Anastasia Island at approximately 29.885N, 81.289W. The black-and-white spiral-striped tower is a distinctive landmark visible from altitude, rising above the tree canopy near the mouth of the Matanzas River. The St. Augustine Inlet lies to the northeast, with the Bridge of Lions and downtown St. Augustine across the waterway to the west. Nearest airport: St. Augustine Airport (KSGJ) approximately 4nm northwest. Jacksonville International (KJAX) is about 35nm north. The lighthouse and adjacent keeper's house complex are best spotted at moderate altitude; the spiral paint pattern becomes identifiable above 1,000 feet AGL.
+The St. Augustine Light stands at the north end of Anastasia Island at approximately 29.885N, 81.289W. The black-and-white spiral-striped tower is a distinctive landmark visible from altitude, rising above the tree canopy near the mouth of the Matanzas River. The St. Augustine Inlet lies to the northeast, with the Bridge of Lions and downtown St. Augustine across the waterway to the west. Nearest airport: Northeast Florida Regional Airport (KSGJ, formerly St. Augustine Airport) approximately 4nm northwest. Jacksonville International (KJAX) is about 35nm north. The lighthouse and adjacent keeper's house complex are best spotted at moderate altitude; the spiral paint pattern becomes identifiable above 1,000 feet AGL.
 
 ## Sources
 

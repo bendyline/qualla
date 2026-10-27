@@ -36,8 +36,8 @@ Located at 34.988N, 135.772E in the Higashiyama district on the eastern side of 
 
 ## Sources
 
-- [Sanjusangen-do - Wikipedia](https://en.wikipedia.org/wiki/Sanj%C5%ABsangen-d%C5%8D)
-- [Sanjusangen-do - Wikipedia](https://en.wikipedia.org/wiki/Sanj%C5%ABsangen-d%C5%8D)
+- [Sanjusangen-do - Wikipedia](https://en.wikipedia.org/?curid=3400176)
+- [Sanjusangen-do - Wikipedia](https://en.wikipedia.org/?curid=3400176)
   - Built in 1164 by Taira no Kiyomori for Emperor Go-Shirakawa - confirmed
   - Kiyomori became first samurai to hold rank of Chancellor of the Realm - confirmed
   - Original hall destroyed by fire; current main hall dates to 1266 - confirmed (fire was 1249)

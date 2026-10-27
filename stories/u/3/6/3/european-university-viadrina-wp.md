@@ -36,7 +36,7 @@ The Viadrina campus sits at 52.34 N, 14.55 E in the centre of Frankfurt (Oder), 
 
 ## Sources
 
-- [European University Viadrina](https://en.wikipedia.org/wiki/European_University_Viadrina)
+- [European University Viadrina](https://en.wikipedia.org/?curid=539100)
   - Foundation stone 1498 on the site of a demolished synagogue; university founded 26 April 1506 by Joachim I Nestor with permission of Pope Julius II
   - Konrad Wimpina founding prorector; Collegienhaus completed 1507; over 900 students in the first year
   - Johann Tetzel obtained his doctorate at Frankfurt in 1518; Georg von Blumenthal opposed the Reformation; Julia von Blumenthal named president 2018 (president 2018-2022 per de.wikipedia)

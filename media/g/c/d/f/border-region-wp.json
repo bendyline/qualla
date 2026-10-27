@@ -3,29 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/d/f/border-region-wp/hero.jpg",
-        "filename": "The Glass House.jpg",
-        "caption": "sunrise, Garavogue river, Sligo",
-        "alt": "sunrise, Garavogue river, Sligo",
-        "width": 1242,
-        "height": 825,
+        "path": "_m/g/c/d/f/border-region-wp/farmland-co-leitrim.jpg",
+        "filename": "Countyleitrimcows.jpg",
+        "caption": "Farmland in Co. Leitrim",
+        "alt": "Farmland in Co. Leitrim",
+        "width": 3648,
+        "height": 2736,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Niallio77",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Glass_House.jpg",
+        "license": "CC BY 2.0",
+        "artist": "IrishFireside from Ishpeming, MI, USA",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Countyleitrimcows.jpg",
         "sourceType": "core",
         "sourceArticleId": "border-region-wp",
         "sourceGeohash4": "gcdf",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "River Garavogue",
-          "Self-published work",
-          "Taken with Pentax K-r"
-        ]
+        "mediumPath": "_m/g/c/d/f/border-region-wp/farmland-co-leitrim-medium.webp",
+        "smallPath": "_m/g/c/d/f/border-region-wp/farmland-co-leitrim-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/d/f/border-region-wp/glencar-waterfall-2002.jpg",
+          "path": "_m/g/c/9/9/connacht-wp/glencar-waterfall-2002.jpg",
           "filename": "Glencar waterfall01.jpg",
           "caption": "Glencar Waterfall - 2002-06-16\n\nThe waterfalls at Glencar Lough, Ireland.",
           "alt": "Glencar Waterfall - 2002-06-16\n\nThe waterfalls at Glencar Lough, Ireland.",
@@ -43,7 +39,8 @@
             "Glencar Waterfall",
             "June 2002 in Ireland",
             "PD-author"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/9/connacht-wp/glencar-waterfall-2002-small.webp"
         },
         {
           "path": "_m/g/c/d/f/border-region-wp/slieveleague-tonemappe.jpg",
@@ -93,7 +90,7 @@
           "smallPath": "_m/g/c/d/f/border-region-wp/lough-oughter-county-c-small.webp"
         },
         {
-          "path": "_m/g/c/d/f/border-region-wp/mullaghmore-co-sligo.jpg",
+          "path": "_m/g/c/9/v/mullaghmore-county-sligo-wp/mullaghmore-co-sligo.jpg",
           "filename": "Mullaghmore, Co Sligo.jpg",
           "caption": "Mullaghmore, Co Sligo",
           "alt": "Mullaghmore, Co Sligo",
@@ -111,10 +108,12 @@
             "Flickr images uploaded by Flickr upload bot",
             "Mullaghmore, County Sligo",
             "Taken with Nikon D40"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/v/mullaghmore-county-sligo-wp/mullaghmore-co-sligo-medium.webp",
+          "smallPath": "_m/g/c/9/v/mullaghmore-county-sligo-wp/mullaghmore-co-sligo-small.webp"
         },
         {
-          "path": "_m/g/c/d/f/border-region-wp/ballyconnell-county-ca.jpg",
+          "path": "_m/g/c/d/e/ballyconnell-wp/ballyconnell-county-ca.jpg",
           "filename": "Ballyconnell cement plant.JPG",
           "caption": "Ballyconnell, County Cavan. Quinn Cement factory and surrounding countryside.",
           "alt": "Ballyconnell, County Cavan. Quinn Cement factory and surrounding countryside.",
@@ -136,7 +135,9 @@
             "Industry in County Cavan",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/d/e/ballyconnell-wp/ballyconnell-county-ca-medium.webp",
+          "smallPath": "_m/g/c/d/e/ballyconnell-wp/ballyconnell-county-ca-small.webp"
         },
         {
           "path": "_m/g/c/d/f/border-region-wp/farmland-co-leitrim.jpg",
@@ -193,7 +194,8 @@
             "Taken with Canon EOS-1D Mark II",
             "Water reflections in Ireland",
             "Water reflections of trees"
-          ]
+          ],
+          "smallPath": "_m/g/c/d/f/county-cavan-wp/shannon-pot-474383119-small.webp"
         },
         {
           "path": "_m/g/c/d/f/county-cavan-wp/windmill-at-enagh-virginia-co-.jpg",
@@ -213,7 +215,8 @@
             "CC-BY-SA-2.0",
             "History of County Cavan",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/d/f/county-cavan-wp/windmill-at-enagh-virginia-co--small.webp"
         },
         {
           "path": "_m/g/c/d/f/county-cavan-wp/cavan-burren-park-calf-house-s.jpg",
@@ -244,7 +247,9 @@
             "License migration redundant",
             "Photographs by Andreas F. Borchert",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/d/f/county-cavan-wp/cavan-burren-park-calf-house-s-medium.webp",
+          "smallPath": "_m/g/c/d/f/county-cavan-wp/cavan-burren-park-calf-house-s-small.webp"
         },
         {
           "path": "_m/g/c/d/u/county-monaghan-wp/clones-round-tower-nw-2016-08-.jpg",
@@ -274,7 +279,9 @@
             "License migration redundant",
             "Photographs by Andreas F. Borchert",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/d/u/county-monaghan-wp/clones-round-tower-nw-2016-08--medium.webp",
+          "smallPath": "_m/g/c/d/u/county-monaghan-wp/clones-round-tower-nw-2016-08--small.webp"
         },
         {
           "path": "_m/g/c/d/u/county-monaghan-wp/monaghan-saint-macartan-s-cath.jpg",
@@ -304,7 +311,8 @@
             "Photographs by Andreas F. Borchert",
             "Self-published work",
             "Stained-glass windows of St. Macartan's Cathedral, Monaghan"
-          ]
+          ],
+          "smallPath": "_m/g/c/d/u/county-monaghan-wp/monaghan-saint-macartan-s-cath-small.webp"
         },
         {
           "path": "_m/g/c/d/7/county-leitrim-wp/carrick-on-shannon-bridge.jpg",
@@ -330,7 +338,8 @@
             "May 2007 Ireland photographs",
             "River Shannon in Carrick-on-Shannon",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/d/7/county-leitrim-wp/carrick-on-shannon-bridge-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/glencar-waterfall.jpg",
@@ -352,7 +361,8 @@
             "Files from Wikivoyage wts",
             "Glencar Waterfall",
             "Taken with Fujifilm FinePix S5100"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/u/sligo-wp/glencar-waterfall-small.webp"
         },
         {
           "path": "_m/g/c/d/7/county-leitrim-wp/county-leitrim-fenagh-graveyar.jpg",
@@ -376,7 +386,9 @@
             "Self-published work",
             "St Caillín's Church, Fenagh",
             "Uploaded with Monumental"
-          ]
+          ],
+          "mediumPath": "_m/g/c/d/7/county-leitrim-wp/county-leitrim-fenagh-graveyar-medium.webp",
+          "smallPath": "_m/g/c/d/7/county-leitrim-wp/county-leitrim-fenagh-graveyar-small.webp"
         }
       ],
       "narration": [

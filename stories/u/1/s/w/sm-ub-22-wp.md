@@ -32,7 +32,7 @@ The wreck of SM UB-22 lies at approximately 54.67°N, 6.53°E, in the German Big
 
 ## Sources
 
-- [SM UB-22 - Wikipedia](https://en.wikipedia.org/wiki/SM_UB-22)
+- [SM UB-22 - Wikipedia](https://en.wikipedia.org/?curid=21626068)
   - Type UB II submarine confirmed
   - ordered 30 April 1915, launched 9 October 1915 confirmed
   - 18 patrols, 27 ships sunk confirmed

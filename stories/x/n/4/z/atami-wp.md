@@ -47,7 +47,7 @@ Located at 35.096N, 139.072E on the northeast coast of the Izu Peninsula. Atami 
   - 1923 earthquake and tsunami struck Atami
   - tsunami wave height at Atami approximately 12-13 meters (story says 11 meters - minor discrepancy)
   - NOTE: story claims 300 deaths at Atami from tsunami but multiple sources indicate approximately 60 deaths at Atami specifically; the 300 figure may conflate broader regional casualties or be from another source
-- [Atami - Official city history and tourism sources](https://en.wikipedia.org/wiki/Atami)
+- [Atami - Official city history and tourism sources](https://en.wikipedia.org/?curid=328989)
   - Atami designated International Tourism and Culture City in 1950
   - Tokaido Shinkansen Atami stop opened 1964
   - Izusan Jinja shrine confirmed

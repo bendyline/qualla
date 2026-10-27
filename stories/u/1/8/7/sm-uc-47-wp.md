@@ -32,7 +32,7 @@ The wreck of UC-47 lies at approximately 54.05 degrees north, 0.38 degrees east 
 
 ## Sources
 
-- [SM UC-47 - Wikipedia](https://en.wikipedia.org/wiki/SM_UC-47)
+- [SM UC-47 - Wikipedia](https://en.wikipedia.org/?curid=21674753)
   - 26 crew killed confirmed
   - HMS P-57 rammed UC-47 on 18 November 1917 confirmed
   - off Flamborough Head confirmed

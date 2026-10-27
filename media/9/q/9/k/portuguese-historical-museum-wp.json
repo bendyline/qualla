@@ -3,26 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/9/k/portuguese-historical-museum-wp/hero.jpg",
-        "filename": "PortugueseHistoricalMuseum-cropped.jpg",
-        "caption": "Taken by me December 2004",
-        "alt": "Taken by me December 2004",
-        "width": 1462,
-        "height": 928,
+        "path": "_m/9/q/9/k/portuguese-historical-museum-wp/portuguese-historical-museum-1.jpg",
+        "filename": "Portuguese Historical Museum - 1.jpg",
+        "caption": "Portuguese Historical Museum, San Jose, California",
+        "alt": "Portuguese Historical Museum, San Jose, California",
+        "width": 4032,
+        "height": 3024,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "The original uploader was Niteowlneils at English Wikipedia.",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PortugueseHistoricalMuseum-cropped.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Suiren2022",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portuguese_Historical_Museum_-_1.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "portuguese-historical-museum-wp",
         "sourceGeohash4": "9q9k",
         "categories": [
-          "CC-BY-SA-2.0",
-          "CC-BY-SA-3.0-migrated-with-disclaimers",
-          "GFDL-disclaimers",
-          "License migration completed",
-          "Portuguese Historical Museum"
-        ]
+          "CC-BY-SA-4.0",
+          "Files with coordinates missing SDC location of creation",
+          "Portuguese Historical Museum",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/9/q/9/k/portuguese-historical-museum-wp/portuguese-historical-museum-1-medium.webp",
+        "smallPath": "_m/9/q/9/k/portuguese-historical-museum-wp/portuguese-historical-museum-1-small.webp"
       },
       "images": [
         {
@@ -346,7 +347,9 @@
             "PD US NPS",
             "Rancho Camulos",
             "United States photographs taken on 1934-03-22"
-          ]
+          ],
+          "mediumPath": "_m/9/q/9/k/santa-clara-valley-wp/rancho-camulos-medium.webp",
+          "smallPath": "_m/9/q/9/k/santa-clara-valley-wp/rancho-camulos-small.webp"
         },
         {
           "path": "_m/9/q/9/k/santa-clara-valley-wp/santa-paula-and-oxnard-califor.jpg",
@@ -375,7 +378,9 @@
             "Photographs by Ken Lund",
             "September 2015 in California",
             "South Mountain (Ventura County)"
-          ]
+          ],
+          "mediumPath": "_m/9/q/9/k/santa-clara-valley-wp/santa-paula-and-oxnard-califor-medium.webp",
+          "smallPath": "_m/9/q/9/k/santa-clara-valley-wp/santa-paula-and-oxnard-califor-small.webp"
         },
         {
           "path": "_m/9/q/9/k/santa-clara-valley-wp/fillmore-and-santa-clara-river.jpg",
@@ -398,7 +403,8 @@
             "Fillmore, California",
             "Santa Clara River Valley (California)",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/9/q/9/k/santa-clara-valley-wp/fillmore-and-santa-clara-river-small.webp"
         }
       ],
       "narration": [

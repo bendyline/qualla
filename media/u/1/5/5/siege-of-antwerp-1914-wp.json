@@ -3,19 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/hero.jpg",
-        "filename": "Fall of Antwerp and the Allied retreat, 1914.jpg",
-        "caption": "Fall of Antwerp and the Allied retreat along the Belgian coast, 1914",
-        "alt": "Fall of Antwerp and the Allied retreat along the Belgian coast, 1914",
-        "width": 834,
-        "height": 519,
+        "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/oorlogschade-na-de-ver.jpg",
+        "filename": "Oorlogschade in Antwerpen tijdens WO I.jpg",
+        "caption": "Oorlogschade na de verovering van Antwerpen door de duitsers",
+        "alt": "Oorlogschade na de verovering van Antwerpen door de duitsers",
+        "width": 3217,
+        "height": 2077,
         "mimeType": "image/jpeg",
         "license": "Public domain",
-        "artist": "Michelin",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fall_of_Antwerp_and_the_Allied_retreat,_1914.jpg",
+        "artist": "Unknown author",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oorlogschade_in_Antwerpen_tijdens_WO_I.jpg",
         "sourceType": "core",
         "sourceArticleId": "siege-of-antwerp-1914-wp",
-        "sourceGeohash4": "u155"
+        "sourceGeohash4": "u155",
+        "mediumPath": "_m/u/1/5/5/siege-of-antwerp-1914-wp/oorlogschade-na-de-ver-medium.webp",
+        "smallPath": "_m/u/1/5/5/siege-of-antwerp-1914-wp/oorlogschade-na-de-ver-small.webp"
       },
       "images": [
         {
@@ -98,7 +100,7 @@
           "smallPath": "_m/u/1/5/5/siege-of-antwerp-1914-wp/belgian-guns-action-de-small.webp"
         },
         {
-          "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/destroyed-howitzer-tur.jpg",
+          "path": "_m/u/1/5/5/national-redoubt-belgium-wp/destroyed-howitzer-tur.jpg",
           "filename": "Howitzer turret cupola fortress Antwerp.jpg",
           "caption": "Destroyed Howitzer turret cupola of the fortress Antwerp. Hit 1914 by an Austria-Hungarian 30,5 cm shell",
           "alt": "Destroyed Howitzer turret cupola of the fortress Antwerp. Hit 1914 by an Austria-Hungarian 30,5 cm shell",
@@ -116,7 +118,8 @@
             "Collections of the Heeresgeschichtliches Museum",
             "Fort van Kessel",
             "Fortifications in Antwerp"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/5/national-redoubt-belgium-wp/destroyed-howitzer-tur-small.webp"
         },
         {
           "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/artistic-depiction-sie.jpg",
@@ -136,7 +139,7 @@
           "smallPath": "_m/u/1/5/5/siege-of-antwerp-1914-wp/artistic-depiction-sie-small.webp"
         },
         {
-          "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/antwerp-defences-1914.jpg",
+          "path": "_m/u/1/5/5/national-redoubt-belgium-wp/antwerp-defences-1914.jpg",
           "filename": "Antwerp defences, 1914.jpg",
           "caption": "Defences of Antwerp, 1914",
           "alt": "Defences of Antwerp, 1914",
@@ -148,7 +151,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antwerp_defences,_1914.jpg",
           "sourceType": "core",
           "sourceArticleId": "siege-of-antwerp-1914-wp",
-          "sourceGeohash4": "u155"
+          "sourceGeohash4": "u155",
+          "smallPath": "_m/u/1/5/5/national-redoubt-belgium-wp/antwerp-defences-1914-small.webp"
         },
         {
           "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/antwerp-first-sortie-2.jpg",
@@ -223,7 +227,7 @@
           "smallPath": "_m/u/1/5/5/siege-of-antwerp-1914-wp/churcill19140001-small.webp"
         },
         {
-          "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/antwerp-and-belgian-coast-9-20.jpg",
+          "path": "_m/u/1/1/g/battle-of-the-yser-wp/antwerp-and-belgian-coast-9-20.jpg",
           "filename": "Antwerp and Belgian coast, 9-20 October 1914.jpg",
           "caption": "Map of Antwerp and the Belgian coast in 1914",
           "alt": "Map of Antwerp and the Belgian coast in 1914",
@@ -242,10 +246,11 @@
             "PD-US missing SDC copyright status",
             "PD US",
             "Siege of Antwerp (1914)"
-          ]
+          ],
+          "smallPath": "_m/u/1/1/g/battle-of-the-yser-wp/antwerp-and-belgian-coast-9-20-small.webp"
         },
         {
-          "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/antwerp-area-1914.jpg",
+          "path": "_m/u/1/1/g/battle-of-the-yser-wp/antwerp-area-1914.jpg",
           "filename": "Antwerp area, 1914.jpg",
           "caption": "Antwerp area, 1914",
           "alt": "Antwerp area, 1914",
@@ -265,10 +270,11 @@
             "PD-US missing SDC copyright status",
             "PD US",
             "Siege of Antwerp (1914)"
-          ]
+          ],
+          "smallPath": "_m/u/1/1/g/battle-of-the-yser-wp/antwerp-area-1914-small.webp"
         },
         {
-          "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/map-area-battle-yser.jpg",
+          "path": "_m/u/1/1/f/fort-knokke-wp/map-area-battle-yser.jpg",
           "filename": "BATTLE OF THE YSER.jpg",
           "caption": "Map of the area of the Battle of the Yser",
           "alt": "Map of the area of the Battle of the Yser",
@@ -280,7 +286,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BATTLE_OF_THE_YSER.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "fort-knokke-wp",
-          "sourceGeohash4": "u155"
+          "sourceGeohash4": "u155",
+          "smallPath": "_m/u/1/1/f/fort-knokke-wp/map-area-battle-yser-small.webp"
         },
         {
           "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/concentration-areas-of-the-mob.jpg",
@@ -299,7 +306,7 @@
           "smallPath": "_m/u/1/5/5/siege-of-antwerp-1914-wp/concentration-areas-of-the-mob-small.webp"
         },
         {
-          "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/defence-of-antwerp.jpg",
+          "path": "_m/u/1/1/g/battle-of-the-yser-wp/defence-of-antwerp.jpg",
           "filename": "DEFENCE OF ANTWERP.jpg",
           "caption": "Map of Belgian National Redoubt at Antwerp, 1914",
           "alt": "Map of Belgian National Redoubt at Antwerp, 1914",
@@ -311,7 +318,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:DEFENCE_OF_ANTWERP.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "battle-of-the-yser-wp",
-          "sourceGeohash4": "u155"
+          "sourceGeohash4": "u155",
+          "smallPath": "_m/u/1/1/g/battle-of-the-yser-wp/defence-of-antwerp-small.webp"
         },
         {
           "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/defence-of-namur.jpg",
@@ -346,7 +354,7 @@
           "smallPath": "_m/u/1/5/5/siege-of-antwerp-1914-wp/belgian-field-army-on-the-gete-small.webp"
         },
         {
-          "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/defences-antwerp-1914.jpg",
+          "path": "_m/u/1/5/1/german-invasion-of-belgium-1914-wp/defences-antwerp-1914.jpg",
           "filename": "Defences of Antwerp, 1914.jpg",
           "caption": "Defences of Antwerp, 1914",
           "alt": "Defences of Antwerp, 1914",
@@ -358,7 +366,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Defences_of_Antwerp,_1914.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "german-invasion-of-belgium-1914-wp",
-          "sourceGeohash4": "u155"
+          "sourceGeohash4": "u155",
+          "smallPath": "_m/u/1/5/1/german-invasion-of-belgium-1914-wp/defences-antwerp-1914-small.webp"
         },
         {
           "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/diagram-interior-of-brialmont-.jpg",
@@ -409,7 +418,7 @@
           "smallPath": "_m/u/1/5/5/siege-of-antwerp-1914-wp/german-advance-in-belgium-augu-small.webp"
         },
         {
-          "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/fortified-regions-in-northern-.jpg",
+          "path": "_m/u/1/4/0/battle-of-messines-1914-wp/fortified-regions-in-northern-.jpg",
           "filename": "Fortified regions in Northern France and Belgium, 1914.jpg",
           "caption": "Diagram of Fortified regions in Northern France and Belgium, 1914",
           "alt": "Diagram of Fortified regions in Northern France and Belgium, 1914",
@@ -421,7 +430,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fortified_regions_in_Northern_France_and_Belgium,_1914.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "battle-of-messines-1914-wp",
-          "sourceGeohash4": "u155"
+          "sourceGeohash4": "u155",
+          "smallPath": "_m/u/1/4/0/battle-of-messines-1914-wp/fortified-regions-in-northern--small.webp"
         },
         {
           "path": "_m/u/1/5/5/siege-of-antwerp-1914-wp/fort-van-walem-9.jpg",
@@ -560,7 +570,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ50"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/u/battle-of-the-scheldt-wp/related-poi-antwerp-airport-deurne-medium.webp",
+          "smallPath": "_m/u/1/4/u/battle-of-the-scheldt-wp/related-poi-antwerp-airport-deurne-small.webp"
         },
         {
           "path": "_m/u/1/5/5/antwerp-wk/station-antwerpen-cent.jpg",
@@ -584,7 +596,9 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/5/antwerp-wk/station-antwerpen-cent-medium.webp",
+          "smallPath": "_m/u/1/5/5/antwerp-wk/station-antwerpen-cent-small.webp"
         },
         {
           "path": "_m/u/1/4/u/battle-of-the-scheldt-wp/related-poi-20110723-antwerp110.jpg",
@@ -610,7 +624,9 @@
             "Pelikaanstraat (Antwerp)",
             "Photos of Belgium by user Jean Housen",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/u/battle-of-the-scheldt-wp/related-poi-20110723-antwerp110-medium.webp",
+          "smallPath": "_m/u/1/4/u/battle-of-the-scheldt-wp/related-poi-20110723-antwerp110-small.webp"
         },
         {
           "path": "_m/u/1/5/5/antwerp-wk/antwerp-diamond-capita.jpg",
@@ -632,7 +648,9 @@
             "Jewellery shops in Antwerp",
             "Pelikaanstraat (Antwerp)",
             "Taken with Nikon Coolpix S10"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/5/antwerp-wk/antwerp-diamond-capita-medium.webp",
+          "smallPath": "_m/u/1/5/5/antwerp-wk/antwerp-diamond-capita-small.webp"
         },
         {
           "path": "_m/u/1/5/5/antwerp-wk/antwerpen-belgie-hoger.jpg",
@@ -652,7 +670,9 @@
             "Antwerp Maritime Academy",
             "CC-Zero",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/5/antwerp-wk/antwerpen-belgie-hoger-medium.webp",
+          "smallPath": "_m/u/1/5/5/antwerp-wk/antwerpen-belgie-hoger-small.webp"
         },
         {
           "path": "_m/u/1/5/5/antwerp-wk/antwerpen-grand-bazar.jpg",
@@ -683,7 +703,9 @@
             "Onroerend erfgoed with known IDs",
             "Self-published work",
             "Taken with Ricoh CX1"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/5/antwerp-wk/antwerpen-grand-bazar-medium.webp",
+          "smallPath": "_m/u/1/5/5/antwerp-wk/antwerpen-grand-bazar-small.webp"
         },
         {
           "path": "_m/u/1/4/u/battle-of-the-scheldt-wp/related-poi-4446-vlaaikensgang-2.jpg",
@@ -701,7 +723,9 @@
           "sourceGeohash4": "u155",
           "categories": [
             "Belgium photographs taken on 2013-07-15"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/u/battle-of-the-scheldt-wp/related-poi-4446-vlaaikensgang-2-medium.webp",
+          "smallPath": "_m/u/1/4/u/battle-of-the-scheldt-wp/related-poi-4446-vlaaikensgang-2-small.webp"
         },
         {
           "path": "_m/u/1/5/5/antwerp-wk/fomu-photo-museum-fomu.jpg",
@@ -716,7 +740,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antwerpen-FoMu-Fotomuseum_Provincie_Antwerpen_(3).jpg",
           "sourceType": "poi",
           "sourceArticleId": "antwerp-wk",
-          "sourceGeohash4": "u155"
+          "sourceGeohash4": "u155",
+          "mediumPath": "_m/u/1/5/5/antwerp-wk/fomu-photo-museum-fomu-medium.webp",
+          "smallPath": "_m/u/1/5/5/antwerp-wk/fomu-photo-museum-fomu-small.webp"
         },
         {
           "path": "_m/u/1/4/u/battle-of-the-scheldt-wp/related-poi-acam-vault-2016.jpg",
@@ -731,7 +757,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:ACAM_Vault_2016.jpg",
           "sourceType": "poi",
           "sourceArticleId": "battle-of-the-scheldt-wp",
-          "sourceGeohash4": "u155"
+          "sourceGeohash4": "u155",
+          "mediumPath": "_m/u/1/4/u/battle-of-the-scheldt-wp/related-poi-acam-vault-2016-medium.webp",
+          "smallPath": "_m/u/1/4/u/battle-of-the-scheldt-wp/related-poi-acam-vault-2016-small.webp"
         },
         {
           "path": "_m/u/1/5/5/antwerp-wk/view-antwerp-zoo-entra.jpg",
@@ -746,7 +774,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antwerpen_Zoo_Entrance_1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "antwerp-wk",
-          "sourceGeohash4": "u155"
+          "sourceGeohash4": "u155",
+          "mediumPath": "_m/u/1/5/5/antwerp-wk/view-antwerp-zoo-entra-medium.webp",
+          "smallPath": "_m/u/1/5/5/antwerp-wk/view-antwerp-zoo-entra-small.webp"
         },
         {
           "path": "_m/u/1/5/5/antwerp-wk/huis-guiette-antwerp-b.jpg",
@@ -761,7 +791,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antwerp_Corbusier_Maison_Guiette_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "antwerp-wk",
-          "sourceGeohash4": "u155"
+          "sourceGeohash4": "u155",
+          "mediumPath": "_m/u/1/5/5/antwerp-wk/huis-guiette-antwerp-b-medium.webp",
+          "smallPath": "_m/u/1/5/5/antwerp-wk/huis-guiette-antwerp-b-small.webp"
         },
         {
           "path": "_m/u/1/5/5/antwerp-wk/carolus-borromeuskerk.jpg",
@@ -776,7 +808,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antwerpen,_St._Karl-Borrom%C3%A4uskirche.jpg",
           "sourceType": "poi",
           "sourceArticleId": "antwerp-wk",
-          "sourceGeohash4": "u155"
+          "sourceGeohash4": "u155",
+          "mediumPath": "_m/u/1/5/5/antwerp-wk/carolus-borromeuskerk-medium.webp",
+          "smallPath": "_m/u/1/5/5/antwerp-wk/carolus-borromeuskerk-small.webp"
         },
         {
           "path": "_m/u/1/5/5/antwerp-wk/500px-provided-descrip.jpg",
@@ -791,7 +825,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antwerpen_V7_(228128289).jpeg",
           "sourceType": "poi",
           "sourceArticleId": "antwerp-wk",
-          "sourceGeohash4": "u155"
+          "sourceGeohash4": "u155",
+          "mediumPath": "_m/u/1/5/5/antwerp-wk/500px-provided-descrip-medium.webp",
+          "smallPath": "_m/u/1/5/5/antwerp-wk/500px-provided-descrip-small.webp"
         },
         {
           "path": "_m/u/1/4/u/battle-of-the-scheldt-wp/related-poi-antwerp-be-dsc-0166-antwerpen-.jpg",
@@ -806,7 +842,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antwerp,_BE_(DSC_0166)_Antwerpen-Centraal_railway_station_main_hall.jpg",
           "sourceType": "poi",
           "sourceArticleId": "battle-of-the-scheldt-wp",
-          "sourceGeohash4": "u155"
+          "sourceGeohash4": "u155",
+          "mediumPath": "_m/u/1/4/u/battle-of-the-scheldt-wp/related-poi-antwerp-be-dsc-0166-antwerpen--medium.webp",
+          "smallPath": "_m/u/1/4/u/battle-of-the-scheldt-wp/related-poi-antwerp-be-dsc-0166-antwerpen--small.webp"
         }
       ],
       "narration": [

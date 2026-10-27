@@ -3,31 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/7/3/european-classical-music-wk/hero.jpg",
-        "filename": "Sevilla Luft 120308.JPG",
-        "caption": "Aerial Photo of Seville (Spain) from approx. 6500 ft / 2000 m height. Viewing direction north.",
-        "alt": "Aerial Photo of Seville (Spain) from approx. 6500 ft / 2000 m height. Viewing direction north.",
-        "width": 2816,
-        "height": 2112,
+        "path": "_m/u/1/7/3/european-classical-music-wk/eines-der-deckengemald.jpg",
+        "filename": "Haydnsaal Decke 2.jpg",
+        "caption": "Eines der Deckengemälde im Haydnsaal des Schlosses Esterhazy in der burgenländischen Landeshauptstadt Eisenstadt",
+        "alt": "Eines der Deckengemälde im Haydnsaal des Schlosses Esterhazy in der burgenländischen Landeshauptstadt Eisenstadt",
+        "width": 5184,
+        "height": 3888,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "El-mejor",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sevilla_Luft_120308.JPG",
+        "license": "CC BY-SA 4.0",
+        "artist": "Liuthalas",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haydnsaal_Decke_2.jpg",
         "sourceType": "core",
         "sourceArticleId": "european-classical-music-wk",
         "sourceGeohash4": "u173",
-        "categories": [
-          "2008 in Seville",
-          "Aereal photographs in 2008",
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "GFDL",
-          "Images with 10+ annotations",
-          "Images with annotations"
-        ]
+        "mediumPath": "_m/u/1/7/3/european-classical-music-wk/eines-der-deckengemald-medium.webp",
+        "smallPath": "_m/u/1/7/3/european-classical-music-wk/eines-der-deckengemald-small.webp"
       },
       "images": [
         {
-          "path": "_m/u/1/7/3/european-classical-music-wk/grieghallen.jpg",
+          "path": "_m/u/4/e/z/bergen-wk/grieghallen.jpg",
           "filename": "Grieghallen.JPG",
           "alt": "Grieghallen.JPG",
           "width": 2297,
@@ -48,7 +42,9 @@
             "Media missing infobox template",
             "Self-published work",
             "Taken with Canon EOS 5D"
-          ]
+          ],
+          "mediumPath": "_m/u/4/e/z/bergen-wk/grieghallen-medium.webp",
+          "smallPath": "_m/u/4/e/z/bergen-wk/grieghallen-small.webp"
         },
         {
           "path": "_m/u/1/7/3/european-classical-music-wk/musikverein-wien-gro-e.jpg",
@@ -209,7 +205,7 @@
           "smallPath": "_m/u/1/7/3/european-classical-music-wk/eines-der-deckengemald-small.webp"
         },
         {
-          "path": "_m/u/1/7/3/european-classical-music-wk/ciudad-del-cabo-desde-cabeza-d.jpg",
+          "path": "_m/k/3/v/j/cape-peninsula-wp/ciudad-del-cabo-desde-cabeza-d.jpg",
           "filename": "Ciudad del Cabo desde Cabeza de León, Sudáfrica, 2018-07-22, DD 34.jpg",
           "caption": "Cape Town viewed from Lion's Head, South Africa",
           "alt": "Cape Town viewed from Lion's Head, South Africa",
@@ -221,7 +217,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ciudad_del_Cabo_desde_Cabeza_de_Le%C3%B3n,_Sud%C3%A1frica,_2018-07-22,_DD_34.jpg",
           "sourceType": "core",
           "sourceArticleId": "european-classical-music-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/k/3/v/j/cape-peninsula-wp/ciudad-del-cabo-desde-cabeza-d-medium.webp",
+          "smallPath": "_m/k/3/v/j/cape-peninsula-wp/ciudad-del-cabo-desde-cabeza-d-small.webp"
         },
         {
           "path": "_m/u/1/7/3/european-classical-music-wk/concert-hall-sydney-op.jpg",
@@ -279,7 +277,8 @@
             "Still-life paintings of musical instruments",
             "Violins in paintings",
             "Viols in art"
-          ]
+          ],
+          "smallPath": "_m/tpc/eu/ro/pe/an/european-classical-music/baschenis-musical-instruments-small.webp"
         },
         {
           "path": "_m/tpc/eu/ro/pe/an/european-classical-music/45-record.png",
@@ -294,7 +293,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:45_record.png",
           "sourceType": "sibling",
           "sourceArticleId": "european-classical-music",
-          "sourceGeohash4": "tpc/eu/ro/pe/an"
+          "sourceGeohash4": "tpc/eu/ro/pe/an",
+          "smallPath": "_m/tpc/eu/ro/pe/an/european-classical-music/45-record-small.webp"
         },
         {
           "path": "_m/tpc/eu/ro/pe/an/european-classical-music/bjo-konzert-phil-mr-098.jpg",
@@ -309,7 +309,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BJO_Konzert_Phil_MR_098.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "european-classical-music",
-          "sourceGeohash4": "tpc/eu/ro/pe/an"
+          "sourceGeohash4": "tpc/eu/ro/pe/an",
+          "mediumPath": "_m/tpc/eu/ro/pe/an/european-classical-music/bjo-konzert-phil-mr-098-medium.webp",
+          "smallPath": "_m/tpc/eu/ro/pe/an/european-classical-music/bjo-konzert-phil-mr-098-small.webp"
         },
         {
           "path": "_m/tpc/eu/ro/pe/an/european-classical-music/josef-danhauser-liszt-am-fluge.jpg",
@@ -323,7 +325,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Josef_Danhauser_Liszt_am_Fl%C3%BCgel_1840_01.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "european-classical-music",
-          "sourceGeohash4": "tpc/eu/ro/pe/an"
+          "sourceGeohash4": "tpc/eu/ro/pe/an",
+          "mediumPath": "_m/tpc/eu/ro/pe/an/european-classical-music/josef-danhauser-liszt-am-fluge-medium.webp",
+          "smallPath": "_m/tpc/eu/ro/pe/an/european-classical-music/josef-danhauser-liszt-am-fluge-small.webp"
         },
         {
           "path": "_m/tpc/eu/ro/pe/an/european-classical-music/beethoven-beethoven-haydn-moza.jpg",
@@ -338,7 +342,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beethoven_-_Beethoven-Haydn-Mozart-Denkmal_-_Berlin,_Germany_-_DSC09442.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "european-classical-music",
-          "sourceGeohash4": "tpc/eu/ro/pe/an"
+          "sourceGeohash4": "tpc/eu/ro/pe/an",
+          "mediumPath": "_m/tpc/eu/ro/pe/an/european-classical-music/beethoven-beethoven-haydn-moza-medium.webp",
+          "smallPath": "_m/tpc/eu/ro/pe/an/european-classical-music/beethoven-beethoven-haydn-moza-small.webp"
         },
         {
           "path": "_m/tpc/eu/ro/pe/an/european-classical-music/haydn-beethoven-haydn-mozart-d.jpg",
@@ -353,7 +359,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haydn_-_Beethoven-Haydn-Mozart-Denkmal_-_Berlin,_Germany_-_DSC09438.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "european-classical-music",
-          "sourceGeohash4": "tpc/eu/ro/pe/an"
+          "sourceGeohash4": "tpc/eu/ro/pe/an",
+          "mediumPath": "_m/tpc/eu/ro/pe/an/european-classical-music/haydn-beethoven-haydn-mozart-d-medium.webp",
+          "smallPath": "_m/tpc/eu/ro/pe/an/european-classical-music/haydn-beethoven-haydn-mozart-d-small.webp"
         },
         {
           "path": "_m/tpc/eu/ro/pe/an/european-classical-music/mozart-beethoven-haydn-mozart-.jpg",
@@ -368,7 +376,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mozart_-_Beethoven-Haydn-Mozart-Denkmal_-_Berlin,_Germany_-_DSC09446.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "european-classical-music",
-          "sourceGeohash4": "tpc/eu/ro/pe/an"
+          "sourceGeohash4": "tpc/eu/ro/pe/an",
+          "mediumPath": "_m/tpc/eu/ro/pe/an/european-classical-music/mozart-beethoven-haydn-mozart--medium.webp",
+          "smallPath": "_m/tpc/eu/ro/pe/an/european-classical-music/mozart-beethoven-haydn-mozart--small.webp"
         },
         {
           "path": "_m/tpc/eu/ro/pe/an/european-classical-music/altes-akh-vienna-june-2006-583.jpg",
@@ -383,7 +393,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Altes_AKH_Vienna_June_2006_583_cropped.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "european-classical-music",
-          "sourceGeohash4": "tpc/eu/ro/pe/an"
+          "sourceGeohash4": "tpc/eu/ro/pe/an",
+          "mediumPath": "_m/tpc/eu/ro/pe/an/european-classical-music/altes-akh-vienna-june-2006-583-medium.webp",
+          "smallPath": "_m/tpc/eu/ro/pe/an/european-classical-music/altes-akh-vienna-june-2006-583-small.webp"
         }
       ],
       "narration": [

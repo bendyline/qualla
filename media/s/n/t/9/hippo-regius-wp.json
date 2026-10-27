@@ -3,37 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/n/t/9/hippo-regius-wp/hero.jpg",
-        "filename": "Hippone.JPG",
-        "caption": "Hippone: Basilique Saint-Augustin d'Annaba",
-        "alt": "Hippone: Basilique Saint-Augustin d'Annaba",
-        "width": 2560,
-        "height": 1920,
+        "path": "_m/s/n/t/9/hippo-regius-wp/hippo-regius-annaba.jpg",
+        "filename": "Hippo Regius - Annaba.jpg",
+        "caption": "Hippo Regius in Annaba",
+        "alt": "Hippo Regius in Annaba",
+        "width": 2048,
+        "height": 1537,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Oris",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippone.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Dzkouslavia",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippo_Regius_-_Annaba.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "hippo-regius-wp",
         "sourceGeohash4": "snt9",
-        "categories": [
-          "Annaba Province",
-          "Archaeological sites in Algeria",
-          "Basilica of Saint Augustine",
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "El Bouni",
-          "Files with coordinates missing SDC location of creation",
-          "FoP-Algeria",
-          "GFDL",
-          "Hippo Regius",
-          "History of Annaba Province",
-          "License migration redundant",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/s/n/t/9/hippo-regius-wp/hippo-regius-annaba-medium.webp",
+        "smallPath": "_m/s/n/t/9/hippo-regius-wp/hippo-regius-annaba-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/n/t/9/hippo-regius-wp/hero.jpg",
+          "path": "_m/s/n/2/c/battle-of-chelif-river-1015-wp/hero.jpg",
           "filename": "Algeria relief location map.jpg",
           "caption": "Blank physical map of Algeria, for geo-location purposes.",
           "alt": "Blank physical map of Algeria, for geo-location purposes.",
@@ -55,7 +43,8 @@
             "Maps of provinces of Algeria",
             "Relief location maps of Algeria",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/n/2/c/battle-of-chelif-river-1015-wp/hero-small.webp"
         },
         {
           "path": "_m/s/n/t/9/hippo-regius-wp/hippo-regius-annaba.jpg",
@@ -131,7 +120,8 @@
             "Cultural heritage monuments in Annaba",
             "Salah Bey Mosque",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/n/t/9/annaba-wp/mezquita-el-bey-small.webp"
         },
         {
           "path": "_m/s/n/t/9/annaba-wp/image-2.jpg",
@@ -151,7 +141,8 @@
             "Buildings in Algeria",
             "CC-BY-SA-4.0",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/n/t/9/annaba-wp/image-2-small.webp"
         },
         {
           "path": "_m/s/n/t/9/annaba-wp/musee-hippone-annaba-04.jpg",
@@ -178,7 +169,8 @@
             "Images from Wiki Loves Monuments missing SDC location of creation",
             "Self-published work",
             "Uploaded via Campaign:wlm-dz"
-          ]
+          ],
+          "smallPath": "_m/s/n/t/9/annaba-wp/musee-hippone-annaba-04-small.webp"
         },
         {
           "path": "_m/s/n/t/9/annaba-wp/20181114-153929the-light-house.jpg",
@@ -199,7 +191,9 @@
             "Cap de Garde Lighthouse",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/n/t/9/annaba-wp/20181114-153929the-light-house-medium.webp",
+          "smallPath": "_m/s/n/t/9/annaba-wp/20181114-153929the-light-house-small.webp"
         },
         {
           "path": "_m/s/n/t/9/annaba-wp/20181114-143740-hdrannba-beach.jpg",
@@ -221,7 +215,9 @@
             "CC-BY-SA-4.0",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/n/t/9/annaba-wp/20181114-143740-hdrannba-beach-medium.webp",
+          "smallPath": "_m/s/n/t/9/annaba-wp/20181114-143740-hdrannba-beach-small.webp"
         },
         {
           "path": "_m/s/n/t/9/annaba-wp/basilique-saint-augustin-d-ann.jpg",
@@ -241,7 +237,8 @@
             "Basilica of Saint Augustine",
             "CC-Zero",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/n/t/9/annaba-wp/basilique-saint-augustin-d-ann-small.webp"
         }
       ],
       "narration": [

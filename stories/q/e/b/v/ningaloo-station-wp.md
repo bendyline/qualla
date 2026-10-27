@@ -40,7 +40,7 @@ Ningaloo Station lies at 22.98°S, 113.82°E on the Ningaloo coast of Western Au
   - Blacks sold to F. Lefroy and M. McBolt in June 1937 — confirmed
   - Station area approximately 50,000 hectares, ~40 km north of Coral Bay — confirmed
   - Schooner named Geraldton carried materials in 1923 — confirmed
-- [Wajarri language - Aboriginal naming of Ningaloo (Nyinggulu)](https://en.wikipedia.org/wiki/Ningaloo_Station)
+- [Wajarri language - Aboriginal naming of Ningaloo (Nyinggulu)](https://en.wikipedia.org/?curid=31997210)
   - Nyinggulu recorded as Wajarri name in 1800s — consistent with Wikipedia sources
   - Baiyungu and Yinigudura peoples' connection to the coast — consistent with regional language group records
 

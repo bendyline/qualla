@@ -28,7 +28,7 @@ The turning point came when advocates raised $14 million for a full restoration.
 
 ## Flight Context
 
-Located at 30.689°N, 88.048°W on Government Street in downtown Mobile, Alabama. The building's white cupola and dome are distinctive from the air, standing out among the low-rise downtown blocks. Mobile Regional Airport (KMOB) is approximately 13 miles west. Mobile Downtown Airport (KBFM) is about 3 miles south. From 2,000-3,000 feet AGL, the Greek Revival portico and dome are identifiable along the Government Street corridor. The nearby Government Street Presbyterian Church, designed by the same architects, is visible one block east. Mobile Bay stretches to the east and south.
+Located at 30.689°N, 88.048°W on Government Street in downtown Mobile, Alabama. The building's white cupola and dome are distinctive from the air, standing out among the low-rise downtown blocks. Mobile Regional Airport (KMOB) is approximately 13 miles west. Mobile International Airport (KBFM, formerly Mobile Downtown) is about 3 miles south. From 2,000-3,000 feet AGL, the Greek Revival portico and dome are identifiable along the Government Street corridor. The nearby Government Street Presbyterian Church, designed by the same architects, is visible one block east. Mobile Bay stretches to the east and south.
 
 ## Sources
 

@@ -38,7 +38,7 @@ The Adrar Plateau is centered near 20.41°N, 13.11°W in northern Mauritania, ri
 
 - [Adrar Plateau - Wikipedia](https://en.wikipedia.org/?curid=1273371)
 - [Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata](https://whc.unesco.org/en/list/750)
-- [Adrar Plateau - Wikipedia](https://en.wikipedia.org/wiki/Adrar_Plateau)
+- [Adrar Plateau - Wikipedia](https://en.wikipedia.org/?curid=1273371)
   - Verified: 'Adrar' means 'mountain' in Berber confirmed
   - Verified: plateau climbs to more than 700 meters above sea level near Amojjar Pass confirmed
   - Verified: UNESCO World Heritage Site (Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata) confirmed

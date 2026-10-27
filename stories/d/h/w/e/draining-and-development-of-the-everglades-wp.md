@@ -32,7 +32,7 @@ In 1947, two events reshaped the Everglades story. On December 6, President Trum
 
 ## Flight Context
 
-The Everglades drainage area is centered around 26.00N, 80.70W, spanning from Lake Okeechobee southward to Florida Bay. From altitude, the grid of canals, levees, and the Everglades Agricultural Area are clearly visible as geometric patterns cutting through the natural wetland. The Herbert Hoover Dike encircles Lake Okeechobee to the north. The Tamiami Trail (US-41) traces a straight east-west line across the landscape. Nearest airports: Miami International (KMIA), Fort Lauderdale-Hollywood International (KFLL), and Palm Beach International (KPBI). Best viewed at 5,000-10,000 feet AGL to appreciate the massive scale of both the natural and engineered landscape.
+The Everglades drainage area is centered around 26.00N, 80.70W, spanning from Lake Okeechobee southward to Florida Bay. From altitude, the grid of canals, levees, and the Everglades Agricultural Area are clearly visible as geometric patterns cutting through the natural wetland. The Herbert Hoover Dike encircles Lake Okeechobee to the north. The Tamiami Trail (US-41) traces a straight east-west line across the landscape. Nearest airports: Miami International (KMIA), Fort Lauderdale-Hollywood International (KFLL), and President Donald J. Trump International Airport (KDJT, formerly Palm Beach International, KPBI). Best viewed at 5,000-10,000 feet AGL to appreciate the massive scale of both the natural and engineered landscape.
 
 ## Sources
 

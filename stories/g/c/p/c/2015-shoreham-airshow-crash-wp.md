@@ -42,7 +42,7 @@ Located at 50.84N, 0.29W near Shoreham Airport (EGKA). The crash site is on the 
 - [Aircraft Accident Report AAR 1/2017 - G-BXFI - GOV.UK](https://www.gov.uk/aaib-reports/aircraft-accident-report-aar-1-2017-g-bxfi-22-august-2015)
   - Pilot error conclusion confirmed
   - Loop manoeuvre begun too low confirmed
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2015_Shoreham_Airshow_crash)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=47595046)
   - Removed two quotes ('exceptionally bad' / 'not fit for purpose') that trace only to Private Eye; retained the BBC-reported December 2022 inquest conclusion of unlawful killing and clarified it is a civil-standard finding that does not overturn pilot Andrew Hill's 2019 criminal acquittal.
 
 ## Review Notes

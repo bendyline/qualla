@@ -3,33 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/d/1/s/8/corcovado-national-park-wk/hero.jpg",
-        "filename": "Parque Nacional Corcovado.JPG",
-        "caption": "Corcovado National Park is located on the Osa Peninsula, Costa Rica",
-        "alt": "Corcovado National Park is located on the Osa Peninsula, Costa Rica",
-        "width": 2512,
-        "height": 1534,
+        "path": "_m/d/1/s/8/corcovado-national-park-wk/sirena-station-visible.jpg",
+        "filename": "Sirena Station at Corcovado National Park Costa Rica.jpg",
+        "caption": "Sirena Station visible at the end of its unused airstrip at Corcovado National Park, Costa Rica",
+        "alt": "Sirena Station visible at the end of its unused airstrip at Corcovado National Park, Costa Rica",
+        "width": 6157,
+        "height": 4105,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "José R.",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Corcovado.JPG",
+        "license": "CC BY 4.0",
+        "artist": "Julio-César Chávez",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sirena_Station_at_Corcovado_National_Park_Costa_Rica.jpg",
         "sourceType": "core",
         "sourceArticleId": "corcovado-national-park-wk",
         "sourceGeohash4": "d1s8",
-        "categories": [
-          "2010 in Costa Rica",
-          "Beaches of Costa Rica",
-          "CC-BY-3.0",
-          "Corcovado National Park",
-          "GFDL",
-          "License migration redundant",
-          "Self-published work",
-          "Taken with Canon PowerShot SX20 IS"
-        ]
+        "mediumPath": "_m/d/1/s/8/corcovado-national-park-wk/sirena-station-visible-medium.webp",
+        "smallPath": "_m/d/1/s/8/corcovado-national-park-wk/sirena-station-visible-small.webp"
       },
       "images": [
         {
-          "path": "_m/d/1/s/8/corcovado-national-park-wk/costa-rica-relief-location-map.jpg",
+          "path": "_m/d/1/u/4/juan-castro-blanco-national-park-wp/costa-rica-relief-location-map.jpg",
           "filename": "Costa Rica relief location map.jpg",
           "caption": "Blank relief map of Costa Rica for geo-location purpose.Note : The Isla del Coco, out of the map, is not shown.Scale : 1:1,856,000 (accuracy : 464 m)",
           "alt": "Blank relief map of Costa Rica for geo-location purpose.Note : The Isla del Coco, out of the map, is not shown.Scale : 1:1,856,000 (accuracy : 464 m)",
@@ -52,7 +44,8 @@
             "Map Lab-fr",
             "Relief location maps of Costa Rica",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/d/1/u/4/juan-castro-blanco-national-park-wp/costa-rica-relief-location-map-small.webp"
         },
         {
           "path": "_m/d/1/s/8/corcovado-national-park-wk/photograph-tamandua-ta.jpg",
@@ -379,7 +372,7 @@
           "smallPath": "_m/d/1/s/8/corcovado-national-park-wk/corcovado-strand-nationalpark-small.webp"
         },
         {
-          "path": "_m/d/1/s/8/corcovado-national-park-wk/corcovado-view-from-a-boat.jpg",
+          "path": "_m/7/5/c/m/corcovado-wp/corcovado-view-from-a-boat.jpg",
           "filename": "Corcovado view from a boat.JPG",
           "alt": "Corcovado view from a boat.JPG",
           "width": 2067,
@@ -390,7 +383,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corcovado_view_from_a_boat.JPG",
           "sourceType": "commons-category",
           "sourceArticleId": "corcovado-wp",
-          "sourceGeohash4": "d1s8"
+          "sourceGeohash4": "d1s8",
+          "mediumPath": "_m/7/5/c/m/corcovado-wp/corcovado-view-from-a-boat-medium.webp",
+          "smallPath": "_m/7/5/c/m/corcovado-wp/corcovado-view-from-a-boat-small.webp"
         },
         {
           "path": "_m/d/1/s/8/corcovado-national-park-wk/lokatie-nationaal-park-corcova.jpg",
@@ -567,7 +562,9 @@
             "GFDL",
             "License migration not eligible",
             "Taken with Canon EOS 450D"
-          ]
+          ],
+          "mediumPath": "_m/7/5/c/m/corcovado-wp/central-america-costa-rica-sca-medium.webp",
+          "smallPath": "_m/7/5/c/m/corcovado-wp/central-america-costa-rica-sca-small.webp"
         },
         {
           "path": "_m/d/1/s/8/osa-peninsula-wp/dirkvdm-golfito-1.jpg",
@@ -594,7 +591,8 @@
             "Peninsulas of Costa Rica",
             "Taken with Canon Digital IXUS 400",
             "Trees in Costa Rica"
-          ]
+          ],
+          "smallPath": "_m/d/1/s/8/osa-peninsula-wp/dirkvdm-golfito-1-small.webp"
         },
         {
           "path": "_m/d/1/s/8/osa-peninsula-wp/puerto-armuelles-y-punta-buric.jpg",
@@ -622,7 +620,9 @@
             "Photographs taken on 2007-03-01",
             "Puerto Armuelles",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/d/1/s/8/osa-peninsula-wp/puerto-armuelles-y-punta-buric-medium.webp",
+          "smallPath": "_m/d/1/s/8/osa-peninsula-wp/puerto-armuelles-y-punta-buric-small.webp"
         },
         {
           "path": "_m/tpc/co/st/a-/ri/costa-rica/chirripo.jpg",
@@ -644,7 +644,9 @@
             "Photographs taken on 2004-12-04",
             "Self-published work",
             "Taken with Canon PowerShot S50"
-          ]
+          ],
+          "mediumPath": "_m/tpc/co/st/a-/ri/costa-rica/chirripo-medium.webp",
+          "smallPath": "_m/tpc/co/st/a-/ri/costa-rica/chirripo-small.webp"
         },
         {
           "path": "_m/d/1/s/8/osa-peninsula-wp/bahia-drake.jpg",
@@ -668,7 +670,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot SX20 IS"
-          ]
+          ],
+          "mediumPath": "_m/d/1/s/8/osa-peninsula-wp/bahia-drake-medium.webp",
+          "smallPath": "_m/d/1/s/8/osa-peninsula-wp/bahia-drake-small.webp"
         },
         {
           "path": "_m/d/1/s/8/osa-peninsula-wp/iglesiarivaspz.jpg",
@@ -692,7 +696,9 @@
             "Saint Mary churches in Costa Rica",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/d/1/s/8/osa-peninsula-wp/iglesiarivaspz-medium.webp",
+          "smallPath": "_m/d/1/s/8/osa-peninsula-wp/iglesiarivaspz-small.webp"
         },
         {
           "path": "_m/d/1/s/8/osa-peninsula-wp/lead-photo-for-dominical0-8794.jpg",
@@ -707,7 +713,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lead_Photo_For_Dominical0-8794135402422398.jpg",
           "sourceType": "poi",
           "sourceArticleId": "osa-peninsula-wp",
-          "sourceGeohash4": "d1s8"
+          "sourceGeohash4": "d1s8",
+          "mediumPath": "_m/d/1/s/8/osa-peninsula-wp/lead-photo-for-dominical0-8794-medium.webp",
+          "smallPath": "_m/d/1/s/8/osa-peninsula-wp/lead-photo-for-dominical0-8794-small.webp"
         },
         {
           "path": "_m/d/1/s/8/osa-peninsula-wp/rainforest-near-golfito-costa-.jpg",
@@ -722,7 +730,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rainforest_near_Golfito,_Costa_Rica.jpg",
           "sourceType": "poi",
           "sourceArticleId": "osa-peninsula-wp",
-          "sourceGeohash4": "d1s8"
+          "sourceGeohash4": "d1s8",
+          "smallPath": "_m/d/1/s/8/osa-peninsula-wp/rainforest-near-golfito-costa--small.webp"
         },
         {
           "path": "_m/d/1/s/8/osa-peninsula-wp/paso-canoas-panama.jpg",
@@ -737,7 +746,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paso_Canoas_Panama.JPG",
           "sourceType": "poi",
           "sourceArticleId": "osa-peninsula-wp",
-          "sourceGeohash4": "d1s8"
+          "sourceGeohash4": "d1s8",
+          "mediumPath": "_m/d/1/s/8/osa-peninsula-wp/paso-canoas-panama-medium.webp",
+          "smallPath": "_m/d/1/s/8/osa-peninsula-wp/paso-canoas-panama-small.webp"
         },
         {
           "path": "_m/d/1/s/8/osa-peninsula-wp/farm-6-archaeological-site-cos.jpg",
@@ -752,7 +763,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Farm_6_archaeological_site,_Costa_Rica.jpg",
           "sourceType": "poi",
           "sourceArticleId": "osa-peninsula-wp",
-          "sourceGeohash4": "d1s8"
+          "sourceGeohash4": "d1s8",
+          "smallPath": "_m/d/1/s/8/osa-peninsula-wp/farm-6-archaeological-site-cos-small.webp"
         },
         {
           "path": "_m/d/1/s/8/osa-peninsula-wp/south-costa-rica-wikivoyage-ba.jpg",
@@ -767,7 +779,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:South_Costa_Rica_Wikivoyage_banner.jpg",
           "sourceType": "poi",
           "sourceArticleId": "osa-peninsula-wp",
-          "sourceGeohash4": "d1s8"
+          "sourceGeohash4": "d1s8",
+          "mediumPath": "_m/d/1/s/8/osa-peninsula-wp/south-costa-rica-wikivoyage-ba-medium.webp",
+          "smallPath": "_m/d/1/s/8/osa-peninsula-wp/south-costa-rica-wikivoyage-ba-small.webp"
         },
         {
           "path": "_m/d/1/s/7/birdwatching-in-costa-rica-wk/cahuita-national-park.jpg",
@@ -792,7 +806,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FX33"
-          ]
+          ],
+          "smallPath": "_m/d/1/s/7/birdwatching-in-costa-rica-wk/cahuita-national-park-small.webp"
         },
         {
           "path": "_m/tpc/co/st/a-/ri/costa-rica/cocosislandcostarica.jpg",
@@ -815,7 +830,8 @@
             "Files from Wikivoyage wts",
             "Isla del Coco",
             "PD US Air Force"
-          ]
+          ],
+          "smallPath": "_m/tpc/co/st/a-/ri/costa-rica/cocosislandcostarica-small.webp"
         },
         {
           "path": "_m/tpc/co/st/a-/ri/costa-rica/camino-a-la-piedra-del-guaco.jpg",
@@ -837,7 +853,9 @@
             "Cerro de la Muerte",
             "Costa Rica photographs taken on 2013-10-22",
             "Files with coordinates missing SDC location of creation"
-          ]
+          ],
+          "mediumPath": "_m/tpc/co/st/a-/ri/costa-rica/camino-a-la-piedra-del-guaco-medium.webp",
+          "smallPath": "_m/tpc/co/st/a-/ri/costa-rica/camino-a-la-piedra-del-guaco-small.webp"
         },
         {
           "path": "_m/tpc/co/st/a-/ri/costa-rica/cori-naturschutz-dsc04073.jpg",
@@ -852,7 +870,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CoRi_Naturschutz_DSC04073.JPG",
           "sourceType": "poi",
           "sourceArticleId": "costa-rica",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/co/st/a-/ri/costa-rica/cori-naturschutz-dsc04073-medium.webp",
+          "smallPath": "_m/tpc/co/st/a-/ri/costa-rica/cori-naturschutz-dsc04073-small.webp"
         },
         {
           "path": "_m/tpc/co/st/a-/ri/costa-rica/casado-de-rice-and-beans.png",
@@ -867,7 +887,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casado_de_rice_and_beans.png",
           "sourceType": "poi",
           "sourceArticleId": "costa-rica",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/co/st/a-/ri/costa-rica/casado-de-rice-and-beans-small.webp"
         },
         {
           "path": "_m/tpc/co/st/a-/ri/costa-rica/basilica-virgen-de-los-angeles.jpg",
@@ -882,7 +903,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_Virgen_de_los_Angeles_CRI_07_2018_0316.jpg",
           "sourceType": "poi",
           "sourceArticleId": "costa-rica",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/co/st/a-/ri/costa-rica/basilica-virgen-de-los-angeles-medium.webp",
+          "smallPath": "_m/tpc/co/st/a-/ri/costa-rica/basilica-virgen-de-los-angeles-small.webp"
         },
         {
           "path": "_m/tpc/co/st/a-/ri/costa-rica/cityscape-of-san-jose-costa-ri.jpg",
@@ -897,7 +920,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cityscape_of_San_Jos%C3%A9,_Costa_Rica_(253552473).jpg",
           "sourceType": "poi",
           "sourceArticleId": "costa-rica",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/co/st/a-/ri/costa-rica/cityscape-of-san-jose-costa-ri-medium.webp",
+          "smallPath": "_m/tpc/co/st/a-/ri/costa-rica/cityscape-of-san-jose-costa-ri-small.webp"
         },
         {
           "path": "_m/tpc/co/st/a-/ri/costa-rica/arenal-volcano-70785p-cropped.jpg",
@@ -912,7 +937,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arenal_volcano_(70785p)_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "costa-rica",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/co/st/a-/ri/costa-rica/arenal-volcano-70785p-cropped-medium.webp",
+          "smallPath": "_m/tpc/co/st/a-/ri/costa-rica/arenal-volcano-70785p-cropped-small.webp"
         }
       ],
       "videos": [

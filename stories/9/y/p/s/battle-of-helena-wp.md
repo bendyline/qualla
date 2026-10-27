@@ -28,7 +28,7 @@ The butcher's bill told the story of a botched attack. Holmes lost 1,636 men: 17
 
 ## Flight Context
 
-Located at 34.526°N, 90.597°W on the Mississippi River in Phillips County, Arkansas. Helena sits on Crowley's Ridge, a narrow geological formation that rises above the flat Delta plain -- the ridge provided the elevated battery positions that shaped the battle. The Mississippi River forms the eastern boundary of the town. Helena-West Helena Municipal Airport (KHEE) is nearby. Memphis International (KMEM) is approximately 65 nm north. The battlefield batteries on Crowley's Ridge are visible as elevated wooded knobs above the surrounding lowland. Best viewed at 3,000-5,000 feet AGL.
+Located at 34.526°N, 90.597°W on the Mississippi River in Phillips County, Arkansas. Helena sits on Crowley's Ridge, a narrow geological formation that rises above the flat Delta plain -- the ridge provided the elevated battery positions that shaped the battle. The Mississippi River forms the eastern boundary of the town. Helena-West Helena Municipal Airport (KHEE) is nearby. Frederick W. Smith International Airport (KMEM, formerly Memphis International) is approximately 65 nm north. The battlefield batteries on Crowley's Ridge are visible as elevated wooded knobs above the surrounding lowland. Best viewed at 3,000-5,000 feet AGL.
 
 ## Sources
 

@@ -3,33 +3,34 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/p/u/downing-street-mortar-attack-wp/hero.jpg",
-        "filename": "Downing Street.001 - London.JPG",
-        "caption": "Street sign of Downing Street in City of Westminster, London.",
-        "alt": "Street sign of Downing Street in City of Westminster, London.",
-        "width": 3264,
-        "height": 2448,
+        "path": "_m/g/c/p/u/downing-street-mortar-attack-wp/downing-street-london.jpg",
+        "filename": "Downing Street, London 01.JPG",
+        "caption": "Downing Street, London",
+        "alt": "Downing Street, London",
+        "width": 4000,
+        "height": 3000,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Fernando Losada Rodríguez",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Downing_Street.001_-_London.JPG",
+        "artist": "Philafrenzy",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Downing_Street,_London_01.JPG",
         "sourceType": "core",
         "sourceArticleId": "downing-street-mortar-attack-wp",
         "sourceGeohash4": "gcpu",
         "categories": [
+          "2015 in the City of Westminster",
           "CC-BY-SA-4.0",
-          "December 2011 in London",
-          "Downing Street sign",
-          "Images by Drow male",
-          "Images of street signs by User:Drow male",
-          "Images of the United Kingdom by User:Drow male",
-          "Self-published work",
-          "Taken with Sony DSC-H10"
-        ]
+          "Downing Street gates",
+          "London photographs taken on 2015-09-20",
+          "Photographs by Philafrenzy",
+          "Photographs of London by Philafrenzy",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/g/c/p/u/downing-street-mortar-attack-wp/downing-street-london-medium.webp",
+        "smallPath": "_m/g/c/p/u/downing-street-mortar-attack-wp/downing-street-london-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/p/u/downing-street-mortar-attack-wp/hero.jpg",
+          "path": "_m/9/t/s/p/las-cruces-bowling-alley-massacre-wp/hero.jpg",
           "filename": "EC1835 C cut.jpg",
           "caption": "Robotron Personalcomputer EC 1835 Prototype (1990), recorded in \"Industriemuseum Chemnitz\", Germany",
           "alt": "Robotron Personalcomputer EC 1835 Prototype (1990), recorded in \"Industriemuseum Chemnitz\", Germany",
@@ -49,7 +50,8 @@
             "Robotron EC 1835",
             "Self-published work",
             "Taken with Canon EOS 450D"
-          ]
+          ],
+          "smallPath": "_m/9/t/s/p/las-cruces-bowling-alley-massacre-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/p/u/downing-street-mortar-attack-wp/london-westminster-sta.jpg",
@@ -132,7 +134,7 @@
           "smallPath": "_m/g/c/p/u/downing-street-mortar-attack-wp/downing-street-london-small.webp"
         },
         {
-          "path": "_m/g/c/p/u/downing-street-mortar-attack-wp/downing-street.jpg",
+          "path": "_m/g/c/p/u/10-downing-street-wp/downing-street.jpg",
           "filename": "Downing Street (18423529009).jpg",
           "caption": "Downing Street",
           "alt": "Downing Street",
@@ -154,7 +156,9 @@
             "Flickr images reviewed by FlickreviewR 2",
             "May 2015 in London",
             "United Kingdom photographs taken on 2015-05-03"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/10-downing-street-wp/downing-street-medium.webp",
+          "smallPath": "_m/g/c/p/u/10-downing-street-wp/downing-street-small.webp"
         },
         {
           "path": "_m/tpc/mu/se/um/__/museum/irish-republican-history-museu.jpg",
@@ -176,7 +180,9 @@
             "Irish Republican History Museum",
             "November 2021 in Belfast",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/mu/se/um/__/museum/irish-republican-history-museu-medium.webp",
+          "smallPath": "_m/tpc/mu/se/um/__/museum/irish-republican-history-museu-small.webp"
         },
         {
           "path": "_m/g/c/e/y/belfast-wk/museum-of-orange-heritage-2.jpg",
@@ -198,7 +204,9 @@
             "Museum of Orange Heritage",
             "November 2021 in Belfast",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/e/y/belfast-wk/museum-of-orange-heritage-2-medium.webp",
+          "smallPath": "_m/g/c/e/y/belfast-wk/museum-of-orange-heritage-2-small.webp"
         },
         {
           "path": "_m/tpc/th/e-/tr/ou/the-troubles/peace-bridge-derry-wikivoyage-.jpg",
@@ -223,7 +231,9 @@
             "Peace Bridge (Foyle)",
             "Photos by Simon Burchell",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/th/e-/tr/ou/the-troubles/peace-bridge-derry-wikivoyage--medium.webp",
+          "smallPath": "_m/tpc/th/e-/tr/ou/the-troubles/peace-bridge-derry-wikivoyage--small.webp"
         }
       ],
       "narration": [

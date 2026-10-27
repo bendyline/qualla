@@ -33,7 +33,7 @@ Located at 8.75S, 64.64W in the Purus-Madeira interfluvial zone of western Amazo
 ## Sources
 
 - [Mapinguari National Park - Wikipedia](https://en.wikipedia.org/?curid=50708443)
-- [Mapinguari National Park - Wikipedia](https://en.wikipedia.org/wiki/Mapinguari_National_Park)
+- [Mapinguari National Park - Wikipedia](https://en.wikipedia.org/?curid=50708443)
   - Created by presidential decree June 5, 2008 confirmed
   - Original area 1,572,422 hectares confirmed
   - Law 12249 (2010) added ~180,900 hectares confirmed

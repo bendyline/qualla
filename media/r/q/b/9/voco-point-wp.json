@@ -3,29 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/q/b/9/voco-point-wp/hero.jpg",
-        "filename": "Vocopointpanorama2.jpg",
-        "caption": "Panoramic photo of Voco Point  Lae facing East.",
-        "alt": "Panoramic photo of Voco Point  Lae facing East.",
-        "width": 3841,
-        "height": 1000,
-        "mimeType": "image/jpeg",
+        "path": "_m/r/q/b/9/voco-point-wp/map-template-papua_new.png",
+        "filename": "1200px Lae suburban map of Papua New Guinea.png",
+        "caption": "Map for template Papua_New_Guinea_Lae_urban",
+        "alt": "Map for template Papua_New_Guinea_Lae_urban",
+        "width": 1200,
+        "height": 1110,
+        "mimeType": "image/png",
         "license": "CC BY-SA 3.0",
         "artist": "Phenss",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vocopointpanorama2.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:1200px_Lae_suburban_map_of_Papua_New_Guinea.png",
         "sourceType": "core",
         "sourceArticleId": "voco-point-wp",
         "sourceGeohash4": "rqb9",
         "categories": [
           "CC-BY-SA-3.0",
-          "Files with coordinates missing SDC location of creation",
-          "Morobe Province",
+          "Lae",
+          "Maps of Papua New Guinea",
           "Self-published work"
-        ]
+        ],
+        "smallPath": "_m/r/q/b/9/voco-point-wp/map-template-papua_new-small.webp"
       },
       "images": [
         {
-          "path": "_m/r/q/b/9/voco-point-wp/vocopointpanorama.jpg",
+          "path": "_m/r/q/b/3/morobe-province-wp/vocopointpanorama.jpg",
           "filename": "Vocopointpanorama.jpg",
           "caption": "Panoramic photo of Voco Point  Lae facing West. Yacht club and Lutheran Shipping in center of photo. Mount Lunaman to the right.",
           "alt": "Panoramic photo of Voco Point  Lae facing West. Yacht club and Lutheran Shipping in center of photo. Mount Lunaman to the right.",
@@ -43,10 +44,12 @@
             "Files with coordinates missing SDC location of creation",
             "Morobe Province",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/r/q/b/3/morobe-province-wp/vocopointpanorama-medium.webp",
+          "smallPath": "_m/r/q/b/3/morobe-province-wp/vocopointpanorama-small.webp"
         },
         {
-          "path": "_m/r/q/b/9/voco-point-wp/vocopointpanorama1.jpg",
+          "path": "_m/r/q/b/3/morobe-province-wp/vocopointpanorama1.jpg",
           "filename": "Vocopointpanorama1.jpg",
           "caption": "Panoramic photo of Voco Point  Lae facing North. Yacht club, Mount Lunaman and Lutheran Shipping in center of photo.",
           "alt": "Panoramic photo of Voco Point  Lae facing North. Yacht club, Mount Lunaman and Lutheran Shipping in center of photo.",
@@ -64,7 +67,9 @@
             "Files with coordinates missing SDC location of creation",
             "Morobe Province",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/r/q/b/3/morobe-province-wp/vocopointpanorama1-medium.webp",
+          "smallPath": "_m/r/q/b/3/morobe-province-wp/vocopointpanorama1-small.webp"
         },
         {
           "path": "_m/r/q/b/9/voco-point-wp/map-template-papua_new.png",
@@ -89,7 +94,7 @@
           "smallPath": "_m/r/q/b/9/voco-point-wp/map-template-papua_new-small.webp"
         },
         {
-          "path": "_m/r/q/b/9/voco-point-wp/lae-yacht-club.jpg",
+          "path": "_m/r/q/b/9/lae-wp/lae-yacht-club.jpg",
           "filename": "Lae Yacht Club.jpg",
           "caption": "Photo of Lae Yacht club. Taken 7 Jan 2014. Taken with an HTC phone camera.",
           "alt": "Photo of Lae Yacht club. Taken 7 Jan 2014. Taken with an HTC phone camera.",
@@ -109,7 +114,9 @@
             "Lae",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/r/q/b/9/lae-wp/lae-yacht-club-medium.webp",
+          "smallPath": "_m/r/q/b/9/lae-wp/lae-yacht-club-small.webp"
         },
         {
           "path": "_m/r/q/b/9/lae-wk/hero.jpg",
@@ -131,7 +138,9 @@
             "Lae",
             "Media needing category review as of 27 February 2014",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/r/q/b/9/lae-wk/hero-medium.webp",
+          "smallPath": "_m/r/q/b/9/lae-wk/hero-small.webp"
         }
       ],
       "narration": [

@@ -37,7 +37,7 @@ Located at 6.73S, 108.57E in Cirebon, on the northern coast of Java. The palace 
 ## Sources
 
 - [Kraton Kasepuhan - Wikipedia](https://en.wikipedia.org/?curid=29431621)
-- [Kraton Kasepuhan - Wikipedia](https://en.wikipedia.org/wiki/Kraton_Kasepuhan)
+- [Kraton Kasepuhan - Wikipedia](https://en.wikipedia.org/?curid=29431621)
   - Built in 1447 confirmed - oldest kraton in Cirebon
   - Architecture blends Sundanese, Javanese, Islamic, Chinese, and Dutch styles confirmed
   - Sultan of Kasepuhan still resides in palace confirmed

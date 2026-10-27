@@ -3,16 +3,16 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/q/v/1/kraton-kasepuhan-wp/hero.jpg",
-        "filename": "Building in Keraton Kasepuhan.jpg",
-        "caption": "Building inside Kraton of Kasepuhan complex, Cirebon, Indonesia",
-        "alt": "Building inside Kraton of Kasepuhan complex, Cirebon, Indonesia",
+        "path": "_m/q/q/v/1/kraton-kasepuhan-wp/garden-keraton-kasepuh.jpg",
+        "filename": "Symbol Keraton Kasepuhan.jpg",
+        "caption": "Garden at Keraton Kasepuhan, Cirebon, Indonesia",
+        "alt": "Garden at Keraton Kasepuhan, Cirebon, Indonesia",
         "width": 2848,
         "height": 2136,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
         "artist": "Midori",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Building_in_Keraton_Kasepuhan.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Symbol_Keraton_Kasepuhan.jpg",
         "sourceType": "core",
         "sourceArticleId": "kraton-kasepuhan-wp",
         "sourceGeohash4": "qqv1",
@@ -22,10 +22,11 @@
           "GFDL",
           "Kasepuhan Palace",
           "License migration completed",
-          "Pendopo",
           "Self-published work",
           "Taken with Fujifilm FinePix F11"
-        ]
+        ],
+        "mediumPath": "_m/q/q/v/1/kraton-kasepuhan-wp/garden-keraton-kasepuh-medium.webp",
+        "smallPath": "_m/q/q/v/1/kraton-kasepuhan-wp/garden-keraton-kasepuh-small.webp"
       },
       "images": [
         {
@@ -484,7 +485,8 @@
             "Cuisine of Cirebon",
             "Flickr images reviewed by FlickreviewR",
             "Rice dishes of Indonesia"
-          ]
+          ],
+          "smallPath": "_m/q/q/v/1/cirebon-wp/nasi-jamblang-small.webp"
         },
         {
           "path": "_m/q/q/v/1/cirebon-wp/banner-cirebon.jpg",
@@ -507,7 +509,9 @@
             "Extracted images",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/q/q/v/1/cirebon-wp/banner-cirebon-medium.webp",
+          "smallPath": "_m/q/q/v/1/cirebon-wp/banner-cirebon-small.webp"
         },
         {
           "path": "_m/q/q/v/1/cirebon-wp/animal-statue-at-keraton-kasep.jpg",
@@ -528,7 +532,8 @@
             "Files with coordinates missing SDC location of creation",
             "Kasepuhan Palace",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/q/q/v/1/cirebon-wp/animal-statue-at-keraton-kasep-small.webp"
         },
         {
           "path": "_m/q/q/v/1/cirebon-wp/arya-pantai-kejawanan-cirebon-.jpg",
@@ -552,7 +557,9 @@
             "Files with coordinates missing SDC location of creation",
             "Polar coordinates panoramic photographs",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/q/q/v/1/cirebon-wp/arya-pantai-kejawanan-cirebon--medium.webp",
+          "smallPath": "_m/q/q/v/1/cirebon-wp/arya-pantai-kejawanan-cirebon--small.webp"
         }
       ],
       "narration": [

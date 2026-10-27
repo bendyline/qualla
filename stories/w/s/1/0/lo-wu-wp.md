@@ -32,14 +32,14 @@ Lo Wu sits at approximately 22.53°N, 114.12°E at the junction of the Sheung Yu
 
 ## Sources
 
-- [Lo Wu Control Point - Wikipedia](https://en.wikipedia.org/wiki/Lo_Wu_Control_Point)
+- [Lo Wu Control Point - Wikipedia](https://en.wikipedia.org/?curid=22588570)
   - Lo Wu handles 85% of overland passenger departures from HK to mainland — confirmed
   - All four land control points (Lo Wu, Lok Ma Chau, Man Kam To, Sha Tau Kok) handle 90% of overland departures — confirmed
   - Operating hours 6:30am to midnight confirmed
   - Frontier Closed Area established 1952 confirmed
   - River straightening: 3.2km stretch near Lok Ma Chau and Liu Pok confirmed
   - Lo Wu station opened 14 October 1949 confirmed
-- [Lo Wu - Wikipedia](https://en.wikipedia.org/wiki/Lo_Wu)
+- [Lo Wu - Wikipedia](https://en.wikipedia.org/?curid=474749)
   - Two Chinese name forms (羅湖 'net lake' and 螺湖 'shell lake') confirmed
   - Lo Wu Saddle Club operating after British forces withdrawal 1994 confirmed
 

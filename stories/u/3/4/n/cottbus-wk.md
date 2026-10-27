@@ -36,7 +36,7 @@ Cottbus lies at 51.76 N, 14.33 E on the Spree in southern Brandenburg, roughly 1
 
 ## Sources
 
-- [Cottbus](https://en.wikivoyage.org/wiki/Cottbus)
+- [Cottbus](https://en.wikivoyage.org/?curid=8372)
   - Second-largest city in Brandenburg; Sorbian name Chóśebuz
   - Cottbus-Nord surface mine being flooded; resulting lake to be Germany's largest artificial lake by surface area
   - Historic specialties: cloth, grain and beer, Baumkuchen

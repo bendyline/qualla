@@ -3,37 +3,20 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/q/x/u/morea-wp/hero.jpg",
-        "filename": "ShepherdByzempire1265.jpg",
-        "caption": "Map, The Byzantine Empire, 1265.",
-        "alt": "Map, The Byzantine Empire, 1265.",
-        "width": 1144,
-        "height": 900,
-        "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "William Robert Shepherd",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ShepherdByzempire1265.jpg",
-        "sourceType": "core",
+        "path": "_m/s/q/x/u/morea-wp/map-of-damala-morea.png",
+        "filename": "Map of Damala, Morea.png",
+        "caption": "French 17th century map of Damala in the Morea.",
+        "alt": "French 17th century map of Damala in the Morea.",
+        "width": 1440,
+        "height": 2159,
+        "mimeType": "image/png",
+        "license": "CC BY-SA 4.0",
+        "artist": "Xiotiscxii",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Map_of_Damala,_Morea.png",
+        "sourceType": "commons-category",
         "sourceArticleId": "morea-wp",
         "sourceGeohash4": "sqxu",
-        "categories": [
-          "Banate of Severin",
-          "CC-PD-Mark",
-          "Files with derivative versions",
-          "JPG images that should use vector graphics",
-          "Maps of Bulgaria in the 13th century",
-          "Maps of Cilicia in the 13th century",
-          "Maps of Serbia in the 13th century",
-          "Maps of the Byzantine Empire in the 13th century",
-          "Maps of the Kingdom of Serbia (medieval)",
-          "Maps of the history of Romania in the Middle Ages",
-          "Maps showing 1265",
-          "Maps showing history by William R. Shepherd",
-          "Old map images that should use vector graphics",
-          "PD Old",
-          "PD US",
-          "Romania in the 13th century"
-        ]
+        "smallPath": "_m/s/q/x/u/morea-wp/map-of-damala-morea-small.webp"
       },
       "images": [
         {
@@ -144,7 +127,7 @@
           "smallPath": "_m/s/q/x/u/morea-wp/county-of-salona-small.webp"
         },
         {
-          "path": "_m/s/q/x/u/morea-wp/castle-of-arkadia-kyparissia.jpg",
+          "path": "_m/s/q/x/7/kyparissia-wp/castle-of-arkadia-kyparissia.jpg",
           "filename": "Castle of Arkadia (Kyparissia).jpg",
           "caption": "castle of \"Arkadia\" (Kyparissia) in Peloponnese",
           "alt": "castle of \"Arkadia\" (Kyparissia) in Peloponnese",
@@ -156,7 +139,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle_of_Arkadia_(Kyparissia).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "kyparissia-wp",
-          "sourceGeohash4": "sqxu"
+          "sourceGeohash4": "sqxu",
+          "smallPath": "_m/s/q/x/7/kyparissia-wp/castle-of-arkadia-kyparissia-small.webp"
         },
         {
           "path": "_m/s/q/x/u/morea-wp/shepherdbyzempire1265-ar.jpg",
@@ -247,7 +231,9 @@
             "Self-published work",
             "September 2005 Greece photographs",
             "Views of Koroni"
-          ]
+          ],
+          "mediumPath": "_m/s/q/x/u/peloponnese-wp/koroni-medium.webp",
+          "smallPath": "_m/s/q/x/u/peloponnese-wp/koroni-small.webp"
         },
         {
           "path": "_m/s/q/x/u/peloponnese-wp/bassai-temple-of-apollo-detail.jpg",
@@ -269,7 +255,8 @@
             "PD-self",
             "Self-published work",
             "Temple of Apollo Epicurius at Bassae"
-          ]
+          ],
+          "smallPath": "_m/s/q/x/u/peloponnese-wp/bassai-temple-of-apollo-detail-small.webp"
         },
         {
           "path": "_m/s/q/x/u/peloponnese-wp/mystras.jpg",
@@ -292,7 +279,8 @@
             "Images without source",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/q/x/u/peloponnese-wp/mystras-small.webp"
         },
         {
           "path": "_m/s/q/x/u/peloponnese-wp/modernsparta.jpg",
@@ -322,7 +310,9 @@
             "Taken with Canon Digital IXUS",
             "Town halls in Sparti",
             "Waste containers in Sparti"
-          ]
+          ],
+          "mediumPath": "_m/s/q/x/u/peloponnese-wp/modernsparta-medium.webp",
+          "smallPath": "_m/s/q/x/u/peloponnese-wp/modernsparta-small.webp"
         },
         {
           "path": "_m/s/q/x/u/peloponnese-wp/2007-greece-corinthian-gulf-co.jpg",
@@ -337,7 +327,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2007_Greece_Corinthian_Gulf_%26_Corinth.jpg",
           "sourceType": "poi",
           "sourceArticleId": "peloponnese-wp",
-          "sourceGeohash4": "sqxu"
+          "sourceGeohash4": "sqxu",
+          "mediumPath": "_m/s/q/x/u/peloponnese-wp/2007-greece-corinthian-gulf-co-medium.webp",
+          "smallPath": "_m/s/q/x/u/peloponnese-wp/2007-greece-corinthian-gulf-co-small.webp"
         },
         {
           "path": "_m/s/q/x/f/sparta-wp/the-entrance-to-the-archaeolog.jpg",
@@ -359,7 +351,9 @@
             "Greece photographs taken on 2019-05-15",
             "Self-published work",
             "Statues in the Archaeological Museum of Sparti"
-          ]
+          ],
+          "mediumPath": "_m/s/q/x/f/sparta-wp/the-entrance-to-the-archaeolog-medium.webp",
+          "smallPath": "_m/s/q/x/f/sparta-wp/the-entrance-to-the-archaeolog-small.webp"
         }
       ],
       "narration": [

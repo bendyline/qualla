@@ -37,7 +37,7 @@ Located at 34.807N, 135.346E in Takarazuka, Hyogo Prefecture, in the urban corri
 ## Sources
 
 - [Takarazuka Revue - Wikipedia](https://en.wikipedia.org/?curid=637346)
-- [Wikipedia - Takarazuka Revue](https://en.wikipedia.org/wiki/Takarazuka_Revue)
+- [Wikipedia - Takarazuka Revue](https://en.wikipedia.org/?curid=637346)
   - Founded 1913 by Ichizo Kobayashi confirmed
   - First performance 1914 in converted swimming pool confirmed
   - Five troupes: Flower/Moon 1921, Snow 1924, Star 1931, Cosmos 1998 confirmed

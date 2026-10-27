@@ -28,7 +28,7 @@ Today, Stuart's concrete dome still stands on Parker Road in Montrose, though th
 
 ## Flight Context
 
-Tolstoy Park sits at 30.556N, 87.894W in the small community of Montrose, on the eastern shore of Mobile Bay near Fairhope, Alabama. The site is not easily identifiable from the air -- it is a single small concrete dome surrounded by development along Parker Road. The eastern shore of Mobile Bay itself is the primary visual landmark. Nearest airports are Mobile Regional Airport (KMOB) about 20 miles to the west across the bay, and Jack Edwards National Airport (KJKA) in Gulf Shores to the south. At low altitude (1,500-2,000 feet AGL), the Fairhope waterfront and Montrose community are visible along the bay's eastern shore.
+Tolstoy Park sits at 30.556N, 87.894W in the small community of Montrose, on the eastern shore of Mobile Bay near Fairhope, Alabama. The site is not easily identifiable from the air -- it is a single small concrete dome surrounded by development along Parker Road. The eastern shore of Mobile Bay itself is the primary visual landmark. Nearest airports are Mobile Regional Airport (KMOB) about 20 miles to the west across the bay, and Gulf Shores International Airport (KJKA, formerly Jack Edwards National) in Gulf Shores to the south. At low altitude (1,500-2,000 feet AGL), the Fairhope waterfront and Montrose community are visible along the bay's eastern shore.
 
 ## Sources
 

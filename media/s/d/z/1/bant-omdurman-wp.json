@@ -3,31 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/d/z/1/bant-omdurman-wp/hero.jpg",
-        "filename": "Khartoum Nasa 30aug2001.jpg",
-        "caption": "The cities Omdurman (left), Bahri (top right) and Khartoum (bottom right) divided through the Nile river.",
-        "alt": "The cities Omdurman (left), Bahri (top right) and Khartoum (bottom right) divided through the Nile river.",
-        "width": 2067,
-        "height": 2023,
+        "path": "_m/s/d/z/1/bant-omdurman-wp/almohandseen-street-om.jpg",
+        "filename": "Almorda Street.JPG",
+        "caption": "Almohandseen Street – Omdurman - Sudan",
+        "alt": "Almohandseen Street – Omdurman - Sudan",
+        "width": 3774,
+        "height": 1917,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "NASA/GSFC/MITI/ERSDAC/JAROS, and U.S./Japan ASTER Science Team",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khartoum_Nasa_30aug2001.jpg",
+        "license": "CC BY-SA 3.0",
+        "artist": "Asim",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Almorda_Street.JPG",
         "sourceType": "core",
         "sourceArticleId": "bant-omdurman-wp",
         "sourceGeohash4": "sdz1",
         "categories": [
-          "Khartoum Bahri",
-          "Khartoum in the 2000s",
-          "Nile in Khartoum",
-          "Omdurman",
-          "PD NASA",
-          "Satellite pictures of Khartoum"
-        ]
+          "CC-BY-SA-3.0",
+          "Self-published work",
+          "Transport in Omdurman"
+        ],
+        "mediumPath": "_m/s/d/z/1/bant-omdurman-wp/almohandseen-street-om-medium.webp",
+        "smallPath": "_m/s/d/z/1/bant-omdurman-wp/almohandseen-street-om-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/d/z/1/bant-omdurman-wp/mahdi-s-tomb-omdurman.jpg",
+          "path": "_m/s/d/z/1/almorada-wp/mahdi-s-tomb-omdurman.jpg",
           "filename": "Omdurmanmosque.jpg",
           "caption": "Mahdi's Tomb - Omdurman, Sudan",
           "alt": "Mahdi's Tomb - Omdurman, Sudan",
@@ -45,10 +44,12 @@
             "Items with VRTS permission confirmed",
             "Photographs by Grete Howard",
             "Tomb of the Mahdi"
-          ]
+          ],
+          "mediumPath": "_m/s/d/z/1/almorada-wp/mahdi-s-tomb-omdurman-medium.webp",
+          "smallPath": "_m/s/d/z/1/almorada-wp/mahdi-s-tomb-omdurman-small.webp"
         },
         {
-          "path": "_m/s/d/z/1/bant-omdurman-wp/gallery-2.png",
+          "path": "_m/s/d/z/1/almorada-wp/gallery-2.png",
           "filename": "أم درمان.PNG",
           "caption": "صورة جوية لمدينة أم درمان السودانية",
           "alt": "صورة جوية لمدينة أم درمان السودانية",
@@ -64,7 +65,8 @@
           "categories": [
             "Omdurman",
             "PD NASA"
-          ]
+          ],
+          "smallPath": "_m/s/d/z/1/almorada-wp/gallery-2-small.webp"
         },
         {
           "path": "_m/s/d/z/1/bant-omdurman-wp/almohandseen-street-om.jpg",

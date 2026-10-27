@@ -35,7 +35,7 @@
       },
       "images": [
         {
-          "path": "_m/f/0/p/c/bigwin-island-wp/location-map-southern.png",
+          "path": "_m/d/p/t/k/oil-springs-first-well-wk/location-map-southern.png",
           "filename": "Canada Southern Ontario location map 2.png",
           "caption": "Location map of Southern Ontario, Canada.\nEquirectangular projection, N/S stretching 155%. Geographic limits of the map:\n\nN: 46.4° N\nS: 41.4° N\nW: 84.7° W\nE: 74.0° W",
           "alt": "Location map of Southern Ontario, Canada.\nEquirectangular projection, N/S stretching 155%. Geographic limits of the map:\n\nN: 46.4° N\nS: 41.4° N\nW: 84.7° W\nE: 74.0° W",
@@ -54,7 +54,8 @@
             "Census divisions of Ontario",
             "Location maps of Ontario",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/d/p/t/k/oil-springs-first-well-wk/location-map-southern-small.webp"
         },
         {
           "path": "_m/f/0/p/c/bigwin-island-wp/bigwin-island-sunset.jpg",
@@ -105,7 +106,9 @@
             "November 2010 in Ontario",
             "Photos by P199",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/f/0/p/c/lake-of-bays-wk/baysville-on-medium.webp",
+          "smallPath": "_m/f/0/p/c/lake-of-bays-wk/baysville-on-small.webp"
         },
         {
           "path": "_m/f/0/p/9/huntsville-ontario-wk/arrowhead-lake.jpg",
@@ -130,7 +133,8 @@
             "Lakes of Ontario",
             "Photographs by John Vetterli",
             "Taken with Nikon D40"
-          ]
+          ],
+          "smallPath": "_m/f/0/p/9/huntsville-ontario-wk/arrowhead-lake-small.webp"
         },
         {
           "path": "_m/f/0/p/9/huntsville-ontario-wk/huntsville.jpg",
@@ -158,7 +162,9 @@
             "Sidewalks in Ontario",
             "Taken with Canon EOS 1000D",
             "Transport in Huntsville, Ontario"
-          ]
+          ],
+          "mediumPath": "_m/f/0/p/9/huntsville-ontario-wk/huntsville-medium.webp",
+          "smallPath": "_m/f/0/p/9/huntsville-ontario-wk/huntsville-small.webp"
         }
       ],
       "narration": [
@@ -170,10 +176,10 @@
         "_m/f/0/p/c/bigwin-island-wp/f0pc-bigwin-island-closing-time.mp3",
         "_m/f/0/p/c/bigwin-island-wp/f0pc-bigwin-island-a-second-life-on-the-fairway.mp3"
       ],
-      "combinedNarration": "_m/f/0/p/c/bigwin-island-wp/f0pc-undefined-combined.mp3",
+      "combinedNarration": "_m/f/0/p/c/bigwin-island-wp/f0pc-bigwin-island-wp-combined.mp3",
       "combinedNarrationBytes": 4335921,
       "combinedNarrationDuration": 348,
-      "combinedCover": "_m/f/0/p/c/bigwin-island-wp/f0pc-undefined-combined-cover.jpg"
+      "combinedCover": "_m/f/0/p/c/bigwin-island-wp/f0pc-bigwin-island-wp-combined-cover.jpg"
     }
   }
 }

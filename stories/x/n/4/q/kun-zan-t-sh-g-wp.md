@@ -32,12 +32,12 @@ Located at 34.96N, 138.47E on the steep slopes of Mount Kuno (216 meters), direc
 
 ## Sources
 
-- [Kunozan Toshogu - Wikipedia](https://en.wikipedia.org/wiki/Kun%C5%8Dzan_T%C5%8Dsh%C5%8D-g%C5%AB)
+- [Kunozan Toshogu - Wikipedia](https://en.wikipedia.org/?curid=21178210)
 - [Tokugawa Ieyasu's Clock - Wikipedia](https://en.wikipedia.org/wiki/Tokugawa_Ieyasu%27s_Clock)
   - Clock was a gift from Philip III of Spain (NOT Philip II - corrected in story from original error)
   - Delivered by Sebastian Vizcaino in 1611 confirmed
   - Clock preserved at Kunozan Toshogu after Ieyasu's death in 1616 confirmed
-- [Kunōzan Tōshō-gū - Wikipedia](https://en.wikipedia.org/wiki/Kun%C5%8Dzan_T%C5%8Dsh%C5%8D-g%C5%AB)
+- [Kunōzan Tōshō-gū - Wikipedia](https://en.wikipedia.org/?curid=21178210)
   - Ieyasu died June 1, 1616 at Sunpu Castle at age 73 confirmed
   - Honden and Heiden completed in 1617 in Azuchi-Momoyama style confirmed
   - Iemitsu relocated remains to Nikko but spiritual presence held to remain at Kunozan confirmed

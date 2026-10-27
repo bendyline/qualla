@@ -47,7 +47,7 @@ She was evacuated from Berlin in 1943. Months later the apartment was bombed and
 ## Sources
 
 - [Käthe Kollwitz - Wikipedia](https://en.wikipedia.org/?curid=422861)
-- [Käthe Kollwitz - Wikipedia (English)](https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz)
+- [Käthe Kollwitz - Wikipedia (English)](https://en.wikipedia.org/?curid=422861)
   - born fifth child of Karl and Katherina Schmidt in Königsberg, 1867 - confirmed
   - married Karl Kollwitz 1891; sons Hans (1892) and Peter (1896) - confirmed
   - Weavers cycle: six works, three lithographs (Poverty, Death, Conspiracy) and three etchings (March of the Weavers, Riot, The End) - confirmed

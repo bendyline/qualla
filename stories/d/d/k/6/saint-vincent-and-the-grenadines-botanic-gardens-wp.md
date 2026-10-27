@@ -37,7 +37,7 @@ Located at 13.17N, 61.23W in Kingstown, Saint Vincent. Nearest airport: Argyle I
 ## Sources
 
 - [Saint Vincent and the Grenadines Botanic Gardens - Wikipedia](https://en.wikipedia.org/?curid=9756940)
-- [Saint Vincent and the Grenadines Botanic Gardens - Wikipedia](https://en.wikipedia.org/wiki/Botanic_Gardens_St._Vincent)
+- [Saint Vincent and the Grenadines Botanic Gardens - Wikipedia](https://en.wikipedia.org/?curid=9756940)
 - [Botanic Gardens History 1765-1811 - Official Site](http://botanicalgarden.gov.vc/botanicalgarden/index.php/history/1765-1811)
   - Founded December 15, 1765 — oldest botanic garden in the Western Hemisphere
   - Established by General Robert Melville, financed privately

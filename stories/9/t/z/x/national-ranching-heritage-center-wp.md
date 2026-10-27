@@ -33,7 +33,7 @@ The National Ranching Heritage Center is located at 33.591N, 101.884W on the wes
 ## Sources
 
 - [National Ranching Heritage Center - Wikipedia](https://en.wikipedia.org/?curid=3760090)
-- [Wikipedia - National Ranching Heritage Center](https://en.wikipedia.org/wiki/National_Ranching_Heritage_Center)
+- [Wikipedia - National Ranching Heritage Center](https://en.wikipedia.org/?curid=3760090)
   - CORRECTION NEEDED: Article says '27 acres' but Wikipedia and other sources say '19 acres'
   - Museum on Texas Tech University campus confirmed
   - 44,000 sq ft museum with seven galleries confirmed

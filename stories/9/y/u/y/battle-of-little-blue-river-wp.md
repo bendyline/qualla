@@ -32,7 +32,7 @@ Casualties were significant but difficult to tally precisely. The 11th and 15th 
 
 ## Flight Context
 
-Located at 39.137°N, 94.314°W east of Independence, Missouri. The Little Blue River runs roughly north-south through the eastern suburbs of the Kansas City metropolitan area. The battlefield is now largely developed, but the river corridor and surrounding terrain are visible from altitude. Kansas City International (KMCI) is approximately 30 miles northwest. Lee's Summit Municipal Airport (KLXT) is roughly 10 miles south. Charles B. Wheeler Downtown Airport (KMKC) is about 15 miles west. The Little Blue River crossing and surrounding area can be observed from 3,000-5,000 feet, with the river's wooded corridor contrasting against suburban development.
+Located at 39.137°N, 94.314°W east of Independence, Missouri. The Little Blue River runs roughly north-south through the eastern suburbs of the Kansas City metropolitan area. The battlefield is now largely developed, but the river corridor and surrounding terrain are visible from altitude. Kansas City International (KMCI) is approximately 30 miles northwest. Kansas City - Lee's Summit Regional Airport (KLXT, formerly Lee's Summit Municipal) is roughly 10 miles south. Charles B. Wheeler Downtown Airport (KMKC) is about 15 miles west. The Little Blue River crossing and surrounding area can be observed from 3,000-5,000 feet, with the river's wooded corridor contrasting against suburban development.
 
 ## Sources
 

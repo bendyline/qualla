@@ -1,5 +1,26 @@
 {
   "articleId": "santiago-wk",
+  "narration": {
+    "files": [
+      "66jc-santiago-flight-context.mp3",
+      "66jc-santiago-intro.mp3",
+      "66jc-santiago-the-mountains.mp3",
+      "66jc-santiago-the-coup.mp3",
+      "66jc-santiago-the-barrios.mp3",
+      "66jc-santiago-the-wine-country.mp3",
+      "66jc-santiago-the-smog.mp3"
+    ],
+    "durations": {
+      "66jc-santiago-flight-context.mp3": 60.9960833,
+      "66jc-santiago-intro.mp3": 54.944625,
+      "66jc-santiago-the-mountains.mp3": 63.3967916,
+      "66jc-santiago-the-coup.mp3": 72.0230833,
+      "66jc-santiago-the-barrios.mp3": 62.1174166,
+      "66jc-santiago-the-wine-country.mp3": 64.9349583,
+      "66jc-santiago-the-smog.mp3": 66.8345833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
   "hero": {
     "filename": "Marcopolo Gran Viale bus in Santiago de Chile (413c).jpg",
     "title": "File:Marcopolo Gran Viale bus in Santiago de Chile (413c).jpg",
@@ -897,26 +918,5 @@
         "aerialBonus": 0
       }
     }
-  ],
-  "narration": {
-    "files": [
-      "66jc-santiago-flight-context.mp3",
-      "66jc-santiago-intro.mp3",
-      "66jc-santiago-the-mountains.mp3",
-      "66jc-santiago-the-coup.mp3",
-      "66jc-santiago-the-barrios.mp3",
-      "66jc-santiago-the-wine-country.mp3",
-      "66jc-santiago-the-smog.mp3"
-    ],
-    "durations": {
-      "66jc-santiago-flight-context.mp3": 60.9960833,
-      "66jc-santiago-intro.mp3": 54.944625,
-      "66jc-santiago-the-mountains.mp3": 63.3967916,
-      "66jc-santiago-the-coup.mp3": 72.0230833,
-      "66jc-santiago-the-barrios.mp3": 62.1174166,
-      "66jc-santiago-the-wine-country.mp3": 64.9349583,
-      "66jc-santiago-the-smog.mp3": 66.8345833
-    },
-    "voice": "en-US-Ava3:DragonHDLatestNeural"
-  }
+  ]
 }

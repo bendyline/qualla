@@ -36,7 +36,7 @@ KaDeWe stands at 52.502°N, 13.341°E on Tauentzienstraße in the old western ce
 
 ## Sources
 
-- [Kaufhaus des Westens - Wikipedia](https://en.wikipedia.org/wiki/Kaufhaus_des_Westens)
+- [Kaufhaus des Westens - Wikipedia](https://en.wikipedia.org/?curid=2461602)
 - [Persecuted, "Aryanized," Compensated? Study on the history of the Hertie department stores' group under National Socialism](https://www.ghst.de/en/hertie-history)
 - [Begrüßungsgeld](https://en.wikipedia.org/wiki/Begr%C3%BC%C3%9Fungsgeld)
 - [Kaufhaus des Westens - Wikipedia](https://en.wikipedia.org/?curid=2461602)

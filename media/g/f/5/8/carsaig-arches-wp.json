@@ -3,30 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/5/8/carsaig-arches-wp/hero.jpg",
-        "filename": "Carsaig Arches.JPG",
-        "caption": "Carsaig Arches on the Isle of Mull",
-        "alt": "Carsaig Arches on the Isle of Mull",
-        "width": 1600,
-        "height": 1200,
+        "path": "_m/g/f/5/8/carsaig-arches-wp/carsaig-arch-geograph-org-uk-4.jpg",
+        "filename": "Carsaig Arch - geograph.org.uk - 4010156.jpg",
+        "caption": "Carsaig Arch",
+        "alt": "Carsaig Arch",
+        "width": 1920,
+        "height": 1080,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Hopgrove james",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carsaig_Arches.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Andy Waddington",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carsaig_Arch_-_geograph.org.uk_-_4010156.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "carsaig-arches-wp",
         "sourceGeohash4": "gf58",
         "categories": [
+          "CC-BY-SA-2.0",
           "Carsaig Arches",
-          "Natural towers in Scotland",
-          "PD-self",
-          "Self-published work",
-          "Taken with Fujifilm FinePix F401"
-        ]
+          "Images from Geograph Britain and Ireland"
+        ],
+        "mediumPath": "_m/g/f/5/8/carsaig-arches-wp/carsaig-arch-geograph-org-uk-4-medium.webp",
+        "smallPath": "_m/g/f/5/8/carsaig-arches-wp/carsaig-arch-geograph-org-uk-4-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/5/8/carsaig-arches-wp/topographic-relief-map.png",
+          "path": "_m/g/f/5/3/staffa-wk/topographic-relief-map.png",
           "filename": "Mull topographic locator map.png",
           "caption": "A topographic relief map of the Isle of Mull\nEquirectangular map projection on WGS 84 datum, with N/S stretched 175% \ngeographic limits:\nWEST: 6.525W\nEAST: 5.625W\nNORTH: 56.78N\nSOUTH: 56.2N\n\nthis map is attempting to imitate the style of File:Isle_of_Skye_UK_relief_location_map.jpg by User:Nilfanion!",
           "alt": "A topographic relief map of the Isle of Mull\nEquirectangular map projection on WGS 84 datum, with N/S stretched 175% \ngeographic limits:\nWEST: 6.525W\nEAST: 5.625W\nNORTH: 56.78N\nSOUTH: 56.2N\n\nthis map is attempting to imitate the style of File:Isle_of_Skye_UK_relief_location_map.jpg by User:Nilfanion!",
@@ -45,7 +45,9 @@
             "Ordnance Survey Boundary Line maps",
             "Self-published work",
             "Topographic maps of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/3/staffa-wk/topographic-relief-map-medium.webp",
+          "smallPath": "_m/g/f/5/3/staffa-wk/topographic-relief-map-small.webp"
         },
         {
           "path": "_m/g/f/5/8/carsaig-arches-wp/carsaig-arches-geograph-org-uk.jpg",

@@ -37,7 +37,7 @@ The original Gare Montparnasse (48.841°N, 2.320°E) stood approximately 200 met
 ## Sources
 
 - [Montparnasse derailment - Wikipedia](https://en.wikipedia.org/?curid=37431368)
-- [Montparnasse derailment - Wikipedia](https://en.wikipedia.org/wiki/Montparnasse_derailment)
+- [Montparnasse derailment - Wikipedia](https://en.wikipedia.org/?curid=37431368)
   - Date October 22, 1895 - verified
   - Corrected: 'injured six' → 'injured five' (2 passengers + fireman + 2 guards = 5 injured, confirmed by multiple sources)
   - Corrected: 'Levy and Sons' → 'Lévy & Fils' (proper French name of the photography firm)

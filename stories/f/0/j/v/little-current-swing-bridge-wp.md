@@ -37,7 +37,7 @@ Located at 45.98°N, 81.91°W at the narrows between Goat Island and Manitoulin 
 ## Sources
 
 - [Little Current Swing Bridge - Wikipedia](https://en.wikipedia.org/?curid=5541014)
-- [Wikipedia - Little Current Swing Bridge](https://en.wikipedia.org/wiki/Little_Current_Swing_Bridge)
+- [Wikipedia - Little Current Swing Bridge](https://en.wikipedia.org/?curid=5541014)
   - 112-meter swing span length confirmed
   - Abutments/piers built 1912, bridge structure erected 1913, trains operating October 1913 confirmed
   - CPR leased Algoma Eastern Railway in March 1930 confirmed

@@ -25,7 +25,7 @@
       },
       "images": [
         {
-          "path": "_m/g/f/h/1/lismore-scotland-wp/hebridesmap.png",
+          "path": "_m/g/f/6/e/flannan-isles-wk/hebridesmap.png",
           "filename": "Hebridesmap.png",
           "alt": "Hebridesmap.png",
           "width": 935,
@@ -49,10 +49,11 @@
             "PNG that should use vector graphics",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/6/e/flannan-isles-wk/hebridesmap-small.webp"
         },
         {
-          "path": "_m/g/f/h/1/lismore-scotland-wp/relief-map-argyll-bute.jpg",
+          "path": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute.jpg",
           "filename": "Argyll and Bute UK relief location map.jpg",
           "caption": "Relief map of Argyll and Bute, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 175%\nGeographic limits:\n\nWest: 7.2W\nEast: 4.5W\nNorth: 56.8N\nSouth: 55.2N",
           "alt": "Relief map of Argyll and Bute, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 175%\nGeographic limits:\n\nWest: 7.2W\nEast: 4.5W\nNorth: 56.8N\nSouth: 55.2N",
@@ -64,7 +65,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Argyll_and_Bute_UK_relief_location_map.jpg",
           "sourceType": "core",
           "sourceArticleId": "lismore-scotland-wp",
-          "sourceGeohash4": "gfh1"
+          "sourceGeohash4": "gfh1",
+          "mediumPath": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute-medium.webp",
+          "smallPath": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute-small.webp"
         },
         {
           "path": "_m/g/f/h/1/lismore-scotland-wp/topographic-map-isle-l.png",
@@ -494,7 +497,8 @@
             "License migration completed",
             "Media missing infobox template",
             "Oban distillery"
-          ]
+          ],
+          "smallPath": "_m/g/f/h/0/oban-distillery-wp/oban-distillery-small.webp"
         },
         {
           "path": "_m/tpc/ob/an/__/__/oban/castle-stalker-scotland.jpg",
@@ -519,7 +523,9 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ob/an/__/__/oban/castle-stalker-scotland-medium.webp",
+          "smallPath": "_m/tpc/ob/an/__/__/oban/castle-stalker-scotland-small.webp"
         },
         {
           "path": "_m/tpc/ob/an/__/__/oban/dunstaffnage-castle-trois-quar.jpg",
@@ -550,7 +556,9 @@
             "Valued images missing SDC depicts",
             "Valued images of Scotland",
             "Valued images promoted 2010-01"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ob/an/__/__/oban/dunstaffnage-castle-trois-quar-medium.webp",
+          "smallPath": "_m/tpc/ob/an/__/__/oban/dunstaffnage-castle-trois-quar-small.webp"
         },
         {
           "path": "_m/tpc/ob/an/__/__/oban/dunollie-castle.jpg",
@@ -565,7 +573,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dunollie-Castle.jpg",
           "sourceType": "poi",
           "sourceArticleId": "oban",
-          "sourceGeohash4": "gfh0"
+          "sourceGeohash4": "gfh0",
+          "smallPath": "_m/tpc/ob/an/__/__/oban/dunollie-castle-small.webp"
         },
         {
           "path": "_m/tpc/ob/an/__/__/oban/oban-catholic-cathedral-105180.jpg",
@@ -580,7 +589,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oban_Catholic_Cathedral_(105180287).jpg",
           "sourceType": "poi",
           "sourceArticleId": "oban",
-          "sourceGeohash4": "gfh0"
+          "sourceGeohash4": "gfh0",
+          "smallPath": "_m/tpc/ob/an/__/__/oban/oban-catholic-cathedral-105180-small.webp"
         },
         {
           "path": "_m/tpc/ob/an/__/__/oban/oban-hydro-ruins-geograph-4565.jpg",
@@ -595,7 +605,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oban_Hydro_ruins_(geograph_4565195).jpg",
           "sourceType": "poi",
           "sourceArticleId": "oban",
-          "sourceGeohash4": "gfh0"
+          "sourceGeohash4": "gfh0",
+          "mediumPath": "_m/tpc/ob/an/__/__/oban/oban-hydro-ruins-geograph-4565-medium.webp",
+          "smallPath": "_m/tpc/ob/an/__/__/oban/oban-hydro-ruins-geograph-4565-small.webp"
         }
       ],
       "narration": [

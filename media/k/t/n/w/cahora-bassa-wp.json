@@ -3,28 +3,36 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/k/t/n/w/cahora-bassa-wp/hero.jpg",
-        "filename": "Cahorabassadam.jpg",
-        "caption": "View of the Cahora Bassa Dam",
-        "alt": "View of the Cahora Bassa Dam",
-        "width": 2058,
-        "height": 1176,
+        "path": "_m/k/t/n/w/cahora-bassa-wp/hippo1.jpg",
+        "filename": "Hippo1.JPG",
+        "caption": "Hippos at Hippo Bay, Lake Cahora Bassa, Mozambique",
+        "alt": "Hippos at Hippo Bay, Lake Cahora Bassa, Mozambique",
+        "width": 2048,
+        "height": 1536,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "EmjayE2 at English Wikipedia\n\n(Original text: Martha Evans, Cape Town)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cahorabassadam.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "MozamPete",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippo1.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "cahora-bassa-wp",
         "sourceGeohash4": "ktnw",
         "categories": [
-          "2006 in Mozambique",
-          "Cahora Bassa Dam",
-          "PD-user"
-        ]
+          "2007 photographs of Mozambique",
+          "CC-BY-SA-3.0",
+          "GFDL",
+          "Hippopotamus amphibius heads above water",
+          "Hippopotamus amphibius in Mozambique",
+          "Lake Cahora Bassa",
+          "License migration redundant",
+          "Self-published work",
+          "Taken with Canon PowerShot S1 IS"
+        ],
+        "mediumPath": "_m/k/t/n/w/cahora-bassa-wp/hippo1-medium.webp",
+        "smallPath": "_m/k/t/n/w/cahora-bassa-wp/hippo1-small.webp"
       },
       "images": [
         {
-          "path": "_m/k/t/n/w/cahora-bassa-wp/hero.jpg",
+          "path": "_m/k/u/0/c/manyikeni-wp/hero.jpg",
           "filename": "Mozambique relief location map.jpg",
           "caption": "Physical location map of Mozambique",
           "alt": "Physical location map of Mozambique",
@@ -40,7 +48,8 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Relief location maps of Mozambique"
-          ]
+          ],
+          "smallPath": "_m/k/u/0/c/manyikeni-wp/hero-small.webp"
         },
         {
           "path": "_m/k/t/n/w/cahora-bassa-wp/sts51b-51-14-lake-cahora-bassa.jpg",

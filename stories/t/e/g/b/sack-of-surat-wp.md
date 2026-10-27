@@ -33,7 +33,7 @@ The Sack of Surat took place at the historic port city of Surat at 21.17N, 72.83
 ## Sources
 
 - [Sack of Surat - Wikipedia](https://en.wikipedia.org/?curid=6653060)
-- [Sack of Surat - Wikipedia (fact-check)](https://en.wikipedia.org/wiki/Sack_of_Surat)
+- [Sack of Surat - Wikipedia (fact-check)](https://en.wikipedia.org/?curid=6653060)
   - January 1664 date for sack confirmed
   - Four thousand troops figure confirmed (some sources cite higher numbers; four thousand is cited by Wikipedia)
   - Governor Inayat Khan fled to castle confirmed

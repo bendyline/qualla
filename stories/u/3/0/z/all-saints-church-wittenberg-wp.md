@@ -37,7 +37,7 @@ All Saints' Church stands at 51.866°N, 12.638°E, at the western end of Wittenb
 ## Sources
 
 - [All Saints' Church, Wittenberg - Wikipedia](https://en.wikipedia.org/?curid=15034869)
-- [All Saints' Church, Wittenberg - Wikipedia (EN)](https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg)
+- [All Saints' Church, Wittenberg - Wikipedia (EN)](https://en.wikipedia.org/?curid=15034869)
   - bronze doors commissioned by King Frederick William IV of Prussia in 1858 confirmed
   - doors weigh about 1,000 kg, ornaments modelled by Friedrich Drake confirmed
   - doors dedicated 10 November 1858, 375 years after Luther's birth, confirmed

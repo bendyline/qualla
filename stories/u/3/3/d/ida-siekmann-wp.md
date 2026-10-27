@@ -36,7 +36,7 @@ The Siekmann memorial and the Berlin Wall Memorial grounds lie on Bernauer Stra√
 
 ## Sources
 
-- [Ida Siekmann](https://en.wikipedia.org/wiki/Ida_Siekmann)
+- [Ida Siekmann](https://en.wikipedia.org/?curid=28352447)
 - [Ida Siekmann (German Wikipedia)](https://de.wikipedia.org/wiki/Ida_Siekmann)
   - born 23 August 1902 in Gorken, West Prussia (now G√≥rki, Kwidzyn County, Poland) - source
   - worked as a nurse; widowed, date of widowhood unrecorded - source

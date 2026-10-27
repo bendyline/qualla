@@ -3,39 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/w/q/q/flores-wp/hero.jpg",
-        "filename": "Homo floresiensis cave.jpg",
-        "caption": "Cave where the remains of Homo floresiensis were discovered in 2003, Lian Bua, Flores, Indonesia [2007].",
-        "alt": "Cave where the remains of Homo floresiensis were discovered in 2003, Lian Bua, Flores, Indonesia [2007].",
-        "width": 3008,
-        "height": 2000,
+        "path": "_m/q/w/q/q/flores-wp/flores-island-somewhere-in-the.jpg",
+        "filename": "Flores island somewhere in the countryside 1.jpg",
+        "caption": "Flores island somewhere in the countryside",
+        "alt": "Flores island somewhere in the countryside",
+        "width": 5344,
+        "height": 4008,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Rosino",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Homo_floresiensis_cave.jpg",
-        "sourceType": "core",
+        "license": "CC0",
+        "artist": "Lasthib",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flores_island_somewhere_in_the_countryside_1.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "flores-wp",
         "sourceGeohash4": "qwqq",
-        "categories": [
-          "Archaeological excavations",
-          "CC-BY-SA-2.0",
-          "Caves of Flores",
-          "Files with coordinates missing SDC location of creation",
-          "Flickr images missing SDC Flickr photo ID",
-          "Flickr images missing SDC published in",
-          "Flickr images missing SDC source of file",
-          "Flickr images reviewed by FlickreviewR",
-          "Homo floresiensis",
-          "Lit cave entrances",
-          "Photographs by Rosino",
-          "Stalactites",
-          "Taken with Nikon D50",
-          "Valued images missing SDC depicts",
-          "Valued images missing SDC source of file",
-          "Valued images of Indonesia",
-          "Valued images promoted 2008-09",
-          "Valued images sorted by promotion date"
-        ]
+        "mediumPath": "_m/q/w/q/q/flores-wp/flores-island-somewhere-in-the-medium.webp",
+        "smallPath": "_m/q/w/q/q/flores-wp/flores-island-somewhere-in-the-small.webp"
       },
       "images": [
         {
@@ -76,7 +58,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Komodo_dragon_at_Komodo_National_Park.jpg",
           "sourceType": "core",
           "sourceArticleId": "flores-wp",
-          "sourceGeohash4": "qwqq"
+          "sourceGeohash4": "qwqq",
+          "smallPath": "_m/q/w/q/q/flores-wp/komodo-dragon-komodo-n-small.webp"
         },
         {
           "path": "_m/q/w/q/q/flores-wp/dancers-watublapi-flor.jpg",
@@ -496,7 +479,7 @@
           "smallPath": "_m/q/w/q/q/flores-wp/anggota-dprd-flotim-tanggal-22-small.webp"
         },
         {
-          "path": "_m/q/w/q/q/flores-wp/fast-boat.jpg",
+          "path": "_m/q/w/x/8/adonara-wp/fast-boat.jpg",
           "filename": "FAST BOAT.jpg",
           "caption": "Fast boats are commonly used by people in East Flores Regency and Lembata Regency. There are 3 ports that are usually visited by this ship, namely Waiwerang Port on Adonara Island, Larantuka Harbor on Flores Island and Lembata Harbor on Lembata Island.",
           "alt": "Fast boats are commonly used by people in East Flores Regency and Lembata Regency. There are 3 ports that are usually visited by this ship, namely Waiwerang Port on Adonara Island, Larantuka Harbor on Flores Island and Lembata Harbor on Lembata Island.",
@@ -509,8 +492,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "adonara-wp",
           "sourceGeohash4": "qwqq",
-          "mediumPath": "_m/q/w/q/q/flores-wp/fast-boat-medium.webp",
-          "smallPath": "_m/q/w/q/q/flores-wp/fast-boat-small.webp"
+          "mediumPath": "_m/q/w/x/8/adonara-wp/fast-boat-medium.webp",
+          "smallPath": "_m/q/w/x/8/adonara-wp/fast-boat-small.webp"
         },
         {
           "path": "_m/q/w/q/q/flores-wp/iss020-e-6579-view-of-indonesi.jpg",
@@ -549,7 +532,8 @@
             "Labuan Bajo",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/q/w/q/q/flores-indonesia-wk/labuanbajo-view-small.webp"
         },
         {
           "path": "_m/q/w/q/q/flores-indonesia-wk/kelimutu-2007-07-21.jpg",
@@ -575,7 +559,9 @@
             "Kelimutu",
             "Photographs by Rosino",
             "Taken with Nikon D50"
-          ]
+          ],
+          "mediumPath": "_m/q/w/q/q/flores-indonesia-wk/kelimutu-2007-07-21-medium.webp",
+          "smallPath": "_m/q/w/q/q/flores-indonesia-wk/kelimutu-2007-07-21-small.webp"
         },
         {
           "path": "_m/q/w/q/q/flores-indonesia-wk/bajawa.jpg",
@@ -590,7 +576,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bajawa.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "flores-indonesia-wk",
-          "sourceGeohash4": "qwqq"
+          "sourceGeohash4": "qwqq",
+          "mediumPath": "_m/q/w/q/q/flores-indonesia-wk/bajawa-medium.webp",
+          "smallPath": "_m/q/w/q/q/flores-indonesia-wk/bajawa-small.webp"
         },
         {
           "path": "_m/q/w/q/q/flores-indonesia-wk/wae-rebo-village-flores-nusa-t.jpg",
@@ -605,7 +593,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wae_Rebo_village,_Flores,_Nusa_Tengara_Timur,_Indonesia,_2018.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "flores-indonesia-wk",
-          "sourceGeohash4": "qwqq"
+          "sourceGeohash4": "qwqq",
+          "smallPath": "_m/q/w/q/q/flores-indonesia-wk/wae-rebo-village-flores-nusa-t-small.webp"
         },
         {
           "path": "_m/q/w/q/w/kelimutu-wk/kelimutu-sunrise.jpg",
@@ -626,7 +615,9 @@
             "Kelimutu",
             "Self-published work",
             "Taken with Canon PowerShot SX10 IS"
-          ]
+          ],
+          "mediumPath": "_m/q/w/q/w/kelimutu-wk/kelimutu-sunrise-medium.webp",
+          "smallPath": "_m/q/w/q/w/kelimutu-wk/kelimutu-sunrise-small.webp"
         },
         {
           "path": "_m/q/w/q/w/kelimutu-wk/kelimutu-banner.jpg",
@@ -645,7 +636,9 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Kelimutu"
-          ]
+          ],
+          "mediumPath": "_m/q/w/q/w/kelimutu-wk/kelimutu-banner-medium.webp",
+          "smallPath": "_m/q/w/q/w/kelimutu-wk/kelimutu-banner-small.webp"
         },
         {
           "path": "_m/tpc/ri/ce/__/__/rice/pill-box-with-pills.jpg",
@@ -673,7 +666,9 @@
             "Self-published work",
             "Taken with Nikon Coolpix 995",
             "White objects"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ri/ce/__/__/rice/pill-box-with-pills-medium.webp",
+          "smallPath": "_m/tpc/ri/ce/__/__/rice/pill-box-with-pills-small.webp"
         },
         {
           "path": "_m/c/2/b/2/amtrak-cascades-wk/amtrakcascadesdiner.jpg",
@@ -705,7 +700,9 @@
             "Taken with Sony DSC-H7",
             "Talgo VI of Amtrak",
             "United States photographs taken on 2007-12-08"
-          ]
+          ],
+          "mediumPath": "_m/c/2/b/2/amtrak-cascades-wk/amtrakcascadesdiner-medium.webp",
+          "smallPath": "_m/c/2/b/2/amtrak-cascades-wk/amtrakcascadesdiner-small.webp"
         },
         {
           "path": "_m/tpc/ri/ce/__/__/rice/tartu-pussirohukelder-02.jpg",
@@ -727,7 +724,9 @@
             "Items with VRTS permission confirmed",
             "Photographs by Lauri Veerde",
             "Tartu Gunpowder Cellar"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ri/ce/__/__/rice/tartu-pussirohukelder-02-medium.webp",
+          "smallPath": "_m/tpc/ri/ce/__/__/rice/tartu-pussirohukelder-02-small.webp"
         },
         {
           "path": "_m/tpc/ri/ce/__/__/rice/engrish-thailand-octopus-obstr.jpg",
@@ -745,7 +744,8 @@
           "sourceGeohash4": "tpc/ri/ce/__/__",
           "categories": [
             "CC-BY-4.0"
-          ]
+          ],
+          "smallPath": "_m/tpc/ri/ce/__/__/rice/engrish-thailand-octopus-obstr-small.webp"
         }
       ],
       "narration": [

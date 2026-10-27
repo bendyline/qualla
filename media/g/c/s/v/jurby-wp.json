@@ -3,24 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/s/v/jurby-wp/hero.jpg",
-        "filename": "Andreas & Jurby.jpg",
-        "caption": "Aerial view of Andreas Airfield with Jurby visible in the distance.",
-        "alt": "Aerial view of Andreas Airfield with Jurby visible in the distance.",
-        "width": 1200,
-        "height": 800,
+        "path": "_m/g/c/s/v/jurby-wp/jurby-transport-museum.jpg",
+        "filename": "Jurby Transport Museum (27622780414).jpg",
+        "caption": "Jurby transport museum, Isle of Man",
+        "alt": "Jurby transport museum, Isle of Man",
+        "width": 6000,
+        "height": 4000,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Harvey Milligan",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andreas_%26_Jurby.jpg",
+        "license": "CC BY-SA 2.0",
+        "artist": "Andrew Wilkinson from London",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jurby_Transport_Museum_(27622780414).jpg",
         "sourceType": "core",
         "sourceArticleId": "jurby-wp",
         "sourceGeohash4": "gcsv",
         "categories": [
-          "CC-BY-SA-4.0",
-          "RAF Andreas",
-          "Self-published work"
-        ]
+          "CC-BY-SA-2.0",
+          "Files with coordinates missing SDC location of creation (54° N, 5° W)",
+          "Flickr images reviewed by FlickreviewR 2",
+          "Jurby Transport Museum"
+        ],
+        "mediumPath": "_m/g/c/s/v/jurby-wp/jurby-transport-museum-medium.webp",
+        "smallPath": "_m/g/c/s/v/jurby-wp/jurby-transport-museum-small.webp"
       },
       "images": [
         {
@@ -450,7 +453,8 @@
             "Photographs taken on 2005-07-31",
             "Self-published work",
             "Taken with Fujifilm FinePix A205"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/laxey-wheel-1-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/peel-isle-of-man.jpg",
@@ -473,7 +477,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Information field template with formatting",
             "Taken with Canon Digital IXUS 330"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/peel-isle-of-man-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/snaefell.jpg",
@@ -494,7 +499,8 @@
             "Self-published work",
             "Snaefell",
             "Taken with Canon PowerShot S3 IS"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/snaefell-small.webp"
         },
         {
           "path": "_m/g/c/s/e/castle-rushen-wp/hero.jpg",
@@ -509,7 +515,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle_Rushen.jpg",
           "sourceType": "poi",
           "sourceArticleId": "castle-rushen-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/e/castle-rushen-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/s/e/castle-rushen-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/cregneash-folk-museum-1988.jpg",
@@ -524,7 +532,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cregneash_Folk_Museum_1988.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/cregneash-folk-museum-1988-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22.jpg",
@@ -539,7 +548,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doolish_2013_22.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22-medium.webp",
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812.jpg",
@@ -554,7 +565,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jurby_Busses_(28134100812).jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812-medium.webp",
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812-small.webp"
         }
       ],
       "narration": [

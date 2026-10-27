@@ -37,7 +37,7 @@ Located at 37.9975N, 122.530W in San Rafael, California, east of US-101 near San
 ## Sources
 
 - [Marin County Civic Center - Wikipedia](https://en.wikipedia.org/?curid=2964342)
-- [Marin County Civic Center - Wikipedia](https://en.wikipedia.org/wiki/Marin_County_Civic_Center)
+- [Marin County Civic Center - Wikipedia](https://en.wikipedia.org/?curid=2964342)
   - Wright died April 9 1959 age 91 confirmed
   - Administration Building 580 feet Hall of Justice 880 feet rotunda 80 feet confirmed
   - National Historic Landmark designated July 17 1991 confirmed

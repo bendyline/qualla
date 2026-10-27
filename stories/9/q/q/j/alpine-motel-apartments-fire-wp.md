@@ -32,7 +32,7 @@ In August 2021, the Alpine and its parking lot sold for $1.9 million to a partne
 
 ## Flight Context
 
-The Alpine Motel Apartments site is located at 36.169N, 115.135W in downtown Las Vegas, two blocks north of Fremont Street. From the air, downtown Las Vegas is easily identified by the distinctive Fremont Street Experience canopy and the cluster of older casino towers. The site is approximately 3 nautical miles north of McCarran International Airport (KLAS). The building itself is not visible from typical cruising altitudes, but the downtown district it occupies provides clear visual reference against the sprawl of the Las Vegas Valley.
+The Alpine Motel Apartments site is located at 36.169N, 115.135W in downtown Las Vegas, two blocks north of Fremont Street. From the air, downtown Las Vegas is easily identified by the distinctive Fremont Street Experience canopy and the cluster of older casino towers. The site is approximately 3 nautical miles north of Harry Reid International Airport (KLAS, formerly McCarran International). The building itself is not visible from typical cruising altitudes, but the downtown district it occupies provides clear visual reference against the sprawl of the Las Vegas Valley.
 
 ## Sources
 

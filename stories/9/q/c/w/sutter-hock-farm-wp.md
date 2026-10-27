@@ -37,7 +37,7 @@ Sutter Hock Farm is located at 39.0489N, 121.633W along the Feather River in Sut
 ## Sources
 
 - [Sutter Hock Farm - Wikipedia](https://en.wikipedia.org/?curid=9200220)
-- [Sutter Hock Farm - Wikipedia](https://en.wikipedia.org/wiki/Sutter_Hock_Farm)
+- [Sutter Hock Farm - Wikipedia](https://en.wikipedia.org/?curid=9200220)
   - Hock Farm established 1841 confirmed
   - first large-scale agricultural operation in Northern California confirmed
   - arson fire June 21, 1865 confirmed

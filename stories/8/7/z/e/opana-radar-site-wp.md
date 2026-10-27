@@ -28,7 +28,7 @@ Today, the Opana Radar Site is both a National Historic Landmark and an IEEE Mil
 
 ## Flight Context
 
-Located at 21.686N, 158.010W on a ridgeline above Oahu's North Shore, south of Kawela Bay and near the Turtle Bay Resort. Best viewed from low altitude approaching from the north or east. The hilltop sits just inland from Kamehameha Highway. Nearest airport: Dillingham Airfield (PHDH), approximately 12 nm west. Honolulu International (PHNL) is roughly 28 nm south-southeast. The adjacent Turtle Bay Resort complex provides a useful visual reference.
+Located at 21.686N, 158.010W on a ridgeline above Oahu's North Shore, south of Kawela Bay and near the Turtle Bay Resort. Best viewed from low altitude approaching from the north or east. The hilltop sits just inland from Kamehameha Highway. Nearest airport: Dillingham Airfield (PHDH), approximately 12 nm west. Daniel K. Inouye International Airport (PHNL, formerly Honolulu International) is roughly 28 nm south-southeast. The adjacent Turtle Bay Resort complex provides a useful visual reference.
 
 ## Sources
 

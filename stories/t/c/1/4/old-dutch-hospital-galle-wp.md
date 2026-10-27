@@ -33,7 +33,7 @@ The Old Dutch Hospital is located at 6.027N, 80.219E within Galle Fort, on the e
 ## Sources
 
 - [Old Dutch Hospital, Galle - Wikipedia](https://en.wikipedia.org/?curid=44072563)
-- [Old Dutch Hospital, Galle - Wikipedia verification](https://en.wikipedia.org/wiki/Old_Dutch_Hospital,_Galle)
+- [Old Dutch Hospital, Galle - Wikipedia verification](https://en.wikipedia.org/?curid=44072563)
   - Hospital built on site of Portuguese mint, between Black Fort and Aurora Bastion
   - British captured fort in February 1796 and extended building
   - Converted to barracks in 1850 confirmed

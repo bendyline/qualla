@@ -28,7 +28,7 @@ The university hosts events that draw visitors from across the country: the annu
 
 ## Flight Context
 
-Located at 38.940N, 95.233W on the southeast side of Lawrence, Kansas, elevation approximately 830 feet MSL. The campus is visible adjacent to the Haskell-Baker Wetlands, a large open area on the south side of campus that contrasts with the surrounding urban development. Lawrence Municipal Airport (KLWC) lies approximately 4 miles north. The University of Kansas campus on Mount Oread is visible to the northwest. The wetlands are a distinctive green area visible from altitude, especially in contrast to the agricultural land to the south. Best viewed at 2,000-4,000 feet AGL.
+Located at 38.940N, 95.233W on the southeast side of Lawrence, Kansas, elevation approximately 830 feet MSL. The campus is visible adjacent to the Haskell-Baker Wetlands, a large open area on the south side of campus that contrasts with the surrounding urban development. Lawrence Regional Airport (KLWC, formerly Lawrence Municipal) lies approximately 4 miles north. The University of Kansas campus on Mount Oread is visible to the northwest. The wetlands are a distinctive green area visible from altitude, especially in contrast to the agricultural land to the south. Best viewed at 2,000-4,000 feet AGL.
 
 ## Sources
 

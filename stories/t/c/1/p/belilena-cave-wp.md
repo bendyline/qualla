@@ -33,7 +33,7 @@ Belilena Cave is located at 7.00N, 80.44E approximately 8 km from Kitulgala in S
 ## Sources
 
 - [Belilena Cave - Wikipedia](https://en.wikipedia.org/?curid=18490692)
-- [Belilena Cave - Wikipedia verification](https://en.wikipedia.org/wiki/Belilena_Cave)
+- [Belilena Cave - Wikipedia verification](https://en.wikipedia.org/?curid=18490692)
   - Cave located 8 km from Kitulgala confirmed
   - Cultural deposits spanning 30,000 to 9,000 years BP confirmed
   - Excavations 1978-1983 by Archaeological Department of Sri Lanka confirmed

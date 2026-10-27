@@ -37,7 +37,7 @@ The National Assembly meets at the Federal Legislative Palace (Capitolio) at 10.
 ## Sources
 
 - [National Assembly of Venezuela - Wikipedia](https://en.wikipedia.org/?curid=510768)
-- [National Assembly of Venezuela - Wikipedia (reviewed 2026-03-12)](https://en.wikipedia.org/wiki/National_Assembly_of_Venezuela)
+- [National Assembly of Venezuela - Wikipedia (reviewed 2026-03-12)](https://en.wikipedia.org/?curid=510768)
   - Venezuela operated as bicameral Congress under 1961 Constitution confirmed
   - Octavio Lepage replaced impeached Carlos Andres Perez in 1993 confirmed
   - Constituent Assembly elections July 25, 1999 delivered Chavez all but six of 131 seats confirmed

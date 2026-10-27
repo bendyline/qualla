@@ -3,19 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/h/j/eilean-donan-wp/hero.jpg",
-        "filename": "Eilean Donan Castle, Scotland - Jan 2011.jpg",
-        "caption": "Eilean Donan Castle, as viewed from the south-east at sunrise. Taken by myself as a 2×6 segment panorama with a Canon 5D and 85mm f/1.8 lens.",
-        "alt": "Eilean Donan Castle, as viewed from the south-east at sunrise. Taken by myself as a 2×6 segment panorama with a Canon 5D and 85mm f/1.8 lens.",
-        "width": 6980,
-        "height": 4108,
+        "path": "_m/g/f/h/j/eilean-donan-wp/eilean-donan-castle-en.jpg",
+        "filename": "Eilean Donan Castle entrance panorama view.jpg",
+        "caption": "Eilean Donan Castle entrance panorama view",
+        "alt": "Eilean Donan Castle entrance panorama view",
+        "width": 9282,
+        "height": 3060,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Diliff",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eilean_Donan_Castle,_Scotland_-_Jan_2011.jpg",
+        "license": "CC BY 4.0",
+        "artist": "Ertly",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eilean_Donan_Castle_entrance_panorama_view.jpg",
         "sourceType": "core",
         "sourceArticleId": "eilean-donan-wp",
-        "sourceGeohash4": "gfhj"
+        "sourceGeohash4": "gfhj",
+        "mediumPath": "_m/g/f/h/j/eilean-donan-wp/eilean-donan-castle-en-medium.webp",
+        "smallPath": "_m/g/f/h/j/eilean-donan-wp/eilean-donan-castle-en-small.webp"
       },
       "images": [
         {
@@ -208,7 +210,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eilean_Donan_plan_1.png",
           "sourceType": "core",
           "sourceArticleId": "eilean-donan-wp",
-          "sourceGeohash4": "gfhj"
+          "sourceGeohash4": "gfhj",
+          "smallPath": "_m/g/f/h/j/eilean-donan-wp/eilean-donan-castle-sc-small.webp"
         },
         {
           "path": "_m/g/f/h/j/eilean-donan-wp/eilean-donan-castle-sc-1.png",
@@ -239,7 +242,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eilean_Donan_plan_3.png",
           "sourceType": "core",
           "sourceArticleId": "eilean-donan-wp",
-          "sourceGeohash4": "gfhj"
+          "sourceGeohash4": "gfhj",
+          "smallPath": "_m/g/f/h/j/eilean-donan-wp/eilean-donan-castle-sc-small.webp"
         },
         {
           "path": "_m/g/f/h/j/eilean-donan-wp/eilean-donan-castle-sc-3.png",
@@ -274,7 +278,7 @@
           "smallPath": "_m/g/f/h/j/eilean-donan-wp/kenneth-mackenzie-3rd-small.webp"
         },
         {
-          "path": "_m/g/f/h/j/eilean-donan-wp/hero.jpg",
+          "path": "_m/g/f/h/j/capture-of-eilean-donan-castle-wp/hero.jpg",
           "filename": "Eilean Donan Castle, pre 1911.jpg",
           "caption": "A photo of ruinous Eilean Donan Castle, taken sometime before 1911.",
           "alt": "A photo of ruinous Eilean Donan Castle, taken sometime before 1911.",
@@ -286,7 +290,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eilean_Donan_Castle,_pre_1911.jpg",
           "sourceType": "core",
           "sourceArticleId": "eilean-donan-wp",
-          "sourceGeohash4": "gfhj"
+          "sourceGeohash4": "gfhj",
+          "smallPath": "_m/g/f/h/j/capture-of-eilean-donan-castle-wp/hero-small.webp"
         },
         {
           "path": "_m/g/f/h/j/eilean-donan-wp/eilean-donan-castle-en.jpg",
@@ -664,7 +669,8 @@
             "License migration redundant",
             "Self-published work",
             "User:Wojsyl/Scotland"
-          ]
+          ],
+          "smallPath": "_m/g/f/h/j/dornie-wp/scotland-dornie-small.webp"
         },
         {
           "path": "_m/g/f/h/j/dornie-wp/eilean-donan-castle-140mm.jpg",
@@ -691,7 +697,9 @@
             "Self-published work",
             "Taken with Canon EF 70-300mm F4-5.6 IS USM",
             "Taken with Canon EOS 450D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/j/dornie-wp/eilean-donan-castle-140mm-medium.webp",
+          "smallPath": "_m/g/f/h/j/dornie-wp/eilean-donan-castle-140mm-small.webp"
         },
         {
           "path": "_m/g/f/h/j/dornie-wp/00-103-0359-kilchurn-castle-sc.jpg",
@@ -714,7 +722,9 @@
             "Files with coordinates missing SDC location of creation",
             "Pages with local camera coordinates and mismatching SDC coordinates",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/j/dornie-wp/00-103-0359-kilchurn-castle-sc-medium.webp",
+          "smallPath": "_m/g/f/h/j/dornie-wp/00-103-0359-kilchurn-castle-sc-small.webp"
         },
         {
           "path": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/balmoral-castle.jpg",
@@ -741,7 +751,9 @@
             "Lawns in the United Kingdom",
             "Royal Banner of Scotland",
             "Taken with Polaroid PDC 3350"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/balmoral-castle-medium.webp",
+          "smallPath": "_m/g/c/p/u/monarchy-of-the-united-kingdom-wk/balmoral-castle-small.webp"
         },
         {
           "path": "_m/g/f/h/k/scotland-wp/bagpiper-in-edinburgh-001.jpg",
@@ -767,7 +779,9 @@
             "Street musicians in Scotland",
             "Taken with Canon EOS 450D",
             "User-created GFDL images"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/k/scotland-wp/bagpiper-in-edinburgh-001-medium.webp",
+          "smallPath": "_m/g/f/h/k/scotland-wp/bagpiper-in-edinburgh-001-small.webp"
         },
         {
           "path": "_m/g/c/v/q/central-belt-wp/argyll-forest-park-008.jpg",
@@ -792,7 +806,9 @@
             "Self-published work",
             "Taken with Canon EOS 450D",
             "User-created GFDL images"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/q/central-belt-wp/argyll-forest-park-008-medium.webp",
+          "smallPath": "_m/g/c/v/q/central-belt-wp/argyll-forest-park-008-small.webp"
         },
         {
           "path": "_m/g/f/h/k/scotland-wp/cullen-skink.jpg",
@@ -807,7 +823,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cullen_Skink.JPG",
           "sourceType": "poi",
           "sourceArticleId": "scotland-wp",
-          "sourceGeohash4": "gfhk"
+          "sourceGeohash4": "gfhk",
+          "mediumPath": "_m/g/f/h/k/scotland-wp/cullen-skink-medium.webp",
+          "smallPath": "_m/g/f/h/k/scotland-wp/cullen-skink-small.webp"
         },
         {
           "path": "_m/g/f/h/k/scotland-wp/3rd-aug-2012-abdn-harbour-2.jpg",
@@ -822,7 +840,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:3rd_Aug_2012-_Abdn_Harbour_2.JPG",
           "sourceType": "poi",
           "sourceArticleId": "scotland-wp",
-          "sourceGeohash4": "gfhk"
+          "sourceGeohash4": "gfhk",
+          "mediumPath": "_m/g/f/h/k/scotland-wp/3rd-aug-2012-abdn-harbour-2-medium.webp",
+          "smallPath": "_m/g/f/h/k/scotland-wp/3rd-aug-2012-abdn-harbour-2-small.webp"
         },
         {
           "path": "_m/g/f/h/k/scotland-wp/92038-wembley-depot-to-euston-.jpg",
@@ -837,7 +857,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:92038_Wembley_Depot_to_Euston_5S95_(32259639106).jpg",
           "sourceType": "poi",
           "sourceArticleId": "scotland-wp",
-          "sourceGeohash4": "gfhk"
+          "sourceGeohash4": "gfhk",
+          "mediumPath": "_m/g/f/h/k/scotland-wp/92038-wembley-depot-to-euston--medium.webp",
+          "smallPath": "_m/g/f/h/k/scotland-wp/92038-wembley-depot-to-euston--small.webp"
         },
         {
           "path": "_m/g/f/5/9/inner-hebrides-wp/00-2355-skye-bridge-scotland.jpg",
@@ -852,7 +874,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_2355_Skye_Bridge_-_(Scotland).jpg",
           "sourceType": "poi",
           "sourceArticleId": "inner-hebrides-wp",
-          "sourceGeohash4": "gfhk"
+          "sourceGeohash4": "gfhk",
+          "mediumPath": "_m/g/f/5/9/inner-hebrides-wp/00-2355-skye-bridge-scotland-medium.webp",
+          "smallPath": "_m/g/f/5/9/inner-hebrides-wp/00-2355-skye-bridge-scotland-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/oban-harbour-14839d.jpg",
@@ -874,7 +898,8 @@
             "Isle of Mull (ship, 1988)",
             "License migration completed",
             "Oban harbour"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/oban-harbour-14839d-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/bute-satellite.jpg",
@@ -895,7 +920,8 @@
             "Landsat images of the United Kingdom",
             "NASA World Wind",
             "PD World Wind"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/bute-satellite-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden.jpg",
@@ -919,7 +945,9 @@
             "PD-Art (PD-old-auto-expired)",
             "PD-old-100-expired",
             "Paintings without Wikidata item"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/the-battle-of-culloden-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/scottish-highlands-wv-region-m.png",
@@ -934,7 +962,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scottish_Highlands_WV_region_map_EN.png",
           "sourceType": "poi",
           "sourceArticleId": "scottish-highlands-wp",
-          "sourceGeohash4": "gfhs"
+          "sourceGeohash4": "gfhs",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/scottish-highlands-wv-region-m-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr.jpg",
@@ -949,7 +978,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:62005_Glenfinnan_Viaduct_-_geograph.org.uk_-_2308595.jpg",
           "sourceType": "poi",
           "sourceArticleId": "scottish-highlands-wp",
-          "sourceGeohash4": "gfhs"
+          "sourceGeohash4": "gfhs",
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/62005-glenfinnan-viaduct-geogr-small.webp"
         }
       ],
       "narration": [

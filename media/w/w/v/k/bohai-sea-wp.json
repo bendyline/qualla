@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/w/v/k/bohai-sea-wp/hero.jpg",
-        "filename": "Waves in pacifica 1.jpg",
-        "caption": "Sea Storm in Pacifica, w:California",
-        "alt": "Sea Storm in Pacifica, w:California",
-        "width": 2000,
-        "height": 1358,
+        "path": "_m/w/w/v/k/bohai-sea-wp/iss043-e-162753-view-of-earth.jpg",
+        "filename": "ISS043-E-162753 - View of Earth.jpg",
+        "caption": "View of Earth taken during ISS Expedition 43.",
+        "alt": "View of Earth taken during ISS Expedition 43.",
+        "width": 4928,
+        "height": 3280,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Brocken Inaglory",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waves_in_pacifica_1.jpg",
-        "sourceType": "core",
+        "license": "Public domain",
+        "artist": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ISS043-E-162753_-_View_of_Earth.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "bohai-sea-wp",
         "sourceGeohash4": "wwvk",
-        "categories": [
-          "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
-          "California Coast",
-          "GFDL",
-          "Images with extracted images",
-          "License migration redundant",
-          "Ocean surface waves",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/w/w/v/k/bohai-sea-wp/iss043-e-162753-view-of-earth-medium.webp",
+        "smallPath": "_m/w/w/v/k/bohai-sea-wp/iss043-e-162753-view-of-earth-small.webp"
       },
       "images": [
         {
@@ -79,7 +72,7 @@
           "smallPath": "_m/w/w/v/k/bohai-sea-wp/gallery-2-small.webp"
         },
         {
-          "path": "_m/w/w/v/k/bohai-sea-wp/rocky-shore-dalian-lia.jpg",
+          "path": "_m/w/w/p/r/yellow-sea-wp/rocky-shore-dalian-lia.jpg",
           "filename": "Rocky shore in Dalian.jpg",
           "caption": "Rocky shore in Dalian, Liaoning Province, China",
           "alt": "Rocky shore in Dalian, Liaoning Province, China",
@@ -96,7 +89,9 @@
             "CC-BY-SA-4.0",
             "Dalian",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/w/p/r/yellow-sea-wp/rocky-shore-dalian-lia-medium.webp",
+          "smallPath": "_m/w/w/p/r/yellow-sea-wp/rocky-shore-dalian-lia-small.webp"
         },
         {
           "path": "_m/w/w/v/k/bohai-sea-wp/coast-skyline.jpg",

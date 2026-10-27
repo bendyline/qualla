@@ -28,7 +28,7 @@ The nine who died ranged in nationality and age. Six were American, two were Aus
 
 ## Flight Context
 
-The incident occurred approximately 100 nautical miles southwest of Honolulu at coordinates 20.69N, 158.675W. The aircraft departed from Honolulu International Airport (PHNL) and returned there after the emergency. Nearby airports include Kapalua (PHJH) on Maui and Lihue (PHLI) on Kauai. The waters below, south of Oahu, are where the cargo door was eventually recovered from 14,200 feet depth.
+The incident occurred approximately 100 nautical miles southwest of Honolulu at coordinates 20.69N, 158.675W. The aircraft departed from Daniel K. Inouye International Airport (PHNL, formerly Honolulu International) and returned there after the emergency. Nearby airports include Kapalua (PHJH) on Maui and Lihue (PHLI) on Kauai. The waters below, south of Oahu, are where the cargo door was eventually recovered from 14,200 feet depth.
 
 ## Sources
 

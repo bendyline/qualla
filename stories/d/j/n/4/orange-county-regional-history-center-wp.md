@@ -33,7 +33,7 @@ Located at 28.543N, 81.378W in downtown Orlando, Florida, on the corner of Centr
 ## Sources
 
 - [Orange County Regional History Center - Wikipedia](https://en.wikipedia.org/?curid=14520313)
-- [Wikipedia - Orange County Regional History Center](https://en.wikipedia.org/wiki/Orange_County_Regional_History_Center)
+- [Wikipedia - Orange County Regional History Center](https://en.wikipedia.org/?curid=14520313)
   - Murry S. King first registered architect in Florida
   - Construction began May 1926
   - Dedicated October 12 1927

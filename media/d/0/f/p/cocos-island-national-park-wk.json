@@ -3,27 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/d/0/f/p/cocos-island-national-park-wk/hero.jpg",
-        "filename": "CocosIslandCostaRica.jpg",
-        "caption": "Cocos Island National Park, Costa Rica. Photo taken by Shannon Rankin, NOAA, October 2000 [1].",
-        "alt": "Cocos Island National Park, Costa Rica. Photo taken by Shannon Rankin, NOAA, October 2000 [1].",
-        "width": 600,
-        "height": 712,
+        "path": "_m/d/0/f/p/cocos-island-national-park-wk/map-cocos-island-isla.jpg",
+        "filename": "Map of Cocos from Pacific Islands, vol. 2 (Geographical Handbook Series, 1943).jpg",
+        "caption": "A map of Cocos Island (Isla del Coco), Costa Rica. The caption of the map is: \"Fig. 5. Cocos / Based on official sources.\"",
+        "alt": "A map of Cocos Island (Isla del Coco), Costa Rica. The caption of the map is: \"Fig. 5. Cocos / Based on official sources.\"",
+        "width": 646,
+        "height": 555,
         "mimeType": "image/jpeg",
         "license": "Public domain",
-        "artist": "Shannon Rankin, NOAA",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:CocosIslandCostaRica.jpg",
+        "artist": "Naval Intelligence Division, Admiralty (UK).",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Map_of_Cocos_from_Pacific_Islands,_vol._2_(Geographical_Handbook_Series,_1943).jpg",
         "sourceType": "core",
         "sourceArticleId": "cocos-island-national-park-wk",
         "sourceGeohash4": "d0fp",
         "categories": [
-          "Categorized by DrTrigonBot",
-          "Created with Adobe Photoshop",
-          "Files by Wikivoyage user (not yet sorted)",
-          "Files from Wikivoyage wts",
           "Isla del Coco",
-          "PD US Air Force"
-        ]
+          "Maps of islands of Costa Rica",
+          "UK Government artistic works"
+        ],
+        "smallPath": "_m/d/0/f/p/cocos-island-national-park-wk/map-cocos-island-isla-small.webp"
       },
       "images": [
         {
@@ -67,7 +65,8 @@
             "Location maps of North America",
             "Topographic maps of Central America",
             "Topographic maps of the Caribbean"
-          ]
+          ],
+          "smallPath": "_m/d/1/s/d/stone-spheres-of-costa-rica-wp/relief-map-central-ame-small.webp"
         },
         {
           "path": "_m/tpc/co/co/s-/is/cocos-island-national-park/atardecer-en-bahia-wafer-isla-.jpg",
@@ -90,7 +89,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FS3"
-          ]
+          ],
+          "smallPath": "_m/tpc/co/co/s-/is/cocos-island-national-park/atardecer-en-bahia-wafer-isla--small.webp"
         },
         {
           "path": "_m/tpc/co/co/s-/is/cocos-island-national-park/islote-manuelita-en-isla-del-c.jpg",
@@ -105,7 +105,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Islote_Manuelita_en_Isla_del_Coco.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "cocos-island-national-park",
-          "sourceGeohash4": "tpc/co/co/s-/is"
+          "sourceGeohash4": "tpc/co/co/s-/is",
+          "smallPath": "_m/tpc/co/co/s-/is/cocos-island-national-park/islote-manuelita-en-isla-del-c-small.webp"
         }
       ],
       "narration": [

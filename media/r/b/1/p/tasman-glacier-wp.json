@@ -3,35 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/b/1/p/tasman-glacier-wp/hero.jpg",
-        "filename": "Upper Tasman Glacier.jpg",
-        "caption": "Aerial view of the upper half of the Tasman Glacier, in New Zealand's Aoraki/Mount Cook National Park. The plane's wing is visible in the upper right corner.",
-        "alt": "Aerial view of the upper half of the Tasman Glacier, in New Zealand's Aoraki/Mount Cook National Park. The plane's wing is visible in the upper right corner.",
-        "width": 3072,
-        "height": 2304,
+        "path": "_m/r/b/1/p/tasman-glacier-wp/tasman-glacier-2014-01-07-17-2.jpg",
+        "filename": "Tasman Glacier - 2014-01-07 17.20.43 copy (11978199433).jpg",
+        "caption": "An overview of Tasman Lake and Tasman Glacier near Mt Cook village, Southern Alps, South Island, New Zealand. This panoramic image has been made using iPhone 5 and post-processed in Intensify PRO software.",
+        "alt": "An overview of Tasman Lake and Tasman Glacier near Mt Cook village, Southern Alps, South Island, New Zealand. This panoramic image has been made using iPhone 5 and post-processed in Intensify PRO software.",
+        "width": 9103,
+        "height": 2389,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Avenue",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Upper_Tasman_Glacier.jpg",
-        "sourceType": "core",
+        "license": "CC BY 2.0",
+        "artist": "Stas Kulesh from Auckland, New Zealand",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tasman_Glacier_-_2014-01-07_17.20.43_copy_(11978199433).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "tasman-glacier-wp",
         "sourceGeohash4": "rb1p",
-        "categories": [
-          "Aerial photographs of New Zealand",
-          "Aiguilles Rouges (New Zealand)",
-          "CC-BY-SA-3.0",
-          "GFDL",
-          "Haeckel Peak",
-          "Images with annotations",
-          "License migration redundant",
-          "Malte Brun",
-          "Moraines in New Zealand",
-          "Mount Darwin (New Zealand)",
-          "Mount Hamilton (New Zealand)",
-          "Self-published work",
-          "Tasman Glacier",
-          "Valley glaciers in New Zealand"
-        ]
+        "mediumPath": "_m/r/b/1/p/tasman-glacier-wp/tasman-glacier-2014-01-07-17-2-medium.webp",
+        "smallPath": "_m/r/b/1/p/tasman-glacier-wp/tasman-glacier-2014-01-07-17-2-small.webp"
       },
       "images": [
         {
@@ -61,7 +47,7 @@
           "smallPath": "_m/r/b/1/p/tasman-glacier-wp/left-right-mueller-hoo-small.gif"
         },
         {
-          "path": "_m/r/b/1/p/tasman-glacier-wp/close-up-tasman-glacie.jpg",
+          "path": "_m/r/b/0/z/aoraki-mount-cook-national-park-wk/close-up-tasman-glacie.jpg",
           "filename": "Close-up of Tasman Glacier terminus in front of Mt Haidinger, viewed from Tasman Glacier Lake.jpg",
           "caption": "Close-up of Tasman Glacier terminus in front of Mt Haidinger, viewed from Tasman Glacier Lake",
           "alt": "Close-up of Tasman Glacier terminus in front of Mt Haidinger, viewed from Tasman Glacier Lake",
@@ -84,7 +70,9 @@
             "New Zealand photographs taken on 2016-01-05",
             "Tasman Glacier",
             "Tasman Lake"
-          ]
+          ],
+          "mediumPath": "_m/r/b/0/z/aoraki-mount-cook-national-park-wk/close-up-tasman-glacie-medium.webp",
+          "smallPath": "_m/r/b/0/z/aoraki-mount-cook-national-park-wk/close-up-tasman-glacie-small.webp"
         },
         {
           "path": "_m/r/b/1/p/tasman-glacier-wp/lower-tasman-glacier-t.jpg",
@@ -516,7 +504,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Pentax K20D"
-          ]
+          ],
+          "smallPath": "_m/r/b/0/z/aoraki-mount-cook-national-park-wp/nzl-mtcook-peters-lookout-small.webp"
         },
         {
           "path": "_m/r/b/0/z/aoraki-mount-cook-national-park-wp/tramping-or-hiking-in-aoraki-m.jpg",
@@ -539,7 +528,9 @@
             "Files from Wikivoyage wts",
             "Files moved from wts.oldwikivoyage to Commons requiring review",
             "Files moved to Commons requiring review as of 23 December 2012"
-          ]
+          ],
+          "mediumPath": "_m/r/b/0/z/aoraki-mount-cook-national-park-wp/tramping-or-hiking-in-aoraki-m-medium.webp",
+          "smallPath": "_m/r/b/0/z/aoraki-mount-cook-national-park-wp/tramping-or-hiking-in-aoraki-m-small.webp"
         },
         {
           "path": "_m/r/b/0/z/aoraki-mount-cook-national-park-wk/aoraki-mount-cook-national-par.jpg",
@@ -561,7 +552,9 @@
             "Extracted images",
             "Wikivoyage banners by Missvain",
             "Wikivoyage banners of the South Island"
-          ]
+          ],
+          "mediumPath": "_m/r/b/0/z/aoraki-mount-cook-national-park-wk/aoraki-mount-cook-national-par-medium.webp",
+          "smallPath": "_m/r/b/0/z/aoraki-mount-cook-national-park-wk/aoraki-mount-cook-national-par-small.webp"
         },
         {
           "path": "_m/p/z/8/x/the-catlins-wp/nugget-point-3.jpg",
@@ -586,7 +579,8 @@
             "New Zealand photographs taken on 2005-02-15",
             "Nugget Point Lighthouse",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/p/z/8/x/the-catlins-wp/nugget-point-3-small.webp"
         },
         {
           "path": "_m/r/b/e/n/nelson-bays-wk/nelson-new-zealand.jpg",
@@ -611,7 +605,9 @@
             "Self-published work",
             "Taken with Canon PowerShot S3 IS",
             "Tasman Bay"
-          ]
+          ],
+          "mediumPath": "_m/r/b/e/n/nelson-bays-wk/nelson-new-zealand-medium.webp",
+          "smallPath": "_m/r/b/e/n/nelson-bays-wk/nelson-new-zealand-small.webp"
         },
         {
           "path": "_m/r/b/1/p/south-island-wp/craigieburn-valley.jpg",
@@ -632,7 +628,9 @@
             "PD-self",
             "Self-published work",
             "Skiing in New Zealand"
-          ]
+          ],
+          "mediumPath": "_m/r/b/1/p/south-island-wp/craigieburn-valley-medium.webp",
+          "smallPath": "_m/r/b/1/p/south-island-wp/craigieburn-valley-small.webp"
         },
         {
           "path": "_m/r/b/1/p/south-island-wp/christchurch-cathedral-nelson-.jpg",
@@ -657,7 +655,8 @@
             "New Zealand photographs taken on 2007-12-27",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "smallPath": "_m/r/b/1/p/south-island-wp/christchurch-cathedral-nelson--small.webp"
         },
         {
           "path": "_m/r/b/0/z/aoraki-mount-cook-wp/aoraki-mount-cook.jpg",
@@ -689,7 +688,9 @@
             "Snow in New Zealand in June 2007",
             "Water reflections of clouds in New Zealand",
             "Water reflections of mountains in New Zealand"
-          ]
+          ],
+          "mediumPath": "_m/r/b/0/z/aoraki-mount-cook-wp/aoraki-mount-cook-medium.webp",
+          "smallPath": "_m/r/b/0/z/aoraki-mount-cook-wp/aoraki-mount-cook-small.webp"
         },
         {
           "path": "_m/r/b/1/p/south-island-wp/kaikoura-city.jpg",
@@ -713,7 +714,9 @@
             "License migration redundant",
             "New Zealand photographs taken on 2009-02-17",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/r/b/1/p/south-island-wp/kaikoura-city-medium.webp",
+          "smallPath": "_m/r/b/1/p/south-island-wp/kaikoura-city-small.webp"
         },
         {
           "path": "_m/r/b/1/p/south-island-wp/nzl-christchurch-peac-f-arts-c.jpg",
@@ -728,7 +731,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:NZL-christchurch-peac-f-arts-c.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-island-wp",
-          "sourceGeohash4": "rb1p"
+          "sourceGeohash4": "rb1p",
+          "smallPath": "_m/r/b/1/p/south-island-wp/nzl-christchurch-peac-f-arts-c-small.webp"
         },
         {
           "path": "_m/p/z/c/4/otago-wp/nzl-dunedin-octogon-rath-stpau.jpg",
@@ -743,7 +747,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:NZL-dunedin-octogon-rath-stpauls.jpg",
           "sourceType": "poi",
           "sourceArticleId": "otago-wp",
-          "sourceGeohash4": "rb1p"
+          "sourceGeohash4": "rb1p",
+          "smallPath": "_m/p/z/c/4/otago-wp/nzl-dunedin-octogon-rath-stpau-small.webp"
         },
         {
           "path": "_m/r/b/1/p/south-island-wp/new-zealand-queenstown-shotove.jpg",
@@ -758,7 +763,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_zealand_queenstown_shotover_jet.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-island-wp",
-          "sourceGeohash4": "rb1p"
+          "sourceGeohash4": "rb1p",
+          "mediumPath": "_m/r/b/1/p/south-island-wp/new-zealand-queenstown-shotove-medium.webp",
+          "smallPath": "_m/r/b/1/p/south-island-wp/new-zealand-queenstown-shotove-small.webp"
         },
         {
           "path": "_m/r/b/1/p/south-island-wp/lake-pukaki-and-mt-cook-832134.jpg",
@@ -773,7 +780,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_pukaki_and_mt_cook_(8321347439).jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-island-wp",
-          "sourceGeohash4": "rb1p"
+          "sourceGeohash4": "rb1p",
+          "mediumPath": "_m/r/b/1/p/south-island-wp/lake-pukaki-and-mt-cook-832134-medium.webp",
+          "smallPath": "_m/r/b/1/p/south-island-wp/lake-pukaki-and-mt-cook-832134-small.webp"
         },
         {
           "path": "_m/r/b/1/p/south-island-wp/00-1131-picton-neuseeland.jpg",
@@ -788,7 +797,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_1131_Picton_-_Neuseeland.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-island-wp",
-          "sourceGeohash4": "rb1p"
+          "sourceGeohash4": "rb1p",
+          "mediumPath": "_m/r/b/1/p/south-island-wp/00-1131-picton-neuseeland-medium.webp",
+          "smallPath": "_m/r/b/1/p/south-island-wp/00-1131-picton-neuseeland-small.webp"
         },
         {
           "path": "_m/r/b/0/3/wanaka-wk/wanaka-aerial-panorama.jpg",
@@ -803,7 +814,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_wanaka_panorama_2018.jpg",
           "sourceType": "poi",
           "sourceArticleId": "wanaka-wk",
-          "sourceGeohash4": "rb1p"
+          "sourceGeohash4": "rb1p",
+          "mediumPath": "_m/r/b/0/3/wanaka-wk/wanaka-aerial-panorama-medium.webp",
+          "smallPath": "_m/r/b/0/3/wanaka-wk/wanaka-aerial-panorama-small.webp"
         },
         {
           "path": "_m/r/b/d/z/abel-tasman-national-park-wk/related-poi-00-1171-kahurangi-national-par.jpg",
@@ -818,7 +831,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_1171_Kahurangi_National_Park_-_NZ.jpg",
           "sourceType": "poi",
           "sourceArticleId": "abel-tasman-national-park-wk",
-          "sourceGeohash4": "rb1p"
+          "sourceGeohash4": "rb1p",
+          "mediumPath": "_m/r/b/d/z/abel-tasman-national-park-wk/related-poi-00-1171-kahurangi-national-par-medium.webp",
+          "smallPath": "_m/r/b/d/z/abel-tasman-national-park-wk/related-poi-00-1171-kahurangi-national-par-small.webp"
         }
       ],
       "narration": [

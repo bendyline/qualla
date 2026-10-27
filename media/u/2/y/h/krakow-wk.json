@@ -12,18 +12,18 @@
         "_m/u/2/y/h/krakow-wk/u2yh-krakow-the-survival.mp3"
       ],
       "hero": {
-        "path": "_m/u/2/y/h/krakow-wp/krakow-rynek-glowny-panorama-2.jpg",
-        "filename": "Krakow Rynek Glowny panorama 2.jpg",
-        "caption": "Kraków - Main Market Square",
-        "alt": "Kraków - Main Market Square",
-        "width": 7505,
-        "height": 3690,
+        "path": "_m/u/2/y/h/krakow-wk/hero.jpg",
+        "filename": "Balice airport.JPG",
+        "caption": "John Paul II Airport in Balice-Kraków",
+        "alt": "John Paul II Airport in Balice-Kraków",
+        "width": 2272,
+        "height": 1704,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Andrzej Otrębski",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krakow_Rynek_Glowny_panorama_2.jpg",
-        "sourceType": "sibling",
-        "sourceArticleId": "krakow-wp",
+        "license": "CC BY-SA 3.0",
+        "artist": "Gryffindor",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balice_airport.JPG",
+        "sourceType": "core",
+        "sourceArticleId": "krakow-wk",
         "sourceGeohash4": "u2yh",
         "accessedAt": "2026-02-22T14:22:00.111Z",
         "mediumPath": "_m/u/2/y/h/krakow-wk/hero-medium.webp",
@@ -709,8 +709,8 @@
           "sourceArticleId": "krakow-wk",
           "sourceGeohash4": "u2yh",
           "accessedAt": "2026-02-22T14:22:00.111Z",
-          "mediumPath": "_m/u/2/y/h/krakow-wk/hero-medium.jpg",
-          "smallPath": "_m/u/2/y/h/krakow-wk/hero-small.jpg"
+          "mediumPath": "_m/u/2/y/h/krakow-wk/hero-medium.webp",
+          "smallPath": "_m/u/2/y/h/krakow-wk/hero-small.webp"
         },
         {
           "path": "_m/u/2/y/h/krakow-wp/20150207-pendolino-ed250-pkp-i.jpg",
@@ -790,7 +790,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "bruges-wp",
           "sourceGeohash4": "u2yh",
-          "accessedAt": "2026-02-22T14:22:00.111Z"
+          "accessedAt": "2026-02-22T14:22:00.111Z",
+          "mediumPath": "_m/u/1/4/7/bruges-wp/hansestadt-lubeck-tatiana-yagu-medium.webp",
+          "smallPath": "_m/u/1/4/7/bruges-wp/hansestadt-lubeck-tatiana-yagu-small.webp"
         },
         {
           "path": "_m/u/2/y/h/krakow-wp/collegium-maius-2017.jpg",
@@ -1166,7 +1168,8 @@
             "Lwowska Street in Kraków",
             "PD-Poland",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/kr/ak/ow/history-of-krakow/krakow-ghetto-06694-small.webp"
         },
         {
           "path": "_m/tpc/_ho/kr/ak/ow/history-of-krakow/bundesarchiv-bild-121-0316-kra.jpg",
@@ -1190,7 +1193,8 @@
             "Images from the German Federal Archive",
             "Montelupich Prison",
             "Template Unknown (unspecified)"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/kr/ak/ow/history-of-krakow/bundesarchiv-bild-121-0316-kra-small.webp"
         },
         {
           "path": "_m/tpc/_ho/kr/ak/ow/history-of-krakow/krakow11do13wieku.png",
@@ -1206,7 +1210,8 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-krakow",
           "sourceGeohash4": "tpc/_ho/kr/ak/ow",
-          "accessedAt": "2026-02-22T14:22:00.111Z"
+          "accessedAt": "2026-02-22T14:22:00.111Z",
+          "smallPath": "_m/tpc/_ho/kr/ak/ow/history-of-krakow/krakow11do13wieku-small.webp"
         },
         {
           "path": "_m/tpc/_ho/kr/ak/ow/history-of-krakow/commission-scientifique-du-nor.jpg",
@@ -1222,7 +1227,8 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-krakow",
           "sourceGeohash4": "tpc/_ho/kr/ak/ow",
-          "accessedAt": "2026-02-22T14:22:00.111Z"
+          "accessedAt": "2026-02-22T14:22:00.111Z",
+          "smallPath": "_m/tpc/_ho/kr/ak/ow/history-of-krakow/commission-scientifique-du-nor-small.webp"
         }
       ],
       "combinedNarration": "_m/u/2/y/h/krakow-wk/u2yh-krakow-combined.mp3",

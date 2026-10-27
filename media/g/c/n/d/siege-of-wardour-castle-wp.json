@@ -27,7 +27,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/n/d/siege-of-wardour-castle-wp/relief-map-wiltshire-u.jpg",
+          "path": "_m/g/c/n/6/stourhead-wp/relief-map-wiltshire-u.jpg",
           "filename": "Wiltshire UK relief location map.jpg",
           "caption": "Relief map of Wiltshire, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 160%\nGeographic limits:\n\nWest: 2.40W\nEast: 1.35W\nNorth: 51.72N\nSouth: 50.92N",
           "alt": "Relief map of Wiltshire, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 160%\nGeographic limits:\n\nWest: 2.40W\nEast: 1.35W\nNorth: 51.72N\nSouth: 50.92N",
@@ -46,7 +46,9 @@
             "Maps of Wiltshire",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/n/6/stourhead-wp/relief-map-wiltshire-u-medium.webp",
+          "smallPath": "_m/g/c/n/6/stourhead-wp/relief-map-wiltshire-u-small.webp"
         }
       ],
       "narration": [
@@ -58,8 +60,9 @@
         "_m/g/c/n/d/siege-of-wardour-castle-wp/gcnd-siege-of-wardour-castle-the-mine-beneath-the-west-wall.mp3"
       ],
       "combinedNarration": "_m/g/c/n/d/siege-of-wardour-castle-wp/gcnd-siege-of-wardour-castle-combined.mp3",
-      "combinedNarrationBytes": 4229633,
-      "combinedNarrationDuration": 352
+      "combinedNarrationBytes": 4294928,
+      "combinedNarrationDuration": 352,
+      "combinedCover": "_m/g/c/n/d/siege-of-wardour-castle-wp/gcnd-siege-of-wardour-castle-combined-cover.jpg"
     }
   }
 }

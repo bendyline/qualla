@@ -36,7 +36,7 @@ The coordinates for the electorate are those of its capital, Hannover, at 52.366
 
 ## Sources
 
-- [Electorate of Hanover - Wikipedia](https://en.wikipedia.org/wiki/Electorate_of_Hanover)
+- [Electorate of Hanover - Wikipedia](https://en.wikipedia.org/?curid=2809117)
   - Electorate of the Holy Roman Empire in north-western Germany, arising from the Principality of Calenberg; formally the Electorate of Brunswick-Lueneburg with Hanover as capital
   - 1692: Emperor Leopold I elevated Duke Ernest Augustus of the Calenberg line to prince-elector as a reward for aid in the Nine Years' War, through the efforts of Otto Grote zu Schauen; protests followed and the Imperial Diet did not approve until 1708, in the person of George Louis
   - Officially named Chur-Braunschweig-Lueneburg; Hanover became the colloquial name; arms carried the Saxon Steed

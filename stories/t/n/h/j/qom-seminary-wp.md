@@ -55,7 +55,7 @@ Located at 34.64N, 50.88E in the city of Qom, approximately 125 km south of Tehr
   - 1922 founding date confirmed
   - Haeri moved from Arak (formerly Sultanabad) to Qom
   - Ja'far al-Sadiq hadith about knowledge reappearing in Qom confirmed as reason for Haeri's decision to stay
-- [Qom Seminary - Wikipedia (additional verification)](https://en.wikipedia.org/wiki/Qom_Seminary)
+- [Qom Seminary - Wikipedia (additional verification)](https://en.wikipedia.org/?curid=32825717)
   - Current enrollment over 40,000 students from over 80 countries confirmed
   - Borujerdi enrollment figures and al-Azhar recognition confirmed
   - Dar al-Taqrib in Egypt founded by Borujerdi confirmed

@@ -33,7 +33,7 @@ Toba Castle ruins sit at 34.4808N, 136.8446E on a coastal hill in central Toba C
 ## Sources
 
 - [Toba Castle - Wikipedia](https://en.wikipedia.org/?curid=37869176)
-- [Toba Castle - Wikipedia](https://en.wikipedia.org/wiki/Toba_Castle)
+- [Toba Castle - Wikipedia](https://en.wikipedia.org/?curid=37869176)
   - Castle built in 1594 by Kuki Yoshitaka - confirmed
   - Seaward walls painted black, landward walls white - confirmed (nicknamed 'Two-color Castle')
   - Kuki Yoshitaka stormed Toba Castle in 1600 to take it from his son Moritaka - confirmed

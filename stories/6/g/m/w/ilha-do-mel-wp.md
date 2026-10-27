@@ -47,7 +47,7 @@ Located at 25.51S, 48.34W, approximately 4km offshore from Pontal do Paraná. Th
 - [Farol das Conchas 150 years - Instituto Histórico](https://folhadolitoral.com.br/en/colunistas/instituto-historico-e-geografico-de-paranagua/o-farol-das-conchas-completou-150-anos/)
   - P & W Macnab firm from Glasgow
   - Baron Cotegipe ordered construction
-- [Ilha do Mel - Wikipedia and Ilha do Mel Ecological Station](https://en.wikipedia.org/wiki/Ilha_do_Mel)
+- [Ilha do Mel - Wikipedia and Ilha do Mel Ecological Station](https://en.wikipedia.org/?curid=79143864)
   - Lighthouse tower confirmed 18 meters (story is correct)
   - Ecological station established 1982, 2241 hectares confirmed
   - Island covers approximately 2710 hectares total

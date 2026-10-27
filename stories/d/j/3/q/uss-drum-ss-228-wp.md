@@ -32,7 +32,7 @@ Decommissioned in February 1946, Drum spent two decades in reserve service for t
 
 ## Flight Context
 
-USS Drum (SS-228) sits at 30.6811N, 88.0167W at Battleship Memorial Park in Mobile, Alabama, on shore just south of the battleship USS Alabama. The submarine is on dry land and visible as a dark cylindrical shape beside the larger battleship hull. Approach from the east over Mobile Bay. Nearby airports include Mobile Downtown Airport (KBFM, 3 nm southwest) and Mobile Regional Airport (KMOB, 10 nm west). Recommended viewing altitude: 1,000-2,500 feet AGL for detail on both the submarine and battleship.
+USS Drum (SS-228) sits at 30.6811N, 88.0167W at Battleship Memorial Park in Mobile, Alabama, on shore just south of the battleship USS Alabama. The submarine is on dry land and visible as a dark cylindrical shape beside the larger battleship hull. Approach from the east over Mobile Bay. Nearby airports include Mobile International Airport (KBFM, formerly Mobile Downtown, 3 nm southwest) and Mobile Regional Airport (KMOB, 10 nm west). Recommended viewing altitude: 1,000-2,500 feet AGL for detail on both the submarine and battleship.
 
 ## Sources
 

@@ -43,7 +43,7 @@ This article is plotted at 51.000°N, 12.833°E, in the Saxon country between th
   - Christian Hennig von Jessen, pastor at Wustrow, compiled the Vocabularium Venedicum, working with the Polabian-speaking farmer Johann Janieschge of Klennow, confirmed
   - Johann Parum Schultze, a Polabian farmer, left records cited as Chronica Venedica confirmed
   - last speech area around Lüchow-Dannenberg confirmed
-- [Polabian language - Wikipedia (EN)](https://en.wikipedia.org/wiki/Polabian_language)
+- [Polabian language - Wikipedia (EN)](https://en.wikipedia.org/?curid=150215)
   - about 2,800 Polabian words known; a few prayers, one wedding song, a few folktales, confirmed
   - last person speaking limited Polabian died 1825 confirmed (flagged as needing citation on Wikipedia)
   - Vocabularium Venedicum dated 1679-1719 confirmed

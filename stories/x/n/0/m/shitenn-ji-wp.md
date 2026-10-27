@@ -36,12 +36,12 @@ Located at 34.654N, 135.516E in central Osaka, just south of the Tennoji distric
 
 ## Sources
 
-- [Shitennoji - Wikipedia](https://en.wikipedia.org/wiki/Shitenn%C5%8D-ji)
+- [Shitennoji - Wikipedia](https://en.wikipedia.org/?curid=6429247)
 - [Shitennoji Temple - Osaka Info (Official Tourism)](https://en.osaka-info.jp/spot/shitennoji/)
   - Founded 593 by Prince Shotoku
   - Japan's first state-sponsored Buddhist temple
   - Four Heavenly Kings dedication
-- [Shitennoji - Wikipedia](https://en.wikipedia.org/wiki/Shitenn%C5%8D-ji)
+- [Shitennoji - Wikipedia](https://en.wikipedia.org/?curid=6429247)
   - Four institutions (Kyoden-in, Seyaku-in, Ryobyo-in, Hiden-in)
   - 1934 Muroto typhoon damage
   - 1963 reconstruction

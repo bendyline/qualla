@@ -3,27 +3,20 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/4/1/ypres-cloth-hall-wp/hero.jpg",
-        "filename": "Ieper Lakenhal R02.jpg",
-        "caption": "Ypres (Belgium): cloth hall and belfry",
-        "alt": "Ypres (Belgium): cloth hall and belfry",
-        "width": 3254,
-        "height": 2344,
+        "path": "_m/u/1/4/1/ypres-cloth-hall-wp/louis-auguste-bisson-y.jpg",
+        "filename": "Louis-Auguste Bisson - Ypres, Belgium - 1986.37 - Cleveland Museum of Art.jpg",
+        "alt": "Louis-Auguste Bisson - Ypres, Belgium - 1986.37 - Cleveland Museum of Art.jpg",
+        "width": 6120,
+        "height": 4572,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Marc Ryckaert",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ieper_Lakenhal_R02.jpg",
+        "license": "Public domain",
+        "artist": "Louis-Auguste Bisson / Auguste-Rosalie Bisson",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Louis-Auguste_Bisson_-_Ypres,_Belgium_-_1986.37_-_Cleveland_Museum_of_Art.jpg",
         "sourceType": "core",
         "sourceArticleId": "ypres-cloth-hall-wp",
         "sourceGeohash4": "u141",
-        "categories": [
-          "Belfries in Belgium",
-          "CC-BY-SA-4.0",
-          "Cloth Hall (Ypres)",
-          "Images by MJJR",
-          "Self-published work",
-          "Taken with Nikon D90"
-        ]
+        "mediumPath": "_m/u/1/4/1/ypres-cloth-hall-wp/louis-auguste-bisson-y-medium.webp",
+        "smallPath": "_m/u/1/4/1/ypres-cloth-hall-wp/louis-auguste-bisson-y-small.webp"
       },
       "images": [
         {
@@ -281,7 +274,7 @@
           "smallPath": "_m/u/1/4/1/ypres-cloth-hall-wp/144-12-december-2010-small.webp"
         },
         {
-          "path": "_m/u/1/4/1/ypres-cloth-hall-wp/hero.jpg",
+          "path": "_m/u/1/4/1/in-flanders-fields-museum-wp/hero.jpg",
           "filename": "Flanders Fields Museum.JPG",
           "caption": "In Flanders Fields Museum, Ypres, Belgium",
           "alt": "In Flanders Fields Museum, Ypres, Belgium",
@@ -297,7 +290,9 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Cloth Hall (Ypres)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/1/in-flanders-fields-museum-wp/hero-medium.webp",
+          "smallPath": "_m/u/1/4/1/in-flanders-fields-museum-wp/hero-small.webp"
         },
         {
           "path": "_m/u/1/4/1/ypres-cloth-hall-wp/d145-les-halles-a-ypres-liv3-c.png",
@@ -535,7 +530,9 @@
             "PD-self",
             "Self-published work",
             "Trauerndes Elternpaar (Käthe Kollwitz)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/4/1/ypres-wp/het-treurende-ouderpaar-kathe--medium.webp",
+          "smallPath": "_m/u/1/4/1/ypres-wp/het-treurende-ouderpaar-kathe--small.webp"
         },
         {
           "path": "_m/u/1/4/1/ypres-wp/ypres-town-centre.jpg",
@@ -560,7 +557,8 @@
             "Files with no machine-readable source",
             "Images without source",
             "Ypres"
-          ]
+          ],
+          "smallPath": "_m/u/1/4/1/ypres-wp/ypres-town-centre-small.webp"
         },
         {
           "path": "_m/u/1/4/1/ypres-wp/het-kasteel.jpg",
@@ -575,7 +573,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Het_kasteel.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "ypres-wp",
-          "sourceGeohash4": "u141"
+          "sourceGeohash4": "u141",
+          "mediumPath": "_m/u/1/4/1/ypres-wp/het-kasteel-medium.webp",
+          "smallPath": "_m/u/1/4/1/ypres-wp/het-kasteel-small.webp"
         },
         {
           "path": "_m/u/1/4/1/ypres-wp/bellewaerde-ingang.jpg",
@@ -590,7 +590,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bellewaerde_ingang.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ypres-wp",
-          "sourceGeohash4": "u141"
+          "sourceGeohash4": "u141",
+          "mediumPath": "_m/u/1/4/1/ypres-wp/bellewaerde-ingang-medium.webp",
+          "smallPath": "_m/u/1/4/1/ypres-wp/bellewaerde-ingang-small.webp"
         }
       ],
       "narration": [

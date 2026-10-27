@@ -3,7 +3,7 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/2/0/4/m/chatham-islands-wk/204t-chatham-islands-flight-context.mp3",
+        "_m/2/0/4/m/chatham-islands-wk/204m-chatham-islands-flight-context.mp3",
         "_m/2/0/4/m/chatham-islands-wk/204t-chatham-islands-intro.mp3",
         "_m/2/0/4/m/chatham-islands-wk/204t-chatham-islands-a-pacifist-people.mp3",
         "_m/2/0/4/m/chatham-islands-wk/204t-chatham-islands-where-new-zealand-began.mp3",
@@ -26,8 +26,8 @@
         "sourceArticleId": "chatham-islands-wp",
         "sourceGeohash4": "204m",
         "accessedAt": "2026-02-21T20:02:20.484Z",
-        "mediumPath": "_m/2/0/4/m/chatham-islands-wk/hero-medium.webp",
-        "smallPath": "_m/2/0/4/m/chatham-islands-wk/hero-small.webp"
+        "mediumPath": "_m/2/0/4/m/chatham-islands-wp/schist-formations-kaingaroa-ch-medium.webp",
+        "smallPath": "_m/2/0/4/m/chatham-islands-wp/schist-formations-kaingaroa-ch-small.webp"
       },
       "images": [
         {
@@ -419,10 +419,11 @@
             "Mammals of the Chatham Islands",
             "New Zealand photographs taken on 2007-09-23",
             "Waitangi, Chatham Islands"
-          ]
+          ],
+          "smallPath": "_m/2/0/4/m/chatham-islands-wp/view-from-chatham-islands-small.webp"
         },
         {
-          "path": "_m/2/0/4/m/chatham-islands-wp/.png",
+          "path": "_m/2/0/4/m/chatham-islands-wp/image-40ee8373.png",
           "filename": "大洋.png",
           "caption": "Map of Oceania",
           "alt": "Map of Oceania",
@@ -442,7 +443,8 @@
             "Locator maps of Oceania",
             "PNG that should use vector graphics",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/2/0/4/m/chatham-islands-wp/image-40ee8373-small.webp"
         },
         {
           "path": "_m/2/0/4/m/chatham-islands-wp/chatham-island-tree-carving.jpg",
@@ -469,7 +471,8 @@
             "Taken with Canon EOS 300D",
             "Tree carvings",
             "Trees in New Zealand"
-          ]
+          ],
+          "smallPath": "_m/2/0/4/m/chatham-islands-wp/chatham-island-tree-carving-small.webp"
         },
         {
           "path": "_m/2/0/4/m/chatham-islands-wp/torotoro-monument-kaingaroa.jpg",
@@ -491,7 +494,9 @@
             "Monuments and memorials in New Zealand",
             "PD-user",
             "Taken with Canon PowerShot A550"
-          ]
+          ],
+          "mediumPath": "_m/2/0/4/m/chatham-islands-wp/torotoro-monument-kaingaroa-medium.webp",
+          "smallPath": "_m/2/0/4/m/chatham-islands-wp/torotoro-monument-kaingaroa-small.webp"
         },
         {
           "path": "_m/2/0/4/m/chatham-islands-wp/chatham-islands-forgetmenot.jpg",
@@ -512,7 +517,9 @@
             "CC-BY-2.0",
             "Flickr images uploaded by Flickr upload bot",
             "Myosotidium hortensia"
-          ]
+          ],
+          "mediumPath": "_m/2/0/4/m/chatham-islands-wp/chatham-islands-forgetmenot-medium.webp",
+          "smallPath": "_m/2/0/4/m/chatham-islands-wp/chatham-islands-forgetmenot-small.webp"
         },
         {
           "path": "_m/2/0/4/m/chatham-islands-wp/bloom-around-the-chatham-islan.jpg",
@@ -535,7 +542,9 @@
             "Nature of the Chatham Islands",
             "PD NASA",
             "Photos of New Zealand by the Aqua (satellite) MODIS"
-          ]
+          ],
+          "mediumPath": "_m/2/0/4/m/chatham-islands-wp/bloom-around-the-chatham-islan-medium.webp",
+          "smallPath": "_m/2/0/4/m/chatham-islands-wp/bloom-around-the-chatham-islan-small.webp"
         },
         {
           "path": "_m/2/0/4/m/chatham-islands-wp/20180930-chathams-153.jpg",
@@ -551,7 +560,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "chatham-islands-wp",
           "sourceGeohash4": "204m",
-          "accessedAt": "2026-02-21T20:02:20.484Z"
+          "accessedAt": "2026-02-21T20:02:20.484Z",
+          "mediumPath": "_m/2/0/4/m/chatham-islands-wp/20180930-chathams-153-medium.webp",
+          "smallPath": "_m/2/0/4/m/chatham-islands-wp/20180930-chathams-153-small.webp"
         },
         {
           "path": "_m/2/0/4/m/chatham-islands-wk/hero.jpg",
@@ -576,10 +587,14 @@
             "Taken with Kodak EasyShare DX7590",
             "Waitangi, Chatham Islands"
           ],
-          "mediumPath": "_m/2/0/4/m/chatham-islands-wk/hero-medium.jpg",
-          "smallPath": "_m/2/0/4/m/chatham-islands-wk/hero-small.jpg"
+          "mediumPath": "_m/2/0/4/m/chatham-islands-wk/hero-medium.webp",
+          "smallPath": "_m/2/0/4/m/chatham-islands-wk/hero-small.webp"
         }
-      ]
+      ],
+      "combinedNarration": "_m/2/0/4/m/chatham-islands-wk/204m-chatham-islands-combined.mp3",
+      "combinedNarrationBytes": 4414107,
+      "combinedNarrationDuration": 360,
+      "combinedCover": "_m/2/0/4/m/chatham-islands-wk/204m-chatham-islands-combined-cover.jpg"
     }
   }
 }

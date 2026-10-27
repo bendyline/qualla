@@ -36,7 +36,7 @@ The site lies at 51.96 N, 14.72 E, on the east bank of the Lusatian Neisse in Gu
 
 ## Sources
 
-- [Villa Wolf](https://en.wikipedia.org/wiki/Villa_Wolf)
+- [Villa Wolf](https://en.wikipedia.org/?curid=64601516)
   - Built 1925-26 in Guben for Erich Wolf (1883-1958) and Elisabeth Wolf née Wilke (1894-1987), married 1922, hat factory inheritance
   - Plot on Teichbornstraße, today ulica Królewska; clinker brick, asymmetrical cuboids, over 1,000 m²; considered Mies's first modern work
   - Elisabeth Wolf added climbing plants to soften the bare facades (de.wikipedia, Villa Wolf (Guben))
@@ -46,7 +46,7 @@ The site lies at 51.96 N, 14.72 E, on the east bank of the Lusatian Neisse in Gu
   - NOT rebuilt as of August 2026 - no replica exists; Polish government signalled support for reconstruction in 2019
   - Mies donated original drawings to MoMA, which also holds a 2001 landscape model
   - Guben split at the Oder-Neisse line after the Potsdam Conference; Gubin's parish church is a stabilised ruin (en.wikipedia, Gubin, Poland)
-- [Villa Wolf - Wikipedia (re-check)](https://en.wikipedia.org/wiki/Villa_Wolf)
+- [Villa Wolf - Wikipedia (re-check)](https://en.wikipedia.org/?curid=64601516)
   - Built 1925-1926 for Erich Wolf/Elisabeth Wilke Wolf, ~1,000 m², destroyed 1945 as Red Army advanced
   - Excavation from 2001 by Lars Scharnholz (BTU) with IBA Fürst-Pückler-Land and MoMA; Mies-Memory-Box 2006; Polish government support signalled 2019 — all confirmed
 

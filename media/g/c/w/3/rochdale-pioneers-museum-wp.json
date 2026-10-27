@@ -3,26 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/w/3/rochdale-pioneers-museum-wp/hero.jpg",
-        "filename": "Rochdale Pioneers Museum A 29 July 2017.jpg",
-        "caption": "Rochdale Pioneers Museum, 31 Toad Lane, Rochdale. Exterior view, showing the original brick building and the 2012 extension",
-        "alt": "Rochdale Pioneers Museum, 31 Toad Lane, Rochdale. Exterior view, showing the original brick building and the 2012 extension",
-        "width": 3072,
-        "height": 2304,
+        "path": "_m/g/c/w/3/rochdale-pioneers-museum-wp/rochdale-pioneers-museum-toad--1.jpg",
+        "filename": "Rochdale Pioneers Museum, Toad Lane, Rochdale (8066785083).jpg",
+        "caption": "Rochdale Pioneers Museum, Toad Lane, Rochdale, England",
+        "alt": "Rochdale Pioneers Museum, Toad Lane, Rochdale, England",
+        "width": 4928,
+        "height": 3264,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Chemical Engineer",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rochdale_Pioneers_Museum_A_29_July_2017.jpg",
-        "sourceType": "core",
+        "license": "CC BY 2.0",
+        "artist": "Ben Sutherland from Crystal Palace, London, UK",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rochdale_Pioneers_Museum,_Toad_Lane,_Rochdale_(8066785083).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "rochdale-pioneers-museum-wp",
         "sourceGeohash4": "gcw3",
-        "categories": [
-          "Advertisements on bricks",
-          "CC-BY-SA-4.0",
-          "July 2017 in the Metropolitan Borough of Rochdale",
-          "Rochdale Pioneers Museum",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/g/c/w/3/rochdale-pioneers-museum-wp/rochdale-pioneers-museum-toad--1-medium.webp",
+        "smallPath": "_m/g/c/w/3/rochdale-pioneers-museum-wp/rochdale-pioneers-museum-toad--1-small.webp"
       },
       "images": [
         {
@@ -519,7 +514,9 @@
             "Listed buildings in England with known IDs",
             "Rochdale Town Hall",
             "Snow of 2009-2010 in the United Kingdom"
-          ]
+          ],
+          "mediumPath": "_m/g/c/w/3/rochdale-wp/rochdale-town-hall-in-the-snow-medium.webp",
+          "smallPath": "_m/g/c/w/3/rochdale-wp/rochdale-town-hall-in-the-snow-small.webp"
         },
         {
           "path": "_m/g/c/w/3/rochdale-wp/captain-matthew-webb.jpg",
@@ -543,7 +540,8 @@
             "PD US expired",
             "Portraits in the Illustrated London News",
             "The Illustrated London News 1883"
-          ]
+          ],
+          "smallPath": "_m/g/c/w/3/rochdale-wp/captain-matthew-webb-small.webp"
         },
         {
           "path": "_m/g/c/w/0/newton-le-willows-wp/altrincham-old-market-place.jpg",
@@ -564,7 +562,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Toshiba PDR-4300"
-          ]
+          ],
+          "smallPath": "_m/g/c/w/0/newton-le-willows-wp/altrincham-old-market-place-small.webp"
         },
         {
           "path": "_m/g/c/w/2/greater-manchester-wp/oldham-above-chadderton-2.jpg",
@@ -588,7 +587,9 @@
             "Oldham",
             "Taken with Nikon D50",
             "Textile mills in the Metropolitan Borough of Oldham"
-          ]
+          ],
+          "mediumPath": "_m/g/c/w/2/greater-manchester-wp/oldham-above-chadderton-2-medium.webp",
+          "smallPath": "_m/g/c/w/2/greater-manchester-wp/oldham-above-chadderton-2-small.webp"
         },
         {
           "path": "_m/g/c/w/2/greater-manchester-wp/bury-town-hall-2.jpg",
@@ -610,7 +611,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Images by David Ingham",
             "Taken with Olympus E-500"
-          ]
+          ],
+          "smallPath": "_m/g/c/w/2/greater-manchester-wp/bury-town-hall-2-small.webp"
         },
         {
           "path": "_m/g/c/w/2/greater-manchester-wp/rose-hill-marple-railway-stati.jpg",
@@ -634,7 +636,9 @@
             "Files with coordinates missing SDC location of creation (53° N, 3° W)",
             "Flickr images reviewed by FlickreviewR",
             "Rose Hill Marple railway station"
-          ]
+          ],
+          "mediumPath": "_m/g/c/w/2/greater-manchester-wp/rose-hill-marple-railway-stati-medium.webp",
+          "smallPath": "_m/g/c/w/2/greater-manchester-wp/rose-hill-marple-railway-stati-small.webp"
         },
         {
           "path": "_m/g/c/w/2/greater-manchester-wp/sale-town-hall-geograph-org-uk.jpg",
@@ -649,7 +653,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sale_Town_Hall_-_geograph.org.uk_-_1749852.jpg",
           "sourceType": "poi",
           "sourceArticleId": "greater-manchester-wp",
-          "sourceGeohash4": "gcw2"
+          "sourceGeohash4": "gcw2",
+          "mediumPath": "_m/g/c/w/2/greater-manchester-wp/sale-town-hall-geograph-org-uk-medium.webp",
+          "smallPath": "_m/g/c/w/2/greater-manchester-wp/sale-town-hall-geograph-org-uk-small.webp"
         },
         {
           "path": "_m/g/c/w/2/greater-manchester-wp/stockport-bus-station-geograph.jpg",
@@ -664,7 +670,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stockport_bus_station_-_geograph.org.uk_-_1413991_cropped.jpg",
           "sourceType": "poi",
           "sourceArticleId": "greater-manchester-wp",
-          "sourceGeohash4": "gcw2"
+          "sourceGeohash4": "gcw2",
+          "smallPath": "_m/g/c/w/2/greater-manchester-wp/stockport-bus-station-geograph-small.webp"
         },
         {
           "path": "_m/g/c/w/2/greater-manchester-wp/manchester-from-the-sky-2008.jpg",
@@ -679,7 +686,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manchester_from_the_Sky,_2008.jpg",
           "sourceType": "poi",
           "sourceArticleId": "greater-manchester-wp",
-          "sourceGeohash4": "gcw2"
+          "sourceGeohash4": "gcw2",
+          "mediumPath": "_m/g/c/w/2/greater-manchester-wp/manchester-from-the-sky-2008-medium.webp",
+          "smallPath": "_m/g/c/w/2/greater-manchester-wp/manchester-from-the-sky-2008-small.webp"
         },
         {
           "path": "_m/g/c/w/2/manchester-wp/manchester-metrolink-schemapla.png",
@@ -694,7 +703,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manchester_Metrolink_-_Schemaplan.png",
           "sourceType": "poi",
           "sourceArticleId": "manchester-wp",
-          "sourceGeohash4": "gcw2"
+          "sourceGeohash4": "gcw2",
+          "mediumPath": "_m/g/c/w/2/manchester-wp/manchester-metrolink-schemapla-medium.webp",
+          "smallPath": "_m/g/c/w/2/manchester-wp/manchester-metrolink-schemapla-small.webp"
         }
       ],
       "narration": [

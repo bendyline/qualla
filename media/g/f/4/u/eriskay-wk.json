@@ -3,34 +3,34 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/4/u/eriskay-wk/hero.jpg",
-        "filename": "Eriskay pony beinn sciathan.jpg",
-        "caption": "Eriskay pony, Beinn Sciathan, Eriskay",
-        "alt": "Eriskay pony, Beinn Sciathan, Eriskay",
+        "path": "_m/g/f/4/u/eriskay-wk/beinn-sciathan-toward-barra.jpg",
+        "filename": "Beinn Sciathan toward Barra.jpg",
+        "caption": "View toward Barra from the summmit of Beinn Sciathan, the highest point on Eriskay.",
+        "alt": "View toward Barra from the summmit of Beinn Sciathan, the highest point on Eriskay.",
         "width": 3872,
         "height": 2592,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
         "artist": "Mipmapped",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eriskay_pony_beinn_sciathan.jpg",
-        "sourceType": "core",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beinn_Sciathan_toward_Barra.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "eriskay-wk",
         "sourceGeohash4": "gf4u",
         "categories": [
           "Beinn Sciathan",
           "CC-BY-SA-3.0",
           "Eriskay",
-          "Eriskay Pony",
           "GFDL",
-          "Gray horses",
           "License migration redundant",
           "Self-published work",
           "Taken with Nikon D40x"
-        ]
+        ],
+        "mediumPath": "_m/g/f/4/u/eriskay-wk/beinn-sciathan-toward-barra-medium.webp",
+        "smallPath": "_m/g/f/4/u/eriskay-wk/beinn-sciathan-toward-barra-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/4/u/eriskay-wk/st-michael-s-church-eriskay-20.jpg",
+          "path": "_m/g/f/4/u/eriskay-wp/st-michael-s-church-eriskay-20.jpg",
           "filename": "St Michael's Church, Eriskay 20090608.jpg",
           "caption": "St Michael's Church, Eriskay, Outer Hebrides, Scotland",
           "alt": "St Michael's Church, Eriskay, Outer Hebrides, Scotland",
@@ -53,10 +53,10 @@
             "Taken with Panasonic Lumix DMC-TZ7",
             "United Kingdom photographs taken on 2009-06-08"
           ],
-          "smallPath": "_m/g/f/4/u/eriskay-wk/st-michael-s-church-eriskay-20-small.webp"
+          "smallPath": "_m/g/f/4/u/eriskay-wp/st-michael-s-church-eriskay-20-small.webp"
         },
         {
-          "path": "_m/g/f/4/u/eriskay-wk/beinn-sciathan.jpg",
+          "path": "_m/g/f/4/u/eriskay-wp/beinn-sciathan.jpg",
           "filename": "Beinn Sciathan.jpg",
           "caption": "Beinn Sciathan, the highest point on Eriskay as viewed from a boat.",
           "alt": "Beinn Sciathan, the highest point on Eriskay as viewed from a boat.",
@@ -77,11 +77,11 @@
             "Self-published work",
             "Taken with Nikon D40x"
           ],
-          "mediumPath": "_m/g/f/4/u/eriskay-wk/beinn-sciathan-medium.webp",
-          "smallPath": "_m/g/f/4/u/eriskay-wk/beinn-sciathan-small.webp"
+          "mediumPath": "_m/g/f/4/u/eriskay-wp/beinn-sciathan-medium.webp",
+          "smallPath": "_m/g/f/4/u/eriskay-wp/beinn-sciathan-small.webp"
         },
         {
-          "path": "_m/g/f/4/u/eriskay-wk/eriskay01lb.jpg",
+          "path": "_m/g/f/4/u/eriskay-wp/eriskay01lb.jpg",
           "filename": "Eriskay01LB.jpg",
           "caption": "houses, Eriskay",
           "alt": "houses, Eriskay",
@@ -101,8 +101,8 @@
             "Outer Hebrides",
             "Self-published work"
           ],
-          "mediumPath": "_m/g/f/4/u/eriskay-wk/eriskay01lb-medium.webp",
-          "smallPath": "_m/g/f/4/u/eriskay-wk/eriskay01lb-small.webp"
+          "mediumPath": "_m/g/f/4/u/eriskay-wp/eriskay01lb-medium.webp",
+          "smallPath": "_m/g/f/4/u/eriskay-wp/eriskay01lb-small.webp"
         },
         {
           "path": "_m/g/f/4/u/eriskay-wk/coilleag-isle-of-eriskay-geogr.jpg",
@@ -514,7 +514,8 @@
             "PNG that should use vector graphics",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/6/e/flannan-isles-wk/hebridesmap-small.webp"
         },
         {
           "path": "_m/g/f/4/u/eriskay-wp/eriskay-shore-outer-hebrides.jpg",
@@ -535,7 +536,8 @@
             "Eriskay",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/4/u/eriskay-wp/eriskay-shore-outer-hebrides-small.webp"
         },
         {
           "path": "_m/g/f/6/e/flannan-isles-wk/relief-map-outer-hebri.jpg",
@@ -557,7 +559,9 @@
             "Maps of the Outer Hebrides",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/6/e/flannan-isles-wk/relief-map-outer-hebri-medium.webp",
+          "smallPath": "_m/g/f/6/e/flannan-isles-wk/relief-map-outer-hebri-small.webp"
         },
         {
           "path": "_m/g/f/4/u/eriskay-wp/prince-s-beach-the-prince-s-co.jpg",
@@ -583,7 +587,9 @@
             "Self-published work",
             "Uploaded via Campaign:wle-gb-sct",
             "West Coast of the Outer Hebrides"
-          ]
+          ],
+          "mediumPath": "_m/g/f/4/u/eriskay-wp/prince-s-beach-the-prince-s-co-medium.webp",
+          "smallPath": "_m/g/f/4/u/eriskay-wp/prince-s-beach-the-prince-s-co-small.webp"
         },
         {
           "path": "_m/g/f/4/u/eriskay-wp/eriskay-pony-with-the-coastal-.jpg",
@@ -604,7 +610,9 @@
             "Eriskay",
             "Eriskay Pony",
             "Images from Wiki Loves Earth 2024"
-          ]
+          ],
+          "mediumPath": "_m/g/f/4/u/eriskay-wp/eriskay-pony-with-the-coastal--medium.webp",
+          "smallPath": "_m/g/f/4/u/eriskay-wp/eriskay-pony-with-the-coastal--small.webp"
         },
         {
           "path": "_m/g/f/4/u/eriskay-wp/south-uist-topographic-map.png",
@@ -619,7 +627,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:South_Uist_topographic_map.png",
           "sourceType": "sibling",
           "sourceArticleId": "eriskay-wp",
-          "sourceGeohash4": "gf4u"
+          "sourceGeohash4": "gf4u",
+          "mediumPath": "_m/g/f/4/u/eriskay-wp/south-uist-topographic-map-medium.webp",
+          "smallPath": "_m/g/f/4/u/eriskay-wp/south-uist-topographic-map-small.webp"
         },
         {
           "path": "_m/g/f/4/s/castlebay-wp/castlebay-and-the-heaval.jpg",
@@ -643,7 +653,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot S3 IS"
-          ]
+          ],
+          "mediumPath": "_m/g/f/4/s/castlebay-wp/castlebay-and-the-heaval-medium.webp",
+          "smallPath": "_m/g/f/4/s/castlebay-wp/castlebay-and-the-heaval-small.webp"
         },
         {
           "path": "_m/g/f/4/s/castlebay-wp/kisimul-castle-20090609.jpg",
@@ -671,7 +683,8 @@
             "Self-published work",
             "Taken with Sony DSLR-A100",
             "United Kingdom photographs taken on 2009-06-09"
-          ]
+          ],
+          "smallPath": "_m/g/f/4/s/castlebay-wp/kisimul-castle-20090609-small.webp"
         },
         {
           "path": "_m/g/f/4/s/castlebay-wp/vatersay-fae020.jpg",
@@ -693,7 +706,9 @@
             "Photos by User:Fæ",
             "Taken with Sony DSC-HX5V",
             "Vatersay"
-          ]
+          ],
+          "mediumPath": "_m/g/f/4/s/castlebay-wp/vatersay-fae020-medium.webp",
+          "smallPath": "_m/g/f/4/s/castlebay-wp/vatersay-fae020-small.webp"
         },
         {
           "path": "_m/g/f/4/s/castlebay-wp/ancient-chapel-cille-bharra.jpg",
@@ -714,7 +729,9 @@
             "Cille Bharra",
             "Self-published work",
             "Taken with Sony DSC-H20"
-          ]
+          ],
+          "mediumPath": "_m/g/f/4/s/castlebay-wp/ancient-chapel-cille-bharra-medium.webp",
+          "smallPath": "_m/g/f/4/s/castlebay-wp/ancient-chapel-cille-bharra-small.webp"
         },
         {
           "path": "_m/g/f/4/s/castlebay-wp/westspitze-von-kisimul-castle.jpg",
@@ -734,7 +751,9 @@
             "CC-BY-SA-4.0",
             "Kisimul Castle",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/4/s/castlebay-wp/westspitze-von-kisimul-castle-medium.webp",
+          "smallPath": "_m/g/f/4/s/castlebay-wp/westspitze-von-kisimul-castle-small.webp"
         },
         {
           "path": "_m/g/f/4/s/castlebay-wp/barra-airport-34846686710.jpg",
@@ -755,7 +774,9 @@
             "CC-BY-SA-2.0",
             "Files with coordinates missing SDC location of creation",
             "Flickr images reviewed by FlickreviewR 2"
-          ]
+          ],
+          "mediumPath": "_m/g/f/4/s/castlebay-wp/barra-airport-34846686710-medium.webp",
+          "smallPath": "_m/g/f/4/s/castlebay-wp/barra-airport-34846686710-small.webp"
         },
         {
           "path": "_m/g/f/4/s/castlebay-wp/mingulay-former-school-geograp.jpg",
@@ -776,7 +797,8 @@
             "Former schools in Scotland",
             "Images by Rob Farrow",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/f/4/s/castlebay-wp/mingulay-former-school-geograp-small.webp"
         },
         {
           "path": "_m/g/f/4/v/south-uist-wp/dun-vulan-20090609-02.jpg",
@@ -801,7 +823,8 @@
             "Self-published work",
             "Taken with Sony DSLR-A100",
             "United Kingdom photographs taken on 2009-06-09"
-          ]
+          ],
+          "smallPath": "_m/g/f/4/v/south-uist-wp/dun-vulan-20090609-02-small.webp"
         },
         {
           "path": "_m/g/f/4/v/south-uist-wp/ormacleit-castle-20090609.jpg",
@@ -826,7 +849,8 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-TZ7",
             "United Kingdom photographs taken on 2009-06-09"
-          ]
+          ],
+          "smallPath": "_m/g/f/4/v/south-uist-wp/ormacleit-castle-20090609-small.webp"
         },
         {
           "path": "_m/g/f/4/v/south-uist-wp/st-marys-church-bornish-geogra.jpg",
@@ -841,7 +865,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Marys_Church,_Bornish_(geograph_2570109).jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-uist-wp",
-          "sourceGeohash4": "gf4v"
+          "sourceGeohash4": "gf4v",
+          "mediumPath": "_m/g/f/4/v/south-uist-wp/st-marys-church-bornish-geogra-medium.webp",
+          "smallPath": "_m/g/f/4/v/south-uist-wp/st-marys-church-bornish-geogra-small.webp"
         },
         {
           "path": "_m/g/f/4/v/south-uist-wp/a-corner-of-loch-druidibeg-geo.jpg",
@@ -856,7 +882,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_corner_of_Loch_Druidibeg_(geograph_3065676).jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-uist-wp",
-          "sourceGeohash4": "gf4v"
+          "sourceGeohash4": "gf4v",
+          "mediumPath": "_m/g/f/4/v/south-uist-wp/a-corner-of-loch-druidibeg-geo-medium.webp",
+          "smallPath": "_m/g/f/4/v/south-uist-wp/a-corner-of-loch-druidibeg-geo-small.webp"
         },
         {
           "path": "_m/g/f/4/v/south-uist-wp/richard-wilson-1713-1714-1782-.jpg",
@@ -870,7 +898,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Richard_Wilson_(1713-1714-1782)_-_Flora_Macdonald_-_NPG_5848_-_National_Portrait_Gallery.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-uist-wp",
-          "sourceGeohash4": "gf4v"
+          "sourceGeohash4": "gf4v",
+          "smallPath": "_m/g/f/4/v/south-uist-wp/richard-wilson-1713-1714-1782--small.webp"
         },
         {
           "path": "_m/g/f/7/0/outer-hebrides-wp/oitir-mhor.jpg",
@@ -894,7 +923,8 @@
             "Causeways in Scotland",
             "North Uist",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/7/0/outer-hebrides-wp/oitir-mhor-small.webp"
         },
         {
           "path": "_m/g/f/4/y/benbecula-wp/culla-bay-benbecula-geograph-o.jpg",
@@ -914,7 +944,9 @@
             "Baile nan Cailleach",
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/4/y/benbecula-wp/culla-bay-benbecula-geograph-o-medium.webp",
+          "smallPath": "_m/g/f/4/y/benbecula-wp/culla-bay-benbecula-geograph-o-small.webp"
         },
         {
           "path": "_m/g/f/4/z/north-uist-wp/teampull-na-trionaid-20090608-.jpg",
@@ -937,7 +969,8 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-TZ7",
             "Teampull na Trionaid"
-          ]
+          ],
+          "smallPath": "_m/g/f/4/z/north-uist-wp/teampull-na-trionaid-20090608--small.webp"
         },
         {
           "path": "_m/g/f/4/z/north-uist-wp/the-hut-of-the-shadows-lochmad.jpg",
@@ -952,7 +985,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Hut_of_the_Shadows,_Lochmaddy.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-uist-wp",
-          "sourceGeohash4": "gf4z"
+          "sourceGeohash4": "gf4z",
+          "smallPath": "_m/g/f/4/z/north-uist-wp/the-hut-of-the-shadows-lochmad-small.webp"
         },
         {
           "path": "_m/g/f/4/z/north-uist-wp/hercules-the-bear-statue-on-no.jpg",
@@ -967,7 +1001,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%27Hercules_the_bear%27_statue_on_North_Uist.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-uist-wp",
-          "sourceGeohash4": "gf4z"
+          "sourceGeohash4": "gf4z",
+          "smallPath": "_m/g/f/4/z/north-uist-wp/hercules-the-bear-statue-on-no-small.webp"
         },
         {
           "path": "_m/g/f/4/z/north-uist-wp/north-uist-traffic-jam-geograp.jpg",
@@ -982,7 +1017,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_Uist_Traffic_Jam_-_geograph.org.uk_-_2597554.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-uist-wp",
-          "sourceGeohash4": "gf4z"
+          "sourceGeohash4": "gf4z",
+          "mediumPath": "_m/g/f/4/z/north-uist-wp/north-uist-traffic-jam-geograp-medium.webp",
+          "smallPath": "_m/g/f/4/z/north-uist-wp/north-uist-traffic-jam-geograp-small.webp"
         },
         {
           "path": "_m/g/f/7/0/outer-hebrides-wp/scolpaig-tower-geograph-org-uk.jpg",
@@ -997,7 +1034,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scolpaig_Tower_-_geograph.org.uk_-_3966213.jpg",
           "sourceType": "poi",
           "sourceArticleId": "outer-hebrides-wp",
-          "sourceGeohash4": "gf4z"
+          "sourceGeohash4": "gf4z",
+          "smallPath": "_m/g/f/7/0/outer-hebrides-wp/scolpaig-tower-geograph-org-uk-small.webp"
         }
       ],
       "narration": [

@@ -33,7 +33,7 @@ The MNBAQ is located at 46.799N, 71.225W, within National Battlefields Park (the
 ## Sources
 
 - [Musée national des beaux-arts du Québec - Wikipedia](https://en.wikipedia.org/?curid=7738614)
-- [Musée national des beaux-arts du Québec - Wikipedia](https://en.wikipedia.org/wiki/Mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec)
+- [Musée national des beaux-arts du Québec - Wikipedia](https://en.wikipedia.org/?curid=7738614)
   - Collection of over 40,000 works confirmed (current figure ~42,000+)
   - Museum founded 1920, opened June 1933 confirmed
   - Gerard-Morisset Pavilion construction began 1928 confirmed

@@ -43,7 +43,7 @@ Sitges lies at 41.2339 N, 1.8042 E, on the Costa Dorada about 35 km southwest of
   - Sitges' long history as one of Europe's leading gay destinations, and Spain's 20th-century criminalization of homosexuality until 1979
   - Xato is Sitges' signature dish
   - Population approx. 30,000 (32,609 per most recent figures)
-- [Sitges - Wikivoyage](https://en.wikivoyage.org/wiki/Sitges)
+- [Sitges - Wikivoyage](https://en.wikivoyage.org/?curid=32928)
   - GR-5 viewpoints route starts in Sitges, runs through Parc del Garraf, Montserrat, Sant Llorenc del Munt i l'Obac and Montseny natural parks, ending on the coast at Canet de Mar
   - Hospital Sant Joan Baptista still produces malvasia the traditional way from its own vines and cellars, about 4,000 bottles/year, proceeds to charity
   - Naturist beaches Platja dels Balmins, Platja d'Aiguadolc (mixed community) and Platja del Muerto (harder to reach, primarily gay community) confirmed

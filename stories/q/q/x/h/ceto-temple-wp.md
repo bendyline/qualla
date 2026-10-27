@@ -34,7 +34,7 @@ Ceto Temple sits at approximately 7.596S, 111.157E on the western slope of Mount
 
 - [Ceto Temple - Wikipedia](https://en.wikipedia.org/?curid=15516850)
 - Sukuh and Ceto
-- [Ceto Temple - Wikipedia](https://en.wikipedia.org/wiki/Ceto_Temple)
+- [Ceto Temple - Wikipedia](https://en.wikipedia.org/?curid=15516850)
   - Temple located on western slope of Mount Lawu at approximately 1,495 meters elevation
   - Mount Lawu summit at 3,265 meters confirmed
   - Built during late Majapahit period (15th century) confirmed

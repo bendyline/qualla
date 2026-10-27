@@ -36,7 +36,7 @@ The Teufelsmoor spreads north and northeast of Bremen, centred at approximately 
 
 ## Sources
 
-- [Teufelsmoor - Wikipedia](https://en.wikipedia.org/wiki/Teufelsmoor)
+- [Teufelsmoor - Wikipedia](https://en.wikipedia.org/?curid=23666629)
   - Region of bog and moorland north of Bremen, mostly in Osterholz district, extending into Rotenburg (Gnarrenburg)
   - About 500 km2, largest extent roughly 20 by 20 km; drained by the Hamme, Wümme and Wörpe; bordered by the Wesermünde Geest and Zeven Geest
   - Ombrotrophic raised bog grading into fen near the draining streams; peat 11 m deep or more at Grasberg; sphagnum peat, hence infertile

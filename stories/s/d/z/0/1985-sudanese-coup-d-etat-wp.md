@@ -47,7 +47,7 @@ Coordinates: 15.50°N, 32.56°E (central Khartoum). Recommended viewing altitude
 - [Wikipedia - Abdel Rahman Swar al-Dahab](https://en.wikipedia.org/wiki/Sowar_al-Dahab)
   - Swar al-Dahab served as Defense Minister and Armed Forces Commander-in-Chief
   - Kept promise to hold elections within one year
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/1985_Sudanese_coup_d%27%C3%A9tat)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=60272994)
   - Converted two quotations that were presented as verbatim — the New York Times-attributed characterization that Nimeiry had begun to alienate almost every sector of Sudanese society, and the professional syndicates' call for a general political strike until the abolition of the regime — to indirect speech, since neither is verbatim in the cited source, whose own narrative corroborates the substance.
 
 ## Review Notes

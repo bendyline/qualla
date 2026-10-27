@@ -37,7 +37,7 @@ Leadville Historic District sits at 39.244N, 106.228W, elevation approximately 1
 ## Sources
 
 - [Leadville Historic District - Wikipedia](https://en.wikipedia.org/?curid=13780799)
-- [Wikipedia - Leadville Historic District](https://en.wikipedia.org/wiki/Leadville_Historic_District)
+- [Wikipedia - Leadville Historic District](https://en.wikipedia.org/?curid=13780799)
   - NHL designation 1961 confirmed
   - 67 mines up to 12,000-foot level confirmed
   - NRHP first day listing 1966 confirmed

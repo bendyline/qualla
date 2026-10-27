@@ -3,33 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/j/k/hagen-open-air-museum-wp/hero.jpg",
-        "filename": "Hagen Freilichtmuseum R01.jpg",
-        "caption": "Hagen (Germany): Open Air Museum Westfälisches Landesmuseum für Handwerk und Technik",
-        "alt": "Hagen (Germany): Open Air Museum Westfälisches Landesmuseum für Handwerk und Technik",
-        "width": 4288,
-        "height": 2848,
+        "path": "_m/u/1/j/k/hagen-open-air-museum-wp/blick-auf-das-schwungrad.jpg",
+        "filename": "Blick auf das Schwungrad.JPG",
+        "caption": "Blick auf das Schwungrad am Parkplatz des LWL-Freilichtmuseums Hagen-Selbecke. Schwungrad der ersten Kolbendampfmaschine des Wasserwerkes Hagen-Hengstey von 1896 bis 1962. Drehzahl 50 U/min, Gewicht 26 t, Durchmesser 6,20 m. Hersteller Gutehoffnungshütte Sterkrade. Aufgestellt vom Architekten- und Ingenieurverein Mark Sauerland e.V. im Mai 1982.",
+        "alt": "Blick auf das Schwungrad am Parkplatz des LWL-Freilichtmuseums Hagen-Selbecke. Schwungrad der ersten Kolbendampfmaschine des Wasserwerkes Hagen-Hengstey von 1896 bis 1962. Drehzahl 50 U/min, Gewicht 26 t, Durchmesser 6,20 m. Hersteller Gutehoffnungshütte Sterkrade. Aufgestellt vom Architekten- und Ingenieurverein Mark Sauerland e.V. im Mai 1982.",
+        "width": 4000,
+        "height": 3000,
         "mimeType": "image/jpeg",
         "license": "CC BY 3.0",
-        "artist": "Marc Ryckaert (MJJR)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hagen_Freilichtmuseum_R01.jpg",
-        "sourceType": "core",
+        "artist": "Bärwinkel,Klaus",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blick_auf_das_Schwungrad.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "hagen-open-air-museum-wp",
         "sourceGeohash4": "u1jk",
-        "categories": [
-          "2009 in Hagen",
-          "CC-BY-3.0",
-          "Files with coordinates missing SDC location of creation (51° N, 7° E)",
-          "Images by MJJR",
-          "Quality Images by MJJR",
-          "Quality images",
-          "Quality images missing SDC depicts",
-          "Quality images of cultural heritage monuments in North Rhine-Westphalia",
-          "Self-published work",
-          "Taken with Nikon D90",
-          "Timber framing in Westfälisches Freilichtmuseum Hagen",
-          "Westfälisches Freilichtmuseum Hagen"
-        ]
+        "mediumPath": "_m/u/1/j/k/hagen-open-air-museum-wp/blick-auf-das-schwungrad-medium.webp",
+        "smallPath": "_m/u/1/j/k/hagen-open-air-museum-wp/blick-auf-das-schwungrad-small.webp"
       },
       "images": [
         {
@@ -564,7 +552,8 @@
             "On OSM",
             "Self-published work",
             "Views from Syberg"
-          ]
+          ],
+          "smallPath": "_m/u/1/j/k/hagen-wp/hengsteysee-panorama-small.webp"
         },
         {
           "path": "_m/u/1/j/k/ruhr-wp/hagen-rathausplatz.jpg",
@@ -590,7 +579,8 @@
             "Shops in Hagen",
             "Time 01:25",
             "Volme Galerie"
-          ]
+          ],
+          "smallPath": "_m/u/1/j/k/ruhr-wp/hagen-rathausplatz-small.webp"
         },
         {
           "path": "_m/u/1/j/k/hagen-wp/spielbank-hohensyburg.jpg",
@@ -613,7 +603,9 @@
             "On OSM",
             "Self-published work",
             "Taken with Fujifilm FinePix F650"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/k/hagen-wp/spielbank-hohensyburg-medium.webp",
+          "smallPath": "_m/u/1/j/k/hagen-wp/spielbank-hohensyburg-small.webp"
         },
         {
           "path": "_m/u/1/j/k/hagen-wp/schloss-hohenlimburg-deutsches.jpg",
@@ -637,7 +629,9 @@
             "Self-published work",
             "Taken with Ricoh Caplio G4",
             "Towers of Schloss Hohenlimburg"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/k/hagen-wp/schloss-hohenlimburg-deutsches-medium.webp",
+          "smallPath": "_m/u/1/j/k/hagen-wp/schloss-hohenlimburg-deutsches-small.webp"
         },
         {
           "path": "_m/u/1/j/k/hagen-wp/wasserschlosswerdringen2009061.jpg",
@@ -657,7 +651,8 @@
             "PD-user",
             "Schloss Werdringen",
             "Taken with Canon EOS 5D Mark II"
-          ]
+          ],
+          "smallPath": "_m/u/1/j/k/hagen-wp/wasserschlosswerdringen2009061-small.webp"
         },
         {
           "path": "_m/u/1/j/k/hagen-wp/hagen-banner.jpg",
@@ -677,7 +672,9 @@
             "CC-BY-SA-3.0",
             "Derivative versions",
             "Wikivoyage banners of North Rhine-Westphalia"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/k/hagen-wp/hagen-banner-medium.webp",
+          "smallPath": "_m/u/1/j/k/hagen-wp/hagen-banner-small.webp"
         },
         {
           "path": "_m/u/1/j/k/hagen-wp/hohenlimburg-bahnhof-2.jpg",
@@ -700,7 +697,9 @@
             "License migration redundant",
             "Photographs taken on 2015-08-07",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/k/hagen-wp/hohenlimburg-bahnhof-2-medium.webp",
+          "smallPath": "_m/u/1/j/k/hagen-wp/hohenlimburg-bahnhof-2-small.webp"
         },
         {
           "path": "_m/u/1/j/k/hagen-wp/hagen-osthaus-museum.jpg",
@@ -723,7 +722,9 @@
             "Karl-Ernst-Osthaus-Museum",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/k/hagen-wp/hagen-osthaus-museum-medium.webp",
+          "smallPath": "_m/u/1/j/k/hagen-wp/hagen-osthaus-museum-small.webp"
         },
         {
           "path": "_m/u/1/j/k/hagen-wp/hagen-st-marien-kirche-2.jpg",
@@ -742,7 +743,9 @@
           "categories": [
             "CC-BY-3.0",
             "Church towers in Hagen"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/k/hagen-wp/hagen-st-marien-kirche-2-medium.webp",
+          "smallPath": "_m/u/1/j/k/hagen-wp/hagen-st-marien-kirche-2-small.webp"
         },
         {
           "path": "_m/u/1/j/k/hagen-wp/hagen-johanniskirche-8.jpg",
@@ -757,7 +760,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hagen_-_Johanniskirche_8.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "hagen-wp",
-          "sourceGeohash4": "u1jk"
+          "sourceGeohash4": "u1jk",
+          "mediumPath": "_m/u/1/j/k/hagen-wp/hagen-johanniskirche-8-medium.webp",
+          "smallPath": "_m/u/1/j/k/hagen-wp/hagen-johanniskirche-8-small.webp"
         },
         {
           "path": "_m/u/1/j/k/hagen-wp/berliner-platz-hbf-hagen.jpg",
@@ -772,7 +777,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berliner_Platz_Hbf_Hagen.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "hagen-wp",
-          "sourceGeohash4": "u1jk"
+          "sourceGeohash4": "u1jk",
+          "mediumPath": "_m/u/1/j/k/hagen-wp/berliner-platz-hbf-hagen-medium.webp",
+          "smallPath": "_m/u/1/j/k/hagen-wp/berliner-platz-hbf-hagen-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/duisburg-schwanentorbrucke-1.jpg",
@@ -797,7 +804,9 @@
             "RWSG Speicher",
             "Schwanentorbrücke",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/duisburg-schwanentorbrucke-1-medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/duisburg-schwanentorbrucke-1-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/essen-sudviertel-luft.jpg",
@@ -827,7 +836,8 @@
             "Self-published work",
             "Stadtmitte Essen",
             "Taken with Panasonic Lumix DMC-LS60"
-          ]
+          ],
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/essen-sudviertel-luft-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/dusseldorf-ansichten2.jpg",
@@ -848,7 +858,8 @@
             "Files with broken file links",
             "Montages of cities in Germany",
             "Views of Düsseldorf"
-          ]
+          ],
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/dusseldorf-ansichten2-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/post-tower-bonn-sunset.jpg",
@@ -873,7 +884,9 @@
             "Featured pictures on Wikimedia Commons",
             "Files with coordinates missing SDC location of creation (50° N, 7° E)",
             "FoP-Germany"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/post-tower-bonn-sunset-medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/post-tower-bonn-sunset-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/blick-ac-dom-von-st-jakob.jpg",
@@ -888,7 +901,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blick_AC_Dom_von_St_Jakob.JPG",
           "sourceType": "poi",
           "sourceArticleId": "north-rhine-westphalia-wp",
-          "sourceGeohash4": "u1jk"
+          "sourceGeohash4": "u1jk",
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/blick-ac-dom-von-st-jakob-medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/blick-ac-dom-von-st-jakob-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/northrhinewestphalia-regions.png",
@@ -903,7 +918,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Northrhinewestphalia-regions.png",
           "sourceType": "poi",
           "sourceArticleId": "north-rhine-westphalia-wp",
-          "sourceGeohash4": "u1jk"
+          "sourceGeohash4": "u1jk",
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/northrhinewestphalia-regions-medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/northrhinewestphalia-regions-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/dortmund-industrieruine-279-h.jpg",
@@ -918,7 +935,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dortmund_Industrieruine_279-h.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-rhine-westphalia-wp",
-          "sourceGeohash4": "u1jk"
+          "sourceGeohash4": "u1jk",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/dortmund-industrieruine-279-h-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/rathaus-bonn-136-1-vzkh.jpg",
@@ -933,7 +951,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rathaus_Bonn_136_1-vzkh.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-rhine-westphalia-wp",
-          "sourceGeohash4": "u1jk"
+          "sourceGeohash4": "u1jk",
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/rathaus-bonn-136-1-vzkh-medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/rathaus-bonn-136-1-vzkh-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/duisburger-innenhafen-five-boa.jpg",
@@ -948,7 +968,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duisburger_Innenhafen_Five_Boats_Abend_2014.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-rhine-westphalia-wp",
-          "sourceGeohash4": "u1jk"
+          "sourceGeohash4": "u1jk",
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/duisburger-innenhafen-five-boa-medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/duisburger-innenhafen-five-boa-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/cologne-germany-exterior-view-.jpg",
@@ -963,7 +985,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cologne_Germany_Exterior-view-of-Cologne-Cathedral-06.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-rhine-westphalia-wp",
-          "sourceGeohash4": "u1jk"
+          "sourceGeohash4": "u1jk",
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/cologne-germany-exterior-view--medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/cologne-germany-exterior-view--small.webp"
         },
         {
           "path": "_m/s/r/2/y/roman-catholic-church-wk/aachen-germany-imperial-cathed.jpg",
@@ -978,7 +1002,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aachen_Germany_Imperial-Cathedral-01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "roman-catholic-church-wk",
-          "sourceGeohash4": "u1jk"
+          "sourceGeohash4": "u1jk",
+          "mediumPath": "_m/s/r/2/y/roman-catholic-church-wk/aachen-germany-imperial-cathed-medium.webp",
+          "smallPath": "_m/s/r/2/y/roman-catholic-church-wk/aachen-germany-imperial-cathed-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/bergbaumuseum-bochum-blaue-stu.jpg",
@@ -993,7 +1019,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bergbaumuseum_Bochum_Blaue_Stunde_2014.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-rhine-westphalia-wp",
-          "sourceGeohash4": "u1jk"
+          "sourceGeohash4": "u1jk",
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/bergbaumuseum-bochum-blaue-stu-medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/bergbaumuseum-bochum-blaue-stu-small.webp"
         }
       ],
       "narration": [

@@ -45,7 +45,7 @@ Nankin-machi is located at 34.69N, 135.19E in central Kobe, just south of Motoma
   - Northern entrance guarded by stone lions
   - Central pavilion with zodiac carvings
   - Over 100 Chinese restaurants and shops
-- [Final review - independent verification](https://en.wikipedia.org/wiki/Nankin-machi)
+- [Final review - independent verification](https://en.wikipedia.org/?curid=10194862)
   - Port of Kobe opened 1868 confirmed
   - Chinese immigrants from Guangdong and Fujian confirmed
   - Nankinmachi name derives from Nanjing but immigrants were from southern China, not specifically Nanjing

@@ -37,7 +37,7 @@ Bytown's historic core is located at 45.42N, 75.69W, where the Rideau Canal meet
 ## Sources
 
 - [Bytown - Wikipedia](https://en.wikipedia.org/?curid=445938)
-- [Bytown - Wikipedia](https://en.wikipedia.org/wiki/Bytown)
+- [Bytown - Wikipedia](https://en.wikipedia.org/?curid=445938)
   - Rideau Canal length 202 km linking Ottawa River to Lake Ontario at Kingston confirmed
   - Bytown incorporated January 1, 1850 confirmed
   - City of Ottawa incorporated January 1, 1855 confirmed

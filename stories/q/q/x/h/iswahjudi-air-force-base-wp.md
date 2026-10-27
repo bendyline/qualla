@@ -34,7 +34,7 @@ Iswahjudi Air Force Base (ICAO: WARI) is located at approximately 7.613S, 111.43
 
 - [Iswahjudi Air Force Base - Wikipedia](https://en.wikipedia.org/?curid=23547716)
 - Iswahyudi
-- [Iswahjudi Air Force Base - Wikipedia](https://en.wikipedia.org/wiki/Iswahjudi_Air_Force_Base)
+- [Iswahjudi Air Force Base - Wikipedia](https://en.wikipedia.org/?curid=23547716)
   - Named in 1960 after pilot Iswahjudi who died in 1947 crash confirmed
   - Dutch built airfield 1939 at Maospati confirmed
   - Runway 1,586 meters long confirmed

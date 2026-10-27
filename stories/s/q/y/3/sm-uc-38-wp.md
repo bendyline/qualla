@@ -40,7 +40,7 @@ The action off Cape Ducato took place in the Ionian Sea at approximately 38.25°
 
 ## Sources
 
-- [SM UC-38 – Wikipedia](https://en.wikipedia.org/wiki/SM_UC-38)
+- [SM UC-38 – Wikipedia](https://en.wikipedia.org/?curid=21670867)
   - Ordered 20 November 1915
   - Launched 25 June 1916
   - Commissioned 26 October 1916

@@ -64,7 +64,7 @@ The Holloman High Speed Test Track is located within Holloman Air Force Base at 
   - ISSUE: Murphy's Law originated at Muroc Army Air Field (now Edwards AFB), not at Holloman. The article's context implies Holloman, which is misleading.
   - Edward Murphy was frustrated by incorrectly wired sensors
   - Stapp popularized the phrase at press conferences
-- [Rocket sled - Wikipedia (global facilities)](https://en.wikipedia.org/wiki/Rocket_sled)
+- [Rocket sled - Wikipedia (global facilities)](https://en.wikipedia.org/?curid=40226)
   - Germans built first sled facility at Peenemunde for V-1 launches
   - Standard gauge 56.5 inches verified
   - French tracks at Istres, Cazaux, Satory verified

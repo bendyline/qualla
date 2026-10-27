@@ -37,7 +37,7 @@ Located at 32.18°N, 104.44°W within Carlsbad Caverns National Park. From altit
 ## Sources
 
 - [The Caverns Historic District - Wikipedia](https://en.wikipedia.org/?curid=32181094)
-- [The Caverns Historic District - Wikipedia](https://en.wikipedia.org/wiki/The_Caverns_Historic_District)
+- [The Caverns Historic District - Wikipedia](https://en.wikipedia.org/?curid=32181094)
   - Listed on National Register of Historic Places August 18, 1988 confirmed
   - Thirteen contributing structures confirmed
   - Built between early 1920s and 1942 confirmed

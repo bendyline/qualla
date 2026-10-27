@@ -3,32 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/7/f/lelystad-airport-wp/hero.jpg",
-        "filename": "Lelystad Airport.JPG",
-        "caption": "Hal en toren van vliegveld Lelystad.",
-        "alt": "Hal en toren van vliegveld Lelystad.",
-        "width": 2272,
-        "height": 1704,
+        "path": "_m/u/1/7/f/lelystad-airport-wp/lelystad-airport-aerial.jpg",
+        "filename": "Lelystad Airport (aerial).jpg",
+        "caption": "An aerial picture of Lelystad Airport and Aviodrome taken from Estonian Airways flight OV 0473.",
+        "alt": "An aerial picture of Lelystad Airport and Aviodrome taken from Estonian Airways flight OV 0473.",
+        "width": 5604,
+        "height": 3726,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Magalhães at Dutch Wikipedia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lelystad_Airport.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Supercarwaar",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lelystad_Airport_(aerial).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "lelystad-airport-wp",
         "sourceGeohash4": "u17f",
         "categories": [
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
+          "Aerial photographs of Flevoland",
+          "CC-BY-SA-4.0",
           "Lelystad Airport",
-          "License migration completed",
+          "Netherlands photographs taken on 2014-05-12",
           "Self-published work",
-          "Taken with Nikon Coolpix 4300",
-          "User-created GFDL images"
-        ]
+          "Taken with Nikon D3200"
+        ],
+        "mediumPath": "_m/u/1/7/f/lelystad-airport-wp/lelystad-airport-aerial-medium.webp",
+        "smallPath": "_m/u/1/7/f/lelystad-airport-wp/lelystad-airport-aerial-small.webp"
       },
       "images": [
         {
-          "path": "_m/u/1/7/f/lelystad-airport-wp/hero.png",
+          "path": "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png",
           "filename": "Aviacionavion.png",
           "caption": "Sign based on photograph with front view of a Turkmenistan Airlines Boeing 757 landing at London Heathrow Airport, England. The registration is not known. Photographed by Adrian Pingstone in June 2004 and released to the public domain.",
           "alt": "Sign based on photograph with front view of a Turkmenistan Airlines Boeing 757 landing at London Heathrow Airport, England. The registration is not known. Photographed by Adrian Pingstone in June 2004 and released to the public domain.",
@@ -48,7 +49,8 @@
             "Retouched pictures",
             "Self-published work",
             "Uploaded with derivativeFX"
-          ]
+          ],
+          "smallPath": "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero-small.webp"
         },
         {
           "path": "_m/u/1/7/f/lelystad-airport-wp/lelystad-airport-aerial.jpg",
@@ -217,7 +219,9 @@
             "Media missing infobox template",
             "Station Lelystad Centrum",
             "Symbool der gastvrijheid (sculpture by André Volten, Lelystad)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/f/lelystad-wp/lelystad-railway-bus-station-medium.webp",
+          "smallPath": "_m/u/1/7/f/lelystad-wp/lelystad-railway-bus-station-small.webp"
         },
         {
           "path": "_m/u/1/7/f/lelystad-wp/ingang-aviodrome.jpg",
@@ -241,7 +245,9 @@
             "Self-published work",
             "Taken with Canon PowerShot A520",
             "User-created GFDL images"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/f/lelystad-wp/ingang-aviodrome-medium.webp",
+          "smallPath": "_m/u/1/7/f/lelystad-wp/ingang-aviodrome-small.webp"
         },
         {
           "path": "_m/u/1/k/4/flevoland-wp/station-lelystad-c.jpg",
@@ -264,7 +270,9 @@
             "Netherlands photographs taken on 2011-11-14",
             "Self-published work",
             "Station Lelystad Centrum"
-          ]
+          ],
+          "mediumPath": "_m/u/1/k/4/flevoland-wp/station-lelystad-c-medium.webp",
+          "smallPath": "_m/u/1/k/4/flevoland-wp/station-lelystad-c-small.webp"
         },
         {
           "path": "_m/u/1/7/f/lelystad-wp/oostvaardersdijk-p1040328.jpg",
@@ -286,7 +294,9 @@
             "GFDL",
             "License migration redundant",
             "Netherlands photographs taken on 2013-08-19"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/f/lelystad-wp/oostvaardersdijk-p1040328-medium.webp",
+          "smallPath": "_m/u/1/7/f/lelystad-wp/oostvaardersdijk-p1040328-small.webp"
         },
         {
           "path": "_m/u/1/7/f/lelystad-wp/oostvaardersdijk-p1040335.jpg",
@@ -301,7 +311,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oostvaardersdijk_-_P1040335.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "lelystad-wp",
-          "sourceGeohash4": "u17f"
+          "sourceGeohash4": "u17f",
+          "mediumPath": "_m/u/1/7/f/lelystad-wp/oostvaardersdijk-p1040335-medium.webp",
+          "smallPath": "_m/u/1/7/f/lelystad-wp/oostvaardersdijk-p1040335-small.webp"
         },
         {
           "path": "_m/u/1/k/4/flevoland-wp/houtribdijk.jpg",
@@ -322,7 +334,8 @@
             "GFDL",
             "Houtribdijk",
             "License migration completed"
-          ]
+          ],
+          "smallPath": "_m/u/1/k/4/flevoland-wp/houtribdijk-small.webp"
         },
         {
           "path": "_m/u/1/k/4/flevoland-wp/flevoland-from-the-plane-retou.jpg",
@@ -357,7 +370,8 @@
             "Rijksweg 6 in Flevoland",
             "Self-published work",
             "Uploaded with derivativeFX"
-          ]
+          ],
+          "smallPath": "_m/u/1/k/4/flevoland-wp/flevoland-from-the-plane-retou-small.webp"
         },
         {
           "path": "_m/u/1/k/4/flevoland-wp/flevoland-wikivoyage-map.png",
@@ -377,7 +391,9 @@
             "CC-BY-SA-4.0",
             "Self-published work",
             "Wikivoyage maps"
-          ]
+          ],
+          "mediumPath": "_m/u/1/k/4/flevoland-wp/flevoland-wikivoyage-map-medium.webp",
+          "smallPath": "_m/u/1/k/4/flevoland-wp/flevoland-wikivoyage-map-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/flower-market-singel-c.jpg",
@@ -407,7 +423,8 @@
             "Tulips in floristry",
             "Unidentified Tulipa cultivars",
             "Yellow tulips"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/flower-market-singel-c-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/beer-house-amsterdam-n.jpg",
@@ -430,7 +447,9 @@
             "Photos of the Netherlands by User:jorgeroyan",
             "Self-published work",
             "Taken with Canon EOS 5D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/beer-house-amsterdam-n-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/beer-house-amsterdam-n-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/street-scene-boathouse.jpg",
@@ -456,7 +475,9 @@
             "Self-published work",
             "Taken with Canon EOS 5D",
             "Water transport in Amsterdam"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/street-scene-boathouse-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/street-scene-boathouse-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/magere-brug-bridge-ams.jpg",
@@ -481,7 +502,9 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon EOS 5D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/magere-brug-bridge-ams-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/magere-brug-bridge-ams-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/map-amsterdam.png",
@@ -502,7 +525,9 @@
             "Files by Wikivoyage user Globe-trotter",
             "Files from Wikivoyage wts",
             "Locator maps of neighborhoods in Amsterdam"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/map-amsterdam-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/map-amsterdam-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/amsterdam.jpg",
@@ -517,7 +542,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_(7758040180).jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/amsterdam-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/amsterdam-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/20130420-amsterdam-rij.jpg",
@@ -532,7 +559,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20130420_Amsterdam_05_Rijksmuseum.JPG",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/20130420-amsterdam-rij-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/20130420-amsterdam-rij-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/begijnhof-amsterdam-ne.jpg",
@@ -547,7 +576,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Begijnhof_--_2015_--_7215-8.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/begijnhof-amsterdam-ne-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/begijnhof-amsterdam-ne-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/centraal-station-amste.jpg",
@@ -562,7 +593,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Centraal_Station_--_2015_--_7269.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/centraal-station-amste-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/centraal-station-amste-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/central-station-amster.jpg",
@@ -577,7 +610,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_Central,_%C3%81msterdam,_Pa%C3%ADses_Bajos,_2016-05-30,_DD_01-03_HDR.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/central-station-amster-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/central-station-amster-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wp/colin-benders-installatie-in-h.jpg",
@@ -592,7 +627,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colin_Benders_installatie_in_het_Concertgebouw.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wp",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wp/colin-benders-installatie-in-h-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wp/colin-benders-installatie-in-h-small.webp"
         },
         {
           "path": "_m/u/1/7/3/amsterdam-wk/flag-amsterdam.jpg",
@@ -607,7 +644,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_flag.jpg",
           "sourceType": "poi",
           "sourceArticleId": "amsterdam-wk",
-          "sourceGeohash4": "u173"
+          "sourceGeohash4": "u173",
+          "mediumPath": "_m/u/1/7/3/amsterdam-wk/flag-amsterdam-medium.webp",
+          "smallPath": "_m/u/1/7/3/amsterdam-wk/flag-amsterdam-small.webp"
         },
         {
           "path": "_m/u/1/7/3/schiphol-airport-wk/schiphol-plaza-ns.jpg",
@@ -629,7 +668,8 @@
             "Netherlands photographs taken on 2006-06-26",
             "Schiphol Plaza",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/3/schiphol-airport-wk/schiphol-plaza-ns-small.webp"
         },
         {
           "path": "_m/u/1/7/3/schiphol-airport-wk/ns-kaartautomaten.jpg",
@@ -650,7 +690,8 @@
             "PD-user",
             "Taken with Canon EOS 350D",
             "Ticket machines in the Netherlands"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/3/schiphol-airport-wk/ns-kaartautomaten-small.webp"
         },
         {
           "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/amsterdam-schiphol-airport-ent.jpg",
@@ -671,7 +712,9 @@
             "Schiphol Plaza",
             "Self-published work",
             "Taken with Nikon D3000"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/amsterdam-schiphol-airport-ent-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/amsterdam-schiphol-airport-ent-small.webp"
         }
       ],
       "narration": [

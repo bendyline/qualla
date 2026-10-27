@@ -2,31 +2,43 @@
   "id": "sir-edward-pellew-group-of-islands-wp",
   "patch": {
     "media": {
+      "narration": [
+        "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/rj1q-sir-edward-pellew-group-of-islands-flight-context.mp3",
+        "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/rj1q-sir-edward-pellew-group-of-islands-intro.mp3",
+        "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/rj1q-sir-edward-pellew-group-of-islands-the-shape-of-the-group.mp3",
+        "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/rj1q-sir-edward-pellew-group-of-islands-saltwater-country-sung.mp3",
+        "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/rj1q-sir-edward-pellew-group-of-islands-ships-in-the-night-of-history.mp3",
+        "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/rj1q-sir-edward-pellew-group-of-islands-birds-camps-and-the-long-return.mp3"
+      ],
+      "hero": {
+        "path": "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/william-westall-view-of-sir-ed.jpg",
+        "filename": "William Westall - View of Sir Edward Pellews Group, Gulph of Carpentaria, 1802.jpg",
+        "alt": "William Westall - View of Sir Edward Pellews Group, Gulph of Carpentaria, 1802.jpg",
+        "width": 600,
+        "height": 448,
+        "mimeType": "image/jpeg",
+        "license": "Public domain",
+        "artist": "William Westall (1781–1850)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Westall_-_View_of_Sir_Edward_Pellews_Group,_Gulph_of_Carpentaria,_1802.jpg",
+        "sourceType": "commons-category",
+        "sourceArticleId": "sir-edward-pellew-group-of-islands-wp",
+        "sourceGeohash4": "rj1q",
+        "categories": [
+          "1802 landscape paintings",
+          "19th-century landscape paintings of Italy",
+          "19th-century oil paintings of seascapes",
+          "CC-PD-Mark",
+          "Gulf of Carpentaria",
+          "PD-Art (PD-old-100)",
+          "PD-Australia",
+          "Paintings of palms",
+          "Paintings without Wikidata item",
+          "Sir Edward Pellew Islands",
+          "William Westall"
+        ],
+        "smallPath": "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/william-westall-view-of-sir-ed-small.webp"
+      },
       "images": [
-        {
-          "path": "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/natural-color-landsat.png",
-          "filename": "Sir Edward Pellew Islands-Landsat 2000.PNG",
-          "caption": "Natural Color LANDSAT image of Sir Edward Pellew Islands, Northern Territory, Australia",
-          "alt": "Natural Color LANDSAT image of Sir Edward Pellew Islands, Northern Territory, Australia",
-          "width": 1365,
-          "height": 696,
-          "mimeType": "image/png",
-          "license": "Public domain",
-          "artist": "NASA",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_Edward_Pellew_Islands-Landsat_2000.PNG",
-          "sourceType": "core",
-          "sourceArticleId": "sir-edward-pellew-group-of-islands-wp",
-          "sourceGeohash4": "rj1q",
-          "categories": [
-            "2000 in the Northern Territory",
-            "Images with extracted images",
-            "Landsat images of Australia",
-            "PD NASA",
-            "Satellite pictures of the Northern Territory",
-            "Sir Edward Pellew Islands"
-          ],
-          "smallPath": "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/natural-color-landsat-small.webp"
-        },
         {
           "path": "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/william-westall-view-of-sir-ed.jpg",
           "filename": "William Westall - View of Sir Edward Pellews Group, Gulph of Carpentaria, 1802.jpg",
@@ -76,14 +88,6 @@
           ],
           "smallPath": "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/vanderlin-island-tepi-small.webp"
         }
-      ],
-      "narration": [
-        "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/rj1q-sir-edward-pellew-group-of-islands-flight-context.mp3",
-        "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/rj1q-sir-edward-pellew-group-of-islands-intro.mp3",
-        "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/rj1q-sir-edward-pellew-group-of-islands-the-shape-of-the-group.mp3",
-        "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/rj1q-sir-edward-pellew-group-of-islands-saltwater-country-sung.mp3",
-        "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/rj1q-sir-edward-pellew-group-of-islands-ships-in-the-night-of-history.mp3",
-        "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/rj1q-sir-edward-pellew-group-of-islands-birds-camps-and-the-long-return.mp3"
       ],
       "combinedNarration": "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/rj1q-sir-edward-pellew-group-of-islands-combined.mp3",
       "combinedNarrationBytes": 3126325,

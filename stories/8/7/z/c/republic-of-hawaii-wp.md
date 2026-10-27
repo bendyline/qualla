@@ -32,7 +32,7 @@ The annexation was not unopposed by the people it affected most. Native Hawaiian
 
 ## Flight Context
 
-The Republic of Hawaii was centered at Iolani Palace in downtown Honolulu, located at 21.311N, 157.796W. The palace and surrounding government district are visible from the air just east of Honolulu harbor. Honolulu International Airport (PHNL) is 5 miles to the west. Washington Place, the queen's residence, is adjacent to the State Capitol building, two blocks northeast of the palace.
+The Republic of Hawaii was centered at Iolani Palace in downtown Honolulu, located at 21.311N, 157.796W. The palace and surrounding government district are visible from the air just east of Honolulu harbor. Daniel K. Inouye International Airport (PHNL, formerly Honolulu International) is 5 miles to the west. Washington Place, the queen's residence, is adjacent to the State Capitol building, two blocks northeast of the palace.
 
 ## Sources
 

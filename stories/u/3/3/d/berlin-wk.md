@@ -46,7 +46,7 @@ Berlin lies at 52.52° N, 13.39° E on the flat North German Plain, at the confl
 
 ## Sources
 
-- [Berlin — Wikivoyage](https://en.wikivoyage.org/wiki/Berlin)
+- [Berlin — Wikivoyage](https://en.wikivoyage.org/?curid=3512)
 - [Berlin — Wikivoyage](https://en.wikivoyage.org/?curid=3512)
   - Berlin population about 3.7 million (2022); slightly less well-off than the German national average, unlike virtually all other capitals
   - 'Poor but sexy' attributed to a former mayor; West Berlin residents were exempt from conscription; Benno Ohnesorg shot during a 1967 protest against the Shah of Iran ignited the 1967-68 student revolts

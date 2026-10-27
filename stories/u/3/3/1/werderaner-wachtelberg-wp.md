@@ -32,7 +32,7 @@ The Wachtelberg lies at 52.370 N, 12.933 E, a 60-metre moraine ridge on the east
 
 ## Sources
 
-- [Werderaner Wachtelberg - Wikipedia](https://en.wikipedia.org/wiki/Werderaner_Wachtelberg)
+- [Werderaner Wachtelberg - Wikipedia](https://en.wikipedia.org/?curid=26878735)
 - [Werderaner Wachtelberg - Wikipedia (German)](https://de.wikipedia.org/wiki/Werderaner_Wachtelberg)
   - replanting began 1984 on 4.7 hectares of fallow land at the town's initiative
   - 17,200 grafted Müller-Thurgau vines planted 1984-1987, sourced from Hungary and Saxony, with 3,500 concrete posts

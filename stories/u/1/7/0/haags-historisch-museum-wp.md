@@ -54,7 +54,7 @@ Located at 52.0813 degrees N, 4.3141 degrees E at Korte Vijverberg 7, on the nor
 - [View of The Hague from the southeast - Haags Historisch Museum collection](https://www.haagshistorischmuseum.nl/en/museum/collection/masterpieces/view-of-the-hague-from-the-southeast)
   - Jan van Goyen panorama is 4.6 meters wide (story says 'almost five meters' — accurate approximation) confirmed
   - Panorama commissioned by city council in 1650 confirmed
-- [Rampjaar 1672 - de Witt brothers lynching historical record](https://en.wikipedia.org/wiki/Haags_Historisch_Museum)
+- [Rampjaar 1672 - de Witt brothers lynching historical record](https://en.wikipedia.org/?curid=77580953)
   - Cornelis de Witt finger and Johan de Witt tongue held in museum confirmed
   - Lynching occurred on 20 August 1672 confirmed
   - De Witt brothers governed the republic for two decades confirmed

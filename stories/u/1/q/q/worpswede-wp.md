@@ -36,7 +36,7 @@ Worpswede lies at approximately 53.2222N, 8.9278E, some 20 km north-east of Brem
 
 ## Sources
 
-- [Worpswede - Wikipedia](https://en.wikipedia.org/wiki/Worpswede)
+- [Worpswede - Wikipedia](https://en.wikipedia.org/?curid=3372744)
   - 1900 bell-ringing incident: Westhoff and Modersohn-Becker fined, paid with cherub heads and floral ornaments in the Church of Zion
   - Mimi Stolte met Fritz Mackensen in Düsseldorf in 1884; Mackensen settled in Worpswede 1889
   - First recorded 1218; Teufelsmoor drainage begun 1750 by Jürgen Christian Findorff

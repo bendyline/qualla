@@ -48,7 +48,7 @@ The Village at College Downs apartment complex - where Keith Lamont Scott was ki
   - Corrected: 'roughly thirty years' → 'roughly 25 years (276 to 344 months)' — actual sentence was 276–344 months (23–28.6 years) for second-degree murder plus consecutive time for firearm possession
   - Justin Carr shot and killed during Uptown protests on second night
   - Rayquan Borum convicted of second-degree murder
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Killing_of_Keith_Lamont_Scott)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=51693510)
   - Softened editorial framing ("institution that killed him" -> "police department") toward a living, uncharged officer, keeping the balanced factual account.
 
 ## Review Notes

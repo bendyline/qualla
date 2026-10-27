@@ -3,31 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/p/n/blenheim-palace-wp/hero.jpg",
-        "filename": "Blenheim Palace panorama.jpg",
-        "caption": "Blenheim Palace panorama",
-        "alt": "Blenheim Palace panorama",
-        "width": 7536,
-        "height": 1680,
+        "path": "_m/g/c/p/n/blenheim-palace-wp/blenheim-palace-1.jpg",
+        "filename": "Blenheim Palace 2006.jpg",
+        "caption": "Blenheim Palace",
+        "alt": "Blenheim Palace",
+        "width": 7338,
+        "height": 4300,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Magnus Manske",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blenheim_Palace_panorama.jpg",
+        "license": "CC BY 2.0",
+        "artist": "gailf548 from New York State, USA",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blenheim_Palace_2006.jpg",
         "sourceType": "core",
         "sourceArticleId": "blenheim-palace-wp",
         "sourceGeohash4": "gcpn",
-        "categories": [
-          "Blenheim Palace",
-          "CC-BY-SA-2.5,2.0,1.0",
-          "CC-BY-SA-3.0-migrated",
-          "Files with coordinates missing SDC location of creation (51° N, 2° W)",
-          "GFDL",
-          "License migration redundant",
-          "On OSM",
-          "Panoramics of buildings in the United Kingdom",
-          "Photographs taken on 2005-11-03",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/g/c/p/n/blenheim-palace-wp/blenheim-palace-1-medium.webp",
+        "smallPath": "_m/g/c/p/n/blenheim-palace-wp/blenheim-palace-1-small.webp"
       },
       "images": [
         {
@@ -821,7 +811,9 @@
             "Taken with Nikon D70s",
             "Trees in Oxfordshire",
             "United Kingdom photographs taken on 2011-05-02"
-          ]
+          ],
+          "mediumPath": "_m/tpc/bl/en/he/im/blenheim-palace/bladon-stmartin-south-medium.webp",
+          "smallPath": "_m/tpc/bl/en/he/im/blenheim-palace/bladon-stmartin-south-small.webp"
         },
         {
           "path": "_m/tpc/bl/en/he/im/blenheim-palace/blenheim-palace-banner-mst.jpg",
@@ -848,7 +840,9 @@
             "Images from Wiki Loves Monuments with different SDC participant in",
             "Self-published work",
             "Wikivoyage banners of England"
-          ]
+          ],
+          "mediumPath": "_m/tpc/bl/en/he/im/blenheim-palace/blenheim-palace-banner-mst-medium.webp",
+          "smallPath": "_m/tpc/bl/en/he/im/blenheim-palace/blenheim-palace-banner-mst-small.webp"
         }
       ],
       "narration": [

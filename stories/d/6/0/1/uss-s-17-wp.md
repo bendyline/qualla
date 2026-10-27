@@ -33,7 +33,7 @@ USS S-17's coordinates mark a position in the Caribbean Sea near the Panama Cana
 ## Sources
 
 - [USS S-17 - Wikipedia](https://en.wikipedia.org/?curid=1417663)
-- [USS S-17 - Wikipedia](https://en.wikipedia.org/wiki/USS_S-17)
+- [USS S-17 - Wikipedia](https://en.wikipedia.org/?curid=1417663)
   - Keel laid March 19 1918 by Lake Torpedo Boat Company in Bridgeport Connecticut confirmed
   - Launched May 22 1920 confirmed
   - Commissioned March 1 1921 confirmed

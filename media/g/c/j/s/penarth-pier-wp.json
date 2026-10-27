@@ -3,26 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/j/s/penarth-pier-wp/hero.jpg",
-        "filename": "Penarth Pier 2013.jpg",
-        "caption": "Penarth_Pier, Penarth, Wales",
-        "alt": "Penarth_Pier, Penarth, Wales",
-        "width": 4261,
-        "height": 2893,
+        "path": "_m/g/c/j/s/penarth-pier-wp/moody-pier-sky.jpg",
+        "filename": "Moody Pier Sky.jpg",
+        "caption": "This is a photo of listed building number",
+        "alt": "This is a photo of listed building number",
+        "width": 5472,
+        "height": 3648,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "Ben Salter",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Penarth_Pier_2013.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "WelshDave",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moody_Pier_Sky.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "penarth-pier-wp",
         "sourceGeohash4": "gcjs",
-        "categories": [
-          "CC-BY-2.0",
-          "Flickr images reviewed by trusted users",
-          "October 2013 in the Vale of Glamorgan",
-          "Penarth Pier Pavilion",
-          "Taken with Canon EOS 50D"
-        ]
+        "mediumPath": "_m/g/c/j/s/penarth-pier-wp/moody-pier-sky-medium.webp",
+        "smallPath": "_m/g/c/j/s/penarth-pier-wp/moody-pier-sky-small.webp"
       },
       "images": [
         {
@@ -571,7 +566,9 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-TZ3",
             "The Esplanade, Penarth"
-          ]
+          ],
+          "mediumPath": "_m/g/c/j/s/penarth-wk/penarth-italian-gardens-2-medium.webp",
+          "smallPath": "_m/g/c/j/s/penarth-wk/penarth-italian-gardens-2-small.webp"
         },
         {
           "path": "_m/g/c/j/s/penarth-wk/rear-of-the-pavilion-penarth-p.jpg",
@@ -590,7 +587,9 @@
           "categories": [
             "CC-BY-2.0",
             "December 2013 in the Vale of Glamorgan"
-          ]
+          ],
+          "mediumPath": "_m/g/c/j/s/penarth-wk/rear-of-the-pavilion-penarth-p-medium.webp",
+          "smallPath": "_m/g/c/j/s/penarth-wk/rear-of-the-pavilion-penarth-p-small.webp"
         },
         {
           "path": "_m/g/c/j/s/penarth-wk/2-and-4-plymouth-road-penarth-.jpg",
@@ -605,7 +604,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2_and_4_Plymouth_Road,_Penarth,_February_2018.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "penarth-wk",
-          "sourceGeohash4": "gcjs"
+          "sourceGeohash4": "gcjs",
+          "mediumPath": "_m/g/c/j/s/penarth-wk/2-and-4-plymouth-road-penarth--medium.webp",
+          "smallPath": "_m/g/c/j/s/penarth-wk/2-and-4-plymouth-road-penarth--small.webp"
         },
         {
           "path": "_m/g/c/j/s/penarth-wk/restaurant-james-sommerin-pena.jpg",
@@ -620,7 +621,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Restaurant_James_Sommerin,_Penarth,_March_2018.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "penarth-wk",
-          "sourceGeohash4": "gcjs"
+          "sourceGeohash4": "gcjs",
+          "mediumPath": "_m/g/c/j/s/penarth-wk/restaurant-james-sommerin-pena-medium.webp",
+          "smallPath": "_m/g/c/j/s/penarth-wk/restaurant-james-sommerin-pena-small.webp"
         },
         {
           "path": "_m/g/c/j/w/south-wales-wp/wormshead-view-072006-rb.jpg",
@@ -643,7 +646,8 @@
             "Peninsulas of Wales",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ20"
-          ]
+          ],
+          "smallPath": "_m/g/c/j/w/south-wales-wp/wormshead-view-072006-rb-small.webp"
         },
         {
           "path": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/all-saints-church.jpg",
@@ -667,7 +671,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot S40"
-          ]
+          ],
+          "mediumPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/all-saints-church-medium.webp",
+          "smallPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/all-saints-church-small.webp"
         },
         {
           "path": "_m/g/c/j/w/south-wales-wp/st-davids-village-and-cathedra.jpg",
@@ -690,7 +696,8 @@
             "License migration redundant",
             "Self-published work",
             "St David's"
-          ]
+          ],
+          "smallPath": "_m/g/c/j/w/south-wales-wp/st-davids-village-and-cathedra-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/green-bridge-of-wales-1-pembro.jpg",
@@ -710,7 +717,8 @@
             "CC-BY-SA-3.0",
             "Green Bridge of Wales",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/green-bridge-of-wales-1-pembro-small.webp"
         },
         {
           "path": "_m/g/c/j/w/south-wales-wp/south-wales-map.png",
@@ -731,7 +739,8 @@
             "Files by Wikivoyage user (not yet sorted)",
             "Files from Wikivoyage wts",
             "Files moved from wts.oldwikivoyage to Commons requiring review"
-          ]
+          ],
+          "smallPath": "_m/g/c/j/w/south-wales-wp/south-wales-map-small.webp"
         },
         {
           "path": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/cardiffmontage3.jpg",
@@ -746,7 +755,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cardiffmontage3.jpg",
           "sourceType": "poi",
           "sourceArticleId": "vale-of-glamorgan",
-          "sourceGeohash4": "gcjw"
+          "sourceGeohash4": "gcjw",
+          "mediumPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/cardiffmontage3-medium.webp",
+          "smallPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/cardiffmontage3-small.webp"
         },
         {
           "path": "_m/g/c/j/w/south-wales-wp/newport-montage1.jpg",
@@ -761,7 +772,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newport_montage1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-wales-wp",
-          "sourceGeohash4": "gcjw"
+          "sourceGeohash4": "gcjw",
+          "smallPath": "_m/g/c/j/w/south-wales-wp/newport-montage1-small.webp"
         },
         {
           "path": "_m/g/c/j/w/south-wales-wp/p-3-swansea-city-centre-2012.jpg",
@@ -776,7 +788,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:P.3._Swansea_City_Centre_2012.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-wales-wp",
-          "sourceGeohash4": "gcjw"
+          "sourceGeohash4": "gcjw",
+          "smallPath": "_m/g/c/j/w/south-wales-wp/p-3-swansea-city-centre-2012-small.webp"
         },
         {
           "path": "_m/g/c/j/w/south-wales-wp/worms-head-with-tide-out-rhoss.jpg",
@@ -791,7 +804,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Worms_Head_with_tide_out,_Rhossili,_Gower_Peninsula,_Wales.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-wales-wp",
-          "sourceGeohash4": "gcjw"
+          "sourceGeohash4": "gcjw",
+          "mediumPath": "_m/g/c/j/w/south-wales-wp/worms-head-with-tide-out-rhoss-medium.webp",
+          "smallPath": "_m/g/c/j/w/south-wales-wp/worms-head-with-tide-out-rhoss-small.webp"
         },
         {
           "path": "_m/g/c/h/z/carmarthenshire-wp/caerfyrddin-ac-afon-tywi-ardal.jpg",
@@ -806,7 +821,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caerfyrddin_ac_Afon_Tywi_(Ardal_Cadwraeth_Arbennig_Ddynodedig_(ACA))_-_Carmarthen_and_the_Afon_Tywi_river;_Wales_12.jpg",
           "sourceType": "poi",
           "sourceArticleId": "carmarthenshire-wp",
-          "sourceGeohash4": "gcjw"
+          "sourceGeohash4": "gcjw",
+          "mediumPath": "_m/g/c/h/z/carmarthenshire-wp/caerfyrddin-ac-afon-tywi-ardal-medium.webp",
+          "smallPath": "_m/g/c/h/z/carmarthenshire-wp/caerfyrddin-ac-afon-tywi-ardal-small.webp"
         },
         {
           "path": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/afan-forest-park-1.jpg",
@@ -821,7 +838,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Afan_Forest_Park_1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "vale-of-glamorgan",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/afan-forest-park-1-small.webp"
         },
         {
           "path": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/marine-hotel-southerndown-brid.jpg",
@@ -836,7 +854,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marine_Hotel,_Southerndown,_Bridgend_(4641177).jpg",
           "sourceType": "poi",
           "sourceArticleId": "vale-of-glamorgan",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/marine-hotel-southerndown-brid-small.webp"
         },
         {
           "path": "_m/g/c/p/v/london-wk/4-gwr-class-80x-paddin.jpg",
@@ -851,7 +870,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:4_GWR_Class_80X_at_Paddington,_from_overbridge_above_pl_4,_Nov_2021.jpg",
           "sourceType": "poi",
           "sourceArticleId": "london-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/g/c/p/v/london-wk/4-gwr-class-80x-paddin-medium.webp",
+          "smallPath": "_m/g/c/p/v/london-wk/4-gwr-class-80x-paddin-small.webp"
         },
         {
           "path": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/castell-caerffili-o-r-awyr-aer.jpg",
@@ -866,7 +887,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castell_Caerffili_o%27r_awyr_-_aerial_(drone)_view_of_Caerphilly_Castle_-_2023_04.jpg",
           "sourceType": "poi",
           "sourceArticleId": "vale-of-glamorgan",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/castell-caerffili-o-r-awyr-aer-medium.webp",
+          "smallPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/castell-caerffili-o-r-awyr-aer-small.webp"
         }
       ],
       "narration": [

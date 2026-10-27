@@ -33,7 +33,7 @@ The Feather River's confluence with the Sacramento River lies near 38.785N, 121.
 ## Sources
 
 - [Feather River - Wikipedia](https://en.wikipedia.org/?curid=752208)
-- [Feather River - Wikipedia](https://en.wikipedia.org/wiki/Feather_River)
+- [Feather River - Wikipedia](https://en.wikipedia.org/?curid=752208)
   - Four main branches converging northeast of Oroville confirmed
   - North Fork drains ~60% of upper watershed confirmed
   - Middle Fork ~32% confirmed

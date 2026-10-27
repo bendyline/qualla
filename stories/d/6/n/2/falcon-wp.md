@@ -37,7 +37,7 @@ Located at 11.41N, 69.68W in northwestern Venezuela. Falcon State encompasses th
 ## Sources
 
 - [Falcón - Wikipedia](https://en.wikipedia.org/?curid=556268)
-- [Falcón - Wikipedia](https://en.wikipedia.org/wiki/Falcon_State)
+- [Falcón - Wikipedia](https://en.wikipedia.org/?curid=556268)
   - Federal War began February 20, 1859 in Coro — confirmed
   - State became federal in 1864 — confirmed
   - Renamed Falcón State in 1872 in honor of Juan Crisóstomo Falcón — confirmed

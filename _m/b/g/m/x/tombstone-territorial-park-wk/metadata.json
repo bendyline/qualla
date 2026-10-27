@@ -1,5 +1,26 @@
 {
   "articleId": "tombstone-territorial-park-wk",
+  "narration": {
+    "files": [
+      "bgmx-tombstone-the-yukons-gothic-mountains-flight-context.mp3",
+      "bgmx-tombstone-the-yukons-gothic-mountains-intro.mp3",
+      "bgmx-tombstone-the-yukons-gothic-mountains-the-peaks.mp3",
+      "bgmx-tombstone-the-yukons-gothic-mountains-the-ecosystem.mp3",
+      "bgmx-tombstone-the-yukons-gothic-mountains-the-access.mp3",
+      "bgmx-tombstone-the-yukons-gothic-mountains-the-season.mp3",
+      "bgmx-tombstone-the-yukons-gothic-mountains-visiting-tombstone.mp3"
+    ],
+    "durations": {
+      "bgmx-tombstone-the-yukons-gothic-mountains-flight-context.mp3": 53.52875,
+      "bgmx-tombstone-the-yukons-gothic-mountains-intro.mp3": 46.7399166,
+      "bgmx-tombstone-the-yukons-gothic-mountains-the-peaks.mp3": 38.9697083,
+      "bgmx-tombstone-the-yukons-gothic-mountains-the-ecosystem.mp3": 39.1037916,
+      "bgmx-tombstone-the-yukons-gothic-mountains-the-access.mp3": 40.960625,
+      "bgmx-tombstone-the-yukons-gothic-mountains-the-season.mp3": 39.50925,
+      "bgmx-tombstone-the-yukons-gothic-mountains-visiting-tombstone.mp3": 51.8804583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
   "hero": {
     "filename": "Tombstone Territorial Park 01.jpg",
     "title": "File:Tombstone Territorial Park 01.jpg",
@@ -105,7 +126,7 @@
       "sourceType": "core",
       "sourceArticleId": "tombstone-territorial-park-wk",
       "sourceGeohash4": "bgmx",
-      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/yukon-blick-vom-midnig-small.jpg"
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/yukon-blick-vom-midnig-small.webp"
     },
     {
       "filename": "Tombstone Territorial Park 12.jpg",
@@ -135,8 +156,8 @@
       "sourceType": "core",
       "sourceArticleId": "tombstone-territorial-park-wk",
       "sourceGeohash4": "bgmx",
-      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-small.jpg",
-      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-medium.jpg"
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-small.webp",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-medium.webp"
     },
     {
       "filename": "Fall in Yukon's Tombstone Territorial Park – Protected areas in Canada Q844692.jpg",
@@ -156,8 +177,8 @@
       "sourceType": "core",
       "sourceArticleId": "tombstone-territorial-park-wk",
       "sourceGeohash4": "bgmx",
-      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-1-small.jpg",
-      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-1-medium.jpg"
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-1-small.webp",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-1-medium.webp"
     },
     {
       "filename": "ParaglidingTombstones.jpg",
@@ -177,7 +198,7 @@
       "sourceType": "core",
       "sourceArticleId": "tombstone-territorial-park-wk",
       "sourceGeohash4": "bgmx",
-      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/paragliding-tombstones-small.jpg"
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/paragliding-tombstones-small.webp"
     },
     {
       "filename": "NorthernLightsTombstones.jpg",
@@ -197,8 +218,8 @@
       "sourceType": "core",
       "sourceArticleId": "tombstone-territorial-park-wk",
       "sourceGeohash4": "bgmx",
-      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/northern-lights-seen-a-small.jpg",
-      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/northern-lights-seen-a-medium.jpg"
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/northern-lights-seen-a-small.webp",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/northern-lights-seen-a-medium.webp"
     },
     {
       "filename": "Tombstone Mountain (Ogilvie Mountains) seen from North Fork Pass in September 2001.jpg",
@@ -225,7 +246,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-mountain-ogilvie-mou-small.webp"
     },
     {
       "filename": "Tombstone Mountain 2007.JPG",
@@ -254,7 +276,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "dawson-city-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/k/u/dawson-city-wk/tombstone-mountain-cen-medium.webp",
+      "smallPath": "_m/b/g/k/u/dawson-city-wk/tombstone-mountain-cen-small.webp"
     },
     {
       "filename": "Aufeis im Tombstone Park, Yukon.JPG",
@@ -279,7 +303,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/aufeis-im-tombstone-park-yukon-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/aufeis-im-tombstone-park-yukon-small.webp"
     },
     {
       "filename": "Hans Blohm Tombstone Valley Yukon.jpg",
@@ -296,7 +322,8 @@
       "dateCreated": "2009",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/hans-blohm-tombstone-valley-yu-small.webp"
     },
     {
       "filename": "Glissade Pass August 2016.jpg",
@@ -313,7 +340,9 @@
       "dateCreated": "2016-08-22",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/glissade-pass-august-2016-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/glissade-pass-august-2016-small.webp"
     },
     {
       "filename": "P1000715 (7041585589).jpg",
@@ -330,7 +359,9 @@
       "dateCreated": "2011-08-09 09:17",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/p1000715-7041585589-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/p1000715-7041585589-small.webp"
     },
     {
       "filename": "P1000718 (7041589007).jpg",
@@ -347,7 +378,8 @@
       "dateCreated": "2011-08-09 10:06",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/p1000718-7041589007-small.webp"
     },
     {
       "filename": "P1000741 (6895497292).jpg",
@@ -364,7 +396,9 @@
       "dateCreated": "2011-08-09 11:57",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/p1000741-6895497292-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/p1000741-6895497292-small.webp"
     },
     {
       "filename": "Jutting (6895509142).jpg",
@@ -381,7 +415,9 @@
       "dateCreated": "2011-08-09 12:41",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/jutting-6895509142-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/jutting-6895509142-small.webp"
     },
     {
       "filename": "Beautiful view from Grizzly lake trail in Tombstone territorial park (7041587653).jpg",
@@ -398,7 +434,9 @@
       "dateCreated": "2011-08-09 09:59",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/beautiful-view-from-grizzly-la-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/beautiful-view-from-grizzly-la-small.webp"
     },
     {
       "filename": "P1000732 (7041591949).jpg",
@@ -415,7 +453,9 @@
       "dateCreated": "2011-08-09 11:21",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/p1000732-7041591949-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/p1000732-7041591949-small.webp"
     },
     {
       "filename": "Tombstone Territorial Park 03.jpg",
@@ -432,7 +472,9 @@
       "dateCreated": "2013-08-21 10:42:45",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-park-03-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-park-03-small.webp"
     },
     {
       "filename": "Tombstone Territorial Park 02.jpg",
@@ -449,7 +491,9 @@
       "dateCreated": "2013-08-21 09:58:20",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-park-02-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-park-02-small.webp"
     },
     {
       "filename": "Tombstone Territorial Park 04.jpg",
@@ -466,7 +510,9 @@
       "dateCreated": "2013-08-21 13:58:31",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-park-04-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-park-04-small.webp"
     },
     {
       "filename": "Tombstone Territorial Park 05.jpg",
@@ -483,7 +529,9 @@
       "dateCreated": "2013-08-21 12:31:52",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-park-05-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-park-05-small.webp"
     },
     {
       "filename": "Tombstone Territorial Park 06.jpg",
@@ -500,7 +548,9 @@
       "dateCreated": "2013-08-21 12:22:24",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-park-06-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-territorial-park-06-small.webp"
     },
     {
       "filename": "Tombstone Park - 007. (47609709412).jpg",
@@ -517,7 +567,9 @@
       "dateCreated": "2018-06-28 14:22",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-park-007-47609709412-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-park-007-47609709412-small.webp"
     },
     {
       "filename": "Tombstone Park - 004. (32719999397).jpg",
@@ -534,7 +586,9 @@
       "dateCreated": "2018-06-28 13:58",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-park-004-32719999397-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-park-004-32719999397-small.webp"
     },
     {
       "filename": "Tombstone Park - 005. (33785340258).jpg",
@@ -551,7 +605,9 @@
       "dateCreated": "2018-06-28 14:02",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-park-005-33785340258-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-park-005-33785340258-small.webp"
     },
     {
       "filename": "Tombstone Park - 006. (32720019757).jpg",
@@ -568,7 +624,9 @@
       "dateCreated": "2018-06-28 14:10",
       "sourceType": "commons-category",
       "sourceArticleId": "tombstone-territorial-park-wk",
-      "sourceGeohash4": "bgmx"
+      "sourceGeohash4": "bgmx",
+      "mediumPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-park-006-32720019757-medium.webp",
+      "smallPath": "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-park-006-32720019757-small.webp"
     }
   ],
   "galleryPaths": [
@@ -598,26 +656,5 @@
     "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-park-005-33785340258.jpg",
     "_m/b/g/m/x/tombstone-territorial-park-wk/tombstone-park-006-32720019757.jpg"
   ],
-  "updatedAt": "2026-02-22T01:47:55.856Z",
-  "narration": {
-    "files": [
-      "bgmx-tombstone-the-yukons-gothic-mountains-flight-context.mp3",
-      "bgmx-tombstone-the-yukons-gothic-mountains-intro.mp3",
-      "bgmx-tombstone-the-yukons-gothic-mountains-the-peaks.mp3",
-      "bgmx-tombstone-the-yukons-gothic-mountains-the-ecosystem.mp3",
-      "bgmx-tombstone-the-yukons-gothic-mountains-the-access.mp3",
-      "bgmx-tombstone-the-yukons-gothic-mountains-the-season.mp3",
-      "bgmx-tombstone-the-yukons-gothic-mountains-visiting-tombstone.mp3"
-    ],
-    "durations": {
-      "bgmx-tombstone-the-yukons-gothic-mountains-flight-context.mp3": 53.52875,
-      "bgmx-tombstone-the-yukons-gothic-mountains-intro.mp3": 46.7399166,
-      "bgmx-tombstone-the-yukons-gothic-mountains-the-peaks.mp3": 38.9697083,
-      "bgmx-tombstone-the-yukons-gothic-mountains-the-ecosystem.mp3": 39.1037916,
-      "bgmx-tombstone-the-yukons-gothic-mountains-the-access.mp3": 40.960625,
-      "bgmx-tombstone-the-yukons-gothic-mountains-the-season.mp3": 39.50925,
-      "bgmx-tombstone-the-yukons-gothic-mountains-visiting-tombstone.mp3": 51.8804583
-    },
-    "voice": "en-US-Ava3:DragonHDLatestNeural"
-  }
+  "updatedAt": "2026-02-22T01:47:55.856Z"
 }

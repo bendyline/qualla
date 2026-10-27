@@ -28,7 +28,7 @@ Future Secretary of War and U.S. Senator Stephen B. Elkins fought his only Civil
 
 ## Flight Context
 
-Located at 38.87N, 94.19W in Jackson County, Missouri, roughly 30 miles southeast of Kansas City. The Lone Jack battlefield site is visible from altitude as a small rural community surrounded by farmland. Nearest airports include Lee's Summit Municipal Airport (KLXT, roughly 15nm northwest) and Kansas City Downtown Airport (KMKC, roughly 30nm northwest). Recommended viewing altitude: 3,000-5,000 ft AGL. The terrain is flat to gently rolling prairie. Interstate 50 passes nearby.
+Located at 38.87N, 94.19W in Jackson County, Missouri, roughly 30 miles southeast of Kansas City. The Lone Jack battlefield site is visible from altitude as a small rural community surrounded by farmland. Nearest airports include Kansas City - Lee's Summit Regional Airport (KLXT, formerly Lee's Summit Municipal, roughly 15nm northwest) and Kansas City Downtown Airport (KMKC, roughly 30nm northwest). Recommended viewing altitude: 3,000-5,000 ft AGL. The terrain is flat to gently rolling prairie. Interstate 50 passes nearby.
 
 ## Sources
 

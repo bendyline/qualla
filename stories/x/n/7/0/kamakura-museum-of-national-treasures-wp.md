@@ -39,7 +39,7 @@ Located at 35.325N, 139.557E on the grounds of Tsurugaoka Hachimangu shrine in c
   - Architect Shinichiro Okada (also spelled Okada Shinichiro) confirmed
   - Azekura-style concrete construction confirmed
   - Approximately 4800 objects confirmed
-- [Kamakura Museum of National Treasures - Wikipedia](https://en.wikipedia.org/wiki/Kamakura_Museum_of_National_Treasures)
+- [Kamakura Museum of National Treasures - Wikipedia](https://en.wikipedia.org/?curid=23076976)
   - Opened April 1928 confirmed
   - Evacuated to Tsukui District during WWII in June 1945 confirmed
   - Closed August-October 1945 confirmed

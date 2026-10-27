@@ -51,7 +51,7 @@ Ng Tung Chai is located at approximately 22.437°N, 114.128°E on the northern s
   - Corrected: added Scatter Falls (fourth waterfall) which was omitted from the original
   - four waterfalls: Bottom, Middle, Main, Scatter
   - Tai Mo Shan 957m confirmed
-- [Site of Special Scientific Interest - Ng Tung Chai](https://en.wikipedia.org/wiki/Ng_Tung_Chai)
+- [Site of Special Scientific Interest - Ng Tung Chai](https://en.wikipedia.org/?curid=63049522)
   - 226 hectares gorge area confirmed
   - SSSI designation confirmed
   - floristically richest area in Hong Kong confirmed

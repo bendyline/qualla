@@ -32,7 +32,7 @@ Pearl Harbor National Memorial receives over 1.8 million visitors annually, maki
 
 ## Flight Context
 
-Located at 21.37°N, 157.98°W on Oahu's south shore, west of Honolulu. Pearl Harbor is visible from altitude as a distinctive lagoon harbor with Ford Island in the center. The white USS Arizona Memorial is visible from low altitude floating above the sunken ship. The Battleship Missouri is docked near Ford Island. Hickam Air Force Base adjoins the harbor. Honolulu International Airport (HNL) is immediately southeast of the harbor.
+Located at 21.37°N, 157.98°W on Oahu's south shore, west of Honolulu. Pearl Harbor is visible from altitude as a distinctive lagoon harbor with Ford Island in the center. The white USS Arizona Memorial is visible from low altitude floating above the sunken ship. The Battleship Missouri is docked near Ford Island. Hickam Air Force Base adjoins the harbor. Daniel K. Inouye International Airport (HNL, formerly Honolulu International) is immediately southeast of the harbor.
 
 ## Sources
 

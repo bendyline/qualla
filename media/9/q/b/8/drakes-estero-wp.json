@@ -3,28 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/b/8/drakes-estero-wp/hero.png",
-        "filename": "Terra.png",
-        "alt": "Terra.png",
-        "width": 600,
-        "height": 600,
-        "mimeType": "image/png",
-        "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terra.png",
-        "sourceType": "core",
+        "path": "_m/9/q/b/8/drakes-estero-wp/creamery-bay.jpg",
+        "filename": "Creamery Bay.jpg",
+        "caption": "Creamery Bay off Drakes Estero, Point Reyes National Seashore, CA, USA",
+        "alt": "Creamery Bay off Drakes Estero, Point Reyes National Seashore, CA, USA",
+        "width": 6624,
+        "height": 3145,
+        "mimeType": "image/jpeg",
+        "license": "CC BY 2.0",
+        "artist": "Mark  Gunn from Novato, California, USA",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Creamery_Bay.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "drakes-estero-wp",
         "sourceGeohash4": "9qb8",
-        "categories": [
-          "Files with no machine-readable author",
-          "Files with no machine-readable source",
-          "Media missing infobox template",
-          "PD NASA",
-          "The Blue Marble"
-        ]
+        "mediumPath": "_m/9/q/b/8/drakes-estero-wp/creamery-bay-medium.webp",
+        "smallPath": "_m/9/q/b/8/drakes-estero-wp/creamery-bay-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/b/8/drakes-estero-wp/wpdms-usgs-photo-drakes-bay.jpg",
+          "path": "_m/9/q/b/8/drakes-bay-wp/wpdms-usgs-photo-drakes-bay.jpg",
           "filename": "Wpdms usgs photo drakes bay.jpg",
           "caption": "Drakes Bay and Drakes Estero © 2004 Matthew Trump",
           "alt": "Drakes Bay and Drakes Estero © 2004 Matthew Trump",
@@ -48,7 +45,8 @@
             "Self-published work",
             "Tomales Bay",
             "WPDMS maps"
-          ]
+          ],
+          "smallPath": "_m/9/q/b/8/drakes-bay-wp/wpdms-usgs-photo-drakes-bay-small.webp"
         },
         {
           "path": "_m/9/q/b/8/drakes-estero-wp/robert-kehlmann-drake-s-estero.jpg",
@@ -355,7 +353,9 @@
             "Photographs by Miguel Vieira",
             "Sea cliffs of Point Reyes National Seashore",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/9/q/b/8/point-reyes-wp/point-reyes-national-seashore--medium.webp",
+          "smallPath": "_m/9/q/b/8/point-reyes-wp/point-reyes-national-seashore--small.webp"
         },
         {
           "path": "_m/9/q/b/8/point-reyes-wp/cervus-canadensis-nannodes-at-.jpg",
@@ -388,7 +388,9 @@
             "Quality images of Cervus canadensis",
             "Quality images of mammals in the United States",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/9/q/b/8/point-reyes-wp/cervus-canadensis-nannodes-at--medium.webp",
+          "smallPath": "_m/9/q/b/8/point-reyes-wp/cervus-canadensis-nannodes-at--small.webp"
         },
         {
           "path": "_m/9/q/b/8/point-reyes-wp/point-reyes-lighthouse-in-dece.jpg",
@@ -424,7 +426,9 @@
             "Valued images promoted 2019-12",
             "Valued images sorted by promotion date",
             "Winter in California"
-          ]
+          ],
+          "mediumPath": "_m/9/q/b/8/point-reyes-wp/point-reyes-lighthouse-in-dece-medium.webp",
+          "smallPath": "_m/9/q/b/8/point-reyes-wp/point-reyes-lighthouse-in-dece-small.webp"
         }
       ],
       "narration": [

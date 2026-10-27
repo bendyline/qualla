@@ -3,32 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/v/w/traverse-theatre-wp/hero.jpg",
-        "filename": "Traverse Theatre.JPG",
-        "caption": "Traverse Theatre. Taken by myself. September 2004.",
-        "alt": "Traverse Theatre. Taken by myself. September 2004.",
-        "width": 2048,
-        "height": 1536,
+        "path": "_m/g/c/v/w/traverse-theatre-wp/traverse-theatre-cambr.jpg",
+        "filename": "Traverse Theatre, Cambridge Street.JPG",
+        "caption": "Traverse Theatre, Cambridge Street, with the Usher Hall on the right.",
+        "alt": "Traverse Theatre, Cambridge Street, with the Usher Hall on the right.",
+        "width": 2600,
+        "height": 1461,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "No machine-readable author provided. Globaltraveller assumed (based on copyright claims).",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Traverse_Theatre.JPG",
+        "artist": "Kim Traynor",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Traverse_Theatre,_Cambridge_Street.JPG",
         "sourceType": "core",
         "sourceArticleId": "traverse-theatre-wp",
         "sourceGeohash4": "gcvw",
         "categories": [
-          "Assumed own work",
-          "August 2003 in Scotland",
-          "CC-BY-SA-2.5,2.0,1.0",
-          "CC-BY-SA-3.0-migrated",
-          "Files with no machine-readable source",
-          "GFDL",
-          "License migration redundant",
+          "CC-BY-SA-3.0",
           "Self-published work",
-          "Taken with Nikon Coolpix 3100",
-          "Traverse Theatre, Edinburgh",
-          "United Kingdom photographs taken on 2003-08-30"
-        ]
+          "Taken with Panasonic Lumix DMC-FS10",
+          "Traverse Theatre, Edinburgh"
+        ],
+        "mediumPath": "_m/g/c/v/w/traverse-theatre-wp/traverse-theatre-cambr-medium.webp",
+        "smallPath": "_m/g/c/v/w/traverse-theatre-wp/traverse-theatre-cambr-small.webp"
       },
       "images": [
         {
@@ -55,7 +50,7 @@
           "smallPath": "_m/g/c/v/w/traverse-theatre-wp/traverse-theatre-cambr-small.webp"
         },
         {
-          "path": "_m/g/c/v/w/traverse-theatre-wp/scottish-national-portrait-gal.jpg",
+          "path": "_m/g/c/v/w/edinburgh-wp/scottish-national-portrait-gal.jpg",
           "filename": "Scottish National Portrait Gallery (8852189552).jpg",
           "caption": "Entrance, 1 Queen Street, Edinburgh",
           "alt": "Entrance, 1 Queen Street, Edinburgh",
@@ -76,10 +71,11 @@
             "Files with coordinates missing SDC location of creation (55° N, 4° W)",
             "Flickr images reviewed by FlickreviewR",
             "Windows in Edinburgh"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/edinburgh-wp/scottish-national-portrait-gal-small.webp"
         },
         {
-          "path": "_m/g/c/v/w/traverse-theatre-wp/traverse-theatre-edinburgh.jpg",
+          "path": "_m/g/c/v/w/edinburgh-wp/traverse-theatre-edinburgh.jpg",
           "filename": "Traverse Theatre, Edinburgh.JPG",
           "caption": "Traverse Theatre, Edinburgh",
           "alt": "Traverse Theatre, Edinburgh",
@@ -97,7 +93,9 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FS10",
             "Traverse Theatre, Edinburgh"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/w/edinburgh-wp/traverse-theatre-edinburgh-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-wp/traverse-theatre-edinburgh-small.webp"
         },
         {
           "path": "_m/g/c/v/w/traverse-theatre-wp/p8211348-6165957893.jpg",

@@ -3,33 +3,37 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/q/z/6/calydon-wp/hero.jpg",
-        "filename": "Calydon Aetolia 2010.JPG",
-        "caption": "The acropolis of Kalydon",
-        "alt": "The acropolis of Kalydon",
-        "width": 2592,
-        "height": 1944,
+        "path": "_m/s/q/z/6/calydon-wp/meleagrosz-tal-2.jpg",
+        "filename": "Meleagrosz-tál (2).jpg",
+        "caption": "Meleagrosz-tál. Seuso kincslelet. Átmérője 69,4 cm, tömege 8,6 kg. Központi medalionjában ókori görög vadásztörténet, a kalydoni vadkanvadászat dömborműves ábrázolása látható.  A tál peremén görög mitológiai történetek láthatóak. A felvétel 2017. július 17-én, hétfőn készült az Országházban, Budapesten.",
+        "alt": "Meleagrosz-tál. Seuso kincslelet. Átmérője 69,4 cm, tömege 8,6 kg. Központi medalionjában ókori görög vadásztörténet, a kalydoni vadkanvadászat dömborműves ábrázolása látható.  A tál peremén görög mitológiai történetek láthatóak. A felvétel 2017. július 17-én, hétfőn készült az Országházban, Budapesten.",
+        "width": 4000,
+        "height": 3000,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Vasarchit",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calydon_Aetolia_2010.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Elekes Andor",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meleagrosz-t%C3%A1l_(2).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "calydon-wp",
         "sourceGeohash4": "sqz6",
         "categories": [
-          "Acropolis",
-          "CC-BY-SA-3.0",
-          "GFDL",
+          "Aphrodite in ancient reliefs",
+          "CC-BY-SA-4.0",
           "Kalydon Aetolias",
-          "License migration redundant",
+          "Meleager",
+          "Pedanius Dioscorides",
+          "Perseus in sculpture",
+          "Photos by Elekes Andor",
           "Self-published work",
-          "Taken with Sony DSC-W55",
-          "Varasova"
-        ]
+          "Seuso Treasure",
+          "Silver bowls"
+        ],
+        "mediumPath": "_m/s/q/z/6/calydon-wp/meleagrosz-tal-2-medium.webp",
+        "smallPath": "_m/s/q/z/6/calydon-wp/meleagrosz-tal-2-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/q/z/6/calydon-wp/ancient-city-kalydon.jpg",
+          "path": "_m/s/q/z/5/agrinio-wp/ancient-city-kalydon.jpg",
           "filename": "Kalydon Aetolias 01.JPG",
           "caption": "Ancient city Kalydon",
           "alt": "Ancient city Kalydon",
@@ -48,7 +52,9 @@
             "Images by Tony Esopi",
             "Self-published work",
             "Taken with Sony DSC-W125"
-          ]
+          ],
+          "mediumPath": "_m/s/q/z/5/agrinio-wp/ancient-city-kalydon-medium.webp",
+          "smallPath": "_m/s/q/z/5/agrinio-wp/ancient-city-kalydon-small.webp"
         },
         {
           "path": "_m/s/q/z/6/calydon-wp/kalydon-aetolias-02.jpg",
@@ -345,7 +351,8 @@
             "Valued images missing SDC inception",
             "Valued images missing SDC source of file",
             "Valued images of Croatia"
-          ]
+          ],
+          "smallPath": "_m/u/2/1/c/istria-wp/pula-aerial-view-small.webp"
         },
         {
           "path": "_m/tpc/gr/ee/k-/my/greek-mythology/viennaetemplum.jpg",
@@ -370,7 +377,9 @@
             "Taken with Panasonic Lumix DMC-FX9",
             "Temple of Augustus and Livia (Vienne)",
             "Uploads by User:Abderitestatos"
-          ]
+          ],
+          "mediumPath": "_m/tpc/gr/ee/k-/my/greek-mythology/viennaetemplum-medium.webp",
+          "smallPath": "_m/tpc/gr/ee/k-/my/greek-mythology/viennaetemplum-small.webp"
         },
         {
           "path": "_m/s/r/3/n/lazio-wp/rome-skyline-8012016319.jpg",
@@ -394,7 +403,9 @@
             "Taken with Sony SLT-A77",
             "Views of Rome from Castel Sant'Angelo",
             "Views of Vittoriano from Castel Sant'Angelo (Rome)"
-          ]
+          ],
+          "mediumPath": "_m/s/r/3/n/lazio-wp/rome-skyline-8012016319-medium.webp",
+          "smallPath": "_m/s/r/3/n/lazio-wp/rome-skyline-8012016319-small.webp"
         },
         {
           "path": "_m/s/w/8/z/athens-wk/view-philopappos-hill.jpg",
@@ -423,7 +434,9 @@
             "Images with annotations",
             "July 2013 in Athens",
             "Klippe (geology)"
-          ]
+          ],
+          "mediumPath": "_m/s/w/8/z/athens-wk/view-philopappos-hill-medium.webp",
+          "smallPath": "_m/s/w/8/z/athens-wk/view-philopappos-hill-small.webp"
         },
         {
           "path": "_m/tpc/gr/ee/k-/my/greek-mythology/cumae-acropolis-seen-from-lowe.jpg",
@@ -438,7 +451,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cumae_acropolis_seen_from_lower_city_AvL.JPG",
           "sourceType": "poi",
           "sourceArticleId": "greek-mythology",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/gr/ee/k-/my/greek-mythology/cumae-acropolis-seen-from-lowe-medium.webp",
+          "smallPath": "_m/tpc/gr/ee/k-/my/greek-mythology/cumae-acropolis-seen-from-lowe-small.webp"
         },
         {
           "path": "_m/tpc/gr/ee/k-/my/greek-mythology/pompeii-4873744179.jpg",
@@ -453,7 +468,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pompeii_(4873744179).jpg",
           "sourceType": "poi",
           "sourceArticleId": "greek-mythology",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/gr/ee/k-/my/greek-mythology/pompeii-4873744179-medium.webp",
+          "smallPath": "_m/tpc/gr/ee/k-/my/greek-mythology/pompeii-4873744179-small.webp"
         },
         {
           "path": "_m/u/2/4/t/slovenia-wp/2021-07-28-ljubljana-0881.jpg",
@@ -468,7 +485,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2021-07-28_Ljubljana-0881.jpg",
           "sourceType": "poi",
           "sourceArticleId": "slovenia-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/u/2/4/t/slovenia-wp/2021-07-28-ljubljana-0881-medium.webp",
+          "smallPath": "_m/u/2/4/t/slovenia-wp/2021-07-28-ljubljana-0881-small.webp"
         }
       ],
       "narration": [

@@ -3,32 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/c/j/b/1931-hawke-s-bay-earthquake-wp/hero.png",
-        "filename": "Bullseye1.png",
-        "caption": "Bull's eye graphic for use with earthquake location maps",
-        "alt": "Bull's eye graphic for use with earthquake location maps",
-        "width": 1610,
-        "height": 1610,
-        "mimeType": "image/png",
-        "license": "CC BY-SA 3.0",
-        "artist": "Mikenorton",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bullseye1.png",
-        "sourceType": "core",
+        "path": "_m/r/c/j/b/1931-hawke-s-bay-earthquake-wp/postcards-of-napier-new-zealan.jpg",
+        "filename": "Postcards of Napier New Zealand(GN04829).jpg",
+        "caption": "Three of the photographs show the aftermath of the earthquake which struck Napier in 1931. Ref \"The Penguin Encyclopedia of Places\", Page 506. (G Brooks)",
+        "alt": "Three of the photographs show the aftermath of the earthquake which struck Napier in 1931. Ref \"The Penguin Encyclopedia of Places\", Page 506. (G Brooks)",
+        "width": 3264,
+        "height": 2448,
+        "mimeType": "image/jpeg",
+        "license": "CC0",
+        "artist": "State Government Photographer",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Postcards_of_Napier_New_Zealand(GN04829).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "1931-hawke-s-bay-earthquake-wp",
         "sourceGeohash4": "rcjb",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Files with derivative versions",
-          "GFDL",
-          "License migration redundant",
-          "Map pointers",
-          "Self-published work",
-          "Vector version available"
-        ]
+        "mediumPath": "_m/r/c/j/b/1931-hawke-s-bay-earthquake-wp/postcards-of-napier-new-zealan-medium.webp",
+        "smallPath": "_m/r/c/j/b/1931-hawke-s-bay-earthquake-wp/postcards-of-napier-new-zealan-small.webp"
       },
       "images": [
         {
-          "path": "_m/r/c/j/b/1931-hawke-s-bay-earthquake-wp/new-zealand-relief-map.png",
+          "path": "_m/r/b/s/m/wellington-wp/new-zealand-relief-map.png",
           "filename": "New Zealand (relief map).png",
           "caption": "Relief map of New Zealand",
           "alt": "Relief map of New Zealand",
@@ -40,7 +33,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Zealand_(relief_map).png",
           "sourceType": "core",
           "sourceArticleId": "1931-hawke-s-bay-earthquake-wp",
-          "sourceGeohash4": "rcjb"
+          "sourceGeohash4": "rcjb",
+          "smallPath": "_m/r/b/s/m/wellington-wp/new-zealand-relief-map-small.webp"
         },
         {
           "path": "_m/r/c/j/b/1931-hawke-s-bay-earthquake-wp/hastings-post-office-1931.jpg",

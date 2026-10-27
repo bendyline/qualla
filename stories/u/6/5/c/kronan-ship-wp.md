@@ -43,7 +43,7 @@ The wreck site lies at approximately 56.4494N, 16.6722E, roughly 6nm east of Ola
   - Excavations began 1981
   - Over 30000 artifacts recovered
   - Artifacts at Kalmar County Museum
-- [Wikipedia - Kronan ship construction details](https://en.wikipedia.org/wiki/Kronan_(ship))
+- [Wikipedia - Kronan ship construction details](https://en.wikipedia.org/?curid=2187141)
   - Franzén also found Vasa in 1956
   - Estimated displacement 2300 tons
   - Ship considered top-heavy

@@ -3,32 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/q/2/gardenstown-wk/hero.jpg",
-        "filename": "Gardenstown banner Crovie.jpg",
-        "caption": "Crovie a small village in Aberdenshire, Scotland, Europe",
-        "alt": "Crovie a small village in Aberdenshire, Scotland, Europe",
-        "width": 3500,
-        "height": 500,
+        "path": "_m/g/f/q/2/gardenstown-wk/gardenstown-beach-landscape.jpg",
+        "filename": "Gardenstown beach landscape.JPG",
+        "caption": "Gardenstown (Gamrie), Scotland, UK",
+        "alt": "Gardenstown (Gamrie), Scotland, UK",
+        "width": 3968,
+        "height": 2976,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "StaraBlazkova",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gardenstown_banner_Crovie.jpg",
-        "sourceType": "core",
+        "artist": "WebCampaigner",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gardenstown_beach_landscape.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "gardenstown-wk",
         "sourceGeohash4": "gfq2",
-        "categories": [
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "Crovie",
-          "Extracted images",
-          "GFDL",
-          "License migration redundant",
-          "Self-published work",
-          "Wikivoyage banners of Scotland"
-        ]
+        "mediumPath": "_m/g/f/q/2/gardenstown-wk/gardenstown-beach-landscape-medium.webp",
+        "smallPath": "_m/g/f/q/2/gardenstown-wk/gardenstown-beach-landscape-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/q/2/gardenstown-wk/crovie-aberdeenshire.jpg",
+          "path": "_m/g/f/q/2/gardenstown-wp/crovie-aberdeenshire.jpg",
           "filename": "Crovie, Aberdeenshire.JPG",
           "caption": "View of Crovie from the hill behind the village.\nSelf-made, taken August '05",
           "alt": "View of Crovie from the hill behind the village.\nSelf-made, taken August '05",
@@ -50,11 +43,11 @@
             "Self-published work",
             "Taken with Olympus X-100 / D-540Z / C-310Z"
           ],
-          "mediumPath": "_m/g/f/q/2/gardenstown-wk/crovie-aberdeenshire-medium.webp",
-          "smallPath": "_m/g/f/q/2/gardenstown-wk/crovie-aberdeenshire-small.webp"
+          "mediumPath": "_m/g/f/q/2/gardenstown-wp/crovie-aberdeenshire-medium.webp",
+          "smallPath": "_m/g/f/q/2/gardenstown-wp/crovie-aberdeenshire-small.webp"
         },
         {
-          "path": "_m/g/f/q/2/gardenstown-wk/phone-booth-pennan.jpg",
+          "path": "_m/g/f/q/2/gardenstown-wp/phone-booth-pennan.jpg",
           "filename": "Phone Booth Pennan.jpg",
           "caption": "Telefonzelle in Pennan, die durch den Film Local Hero zu weltweiter Berühmtheit gelangte",
           "alt": "Telefonzelle in Pennan, die durch den Film Local Hero zu weltweiter Berühmtheit gelangte",
@@ -73,11 +66,11 @@
             "Pennan",
             "Self-published work"
           ],
-          "mediumPath": "_m/g/f/q/2/gardenstown-wk/phone-booth-pennan-medium.webp",
-          "smallPath": "_m/g/f/q/2/gardenstown-wk/phone-booth-pennan-small.webp"
+          "mediumPath": "_m/g/f/q/2/gardenstown-wp/phone-booth-pennan-medium.webp",
+          "smallPath": "_m/g/f/q/2/gardenstown-wp/phone-booth-pennan-small.webp"
         },
         {
-          "path": "_m/g/f/q/2/gardenstown-wk/pennan-aberdeenshire-moray-fir.jpg",
+          "path": "_m/g/f/q/2/gardenstown-wp/pennan-aberdeenshire-moray-fir.jpg",
           "filename": "Pennan, Aberdeenshire, Moray Firth, Scotland.jpg",
           "caption": "Pennan, Aberdeenshire, Moray Firth, Scotland, Photo by Thomas Andy Branson",
           "alt": "Pennan, Aberdeenshire, Moray Firth, Scotland, Photo by Thomas Andy Branson",
@@ -100,8 +93,8 @@
             "Self-published work",
             "Uploaded via Campaign:wle-gb-sct"
           ],
-          "mediumPath": "_m/g/f/q/2/gardenstown-wk/pennan-aberdeenshire-moray-fir-medium.webp",
-          "smallPath": "_m/g/f/q/2/gardenstown-wk/pennan-aberdeenshire-moray-fir-small.webp"
+          "mediumPath": "_m/g/f/q/2/gardenstown-wp/pennan-aberdeenshire-moray-fir-medium.webp",
+          "smallPath": "_m/g/f/q/2/gardenstown-wp/pennan-aberdeenshire-moray-fir-small.webp"
         },
         {
           "path": "_m/g/f/q/2/gardenstown-wk/gamrie-parish-church-geograph-.jpg",
@@ -511,7 +504,8 @@
             "Stairs in Scotland",
             "Stone balustrades in Scotland",
             "Taken with Sony DSLR-A100"
-          ]
+          ],
+          "smallPath": "_m/g/f/q/0/banff-scotland-wk/duff-house-banff-aberd-small.webp"
         },
         {
           "path": "_m/g/f/q/0/banff-scotland-wk/duff-house-banff-aberd-1.jpg",
@@ -534,7 +528,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Sony DSLR-A100"
-          ]
+          ],
+          "smallPath": "_m/g/f/q/0/banff-scotland-wk/duff-house-banff-aberd-1-small.webp"
         },
         {
           "path": "_m/g/f/q/0/banff-scotland-wk/hero.jpg",
@@ -556,7 +551,9 @@
             "Extracted images",
             "Self-published work",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/q/0/banff-scotland-wk/hero-medium.webp",
+          "smallPath": "_m/g/f/q/0/banff-scotland-wk/hero-small.webp"
         },
         {
           "path": "_m/g/f/q/8/fraserburgh-wp/maggie-s-hoosie-inverallochy-g.jpg",
@@ -576,7 +573,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Rathen (civil parish)"
-          ]
+          ],
+          "smallPath": "_m/g/f/q/8/fraserburgh-wp/maggie-s-hoosie-inverallochy-g-small.webp"
         },
         {
           "path": "_m/g/f/n/n/huntly-scotland-wk/huntly-banner-castle.jpg",
@@ -597,7 +595,9 @@
             "Self-published work",
             "Taken with Nikon D80",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/n/n/huntly-scotland-wk/huntly-banner-castle-medium.webp",
+          "smallPath": "_m/g/f/n/n/huntly-scotland-wk/huntly-banner-castle-small.webp"
         },
         {
           "path": "_m/g/f/j/k/cairngorms-national-park-wp/braemar-from-morrone.jpg",
@@ -622,7 +622,8 @@
             "Mar Lodge Estate",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/j/k/cairngorms-national-park-wp/braemar-from-morrone-small.webp"
         },
         {
           "path": "_m/g/f/n/m/aberdeenshire-wp/crathes-castle4.jpg",
@@ -649,7 +650,9 @@
             "Self-published work",
             "September 2006 in Aberdeenshire",
             "Taken with Nikon D200"
-          ]
+          ],
+          "mediumPath": "_m/g/f/n/m/aberdeenshire-wp/crathes-castle4-medium.webp",
+          "smallPath": "_m/g/f/n/m/aberdeenshire-wp/crathes-castle4-small.webp"
         },
         {
           "path": "_m/g/f/h/k/scotland-wp/3rd-aug-2012-abdn-harbour-2.jpg",
@@ -664,7 +667,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:3rd_Aug_2012-_Abdn_Harbour_2.JPG",
           "sourceType": "poi",
           "sourceArticleId": "scotland-wp",
-          "sourceGeohash4": "gfnm"
+          "sourceGeohash4": "gfnm",
+          "mediumPath": "_m/g/f/h/k/scotland-wp/3rd-aug-2012-abdn-harbour-2-medium.webp",
+          "smallPath": "_m/g/f/h/k/scotland-wp/3rd-aug-2012-abdn-harbour-2-small.webp"
         },
         {
           "path": "_m/g/f/n/m/aberdeenshire-wp/broad-street-and-marischal-col.jpg",
@@ -679,7 +684,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Broad_Street_and_Marischal_College,_Aberdeen.jpg",
           "sourceType": "poi",
           "sourceArticleId": "aberdeenshire-wp",
-          "sourceGeohash4": "gfnm"
+          "sourceGeohash4": "gfnm",
+          "mediumPath": "_m/g/f/n/m/aberdeenshire-wp/broad-street-and-marischal-col-medium.webp",
+          "smallPath": "_m/g/f/n/m/aberdeenshire-wp/broad-street-and-marischal-col-small.webp"
         }
       ],
       "narration": [

@@ -2,32 +2,6 @@
   "articleId": "alausi-wk",
   "gallery": [
     {
-      "filename": "Alausi WV banner.jpg",
-      "title": "File:Alausi WV banner.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Alausi_WV_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Alausi_WV_banner.jpg",
-      "width": 4000,
-      "height": 571,
-      "mime": "image/jpeg",
-      "license": "CC BY 2.5",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
-      "artist": "Missvain\n\nOriginal author: User:Ondřej Žváček",
-      "description": "View to Alausí from the Saint Peter statue\nAlausi WV banner",
-      "dateCreated": "2014-09-08 23:18:44",
-      "categories": [
-        "Alausí",
-        "CC-BY-2.5",
-        "Extracted images",
-        "Wikivoyage banners by Missvain",
-        "Wikivoyage banners of Ecuador"
-      ],
-      "sourceType": "sibling",
-      "sourceArticleId": "alausi-wk",
-      "sourceGeohash4": "6pxg",
-      "mediumPath": "_m/6/p/x/g/alausi-wk/alausi-wv-banner-medium.webp",
-      "smallPath": "_m/6/p/x/g/alausi-wk/alausi-wv-banner-small.webp"
-    },
-    {
       "filename": "Meerschweinchen am Spieß.jpg",
       "title": "File:Meerschweinchen am Spieß.jpg",
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Meerschweinchen_am_Spie%C3%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -38,6 +12,8 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Burkhard Mücke",
+      "credit": "Own work",
+      "source": "Meerschweinchen am Spieß",
       "description": "Botaniktour von Humboldt in Alausi",
       "dateCreated": "2020-01-24 16:45:52",
       "categories": [
@@ -48,15 +24,14 @@
         "Self-published work",
         "Taken by Burkhard Muecke"
       ],
-      "sourceType": "sibling",
+      "sourceType": "core",
       "sourceArticleId": "alausi-wk",
       "sourceGeohash4": "6pxg",
-      "mediumPath": "_m/6/p/x/g/alausi-wk/meerschweinchen-am-spie-medium.webp",
-      "smallPath": "_m/6/p/x/g/alausi-wk/meerschweinchen-am-spie-small.webp"
+      "smallPath": "_m/6/p/x/g/alausi-wk/meerschweinchen-am-spie-small.webp",
+      "mediumPath": "_m/6/p/x/g/alausi-wk/meerschweinchen-am-spie-medium.webp"
     }
   ],
   "galleryPaths": [
-    "_m/6/p/x/g/alausi-wk/alausi-wv-banner.jpg",
     "_m/6/p/x/g/alausi-wk/meerschweinchen-am-spie.jpg"
   ],
   "updatedAt": "2026-05-08T20:49:25.222Z",
@@ -80,5 +55,57 @@
       "6pxg-alausi-moving-on.mp3": 52.1924166
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Alausi WV banner.jpg",
+    "title": "File:Alausi WV banner.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Alausi_WV_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Alausi_WV_banner.jpg",
+    "width": 4000,
+    "height": 571,
+    "mime": "image/jpeg",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "artist": "Missvain\n\nOriginal author: User:Ondřej Žváček",
+    "credit": "This image has been extracted from another file",
+    "source": "Alausi WV banner",
+    "description": "View to Alausí from the Saint Peter statue\nAlausi WV banner",
+    "dateCreated": "2014-09-08 23:18:44",
+    "categories": [
+      "Alausí",
+      "CC-BY-2.5",
+      "Extracted images",
+      "Wikivoyage banners by Missvain",
+      "Wikivoyage banners of Ecuador"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "alausi-wk",
+    "sourceGeohash4": "6pxg"
+  },
+  "thumbnail": {
+    "filename": "Alausi WV banner.jpg",
+    "title": "File:Alausi WV banner.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Alausi_WV_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Alausi_WV_banner.jpg",
+    "width": 4000,
+    "height": 571,
+    "mime": "image/jpeg",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "artist": "Missvain\n\nOriginal author: User:Ondřej Žváček",
+    "credit": "This image has been extracted from another file",
+    "source": "Alausi WV banner",
+    "description": "View to Alausí from the Saint Peter statue\nAlausi WV banner",
+    "dateCreated": "2014-09-08 23:18:44",
+    "categories": [
+      "Alausí",
+      "CC-BY-2.5",
+      "Extracted images",
+      "Wikivoyage banners by Missvain",
+      "Wikivoyage banners of Ecuador"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "alausi-wk",
+    "sourceGeohash4": "6pxg"
   }
 }

@@ -32,7 +32,7 @@ Today The Breakers occupies 140 acres beside the Atlantic Ocean, employing over 
 
 ## Flight Context
 
-Located at 26.71°N, 80.04°W on the barrier island of Palm Beach, Florida. The Breakers is visible from the air as a large Italian Renaissance-style complex fronting the Atlantic Ocean, with extensive grounds including golf courses. Best viewed at 2,000-4,000 feet AGL. Nearest airport is Palm Beach International (KPBI), approximately 4 nm west. Palm Beach County Park Airport (KLNA) in Lantana is approximately 6 nm south. The 140-acre property is a distinctive landmark on the narrow barrier island.
+Located at 26.71°N, 80.04°W on the barrier island of Palm Beach, Florida. The Breakers is visible from the air as a large Italian Renaissance-style complex fronting the Atlantic Ocean, with extensive grounds including golf courses. Best viewed at 2,000-4,000 feet AGL. Nearest airport is President Donald J. Trump International Airport (KDJT, formerly Palm Beach International, KPBI), approximately 4 nm west. Palm Beach County Park Airport (KLNA) in Lantana is approximately 6 nm south. The 140-acre property is a distinctive landmark on the narrow barrier island.
 
 ## Sources
 

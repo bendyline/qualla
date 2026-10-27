@@ -49,7 +49,7 @@ The Robesonian building site is in downtown Lumberton, North Carolina, near the 
 - [He occupied an NC newspaper 35 years ago to protest corruption — BorderBelt Independent](https://borderbelt.org/robeson-county-newspaper-takeover-35-years-later/)
   - Timothy Jacobs confirmed Tuscarora, not Lumbee
   - Jacobs and Hatcher both members of Tuscarora tribe
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/The_Robesonian_takeover)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=68911882)
   - Corrected Timothy Jacobs's time served: sentenced to six years, served about 14 months.
 
 ## Review Notes

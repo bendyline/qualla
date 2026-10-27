@@ -3,36 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/h/8/st-materiana-s-church-tintagel-wp/hero.jpg",
-        "filename": "Tintagel church 1.jpg",
-        "caption": "The parish church of St Materiana's in Tintagel, Cornwall, UK.  The church is a grade 1 listed building and may have been started in the 11th or early 12th century.",
-        "alt": "The parish church of St Materiana's in Tintagel, Cornwall, UK.  The church is a grade 1 listed building and may have been started in the 11th or early 12th century.",
-        "width": 2761,
-        "height": 1801,
+        "path": "_m/g/c/h/8/st-materiana-s-church-tintagel-wp/graves-at-st-materiana-s-churc.jpg",
+        "filename": "Graves at St Materiana's Church, Tintagel (5633).jpg",
+        "caption": "Graves at St Materiana's Church, Tintagel",
+        "alt": "Graves at St Materiana's Church, Tintagel",
+        "width": 4288,
+        "height": 2848,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Herbythyme",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tintagel_church_1.jpg",
-        "sourceType": "core",
+        "artist": "Nilfanion",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Graves_at_St_Materiana%27s_Church,_Tintagel_(5633).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "st-materiana-s-church-tintagel-wp",
         "sourceGeohash4": "gch8",
-        "categories": [
-          "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
-          "Church porches in Cornwall",
-          "Church towers in Cornwall",
-          "Churchyards in Cornwall",
-          "Files with coordinates missing SDC location of creation (50° N, 5° W)",
-          "GFDL",
-          "Images by Herby",
-          "License migration redundant",
-          "Quality images",
-          "Quality images missing SDC depicts",
-          "Quality images of Cornwall",
-          "Quality images of church towers in the United Kingdom",
-          "Self-published work",
-          "St Materiana's Church, Tintagel",
-          "Taken with Sony DSLR-A350"
-        ]
+        "mediumPath": "_m/g/c/h/8/st-materiana-s-church-tintagel-wp/graves-at-st-materiana-s-churc-medium.webp",
+        "smallPath": "_m/g/c/h/8/st-materiana-s-church-tintagel-wp/graves-at-st-materiana-s-churc-small.webp"
       },
       "images": [
         {
@@ -534,7 +519,9 @@
             "Self-published work",
             "Taken with Canon PowerShot A710 IS",
             "Tintagel Castle"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/8/tintagel-wp/tintagel-ruins-mainland-courty-medium.webp",
+          "smallPath": "_m/g/c/h/8/tintagel-wp/tintagel-ruins-mainland-courty-small.webp"
         },
         {
           "path": "_m/g/c/h/8/tintagel-wp/tintagel-old-post-office.jpg",
@@ -554,7 +541,9 @@
             "PD-user",
             "Taken with Sony DSC-P92",
             "Tintagel Old Post Office"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/8/tintagel-wp/tintagel-old-post-office-medium.webp",
+          "smallPath": "_m/g/c/h/8/tintagel-wp/tintagel-old-post-office-small.webp"
         },
         {
           "path": "_m/g/c/h/8/tintagel-wp/merlinscave.jpg",
@@ -573,7 +562,8 @@
           "categories": [
             "CC-BY-SA-4.0",
             "Files with coordinates missing SDC location of creation (50° N, 5° W)"
-          ]
+          ],
+          "smallPath": "_m/g/c/h/8/tintagel-wp/merlinscave-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/falmouth-cornwall.jpg",
@@ -598,7 +588,8 @@
             "Images by Eva K.",
             "License migration opt-out",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/b/u/w/cornwall-wp/falmouth-cornwall-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/eden-project-geodesic-domes-pa.jpg",
@@ -635,7 +626,9 @@
             "Self-published work",
             "Taken with Konica Minolta Dynax 7D",
             "United Kingdom photographs taken on 2006-08-12"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/w/cornwall-wp/eden-project-geodesic-domes-pa-medium.webp",
+          "smallPath": "_m/g/b/u/w/cornwall-wp/eden-project-geodesic-domes-pa-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/cornish-pasty.jpg",
@@ -661,7 +654,9 @@
             "Self-published work",
             "Semicircular food",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/w/cornwall-wp/cornish-pasty-medium.webp",
+          "smallPath": "_m/g/b/u/w/cornwall-wp/cornish-pasty-small.webp"
         },
         {
           "path": "_m/g/b/u/x/north-cornwall-wp/2006-07-08-port-isaac-cornwall.jpg",
@@ -684,7 +679,9 @@
             "Self-published work",
             "Taken with Canon EOS 350D",
             "Views of Port Isaac"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/x/north-cornwall-wp/2006-07-08-port-isaac-cornwall-medium.webp",
+          "smallPath": "_m/g/b/u/x/north-cornwall-wp/2006-07-08-port-isaac-cornwall-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/devonshire-tea.jpg",
@@ -707,7 +704,9 @@
             "Self-published work",
             "Taken with Canon Digital IXUS 75",
             "Tea sets"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/w/cornwall-wp/devonshire-tea-medium.webp",
+          "smallPath": "_m/g/b/u/w/cornwall-wp/devonshire-tea-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/cornish-fairings.jpg",
@@ -725,7 +724,8 @@
           "sourceGeohash4": "gbuw",
           "categories": [
             "Biscuits"
-          ]
+          ],
+          "smallPath": "_m/g/b/u/w/cornwall-wp/cornish-fairings-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/cornish-pasty-cropped.jpg",
@@ -740,7 +740,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cornish_Pasty_(cropped).jpeg",
           "sourceType": "poi",
           "sourceArticleId": "cornwall-wp",
-          "sourceGeohash4": "gbuw"
+          "sourceGeohash4": "gbuw",
+          "mediumPath": "_m/g/b/u/w/cornwall-wp/cornish-pasty-cropped-medium.webp",
+          "smallPath": "_m/g/b/u/w/cornwall-wp/cornish-pasty-cropped-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/cornwall-banner-porthtowan.jpg",
@@ -755,7 +757,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cornwall_banner_Porthtowan.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cornwall-wp",
-          "sourceGeohash4": "gbuw"
+          "sourceGeohash4": "gbuw",
+          "mediumPath": "_m/g/b/u/w/cornwall-wp/cornwall-banner-porthtowan-medium.webp",
+          "smallPath": "_m/g/b/u/w/cornwall-wp/cornwall-banner-porthtowan-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/clotted-cream-cropped.jpg",
@@ -770,7 +774,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clotted_cream_(cropped).JPG",
           "sourceType": "poi",
           "sourceArticleId": "cornwall-wp",
-          "sourceGeohash4": "gbuw"
+          "sourceGeohash4": "gbuw",
+          "smallPath": "_m/g/b/u/w/cornwall-wp/clotted-cream-cropped-small.webp"
         },
         {
           "path": "_m/g/b/u/w/cornwall-wp/cheesewringminions.jpg",
@@ -785,7 +790,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CheesewringMinions.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cornwall-wp",
-          "sourceGeohash4": "gbuw"
+          "sourceGeohash4": "gbuw",
+          "mediumPath": "_m/g/b/u/w/cornwall-wp/cheesewringminions-medium.webp",
+          "smallPath": "_m/g/b/u/w/cornwall-wp/cheesewringminions-small.webp"
         }
       ],
       "narration": [

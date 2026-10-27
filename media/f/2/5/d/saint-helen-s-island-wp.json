@@ -3,33 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/f/2/5/d/saint-helen-s-island-wp/hero.jpg",
-        "filename": "Parc Jean-Drapeau.JPG",
-        "caption": "Summary: Part of Jean-Drapeau park in Montréal, Quebec\n\nAuthor: Colocho\nDate: April 10th, 2006",
-        "alt": "Summary: Part of Jean-Drapeau park in Montréal, Quebec\n\nAuthor: Colocho\nDate: April 10th, 2006",
-        "width": 2080,
-        "height": 1544,
+        "path": "_m/f/2/5/d/saint-helen-s-island-wp/ile-sainte-helene-montreal-001.jpg",
+        "filename": "Ile Sainte-Helene Montreal - 001.jpg",
+        "caption": "Île Sainte-Hélène, parc Jean-Drapeau, Montréal",
+        "alt": "Île Sainte-Hélène, parc Jean-Drapeau, Montréal",
+        "width": 5152,
+        "height": 3864,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.5",
-        "artist": "No machine-readable author provided. Colocho assumed (based on copyright claims).",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parc_Jean-Drapeau.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Jeangagnon",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ile_Sainte-Helene_Montreal_-_001.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "saint-helen-s-island-wp",
         "sourceGeohash4": "f25d",
         "accessedAt": "2026-02-28T13:34:53.125Z",
-        "categories": [
-          "April 2006 in Montreal",
-          "Assumed own work",
-          "CC-BY-SA-2.5",
-          "Files with no machine-readable source",
-          "Parc Jean-Drapeau",
-          "Photographs taken on 2005-04-10",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/f/2/5/d/saint-helen-s-island-wp/ile-sainte-helene-montreal-001-medium.webp",
+        "smallPath": "_m/f/2/5/d/saint-helen-s-island-wp/ile-sainte-helene-montreal-001-small.webp"
       },
       "images": [
         {
-          "path": "_m/f/2/5/d/saint-helen-s-island-wp/terre-des-hommes-ile-s.jpg",
+          "path": "_m/f/2/5/d/jean-drapeau-park-wp/terre-des-hommes-ile-s.jpg",
           "filename": "Biosphère Montréal.jpg",
           "caption": "Terre des Hommes, Île Sainte-Hélène, Montréal, Québec, Canada.",
           "alt": "Terre des Hommes, Île Sainte-Hélène, Montréal, Québec, Canada.",
@@ -53,7 +46,8 @@
             "October 2001 in Canada",
             "Self-published work",
             "Taken with Canon Digital IXUS"
-          ]
+          ],
+          "smallPath": "_m/f/2/5/d/jean-drapeau-park-wp/terre-des-hommes-ile-s-small.webp"
         },
         {
           "path": "_m/f/2/5/d/saint-helen-s-island-wp/tour-levis-ancien-chat.jpg",
@@ -278,7 +272,7 @@
           "smallPath": "_m/f/2/5/d/saint-helen-s-island-wp/cours-d-eau-a-l-ile-sainte-hel-small.webp"
         },
         {
-          "path": "_m/f/2/5/d/saint-helen-s-island-wp/faixadepedestresmontreal.jpg",
+          "path": "_m/f/2/5/d/jacques-cartier-bridge-wp/faixadepedestresmontreal.jpg",
           "filename": "Faixadepedestresmontreal.JPG",
           "caption": "Faixa de pedestres na Ilha de Santa Helena, próximo à ponte Jacques-Cartier, em Montreal.",
           "alt": "Faixa de pedestres na Ilha de Santa Helena, próximo à ponte Jacques-Cartier, em Montreal.",
@@ -303,10 +297,12 @@
             "Streets in Montreal",
             "Taken with Sony DSC-WX100",
             "Zebra crossings in Quebec"
-          ]
+          ],
+          "mediumPath": "_m/f/2/5/d/jacques-cartier-bridge-wp/faixadepedestresmontreal-medium.webp",
+          "smallPath": "_m/f/2/5/d/jacques-cartier-bridge-wp/faixadepedestresmontreal-small.webp"
         },
         {
-          "path": "_m/f/2/5/d/saint-helen-s-island-wp/bridgemontreal.jpg",
+          "path": "_m/f/2/5/d/jacques-cartier-bridge-wp/bridgemontreal.jpg",
           "filename": "Bridgemontreal.JPG",
           "caption": "Jacques-Cartier Bridge, Montreal, Quebec, Canada.",
           "alt": "Jacques-Cartier Bridge, Montreal, Quebec, Canada.",
@@ -328,7 +324,9 @@
             "Saint Helen's Island",
             "Self-published work",
             "Taken with Sony DSC-WX100"
-          ]
+          ],
+          "mediumPath": "_m/f/2/5/d/jacques-cartier-bridge-wp/bridgemontreal-medium.webp",
+          "smallPath": "_m/f/2/5/d/jacques-cartier-bridge-wp/bridgemontreal-small.webp"
         },
         {
           "path": "_m/f/2/5/d/saint-helen-s-island-wp/caissantahelenamontreal.jpg",
@@ -590,7 +588,8 @@
             "Redeveloped ports and waterfronts",
             "Self-published work",
             "User:AnnaKucsma"
-          ]
+          ],
+          "smallPath": "_m/f/2/5/d/montreal-wk/marche-bonsecours-and-foliage-small.webp"
         },
         {
           "path": "_m/f/2/5/d/montreal-wk/montrealmetrotires.jpg",
@@ -614,7 +613,8 @@
             "MR-63",
             "Self-published work",
             "Taken with Canon PowerShot G3"
-          ]
+          ],
+          "smallPath": "_m/f/2/5/d/montreal-wk/montrealmetrotires-small.webp"
         },
         {
           "path": "_m/f/2/5/d/montreal-wk/intercar-0654.jpg",
@@ -638,7 +638,8 @@
             "PD-self",
             "Prevost H3-45",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/f/2/5/d/montreal-wk/intercar-0654-small.webp"
         },
         {
           "path": "_m/f/2/5/d/montreal-wk/gare-centrale-de-montreal-04.jpg",
@@ -660,7 +661,9 @@
             "Exterior of Central Station (Montreal)",
             "Self-published work",
             "Taken with Canon PowerShot A3100 IS"
-          ]
+          ],
+          "mediumPath": "_m/f/2/5/d/montreal-wk/gare-centrale-de-montreal-04-medium.webp",
+          "smallPath": "_m/f/2/5/d/montreal-wk/gare-centrale-de-montreal-04-small.webp"
         },
         {
           "path": "_m/f/2/5/d/montreal-wk/inside-the-gare-centrale-du-cn.jpg",
@@ -690,7 +693,9 @@
             "Taken with Olympus E-PM1",
             "Time 11:45",
             "WLM 2012 Canada unreviewed"
-          ]
+          ],
+          "mediumPath": "_m/f/2/5/d/montreal-wk/inside-the-gare-centrale-du-cn-medium.webp",
+          "smallPath": "_m/f/2/5/d/montreal-wk/inside-the-gare-centrale-du-cn-small.webp"
         },
         {
           "path": "_m/f/2/5/d/montreal-wk/montreal-delicesdelerable.jpg",
@@ -706,7 +711,8 @@
           "sourceType": "poi",
           "sourceArticleId": "montreal-wk",
           "sourceGeohash4": "f25d",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "smallPath": "_m/f/2/5/d/montreal-wk/montreal-delicesdelerable-small.webp"
         },
         {
           "path": "_m/f/2/5/d/montreal-wk/central-montreal-map.png",
@@ -722,7 +728,8 @@
           "sourceType": "poi",
           "sourceArticleId": "montreal-wk",
           "sourceGeohash4": "f25d",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "smallPath": "_m/f/2/5/d/montreal-wk/central-montreal-map-small.webp"
         },
         {
           "path": "_m/d/p/x/v/niagara-falls-ontario-wp/megabus-france-scania-touring-.jpg",
@@ -738,7 +745,9 @@
           "sourceType": "poi",
           "sourceArticleId": "niagara-falls-ontario-wp",
           "sourceGeohash4": "f25d",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/d/p/x/v/niagara-falls-ontario-wp/megabus-france-scania-touring--medium.webp",
+          "smallPath": "_m/d/p/x/v/niagara-falls-ontario-wp/megabus-france-scania-touring--small.webp"
         },
         {
           "path": "_m/f/2/5/d/montreal-wk/fijm-2017-014.jpg",
@@ -754,7 +763,9 @@
           "sourceType": "poi",
           "sourceArticleId": "montreal-wk",
           "sourceGeohash4": "f25d",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/f/2/5/d/montreal-wk/fijm-2017-014-medium.webp",
+          "smallPath": "_m/f/2/5/d/montreal-wk/fijm-2017-014-small.webp"
         },
         {
           "path": "_m/f/2/5/d/montreal-wk/fall-colours-at-beaver-lake.jpg",
@@ -770,7 +781,9 @@
           "sourceType": "poi",
           "sourceArticleId": "montreal-wk",
           "sourceGeohash4": "f25d",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/f/2/5/d/montreal-wk/fall-colours-at-beaver-lake-medium.webp",
+          "smallPath": "_m/f/2/5/d/montreal-wk/fall-colours-at-beaver-lake-small.webp"
         },
         {
           "path": "_m/9/r/b/6/eugene-wk/greyhound-bus-framingh.jpg",
@@ -786,7 +799,9 @@
           "sourceType": "poi",
           "sourceArticleId": "eugene-wk",
           "sourceGeohash4": "f25d",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/9/r/b/6/eugene-wk/greyhound-bus-framingh-medium.webp",
+          "smallPath": "_m/9/r/b/6/eugene-wk/greyhound-bus-framingh-small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/longueuil-stantoine1-tango7174.jpg",
@@ -810,7 +825,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/f/2/5/f/longueuil-wp/longueuil-stantoine1-tango7174-small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/dix30.jpg",
@@ -835,7 +851,9 @@
             "Quartier DIX30",
             "Self-published work",
             "Taken with Canon Digital IXUS 800 IS"
-          ]
+          ],
+          "mediumPath": "_m/f/2/5/f/longueuil-wp/dix30-medium.webp",
+          "smallPath": "_m/f/2/5/f/longueuil-wp/dix30-small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/iles-boucherville.jpg",
@@ -859,7 +877,9 @@
             "Parc national des Îles-de-Boucherville",
             "Self-published work",
             "Taken with Canon PowerShot S3 IS"
-          ]
+          ],
+          "mediumPath": "_m/f/2/5/f/longueuil-wp/iles-boucherville-medium.webp",
+          "smallPath": "_m/f/2/5/f/longueuil-wp/iles-boucherville-small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/basilique-sainte-anne-de-varen.jpg",
@@ -889,7 +909,9 @@
             "Valued images of Canada",
             "Valued images promoted 2012-07",
             "Valued images sorted by promotion date"
-          ]
+          ],
+          "mediumPath": "_m/f/2/5/f/longueuil-wp/basilique-sainte-anne-de-varen-medium.webp",
+          "smallPath": "_m/f/2/5/f/longueuil-wp/basilique-sainte-anne-de-varen-small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/co-cathedrale-saint-antoine.jpg",
@@ -913,7 +935,9 @@
             "Flickr images reviewed by FlickreviewR",
             "Heritage properties in Canada with known IDs",
             "Taken with Nikon Coolpix P90"
-          ]
+          ],
+          "mediumPath": "_m/f/2/5/f/longueuil-wp/co-cathedrale-saint-antoine-medium.webp",
+          "smallPath": "_m/f/2/5/f/longueuil-wp/co-cathedrale-saint-antoine-small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/aeroport-de-saint-hubert-en-hi.jpg",
@@ -939,7 +963,9 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Photographs by abdallahh",
             "Taken with Fujifilm FinePix S5700"
-          ]
+          ],
+          "mediumPath": "_m/f/2/5/f/longueuil-wp/aeroport-de-saint-hubert-en-hi-medium.webp",
+          "smallPath": "_m/f/2/5/f/longueuil-wp/aeroport-de-saint-hubert-en-hi-small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/longueuil-saint-hubert-exo-tra.jpg",
@@ -962,7 +988,9 @@
             "Files with coordinates missing SDC location of creation",
             "Gare Longueuil-Saint-Hubert",
             "Longueuil"
-          ]
+          ],
+          "mediumPath": "_m/f/2/5/f/longueuil-wp/longueuil-saint-hubert-exo-tra-medium.webp",
+          "smallPath": "_m/f/2/5/f/longueuil-wp/longueuil-saint-hubert-exo-tra-small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/longueuil-universite-de-sherbr.jpg",
@@ -978,7 +1006,9 @@
           "sourceType": "poi",
           "sourceArticleId": "longueuil-wp",
           "sourceGeohash4": "f25f",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/f/2/5/f/longueuil-wp/longueuil-universite-de-sherbr-medium.webp",
+          "smallPath": "_m/f/2/5/f/longueuil-wp/longueuil-universite-de-sherbr-small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/bibliotheque-raymond-levesque-.jpg",
@@ -994,7 +1024,9 @@
           "sourceType": "poi",
           "sourceArticleId": "longueuil-wp",
           "sourceGeohash4": "f25f",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/f/2/5/f/longueuil-wp/bibliotheque-raymond-levesque--medium.webp",
+          "smallPath": "_m/f/2/5/f/longueuil-wp/bibliotheque-raymond-levesque--small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/fleuve-saint-laurent-longueuil.jpg",
@@ -1010,7 +1042,9 @@
           "sourceType": "poi",
           "sourceArticleId": "longueuil-wp",
           "sourceGeohash4": "f25f",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/f/2/5/f/longueuil-wp/fleuve-saint-laurent-longueuil-medium.webp",
+          "smallPath": "_m/f/2/5/f/longueuil-wp/fleuve-saint-laurent-longueuil-small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/colise-jean-beliveau-longueuil.jpg",
@@ -1026,7 +1060,9 @@
           "sourceType": "poi",
           "sourceArticleId": "longueuil-wp",
           "sourceGeohash4": "f25f",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/f/2/5/f/longueuil-wp/colise-jean-beliveau-longueuil-medium.webp",
+          "smallPath": "_m/f/2/5/f/longueuil-wp/colise-jean-beliveau-longueuil-small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/longueuil-quebec-hotel-de-vill.jpg",
@@ -1042,7 +1078,9 @@
           "sourceType": "poi",
           "sourceArticleId": "longueuil-wp",
           "sourceGeohash4": "f25f",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/f/2/5/f/longueuil-wp/longueuil-quebec-hotel-de-vill-medium.webp",
+          "smallPath": "_m/f/2/5/f/longueuil-wp/longueuil-quebec-hotel-de-vill-small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/longueuil-marche-public-chemin.jpg",
@@ -1058,7 +1096,9 @@
           "sourceType": "poi",
           "sourceArticleId": "longueuil-wp",
           "sourceGeohash4": "f25f",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/f/2/5/f/longueuil-wp/longueuil-marche-public-chemin-medium.webp",
+          "smallPath": "_m/f/2/5/f/longueuil-wp/longueuil-marche-public-chemin-small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/centre-sportif-gaetan-boucher-.jpg",
@@ -1074,7 +1114,9 @@
           "sourceType": "poi",
           "sourceArticleId": "longueuil-wp",
           "sourceGeohash4": "f25f",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/f/2/5/f/longueuil-wp/centre-sportif-gaetan-boucher--medium.webp",
+          "smallPath": "_m/f/2/5/f/longueuil-wp/centre-sportif-gaetan-boucher--small.webp"
         },
         {
           "path": "_m/f/2/5/f/longueuil-wp/aeroport-de-st-hubert-qc-stati.jpg",
@@ -1090,7 +1132,9 @@
           "sourceType": "poi",
           "sourceArticleId": "longueuil-wp",
           "sourceGeohash4": "f25f",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/f/2/5/f/longueuil-wp/aeroport-de-st-hubert-qc-stati-medium.webp",
+          "smallPath": "_m/f/2/5/f/longueuil-wp/aeroport-de-st-hubert-qc-stati-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/centre-histoire-montreal.jpg",
@@ -1111,7 +1155,9 @@
             "Caserne Centrale de pompiers",
             "PD-user",
             "Taken with Canon EOS-1Ds"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ol/d-/mo/nt/old-montreal/centre-histoire-montreal-medium.webp",
+          "smallPath": "_m/tpc/ol/d-/mo/nt/old-montreal/centre-histoire-montreal-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/banque-de-montreal-place-d-arm.jpg",
@@ -1132,7 +1178,9 @@
             "Bank of Montreal Main Montreal Branch",
             "CC-BY-SA-3.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ol/d-/mo/nt/old-montreal/banque-de-montreal-place-d-arm-medium.webp",
+          "smallPath": "_m/tpc/ol/d-/mo/nt/old-montreal/banque-de-montreal-place-d-arm-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/maison-george-etienne-cartier.jpg",
@@ -1158,7 +1206,9 @@
             "Sir George-Étienne Cartier National Historic Site",
             "Taken with Nikon Coolpix S5100",
             "WLM 2012 Canada unreviewed"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ol/d-/mo/nt/old-montreal/maison-george-etienne-cartier-medium.webp",
+          "smallPath": "_m/tpc/ol/d-/mo/nt/old-montreal/maison-george-etienne-cartier-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/lieu-historique-national-du-ca.jpg",
@@ -1181,7 +1231,9 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work",
             "Sir George-Étienne Cartier National Historic Site"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ol/d-/mo/nt/old-montreal/lieu-historique-national-du-ca-medium.webp",
+          "smallPath": "_m/tpc/ol/d-/mo/nt/old-montreal/lieu-historique-national-du-ca-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/hotel-de-ville-de-montreal-71.jpg",
@@ -1203,7 +1255,9 @@
             "Montreal City Hall",
             "Place Jacques-Cartier",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ol/d-/mo/nt/old-montreal/hotel-de-ville-de-montreal-71-medium.webp",
+          "smallPath": "_m/tpc/ol/d-/mo/nt/old-montreal/hotel-de-ville-de-montreal-71-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/2016-10-montreal-25.jpg",
@@ -1228,7 +1282,9 @@
             "Uploaded with VicuñaUploader",
             "Views from Pointe-à-Callière",
             "Ville-Marie, Montreal"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ol/d-/mo/nt/old-montreal/2016-10-montreal-25-medium.webp",
+          "smallPath": "_m/tpc/ol/d-/mo/nt/old-montreal/2016-10-montreal-25-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/hotel-st-paul-mtl.jpg",
@@ -1251,7 +1307,9 @@
             "Self-published work",
             "Supported by Wikimedia Österreich in 2017",
             "Édifice Canadian Express"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ol/d-/mo/nt/old-montreal/hotel-st-paul-mtl-medium.webp",
+          "smallPath": "_m/tpc/ol/d-/mo/nt/old-montreal/hotel-st-paul-mtl-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/basilica-de-notre-dame-montrea.jpg",
@@ -1276,7 +1334,9 @@
             "Heritage properties in Canada with known IDs",
             "Images from Wiki Loves Monuments 2017",
             "Images from Wiki Loves Monuments 2017 in Canada"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ol/d-/mo/nt/old-montreal/basilica-de-notre-dame-montrea-medium.webp",
+          "smallPath": "_m/tpc/ol/d-/mo/nt/old-montreal/basilica-de-notre-dame-montrea-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/basilica-de-notre-dame-montrea.jpg",
@@ -1292,7 +1352,9 @@
           "sourceType": "poi",
           "sourceArticleId": "old-montreal",
           "sourceGeohash4": "tpc/ol/d-/mo/nt",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/tpc/ol/d-/mo/nt/old-montreal/basilica-de-notre-dame-montrea-medium.webp",
+          "smallPath": "_m/tpc/ol/d-/mo/nt/old-montreal/basilica-de-notre-dame-montrea-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/bonsecours-market-38097720.jpg",
@@ -1308,7 +1370,9 @@
           "sourceType": "poi",
           "sourceArticleId": "old-montreal",
           "sourceGeohash4": "",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/tpc/ol/d-/mo/nt/old-montreal/bonsecours-market-38097720-medium.webp",
+          "smallPath": "_m/tpc/ol/d-/mo/nt/old-montreal/bonsecours-market-38097720-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/centredessciences.jpg",
@@ -1322,7 +1386,9 @@
           "sourceType": "poi",
           "sourceArticleId": "old-montreal",
           "sourceGeohash4": "",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/tpc/ol/d-/mo/nt/old-montreal/centredessciences-medium.webp",
+          "smallPath": "_m/tpc/ol/d-/mo/nt/old-montreal/centredessciences-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/intercontinental-montreal.jpg",
@@ -1338,7 +1404,9 @@
           "sourceType": "poi",
           "sourceArticleId": "old-montreal",
           "sourceGeohash4": "",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/tpc/ol/d-/mo/nt/old-montreal/intercontinental-montreal-medium.webp",
+          "smallPath": "_m/tpc/ol/d-/mo/nt/old-montreal/intercontinental-montreal-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/2025-0605-toque-entrance.jpg",
@@ -1354,7 +1422,9 @@
           "sourceType": "poi",
           "sourceArticleId": "old-montreal",
           "sourceGeohash4": "",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/tpc/ol/d-/mo/nt/old-montreal/2025-0605-toque-entrance-medium.webp",
+          "smallPath": "_m/tpc/ol/d-/mo/nt/old-montreal/2025-0605-toque-entrance-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/marche-bonsecours-in-old-montr.jpg",
@@ -1370,7 +1440,9 @@
           "sourceType": "poi",
           "sourceArticleId": "old-montreal",
           "sourceGeohash4": "",
-          "accessedAt": "2026-02-28T13:34:53.125Z"
+          "accessedAt": "2026-02-28T13:34:53.125Z",
+          "mediumPath": "_m/tpc/ol/d-/mo/nt/old-montreal/marche-bonsecours-in-old-montr-medium.webp",
+          "smallPath": "_m/tpc/ol/d-/mo/nt/old-montreal/marche-bonsecours-in-old-montr-small.webp"
         }
       ],
       "narration": [

@@ -3,31 +3,22 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/7/8/vechtstreek-wk/hero.jpg",
-        "filename": "Botshol 2.jpg",
-        "caption": "Laagveengebied de Botshol",
-        "alt": "Laagveengebied de Botshol",
-        "width": 2426,
-        "height": 1774,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Chris Peel",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Botshol_2.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "vechtstreek-wk",
-        "sourceGeohash4": "u178",
-        "categories": [
-          "Botshol",
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "GFDL",
-          "License migration redundant",
-          "Self-published work",
-          "Taken with Pentax Optio WP"
-        ]
+        "path": "_m/u/1/7/8/vechtstreek-wp/maarssen-landhuisdoornburgh.jpg",
+        "filename": "Maarssen-LandhuisDoornburgh.jpg",
+        "caption": "Landhuis Doornburgh",
+        "alt": "Landhuis Doornburgh",
+        "width": 5616,
+        "height": 3744,
+        "license": "CC BY-SA 3.0 nl",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+        "artist": "Efraa-marlies",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maarssen-LandhuisDoornburgh.jpg",
+        "mediumPath": "_m/u/1/7/8/vechtstreek-wp/maarssen-landhuisdoornburgh-medium.webp",
+        "smallPath": "_m/u/1/7/8/vechtstreek-wp/maarssen-landhuisdoornburgh-small.webp"
       },
       "images": [
         {
-          "path": "_m/u/1/7/8/vechtstreek-wk/maarssen-landhuisdoornburgh.jpg",
+          "path": "_m/u/1/7/8/vechtstreek-wp/maarssen-landhuisdoornburgh.jpg",
           "filename": "Maarssen-LandhuisDoornburgh.jpg",
           "caption": "Landhuis Doornburgh",
           "alt": "Landhuis Doornburgh",
@@ -50,10 +41,12 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon EOS 5D Mark II"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/vechtstreek-wp/maarssen-landhuisdoornburgh-medium.webp",
+          "smallPath": "_m/u/1/7/8/vechtstreek-wp/maarssen-landhuisdoornburgh-small.webp"
         },
         {
-          "path": "_m/u/1/7/8/vechtstreek-wk/vegtvliet-breukelen.jpg",
+          "path": "_m/u/1/7/8/vechtstreek-wp/vegtvliet-breukelen.jpg",
           "filename": "Vegtvliet-Breukelen.JPG",
           "caption": "Vegtvliet/Vechtvliet: buitengewoon representatief woonhuis gebouwd rond 1665 voor de Amsterdamse koopman Willem van den Broeck naar ontwerp van Phillips Vingboons. Het rijksmonument verkeert in zeer goede staat. \nHet object is prachtig gelegen, pal aan de Vecht met aanlegplaats en heeft een Vechtoever van circa 180 meter. Het huis kenmerkt zich door de fraaie en voorname vormgeving. Sinds de bouw is het elke eeuw een keer gerenoveerd, met als belangrijkste die van rond 1750. Bij die gelegenheid werd het van oorsprong classicistische gebouw aangepast aan de rococostijl van die periode.",
           "alt": "Vegtvliet/Vechtvliet: buitengewoon representatief woonhuis gebouwd rond 1665 voor de Amsterdamse koopman Willem van den Broeck naar ontwerp van Phillips Vingboons. Het rijksmonument verkeert in zeer goede staat. \nHet object is prachtig gelegen, pal aan de Vecht met aanlegplaats en heeft een Vechtoever van circa 180 meter. Het huis kenmerkt zich door de fraaie en voorname vormgeving. Sinds de bouw is het elke eeuw een keer gerenoveerd, met als belangrijkste die van rond 1750. Bij die gelegenheid werd het van oorsprong classicistische gebouw aangepast aan de rococostijl van die periode.",
@@ -74,10 +67,12 @@
             "Self-published work",
             "Taken with Canon EOS 450D",
             "Vechtvliet"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/vechtstreek-wp/vegtvliet-breukelen-medium.webp",
+          "smallPath": "_m/u/1/7/8/vechtstreek-wp/vegtvliet-breukelen-small.webp"
         },
         {
-          "path": "_m/u/1/7/8/vechtstreek-wk/rijksmonument-26340-bolenstein.jpg",
+          "path": "_m/u/1/7/8/vechtstreek-wp/rijksmonument-26340-bolenstein.jpg",
           "filename": "Rijksmonument-26340-Bolenstein.jpg",
           "caption": "This is an image of rijksmonument number 26340Information from structured data:\nlocation of creation: Stichtse Vecht→Utrecht→Netherlands\ndepicts instance of: Bolenstein→château→type of building→classification scheme→variable-order class\nBolenstein in Maarssen",
           "alt": "This is an image of rijksmonument number 26340Information from structured data:\nlocation of creation: Stichtse Vecht→Utrecht→Netherlands\ndepicts instance of: Bolenstein→château→type of building→classification scheme→variable-order class\nBolenstein in Maarssen",
@@ -100,7 +95,9 @@
             "Rijksmonumenten missing SDC inception",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/vechtstreek-wp/rijksmonument-26340-bolenstein-medium.webp",
+          "smallPath": "_m/u/1/7/8/vechtstreek-wp/rijksmonument-26340-bolenstein-small.webp"
         },
         {
           "path": "_m/u/1/7/8/vechtstreek-wp/kasteel-van-nijenrode.jpg",
@@ -124,7 +121,9 @@
             "Nijenrode exterior",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/vechtstreek-wp/kasteel-van-nijenrode-medium.webp",
+          "smallPath": "_m/u/1/7/8/vechtstreek-wp/kasteel-van-nijenrode-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/veenendaal-winter.jpg",
@@ -147,7 +146,8 @@
             "Self-published work",
             "Taken with Canon EOS 300D",
             "Veenendaal"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/veenendaal-winter-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/rhenen-9.jpg",
@@ -168,7 +168,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FX01"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/rhenen-9-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/rhenen-9-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/martkplein-woerden.jpg",
@@ -190,7 +192,9 @@
             "Saint Peter Church (Woerden)",
             "Self-published work",
             "Taken with Sony DSC-H7"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/martkplein-woerden-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/martkplein-woerden-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/nachtegaalstraat-utrecht.jpg",
@@ -216,7 +220,9 @@
             "Nachtegaalstraat, Utrecht",
             "Self-published work",
             "Taken with Canon Digital IXUS"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/nachtegaalstraat-utrecht-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/nachtegaalstraat-utrecht-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/wijk-bij-duurstede-2009.jpg",
@@ -238,7 +244,9 @@
             "Self-published work",
             "Time 11:44",
             "Wijk bij Duurstede"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/wijk-bij-duurstede-2009-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/wijk-bij-duurstede-2009-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/koppelpoort-amersfoort-cropped.jpg",
@@ -270,7 +278,9 @@
             "On OSM",
             "Pictures of the Year (2010)",
             "Pictures of the Year (candidate)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/8/utrecht-province-wp/koppelpoort-amersfoort-cropped-medium.webp",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/koppelpoort-amersfoort-cropped-small.webp"
         },
         {
           "path": "_m/u/1/7/8/utrecht-province-wp/soest-netherlands-autumn-lands.jpg",
@@ -285,7 +295,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soest,_Netherlands_-_autumn_landscape_2015_(22743688092).jpg",
           "sourceType": "poi",
           "sourceArticleId": "utrecht-province-wp",
-          "sourceGeohash4": "u178"
+          "sourceGeohash4": "u178",
+          "smallPath": "_m/u/1/7/8/utrecht-province-wp/soest-netherlands-autumn-lands-small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/oudkatholieke-kerk-sint-vitus-.jpg",
@@ -308,7 +319,9 @@
             "Files from Wikivoyage wts",
             "Self-published work",
             "Taken with Sony DSC-W110"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/hilversum-wp/oudkatholieke-kerk-sint-vitus--medium.webp",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/oudkatholieke-kerk-sint-vitus--small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/groest-in-hilversum-the-nether.jpg",
@@ -332,7 +345,9 @@
             "Personality rights warning",
             "Self-published work",
             "Taken with Sony DSC-W110"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/hilversum-wp/groest-in-hilversum-the-nether-medium.webp",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/groest-in-hilversum-the-nether-small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/hilvertshof-shopping-centre-in.jpg",
@@ -356,7 +371,9 @@
             "Personality rights warning",
             "Self-published work",
             "Taken with Sony DSC-W110"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/hilversum-wp/hilvertshof-shopping-centre-in-medium.webp",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/hilvertshof-shopping-centre-in-small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/mushroom-shaped-sign-near-hilv.jpg",
@@ -381,7 +398,9 @@
             "Groups of signs",
             "Images containing text not available in image description",
             "Mushroom-shaped objects"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/hilversum-wp/mushroom-shaped-sign-near-hilv-medium.webp",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/mushroom-shaped-sign-near-hilv-small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/hoorneboegse-heide-in-hilversu.jpg",
@@ -396,7 +415,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hoorneboegse_heide_in_Hilversum,_the_Netherlands.jpg",
           "sourceType": "poi",
           "sourceArticleId": "hilversum-wp",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "mediumPath": "_m/u/1/7/9/hilversum-wp/hoorneboegse-heide-in-hilversu-medium.webp",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/hoorneboegse-heide-in-hilversu-small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/raadhuis-in-hilversum-the-neth.jpg",
@@ -411,7 +432,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raadhuis_in_Hilversum,_the_Netherlands.jpg",
           "sourceType": "poi",
           "sourceArticleId": "hilversum-wp",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "mediumPath": "_m/u/1/7/9/hilversum-wp/raadhuis-in-hilversum-the-neth-medium.webp",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/raadhuis-in-hilversum-the-neth-small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/nederlands-instituut-voor-beel.jpg",
@@ -426,7 +449,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nederlands_Instituut_voor_Beeld_en_Geluid_in_Hilversum,_the_Netherlands.jpg",
           "sourceType": "poi",
           "sourceArticleId": "hilversum-wp",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "mediumPath": "_m/u/1/7/9/hilversum-wp/nederlands-instituut-voor-beel-medium.webp",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/nederlands-instituut-voor-beel-small.webp"
         },
         {
           "path": "_m/u/1/7/9/hilversum-wp/vaartweg-in-hilversum-the-neth.jpg",
@@ -441,7 +466,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vaartweg_in_Hilversum,_the_Netherlands.jpg",
           "sourceType": "poi",
           "sourceArticleId": "hilversum-wp",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "smallPath": "_m/u/1/7/9/hilversum-wp/vaartweg-in-hilversum-the-neth-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/gooise-wei.jpg",
@@ -465,7 +491,9 @@
             "Photographs taken on 2006-02-26",
             "Self-published work",
             "Taken with Canon PowerShot A410"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/gooise-wei-medium.webp",
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/gooise-wei-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/laren-brink-17juni2006.jpg",
@@ -489,7 +517,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot A520"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/laren-brink-17juni2006-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/huizen.jpg",
@@ -512,7 +541,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/huizen-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/muiden-het-slot-en-de-flevopol.jpg",
@@ -534,7 +564,8 @@
             "Netherlands photographs taken on 2007-07-21",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/muiden-het-slot-en-de-flevopol-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/weesp-met-fort-ossenmarkt.jpg",
@@ -556,7 +587,8 @@
             "PD-self",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/weesp-wp/weesp-met-fort-ossenmarkt-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/brinklaan-bussum-2008.jpg",
@@ -583,7 +615,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot A530"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/brinklaan-bussum-2008-medium.webp",
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/brinklaan-bussum-2008-small.webp"
         },
         {
           "path": "_m/u/1/7/9/gooi-en-vechtstreek-wk/30282-vestingwerken-en-grachte.jpg",
@@ -598,7 +632,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:30282-Vestingwerken_en_grachten_van_Naarden.jpg",
           "sourceType": "poi",
           "sourceArticleId": "gooi-en-vechtstreek-wk",
-          "sourceGeohash4": "u179"
+          "sourceGeohash4": "u179",
+          "mediumPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/30282-vestingwerken-en-grachte-medium.webp",
+          "smallPath": "_m/u/1/7/9/gooi-en-vechtstreek-wk/30282-vestingwerken-en-grachte-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/weesp-molen-t-haantje-vanaf-ov.jpg",
@@ -619,7 +655,9 @@
             "CC-BY-SA-2.5",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/weesp-wp/weesp-molen-t-haantje-vanaf-ov-medium.webp",
+          "smallPath": "_m/u/1/7/9/weesp-wp/weesp-molen-t-haantje-vanaf-ov-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/fort-ossenmarkt-weesp.jpg",
@@ -639,7 +677,9 @@
             "PD-self",
             "Self-published work",
             "Torenfort aan de Ossenmarkt"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/weesp-wp/fort-ossenmarkt-weesp-medium.webp",
+          "smallPath": "_m/u/1/7/9/weesp-wp/fort-ossenmarkt-weesp-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/weesp-herengracht.jpg",
@@ -662,7 +702,9 @@
             "Self-published work",
             "Sint-Laurentiuskerk, Weesp",
             "Taken with Sony DSC-H7"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/weesp-wp/weesp-herengracht-medium.webp",
+          "smallPath": "_m/u/1/7/9/weesp-wp/weesp-herengracht-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/s-gravelandsevaart-002.jpg",
@@ -684,7 +726,9 @@
             "Schutsluis en Ophaalbrug Fort Uitermeer",
             "Self-published work",
             "Taken with Pentax K10D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/weesp-wp/s-gravelandsevaart-002-medium.webp",
+          "smallPath": "_m/u/1/7/9/weesp-wp/s-gravelandsevaart-002-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/weesp-nieuwstad.jpg",
@@ -707,7 +751,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot SX200 IS"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/weesp-wp/weesp-nieuwstad-medium.webp",
+          "smallPath": "_m/u/1/7/9/weesp-wp/weesp-nieuwstad-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/weesp-kerk1-positie4-foto4-201.jpg",
@@ -731,7 +777,9 @@
             "Self-published work",
             "Sint-Laurentiuskerk, Weesp",
             "Taken with Canon PowerShot G10"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/weesp-wp/weesp-kerk1-positie4-foto4-201-medium.webp",
+          "smallPath": "_m/u/1/7/9/weesp-wp/weesp-kerk1-positie4-foto4-201-small.webp"
         },
         {
           "path": "_m/u/1/7/9/weesp-wp/gemeentehuis-weesp.jpg",
@@ -754,7 +802,8 @@
             "Self-published work",
             "Stadhuis Weesp",
             "Uploaded via Campaign:wlm-nl"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/9/weesp-wp/gemeentehuis-weesp-small.webp"
         },
         {
           "path": "_m/u/1/7/9/pampus-wp/muiderslot-westzijde.jpg",
@@ -776,7 +825,9 @@
             "Photographs taken on 2012-08-22",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/pampus-wp/muiderslot-westzijde-medium.webp",
+          "smallPath": "_m/u/1/7/9/pampus-wp/muiderslot-westzijde-small.webp"
         },
         {
           "path": "_m/u/1/7/9/pampus-wp/westbatterij2-muiden.jpg",
@@ -798,7 +849,9 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Westbatterij Muiden"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/pampus-wp/westbatterij2-muiden-medium.webp",
+          "smallPath": "_m/u/1/7/9/pampus-wp/westbatterij2-muiden-small.webp"
         },
         {
           "path": "_m/u/1/7/9/pampus-wp/schleuse-muiden-niederlande-im.jpg",
@@ -820,7 +873,9 @@
             "Files by User:Losch",
             "Groote Zeesluis",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/pampus-wp/schleuse-muiden-niederlande-im-medium.webp",
+          "smallPath": "_m/u/1/7/9/pampus-wp/schleuse-muiden-niederlande-im-small.webp"
         },
         {
           "path": "_m/u/1/7/9/pampus-wp/muiden-p7180052.jpg",
@@ -844,7 +899,9 @@
             "Muiden",
             "Self-published work",
             "Taken with Olympus u30D / S-410D / u410D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/7/9/pampus-wp/muiden-p7180052-medium.webp",
+          "smallPath": "_m/u/1/7/9/pampus-wp/muiden-p7180052-small.webp"
         },
         {
           "path": "_m/u/1/7/3/schiphol-airport-wk/schiphol-plaza-ns.jpg",
@@ -866,7 +923,8 @@
             "Netherlands photographs taken on 2006-06-26",
             "Schiphol Plaza",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/3/schiphol-airport-wk/schiphol-plaza-ns-small.webp"
         },
         {
           "path": "_m/u/1/7/3/schiphol-airport-wk/ns-kaartautomaten.jpg",
@@ -887,7 +945,8 @@
             "PD-user",
             "Taken with Canon EOS 350D",
             "Ticket machines in the Netherlands"
-          ]
+          ],
+          "smallPath": "_m/u/1/7/3/schiphol-airport-wk/ns-kaartautomaten-small.webp"
         },
         {
           "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/amsterdam-schiphol-airport-ent.jpg",
@@ -908,7 +967,9 @@
             "Schiphol Plaza",
             "Self-published work",
             "Taken with Nikon D3000"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/amsterdam-schiphol-airport-ent-medium.webp",
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/amsterdam-schiphol-airport-ent-small.webp"
         }
       ],
       "narration": [

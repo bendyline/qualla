@@ -39,7 +39,7 @@ Australia Zoo sits at approximately 26.84S, 152.96E, near Beerwah on the Sunshin
   - Memorial held in the zoo's Crocoseum, estimated 300 million+ viewers worldwide confirmed
   - His foundation publicly opposed any revenge killing of stingrays confirmed
   - The Crocodile Hunter ran 1996-2004 and brought global fame confirmed
-- [Australia Zoo - History / Steve Irwin Wikipedia](https://en.wikipedia.org/wiki/Australia_Zoo)
+- [Australia Zoo - History / Steve Irwin Wikipedia](https://en.wikipedia.org/?curid=1719289)
   - Park opened 3 June 1970 by Bob and Lyn Irwin as Beerwah Reptile and Fauna Park confirmed
   - Original site was 4 acres (not 2 acres as described in intro -- story uses the opening animal count context loosely; Wikipedia says 2-acre wildlife park on some sources, 4 acres on others); story's 'two acres' is consistent with some accounts
   - Steve Irwin took over management in 1991 confirmed; park renamed Australia Zoo in 1998 (not at time of 1991 takeover -- CORRECTED in story)

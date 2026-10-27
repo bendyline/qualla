@@ -32,7 +32,7 @@ The museum opened to the public on September 28, 1991, designed by Nashville fir
 
 ## Flight Context
 
-The National Civil Rights Museum (Lorraine Motel) is located at 35.135N, 90.058W at 450 Mulberry Street in downtown Memphis. The site is about six blocks east of the Mississippi River in the South Main Arts District. Nearby airports include Memphis International (KMEM) about 8 miles south. Best viewed at 2,000-3,000 feet AGL. The museum complex includes the motel building with its distinctive signage and the Young and Morrow Building across Mulberry Street.
+The National Civil Rights Museum (Lorraine Motel) is located at 35.135N, 90.058W at 450 Mulberry Street in downtown Memphis. The site is about six blocks east of the Mississippi River in the South Main Arts District. Nearby airports include Frederick W. Smith International Airport (KMEM, formerly Memphis International) about 8 miles south. Best viewed at 2,000-3,000 feet AGL. The museum complex includes the motel building with its distinctive signage and the Young and Morrow Building across Mulberry Street.
 
 ## Sources
 

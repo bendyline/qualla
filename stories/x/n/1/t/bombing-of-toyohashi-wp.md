@@ -37,7 +37,7 @@ Located at 34.766N, 137.383E on the coastal plain of eastern Aichi Prefecture, f
 ## Sources
 
 - [Bombing of Toyohashi - Wikipedia](https://en.wikipedia.org/?curid=28833753)
-- [Bombing of Toyohashi - Wikipedia](https://en.wikipedia.org/wiki/Toyohashi_Air_Raid)
+- [Bombing of Toyohashi - Wikipedia](https://en.wikipedia.org/?curid=28833753)
   - 136 B-29 Superfortresses conducted the June 19-20, 1945 raid
   - Attack lasted approximately three hours
   - 624 dead, 346 injured, 16,009 households affected, 68,502 displaced, 15,886 houses damaged or destroyed

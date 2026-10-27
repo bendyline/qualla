@@ -33,7 +33,7 @@ Located at 35.31N, 139.55E on Wakamiya Oji Avenue in Kamakura, near Yuigahama be
 ## Sources
 
 - [Hatakeyama Shigeyasu's grave - Wikipedia](https://en.wikipedia.org/?curid=19418302)
-- [Hatakeyama Shigeyasu's grave - Wikipedia](https://en.wikipedia.org/wiki/Hatakeyama_Shigeyasu%27s_grave)
+- [Hatakeyama Shigeyasu's grave - Wikipedia](https://en.wikipedia.org/?curid=19418302)
   - Hokyointo stands 3.45 meters tall confirmed
   - Made from andesite confirmed
   - Designated Important Cultural Property confirmed

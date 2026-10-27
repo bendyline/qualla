@@ -28,7 +28,7 @@ When Truman left the White House in 1953, he set up an office in Room 1107 of th
 
 ## Flight Context
 
-Located at 39.1033°N, 94.4208°W on U.S. Highway 24 in Independence, Missouri. The library sits on a hilltop overlooking the Kansas City skyline to the west, which makes the general area identifiable from altitude. Kansas City International (KMCI) is approximately 30 miles northwest. Lee's Summit Municipal Airport (KLXT) is roughly 12 miles south. Charles B. Wheeler Downtown Airport (KMKC) is about 12 miles west. The Harry S. Truman National Historic Site (the Truman Home) is nearby at 219 North Delaware Street. From 3,000-5,000 feet, the library grounds and the adjacent residential streets of Independence's historic district are visible, though the building itself is modest in footprint.
+Located at 39.1033°N, 94.4208°W on U.S. Highway 24 in Independence, Missouri. The library sits on a hilltop overlooking the Kansas City skyline to the west, which makes the general area identifiable from altitude. Kansas City International (KMCI) is approximately 30 miles northwest. Kansas City - Lee's Summit Regional Airport (KLXT, formerly Lee's Summit Municipal) is roughly 12 miles south. Charles B. Wheeler Downtown Airport (KMKC) is about 12 miles west. The Harry S. Truman National Historic Site (the Truman Home) is nearby at 219 North Delaware Street. From 3,000-5,000 feet, the library grounds and the adjacent residential streets of Independence's historic district are visible, though the building itself is modest in footprint.
 
 ## Sources
 

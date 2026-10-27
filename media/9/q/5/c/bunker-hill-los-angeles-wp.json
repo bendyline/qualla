@@ -3,37 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/5/c/bunker-hill-los-angeles-wp/hero.jpg",
-        "filename": "LA Skyline Mountains2.jpg",
-        "caption": "Los Angeles skyline and San Gabriel mountains.",
-        "alt": "Los Angeles skyline and San Gabriel mountains.",
-        "width": 2816,
-        "height": 1880,
+        "path": "_m/9/q/5/c/bunker-hill-los-angeles-wp/west-u-s-a-111-14156940895.jpg",
+        "filename": "West u.s.a 111 (14156940895).jpg",
+        "caption": "west u.s.a 111",
+        "alt": "west u.s.a 111",
+        "width": 6000,
+        "height": 4000,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Nserrano",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:LA_Skyline_Mountains2.jpg",
-        "sourceType": "core",
+        "license": "CC BY 2.0",
+        "artist": "rob Stoeltje from loenen, netherlands",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:West_u.s.a_111_(14156940895).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "bunker-hill-los-angeles-wp",
         "sourceGeohash4": "9q5c",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Files with coordinates missing SDC location of creation",
-          "GFDL",
-          "Images with annotations",
-          "License migration redundant",
-          "Los Angeles skylines",
-          "San Gabriel Mountains",
-          "Self-published work",
-          "Taken with Canon EOS 400D",
-          "Valued images of California",
-          "Valued images promoted 2001-03",
-          "Valued images sorted by promotion date"
-        ]
+        "mediumPath": "_m/9/q/5/c/bunker-hill-los-angeles-wp/west-u-s-a-111-14156940895-medium.webp",
+        "smallPath": "_m/9/q/5/c/bunker-hill-los-angeles-wp/west-u-s-a-111-14156940895-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/5/c/bunker-hill-los-angeles-wp/map-downtown-los-angel.png",
+          "path": "_m/9/q/5/c/arts-district-los-angeles-wp/map-downtown-los-angel.png",
           "filename": "Los Angeles Downtown locator.PNG",
           "caption": "This map of Downtown Los Angeles was created from OpenStreetMap project data, collected by the community. This map may be incomplete, and may contain errors. Don't rely solely on it for navigation.",
           "alt": "This map of Downtown Los Angeles was created from OpenStreetMap project data, collected by the community. This map may be incomplete, and may contain errors. Don't rely solely on it for navigation.",
@@ -53,7 +41,8 @@
             "Maps of Los Angeles",
             "OpenStreetMap maps of Los Angeles",
             "PNG that should use vector graphics"
-          ]
+          ],
+          "smallPath": "_m/9/q/5/c/arts-district-los-angeles-wp/map-downtown-los-angel-small.webp"
         },
         {
           "path": "_m/9/q/5/c/bunker-hill-los-angeles-wp/angels-flight-december.jpg",
@@ -297,7 +286,7 @@
           "smallPath": "_m/9/q/5/c/bunker-hill-los-angeles-wp/west-u-s-a-106-14176538383-small.webp"
         },
         {
-          "path": "_m/9/q/5/c/bunker-hill-los-angeles-wp/hero.jpg",
+          "path": "_m/9/q/5/c/angels-flight-wp/hero.jpg",
           "filename": "Angels Flight on 08-22-2024.jpg",
           "caption": "A picture I took of Angels Flight on August 22, 2024.",
           "alt": "A picture I took of Angels Flight on August 22, 2024.",
@@ -309,10 +298,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angels_Flight_on_08-22-2024.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "angels-flight-wp",
-          "sourceGeohash4": "9q5c"
+          "sourceGeohash4": "9q5c",
+          "mediumPath": "_m/9/q/5/c/angels-flight-wp/hero-medium.webp",
+          "smallPath": "_m/9/q/5/c/angels-flight-wp/hero-small.webp"
         },
         {
-          "path": "_m/9/q/5/c/bunker-hill-los-angeles-wp/picture-i-took-angels.jpg",
+          "path": "_m/9/q/5/c/angels-flight-wp/picture-i-took-angels.jpg",
           "filename": "Angels Flight Railway on 07-15-2024.jpg",
           "caption": "A picture I took of Angels Flight Railway Station on July 15, 2024.",
           "alt": "A picture I took of Angels Flight Railway Station on July 15, 2024.",
@@ -324,7 +315,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angels_Flight_Railway_on_07-15-2024.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "angels-flight-wp",
-          "sourceGeohash4": "9q5c"
+          "sourceGeohash4": "9q5c",
+          "mediumPath": "_m/9/q/5/c/angels-flight-wp/picture-i-took-angels-medium.webp",
+          "smallPath": "_m/9/q/5/c/angels-flight-wp/picture-i-took-angels-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-city-hall-color.jpg",
@@ -347,7 +340,8 @@
             "License migration completed",
             "Los Angeles City Hall",
             "Photographs taken on 2003-08-08"
-          ]
+          ],
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-city-hall-color-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/120207-la-philippes.jpg",
@@ -371,7 +365,9 @@
             "Restaurant signs in Los Angeles",
             "Self-published work",
             "Taken with Sony DSC-T10"
-          ]
+          ],
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/120207-la-philippes-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/120207-la-philippes-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/cathedral-of-our-lady-of-angel.jpg",
@@ -395,7 +391,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Pentax Optio V10"
-          ]
+          ],
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/cathedral-of-our-lady-of-angel-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/cathedral-of-our-lady-of-angel-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-city-hall-color-ed.jpg",
@@ -421,7 +419,8 @@
             "Los Angeles City Hall",
             "Photographs taken on 2003-08-08",
             "Retouched pictures"
-          ]
+          ],
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-city-hall-color-ed-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/avila-adobe-olvera-street-los-.jpg",
@@ -446,7 +445,9 @@
             "Porches in California",
             "Self-published work",
             "Taken with Pentax Optio V10"
-          ]
+          ],
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/avila-adobe-olvera-street-los--medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/avila-adobe-olvera-street-los--small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-times-complex.jpg",
@@ -461,7 +462,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Los_Angeles_Times_complex.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-times-complex-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/moca-la-04.jpg",
@@ -476,7 +478,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:MOCA_LA_04.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/moca-la-04-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/moca-la-04-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/nokiatheaterla-live02.jpg",
@@ -491,7 +495,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:NokiaTheaterLA-Live02.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/nokiatheaterla-live02-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/nokiatheaterla-live02-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/la-music-center-mark-taper-for.jpg",
@@ -506,7 +512,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:LA_Music_Center_Mark_Taper_Forum.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/la-music-center-mark-taper-for-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/la-music-center-mark-taper-for-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/chinese-american-museum.jpg",
@@ -521,7 +529,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chinese_American_Museum.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/chinese-american-museum-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/chinese-american-museum-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-library-tower-smal.jpg",
@@ -534,7 +544,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Los_Angeles_Library_Tower_(small)_crop.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-library-tower-smal-small.webp"
         },
         {
           "path": "_m/9/q/5/c/japanese-american-national-museum-wp/japanese-american-national-mus.jpg",
@@ -549,7 +560,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Japanese_American_National_Museum.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "japanese-american-national-museum-wp",
-          "sourceGeohash4": "9q5c"
+          "sourceGeohash4": "9q5c",
+          "smallPath": "_m/9/q/5/c/japanese-american-national-museum-wp/japanese-american-national-mus-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/arroyo-seco-bike-path-entrance.jpg",
@@ -564,7 +576,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arroyo_Seco_Bike_Path_Entrance.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/arroyo-seco-bike-path-entrance-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/arroyo-seco-bike-path-entrance-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-convention-center.jpg",
@@ -579,7 +593,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Los_Angeles_Convention_Center.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-convention-center-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-convention-center-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/la-placita-parish-2007.jpg",
@@ -594,7 +610,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Placita_Parish_2007.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/la-placita-parish-2007-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/la-placita-parish-2007-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/disney-concert-hall.jpg",
@@ -609,7 +627,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Disney_Concert_Hall..JPG",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/disney-concert-hall-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/disney-concert-hall-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/945-s-wall-street-los-angeles.jpg",
@@ -624,7 +644,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:945_S._Wall_Street,_Los_Angeles.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/945-s-wall-street-los-angeles-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/945-s-wall-street-los-angeles-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/eastside-gold-line-and-los-ang.jpg",
@@ -639,7 +661,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eastside_Gold_Line_and_Los_Angeles_skyline.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/eastside-gold-line-and-los-ang-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/eastside-gold-line-and-los-ang-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/the-conga-room-at-l-a-live.jpg",
@@ -654,7 +678,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Conga_Room_at_L.A._Live.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/the-conga-room-at-l-a-live-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/the-conga-room-at-l-a-live-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/chinatown-gate-los-angeles.jpg",
@@ -669,7 +695,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chinatown_gate,_Los_Angeles.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/chinatown-gate-los-angeles-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/chinatown-gate-los-angeles-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/oldplazafirehouse.jpg",
@@ -684,7 +712,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oldplazafirehouse.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/oldplazafirehouse-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/oldplazafirehouse-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-public-library-257.jpg",
@@ -699,7 +729,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Los_Angeles_Public_Library_(2571166072).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-public-library-257-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-public-library-257-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/bradbury-building-lobby-2.jpg",
@@ -714,7 +746,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bradbury_Building_Lobby-2.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/bradbury-building-lobby-2-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/bradbury-building-lobby-2-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/grand-central-market.jpg",
@@ -729,7 +763,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_Central_Market.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/grand-central-market-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/grand-central-market-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/olvera-street-los-angeles-3.jpg",
@@ -744,7 +780,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Olvera_Street,_Los_Angeles-3.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/olvera-street-los-angeles-3-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/olvera-street-los-angeles-3-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-union-station-06.jpg",
@@ -759,7 +797,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Los_Angeles_Union_Station_06.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-union-station-06-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-union-station-06-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-central-library-63.jpg",
@@ -774,7 +814,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Los_Angeles_Central_Library,_630_W._5th_St._Downtown_Los_Angeles_12.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-central-library-63-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/los-angeles-central-library-63-small.webp"
         },
         {
           "path": "_m/9/q/5/c/los-angeles-wk/20140830-50-los-angeles-union-.jpg",
@@ -789,7 +831,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20140830_50_Los_Angeles_Union_Station_(15360153108).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "los-angeles-wk",
-          "sourceGeohash4": "9q5c"
+          "sourceGeohash4": "9q5c",
+          "mediumPath": "_m/9/q/5/c/los-angeles-wk/20140830-50-los-angeles-union--medium.webp",
+          "smallPath": "_m/9/q/5/c/los-angeles-wk/20140830-50-los-angeles-union--small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/santee-alley-los-angeles.jpg",
@@ -804,7 +848,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santee_alley_los_angeles.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/santee-alley-los-angeles-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/santee-alley-los-angeles-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/grand-central-market-los-angel.jpg",
@@ -819,7 +865,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_Central_Market_Los_Angeles_P1000560.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/grand-central-market-los-angel-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/grand-central-market-los-angel-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/la-plaza-de-cultura-y-artes-lo.jpg",
@@ -834,7 +882,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:LA_Plaza_de_Cultura_y_Artes,_Los_Angeles,_California_(14523832122).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/la-plaza-de-cultura-y-artes-lo-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/la-plaza-de-cultura-y-artes-lo-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/the-broad-la-2017.jpg",
@@ -849,7 +899,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Broad_LA_2017.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/the-broad-la-2017-small.webp"
         },
         {
           "path": "_m/9/q/5/c/los-angeles-wk/des-trotinettes-en-libre-acces.jpg",
@@ -864,7 +915,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Des_trotinettes_en_libre_acc%C3%A8s_Grand_Avenue_(Los_Angeles).JPG",
           "sourceType": "sibling",
           "sourceArticleId": "los-angeles-wk",
-          "sourceGeohash4": "9q5c"
+          "sourceGeohash4": "9q5c",
+          "mediumPath": "_m/9/q/5/c/los-angeles-wk/des-trotinettes-en-libre-acces-medium.webp",
+          "smallPath": "_m/9/q/5/c/los-angeles-wk/des-trotinettes-en-libre-acces-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/the-last-bookstore-los-angeles.jpg",
@@ -879,7 +932,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Last_Bookstore_(Los_Angeles)_Exterior_(July_2022)_-_2.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "bunker-hill-los-angeles",
-          "sourceGeohash4": "tpc/bu/nk/er/-h"
+          "sourceGeohash4": "tpc/bu/nk/er/-h",
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/the-last-bookstore-los-angeles-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/the-last-bookstore-los-angeles-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/westin-bonaventure-hotel.jpg",
@@ -907,7 +962,9 @@
             "Self-published work",
             "Taken with Canon PowerShot A710 IS",
             "Westin Bonaventure Hotel"
-          ]
+          ],
+          "mediumPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/westin-bonaventure-hotel-medium.webp",
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/westin-bonaventure-hotel-small.webp"
         },
         {
           "path": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/wilshire-grand.jpg",
@@ -932,7 +989,8 @@
             "Self-published work",
             "Wedbush Center",
             "Wilshire Grand Center"
-          ]
+          ],
+          "smallPath": "_m/tpc/bu/nk/er/-h/bunker-hill-los-angeles/wilshire-grand-small.webp"
         },
         {
           "path": "_m/9/q/5/f/pasadena-california-wp/2018-06-17-over-the-rose-bowl-.jpg",
@@ -956,7 +1014,9 @@
             "June 2018 in Pasadena, California",
             "Photographs by Ted Eytan",
             "Rose Bowl"
-          ]
+          ],
+          "mediumPath": "_m/9/q/5/f/pasadena-california-wp/2018-06-17-over-the-rose-bowl--medium.webp",
+          "smallPath": "_m/9/q/5/f/pasadena-california-wp/2018-06-17-over-the-rose-bowl--small.webp"
         },
         {
           "path": "_m/9/q/5/c/bmo-stadium-wp/east-side-banc-califor.jpg",
@@ -977,7 +1037,9 @@
             "Association football matches at BMO Stadium",
             "CC-BY-SA-4.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/9/q/5/c/bmo-stadium-wp/east-side-banc-califor-medium.webp",
+          "smallPath": "_m/9/q/5/c/bmo-stadium-wp/east-side-banc-califor-small.webp"
         },
         {
           "path": "_m/9/q/5/c/los-angeles-2028-wk/intuit-dome-facade.jpg",
@@ -998,7 +1060,9 @@
             "Exterior of Intuit Dome",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/9/q/5/c/los-angeles-2028-wk/intuit-dome-facade-medium.webp",
+          "smallPath": "_m/9/q/5/c/los-angeles-2028-wk/intuit-dome-facade-small.webp"
         }
       ],
       "narration": [

@@ -36,7 +36,7 @@ The tile coordinate for this story, 52.28 N, 13.22 E, sits in the flat lake-and-
 
 ## Sources
 
-- [Rudolf Virchow - Wikipedia](https://en.wikipedia.org/wiki/Rudolf_Virchow)
+- [Rudolf Virchow - Wikipedia](https://en.wikipedia.org/?curid=140752)
 - [Rudolf Virchow - Wikipedia (German)](https://de.wikipedia.org/wiki/Rudolf_Virchow)
   - 1847-48 Upper Silesia typhus investigation; 190-page report blaming Prussian government policy and prescribing full and unrestricted democracy plus education
   - from 1869 he worked with James Hobrecht on Berlin's sewerage and central water supply, draining the city via twelve independent radial systems to Rieselfelder outside it
@@ -46,7 +46,7 @@ The tile coordinate for this story, 52.28 N, 13.22 E, sits in the flat lake-and-
   - he decidedly combated emerging antisemitic tendencies and advocated minority rights
   - he fell from a moving streetcar on Leipziger Straße on 4 January 1902, broke his femoral neck, and died 5 September 1902
   - he is buried at the Alter St.-Matthäus-Kirchhof in Berlin-Schöneberg, an Ehrengrab of the city since 1952
-- [Rudolf Virchow anthropology and race theory - Wikipedia](https://en.wikipedia.org/wiki/Rudolf_Virchow)
+- [Rudolf Virchow anthropology and race theory - Wikipedia](https://en.wikipedia.org/?curid=140752)
   - co-founded the German Anthropological Association in 1869 and the Berlin Society for Anthropology, Ethnology and Prehistory in 1870
   - denounced 'Nordic mysticism' regarding Aryan racial theory at the 1885 Anthropology Congress in Karlsruhe
   - regarded Haeckel's social Darwinism as politically dangerous and anti-democratic

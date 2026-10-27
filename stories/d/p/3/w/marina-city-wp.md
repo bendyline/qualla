@@ -58,7 +58,7 @@ Located at 41.888°N, 87.629°W on the north bank of the Chicago River, Marina C
   - 65-story towers at 587 feet confirmed
   - tallest residential buildings and tallest reinforced concrete structures when completed confirmed
   - $36 million cost confirmed
-- [Marina City - Wikipedia](https://en.wikipedia.org/wiki/Marina_City)
+- [Marina City - Wikipedia](https://en.wikipedia.org/?curid=2144201)
   - House of Blues in shell of former movie theater confirmed
   - Hotel Chicago in former office building confirmed
   - Chicago Landmark designation 2016 confirmed

@@ -47,7 +47,7 @@ The New Mexico Museum of Space History is located on the western slope of the Sa
 ## Sources
 
 - [New Mexico Museum of Space History - Wikipedia](https://en.wikipedia.org/?curid=301807)
-- [New Mexico Museum of Space History - Wikipedia](https://en.wikipedia.org/wiki/New_Mexico_Museum_of_Space_History)
+- [New Mexico Museum of Space History - Wikipedia](https://en.wikipedia.org/?curid=301807)
   - Museum opened 1976 as International Space Hall of Fame
   - Dwight Ohlinger inspired by Baseball HOF in 1973
   - Governor Bruce King supported the project

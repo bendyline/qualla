@@ -24,7 +24,7 @@ The studio's reach extends further than its catalog. The Foo Fighters filmed an 
 
 ## Flight Context
 
-Located at 34.14°N, 116.32°W near Joshua Tree, California. The compound is in the residential desert zone northwest of Joshua Tree National Park. Nearest airports: Desert Resorts Regional (PSP) ~30 miles south, Twentynine Palms (TNP) ~20 miles east.
+Located at 34.14°N, 116.32°W near Joshua Tree, California. The compound is in the residential desert zone northwest of Joshua Tree National Park. Nearest airports: Palm Springs International (PSP) ~30 miles south, Twentynine Palms (TNP) ~20 miles east.
 
 ## Sources
 

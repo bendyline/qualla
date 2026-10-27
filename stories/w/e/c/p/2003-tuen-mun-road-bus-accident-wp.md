@@ -41,7 +41,7 @@ The Ting Kau section of Tuen Mun Road sits at approximately 22.37°N, 114.08°E 
   - Route from Lai Yiu Estate, Kwai Chung to Tin Heng Estate, Tin Shui Wai
   - Lorry driver Li Chau-wing (age 53) sentenced to 18 months for causing death by dangerous driving
   - Hong Kong Professional Teachers' Union fundraising drive ran 4 years, closing September 2007
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2003_Tuen_Mun_Road_bus_accident)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=67927498)
   - Added the appeal outcome for the living driver: his dangerous-driving conviction (18 months) was overturned after tests showed the vehicle was defective, and reduced to careless driving with a five-month sentence and two-year driving ban.
 
 ## Review Notes

@@ -26,7 +26,7 @@ In December 2022, Joshua Tree National Park announced a stewardship agreement th
 
 ## Flight Context
 
-The tribe's Twentynine Palms area is centered at 34.12°N, 116.05°W, adjacent to the Marine Corps base and the eastern reaches of Joshua Tree National Park. The Chemehuevi Cemetery lies near the intersection of Highway 62 and Adobe Road in Twentynine Palms. Nearest airports: Twentynine Palms (TNP), Desert Resorts Regional (PSP) ~35 miles south.
+The tribe's Twentynine Palms area is centered at 34.12°N, 116.05°W, adjacent to the Marine Corps base and the eastern reaches of Joshua Tree National Park. The Chemehuevi Cemetery lies near the intersection of Highway 62 and Adobe Road in Twentynine Palms. Nearest airports: Twentynine Palms (TNP), Palm Springs International (PSP) ~35 miles south.
 
 ## Sources
 

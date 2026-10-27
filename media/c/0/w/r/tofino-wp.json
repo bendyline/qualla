@@ -3,31 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/c/0/w/r/tofino-wp/hero.jpg",
-        "filename": "Tofino - Panorama 02.jpg",
-        "caption": "Tofino - Panorama",
-        "alt": "Tofino - Panorama",
-        "width": 5947,
-        "height": 3965,
+        "path": "_m/c/0/w/r/tofino-wp/grice-bay-5436162421.jpg",
+        "filename": "Grice Bay (5436162421).jpg",
+        "caption": "Tofino",
+        "alt": "Tofino",
+        "width": 10629,
+        "height": 2588,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Buiobuione",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tofino_-_Panorama_02.jpg",
-        "sourceType": "core",
+        "license": "CC BY 2.0",
+        "artist": "popejon2 from Paddington, Australia",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grice_Bay_(5436162421).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "tofino-wp",
         "sourceGeohash4": "c0wr",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Self-published work",
-          "Sunsets of British Columbia",
-          "Sunsets of Tofino",
-          "Tofino",
-          "Vancouver Island"
-        ]
+        "mediumPath": "_m/c/0/w/r/tofino-wp/grice-bay-5436162421-medium.webp",
+        "smallPath": "_m/c/0/w/r/tofino-wp/grice-bay-5436162421-small.webp"
       },
       "images": [
         {
-          "path": "_m/c/0/w/r/tofino-wp/tofino-vue-vers-l-le-d.jpg",
+          "path": "_m/c/0/y/c/vancouver-island-wk/tofino-vue-vers-l-le-d.jpg",
           "filename": "Tofino.Vue vers l'est.JPG",
           "caption": "Tofino.Vue vers l'île de Meares.",
           "alt": "Tofino.Vue vers l'île de Meares.",
@@ -47,7 +41,9 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/c/0/y/c/vancouver-island-wk/tofino-vue-vers-l-le-d-medium.webp",
+          "smallPath": "_m/c/0/y/c/vancouver-island-wk/tofino-vue-vers-l-le-d-small.webp"
         },
         {
           "path": "_m/c/0/w/r/tofino-wp/arctic-cold-front-edge.jpg",
@@ -534,7 +530,9 @@
             "Self-published work",
             "Taken with Canon PowerShot S120",
             "Wikigrant WG 2017-9"
-          ]
+          ],
+          "mediumPath": "_m/c/2/8/r/vancouver-international-airport-wk/budget-itb-2017-medium.webp",
+          "smallPath": "_m/c/2/8/r/vancouver-international-airport-wk/budget-itb-2017-small.webp"
         },
         {
           "path": "_m/tpc/to/fi/no/__/tofino/tofino-long-beach-airport-buil.jpg",
@@ -559,7 +557,9 @@
             "Photographs of Canada by Ymblanter",
             "Self-published work",
             "Taken with Nikon D3400"
-          ]
+          ],
+          "mediumPath": "_m/tpc/to/fi/no/__/tofino/tofino-long-beach-airport-buil-medium.webp",
+          "smallPath": "_m/tpc/to/fi/no/__/tofino/tofino-long-beach-airport-buil-small.webp"
         }
       ],
       "videos": [

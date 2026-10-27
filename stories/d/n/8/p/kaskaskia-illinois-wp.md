@@ -28,7 +28,7 @@ The rebuilt village is a study in defiance. Residents moved the Church of the Im
 
 ## Flight Context
 
-Kaskaskia sits at 37.92N, 89.92W, on the west bank of the Mississippi River, physically attached to Missouri despite being legally in Illinois. From altitude, look for the distinctive bend in the Mississippi where the river shifted its channel east, with a small bridge crossing a bayou. The village is tiny and surrounded by floodplain farmland. Nearest major airport is St. Louis Lambert International (KSTL) about 60 nm to the northwest. Mid-America Airport (KBLV) at Scott AFB is roughly 30 nm north. Approach at 2,000-3,000 ft AGL to see the contrast between the river channel and the isolated village. The levee system along the eastern edge is visible from moderate altitude.
+Kaskaskia sits at 37.92N, 89.92W, on the west bank of the Mississippi River, physically attached to Missouri despite being legally in Illinois. From altitude, look for the distinctive bend in the Mississippi where the river shifted its channel east, with a small bridge crossing a bayou. The village is tiny and surrounded by floodplain farmland. Nearest major airport is St. Louis Lambert International (KSTL) about 60 nm to the northwest. MidAmerica St. Louis Airport (KBLV) at Scott AFB is roughly 30 nm north. Approach at 2,000-3,000 ft AGL to see the contrast between the river channel and the isolated village. The levee system along the eastern edge is visible from moderate altitude.
 
 ## Sources
 

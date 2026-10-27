@@ -33,7 +33,7 @@ The Cold Springs Swimming Hole and Ellison Creek are located at approximately 34
 ## Sources
 
 - [2017 Payson flash floods - Wikipedia](https://en.wikipedia.org/?curid=67834703)
-- [Wikipedia - 2017 Payson flash floods](https://en.wikipedia.org/wiki/2017_Payson_flash_floods)
+- [Wikipedia - 2017 Payson flash floods](https://en.wikipedia.org/?curid=67834703)
   - Date July 15, 2017 confirmed
   - 10 deaths confirmed
   - Extended family of 14 celebrating birthday confirmed

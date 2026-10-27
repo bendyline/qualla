@@ -3,28 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/k/z/llanfaethlu-wp/hero.jpg",
-        "filename": "Isle of Anglesey UK relief location map.jpg",
-        "caption": "Relief map of Anglesey, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 165%\nGeographic limits:\n\nWest: 4.75W\nEast: 4.00W\nNorth: 53.45N\nSouth: 53.05N",
-        "alt": "Relief map of Anglesey, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 165%\nGeographic limits:\n\nWest: 4.75W\nEast: 4.00W\nNorth: 53.45N\nSouth: 53.05N",
-        "width": 1999,
-        "height": 1759,
+        "path": "_m/g/c/k/z/llanfaethlu-wp/bend-in-the-road-south-of-refa.jpg",
+        "filename": "Bend in the road south of 'Refail - geograph.org.uk - 1368944.jpg",
+        "caption": "Bend in the road south of 'Refail",
+        "alt": "Bend in the road south of 'Refail",
+        "width": 640,
+        "height": 481,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Nilfanion, created using Ordnance Survey data",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isle_of_Anglesey_UK_relief_location_map.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Eric Jones",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bend_in_the_road_south_of_%27Refail_-_geograph.org.uk_-_1368944.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "llanfaethlu-wp",
         "sourceGeohash4": "gckz",
         "categories": [
-          "CC-BY-SA-3.0",
-          "JPG images that should use vector graphics",
-          "Map images that should use vector graphics",
-          "Maps by Nilfanion",
-          "Maps of Anglesey",
-          "Ordnance Survey Boundary Line maps",
-          "Topographic maps of Wales"
-        ]
+          "CC-BY-SA-2.0",
+          "Images by Eric Jones",
+          "Images from Geograph Britain and Ireland",
+          "Information field template with formatting",
+          "Llanfaethlu",
+          "Media needing category review as of 19 May 2017",
+          "United Kingdom photographs taken on 2009-06-20"
+        ],
+        "smallPath": "_m/g/c/k/z/llanfaethlu-wp/bend-in-the-road-south-of-refa-small.webp"
       },
       "images": [
         {
@@ -426,7 +427,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eglwys_St._Rhuddlad,_St_Rhuddlad%27s_Church,_Church_Bay..jpg",
           "sourceType": "poi",
           "sourceArticleId": "anglesey",
-          "sourceGeohash4": "gckz"
+          "sourceGeohash4": "gckz",
+          "smallPath": "_m/tpc/an/gl/es/ey/anglesey/eglwys-st-rhuddlad-st-rhuddlad-small.webp"
         },
         {
           "path": "_m/tpc/an/gl/es/ey/anglesey/a-good-site-for-a-windmill-geo.jpg",
@@ -441,7 +443,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_good_site_for_a_windmill_(geograph_3482177).jpg",
           "sourceType": "poi",
           "sourceArticleId": "anglesey",
-          "sourceGeohash4": "gckz"
+          "sourceGeohash4": "gckz",
+          "mediumPath": "_m/tpc/an/gl/es/ey/anglesey/a-good-site-for-a-windmill-geo-medium.webp",
+          "smallPath": "_m/tpc/an/gl/es/ey/anglesey/a-good-site-for-a-windmill-geo-small.webp"
         },
         {
           "path": "_m/tpc/an/gl/es/ey/anglesey/eglwys-sant-beuno-aberffraw-ar.png",
@@ -456,7 +460,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eglwys_Sant_Beuno,_Aberffraw_ar_Ynys_M%C3%B4n_-_St_Beuno%27s_Church,_Aberffraw_parish_church_in_Anglesey,_Wales_31.png",
           "sourceType": "poi",
           "sourceArticleId": "anglesey",
-          "sourceGeohash4": "gckz"
+          "sourceGeohash4": "gckz",
+          "mediumPath": "_m/tpc/an/gl/es/ey/anglesey/eglwys-sant-beuno-aberffraw-ar-medium.webp",
+          "smallPath": "_m/tpc/an/gl/es/ey/anglesey/eglwys-sant-beuno-aberffraw-ar-small.webp"
         },
         {
           "path": "_m/tpc/an/gl/es/ey/anglesey/holyhead-2024-06-15-04.jpg",
@@ -471,7 +477,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Holyhead_-_2024-06-15_04.jpg",
           "sourceType": "poi",
           "sourceArticleId": "anglesey",
-          "sourceGeohash4": "gckz"
+          "sourceGeohash4": "gckz",
+          "mediumPath": "_m/tpc/an/gl/es/ey/anglesey/holyhead-2024-06-15-04-medium.webp",
+          "smallPath": "_m/tpc/an/gl/es/ey/anglesey/holyhead-2024-06-15-04-small.webp"
         },
         {
           "path": "_m/g/c/k/z/amlwch-wp/view-down-to-village-from-near.jpg",
@@ -491,7 +499,8 @@
             "Bull Bay, Anglesey",
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/k/z/amlwch-wp/view-down-to-village-from-near-small.webp"
         },
         {
           "path": "_m/g/c/k/y/caernarfon-wp/segontium.jpg",
@@ -516,7 +525,8 @@
             "Self-published work",
             "Taken with Canon EOS 20D",
             "United Kingdom photographs taken on 2006-02-10"
-          ]
+          ],
+          "smallPath": "_m/g/c/k/y/caernarfon-wp/segontium-small.webp"
         },
         {
           "path": "_m/g/c/k/y/caernarfon-wp/caernarfon-castle-floodlit.jpg",
@@ -544,7 +554,9 @@
             "United Kingdom photographs taken on 2014-08-01",
             "Uploaded via Campaign:wlm-gb-wls",
             "WLM-UK 2014 unfiltered 09-26"
-          ]
+          ],
+          "mediumPath": "_m/g/c/k/y/caernarfon-wp/caernarfon-castle-floodlit-medium.webp",
+          "smallPath": "_m/g/c/k/y/caernarfon-wp/caernarfon-castle-floodlit-small.webp"
         },
         {
           "path": "_m/g/c/k/y/caernarfon-wp/black-boy-inn-geograph-4138406.jpg",
@@ -567,7 +579,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "United Kingdom photographs taken on 2014-08-15"
-          ]
+          ],
+          "smallPath": "_m/g/c/k/y/caernarfon-wp/black-boy-inn-geograph-4138406-small.webp"
         },
         {
           "path": "_m/tpc/ca/st/le/__/castle/castell-caernarfon-yn-y-cyfnos.png",
@@ -599,7 +612,9 @@
             "Self-published work",
             "Uploaded via Campaign:wlm-gb-wls",
             "WLM-UK 2023 unfiltered 09-05"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ca/st/le/__/castle/castell-caernarfon-yn-y-cyfnos-medium.webp",
+          "smallPath": "_m/tpc/ca/st/le/__/castle/castell-caernarfon-yn-y-cyfnos-small.webp"
         }
       ],
       "narration": [

@@ -36,7 +36,7 @@ An Thoi Naval Base sits at 10.019N, 104.018E on the southern tip of Phu Quoc isl
 
 ## Sources
 
-- [An Thoi Naval Base - Wikipedia](https://en.wikipedia.org/wiki/An_Thoi_Naval_Base)
+- [An Thoi Naval Base - Wikipedia](https://en.wikipedia.org/?curid=59467908)
 - [Wikipedia - An Thoi Naval Base, Patrol Craft Fast, Coast Guard Squadron One, Phu Quoc](https://en.wikipedia.org/wiki/Coast_Guard_Squadron_One)
   - Base established by RVNN in the early 1960s as Coastal District IV, renamed 4th Naval Zone on 16 October 1963 - confirmed
   - RMK-BRJ arrived 14 December 1964 by RVNN motorised junk; ocean pier completed by 30 April - confirmed

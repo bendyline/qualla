@@ -33,7 +33,7 @@ Located at 37.706N, 138.826E at the eastern base of Mount Yahiko (634m / 2,080ft
 ## Sources
 
 - [1956 Yahiko Shrine stampede - Wikipedia](https://en.wikipedia.org/?curid=74172161)
-- [1956 Yahiko Shrine stampede - Wikipedia / time.graphics](https://en.wikipedia.org/wiki/1956_Yahiko_Shrine_stampede)
+- [1956 Yahiko Shrine stampede - Wikipedia / time.graphics](https://en.wikipedia.org/?curid=74172161)
   - Date: just after midnight January 1, 1956 confirmed
   - Crowd size 35,000 to 40,000 confirmed
   - Death toll 124 confirmed, injuries 75 confirmed

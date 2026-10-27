@@ -3,34 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/z/4/1/tomar-castle-wp/hero.jpg",
-        "filename": "Castelo de Guimarães Castelo da Fundação.JPG",
-        "caption": "Guimaraes Castle",
-        "alt": "Guimaraes Castle",
-        "width": 2576,
-        "height": 1920,
+        "path": "_m/e/z/4/1/tomar-castle-wp/tomar-fortaleza-templaria-2014.jpg",
+        "filename": "Tomar-Fortaleza templária-20140914.jpg",
+        "caption": "Templar fortress.",
+        "alt": "Templar fortress.",
+        "width": 5472,
+        "height": 3648,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Marco Aldeia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Guimar%C3%A3es_Castelo_da_Funda%C3%A7%C3%A3o.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "Daniel VILLAFRUELA.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tomar-Fortaleza_templ%C3%A1ria-20140914.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "tomar-castle-wp",
         "sourceGeohash4": "ez41",
-        "categories": [
-          "2008 in Guimarães",
-          "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
-          "Exterior of Castelo de Guimarães",
-          "GFDL",
-          "Gardens in Colina Sagrada",
-          "Images with extracted images",
-          "License migration redundant",
-          "Self-published work",
-          "Taken with HP PhotoSmart M440"
-        ]
+        "mediumPath": "_m/e/z/4/1/tomar-castle-wp/tomar-fortaleza-templaria-2014-medium.webp",
+        "smallPath": "_m/e/z/4/1/tomar-castle-wp/tomar-fortaleza-templaria-2014-small.webp"
       },
       "images": [
         {
-          "path": "_m/e/z/4/1/tomar-castle-wp/castle-penela-coimbra.jpg",
+          "path": "_m/e/y/9/g/castle-of-silves-wp/castle-penela-coimbra.jpg",
           "filename": "Castelo de Penela - vista geral.JPG",
           "caption": "Castle of Penela, Coimbra, Portugal.",
           "alt": "Castle of Penela, Coimbra, Portugal.",
@@ -51,7 +42,9 @@
             "Photographs with polarization filter",
             "Self-published work",
             "Taken with Olympus E-420"
-          ]
+          ],
+          "mediumPath": "_m/e/y/9/g/castle-of-silves-wp/castle-penela-coimbra-medium.webp",
+          "smallPath": "_m/e/y/9/g/castle-of-silves-wp/castle-penela-coimbra-small.webp"
         },
         {
           "path": "_m/e/z/4/1/tomar-castle-wp/castelo-de-tomar.jpg",
@@ -88,7 +81,7 @@
           "smallPath": "_m/e/z/4/1/tomar-castle-wp/castelo-de-tomar-small.webp"
         },
         {
-          "path": "_m/e/z/4/1/tomar-castle-wp/palmela-castle-setubal.jpg",
+          "path": "_m/e/y/9/g/castle-of-silves-wp/palmela-castle-setubal.jpg",
           "filename": "Castelo de Plamela 2004-04.jpg",
           "caption": "Palmela Castle, Setúbal, Portugal",
           "alt": "Palmela Castle, Setúbal, Portugal",
@@ -106,7 +99,8 @@
             "Castelo de Palmela",
             "Portugal photographs taken on 2004-04-04",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/e/y/9/g/castle-of-silves-wp/palmela-castle-setubal-small.webp"
         },
         {
           "path": "_m/e/z/4/1/tomar-castle-wp/castelo-de-tomar-9.jpg",

@@ -11,8 +11,56 @@
         "_m/d/d/k/7/2021-eruption-of-la-soufriere-wp/ddk7-2021-eruption-of-la-soufriere-the-caribbean-responds.mp3",
         "_m/d/d/k/7/2021-eruption-of-la-soufriere-wp/ddk7-2021-eruption-of-la-soufriere-what-the-mountain-left-behind.mp3"
       ],
+      "hero": {
+        "path": "_m/d/d/k/7/2021-eruption-of-la-soufriere-wp/hero.png",
+        "filename": "Relief Map of Caribbean.png",
+        "caption": "Физическая карта Вест-Индии.",
+        "alt": "Физическая карта Вест-Индии.",
+        "width": 891,
+        "height": 561,
+        "mimeType": "image/png",
+        "license": "CC BY-SA 3.0",
+        "artist": "Nzeemin",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Relief_Map_of_Caribbean.png",
+        "sourceType": "core",
+        "sourceArticleId": "2021-eruption-of-la-soufriere-wp",
+        "sourceGeohash4": "ddk7",
+        "categories": [
+          "CC-BY-SA-3.0",
+          "Location maps of Caribbean",
+          "Location maps of water bodies",
+          "Self-published work",
+          "Topographic maps of the Caribbean"
+        ]
+      },
+      "videos": [
+        {
+          "path": "_m/d/d/k/7/2021-eruption-of-la-soufriere-wp/2nd-eruption-volcanic-plume-imagery.mp4",
+          "posterPath": "_m/d/d/k/7/2021-eruption-of-la-soufriere-wp/2nd-eruption-volcanic-plume-imagery-poster.jpg",
+          "filename": "2nd Eruption Volcanic Plume Imagery.webm",
+          "caption": "GOES-16 True Color RGB",
+          "width": 800,
+          "height": 400,
+          "duration": 3.2,
+          "mimeType": "video/mp4",
+          "originalMimeType": "video/webm",
+          "license": "Public domain",
+          "artist": "NOAA/CIRA",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/2nd_Eruption_Volcanic_Plume_Imagery.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "accessedAt": "2026-10-17T14:11:29.508Z",
+          "sourceType": "core",
+          "sourceArticleId": "2021-eruption-of-la-soufriere-wp",
+          "relevanceScore": 37,
+          "scoringFactors": {
+            "titleRelevance": 7,
+            "descriptionRelevance": 0,
+            "historicalBonus": 0,
+            "aerialBonus": 30
+          }
+        }
+      ],
       "combinedNarration": "_m/d/d/k/7/2021-eruption-of-la-soufriere-wp/ddk7-2021-eruption-of-la-soufriere-combined.mp3",
-      "combinedNarrationBytes": 4612613,
+      "combinedNarrationBytes": 4612673,
       "combinedNarrationDuration": 384
     }
   }

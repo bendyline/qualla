@@ -32,7 +32,7 @@ The site sits at 52.3358N, 9.3737E, in Bad Nenndorf, a spa town of some 11,500 p
 
 ## Sources
 
-- [Bad Nenndorf interrogation centre - Wikipedia](https://en.wikipedia.org/wiki/Bad_Nenndorf_interrogation_centre)
+- [Bad Nenndorf interrogation centre - Wikipedia](https://en.wikipedia.org/?curid=6232754)
   - British Combined Services Detailed Interrogation Centre in the Winckler-Bath complex, Bad Nenndorf, Schaumburg district, Lower Saxony, in the British occupation zone
   - Operated June 1945 to July 1947; four officers brought before courts martial in 1948; one convicted of neglect and dismissed from service
   - The Winckler-Bath complex was named after Axel Winckler, a doctor from Bad Nenndorf and a leading balneologist

@@ -33,7 +33,7 @@ Located at 35.319N, 139.550E in Kamakura, approximately 50 km southwest of centr
 ## Sources
 
 - [Kamakura's Seven Entrances - Wikipedia](https://en.wikipedia.org/?curid=17393163)
-- [Kamakura's Seven Entrances - Wikipedia](https://en.wikipedia.org/wiki/Kamakura%27s_Seven_Entrances)
+- [Kamakura's Seven Entrances - Wikipedia](https://en.wikipedia.org/?curid=17393163)
   - Seven passes as main land routes into Kamakura confirmed
   - Term 'Seven Entrances' (Nana-guchi) first appears in Muromachi-period literature confirmed
   - Yoritomo selected Kamakura for defensive terrain confirmed

@@ -32,7 +32,7 @@ The massacre transformed the war's moral landscape. "Remember Fort Pillow" becam
 
 ## Flight Context
 
-Located at 35.63N, 89.85W on the Mississippi River in Lauderdale County, Tennessee, approximately 40nm north of Memphis. Fort Pillow State Historic Park occupies a high bluff on the eastern bank of the Mississippi -- the bluff and river bend are clearly visible from the air. The earthwork fortifications are still traceable in the terrain. Nearby airports: KMEM (Memphis International, 40nm south), KDYR (Dyersburg Regional, 25nm northeast), KUCY (Everett-Stewart Regional at Union City, 40nm north). Best viewed at 2,000-3,000 ft AGL. The Mississippi River bends prominently at this point, and the town of Henning, Tennessee lies a few miles inland to the east.
+Located at 35.63N, 89.85W on the Mississippi River in Lauderdale County, Tennessee, approximately 40nm north of Memphis. Fort Pillow State Historic Park occupies a high bluff on the eastern bank of the Mississippi -- the bluff and river bend are clearly visible from the air. The earthwork fortifications are still traceable in the terrain. Nearby airports: KMEM (Frederick W. Smith International, formerly Memphis International, 40nm south), KDYR (Dyersburg Regional, 25nm northeast), KUCY (Everett-Stewart Regional at Union City, 40nm north). Best viewed at 2,000-3,000 ft AGL. The Mississippi River bends prominently at this point, and the town of Henning, Tennessee lies a few miles inland to the east.
 
 ## Sources
 

@@ -36,7 +36,7 @@ The Haus am Horn stands at 50.974 degrees N, 11.339 degrees E, on the street am 
 
 ## Sources
 
-- [Haus am Horn - Wikipedia](https://en.wikipedia.org/wiki/Haus_am_Horn)
+- [Haus am Horn - Wikipedia](https://en.wikipedia.org/?curid=5668066)
   - Designed by Georg Muche for the 1923 Bauhaus exhibition; first building on Bauhaus principles (confirmed)
   - Inscribed 1996 as part of the Bauhaus and its Sites in Weimar, Dessau and Bernau World Heritage Site (confirmed)
   - Room programme, coal-fired central heating, gas Junkers boiler, gas cooker, corner heating/ventilation shafts (confirmed)

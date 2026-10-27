@@ -3,24 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/h/q/pembrokeshire-coast-national-park-wp/hero.jpg",
-        "filename": "Green Bridge of Wales 1 - Pembrokeshire (2010).jpg",
-        "caption": "Green Bridge of Wales",
-        "alt": "Green Bridge of Wales",
-        "width": 1800,
-        "height": 1150,
+        "path": "_m/g/c/h/q/pembrokeshire-coast-national-park-wp/abereiddy-bay-after-the-2014-w.jpg",
+        "filename": "Abereiddy Bay after the 2014 winter storms.JPG",
+        "caption": "Winter storms and high tides have taken their toll on Abereiddy beach carpark. Panorama of the carpark and beach.",
+        "alt": "Winter storms and high tides have taken their toll on Abereiddy beach carpark. Panorama of the carpark and beach.",
+        "width": 4720,
+        "height": 1216,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "JKMMX",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Bridge_of_Wales_1_-_Pembrokeshire_(2010).jpg",
-        "sourceType": "core",
+        "artist": "Cleopatra Browne",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abereiddy_Bay_after_the_2014_winter_storms.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "pembrokeshire-coast-national-park-wp",
         "sourceGeohash4": "gchq",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Green Bridge of Wales",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/g/c/h/q/pembrokeshire-coast-national-park-wp/abereiddy-bay-after-the-2014-w-medium.webp",
+        "smallPath": "_m/g/c/h/q/pembrokeshire-coast-national-park-wp/abereiddy-bay-after-the-2014-w-small.webp"
       },
       "images": [
         {
@@ -437,7 +434,8 @@
             "Islands of Wales",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-national-park/skomer-island-south-wales-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-national-park/pembrokeshire-coast-national-p.jpg",
@@ -457,7 +455,9 @@
             "Blue Lagoon, Abereiddy",
             "CC-BY-SA-3.0",
             "Extracted images"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-national-park/pembrokeshire-coast-national-p-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-national-park/pembrokeshire-coast-national-p-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret.jpg",
@@ -479,7 +479,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Fujifilm FinePix A330"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret-medium.webp",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/abercastle.jpg",
@@ -501,7 +503,9 @@
             "Images with extracted images",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-TZ3"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/w/pembrokeshire-wk/abercastle-medium.webp",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/abercastle-small.webp"
         }
       ],
       "narration": [

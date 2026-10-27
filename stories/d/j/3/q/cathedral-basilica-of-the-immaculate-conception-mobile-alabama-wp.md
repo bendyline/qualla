@@ -32,7 +32,7 @@ In 1962, Pope John XXIII elevated the cathedral to the rank of minor basilica, r
 
 ## Flight Context
 
-Located at 30.690°N, 88.046°W in downtown Mobile, Alabama. The cathedral's twin towers and classical portico are visible from moderate altitude against the surrounding low-rise downtown. The building is oriented east-west. Best viewed from 1,500-2,500 feet AGL. Look for the large white columned facade facing east, roughly 3 blocks north of the Mobile River waterfront. Nearby airports: KBFM (Mobile Downtown Airport, 2 nm southwest), KMOB (Mobile Regional Airport, 8 nm west). The Boyington Oak at Church Street Graveyard is approximately 0.5 nm to the northwest.
+Located at 30.690°N, 88.046°W in downtown Mobile, Alabama. The cathedral's twin towers and classical portico are visible from moderate altitude against the surrounding low-rise downtown. The building is oriented east-west. Best viewed from 1,500-2,500 feet AGL. Look for the large white columned facade facing east, roughly 3 blocks north of the Mobile River waterfront. Nearby airports: KBFM (Mobile International Airport, formerly Mobile Downtown, 2 nm southwest), KMOB (Mobile Regional Airport, 8 nm west). The Boyington Oak at Church Street Graveyard is approximately 0.5 nm to the northwest.
 
 ## Sources
 

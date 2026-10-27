@@ -37,7 +37,7 @@ The Conciergerie (48.856°N, 2.346°E) sits on the western half of the Ile de la
 ## Sources
 
 - [Conciergerie - Wikipedia](https://en.wikipedia.org/?curid=75712)
-- [Conciergerie - Wikipedia](https://en.wikipedia.org/wiki/Conciergerie)
+- [Conciergerie - Wikipedia](https://en.wikipedia.org/?curid=75712)
   - Marie Antoinette held for 76 days (August 2 to October 16, 1793) confirmed
   - Marie Antoinette was 37 at time of imprisonment confirmed
   - Philip IV transformed the complex circa 1302-1313 confirmed

@@ -3,31 +3,22 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/d/n/z/w/canaan-valley-wp/hero.jpg",
-        "filename": "Blackwater River Canaan Valley Resort State Park.jpg",
-        "caption": "The Blackwater River in its upper course in w:Canaan Valley Resort State Park",
-        "alt": "The Blackwater River in its upper course in w:Canaan Valley Resort State Park",
-        "width": 2856,
-        "height": 2142,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.5",
-        "artist": "Tim Kiser (w:User:Malepheasant)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blackwater_River_Canaan_Valley_Resort_State_Park.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "canaan-valley-wp",
-        "sourceGeohash4": "dnzw",
-        "categories": [
-          "Blackwater River (West Virginia)",
-          "CC-BY-SA-2.5",
-          "Canaan Valley Resort State Park",
-          "Self-published work",
-          "Taken with Kodak EasyShare Z760",
-          "Tucker County, West Virginia"
-        ]
+        "path": "_m/d/n/z/q/tucker-county-west-virginia-wp/hero.jpg",
+        "filename": "CanaanValley2.JPG",
+        "caption": "The southern end of Canaan Valley, Tucker County, West Virginia, USA. Photo taken from atop Harmon Knob.",
+        "alt": "The southern end of Canaan Valley, Tucker County, West Virginia, USA. Photo taken from atop Harmon Knob.",
+        "width": 3197,
+        "height": 1638,
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Valerius Tygart",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:CanaanValley2.JPG",
+        "mediumPath": "_m/d/n/z/q/tucker-county-west-virginia-wp/hero-medium.webp",
+        "smallPath": "_m/d/n/z/q/tucker-county-west-virginia-wp/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/d/n/z/w/canaan-valley-wp/canaannight.jpg",
+          "path": "_m/d/n/z/q/tucker-county-west-virginia-wp/canaannight.jpg",
           "filename": "CanaanNight.jpg",
           "caption": "Reproduction of David Hunter Strother's engraving \"Night in the Canaan\" (Canaan Valley, West Virginia, USA); From \"The Virginia Canaan\", Harper's Magazine, 8:18-36; Dec 1853.",
           "alt": "Reproduction of David Hunter Strother's engraving \"Night in the Canaan\" (Canaan Valley, West Virginia, USA); From \"The Virginia Canaan\", Harper's Magazine, 8:18-36; Dec 1853.",
@@ -51,10 +42,12 @@
             "Valleys of the United States",
             "West Virginia in art",
             "Wetlands of the United States"
-          ]
+          ],
+          "mediumPath": "_m/d/n/z/q/tucker-county-west-virginia-wp/canaannight-medium.webp",
+          "smallPath": "_m/d/n/z/q/tucker-county-west-virginia-wp/canaannight-small.webp"
         },
         {
-          "path": "_m/d/n/z/w/canaan-valley-wp/hero.jpg",
+          "path": "_m/d/n/z/q/tucker-county-west-virginia-wp/hero.jpg",
           "filename": "CanaanValley2.JPG",
           "caption": "The southern end of Canaan Valley, Tucker County, West Virginia, USA. Photo taken from atop Harmon Knob.",
           "alt": "The southern end of Canaan Valley, Tucker County, West Virginia, USA. Photo taken from atop Harmon Knob.",
@@ -72,10 +65,12 @@
             "Canaan Valley National Wildlife Refuge",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/d/n/z/q/tucker-county-west-virginia-wp/hero-medium.webp",
+          "smallPath": "_m/d/n/z/q/tucker-county-west-virginia-wp/hero-small.webp"
         },
         {
-          "path": "_m/d/n/z/w/canaan-valley-wp/canaanvalley3.jpg",
+          "path": "_m/d/n/z/q/davis-west-virginia-wk/canaanvalley3.jpg",
           "filename": "CanaanValley3.JPG",
           "caption": "View of the northern half of Canaan Valley, Tucker County, West Virginia, USA. Photo taken from atop Harmon Knob.",
           "alt": "View of the northern half of Canaan Valley, Tucker County, West Virginia, USA. Photo taken from atop Harmon Knob.",
@@ -93,7 +88,9 @@
             "Canaan Valley National Wildlife Refuge",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/d/n/z/q/davis-west-virginia-wk/canaanvalley3-medium.webp",
+          "smallPath": "_m/d/n/z/q/davis-west-virginia-wk/canaanvalley3-small.webp"
         }
       ],
       "narration": [
@@ -105,8 +102,9 @@
         "_m/d/n/z/w/canaan-valley-wp/dnzw-canaan-valley-why-skiers-showed-up.mp3"
       ],
       "combinedNarration": "_m/d/n/z/w/canaan-valley-wp/dnzw-canaan-valley-combined.mp3",
-      "combinedNarrationBytes": 3622069,
-      "combinedNarrationDuration": 301
+      "combinedNarrationBytes": 3757928,
+      "combinedNarrationDuration": 301,
+      "combinedCover": "_m/d/n/z/w/canaan-valley-wp/dnzw-canaan-valley-combined-cover.jpg"
     }
   }
 }

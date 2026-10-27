@@ -3,25 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/k/4/enard-bay-wp/hero.jpg",
-        "filename": "Ross and Cromarty UK relief location map.jpg",
-        "caption": "Relief map of Ross and Cromarty, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 5.9W\nEast: 3.7W\nNorth: 58.2N\nSouth: 57.0N",
-        "alt": "Relief map of Ross and Cromarty, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 5.9W\nEast: 3.7W\nNorth: 58.2N\nSouth: 57.0N",
-        "width": 2004,
-        "height": 1967,
+        "path": "_m/g/f/k/4/enard-bay-wp/polly-bay-geograph-org-uk-5784.jpg",
+        "filename": "Polly Bay - geograph.org.uk - 5784084.jpg",
+        "caption": "Polly Bay",
+        "alt": "Polly Bay",
+        "width": 3871,
+        "height": 2432,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Nilfanion, created using Ordnance Survey data",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ross_and_Cromarty_UK_relief_location_map.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Gordon Hatton",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Polly_Bay_-_geograph.org.uk_-_5784084.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "enard-bay-wp",
         "sourceGeohash4": "gfk4",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Maps by Nilfanion",
-          "Maps of Highland council area",
-          "Maps of Ross and Cromarty"
-        ]
+          "CC-BY-SA-2.0",
+          "Enard Bay",
+          "Images from Geograph Britain and Ireland"
+        ],
+        "mediumPath": "_m/g/f/k/4/enard-bay-wp/polly-bay-geograph-org-uk-5784-medium.webp",
+        "smallPath": "_m/g/f/k/4/enard-bay-wp/polly-bay-geograph-org-uk-5784-small.webp"
       },
       "images": [
         {
@@ -280,7 +281,8 @@
             "CC-BY-SA-3.0",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/k/6/lochinver-wp/ardvreck-castle-1440x1080-small.webp"
         },
         {
           "path": "_m/g/f/k/6/lochinver-wp/ardvreck-castle-loch-assynt.jpg",
@@ -314,7 +316,9 @@
             "Valued images promoted 2014-12",
             "Valued images sorted by promotion date",
             "WLM-UK 2014 unfiltered 09-17"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/6/lochinver-wp/ardvreck-castle-loch-assynt-medium.webp",
+          "smallPath": "_m/g/f/k/6/lochinver-wp/ardvreck-castle-loch-assynt-small.webp"
         },
         {
           "path": "_m/g/f/k/6/lochinver-wp/lochinver-banner.jpg",
@@ -337,7 +341,9 @@
             "Lochinver",
             "Photographs by Phillip Capper",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/6/lochinver-wp/lochinver-banner-medium.webp",
+          "smallPath": "_m/g/f/k/6/lochinver-wp/lochinver-banner-small.webp"
         },
         {
           "path": "_m/g/f/k/6/lochinver-wp/suilven-glen-oykel-approach-ge.jpg",
@@ -359,7 +365,8 @@
             "Images from Geograph Britain and Ireland missing SDC coordinates of the point of view",
             "Information field template with formatting",
             "Suilven"
-          ]
+          ],
+          "smallPath": "_m/g/f/k/6/lochinver-wp/suilven-glen-oykel-approach-ge-small.webp"
         },
         {
           "path": "_m/g/f/k/1/priest-island-wp/hero.jpg",
@@ -385,7 +392,9 @@
             "Priest Island",
             "Self-published work",
             "Taken with Nikon D90"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/1/priest-island-wp/hero-medium.webp",
+          "smallPath": "_m/g/f/k/1/priest-island-wp/hero-small.webp"
         },
         {
           "path": "_m/g/f/k/3/ullapool-wp/fowler-memorial-clock-ullapool.jpg",
@@ -406,7 +415,9 @@
             "Images from Geograph Britain and Ireland",
             "Scottish Gaelic-language signs in Scotland",
             "Sir John Arthur Fowler Memorial Clock, Ullapool"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/3/ullapool-wp/fowler-memorial-clock-ullapool-medium.webp",
+          "smallPath": "_m/g/f/k/3/ullapool-wp/fowler-memorial-clock-ullapool-small.webp"
         },
         {
           "path": "_m/g/f/k/2/ross-and-cromarty-wp/scotland-glenelg-kylerhea-ferr.jpg",
@@ -435,7 +446,9 @@
             "Self-published work",
             "Taken with Minolta Dimage Xt",
             "User:Wojsyl/Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/2/ross-and-cromarty-wp/scotland-glenelg-kylerhea-ferr-medium.webp",
+          "smallPath": "_m/g/f/k/2/ross-and-cromarty-wp/scotland-glenelg-kylerhea-ferr-small.webp"
         },
         {
           "path": "_m/g/f/h/p/torridon-wp/torridon-village-seen.jpg",
@@ -460,7 +473,8 @@
             "Self-published work",
             "Torridon",
             "User:Wojsyl/Scotland"
-          ]
+          ],
+          "smallPath": "_m/g/f/h/p/torridon-wp/torridon-village-seen-small.webp"
         },
         {
           "path": "_m/g/f/k/2/ross-and-cromarty-wp/scotland-dornie-1.jpg",
@@ -485,7 +499,8 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ5",
             "User:Wojsyl/Scotland"
-          ]
+          ],
+          "smallPath": "_m/g/f/k/2/ross-and-cromarty-wp/scotland-dornie-1-small.webp"
         },
         {
           "path": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j.jpg",
@@ -508,7 +523,9 @@
             "Featured pictures of Scotland",
             "Featured pictures of castles in Scotland",
             "Featured pictures of lakes"
-          ]
+          ],
+          "mediumPath": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j-medium.webp",
+          "smallPath": "_m/g/f/h/s/scottish-highlands-wp/eilean-donan-castle-scotland-j-small.webp"
         },
         {
           "path": "_m/tpc/no/rt/h-/we/north-west-highlands-geopark/2011-schotland-achiltibuie-2-0.png",
@@ -523,7 +540,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2011_Schotland_Achiltibuie_2-06-2011_13-27-05.png",
           "sourceType": "poi",
           "sourceArticleId": "north-west-highlands-geopark",
-          "sourceGeohash4": "gfk2"
+          "sourceGeohash4": "gfk2",
+          "mediumPath": "_m/tpc/no/rt/h-/we/north-west-highlands-geopark/2011-schotland-achiltibuie-2-0-medium.webp",
+          "smallPath": "_m/tpc/no/rt/h-/we/north-west-highlands-geopark/2011-schotland-achiltibuie-2-0-small.webp"
         },
         {
           "path": "_m/g/f/k/2/ross-and-cromarty-wp/cromarty-waterfront-houses.jpg",
@@ -538,7 +557,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cromarty_waterfront_houses.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ross-and-cromarty-wp",
-          "sourceGeohash4": "gfk2"
+          "sourceGeohash4": "gfk2",
+          "mediumPath": "_m/g/f/k/2/ross-and-cromarty-wp/cromarty-waterfront-houses-medium.webp",
+          "smallPath": "_m/g/f/k/2/ross-and-cromarty-wp/cromarty-waterfront-houses-small.webp"
         },
         {
           "path": "_m/g/f/k/2/ross-and-cromarty-wp/ross-and-cromarty-wikivoyage-b.jpg",
@@ -553,7 +574,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ross_and_Cromarty_Wikivoyage_Banner.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ross-and-cromarty-wp",
-          "sourceGeohash4": "gfk2"
+          "sourceGeohash4": "gfk2",
+          "mediumPath": "_m/g/f/k/2/ross-and-cromarty-wp/ross-and-cromarty-wikivoyage-b-medium.webp",
+          "smallPath": "_m/g/f/k/2/ross-and-cromarty-wp/ross-and-cromarty-wikivoyage-b-small.webp"
         },
         {
           "path": "_m/g/f/k/2/ross-and-cromarty-wp/00-1448-gairloch-schottland.jpg",
@@ -568,7 +591,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_1448_Gairloch_-_Schottland.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ross-and-cromarty-wp",
-          "sourceGeohash4": "gfk2"
+          "sourceGeohash4": "gfk2",
+          "mediumPath": "_m/g/f/k/2/ross-and-cromarty-wp/00-1448-gairloch-schottland-medium.webp",
+          "smallPath": "_m/g/f/k/2/ross-and-cromarty-wp/00-1448-gairloch-schottland-small.webp"
         },
         {
           "path": "_m/g/f/k/2/ross-and-cromarty-wp/plockton-waterfront-geograph-o.jpg",
@@ -583,7 +608,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plockton_waterfront_-_geograph.org.uk_-_3694450.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ross-and-cromarty-wp",
-          "sourceGeohash4": "gfk2"
+          "sourceGeohash4": "gfk2",
+          "smallPath": "_m/g/f/k/2/ross-and-cromarty-wp/plockton-waterfront-geograph-o-small.webp"
         },
         {
           "path": "_m/g/f/k/2/ross-and-cromarty-wp/high-street-invergordon-geogra.jpg",
@@ -598,7 +624,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:High_Street,_Invergordon_(geograph_5070238).jpg",
           "sourceType": "poi",
           "sourceArticleId": "ross-and-cromarty-wp",
-          "sourceGeohash4": "gfk2"
+          "sourceGeohash4": "gfk2",
+          "smallPath": "_m/g/f/k/2/ross-and-cromarty-wp/high-street-invergordon-geogra-small.webp"
         }
       ],
       "narration": [

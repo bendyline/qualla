@@ -47,7 +47,7 @@ Located at 29.40S, 25.02E in the Free State province, approximately 80 km southe
 ## Sources
 
 - [Koffiefontein mine - Wikipedia](https://en.wikipedia.org/?curid=8478743)
-- [Koffiefontein mine - Wikipedia (fact check)](https://en.wikipedia.org/wiki/Koffiefontein_mine)
+- [Koffiefontein mine - Wikipedia (fact check)](https://en.wikipedia.org/?curid=8478743)
   - Pipe discovered 1870 confirmed
   - Located approximately 80km from Kimberley confirmed
   - Total yield 7.3 million carats confirmed

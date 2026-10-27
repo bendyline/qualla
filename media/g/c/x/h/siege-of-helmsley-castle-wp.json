@@ -26,7 +26,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/x/h/siege-of-helmsley-castle-wp/relief-map-north-yorks.jpg",
+          "path": "_m/g/c/x/4/battle-of-marston-moor-wp/relief-map-north-yorks.jpg",
           "filename": "North Yorkshire UK relief location map.jpg",
           "caption": "Relief map of North Yorkshire, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 2.60W\nEast: 0.10W\nNorth: 54.67N\nSouth: 53.60N",
           "alt": "Relief map of North Yorkshire, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 2.60W\nEast: 0.10W\nNorth: 54.67N\nSouth: 53.60N",
@@ -45,7 +45,9 @@
             "Maps of North Yorkshire",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/x/4/battle-of-marston-moor-wp/relief-map-north-yorks-medium.webp",
+          "smallPath": "_m/g/c/x/4/battle-of-marston-moor-wp/relief-map-north-yorks-small.webp"
         }
       ],
       "narration": [
@@ -57,8 +59,9 @@
         "_m/g/c/x/h/siege-of-helmsley-castle-wp/gcxh-siege-of-helmsley-castle-relief-failure-surrender.mp3"
       ],
       "combinedNarration": "_m/g/c/x/h/siege-of-helmsley-castle-wp/gcxh-siege-of-helmsley-castle-combined.mp3",
-      "combinedNarrationBytes": 3388229,
-      "combinedNarrationDuration": 282
+      "combinedNarrationBytes": 3476502,
+      "combinedNarrationDuration": 282,
+      "combinedCover": "_m/g/c/x/h/siege-of-helmsley-castle-wp/gcxh-siege-of-helmsley-castle-combined-cover.jpg"
     }
   }
 }

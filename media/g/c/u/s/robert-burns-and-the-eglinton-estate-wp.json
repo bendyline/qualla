@@ -3,30 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/u/s/robert-burns-and-the-eglinton-estate-wp/hero.jpg",
-        "filename": "Drukken Cairn Plaque.JPG",
-        "caption": "The plaque commemorating Robert Burns and Richard Brown's walks near the Drukken Steps / Saint Bryde's Well near Eglinton Country Park in Irvine, North Ayrshire, Scotland.",
-        "alt": "The plaque commemorating Robert Burns and Richard Brown's walks near the Drukken Steps / Saint Bryde's Well near Eglinton Country Park in Irvine, North Ayrshire, Scotland.",
-        "width": 2288,
-        "height": 1712,
+        "path": "_m/g/c/u/s/robert-burns-and-the-eglinton-estate-wp/coilsfield-house-south.jpg",
+        "filename": "Coilsfield House, Ayrshire, 1840.jpg",
+        "caption": "Coilsfield House, South Ayrshire, Scotland. Now demolished",
+        "alt": "Coilsfield House, South Ayrshire, Scotland. Now demolished",
+        "width": 3232,
+        "height": 2064,
         "mimeType": "image/jpeg",
         "license": "Public domain",
-        "artist": "Rosser1954 Roger Griffith",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Drukken_Cairn_Plaque.JPG",
+        "artist": "Roger Griffith",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coilsfield_House,_Ayrshire,_1840.jpg",
         "sourceType": "core",
         "sourceArticleId": "robert-burns-and-the-eglinton-estate-wp",
         "sourceGeohash4": "gcus",
-        "categories": [
-          "Drukken Steps",
-          "Eglinton Country Park, Scotland",
-          "Irvine Burns Club",
-          "Monuments and memorials to Robert Burns",
-          "PD-self",
-          "Plaques in North Ayrshire",
-          "Plaques to Robert Burns in the United Kingdom",
-          "Self-published work",
-          "Taken with Nikon Coolpix 4600"
-        ]
+        "mediumPath": "_m/g/c/u/s/robert-burns-and-the-eglinton-estate-wp/coilsfield-house-south-medium.webp",
+        "smallPath": "_m/g/c/u/s/robert-burns-and-the-eglinton-estate-wp/coilsfield-house-south-small.webp"
       },
       "images": [
         {
@@ -80,7 +71,7 @@
           "smallPath": "_m/g/c/u/s/robert-burns-and-the-eglinton-estate-wp/drucken-steps-across-r-small.webp"
         },
         {
-          "path": "_m/g/c/u/s/robert-burns-and-the-eglinton-estate-wp/en-robert-burns-source.jpg",
+          "path": "_m/g/c/u/e/burns-cottage-wp/en-robert-burns-source.jpg",
           "filename": "Robert burns.jpg",
           "caption": "en:Robert Burns\nSource: en:Image:Robert burns.jpg\nReplacement of existing commons image with higher res version",
           "alt": "en:Robert Burns\nSource: en:Image:Robert burns.jpg\nReplacement of existing commons image with higher res version",
@@ -98,10 +89,11 @@
             "PD-Art (PD-old-100)",
             "Robert Burns by Alexander Nasmyth (1787)",
             "Template Unknown (source)"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/e/burns-cottage-wp/en-robert-burns-source-small.webp"
         },
         {
-          "path": "_m/g/c/u/s/robert-burns-and-the-eglinton-estate-wp/drukken-cairn-saint-bryde-s-we.jpg",
+          "path": "_m/g/c/u/s/irvine-burns-club-wp/drukken-cairn-saint-bryde-s-we.jpg",
           "filename": "Drukken Cairn - Saint Bryde's Well.JPG",
           "caption": "Cairn near the site of the Drukken Steps - Saint Bryde's Well. Irvine, North Ayrshire, Scotland.",
           "alt": "Cairn near the site of the Drukken Steps - Saint Bryde's Well. Irvine, North Ayrshire, Scotland.",
@@ -124,7 +116,8 @@
             "Self-published work",
             "Taken with Nikon Coolpix 4600",
             "United Kingdom photographs taken on 2009-02-23"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/s/irvine-burns-club-wp/drukken-cairn-saint-bryde-s-we-small.webp"
         },
         {
           "path": "_m/g/c/u/s/robert-burns-and-the-eglinton-estate-wp/ruins-higgins-house-ol.jpg",
@@ -398,7 +391,7 @@
           "smallPath": "_m/g/c/u/s/robert-burns-and-the-eglinton-estate-wp/old-drivway-fergushill-small.webp"
         },
         {
-          "path": "_m/g/c/u/s/robert-burns-and-the-eglinton-estate-wp/aitken-s-1823-map-ardr.jpg",
+          "path": "_m/g/c/u/s/eglinton-castle-wp/aitken-s-1823-map-ardr.jpg",
           "filename": "Aitken map of fergushill.jpg",
           "caption": "Aitken's 1823 map of Ardrossan, Stevenston and Saltcoats",
           "alt": "Aitken's 1823 map of Ardrossan, Stevenston and Saltcoats",
@@ -410,7 +403,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aitken_map_of_fergushill.jpg",
           "sourceType": "core",
           "sourceArticleId": "robert-burns-and-the-eglinton-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/eglinton-castle-wp/aitken-s-1823-map-ardr-medium.webp",
+          "smallPath": "_m/g/c/u/s/eglinton-castle-wp/aitken-s-1823-map-ardr-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-railway-tunnel.jpg",
@@ -432,7 +427,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon Coolpix 4600"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-railway-tunnel-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-railway-tunnel-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/ladyha-colliery-ruins.jpg",
@@ -455,7 +452,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon Coolpix 4600"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/ladyha-colliery-ruins-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-colliery-loading-dock.jpg",
@@ -476,7 +474,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon Coolpix 4600"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-colliery-loading-dock-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-colliery-loading-dock-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-stable-ruins-1.jpg",
@@ -497,7 +497,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon Coolpix 4600"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-stable-ruins-1-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-stable-ruins-1-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-tunnel-roof.jpg",
@@ -518,7 +520,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon Coolpix 4600"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-tunnel-roof-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-tunnel-roof-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-tunnel-ladyha-portal.jpg",
@@ -541,7 +545,9 @@
             "Self-published work",
             "Semi-open gates",
             "Taken with Nikon Coolpix 4600"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-tunnel-ladyha-portal-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-tunnel-ladyha-portal-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-tunnel-ladyha-portal-.jpg",
@@ -564,7 +570,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon Coolpix 4600"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-tunnel-ladyha-portal--medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-tunnel-ladyha-portal--small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/corsehill-old-railway-1.jpg",
@@ -587,7 +595,9 @@
             "Self-published work",
             "Taken with Nikon Coolpix 4600",
             "United Kingdom photographs taken on 2007-12-18"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/corsehill-old-railway-1-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/corsehill-old-railway-1-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/millburn-cottage-window.jpg",
@@ -610,7 +620,8 @@
             "Self-published work",
             "Taken with Nikon Coolpix 4600",
             "United Kingdom photographs taken on 2007-12-21"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/millburn-cottage-window-small.webp"
         },
         {
           "path": "_m/g/c/u/s/kilwinning-abbey-wp/detail-window-surround.jpg",
@@ -630,7 +641,9 @@
             "Frost",
             "Kilwinning Abbey",
             "Millburn railway cottage"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/s/kilwinning-abbey-wp/detail-window-surround-medium.webp",
+          "smallPath": "_m/g/c/u/s/kilwinning-abbey-wp/detail-window-surround-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/lugton-weir-at-fergushill.jpg",
@@ -645,7 +658,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lugton_weir_at_Fergushill.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/lugton-weir-at-fergushill-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/lugton-weir-at-fergushill-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-settling-pond.jpg",
@@ -660,7 +675,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eglinton_settling_pond.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-settling-pond-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eglinton-settling-pond-small.webp"
         },
         {
           "path": "_m/g/c/u/s/eglinton-castle-wp/eglinton-castle-irvine.jpg",
@@ -675,7 +692,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eglinton_Castle,_Irvine,_circa_1870.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "eglinton-castle-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/eglinton-castle-wp/eglinton-castle-irvine-medium.webp",
+          "smallPath": "_m/g/c/u/s/eglinton-castle-wp/eglinton-castle-irvine-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/ecp-colliery-tunnel.jpg",
@@ -690,7 +709,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:ECP_colliery_tunnel.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/ecp-colliery-tunnel-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/ecp-colliery-tunnel-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/selena-s-tree.jpg",
@@ -705,7 +726,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Selena%27s_Tree.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/selena-s-tree-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/new-town-trail-kilwinning.jpg",
@@ -720,7 +742,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Town_Trail_Kilwinning.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/new-town-trail-kilwinning-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/new-town-trail-kilwinning-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/lugton-water-and-garnock-confl.jpg",
@@ -735,7 +759,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lugton_Water_and_Garnock_Confluence.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/lugton-water-and-garnock-confl-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/lugton-water-and-garnock-confl-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/cairnmount-sourlie.jpg",
@@ -750,7 +776,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairnmount_%26_Sourlie.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/cairnmount-sourlie-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/cairnmount-sourlie-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/susanna-montgomery-nee-kennedy.jpg",
@@ -765,7 +793,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Susanna_Montgomery_nee_Kennedy.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/susanna-montgomery-nee-kennedy-small.webp"
         },
         {
           "path": "_m/g/c/u/s/irvine-burns-club-wp/drukken-steps-irvine-burns-wal.jpg",
@@ -780,7 +809,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Drukken_Steps,_Irvine,_Burns_Walk.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "irvine-burns-club-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/irvine-burns-club-wp/drukken-steps-irvine-burns-wal-medium.webp",
+          "smallPath": "_m/g/c/u/s/irvine-burns-club-wp/drukken-steps-irvine-burns-wal-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/cairnmount-stones-at-sourlie.jpg",
@@ -795,7 +826,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairnmount_stones_at_Sourlie.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/cairnmount-stones-at-sourlie-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/cairnmount-stones-at-sourlie-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/fergushill-no-22-pit-diamond.jpg",
@@ -810,7 +843,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fergushill_No_22_pit,_Diamond.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/fergushill-no-22-pit-diamond-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/fergushill-no-22-pit-diamond-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/holm-pit-no-23-north-millburn.jpg",
@@ -825,7 +860,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Holm_pit_no_23,_North_Millburn.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/holm-pit-no-23-north-millburn-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/holm-pit-no-23-north-millburn-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/ladyha-ha-band-haulage-structu.jpg",
@@ -840,7 +877,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ladyha_Ha%27_band_haulage_structure.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/ladyha-ha-band-haulage-structu-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/ladyha-ha-band-haulage-structu-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/ladyha-no-2-waggon-traverser.jpg",
@@ -855,7 +894,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ladyha_No.2_waggon_traverser.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/ladyha-no-2-waggon-traverser-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/moncur-pits-4-5.jpg",
@@ -870,7 +910,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moncur_Pits_4_%26_5.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/moncur-pits-4-5-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/moncur-pits-4-5-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/montgomerie-park-development.jpg",
@@ -885,7 +927,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Montgomerie_Park_development.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/montgomerie-park-development-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/montgomerie-park-development-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/site-of-old-sourlie-opencast.jpg",
@@ -900,7 +944,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Site_of_old_Sourlie_opencast.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/site-of-old-sourlie-opencast-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/site-of-old-sourlie-opencast-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eaglesham-or-orry-cotton-mill-.jpg",
@@ -915,7 +961,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eaglesham_or_Orry_Cotton_Mill_ruins.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eaglesham-or-orry-cotton-mill--medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/eaglesham-or-orry-cotton-mill--small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/wheel-pit-eaglesham-green.jpg",
@@ -930,7 +978,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wheel_pit_-_Eaglesham_green.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/wheel-pit-eaglesham-green-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/wheel-pit-eaglesham-green-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/fergushill-28-pit-bing.jpg",
@@ -945,7 +995,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fergushill_28_pit_bing.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/fergushill-28-pit-bing-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/fergushill-28-pit-bing-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/bing-at-fergushill-26-pit.jpg",
@@ -960,7 +1012,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bing_at_Fergushill_26_pit.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/bing-at-fergushill-26-pit-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/bing-at-fergushill-26-pit-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/doura-burn-culvert-sourlie.jpg",
@@ -975,7 +1029,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doura_Burn_culvert,_Sourlie.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/doura-burn-culvert-sourlie-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/kenneth-s-castle-kilwinning.jpg",
@@ -990,7 +1045,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kenneth%27s_Castle,_Kilwinning.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/kenneth-s-castle-kilwinning-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/kenneth-s-castle-kilwinning-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/doura-woods.jpg",
@@ -1005,7 +1062,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doura_Woods.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/doura-woods-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/doura-woods-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/sourlie-open-cast-mine.jpg",
@@ -1020,7 +1079,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sourlie_Open_Cast_mine.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/sourlie-open-cast-mine-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/sourlie-open-cast-mine-small.webp"
         },
         {
           "path": "_m/g/c/u/s/eglinton-castle-wp/old-offices-coach-hous.jpg",
@@ -1035,7 +1096,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eglintonoffices.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "eglinton-castle-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/eglinton-castle-wp/old-offices-coach-hous-medium.webp",
+          "smallPath": "_m/g/c/u/s/eglinton-castle-wp/old-offices-coach-hous-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/fergushilllugtonwater.jpg",
@@ -1050,7 +1113,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fergushilllugtonwater.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/fergushilllugtonwater-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/fergushillwaggonway1.jpg",
@@ -1065,7 +1129,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fergushillwaggonway1.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "mediumPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/fergushillwaggonway1-medium.webp",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/fergushillwaggonway1-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/millburn-drive-waggonway-cours.jpg",
@@ -1080,7 +1146,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Millburn_Drive_waggonway_course.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/millburn-drive-waggonway-cours-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/millburn-drive-house-gable-at-.jpg",
@@ -1095,7 +1162,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Millburn_drive_house_gable_at_far_end_detail.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/millburn-drive-house-gable-at--small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/millburn-house-reused-abbey-st.jpg",
@@ -1110,7 +1178,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Millburn_house_reused_abbey_stone.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/millburn-house-reused-abbey-st-small.webp"
         },
         {
           "path": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/waggonway-rail.jpg",
@@ -1125,7 +1194,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waggonway_Rail.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "industry-and-the-eglinton-castle-estate-wp",
-          "sourceGeohash4": "gcus"
+          "sourceGeohash4": "gcus",
+          "smallPath": "_m/g/c/u/s/industry-and-the-eglinton-castle-estate-wp/waggonway-rail-small.webp"
         }
       ],
       "narration": [

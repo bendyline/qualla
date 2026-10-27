@@ -3,30 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/q/m/bremen-wk/hero.jpg",
-        "filename": "Flughafen Bremen 1.JPG",
-        "caption": "en:Bremen Airport",
-        "alt": "en:Bremen Airport",
-        "width": 2880,
-        "height": 2160,
+        "path": "_m/u/1/q/m/bremen-wk/antique-bremer-kolonialhaus-co.jpg",
+        "filename": "Antique Bremer Kolonialhaus coffee tin (26585128270).jpg",
+        "caption": "Berlin 2014",
+        "alt": "Berlin 2014",
+        "width": 5472,
+        "height": 3648,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.5",
-        "artist": "Rami Tarawneh",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flughafen_Bremen_1.JPG",
-        "sourceType": "core",
+        "license": "CC BY 2.0",
+        "artist": "Thomas Quine",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antique_Bremer_Kolonialhaus_coffee_tin_(26585128270).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "bremen-wk",
         "sourceGeohash4": "u1qm",
         "categories": [
-          "2006 at Bremen Airport",
-          "CC-BY-SA-2.5",
-          "July 2006 in Bremen (state)",
-          "Self-published work",
-          "Taken with Sanyo Xacti VPC-S1"
-        ]
+          "Bremen",
+          "CC-BY-2.0",
+          "Cafés",
+          "Domäne Dahlem",
+          "Flickr images reviewed by FlickreviewR",
+          "Photographs by Thomas Quine"
+        ],
+        "mediumPath": "_m/u/1/q/m/bremen-wk/antique-bremer-kolonialhaus-co-medium.webp",
+        "smallPath": "_m/u/1/q/m/bremen-wk/antique-bremer-kolonialhaus-co-small.webp"
       },
       "images": [
         {
-          "path": "_m/u/1/q/m/bremen-wk/bremen-rathaus.jpg",
+          "path": "_m/u/1/q/m/bremen-wp/bremen-rathaus.jpg",
           "filename": "Bremen-rathaus.jpg",
           "caption": "Town hall in Bremen (Germany) with the flag of the Federal Republic of Germany and the flag of the Free Hanseatic City of Bremen.",
           "alt": "Town hall in Bremen (Germany) with the flag of the Federal Republic of Germany and the flag of the Free Hanseatic City of Bremen.",
@@ -50,7 +53,8 @@
             "Photographs taken on 2004-05-11",
             "Self-published work",
             "Town hall of Bremen"
-          ]
+          ],
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremen-rathaus-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wk/schnoor-part-city-brem.jpg",
@@ -75,7 +79,7 @@
           "smallPath": "_m/u/1/q/m/bremen-wk/schnoor-part-city-brem-small.webp"
         },
         {
-          "path": "_m/u/1/q/m/bremen-wk/bremen-uebersee-museum-1.jpg",
+          "path": "_m/u/1/q/m/bremen-wp/bremen-uebersee-museum-1.jpg",
           "filename": "Bremen-Uebersee-Museum 1.jpg",
           "caption": "Bremen, Übersee-Museum\nThe object shown is a protected cultural monument in the Free Hanseatic City of Bremen with the number 0101  registered with the State Office for Monument Preservation. → Datenbankeintrag",
           "alt": "Bremen, Übersee-Museum\nThe object shown is a protected cultural monument in the Free Hanseatic City of Bremen with the number 0101  registered with the State Office for Monument Preservation. → Datenbankeintrag",
@@ -94,7 +98,8 @@
             "Files with coordinates missing SDC location of creation (53° N, 8° E)",
             "Self-published work",
             "Übersee-Museum Bremen (building)"
-          ]
+          ],
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremen-uebersee-museum-1-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wk/detail-roland-auf-dem.jpg",
@@ -114,10 +119,11 @@
             "CC-BY-SA-2.0-DE",
             "Files with coordinates missing SDC location of creation (53° N, 8° E)",
             "Roland statue of Bremen"
-          ]
+          ],
+          "smallPath": "_m/u/1/q/m/bremen-wk/detail-roland-auf-dem-small.webp"
         },
         {
-          "path": "_m/u/1/q/m/bremen-wk/boettcherstrasse04.jpg",
+          "path": "_m/u/1/q/m/bremen-wp/boettcherstrasse04.jpg",
           "filename": "Boettcherstrasse04.jpg",
           "caption": "Böttcherstraße Bremen: Blick vom Paula Becker-Modersohn Haus auf Haus St. Petrus\nThe object shown is a protected cultural monument in the Free Hanseatic City of Bremen with the number 1499,T  registered with the State Office for Monument Preservation. → Datenbankeintrag",
           "alt": "Böttcherstraße Bremen: Blick vom Paula Becker-Modersohn Haus auf Haus St. Petrus\nThe object shown is a protected cultural monument in the Free Hanseatic City of Bremen with the number 1499,T  registered with the State Office for Monument Preservation. → Datenbankeintrag",
@@ -140,10 +146,11 @@
             "Paula Modersohn-Becker Museum",
             "Self-published work",
             "St. Petrus House"
-          ]
+          ],
+          "smallPath": "_m/u/1/q/m/bremen-wp/boettcherstrasse04-small.webp"
         },
         {
-          "path": "_m/u/1/q/m/bremen-wk/bottcherstra-e3.jpg",
+          "path": "_m/u/1/q/m/bremen-wp/bottcherstra-e3.jpg",
           "filename": "Böttcherstraße3.jpg",
           "caption": "Blick in die Böttcherstraße vom unteren Ende her",
           "alt": "Blick in die Böttcherstraße vom unteren Ende her",
@@ -162,10 +169,12 @@
             "PD-self",
             "Robinson Crusoe Haus",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/q/m/bremen-wp/bottcherstra-e3-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/bottcherstra-e3-small.webp"
         },
         {
-          "path": "_m/u/1/q/m/bremen-wk/061011-120443-uberseestadt-spe.jpg",
+          "path": "_m/u/1/q/m/bremen-wp/061011-120443-uberseestadt-spe.jpg",
           "filename": "061011-120443-Überseestadt-SpeicherXI.jpg",
           "caption": "Bremen, Überseestadt, Speicher XI\n\nThe object shown is a protected cultural monument in the Free Hanseatic City of Bremen with the number 0324  registered with the State Office for Monument Preservation. → Datenbankeintrag",
           "alt": "Bremen, Überseestadt, Speicher XI\n\nThe object shown is a protected cultural monument in the Free Hanseatic City of Bremen with the number 0324  registered with the State Office for Monument Preservation. → Datenbankeintrag",
@@ -180,10 +189,12 @@
           "sourceGeohash4": "u1qm",
           "categories": [
             "2006 in Bremen"
-          ]
+          ],
+          "mediumPath": "_m/u/1/q/m/bremen-wp/061011-120443-uberseestadt-spe-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/061011-120443-uberseestadt-spe-small.webp"
         },
         {
-          "path": "_m/u/1/q/m/bremen-wk/bremen-hbf-pano.jpg",
+          "path": "_m/u/1/q/m/bremen-wp/bremen-hbf-pano.jpg",
           "filename": "Bremen Hbf pano.jpg",
           "caption": "Main station in Bremen, Germany",
           "alt": "Main station in Bremen, Germany",
@@ -195,7 +206,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bremen_Hbf_pano.jpg",
           "sourceType": "core",
           "sourceArticleId": "bremen-wk",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/bremen-hbf-pano-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremen-hbf-pano-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wk/der-eingang-zum-bremer.jpg",
@@ -263,7 +276,7 @@
           "smallPath": "_m/u/1/q/m/bremen-wk/neues-museum-weserburg-small.webp"
         },
         {
-          "path": "_m/u/1/q/m/bremen-wk/bremer-dom-mit-bismarck.jpg",
+          "path": "_m/u/1/q/m/bremen-wp/bremer-dom-mit-bismarck.jpg",
           "filename": "Bremer Dom mit Bismarck.jpg",
           "caption": "Bremer St. Petri Dom mit Bismarck-Denkmal\nDer Dom is a protected cultural monument in the Free Hanseatic City of Bremen with the number 0314  registered with the State Office for Monument Preservation. → Datenbankeintrag",
           "alt": "Bremer St. Petri Dom mit Bismarck-Denkmal\nDer Dom is a protected cultural monument in the Free Hanseatic City of Bremen with the number 0314  registered with the State Office for Monument Preservation. → Datenbankeintrag",
@@ -275,7 +288,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bremer_Dom_mit_Bismarck.jpg",
           "sourceType": "core",
           "sourceArticleId": "bremen-wk",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremer-dom-mit-bismarck-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wk/bremer-rathaus-im-hint.jpg",
@@ -361,7 +375,7 @@
           "smallPath": "_m/u/1/q/m/bremen-wk/kunsthalle-bremen-am-w-small.webp"
         },
         {
-          "path": "_m/u/1/q/m/bremen-wk/2012-08-08-fotoflug-bremen-ers.jpg",
+          "path": "_m/u/1/q/m/bremen-wp/2012-08-08-fotoflug-bremen-ers.jpg",
           "filename": "2012-08-08-fotoflug-bremen erster flug 0580.JPG",
           "caption": "de:Unisee Fotoflug Bremen; Flughöhe 500 m; Uni Bremen bis Abfahrt Überseehäfen",
           "alt": "de:Unisee Fotoflug Bremen; Flughöhe 500 m; Uni Bremen bis Abfahrt Überseehäfen",
@@ -373,10 +387,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2012-08-08-fotoflug-bremen_erster_flug_0580.JPG",
           "sourceType": "core",
           "sourceArticleId": "bremen-wk",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/2012-08-08-fotoflug-bremen-ers-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/2012-08-08-fotoflug-bremen-ers-small.webp"
         },
         {
-          "path": "_m/u/1/q/m/bremen-wk/bremen01.jpg",
+          "path": "_m/u/1/q/m/bremen-wp/bremen01.jpg",
           "filename": "Bremen01.jpg",
           "caption": "The Historic centre around the \"Altmarkt\" (old market) in Bremen, including the \"Roland\"",
           "alt": "The Historic centre around the \"Altmarkt\" (old market) in Bremen, including the \"Roland\"",
@@ -388,10 +404,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bremen01.jpg",
           "sourceType": "core",
           "sourceArticleId": "bremen-wk",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremen01-small.webp"
         },
         {
-          "path": "_m/u/1/q/m/bremen-wk/bremen-town-musicians-germany-.jpg",
+          "path": "_m/u/1/q/m/bremen-wp/bremen-town-musicians-germany-.jpg",
           "filename": "Bremen Town Musicians, Germany (6919467998).jpg",
           "caption": "Bremen Town Musicians, Germany",
           "alt": "Bremen Town Musicians, Germany",
@@ -403,7 +420,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bremen_Town_Musicians,_Germany_(6919467998).jpg",
           "sourceType": "core",
           "sourceArticleId": "bremen-wk",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/bremen-town-musicians-germany--medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremen-town-musicians-germany--small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wk/das-universum-science.jpg",
@@ -423,7 +442,7 @@
           "smallPath": "_m/u/1/q/m/bremen-wk/das-universum-science-small.webp"
         },
         {
-          "path": "_m/u/1/q/m/bremen-wk/2026bremen.png",
+          "path": "_m/u/1/q/m/bremen-wp/2026bremen.png",
           "filename": "2026Bremen.png",
           "caption": "Tram Bremen Germany",
           "alt": "Tram Bremen Germany",
@@ -435,7 +454,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2026Bremen.png",
           "sourceType": "core",
           "sourceArticleId": "bremen-wk",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/2026bremen-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/2026bremen-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wk/bremen-weser-summer-27.jpg",
@@ -852,7 +873,9 @@
             "PD-self",
             "Schlachte",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/q/m/bremen-wp/bremen-schlachte-von-teerhofbr-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremen-schlachte-von-teerhofbr-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/weserhb2.jpg",
@@ -875,7 +898,8 @@
             "GFDL",
             "License migration completed",
             "Unknown date"
-          ]
+          ],
+          "smallPath": "_m/u/1/q/m/bremen-wp/weserhb2-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/baumwollboersebremen-1.jpg",
@@ -895,7 +919,8 @@
             "2006 in Bremen",
             "Bremer Baumwollboerse",
             "CC-BY-SA-2.0-DE"
-          ]
+          ],
+          "smallPath": "_m/u/1/q/m/bremen-wp/baumwollboersebremen-1-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/2012-08-08-fotoflug-bremen-zwe.jpg",
@@ -910,7 +935,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2012-08-08-fotoflug-bremen_zweiter_flug_0434.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "bremen-wp",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/2012-08-08-fotoflug-bremen-zwe-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/2012-08-08-fotoflug-bremen-zwe-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/hb-2016-0607-photo24-park-hote.jpg",
@@ -925,7 +952,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:HB_2016-0607_photo24_Park-Hotel.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bremen-wp",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/hb-2016-0607-photo24-park-hote-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/hb-2016-0607-photo24-park-hote-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/00-1389-hansestadt-bremen.jpg",
@@ -940,7 +969,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_1389_Hansestadt_Bremen.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bremen-wp",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/00-1389-hansestadt-bremen-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/00-1389-hansestadt-bremen-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/00-1383-hansestadt-bremen.jpg",
@@ -955,7 +986,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_1383_Hansestadt_Bremen.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bremen-wp",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/00-1383-hansestadt-bremen-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/00-1383-hansestadt-bremen-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/bremen-st-petri-dom-2021-6462.jpg",
@@ -970,7 +1003,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bremen,_St.-Petri-Dom_--_2021_--_6462.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bremen-wp",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/bremen-st-petri-dom-2021-6462-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremen-st-petri-dom-2021-6462-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/mzh-winkel.jpg",
@@ -985,7 +1020,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:MZH-Winkel.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bremen-wp",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/mzh-winkel-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/mzh-winkel-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/schnoor-bremen-msu-2024-6063.jpg",
@@ -1000,7 +1037,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schnoor-Bremen-msu-2024-6063-.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bremen-wp",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/schnoor-bremen-msu-2024-6063-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/schnoor-bremen-msu-2024-6063-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/bremen-rathaus-roland-und-dom-.jpg",
@@ -1015,7 +1054,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bremen_Rathaus,_Roland_und_Dom-blaue-Stunde-2024-msu-8259-.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "bremen-wp",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/bremen-rathaus-roland-und-dom--medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremen-rathaus-roland-und-dom--small.webp"
         },
         {
           "path": "_m/tpc/_ho/br/em/en/history-of-bremen/bederkesa-burg-3.jpg",
@@ -1039,7 +1080,8 @@
             "Photographs taken on 2005-08-28",
             "Self-published work",
             "Taken with Pentax Optio 33L"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/br/em/en/history-of-bremen/bederkesa-burg-3-small.webp"
         },
         {
           "path": "_m/tpc/_ho/br/em/en/history-of-bremen/landgebiete-der-freien-stadt-b.png",
@@ -1054,7 +1096,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Landgebiete_der_Freien_Stadt_Bremen.png",
           "sourceType": "history",
           "sourceArticleId": "history-of-bremen",
-          "sourceGeohash4": "tpc/_ho/br/em/en"
+          "sourceGeohash4": "tpc/_ho/br/em/en",
+          "smallPath": "_m/tpc/_ho/br/em/en/history-of-bremen/landgebiete-der-freien-stadt-b-small.webp"
         },
         {
           "path": "_m/tpc/_ho/br/em/en/history-of-bremen/bremer-staatsgebiet-seit-1800.png",
@@ -1069,7 +1112,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bremer_Staatsgebiet_seit_1800.png",
           "sourceType": "history",
           "sourceArticleId": "history-of-bremen",
-          "sourceGeohash4": "tpc/_ho/br/em/en"
+          "sourceGeohash4": "tpc/_ho/br/em/en",
+          "smallPath": "_m/tpc/_ho/br/em/en/history-of-bremen/bremer-staatsgebiet-seit-1800-small.webp"
         },
         {
           "path": "_m/tpc/_ho/br/em/en/history-of-bremen/reichsstadt-bremen-territorium.png",
@@ -1084,7 +1128,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reichsstadt_Bremen_Territorium_-_F.A._Schr%C3%A4mbl,_1797.png",
           "sourceType": "history",
           "sourceArticleId": "history-of-bremen",
-          "sourceGeohash4": "tpc/_ho/br/em/en"
+          "sourceGeohash4": "tpc/_ho/br/em/en",
+          "mediumPath": "_m/tpc/_ho/br/em/en/history-of-bremen/reichsstadt-bremen-territorium-medium.webp",
+          "smallPath": "_m/tpc/_ho/br/em/en/history-of-bremen/reichsstadt-bremen-territorium-small.webp"
         }
       ],
       "narration": [

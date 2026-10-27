@@ -3,24 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/k/d/k/x/transkei-wp/hero.png",
-        "filename": "South Africa topo continent.png",
-        "caption": "Topographical map of South Africa, continent version",
-        "alt": "Topographical map of South Africa, continent version",
-        "width": 3658,
-        "height": 2301,
-        "mimeType": "image/png",
-        "license": "CC BY 2.5",
-        "artist": "SFC9394",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:South_Africa_topo_continent.png",
-        "sourceType": "core",
+        "path": "_m/k/d/k/x/transkei-wp/hole-in-the-wall.jpg",
+        "filename": "Hole in the Wall.jpg",
+        "caption": "Hole in the Wall in Transkei, South Africa",
+        "alt": "Hole in the Wall in Transkei, South Africa",
+        "width": 10720,
+        "height": 2332,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Bernard303",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hole_in_the_Wall.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "transkei-wp",
         "sourceGeohash4": "kdkx",
         "categories": [
-          "Blank maps of South Africa",
-          "CC-BY-2.5",
-          "Topographic maps of South Africa"
-        ]
+          "CC-BY-SA-4.0",
+          "Hole-in-the-Wall, Eastern Cape",
+          "Self-published work",
+          "South Africa in the 2010s",
+          "Transkei"
+        ],
+        "mediumPath": "_m/k/d/k/x/transkei-wp/hole-in-the-wall-medium.webp",
+        "smallPath": "_m/k/d/k/x/transkei-wp/hole-in-the-wall-small.webp"
       },
       "images": [
         {
@@ -435,7 +439,8 @@
             "East London Town Hall",
             "PD-user",
             "Taken with Fujifilm FinePix S304"
-          ]
+          ],
+          "smallPath": "_m/tpc/tr/an/sk/ei/transkei/east-london-town-hall-small.webp"
         },
         {
           "path": "_m/tpc/tr/an/sk/ei/transkei/coffee-bay.jpg",
@@ -457,7 +462,9 @@
             "Flickr images missing SDC published in",
             "Flickr images reviewed by FlickreviewR",
             "Taken with Sony DSC-T7"
-          ]
+          ],
+          "mediumPath": "_m/tpc/tr/an/sk/ei/transkei/coffee-bay-medium.webp",
+          "smallPath": "_m/tpc/tr/an/sk/ei/transkei/coffee-bay-small.webp"
         },
         {
           "path": "_m/tpc/tr/an/sk/ei/transkei/mthatha-nmm1813.jpg",
@@ -478,7 +485,8 @@
             "Nelson Mandela Museum, Eastern Cape",
             "Self-published work",
             "Taken with Nikon S2"
-          ]
+          ],
+          "smallPath": "_m/tpc/tr/an/sk/ei/transkei/mthatha-nmm1813-small.webp"
         },
         {
           "path": "_m/tpc/tr/an/sk/ei/transkei/kei-mouth-from-the-hill-april-.jpg",
@@ -500,7 +508,9 @@
             "Kei Mouth",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/tr/an/sk/ei/transkei/kei-mouth-from-the-hill-april--medium.webp",
+          "smallPath": "_m/tpc/tr/an/sk/ei/transkei/kei-mouth-from-the-hill-april--small.webp"
         },
         {
           "path": "_m/tpc/tr/an/sk/ei/transkei/chintsa-south-africa.jpg",
@@ -520,7 +530,9 @@
             "CC-BY-SA-2.0",
             "Chintsa",
             "Flickr images reviewed by FlickreviewR"
-          ]
+          ],
+          "mediumPath": "_m/tpc/tr/an/sk/ei/transkei/chintsa-south-africa-medium.webp",
+          "smallPath": "_m/tpc/tr/an/sk/ei/transkei/chintsa-south-africa-small.webp"
         }
       ],
       "narration": [

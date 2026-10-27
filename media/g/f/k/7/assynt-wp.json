@@ -3,25 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/k/7/assynt-wp/hero.jpg",
-        "filename": "Inchnadamph.jpg",
-        "caption": "Inchnadmaph, Assynt, Scotland",
-        "alt": "Inchnadmaph, Assynt, Scotland",
-        "width": 2592,
-        "height": 1944,
+        "path": "_m/g/f/k/7/assynt-wp/aerial-view-suilven-no.jpg",
+        "filename": "Suilven from the North West1.JPG",
+        "caption": "Aerial view of Suilven from the North West - taken from Cessna G-BRDO at around 4,500'",
+        "alt": "Aerial view of Suilven from the North West - taken from Cessna G-BRDO at around 4,500'",
+        "width": 3888,
+        "height": 2592,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "W. L. Tarbert",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inchnadamph.jpg",
+        "license": "CC BY 3.0",
+        "artist": "Dde0apb",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suilven_from_the_North_West1.JPG",
         "sourceType": "core",
         "sourceArticleId": "assynt-wp",
         "sourceGeohash4": "gfk7",
         "categories": [
-          "Inchnadamph",
-          "North West Highlands Geopark",
-          "PD-self",
-          "Self-published work"
-        ]
+          "Aerial photographs of Highland council area",
+          "Aerial photographs of mountains",
+          "CC-BY-3.0",
+          "June 2014 in Scotland",
+          "Self-published work",
+          "Suilven",
+          "Taken with Canon EOS 40D",
+          "United Kingdom photographs taken on 2014-06-26"
+        ],
+        "mediumPath": "_m/g/f/k/7/assynt-wp/aerial-view-suilven-no-medium.webp",
+        "smallPath": "_m/g/f/k/7/assynt-wp/aerial-view-suilven-no-small.webp"
       },
       "images": [
         {
@@ -77,7 +83,7 @@
           "smallPath": "_m/g/f/k/7/assynt-wp/aerial-view-suilven-no-small.webp"
         },
         {
-          "path": "_m/g/f/k/7/assynt-wp/peach-horne-monument-inchnadma.jpg",
+          "path": "_m/g/f/k/6/north-west-highlands-geopark-wp/peach-horne-monument-inchnadma.jpg",
           "filename": "Peach-Horne Monument, Inchnadmaph.jpg",
           "caption": "en:Ben Peach and en:John Horne Monument, overlooking Loch Assynt, Inchnadmaph, en:Assynt, en:Scotland\n\nThe inscription reads \"To Ben N Peach and John Horne who played the foremost part in unravelling the geological structures of the north west Highlands 1883-1897. An International tribute erected 1930\".[1]",
           "alt": "en:Ben Peach and en:John Horne Monument, overlooking Loch Assynt, Inchnadmaph, en:Assynt, en:Scotland\n\nThe inscription reads \"To Ben N Peach and John Horne who played the foremost part in unravelling the geological structures of the north west Highlands 1883-1897. An International tribute erected 1930\".[1]",
@@ -100,10 +106,12 @@
             "North West Highlands Geopark",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/6/north-west-highlands-geopark-wp/peach-horne-monument-inchnadma-medium.webp",
+          "smallPath": "_m/g/f/k/6/north-west-highlands-geopark-wp/peach-horne-monument-inchnadma-small.webp"
         },
         {
-          "path": "_m/g/f/k/7/assynt-wp/faultline-at-knockan-crag.jpg",
+          "path": "_m/g/f/k/6/north-west-highlands-geopark-wp/faultline-at-knockan-crag.jpg",
           "filename": "Faultline at Knockan Crag.JPG",
           "caption": "Moine Thrust fault at Knockan Crag, en:Assynt, en:Scotland",
           "alt": "Moine Thrust fault at Knockan Crag, en:Assynt, en:Scotland",
@@ -124,10 +132,12 @@
             "North West Highlands Geopark",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/6/north-west-highlands-geopark-wp/faultline-at-knockan-crag-medium.webp",
+          "smallPath": "_m/g/f/k/6/north-west-highlands-geopark-wp/faultline-at-knockan-crag-small.webp"
         },
         {
-          "path": "_m/g/f/k/7/assynt-wp/knockan-crag-visitor-centre.jpg",
+          "path": "_m/g/f/k/6/north-west-highlands-geopark-wp/knockan-crag-visitor-centre.jpg",
           "filename": "Knockan Crag visitor centre.JPG",
           "caption": "Knockan Crag visitor centre, en:Sutherland, en:Scotland",
           "alt": "Knockan Crag visitor centre, en:Sutherland, en:Scotland",
@@ -147,10 +157,12 @@
             "North West Highlands Geopark",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/6/north-west-highlands-geopark-wp/knockan-crag-visitor-centre-medium.webp",
+          "smallPath": "_m/g/f/k/6/north-west-highlands-geopark-wp/knockan-crag-visitor-centre-small.webp"
         },
         {
-          "path": "_m/g/f/k/7/assynt-wp/peach-and-horne.jpg",
+          "path": "_m/g/f/k/6/north-west-highlands-geopark-wp/peach-and-horne.jpg",
           "filename": "Peach and Horne.jpg",
           "caption": "en:John Horne and en:Ben Peach outside the en:Inchnadamph Hotel, en:Scotland in 1912",
           "alt": "en:John Horne and en:Ben Peach outside the en:Inchnadamph Hotel, en:Scotland in 1912",
@@ -175,7 +187,8 @@
             "PD-old missing SDC copyright status",
             "PD Old",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/g/f/k/6/north-west-highlands-geopark-wp/peach-and-horne-small.webp"
         },
         {
           "path": "_m/g/f/k/7/assynt-wp/ledmore-river-and-a835-assynt-.jpg",
@@ -354,7 +367,7 @@
           "smallPath": "_m/g/f/k/7/assynt-wp/south-east-slopes-of-canisp-ge-small.webp"
         },
         {
-          "path": "_m/g/f/k/7/assynt-wp/peach-and-horne-monument-geogr.jpg",
+          "path": "_m/g/f/k/6/north-west-highlands-geopark-wp/peach-and-horne-monument-geogr.jpg",
           "filename": "Peach and Horne Monument - geograph.org.uk - 822927.jpg",
           "caption": "Peach and Horne Monument Ben Peach and John Horne were the geologists who mapped Assynt and made a major contribution to understanding the complicated geology of the Moine Thrust Zone. In the background is Cuinneag (Quinag) above Loch Assynt. \nThe inscription reads \"To Ben N Peach and John Horne who played the foremost part in unravelling the geological structures of the north west Highlands 1883-1897. An International tribute erected 1930\".[1]",
           "alt": "Peach and Horne Monument Ben Peach and John Horne were the geologists who mapped Assynt and made a major contribution to understanding the complicated geology of the Moine Thrust Zone. In the background is Cuinneag (Quinag) above Loch Assynt. \nThe inscription reads \"To Ben N Peach and John Horne who played the foremost part in unravelling the geological structures of the north west Highlands 1883-1897. An International tribute erected 1930\".[1]",
@@ -366,7 +379,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peach_and_Horne_Monument_-_geograph.org.uk_-_822927.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "north-west-highlands-geopark-wp",
-          "sourceGeohash4": "gfk7"
+          "sourceGeohash4": "gfk7",
+          "smallPath": "_m/g/f/k/6/north-west-highlands-geopark-wp/peach-and-horne-monument-geogr-small.webp"
         },
         {
           "path": "_m/g/f/k/7/assynt-wp/assynt-moorland-geograph-org-u.jpg",
@@ -451,7 +465,9 @@
             "Images from Geograph Britain and Ireland",
             "Scottish Gaelic-language signs in Scotland",
             "Sir John Arthur Fowler Memorial Clock, Ullapool"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/3/ullapool-wp/fowler-memorial-clock-ullapool-medium.webp",
+          "smallPath": "_m/g/f/k/3/ullapool-wp/fowler-memorial-clock-ullapool-small.webp"
         }
       ],
       "narration": [

@@ -34,7 +34,7 @@ The siege took place at Oshi Castle, located at 36.137N, 139.453E in the city of
 
 - [Siege of Oshi - Wikipedia](https://en.wikipedia.org/?curid=6982947)
 - [Wikipedia - Oshi Castle](https://en.wikipedia.org/wiki/Oshi_Castle)
-- [Siege of Oshi - Wikipedia](https://en.wikipedia.org/wiki/Siege_of_Oshi)
+- [Siege of Oshi - Wikipedia](https://en.wikipedia.org/?curid=6982947)
   - Ishida Mitsunari commanded 23,000 troops confirmed
   - Narita Ujinaga at Odawara with best warriors confirmed
   - Kaihime and Narita Nagachika led defense confirmed

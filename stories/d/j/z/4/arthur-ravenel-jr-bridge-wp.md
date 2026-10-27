@@ -43,7 +43,7 @@ The Arthur Ravenel Jr. Bridge is unmistakable from the air: two diamond-shaped t
   - Opened July 2005, one year ahead of schedule
   - Design-build project by Palmetto Bridge Constructors
   - Self-climbing formwork used for tower construction
-- [Wikipedia - Arthur Ravenel Jr. Bridge](https://en.wikipedia.org/wiki/Arthur_Ravenel_Jr._Bridge)
+- [Wikipedia - Arthur Ravenel Jr. Bridge](https://en.wikipedia.org/?curid=1968737)
   - Main span 1,546 feet confirmed
   - Third longest cable-stayed bridge in Western Hemisphere confirmed
   - Tower height 575 feet confirmed

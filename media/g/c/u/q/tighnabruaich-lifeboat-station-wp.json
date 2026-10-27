@@ -3,30 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/u/q/tighnabruaich-lifeboat-station-wp/hero.jpg",
-        "filename": "Scotland relief location map.jpg",
-        "caption": "Location map of Scotland, United Kingdom",
-        "alt": "Location map of Scotland, United Kingdom",
-        "width": 1128,
-        "height": 1483,
+        "path": "_m/g/c/u/q/tighnabruaich-lifeboat-station-wp/inshore-lifeboat-station-tighn.jpg",
+        "filename": "Inshore lifeboat station Tighnabruaich - geograph.org.uk - 1940372.jpg",
+        "caption": "Inshore lifeboat station Tighnabruaich",
+        "alt": "Inshore lifeboat station Tighnabruaich",
+        "width": 3648,
+        "height": 2736,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Scotland_location_map.svg: Eric Gaba, NordNordWest\nderivative work: Uwe Dedering",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scotland_relief_location_map.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "John Ferguson",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inshore_lifeboat_station_Tighnabruaich_-_geograph.org.uk_-_1940372.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "tighnabruaich-lifeboat-station-wp",
         "sourceGeohash4": "gcuq",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Files by Uwe Dedering",
-          "GFDL",
-          "License migration redundant",
-          "Location maps of Scotland",
-          "Relief location maps of the United Kingdom",
-          "Self-published work",
-          "Topographic maps of Scotland",
-          "Uploaded with derivativeFX"
-        ]
+          "CC-BY-SA-2.0",
+          "Images from Geograph Britain and Ireland",
+          "Tighnabruaich Lifeboat Station"
+        ],
+        "mediumPath": "_m/g/c/u/q/tighnabruaich-lifeboat-station-wp/inshore-lifeboat-station-tighn-medium.webp",
+        "smallPath": "_m/g/c/u/q/tighnabruaich-lifeboat-station-wp/inshore-lifeboat-station-tighn-small.webp"
       },
       "images": [
         {
@@ -224,7 +220,8 @@
             "Isle of Mull (ship, 1988)",
             "License migration completed",
             "Oban harbour"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/oban-harbour-14839d-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/lochgilphead-1.jpg",
@@ -247,7 +244,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "May 1975 in Scotland"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/lochgilphead-1-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/bute-satellite.jpg",
@@ -266,7 +264,8 @@
           "categories": [
             "Isle of Bute",
             "Landsat images of the United Kingdom"
-          ]
+          ],
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/bute-satellite-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/inveraray-castle-south-west-fa.jpg",
@@ -281,7 +280,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inveraray_Castle_-_south-west_facade.jpg",
           "sourceType": "poi",
           "sourceArticleId": "argyll-and-bute",
-          "sourceGeohash4": "gcun"
+          "sourceGeohash4": "gcun",
+          "mediumPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/inveraray-castle-south-west-fa-medium.webp",
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/inveraray-castle-south-west-fa-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/hill-house-helensburgh-geograp.jpg",
@@ -296,7 +297,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hill_House_Helensburgh_-_geograph.org.uk_-_2691059.jpg",
           "sourceType": "poi",
           "sourceArticleId": "argyll-and-bute",
-          "sourceGeohash4": "gcun"
+          "sourceGeohash4": "gcun",
+          "mediumPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/hill-house-helensburgh-geograp-medium.webp",
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/hill-house-helensburgh-geograp-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/springbank-distillery-no-3-bon.jpg",
@@ -311,7 +314,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Springbank_Distillery_No_3_Bond_-_geograph.org.uk_-_2813368.jpg",
           "sourceType": "poi",
           "sourceArticleId": "argyll-and-bute",
-          "sourceGeohash4": "gcun"
+          "sourceGeohash4": "gcun",
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/springbank-distillery-no-3-bon-small.webp"
         },
         {
           "path": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/clansman-in-oban-bay-geograph-.jpg",
@@ -326,7 +330,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clansman_in_Oban_Bay_-_geograph.org.uk_-_4173819.jpg",
           "sourceType": "poi",
           "sourceArticleId": "argyll-and-bute",
-          "sourceGeohash4": "gcun"
+          "sourceGeohash4": "gcun",
+          "smallPath": "_m/tpc/ar/gy/ll/-a/argyll-and-bute/clansman-in-oban-bay-geograph--small.webp"
         },
         {
           "path": "_m/g/c/u/w/helensburgh-wp/hillhouse.jpg",
@@ -350,7 +355,8 @@
             "Listed buildings in Scotland with known IDs",
             "Media missing infobox template",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/w/helensburgh-wp/hillhouse-small.webp"
         },
         {
           "path": "_m/g/c/u/w/helensburgh-wp/captayannis.jpg",
@@ -374,7 +380,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Nikon D40"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/w/helensburgh-wp/captayannis-medium.webp",
+          "smallPath": "_m/g/c/u/w/helensburgh-wp/captayannis-small.webp"
         },
         {
           "path": "_m/g/c/u/w/helensburgh-wp/hill-house-lamp-2-37360025076.jpg",
@@ -400,7 +408,9 @@
             "Photographs by Tony Hisgett",
             "September 2017 in Argyll and Bute",
             "United Kingdom photographs taken on 2017-09-22"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/w/helensburgh-wp/hill-house-lamp-2-37360025076-medium.webp",
+          "smallPath": "_m/g/c/u/w/helensburgh-wp/hill-house-lamp-2-37360025076-small.webp"
         },
         {
           "path": "_m/g/c/u/w/helensburgh-wp/mv-captayannis-may2023-hassan-.jpg",
@@ -418,7 +428,9 @@
           "sourceGeohash4": "gcuw",
           "categories": [
             "CC-BY-SA-4.0"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/w/helensburgh-wp/mv-captayannis-may2023-hassan--medium.webp",
+          "smallPath": "_m/g/c/u/w/helensburgh-wp/mv-captayannis-may2023-hassan--small.webp"
         }
       ],
       "narration": [

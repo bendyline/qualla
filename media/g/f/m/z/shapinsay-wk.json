@@ -3,27 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/m/z/shapinsay-wk/hero.jpg",
-        "filename": "Burroughston Broch 20110527 entrance passage from west.jpg",
-        "caption": "Burroughston Broch, Shapinsay, Orkney, Scotland. Entrance passage from the west.",
-        "alt": "Burroughston Broch, Shapinsay, Orkney, Scotland. Entrance passage from the west.",
-        "width": 530,
-        "height": 800,
+        "path": "_m/g/f/m/z/shapinsay-wk/admiralty-chart-no-2584-approa.jpg",
+        "filename": "Admiralty Chart No 2584 Approaches to Kirkwall, Published 1898.jpg",
+        "caption": "Nautical chart of the Approaches to Kirkwall, at a scale of 1:24,400. Not current - not to be used for navigation!",
+        "alt": "Nautical chart of the Approaches to Kirkwall, at a scale of 1:24,400. Not current - not to be used for navigation!",
+        "width": 16431,
+        "height": 11287,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Otter",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burroughston_Broch_20110527_entrance_passage_from_west.jpg",
-        "sourceType": "core",
+        "license": "Public domain",
+        "artist": "United Kingdom Hydrographic Office",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_2584_Approaches_to_Kirkwall,_Published_1898.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "shapinsay-wk",
         "sourceGeohash4": "gfmz",
         "categories": [
-          "Burroughston Broch",
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "GFDL",
-          "License migration redundant",
-          "Self-published work",
-          "Taken with Sony DSLR-A100"
-        ]
+          "Admiralty Charts 2401-2600",
+          "Admiralty Charts Region C: Scotland"
+        ],
+        "mediumPath": "_m/g/f/m/z/shapinsay-wk/admiralty-chart-no-2584-approa-medium.webp",
+        "smallPath": "_m/g/f/m/z/shapinsay-wk/admiralty-chart-no-2584-approa-small.webp"
       },
       "images": [
         {
@@ -395,7 +393,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Kodak EasyShare Z740"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/balfour-castle-wp/hero-medium.webp",
+          "smallPath": "_m/g/f/m/z/balfour-castle-wp/hero-small.webp"
         },
         {
           "path": "_m/g/f/m/w/old-man-of-hoy-wp/relief-map-orkney-isla.jpg",
@@ -410,7 +410,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orkney_Islands_UK_relief_location_map.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "old-man-of-hoy-wp",
-          "sourceGeohash4": "gfmz"
+          "sourceGeohash4": "gfmz",
+          "mediumPath": "_m/g/f/m/w/old-man-of-hoy-wp/relief-map-orkney-isla-medium.webp",
+          "smallPath": "_m/g/f/m/w/old-man-of-hoy-wp/relief-map-orkney-isla-small.webp"
         },
         {
           "path": "_m/g/f/m/z/italian-chapel-wp/italian-chapel-lamb-holm-orkne.jpg",
@@ -437,7 +439,9 @@
             "Prisoners of war in World War II",
             "Self-published work",
             "Taken with Olympus C-5000Z"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/italian-chapel-wp/italian-chapel-lamb-holm-orkne-medium.webp",
+          "smallPath": "_m/g/f/m/z/italian-chapel-wp/italian-chapel-lamb-holm-orkne-small.webp"
         },
         {
           "path": "_m/g/f/m/z/scapa-flow-wp/italian-chapel-orkney-islands.jpg",
@@ -457,7 +461,9 @@
             "CC-BY-SA-4.0",
             "Italian Chapel (interior)",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/scapa-flow-wp/italian-chapel-orkney-islands-medium.webp",
+          "smallPath": "_m/g/f/m/z/scapa-flow-wp/italian-chapel-orkney-islands-small.webp"
         },
         {
           "path": "_m/g/f/m/z/scapa-flow-wp/stenness-standing-stone-the-ra.jpg",
@@ -475,7 +481,9 @@
           "sourceGeohash4": "gfmz",
           "categories": [
             "CC-BY-SA-4.0"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/scapa-flow-wp/stenness-standing-stone-the-ra-medium.webp",
+          "smallPath": "_m/g/f/m/z/scapa-flow-wp/stenness-standing-stone-the-ra-small.webp"
         },
         {
           "path": "_m/g/f/m/z/scapa-flow-wp/uk-kirkwwall-st-magnus-east.jpg",
@@ -490,7 +498,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:UK_Kirkwwall_St_Magnus_east.jpg",
           "sourceType": "poi",
           "sourceArticleId": "scapa-flow-wp",
-          "sourceGeohash4": "gfmz"
+          "sourceGeohash4": "gfmz",
+          "mediumPath": "_m/g/f/m/z/scapa-flow-wp/uk-kirkwwall-st-magnus-east-medium.webp",
+          "smallPath": "_m/g/f/m/z/scapa-flow-wp/uk-kirkwwall-st-magnus-east-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/st-magnus-cathedral-kirkwall.jpg",
@@ -516,7 +526,9 @@
             "St Magnus Cathedral, Kirkwall",
             "Taken with Canon EOS 400D",
             "United Kingdom photographs taken on 2007-08-08"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/st-magnus-cathedral-kirkwall-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/st-magnus-cathedral-kirkwall-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/orkney-wireless-museum-exterio.jpg",
@@ -538,7 +550,9 @@
             "License migration redundant",
             "Orkney Wireless Museum",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/orkney-wireless-museum-exterio-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/orkney-wireless-museum-exterio-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/scapa.jpg",
@@ -560,7 +574,9 @@
             "License migration redundant",
             "Scapa distillery",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/scapa-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/scapa-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/kirkwall-banner.jpg",
@@ -587,7 +603,9 @@
             "License migration redundant",
             "Self-published work",
             "Wikivoyage banners of Orkney"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/kirkwall-banner-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/kirkwall-banner-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/wideford-hill-cairn-2017-02.jpg",
@@ -606,7 +624,9 @@
           "categories": [
             "CC-BY-4.0",
             "Files with coordinates missing SDC location of creation"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/wideford-hill-cairn-2017-02-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/wideford-hill-cairn-2017-02-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/kirkwall-hotel.jpg",
@@ -621,7 +641,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kirkwall_Hotel.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kirkwall-wp",
-          "sourceGeohash4": "gfmz"
+          "sourceGeohash4": "gfmz",
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/kirkwall-hotel-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/kirkwall-hotel-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/st-magnus-cathedral-kirkwall-g.jpg",
@@ -636,7 +658,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Magnus_Cathedral,_Kirkwall_-_geograph.org.uk_-_2096130.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kirkwall-wp",
-          "sourceGeohash4": "gfmz"
+          "sourceGeohash4": "gfmz",
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/st-magnus-cathedral-kirkwall-g-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/st-magnus-cathedral-kirkwall-g-small.webp"
         },
         {
           "path": "_m/g/f/m/z/kirkwall-wp/orkney-museum-geograph-6172873.jpg",
@@ -651,7 +675,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orkney_Museum_(geograph_6172873).jpg",
           "sourceType": "poi",
           "sourceArticleId": "kirkwall-wp",
-          "sourceGeohash4": "gfmz"
+          "sourceGeohash4": "gfmz",
+          "mediumPath": "_m/g/f/m/z/kirkwall-wp/orkney-museum-geograph-6172873-medium.webp",
+          "smallPath": "_m/g/f/m/z/kirkwall-wp/orkney-museum-geograph-6172873-small.webp"
         },
         {
           "path": "_m/g/f/t/c/westray-wp/noup-head-westray-geograph-org.jpg",
@@ -673,7 +699,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Noup Head"
-          ]
+          ],
+          "smallPath": "_m/g/f/t/c/westray-wp/noup-head-westray-geograph-org-small.webp"
         },
         {
           "path": "_m/g/f/t/c/westray-wp/noltland-castle-20110529.jpg",
@@ -699,7 +726,8 @@
             "Noltland Castle",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-TZ7"
-          ]
+          ],
+          "smallPath": "_m/g/f/t/c/westray-wp/noltland-castle-20110529-small.webp"
         },
         {
           "path": "_m/g/f/t/c/westray-wp/westray-banner-puffin.jpg",
@@ -723,7 +751,9 @@
             "Fratercula arctica in Scotland",
             "Westray",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/t/c/westray-wp/westray-banner-puffin-medium.webp",
+          "smallPath": "_m/g/f/t/c/westray-wp/westray-banner-puffin-small.webp"
         }
       ],
       "narration": [

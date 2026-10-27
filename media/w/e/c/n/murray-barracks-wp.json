@@ -2,37 +2,6 @@
   "id": "murray-barracks-wp",
   "patch": {
     "media": {
-      "images": [
-        {
-          "path": "_m/w/e/c/n/murray-barracks-wp/parade-ground-hong-kon.jpg",
-          "filename": "Parade Ground.jpg",
-          "caption": "Parade Ground, Hong Kong",
-          "alt": "Parade Ground, Hong Kong",
-          "width": 2803,
-          "height": 1246,
-          "mimeType": "image/jpeg",
-          "license": "Public domain",
-          "artist": "Unknown author",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parade_Ground.jpg",
-          "sourceType": "core",
-          "sourceArticleId": "murray-barracks-wp",
-          "sourceGeohash4": "wecn",
-          "categories": [
-            "1907 in Hong Kong",
-            "CC-PD-Mark",
-            "Historical images of Central, Hong Kong",
-            "Historical images of Former French Mission Building",
-            "Historical images of St. John's Cathedral, Hong Kong",
-            "Historical images of Victoria Peak",
-            "Images with annotations",
-            "Murray Parade Ground",
-            "PD Old",
-            "Template Unknown (author)"
-          ],
-          "mediumPath": "_m/w/e/c/n/murray-barracks-wp/parade-ground-hong-kon-medium.webp",
-          "smallPath": "_m/w/e/c/n/murray-barracks-wp/parade-ground-hong-kon-small.webp"
-        }
-      ],
       "narration": [
         "_m/w/e/c/n/murray-barracks-wp/wecn-murray-barracks-flight-context.mp3",
         "_m/w/e/c/n/murray-barracks-wp/wecn-murray-barracks-intro.mp3",
@@ -42,6 +11,33 @@
         "_m/w/e/c/n/murray-barracks-wp/wecn-murray-barracks-the-building-that-was-taken-apart-and-reassembled.mp3",
         "_m/w/e/c/n/murray-barracks-wp/wecn-murray-barracks-what-the-names-remember.mp3"
       ],
+      "hero": {
+        "path": "_m/w/e/c/n/murray-barracks-wp/hero.jpg",
+        "filename": "Parade Ground.jpg",
+        "caption": "Parade Ground, Hong Kong",
+        "alt": "Parade Ground, Hong Kong",
+        "width": 2803,
+        "height": 1246,
+        "mimeType": "image/jpeg",
+        "license": "Public domain",
+        "artist": "Unknown author",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parade_Ground.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "murray-barracks-wp",
+        "sourceGeohash4": "wecn",
+        "categories": [
+          "1907 in Hong Kong",
+          "CC-PD-Mark",
+          "Historical images of Central, Hong Kong",
+          "Historical images of Former French Mission Building",
+          "Historical images of St. John's Cathedral, Hong Kong",
+          "Historical images of Victoria Peak",
+          "Images with annotations",
+          "Murray Parade Ground",
+          "PD Old",
+          "Template Unknown (author)"
+        ]
+      },
       "combinedNarration": "_m/w/e/c/n/murray-barracks-wp/wecn-murray-barracks-combined.mp3",
       "combinedNarrationBytes": 3978905,
       "combinedNarrationDuration": 321,

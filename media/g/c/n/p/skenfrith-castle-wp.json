@@ -3,24 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/n/p/skenfrith-castle-wp/hero.jpg",
-        "filename": "SKENFRITH CASTLE.jpg",
-        "caption": "Skenfrith, Monmouthshire, Wales.",
-        "alt": "Skenfrith, Monmouthshire, Wales.",
-        "width": 1666,
-        "height": 1294,
+        "path": "_m/g/c/n/p/skenfrith-castle-wp/skenfrith-geograph-org-uk-2343.jpg",
+        "filename": "Skenfrith - geograph.org.uk - 2343918.jpg",
+        "caption": "Skenfrith",
+        "alt": "Skenfrith",
+        "width": 4000,
+        "height": 3000,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Davidmholmes51",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SKENFRITH_CASTLE.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Rob Newman",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skenfrith_-_geograph.org.uk_-_2343918.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "skenfrith-castle-wp",
         "sourceGeohash4": "gcnp",
         "categories": [
-          "CC-BY-SA-4.0",
-          "Self-published work",
-          "Skenfrith Castle"
-        ]
+          "CC-BY-SA-2.0",
+          "Images from Geograph Britain and Ireland",
+          "Skenfrith",
+          "Skenfrith Castle",
+          "Skenfrith Mill",
+          "Skenfrith War Memorial"
+        ],
+        "mediumPath": "_m/g/c/n/p/skenfrith-castle-wp/skenfrith-geograph-org-uk-2343-medium.webp",
+        "smallPath": "_m/g/c/n/p/skenfrith-castle-wp/skenfrith-geograph-org-uk-2343-small.webp"
       },
       "images": [
         {
@@ -164,7 +169,7 @@
           "smallPath": "_m/g/c/n/p/skenfrith-castle-wp/keep-of-skenfrith-castle-geogr-small.webp"
         },
         {
-          "path": "_m/g/c/n/p/skenfrith-castle-wp/skenfirth-castle-diagr.jpg",
+          "path": "_m/g/c/j/z/three-castles-wp/skenfirth-castle-diagr.jpg",
           "filename": "Skenfirth Castle diagram unlabelled.jpg",
           "caption": "Skenfirth Castle diagram unlabelled",
           "alt": "Skenfirth Castle diagram unlabelled",
@@ -181,7 +186,9 @@
             "Ralegh Radford",
             "Skenfrith Castle",
             "UK Government artistic works"
-          ]
+          ],
+          "mediumPath": "_m/g/c/j/z/three-castles-wp/skenfirth-castle-diagr-medium.webp",
+          "smallPath": "_m/g/c/j/z/three-castles-wp/skenfirth-castle-diagr-small.webp"
         },
         {
           "path": "_m/g/c/n/p/skenfrith-castle-wp/defensible-positioning-of-sken.jpg",
@@ -462,7 +469,9 @@
             "Self-published work",
             "Taken with Nikon D50",
             "United Kingdom photographs taken on 2006-09-16"
-          ]
+          ],
+          "mediumPath": "_m/g/c/j/y/monmouthshire-wp/wales-blaenavon-bigpit-medium.webp",
+          "smallPath": "_m/g/c/j/y/monmouthshire-wp/wales-blaenavon-bigpit-small.webp"
         },
         {
           "path": "_m/g/c/j/y/monmouthshire-wp/sdj-raglan-castle-front.jpg",
@@ -483,7 +492,8 @@
             "GFDL",
             "Gatehouse, Raglan Castle",
             "License migration completed"
-          ]
+          ],
+          "smallPath": "_m/g/c/j/y/monmouthshire-wp/sdj-raglan-castle-front-small.webp"
         },
         {
           "path": "_m/g/c/j/y/monmouthshire-wp/caldicot-cross.jpg",
@@ -504,7 +514,9 @@
             "PD-user",
             "Taken with Olympus X-450 / D-535Z / C-370Z",
             "The Cross, Caldicot"
-          ]
+          ],
+          "mediumPath": "_m/g/c/j/y/monmouthshire-wp/caldicot-cross-medium.webp",
+          "smallPath": "_m/g/c/j/y/monmouthshire-wp/caldicot-cross-small.webp"
         },
         {
           "path": "_m/g/c/j/w/south-wales-wp/newport-montage1.jpg",
@@ -519,7 +531,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newport_montage1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-wales-wp",
-          "sourceGeohash4": "gcjy"
+          "sourceGeohash4": "gcjy",
+          "smallPath": "_m/g/c/j/w/south-wales-wp/newport-montage1-small.webp"
         },
         {
           "path": "_m/g/c/j/y/monmouthshire-wp/abergavenny-panorama.jpg",
@@ -534,7 +547,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abergavenny_panorama.jpg",
           "sourceType": "poi",
           "sourceArticleId": "monmouthshire-wp",
-          "sourceGeohash4": "gcjy"
+          "sourceGeohash4": "gcjy",
+          "mediumPath": "_m/g/c/j/y/monmouthshire-wp/abergavenny-panorama-medium.webp",
+          "smallPath": "_m/g/c/j/y/monmouthshire-wp/abergavenny-panorama-small.webp"
         },
         {
           "path": "_m/g/c/j/y/monmouthshire-wp/beaufort-st-brynmawr-geograph-.jpg",
@@ -549,7 +564,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beaufort_St,_Brynmawr_-_geograph.org.uk_-_2800369.jpg",
           "sourceType": "poi",
           "sourceArticleId": "monmouthshire-wp",
-          "sourceGeohash4": "gcjy"
+          "sourceGeohash4": "gcjy",
+          "mediumPath": "_m/g/c/j/y/monmouthshire-wp/beaufort-st-brynmawr-geograph--medium.webp",
+          "smallPath": "_m/g/c/j/y/monmouthshire-wp/beaufort-st-brynmawr-geograph--small.webp"
         },
         {
           "path": "_m/g/c/j/y/monmouthshire-wp/tintern-boat-and-village.jpg",
@@ -564,7 +581,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tintern_Boat_and_Village.jpg",
           "sourceType": "poi",
           "sourceArticleId": "monmouthshire-wp",
-          "sourceGeohash4": "gcjy"
+          "sourceGeohash4": "gcjy",
+          "mediumPath": "_m/g/c/j/y/monmouthshire-wp/tintern-boat-and-village-medium.webp",
+          "smallPath": "_m/g/c/j/y/monmouthshire-wp/tintern-boat-and-village-small.webp"
         }
       ],
       "narration": [

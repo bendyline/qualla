@@ -33,7 +33,7 @@ Located at 34.50N, 135.43E on the coastal plain of southern Osaka Prefecture bet
 ## Sources
 
 - [Ikegami-Sone Site - Wikipedia](https://en.wikipedia.org/?curid=69956673)
-- [Wikipedia - Ikegami-Sone Site](https://en.wikipedia.org/wiki/Ikegami-Sone_Site)
+- [Wikipedia - Ikegami-Sone Site](https://en.wikipedia.org/?curid=69956673)
   - Dendrochronology date of 52 BC confirmed
   - Site area 600,000 square meters confirmed
   - 1,300 finished stone knives and 300 unfinished confirmed

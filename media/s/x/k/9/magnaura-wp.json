@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/x/k/9/magnaura-wp/hero.jpg",
-        "filename": "Büyük Saray Merdiven Kulesi.jpg",
-        "caption": "The staircase tower is a building belonging to the great palace built by the Byzantines, many parts of which have not survived to the present day in the historical peninsula of Istanbul.",
-        "alt": "The staircase tower is a building belonging to the great palace built by the Byzantines, many parts of which have not survived to the present day in the historical peninsula of Istanbul.",
-        "width": 703,
-        "height": 835,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Afurkanakin",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:B%C3%BCy%C3%BCk_Saray_Merdiven_Kulesi.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "magnaura-wp",
-        "sourceGeohash4": "sxk9",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Great Palace of Constantinople",
-          "Self-published work"
-        ]
+        "path": "_m/s/x/k/9/basilica-cistern-wp/imperial-district-byza.png",
+        "filename": "Constantinople imperial district.png",
+        "caption": "The imperial district of Byzantine Constantinople, with the Great Palace and the approximate locations of its main buildings (based on literary descriptions), the Hippodrome, the Hagia Sophia and the surrounding structures. Surviving or excavated structures are in black, the conjectural outlines of structures in grey, and the shaded portion corresponds to the area occupied by the Sultanahmet Camii and other later structures.",
+        "alt": "The imperial district of Byzantine Constantinople, with the Great Palace and the approximate locations of its main buildings (based on literary descriptions), the Hippodrome, the Hagia Sophia and the surrounding structures. Surviving or excavated structures are in black, the conjectural outlines of structures in grey, and the shaded portion corresponds to the area occupied by the Sultanahmet Camii and other later structures.",
+        "width": 717,
+        "height": 812,
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "artist": "Cplakidas",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Constantinople_imperial_district.png",
+        "smallPath": "_m/s/x/k/9/basilica-cistern-wp/imperial-district-byza-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/x/k/9/magnaura-wp/imperial-district-byza.png",
+          "path": "_m/s/x/k/9/basilica-cistern-wp/imperial-district-byza.png",
           "filename": "Constantinople imperial district.png",
           "caption": "The imperial district of Byzantine Constantinople, with the Great Palace and the approximate locations of its main buildings (based on literary descriptions), the Hippodrome, the Hagia Sophia and the surrounding structures. Surviving or excavated structures are in black, the conjectural outlines of structures in grey, and the shaded portion corresponds to the area occupied by the Sultanahmet Camii and other later structures.",
           "alt": "The imperial district of Byzantine Constantinople, with the Great Palace and the approximate locations of its main buildings (based on literary descriptions), the Hippodrome, the Hagia Sophia and the surrounding structures. Surviving or excavated structures are in black, the conjectural outlines of structures in grey, and the shaded portion corresponds to the area occupied by the Sultanahmet Camii and other later structures.",
@@ -46,7 +39,8 @@
             "Maps of Constantinople",
             "PNG that should use vector graphics",
             "Plans of Byzantine buildings in Constantinople"
-          ]
+          ],
+          "smallPath": "_m/s/x/k/9/basilica-cistern-wp/imperial-district-byza-small.webp"
         }
       ],
       "narration": [
@@ -58,8 +52,9 @@
         "_m/s/x/k/9/magnaura-wp/sxk9-magnaura-what-remains.mp3"
       ],
       "combinedNarration": "_m/s/x/k/9/magnaura-wp/sxk9-magnaura-combined.mp3",
-      "combinedNarrationBytes": 4119487,
-      "combinedNarrationDuration": 343
+      "combinedNarrationBytes": 4207636,
+      "combinedNarrationDuration": 343,
+      "combinedCover": "_m/s/x/k/9/magnaura-wp/sxk9-magnaura-combined-cover.jpg"
     }
   }
 }

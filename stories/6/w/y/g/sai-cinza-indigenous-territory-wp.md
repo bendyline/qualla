@@ -39,7 +39,7 @@ The Sai Cinza Indigenous Territory is centered at approximately 6.46S, 58.00W al
 - [Sawre Muybu: A historic victory for the Munduruku People - Greenpeace](https://www.greenpeace.org/international/story/69878/munduruku-indigenous-people-land-demarcation-brazil-sawre-muybu/)
   - Munduruku people's long-standing presence along the Tapajos
   - Dam projects threatening indigenous territories in the Tapajos basin
-- [Sai Cinza Indigenous Territory - Wikipedia](https://en.wikipedia.org/wiki/Sai_Cinza_Indigenous_Territory)
+- [Sai Cinza Indigenous Territory - Wikipedia](https://en.wikipedia.org/?curid=53191113)
   - 126,000 hectares area confirmed
   - Municipality of Jacareacanga confirmed
   - Declared by decree 94.604 of 14 July 1987 confirmed

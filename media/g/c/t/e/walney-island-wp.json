@@ -3,34 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/t/e/walney-island-wp/hero.jpg",
-        "filename": "Barrow Offshore wind turbines NR.jpg",
-        "caption": "Offshore wind turbines at Barrow Offshore Wind Farm off Walney Island in the Irish Sea\nUnusually good weather for April!",
-        "alt": "Offshore wind turbines at Barrow Offshore Wind Farm off Walney Island in the Irish Sea\nUnusually good weather for April!",
-        "width": 3206,
-        "height": 2365,
+        "path": "_m/g/c/t/e/walney-island-wp/walney-barrow-in-furne.jpg",
+        "filename": "Jubilee.JPG",
+        "caption": "{} Walney from Barrow-in-Furness, including Jubilee bridge\n{{{Author}}} Lee Masson\n{}January 2006\n\nTaken by Lee Masson January 2006, Walney from Barrow-in-Furness including Jubilee Bridge",
+        "alt": "{} Walney from Barrow-in-Furness, including Jubilee bridge\n{{{Author}}} Lee Masson\n{}January 2006\n\nTaken by Lee Masson January 2006, Walney from Barrow-in-Furness including Jubilee Bridge",
+        "width": 2288,
+        "height": 1712,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Original:  Andy Dingley; Edit:  Muhammad",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barrow_Offshore_wind_turbines_NR.jpg",
+        "license": "Public domain",
+        "artist": "Lee Masson at English Wikipedia",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jubilee.JPG",
         "sourceType": "core",
         "sourceArticleId": "walney-island-wp",
         "sourceGeohash4": "gcte",
         "categories": [
-          "Barrow Offshore Wind",
-          "CC-BY-SA-3.0",
-          "Derivative versions",
-          "Featured pictures of Cumbria",
-          "Featured pictures of machines",
-          "Featured pictures on Wikimedia Commons",
-          "Featured pictures on Wikipedia, English",
-          "Featured pictures on Wikipedia, Indonesian",
-          "Files with derivative versions",
-          "Photographs by Andy Dingley",
-          "Self-published work",
-          "Taken with Fujifilm FinePix J10",
-          "Water reflections of structures in the United Kingdom"
-        ]
+          "January 2006 in Cumbria",
+          "PD-user",
+          "Walney Bridge",
+          "Walney Island"
+        ],
+        "mediumPath": "_m/g/c/t/e/walney-island-wp/walney-barrow-in-furne-medium.webp",
+        "smallPath": "_m/g/c/t/e/walney-island-wp/walney-barrow-in-furne-small.webp"
       },
       "images": [
         {
@@ -211,7 +204,7 @@
           "smallPath": "_m/g/c/t/e/walney-island-wp/ruined-farmhouse-on-south-waln-small.webp"
         },
         {
-          "path": "_m/g/c/t/e/walney-island-wp/shelly-bars-south-walney-natur.jpg",
+          "path": "_m/g/c/t/e/piel-castle-wp/shelly-bars-south-walney-natur.jpg",
           "filename": "Shelly Bars, South Walney Nature Reserve - geograph.org.uk - 148769.jpg",
           "caption": "Shelly Bars, South Walney Nature Reserve. Looking north towards Piel Castle",
           "alt": "Shelly Bars, South Walney Nature Reserve. Looking north towards Piel Castle",
@@ -223,7 +216,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shelly_Bars,_South_Walney_Nature_Reserve_-_geograph.org.uk_-_148769.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "piel-castle-wp",
-          "sourceGeohash4": "gcte"
+          "sourceGeohash4": "gcte",
+          "smallPath": "_m/g/c/t/e/piel-castle-wp/shelly-bars-south-walney-natur-small.webp"
         },
         {
           "path": "_m/g/c/t/e/walney-island-wp/north-walney-beach-geograph-or.jpg",
@@ -452,7 +446,9 @@
             "Furness Abbey",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/e/barrow-in-furness-wp/furnessabbey-medium.webp",
+          "smallPath": "_m/g/c/t/e/barrow-in-furness-wp/furnessabbey-small.webp"
         },
         {
           "path": "_m/g/c/t/e/barrow-in-furness-wp/barrow-in-furness-wikivoyage-b.jpg",
@@ -477,7 +473,9 @@
             "Walney Island",
             "Wikivoyage banners by Wauteurz",
             "Wikivoyage banners of England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/e/barrow-in-furness-wp/barrow-in-furness-wikivoyage-b-medium.webp",
+          "smallPath": "_m/g/c/t/e/barrow-in-furness-wp/barrow-in-furness-wikivoyage-b-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/coniston.jpg",
@@ -502,7 +500,8 @@
             "Photographs taken on 2007-02-18",
             "Self-published work",
             "Taken with Canon PowerShot A80"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/w/cumbria-wp/coniston-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/cartmell-village.jpg",
@@ -526,7 +525,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot A80"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/w/cumbria-wp/cartmell-village-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/cockermouth-church.jpg",
@@ -550,7 +550,8 @@
             "Gothic Revival church towers in Cumbria",
             "Gothic Revival spires in Cumbria",
             "Taken with Canon PowerShot S3 IS"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/w/cumbria-wp/cockermouth-church-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/cumberland-sausage.jpg",
@@ -572,7 +573,9 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Food named after places",
             "Food of Cumbria"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/w/cumbria-wp/cumberland-sausage-medium.webp",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/cumberland-sausage-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/bowness-on-windermere.jpg",
@@ -587,7 +590,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bowness_on_Windermere.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cumbria-wp",
-          "sourceGeohash4": "gctw"
+          "sourceGeohash4": "gctw",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/bowness-on-windermere-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/church-hill-grange-over-sands-.jpg",
@@ -602,7 +606,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_Hill,_Grange_over_Sands_-_geograph.org.uk_-_1835284.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cumbria-wp",
-          "sourceGeohash4": "gctw"
+          "sourceGeohash4": "gctw",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/church-hill-grange-over-sands--small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/barrow-montage2.jpg",
@@ -617,7 +622,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barrow_montage2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cumbria-wp",
-          "sourceGeohash4": "gctw"
+          "sourceGeohash4": "gctw",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/barrow-montage2-small.webp"
         },
         {
           "path": "_m/g/c/t/w/cumbria-wp/1326913-clock-tower-market-squ.jpg",
@@ -632,7 +638,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1326913_Clock_Tower,_Market_Square_Penrith_20240527_0058.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cumbria-wp",
-          "sourceGeohash4": "gctw"
+          "sourceGeohash4": "gctw",
+          "mediumPath": "_m/g/c/t/w/cumbria-wp/1326913-clock-tower-market-squ-medium.webp",
+          "smallPath": "_m/g/c/t/w/cumbria-wp/1326913-clock-tower-market-squ-small.webp"
         },
         {
           "path": "_m/g/c/w/4/lancashire-wp/blackpool-tower-from-central-p.jpg",
@@ -651,7 +659,9 @@
           "categories": [
             "3-clause BSD License",
             "Remote views of Blackpool Tower"
-          ]
+          ],
+          "mediumPath": "_m/g/c/w/4/lancashire-wp/blackpool-tower-from-central-p-medium.webp",
+          "smallPath": "_m/g/c/w/4/lancashire-wp/blackpool-tower-from-central-p-small.webp"
         },
         {
           "path": "_m/g/c/w/4/lancashire-wp/fleetwood-mar-2008-marine-hall.jpg",
@@ -677,7 +687,9 @@
             "Self-published work",
             "Taken with Olympus E-500",
             "United Kingdom photographs taken on 2008-03-22"
-          ]
+          ],
+          "mediumPath": "_m/g/c/w/4/lancashire-wp/fleetwood-mar-2008-marine-hall-medium.webp",
+          "smallPath": "_m/g/c/w/4/lancashire-wp/fleetwood-mar-2008-marine-hall-small.webp"
         },
         {
           "path": "_m/g/c/w/4/lancashire-wp/blackburn-lancashire-townscape.jpg",
@@ -697,7 +709,8 @@
             "Blackburn",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/w/4/lancashire-wp/blackburn-lancashire-townscape-small.webp"
         },
         {
           "path": "_m/g/c/w/4/lancashire-wp/garstang-cross-and-market-plac.jpg",
@@ -721,7 +734,9 @@
             "License migration redundant",
             "Self-published work",
             "Streets in Lancashire"
-          ]
+          ],
+          "mediumPath": "_m/g/c/w/4/lancashire-wp/garstang-cross-and-market-plac-medium.webp",
+          "smallPath": "_m/g/c/w/4/lancashire-wp/garstang-cross-and-market-plac-small.webp"
         },
         {
           "path": "_m/g/c/w/4/lancashire-wp/lancaster-and-the-lune-from-th.jpg",
@@ -743,7 +758,8 @@
             "GFDL-en",
             "License migration completed",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/w/4/lancashire-wp/lancaster-and-the-lune-from-th-small.webp"
         },
         {
           "path": "_m/g/c/w/4/lancashire-wp/preston-riversway-docks.jpg",
@@ -764,7 +780,8 @@
             "Preston Docks",
             "Self-published work",
             "Unknown date"
-          ]
+          ],
+          "smallPath": "_m/g/c/w/4/lancashire-wp/preston-riversway-docks-small.webp"
         },
         {
           "path": "_m/g/c/w/4/lancashire-wp/entering-chorley-town-centre.jpg",
@@ -783,7 +800,9 @@
           "categories": [
             "Chorley",
             "PD-self"
-          ]
+          ],
+          "mediumPath": "_m/g/c/w/4/lancashire-wp/entering-chorley-town-centre-medium.webp",
+          "smallPath": "_m/g/c/w/4/lancashire-wp/entering-chorley-town-centre-small.webp"
         },
         {
           "path": "_m/g/c/w/4/lancashire-wp/kirkham-006.jpg",
@@ -798,7 +817,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kirkham_006.jpg",
           "sourceType": "poi",
           "sourceArticleId": "lancashire-wp",
-          "sourceGeohash4": "gcw4"
+          "sourceGeohash4": "gcw4",
+          "mediumPath": "_m/g/c/w/4/lancashire-wp/kirkham-006-medium.webp",
+          "smallPath": "_m/g/c/w/4/lancashire-wp/kirkham-006-small.webp"
         },
         {
           "path": "_m/g/c/w/4/lancashire-wp/queen-mary-2-and-manannan-live.jpg",
@@ -813,7 +834,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Mary_2_and_Manannan,_Liverpool_landing_stage,_River_Mersey_(geograph_4556203).jpg",
           "sourceType": "poi",
           "sourceArticleId": "lancashire-wp",
-          "sourceGeohash4": "gcw4"
+          "sourceGeohash4": "gcw4",
+          "smallPath": "_m/g/c/w/4/lancashire-wp/queen-mary-2-and-manannan-live-small.webp"
         },
         {
           "path": "_m/g/c/w/4/lancashire-wp/morecambe-beach-2023-12-31.jpg",
@@ -828,7 +850,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morecambe_beach_-_2023-12-31.jpg",
           "sourceType": "poi",
           "sourceArticleId": "lancashire-wp",
-          "sourceGeohash4": "gcw4"
+          "sourceGeohash4": "gcw4",
+          "mediumPath": "_m/g/c/w/4/lancashire-wp/morecambe-beach-2023-12-31-medium.webp",
+          "smallPath": "_m/g/c/w/4/lancashire-wp/morecambe-beach-2023-12-31-small.webp"
         }
       ],
       "narration": [

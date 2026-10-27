@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/f/9/z/kassala-wk/hero.jpg",
-        "filename": "Khatmiyya Hasan tomb.jpg",
-        "caption": "Tomb of al-Hasan al-Mirghani, Khatmiyya tariqa, Kassala, Sudan.\n\nGranite domes of the Taka Mountains behind.",
-        "alt": "Tomb of al-Hasan al-Mirghani, Khatmiyya tariqa, Kassala, Sudan.\n\nGranite domes of the Taka Mountains behind.",
-        "width": 1920,
-        "height": 1285,
+        "path": "_m/s/f/9/z/kassala-wk/rashaida-im-sudan.jpg",
+        "filename": "Rashaida im Sudan.jpg",
+        "caption": "Drei Angehörige des -Stammes im sudanesischen Kassala",
+        "alt": "Drei Angehörige des -Stammes im sudanesischen Kassala",
+        "width": 2048,
+        "height": 1360,
         "mimeType": "image/jpeg",
-        "license": "CC BY 3.0",
-        "artist": "Bertramz",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khatmiyya_Hasan_tomb.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Fabian Lambeck",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rashaida_im_Sudan.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "kassala-wk",
         "sourceGeohash4": "sf9z",
-        "categories": [
-          "Arches in Sudan",
-          "CC-BY-3.0",
-          "GFDL",
-          "Khatmiyya Mosque",
-          "License migration redundant",
-          "Self-published work",
-          "Taka Mountains"
-        ]
+        "mediumPath": "_m/s/f/9/z/kassala-wk/rashaida-im-sudan-medium.webp",
+        "smallPath": "_m/s/f/9/z/kassala-wk/rashaida-im-sudan-small.webp"
       },
       "images": [
         {
@@ -84,7 +77,7 @@
           "smallPath": "_m/s/f/9/z/kassala-wk/kassala-onion-totil-small.webp"
         },
         {
-          "path": "_m/s/f/9/z/kassala-wk/hero.jpg",
+          "path": "_m/s/d/w/v/sudan-wk/hero.jpg",
           "filename": "Kassala center Totil.jpg",
           "caption": "From Kassala center to Taka Mountains (granite domes), Sudan",
           "alt": "From Kassala center to Taka Mountains (granite domes), Sudan",
@@ -106,7 +99,9 @@
             "Self-published work",
             "Taka Mountains",
             "Tilted strata in Sudan"
-          ]
+          ],
+          "mediumPath": "_m/s/d/w/v/sudan-wk/hero-medium.webp",
+          "smallPath": "_m/s/d/w/v/sudan-wk/hero-small.webp"
         },
         {
           "path": "_m/s/f/9/z/kassala-wk/kassala-khatmiyya1.jpg",
@@ -376,7 +371,7 @@
           "smallPath": "_m/s/f/9/z/kassala-wk/toteil-001-small.webp"
         },
         {
-          "path": "_m/s/f/9/z/kassala-wk/anglo-egyptian-sudan-1911.png",
+          "path": "_m/s/d/k/c/kordofan-wp/anglo-egyptian-sudan-1911.png",
           "filename": "Anglo-Egyptian Sudan 1911.png",
           "caption": "A map of the Anglo-Egyptian Sudan c. 1911",
           "alt": "A map of the Anglo-Egyptian Sudan c. 1911",
@@ -388,7 +383,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anglo-Egyptian_Sudan_1911.png",
           "sourceType": "commons-category",
           "sourceArticleId": "kordofan-wp",
-          "sourceGeohash4": "sf9z"
+          "sourceGeohash4": "sf9z",
+          "smallPath": "_m/s/d/k/c/kordofan-wp/anglo-egyptian-sudan-1911-small.webp"
         },
         {
           "path": "_m/s/f/9/z/kassala-wk/bedscha-nomade.jpg",
@@ -461,7 +457,9 @@
             "Media contributed by the ETH-Bibliothek",
             "PD-old-80",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "mediumPath": "_m/s/f/9/z/kassala-wp/eth-bib-volksstamm-der-fasi-wa-medium.webp",
+          "smallPath": "_m/s/f/9/z/kassala-wp/eth-bib-volksstamm-der-fasi-wa-small.webp"
         },
         {
           "path": "_m/s/f/9/z/kassala-wp/kassala-city-2029.jpg",
@@ -489,7 +487,9 @@
             "Sudan in the 21st century",
             "Taka Mountains",
             "Uploaded via Campaign:wlafrica"
-          ]
+          ],
+          "mediumPath": "_m/s/f/9/z/kassala-wp/kassala-city-2029-medium.webp",
+          "smallPath": "_m/s/f/9/z/kassala-wp/kassala-city-2029-small.webp"
         },
         {
           "path": "_m/s/f/9/z/kassala-wp/image-5.jpg",
@@ -516,7 +516,9 @@
             "Self-published work",
             "Trees in Sudan",
             "Trees in autumn"
-          ]
+          ],
+          "mediumPath": "_m/s/f/9/z/kassala-wp/image-5-medium.webp",
+          "smallPath": "_m/s/f/9/z/kassala-wp/image-5-small.webp"
         }
       ],
       "narration": [

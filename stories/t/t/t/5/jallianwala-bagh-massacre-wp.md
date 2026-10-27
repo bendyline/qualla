@@ -54,7 +54,7 @@ Jallianwala Bagh is located in central Amritsar at 31.6206N, 74.8806E, adjacent 
   - Singh hanged July 1940 confirmed
   - Memorial inaugurated April 13 1961 by President Rajendra Prasad confirmed
   - Benjamin Polk designed memorial confirmed
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Jallianwala_Bagh_massacre)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=7208646)
   - Restored dropped words in an Asquith quote ("one of the worst, most dreadful, outrages in the whole of our history").
 
 ## Review Notes

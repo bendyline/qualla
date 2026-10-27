@@ -3,37 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/y/6/9/okc-bombing-memorial-wk/hero.jpg",
-        "filename": "Oklahoma City memorial.jpg",
-        "caption": "Panoramic picture of the Oklahoma City Memorial.Stitching errors, white building overexposed, posterisation (probably caused by JPEG compression), slight chromatic aberration, inappropriate file type",
-        "alt": "Panoramic picture of the Oklahoma City Memorial.Stitching errors, white building overexposed, posterisation (probably caused by JPEG compression), slight chromatic aberration, inappropriate file type",
-        "width": 6485,
-        "height": 1885,
+        "path": "_m/9/y/6/9/okc-bombing-memorial-wk/oklahoma-city-may-2016-42-okla.jpg",
+        "filename": "Oklahoma City May 2016 42 (Oklahoma City National Memorial).jpg",
+        "caption": "The Oklahoma City National Memorial in Oklahoma City, Oklahoma (United States).",
+        "alt": "The Oklahoma City National Memorial in Oklahoma City, Oklahoma (United States).",
+        "width": 6000,
+        "height": 4000,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Oklahoma_City_memorial.png: Mark Pellegrini\nderivative work: Diliff (talk)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oklahoma_City_memorial.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Michael Barera",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oklahoma_City_May_2016_42_(Oklahoma_City_National_Memorial).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "okc-bombing-memorial-wk",
         "sourceGeohash4": "9y69",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Derivative versions",
-          "National Register of Historic Places with known IDs",
-          "Oklahoma City National Memorial",
-          "Overexposure",
-          "Quality images",
-          "Quality images missing SDC creator",
-          "Quality images missing SDC inception",
-          "Quality images missing SDC source of file",
-          "Quality images of Oklahoma",
-          "Quality images of objects",
-          "Reflecting pools in the United States",
-          "Retouched pictures",
-          "Self-published work",
-          "Stitched images of the United States",
-          "Uploaded with derivativeFX"
-        ]
+        "mediumPath": "_m/9/y/6/9/okc-bombing-memorial-wk/oklahoma-city-may-2016-42-okla-medium.webp",
+        "smallPath": "_m/9/y/6/9/okc-bombing-memorial-wk/oklahoma-city-may-2016-42-okla-small.webp"
       },
       "images": [
         {
@@ -263,7 +247,7 @@
           "smallPath": "_m/9/y/6/9/okc-bombing-memorial-wk/oklahoma-bombing-memorial-play-1-small.webp"
         },
         {
-          "path": "_m/9/y/6/9/okc-bombing-memorial-wk/rescue-team-5-remember.jpg",
+          "path": "_m/9/y/6/9/okc-bombing-wk/rescue-team-5-remember.jpg",
           "filename": "Okc bombings rescue team 5.jpg",
           "caption": "Rescue Team 5 remembers the victims who died in the bombing. A rescue team left a message during rescue efforts in the aftermath of bombing.",
           "alt": "Rescue Team 5 remembers the victims who died in the bombing. A rescue team left a message during rescue efforts in the aftermath of bombing.",
@@ -275,7 +259,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Okc_bombings_rescue_team_5.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "okc-bombing-wk",
-          "sourceGeohash4": "9y69"
+          "sourceGeohash4": "9y69",
+          "smallPath": "_m/9/y/6/9/okc-bombing-wk/rescue-team-5-remember-small.webp"
         },
         {
           "path": "_m/9/y/6/9/okc-bombing-memorial-wk/okc-national-memorial-chair-re.jpg",
@@ -501,7 +486,8 @@
             "Collegiate Gothic architecture in Oklahoma",
             "Items with VRTS permission confirmed",
             "Taken with Fujifilm FinePix A345"
-          ]
+          ],
+          "smallPath": "_m/9/y/6/8/university-of-oklahoma-wp/view-holmberg-hall-uni-small.webp"
         },
         {
           "path": "_m/9/y/6/9/oklahoma-city-wk/hero.jpg",
@@ -523,7 +509,9 @@
             "Oklahoma City skylines",
             "Self-published work",
             "Taken with Nikon Coolpix L120"
-          ]
+          ],
+          "mediumPath": "_m/9/y/6/9/oklahoma-city-wk/hero-medium.webp",
+          "smallPath": "_m/9/y/6/9/oklahoma-city-wk/hero-small.webp"
         },
         {
           "path": "_m/9/y/6/9/oklahoma-city-wk/picture-oklahoma-state.jpg",
@@ -543,7 +531,8 @@
             "CC-BY-SA-3.0",
             "Oklahoma State Capitol",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/9/y/6/9/oklahoma-city-wk/picture-oklahoma-state-small.webp"
         },
         {
           "path": "_m/9/y/6/9/oklahoma-city-wk/render-svg-map-oklahom.png",
@@ -564,7 +553,9 @@
             "Maps of Oklahoma City",
             "Self-published work",
             "Wikivoyage maps"
-          ]
+          ],
+          "mediumPath": "_m/9/y/6/9/oklahoma-city-wk/render-svg-map-oklahom-medium.webp",
+          "smallPath": "_m/9/y/6/9/oklahoma-city-wk/render-svg-map-oklahom-small.webp"
         }
       ],
       "narration": [

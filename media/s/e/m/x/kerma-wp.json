@@ -3,28 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/e/m/x/kerma-wp/hero.jpg",
-        "filename": "Kerma city.JPG",
-        "caption": "Kerma ancient city, Sudan",
-        "alt": "Kerma ancient city, Sudan",
-        "width": 2016,
-        "height": 1512,
+        "path": "_m/s/e/m/x/kerma-wp/kerma-nne.jpg",
+        "filename": "Kerma NNE.jpg",
+        "caption": "Kerma, Sudan, egyptian Pnubs near western Deffufa",
+        "alt": "Kerma, Sudan, egyptian Pnubs near western Deffufa",
+        "width": 3900,
+        "height": 2613,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Lassi",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerma_city.JPG",
-        "sourceType": "core",
+        "license": "CC BY 3.0",
+        "artist": "Bertramz",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerma_NNE.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "kerma-wp",
         "sourceGeohash4": "semx",
         "categories": [
-          "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
-          "Cultural heritage monuments in Sudan",
+          "CC-BY-3.0",
           "GFDL",
           "Kerma",
           "License migration redundant",
-          "Self-published work",
-          "Taken with Fujifilm FinePix S7000"
-        ]
+          "Self-published work"
+        ],
+        "mediumPath": "_m/s/e/m/x/kerma-wp/kerma-nne-medium.webp",
+        "smallPath": "_m/s/e/m/x/kerma-wp/kerma-nne-small.webp"
       },
       "images": [
         {
@@ -350,7 +350,8 @@
             "Spiral ornaments",
             "Spirals in Ancient pottery",
             "Wallpaper group pmg"
-          ]
+          ],
+          "smallPath": "_m/tpc/su/da/n_/__/sudan/wallpaper-group-pmg-4-small.webp"
         },
         {
           "path": "_m/s/e/m/x/kerma-culture-wp/hero.jpg",
@@ -373,7 +374,8 @@
             "Pharaon des Deux Terres (Louvre 2022)",
             "Self-published work",
             "Taken with Samsung Galaxy Ace GT-S5830i"
-          ]
+          ],
+          "smallPath": "_m/s/e/m/x/kerma-culture-wp/hero-small.webp"
         },
         {
           "path": "_m/s/e/m/x/kerma-culture-wp/early-kerma-2500-2450.jpg",
@@ -395,7 +397,9 @@
             "Files with coordinates missing SDC location of creation",
             "Kerma Museum",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/e/m/x/kerma-culture-wp/early-kerma-2500-2450-medium.webp",
+          "smallPath": "_m/s/e/m/x/kerma-culture-wp/early-kerma-2500-2450-small.webp"
         }
       ],
       "narration": [

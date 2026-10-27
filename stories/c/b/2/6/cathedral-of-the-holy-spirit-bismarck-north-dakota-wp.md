@@ -38,7 +38,7 @@ Located at 46.81N, 100.80W in Bismarck, North Dakota's state capital on the east
   - Anton Dohman hired in 1921, provided two designs confirmed
   - Great Depression delayed construction confirmed
   - Church opened August 1945 confirmed
-- [Believed to be only Art Deco cathedral in the US - multiple sources](https://en.wikipedia.org/wiki/Cathedral_of_the_Holy_Spirit_(Bismarck,_North_Dakota))
+- [Believed to be only Art Deco cathedral in the US - multiple sources](https://en.wikipedia.org/?curid=27569304)
   - Monolithic concrete construction confirmed
   - Believed to be only Art Deco-style cathedral in the United States confirmed
   - William F. Kurke designed cathedral and helped design North Dakota Capitol confirmed

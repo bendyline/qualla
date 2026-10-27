@@ -32,7 +32,7 @@ Located at 35.335°N, 139.546°E in the Yamanouchi neighborhood of Kamakura, Kan
 
 ## Sources
 
-- [Tokei-ji - Wikipedia](https://en.wikipedia.org/wiki/T%C5%8Dkei-ji)
+- [Tokei-ji - Wikipedia](https://en.wikipedia.org/?curid=2828737)
 - [Kakusan-ni - Wikipedia](https://en.wikipedia.org/wiki/Kakusan-ni)
   - Temple founded 1285 by Kakusan-ni, wife of Hojo Tokimune confirmed
   - Tokimune died 1284 at age 33 confirmed

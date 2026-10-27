@@ -45,7 +45,7 @@ Tarasin lies at approximately 13.04°N, 24.39°E in the Marrah Mountains of Cent
   - UN inter-agency team reached area 8 September, eight days after landslide
   - Ministry of Minerals attributed cause to heavy August rains saturating mountain slopes
   - Adre border crossing with Chad kept open per SAF-aligned government
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2025_Tarasin_landslide)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=80947284)
   - Corrected attribution of the downward "scores" death-toll revision from the SLM to the United Nations — Wikipedia (citing The Washington Post, "Sudan landslide may have killed scores, U.N. says", 2 September 2025) attributes the lowered "scores" estimate to the UN, while the SLM maintained its preliminary ~1,000 figure.
 
 ## Review Notes

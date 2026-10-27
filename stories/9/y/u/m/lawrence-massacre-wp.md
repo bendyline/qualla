@@ -28,7 +28,7 @@ Reverend Richard Cordley of Plymouth Congregational Church -- one of the few bui
 
 ## Flight Context
 
-Located at 38.973N, 95.236W in Lawrence, Kansas, elevation approximately 850 feet MSL. Lawrence Municipal Airport (KLWC) is 4 miles north of the city. Mount Oread, where the University of Kansas now stands, is the prominent hill on the west side of town -- visible from altitude and central to both the massacre (Quantrill posted lookouts there) and its aftermath (military posts were built on it). The Kansas River flows along the north edge of town. Massachusetts Street, the main commercial corridor that was burned during the raid, runs north-south through downtown. Best viewed at 3,000-5,000 feet AGL, with the grid pattern of downtown and Mount Oread clearly visible.
+Located at 38.973N, 95.236W in Lawrence, Kansas, elevation approximately 850 feet MSL. Lawrence Regional Airport (KLWC, formerly Lawrence Municipal) is 4 miles north of the city. Mount Oread, where the University of Kansas now stands, is the prominent hill on the west side of town -- visible from altitude and central to both the massacre (Quantrill posted lookouts there) and its aftermath (military posts were built on it). The Kansas River flows along the north edge of town. Massachusetts Street, the main commercial corridor that was burned during the raid, runs north-south through downtown. Best viewed at 3,000-5,000 feet AGL, with the grid pattern of downtown and Mount Oread clearly visible.
 
 ## Sources
 

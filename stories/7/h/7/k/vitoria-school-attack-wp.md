@@ -49,7 +49,7 @@ The school attack site is in Jardim da Penha, a neighborhood on Vitória island 
 - [Suzano Massacre - Wikipedia](https://en.wikipedia.org/wiki/Suzano_massacre)
   - Suzano massacre occurred March 13 2019 confirmed
   - Seven killed at the school (5 students + 2 staff) confirmed
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Vit%C3%B3ria_school_attack)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=79425859)
   - Added that prosecutors did not pursue the father's fraud charge (insufficient evidence); softened "planned massacre" to "planned attack" for the untried defendant.
 
 ## Review Notes

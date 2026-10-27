@@ -2,34 +2,9 @@
   "articleId": "emmen-wk",
   "gallery": [
     {
-      "filename": "Station Emmen-Zuid (1).jpg",
-      "title": "File:Station Emmen-Zuid (1).jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Station_Emmen-Zuid_%281%29.jpg",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Station_Emmen-Zuid_(1).jpg",
-      "width": 3931,
-      "height": 2423,
-      "mime": "image/jpeg",
-      "license": "CC0",
-      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "artist": "Apdency",
-      "description": "Station Emmen Zuid",
-      "dateCreated": "2011-09-16",
-      "categories": [
-        "CC-Zero",
-        "Self-published work",
-        "Station Emmen Zuid",
-        "Taken with Canon PowerShot SX30 IS"
-      ],
-      "sourceType": "poi",
-      "sourceArticleId": "emmen-wk",
-      "sourceGeohash4": "u1ku",
-      "mediumPath": "_m/u/1/k/u/emmen-wk/station-emmen-zuid-1-medium.webp",
-      "smallPath": "_m/u/1/k/u/emmen-wk/station-emmen-zuid-1-small.webp"
-    },
-    {
       "filename": "Station Emmen.jpg",
       "title": "File:Station Emmen.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Station_Emmen.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Station_Emmen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Station_Emmen.jpg",
       "width": 3741,
       "height": 2592,
@@ -37,6 +12,8 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "artist": "Apdency",
+      "credit": "Own work",
+      "source": "Station Emmen",
       "description": "Station Emmen, Drenthe, NL",
       "dateCreated": "2011-09-16",
       "categories": [
@@ -46,16 +23,16 @@
         "Station Emmen",
         "Taken with Canon PowerShot SX30 IS"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "emmen-wk",
       "sourceGeohash4": "u1ku",
-      "mediumPath": "_m/u/1/k/u/emmen-wk/station-emmen-medium.webp",
-      "smallPath": "_m/u/1/k/u/emmen-wk/station-emmen-small.webp"
+      "smallPath": "_m/u/1/k/u/emmen-wk/station-emmen-small.webp",
+      "mediumPath": "_m/u/1/k/u/emmen-wk/station-emmen-medium.webp"
     },
     {
       "filename": "Emmen, Grote of Pancratiuskerk.JPG",
       "title": "File:Emmen, Grote of Pancratiuskerk.JPG",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emmen%2C_Grote_of_Pancratiuskerk.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emmen%2C_Grote_of_Pancratiuskerk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Emmen,_Grote_of_Pancratiuskerk.JPG",
       "width": 2000,
       "height": 1333,
@@ -63,6 +40,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "R. Broekhuijzen",
+      "credit": "Own work",
+      "source": "Emmen, Grote of Pancratiuskerk",
       "description": "Emmen, church: Grote of Pancratiuskerk",
       "dateCreated": "2012-04-16",
       "categories": [
@@ -72,16 +51,16 @@
         "Self-published work",
         "Taken with Canon EOS 600D"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "emmen-wk",
       "sourceGeohash4": "u1ku",
-      "mediumPath": "_m/u/1/k/u/emmen-wk/emmen-grote-of-pancratiuskerk-medium.webp",
-      "smallPath": "_m/u/1/k/u/emmen-wk/emmen-grote-of-pancratiuskerk-small.webp"
+      "smallPath": "_m/u/1/k/u/emmen-wk/emmen-grote-of-pancratiuskerk-small.webp",
+      "mediumPath": "_m/u/1/k/u/emmen-wk/emmen-grote-of-pancratiuskerk-medium.webp"
     },
     {
       "filename": "Two young giraffes (4760164803).jpg",
       "title": "File:Two young giraffes (4760164803).jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Two_young_giraffes_%284760164803%29.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Two_young_giraffes_%284760164803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Two_young_giraffes_(4760164803).jpg",
       "width": 2605,
       "height": 1628,
@@ -89,6 +68,8 @@
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Alias 0591 from the Netherlands",
+      "credit": "Two young giraffes",
+      "source": "Two young giraffes (4760164803)",
       "description": "Noorderdierenpark, Emmen",
       "dateCreated": "2010-06-12 13:40",
       "categories": [
@@ -101,20 +82,112 @@
         "Netherlands photographs taken on 2010-06-12",
         "Photographs by Rene Mensen"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "emmen-wk",
       "sourceGeohash4": "u1ku",
-      "mediumPath": "_m/u/1/k/u/emmen-wk/two-young-giraffes-4760164803-medium.webp",
-      "smallPath": "_m/u/1/k/u/emmen-wk/two-young-giraffes-4760164803-small.webp"
+      "smallPath": "_m/u/1/k/u/emmen-wk/two-young-giraffes-4760164803-small.webp",
+      "mediumPath": "_m/u/1/k/u/emmen-wk/two-young-giraffes-4760164803-medium.webp"
+    },
+    {
+      "filename": "Feuerwehr Hubretter.JPG",
+      "title": "File:Feuerwehr Hubretter.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Feuerwehr_Hubretter.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Feuerwehr_Hubretter.JPG",
+      "width": 3072,
+      "height": 2304,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Hornet Driver",
+      "description": "Regionaler Hubretter, Scania P420 LB 6x2 (2006), Feuerwehr Emmen.",
+      "dateCreated": "2011-09-03 10:17:37",
+      "categories": [
+        "100 Jahre Feuerwehrverband des Kantons Zug, 3 september 2011",
+        "Bronto Skylift rescue and firefighting applications",
+        "CC-BY-SA-3.0",
+        "Emmen",
+        "Fire engines of the canton of Lucerne",
+        "Scania P420",
+        "Scania fire engines of Switzerland",
+        "Self-published work",
+        "Taken with Sony DSC-S750",
+        "Turntable ladders of Switzerland"
+      ],
+      "sourceType": "commons-category",
+      "sourceArticleId": "emmen-wk",
+      "sourceGeohash4": "u1ku",
+      "mediumPath": "_m/u/1/k/u/emmen-wk/feuerwehr-hubretter-medium.webp",
+      "smallPath": "_m/u/1/k/u/emmen-wk/feuerwehr-hubretter-small.webp"
+    },
+    {
+      "filename": "MilitärflugplatzEmmen.jpg",
+      "title": "File:MilitärflugplatzEmmen.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Milit%C3%A4rflugplatzEmmen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Milit%C3%A4rflugplatzEmmen.jpg",
+      "width": 4000,
+      "height": 3000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Redfive",
+      "description": "Aerial view of Emmen Air Base with Luzern in the background",
+      "dateCreated": "2018-04-19 03:57:40",
+      "categories": [
+        "2018 aerial photographs of Switzerland",
+        "Aerial photographs of Lucerne",
+        "Aerial photographs of airports in Switzerland",
+        "Aerial photographs of the canton of Lucerne",
+        "CC-BY-SA-4.0",
+        "Emmen",
+        "Emmen Air Base",
+        "Incorrect Exif date",
+        "Self-published work",
+        "Waffenplatz Emmen"
+      ],
+      "sourceType": "commons-category",
+      "sourceArticleId": "emmen-wk",
+      "sourceGeohash4": "u1ku",
+      "mediumPath": "_m/u/1/k/u/emmen-wk/militarflugplatzemmen-medium.webp",
+      "smallPath": "_m/u/1/k/u/emmen-wk/militarflugplatzemmen-small.webp"
+    },
+    {
+      "filename": "Viscosistadt in Emmenbrücke 2026.jpg",
+      "title": "File:Viscosistadt in Emmenbrücke 2026.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Viscosistadt_in_Emmenbr%C3%BCcke_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Viscosistadt_in_Emmenbr%C3%BCcke_2026.jpg",
+      "width": 3840,
+      "height": 5120,
+      "mime": "image/jpeg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Asdf1234asdf1234asdf",
+      "description": "Viscosistadt 2026 in Emmenbrücke mit blick auf das 745 gebäuder der HSLU DFK",
+      "dateCreated": "2026-04-22",
+      "categories": [
+        "CC-Zero",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Emmen",
+        "Files with coordinates missing SDC location of creation",
+        "HslU",
+        "Self-published work",
+        "Self-published work missing SDC copyright license"
+      ],
+      "sourceType": "commons-category",
+      "sourceArticleId": "emmen-wk",
+      "sourceGeohash4": "u1ku",
+      "mediumPath": "_m/u/1/k/u/emmen-wk/viscosistadt-in-emmenbrucke-20-medium.webp",
+      "smallPath": "_m/u/1/k/u/emmen-wk/viscosistadt-in-emmenbrucke-20-small.webp"
     }
   ],
   "galleryPaths": [
-    "_m/u/1/k/u/emmen-wk/station-emmen-zuid-1.jpg",
     "_m/u/1/k/u/emmen-wk/station-emmen.jpg",
     "_m/u/1/k/u/emmen-wk/emmen-grote-of-pancratiuskerk.jpg",
-    "_m/u/1/k/u/emmen-wk/two-young-giraffes-4760164803.jpg"
+    "_m/u/1/k/u/emmen-wk/two-young-giraffes-4760164803.jpg",
+    "_m/u/1/k/u/emmen-wk/feuerwehr-hubretter.jpg",
+    "_m/u/1/k/u/emmen-wk/militarflugplatzemmen.jpg",
+    "_m/u/1/k/u/emmen-wk/viscosistadt-in-emmenbrucke-20.jpg"
   ],
-  "updatedAt": "2026-05-20T01:45:57.866Z",
+  "updatedAt": "2026-10-19T15:00:16.478Z",
   "narration": {
     "files": [
       "u1ku-emmen-flight-context.mp3",
@@ -135,5 +208,55 @@
       "u1ku-emmen-the-quarry-where-the-art-lives.mp3": 62.73575
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Station Emmen-Zuid (1).jpg",
+    "title": "File:Station Emmen-Zuid (1).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Station_Emmen-Zuid_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Station_Emmen-Zuid_(1).jpg",
+    "width": 3931,
+    "height": 2423,
+    "mime": "image/jpeg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artist": "Apdency",
+    "credit": "Own work",
+    "source": "Station Emmen-Zuid (1)",
+    "description": "Station Emmen Zuid",
+    "dateCreated": "2011-09-16",
+    "categories": [
+      "CC-Zero",
+      "Self-published work",
+      "Station Emmen Zuid",
+      "Taken with Canon PowerShot SX30 IS"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "emmen-wk",
+    "sourceGeohash4": "u1ku"
+  },
+  "thumbnail": {
+    "filename": "Station Emmen-Zuid (1).jpg",
+    "title": "File:Station Emmen-Zuid (1).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Station_Emmen-Zuid_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Station_Emmen-Zuid_(1).jpg",
+    "width": 3931,
+    "height": 2423,
+    "mime": "image/jpeg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artist": "Apdency",
+    "credit": "Own work",
+    "source": "Station Emmen-Zuid (1)",
+    "description": "Station Emmen Zuid",
+    "dateCreated": "2011-09-16",
+    "categories": [
+      "CC-Zero",
+      "Self-published work",
+      "Station Emmen Zuid",
+      "Taken with Canon PowerShot SX30 IS"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "emmen-wk",
+    "sourceGeohash4": "u1ku"
   }
 }

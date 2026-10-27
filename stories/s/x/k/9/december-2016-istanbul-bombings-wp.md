@@ -36,7 +36,7 @@ The Vodafone Park stadium and the adjacent 10 December Martyrs Park sit in the B
 
 ## Sources
 
-- [December 2016 Istanbul bombings - Wikipedia](https://en.wikipedia.org/wiki/December_2016_Istanbul_bombings)
+- [December 2016 Istanbul bombings - Wikipedia](https://en.wikipedia.org/?curid=52548565)
   - Date of attack: 10 December 2016 confirmed
   - 48 killed (39 police, 7 civilians, 2 attackers) confirmed
   - More than 150 wounded confirmed

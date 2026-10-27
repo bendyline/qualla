@@ -37,7 +37,7 @@ The Auburn Rancheria is located near 39.023N, 121.324W in the Sierra Nevada foot
 ## Sources
 
 - [United Auburn Indian Community - Wikipedia](https://en.wikipedia.org/?curid=9077737)
-- [United Auburn Indian Community - Wikipedia](https://en.wikipedia.org/wiki/United_Auburn_Indian_Community)
+- [United Auburn Indian Community - Wikipedia](https://en.wikipedia.org/?curid=9077737)
   - Tribe members: both Miwok and Maidu confirmed (story focuses on Miwok identity, which is the primary lineage)
   - Federal recognition restored 1994 via Auburn Indian Restoration Act confirmed
   - Approximately 170 members, 52 residing on Auburn Rancheria confirmed

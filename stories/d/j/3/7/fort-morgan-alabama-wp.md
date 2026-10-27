@@ -32,7 +32,7 @@ The Department of War turned Fort Morgan over to Alabama in 1946, and the Army w
 
 ## Flight Context
 
-Fort Morgan sits at 30.228N, 88.023W on the tip of Mobile Point, the narrow sand peninsula that forms the eastern boundary of Mobile Bay's entrance. From the air, the pentagonal fort shape is clearly visible at lower altitudes against the white sand. Dauphin Island and Fort Gaines are directly across the channel to the west. The nearest airport is Jack Edwards National Airport (KJKA) approximately 10nm east in Gulf Shores, Alabama. Mobile Regional Airport (KMOB) is roughly 35nm north. The fort is at the western terminus of State Route 180. Expect excellent visibility on clear days with the Gulf of Mexico stretching to the south and Mobile Bay opening to the north.
+Fort Morgan sits at 30.228N, 88.023W on the tip of Mobile Point, the narrow sand peninsula that forms the eastern boundary of Mobile Bay's entrance. From the air, the pentagonal fort shape is clearly visible at lower altitudes against the white sand. Dauphin Island and Fort Gaines are directly across the channel to the west. The nearest airport is Gulf Shores International Airport (KJKA, formerly Jack Edwards National) approximately 10nm east in Gulf Shores, Alabama. Mobile Regional Airport (KMOB) is roughly 35nm north. The fort is at the western terminus of State Route 180. Expect excellent visibility on clear days with the Gulf of Mexico stretching to the south and Mobile Bay opening to the north.
 
 ## Sources
 

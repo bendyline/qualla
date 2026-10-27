@@ -3,28 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/k/3/z/t/mossel-bay-wk/hero.jpg",
-        "filename": "Mossel Bay, Downtown.jpg",
-        "caption": "Mossel Bay",
-        "alt": "Mossel Bay",
-        "width": 3648,
-        "height": 2736,
+        "path": "_m/k/3/z/t/mossel-bay-wk/mossel-bay-overview.jpg",
+        "filename": "Mossel Bay Overview.jpg",
+        "caption": "On overview of the Mossel Bay area, including the Harbour and Santos Beach. Image captured on 6x7cm black and white film.",
+        "alt": "On overview of the Mossel Bay area, including the Harbour and Santos Beach. Image captured on 6x7cm black and white film.",
+        "width": 7000,
+        "height": 4665,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "Dellex",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mossel_Bay,_Downtown.jpg",
-        "sourceType": "core",
+        "artist": "Dawidl (talk)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mossel_Bay_Overview.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "mossel-bay-wk",
         "sourceGeohash4": "k3zt",
         "categories": [
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
+          "2008 in South Africa",
+          "CC-BY-SA-3.0",
           "GFDL",
           "License migration redundant",
           "Mossel Bay",
-          "Photographs taken on 2010-09-05",
+          "Mossel Bay Harbour",
           "Self-published work",
-          "Taken with Olympus E-420"
-        ]
+          "Taken with Mamiya RB 67"
+        ],
+        "mediumPath": "_m/k/3/z/t/mossel-bay-wk/mossel-bay-overview-medium.webp",
+        "smallPath": "_m/k/3/z/t/mossel-bay-wk/mossel-bay-overview-small.webp"
       },
       "images": [
         {
@@ -342,7 +345,7 @@
           "smallPath": "_m/k/3/z/t/mossel-bay-wk/mbybc-stage-5-small.webp"
         },
         {
-          "path": "_m/k/3/z/t/mossel-bay-wk/attakwaskloof.jpg",
+          "path": "_m/k/3/y/r/langeberg-wp/attakwaskloof.jpg",
           "filename": "Attakwaskloof.jpg",
           "caption": "Map of mountains and passes in the vicinity of Mossel Bay, Western Cape, South Africa",
           "alt": "Map of mountains and passes in the vicinity of Mossel Bay, Western Cape, South Africa",
@@ -360,7 +363,8 @@
             "Langeberg Mountains",
             "Maps of the Western Cape",
             "Mossel Bay"
-          ]
+          ],
+          "smallPath": "_m/k/3/y/r/langeberg-wp/attakwaskloof-small.webp"
         },
         {
           "path": "_m/k/3/z/t/mossel-bay-wk/public-lib-mossel-bay.jpg",

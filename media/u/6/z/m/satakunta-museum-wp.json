@@ -3,28 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/6/z/m/satakunta-museum-wp/hero.jpg",
-        "filename": "Satakunnan Museo.JPG",
-        "caption": "Satakunta Museum, Pori, Finland.",
-        "alt": "Satakunta Museum, Pori, Finland.",
-        "width": 3648,
-        "height": 2736,
+        "path": "_m/u/6/z/m/satakunta-museum-wp/satakunta-museum-007.jpg",
+        "filename": "Satakunta Museum (007).jpg",
+        "caption": "Entrance of the Satakunta Museum, Pori, Finland.",
+        "alt": "Entrance of the Satakunta Museum, Pori, Finland.",
+        "width": 4128,
+        "height": 2322,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
+        "license": "CC BY-SA 4.0",
         "artist": "Joe K.",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Satakunnan_Museo.JPG",
-        "sourceType": "core",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Satakunta_Museum_(007).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "satakunta-museum-wp",
         "sourceGeohash4": "u6zm",
         "categories": [
-          "2013 in Pori",
-          "Buildings by Olaf Küttner",
-          "CC-BY-SA-3.0",
-          "July 2013 Finland photographs",
+          "CC-BY-SA-4.0",
+          "Files with coordinates missing SDC location of creation",
           "Satakunta Museum",
-          "Self-published work",
-          "Taken with Canon PowerShot A480"
-        ]
+          "Self-published work"
+        ],
+        "mediumPath": "_m/u/6/z/m/satakunta-museum-wp/satakunta-museum-007-medium.webp",
+        "smallPath": "_m/u/6/z/m/satakunta-museum-wp/satakunta-museum-007-small.webp"
       },
       "images": [
         {
@@ -229,7 +228,8 @@
             "PD-user",
             "Parks in Pori",
             "Pori Old Town Hall"
-          ]
+          ],
+          "smallPath": "_m/u/6/z/t/pori-wp/pori-town-hall-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/porin-lentoasema.jpg",
@@ -254,7 +254,9 @@
             "License migration completed",
             "Pori Airport Terminal",
             "Taken with Sony DSC-S650"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/t/pori-wp/porin-lentoasema-medium.webp",
+          "smallPath": "_m/u/6/z/t/pori-wp/porin-lentoasema-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/porin-rautatieasema.jpg",
@@ -283,7 +285,9 @@
             "Quality images of Pori",
             "Self-published work",
             "Taken with Sony DSLR-A700"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/t/pori-wp/porin-rautatieasema-medium.webp",
+          "smallPath": "_m/u/6/z/t/pori-wp/porin-rautatieasema-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/porin-kaupunginsairaala.jpg",
@@ -309,7 +313,9 @@
             "Päärnäinen",
             "Self-published work",
             "Taken with Canon PowerShot A510"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/t/pori-wp/porin-kaupunginsairaala-medium.webp",
+          "smallPath": "_m/u/6/z/t/pori-wp/porin-kaupunginsairaala-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/satakunnan-keskussairaala.jpg",
@@ -335,7 +341,9 @@
             "Satakunta Central Hospital",
             "Self-published work",
             "Taken with Sony DSLR-A700"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/t/pori-wp/satakunnan-keskussairaala-medium.webp",
+          "smallPath": "_m/u/6/z/t/pori-wp/satakunnan-keskussairaala-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/ybf-2010-bikini-bar-perjantain.jpg",
@@ -358,7 +366,9 @@
             "Self-published work",
             "Taken with Sony DSLR-A700",
             "Yyteri Beachfutis"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/t/pori-wp/ybf-2010-bikini-bar-perjantain-medium.webp",
+          "smallPath": "_m/u/6/z/t/pori-wp/ybf-2010-bikini-bar-perjantain-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/satakunnan-karhu.jpg",
@@ -373,7 +383,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Satakunnan_karhu.jpg",
           "sourceType": "poi",
           "sourceArticleId": "pori-wp",
-          "sourceGeohash4": "u6zt"
+          "sourceGeohash4": "u6zt",
+          "mediumPath": "_m/u/6/z/t/pori-wp/satakunnan-karhu-medium.webp",
+          "smallPath": "_m/u/6/z/t/pori-wp/satakunnan-karhu-small.webp"
         },
         {
           "path": "_m/u/6/z/t/pori-wp/yyteri-beach-45572598264.jpg",
@@ -388,7 +400,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yyteri_beach_(45572598264).jpg",
           "sourceType": "poi",
           "sourceArticleId": "pori-wp",
-          "sourceGeohash4": "u6zt"
+          "sourceGeohash4": "u6zt",
+          "mediumPath": "_m/u/6/z/t/pori-wp/yyteri-beach-45572598264-medium.webp",
+          "smallPath": "_m/u/6/z/t/pori-wp/yyteri-beach-45572598264-small.webp"
         },
         {
           "path": "_m/u/6/z/s/satakunta-wp/church-of-karvia.jpg",
@@ -410,7 +424,8 @@
             "PD-self",
             "Self-published work",
             "Wooden bell towers in Satakunta"
-          ]
+          ],
+          "smallPath": "_m/u/6/z/s/satakunta-wp/church-of-karvia-small.webp"
         },
         {
           "path": "_m/u/6/z/s/satakunta-wp/church-of-ulvila.jpg",
@@ -432,7 +447,9 @@
             "License migration completed",
             "St. Olof's Church, Ulvila",
             "Ulvila Church Bell Tower"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/s/satakunta-wp/church-of-ulvila-medium.webp",
+          "smallPath": "_m/u/6/z/s/satakunta-wp/church-of-ulvila-small.webp"
         },
         {
           "path": "_m/u/6/z/s/satakunta-wp/huittinen-church-aug2008.jpg",
@@ -455,7 +472,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon T70"
-          ]
+          ],
+          "smallPath": "_m/u/6/z/s/satakunta-wp/huittinen-church-aug2008-small.webp"
         },
         {
           "path": "_m/u/6/z/s/satakunta-wp/koylio-church-2010-06-01.jpg",
@@ -479,7 +497,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon EOS 450D"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/s/satakunta-wp/koylio-church-2010-06-01-medium.webp",
+          "smallPath": "_m/u/6/z/s/satakunta-wp/koylio-church-2010-06-01-small.webp"
         },
         {
           "path": "_m/u/6/z/s/satakunta-wp/harjavallan-vesivoimalaitos-6.jpg",
@@ -506,7 +526,9 @@
             "Quality images of Satakunta",
             "Self-published work",
             "Taken with Sony DSLR-A700"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/s/satakunta-wp/harjavallan-vesivoimalaitos-6-medium.webp",
+          "smallPath": "_m/u/6/z/s/satakunta-wp/harjavallan-vesivoimalaitos-6-small.webp"
         },
         {
           "path": "_m/u/6/z/s/satakunta-wp/ouranluoto-pilot-station.jpg",
@@ -533,7 +555,9 @@
             "Taken with Samsung S760",
             "Transport in Merikarvia",
             "Water transport in Satakunta"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/s/satakunta-wp/ouranluoto-pilot-station-medium.webp",
+          "smallPath": "_m/u/6/z/s/satakunta-wp/ouranluoto-pilot-station-small.webp"
         },
         {
           "path": "_m/u/6/z/s/satakunta-wp/luvian-kirkko-2.jpg",
@@ -556,7 +580,9 @@
             "Luvia Church",
             "Self-published work",
             "Taken with Sony DSLR-A700"
-          ]
+          ],
+          "mediumPath": "_m/u/6/z/s/satakunta-wp/luvian-kirkko-2-medium.webp",
+          "smallPath": "_m/u/6/z/s/satakunta-wp/luvian-kirkko-2-small.webp"
         },
         {
           "path": "_m/u/6/z/s/satakunta-wp/lavia.jpg",
@@ -571,7 +597,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lavia.jpg",
           "sourceType": "poi",
           "sourceArticleId": "satakunta-wp",
-          "sourceGeohash4": "u6zs"
+          "sourceGeohash4": "u6zs",
+          "mediumPath": "_m/u/6/z/s/satakunta-wp/lavia-medium.webp",
+          "smallPath": "_m/u/6/z/s/satakunta-wp/lavia-small.webp"
         },
         {
           "path": "_m/u/6/z/s/satakunta-wp/jamijarven-kotiseutumuseo.jpg",
@@ -586,7 +614,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:J%C3%A4mij%C3%A4rven_kotiseutumuseo.jpg",
           "sourceType": "poi",
           "sourceArticleId": "satakunta-wp",
-          "sourceGeohash4": "u6zs"
+          "sourceGeohash4": "u6zs",
+          "smallPath": "_m/u/6/z/s/satakunta-wp/jamijarven-kotiseutumuseo-small.webp"
         },
         {
           "path": "_m/u/6/z/s/satakunta-wp/kankaanpaa-centre.jpg",
@@ -601,7 +630,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kankaanp%C3%A4%C3%A4_Centre.jpg",
           "sourceType": "poi",
           "sourceArticleId": "satakunta-wp",
-          "sourceGeohash4": "u6zs"
+          "sourceGeohash4": "u6zs",
+          "smallPath": "_m/u/6/z/s/satakunta-wp/kankaanpaa-centre-small.webp"
         },
         {
           "path": "_m/u/6/z/s/satakunta-wp/honkajoki-church-20200730.jpg",
@@ -616,7 +646,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Honkajoki_Church_20200730.jpg",
           "sourceType": "poi",
           "sourceArticleId": "satakunta-wp",
-          "sourceGeohash4": "u6zs"
+          "sourceGeohash4": "u6zs",
+          "mediumPath": "_m/u/6/z/s/satakunta-wp/honkajoki-church-20200730-medium.webp",
+          "smallPath": "_m/u/6/z/s/satakunta-wp/honkajoki-church-20200730-small.webp"
         },
         {
           "path": "_m/u/6/z/s/satakunta-wp/faltunkoski-eurajoki-03.jpg",
@@ -631,7 +663,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Faltunkoski,_Eurajoki_(03).jpg",
           "sourceType": "poi",
           "sourceArticleId": "satakunta-wp",
-          "sourceGeohash4": "u6zs"
+          "sourceGeohash4": "u6zs",
+          "mediumPath": "_m/u/6/z/s/satakunta-wp/faltunkoski-eurajoki-03-medium.webp",
+          "smallPath": "_m/u/6/z/s/satakunta-wp/faltunkoski-eurajoki-03-small.webp"
         },
         {
           "path": "_m/u/6/z/s/satakunta-wp/nakkila-4.jpg",
@@ -646,7 +680,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nakkila_4.jpg",
           "sourceType": "poi",
           "sourceArticleId": "satakunta-wp",
-          "sourceGeohash4": "u6zs"
+          "sourceGeohash4": "u6zs",
+          "mediumPath": "_m/u/6/z/s/satakunta-wp/nakkila-4-medium.webp",
+          "smallPath": "_m/u/6/z/s/satakunta-wp/nakkila-4-small.webp"
         },
         {
           "path": "_m/u/6/z/s/satakunta-wp/euran-kirkko-2011-cropped.jpg",
@@ -661,7 +697,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Euran_kirkko_2011_cropped.jpg",
           "sourceType": "poi",
           "sourceArticleId": "satakunta-wp",
-          "sourceGeohash4": "u6zs"
+          "sourceGeohash4": "u6zs",
+          "mediumPath": "_m/u/6/z/s/satakunta-wp/euran-kirkko-2011-cropped-medium.webp",
+          "smallPath": "_m/u/6/z/s/satakunta-wp/euran-kirkko-2011-cropped-small.webp"
         }
       ],
       "narration": [

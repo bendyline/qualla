@@ -3,26 +3,32 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/6/1/z/pursat-wk/hero.jpg",
-        "filename": "Pursat Skyline.jpg",
-        "caption": "This is the skyline of Pursat from its entrance on Highway 5, featuring the large Ptel that greats Pursat's visitors. The Ptel is a sign of hospitality.",
-        "alt": "This is the skyline of Pursat from its entrance on Highway 5, featuring the large Ptel that greats Pursat's visitors. The Ptel is a sign of hospitality.",
-        "width": 3968,
-        "height": 2976,
+        "path": "_m/w/6/1/z/pursat-wk/cambodia-school.jpg",
+        "filename": "Cambodia school.jpg",
+        "caption": "Classroom in Pursat, Cambodia",
+        "alt": "Classroom in Pursat, Cambodia",
+        "width": 2592,
+        "height": 1944,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "LacanAndStockhausen",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pursat_Skyline.jpg",
-        "sourceType": "core",
+        "license": "CC BY 2.0",
+        "artist": "n ole",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cambodia_school.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "pursat-wk",
         "sourceGeohash4": "w61z",
         "categories": [
-          "CC-BY-SA-4.0",
+          "Buddhism in Cambodia",
+          "CC-BY-2.0",
           "Files with coordinates missing SDC location of creation",
+          "Flickr images missing SDC published in",
+          "Flickr images reviewed by FlickreviewR",
+          "People of Cambodia",
           "Pursat",
-          "Self-published work",
-          "Skylines in Pursat City"
-        ]
+          "Schools in Cambodia",
+          "Taken with Canon PowerShot A610"
+        ],
+        "mediumPath": "_m/w/6/1/z/pursat-wk/cambodia-school-medium.webp",
+        "smallPath": "_m/w/6/1/z/pursat-wk/cambodia-school-small.webp"
       },
       "images": [
         {
@@ -79,7 +85,7 @@
           "smallPath": "_m/w/6/1/z/pursat-wk/pursat-rice-field-small.webp"
         },
         {
-          "path": "_m/w/6/1/z/pursat-wk/sompove-meas-island-pursat-pro.jpg",
+          "path": "_m/tpc/ca/rd/am/om/cardamom-mountains/sompove-meas-island-pursat-pro.jpg",
           "filename": "Sompove Meas Island, Pursat province, Cambodia.jpg",
           "caption": "Sompove Meas Island in Pursat Province of Cambodia",
           "alt": "Sompove Meas Island in Pursat Province of Cambodia",
@@ -101,7 +107,8 @@
             "Pursat",
             "Self-published work",
             "Uploaded with en.wp upload wizard"
-          ]
+          ],
+          "smallPath": "_m/tpc/ca/rd/am/om/cardamom-mountains/sompove-meas-island-pursat-pro-small.webp"
         },
         {
           "path": "_m/w/6/1/z/pursat-wk/pursat-bridge-opening-2001.jpg",
@@ -146,7 +153,8 @@
             "CC-BY-4.0",
             "Physical geography maps of Cambodia",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/6/1/z/pursat-province-wp/map-annual-tree-cover-small.webp"
         },
         {
           "path": "_m/w/6/6/1/tonle-sap-lake-wk/tonlesap001.jpg",
@@ -170,7 +178,9 @@
             "Self-published work",
             "Taken with Pentax K10D",
             "Tonle Sap"
-          ]
+          ],
+          "mediumPath": "_m/w/6/6/1/tonle-sap-lake-wk/tonlesap001-medium.webp",
+          "smallPath": "_m/w/6/6/1/tonle-sap-lake-wk/tonlesap001-small.webp"
         },
         {
           "path": "_m/w/6/6/1/tonle-sap-lake-wk/tonle-sap-floating-church.jpg",
@@ -193,7 +203,9 @@
             "Photos by Mottl",
             "Self-published work",
             "Taken with Canon EOS 650D"
-          ]
+          ],
+          "mediumPath": "_m/w/6/6/1/tonle-sap-lake-wk/tonle-sap-floating-church-medium.webp",
+          "smallPath": "_m/w/6/6/1/tonle-sap-lake-wk/tonle-sap-floating-church-small.webp"
         },
         {
           "path": "_m/w/6/6/1/tonle-sap-lake-wk/tonle-sap-stilt-houses.jpg",
@@ -217,7 +229,9 @@
             "Settlements in Tonle Sap",
             "Stilt houses in Cambodia",
             "Taken with Canon EOS 650D"
-          ]
+          ],
+          "mediumPath": "_m/w/6/6/1/tonle-sap-lake-wk/tonle-sap-stilt-houses-medium.webp",
+          "smallPath": "_m/w/6/6/1/tonle-sap-lake-wk/tonle-sap-stilt-houses-small.webp"
         },
         {
           "path": "_m/w/6/6/1/tonle-sap-lake-wk/tonle-sap-7.jpg",
@@ -240,7 +254,9 @@
             "Kampong Phluk",
             "Self-published work",
             "Tonle Sap"
-          ]
+          ],
+          "mediumPath": "_m/w/6/6/1/tonle-sap-lake-wk/tonle-sap-7-medium.webp",
+          "smallPath": "_m/w/6/6/1/tonle-sap-lake-wk/tonle-sap-7-small.webp"
         }
       ],
       "narration": [

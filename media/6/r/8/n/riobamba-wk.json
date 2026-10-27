@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/r/8/n/riobamba-wk/hero.jpg",
-        "filename": "Ecuador Chimborazo 5923.jpg",
-        "caption": "Ecuador's Chimborazo, morning time in 2008",
-        "alt": "Ecuador's Chimborazo, morning time in 2008",
-        "width": 2048,
-        "height": 1536,
+        "path": "_m/6/r/8/n/riobamba-wk/aerial-360.jpg",
+        "filename": "Aerial 360.jpg",
+        "caption": "Aerial 360 VR view of Riobamba and surroundings",
+        "alt": "Aerial 360 VR view of Riobamba and surroundings",
+        "width": 8192,
+        "height": 4096,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Kilobug",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ecuador_Chimborazo_5923.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "ChristianRGaibor",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_360.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "riobamba-wk",
         "sourceGeohash4": "6r8n",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Chimborazo",
-          "Chimborazo in 2008",
-          "GFDL",
-          "License migration redundant",
-          "Self-published work",
-          "Taken with Canon PowerShot A710 IS"
-        ]
+        "mediumPath": "_m/6/r/8/n/riobamba-wk/aerial-360-medium.webp",
+        "smallPath": "_m/6/r/8/n/riobamba-wk/aerial-360-small.webp"
       },
       "images": [
         {
@@ -359,7 +352,7 @@
           "smallPath": "_m/6/r/8/n/riobamba-wk/andres-y-sofia-de-ahora-que-ha-small.webp"
         },
         {
-          "path": "_m/6/r/8/n/riobamba-wk/top-left-right-panoram-2.png",
+          "path": "_m/6/p/z/f/andean-highlands-ecuador-wk/top-left-right-panoram-2.png",
           "filename": "Collage Riobamba.png",
           "caption": "From top, left to right: Panoramic view of the city, monument to Pedro Vicente Maldonado, sculpture of Neptune, Primera Constituyente Street, St. Peter Cathedral, monument to Edmundo Chiriboga, Maldonado High School, Riobamba railway station, Chimborazo volcano and Monumental Raúl Dávalos bullring.",
           "alt": "From top, left to right: Panoramic view of the city, monument to Pedro Vicente Maldonado, sculpture of Neptune, Primera Constituyente Street, St. Peter Cathedral, monument to Edmundo Chiriboga, Maldonado High School, Riobamba railway station, Chimborazo volcano and Monumental Raúl Dávalos bullring.",
@@ -371,7 +364,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collage_Riobamba.png",
           "sourceType": "commons-category",
           "sourceArticleId": "andean-highlands-ecuador-wk",
-          "sourceGeohash4": "6r8n"
+          "sourceGeohash4": "6r8n",
+          "mediumPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/top-left-right-panoram-2-medium.webp",
+          "smallPath": "_m/6/p/z/f/andean-highlands-ecuador-wk/top-left-right-panoram-2-small.webp"
         },
         {
           "path": "_m/6/r/8/n/riobamba-wk/aerial-360.jpg",
@@ -427,7 +422,8 @@
             "GFDL",
             "License migration completed",
             "Neptuno, Riobamba"
-          ]
+          ],
+          "smallPath": "_m/6/r/8/n/riobamba-wp/ecuador-riobamba-parquemaldona-small.webp"
         },
         {
           "path": "_m/6/r/8/n/riobamba-wp/arte-religioso-museo-de-la-con.jpg",
@@ -449,7 +445,9 @@
             "Self-published work",
             "Statues of Christian saints in Ecuador",
             "Statues of Saint Anthony of Padua"
-          ]
+          ],
+          "mediumPath": "_m/6/r/8/n/riobamba-wp/arte-religioso-museo-de-la-con-medium.webp",
+          "smallPath": "_m/6/r/8/n/riobamba-wp/arte-religioso-museo-de-la-con-small.webp"
         },
         {
           "path": "_m/6/r/8/n/riobamba-wp/riobamba.png",
@@ -468,7 +466,9 @@
           "categories": [
             "CC-BY-SA-4.0",
             "Riobamba"
-          ]
+          ],
+          "mediumPath": "_m/6/r/8/n/riobamba-wp/riobamba-medium.webp",
+          "smallPath": "_m/6/r/8/n/riobamba-wp/riobamba-small.webp"
         },
         {
           "path": "_m/6/r/8/m/sangay-national-park-wp/lago-amarillo.jpg",
@@ -492,7 +492,9 @@
             "PD-author",
             "Taken with Canon PowerShot A630",
             "Volcanoes in Ecuador in 2010"
-          ]
+          ],
+          "mediumPath": "_m/6/r/8/m/sangay-national-park-wp/lago-amarillo-medium.webp",
+          "smallPath": "_m/6/r/8/m/sangay-national-park-wp/lago-amarillo-small.webp"
         }
       ],
       "narration": [

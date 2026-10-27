@@ -33,7 +33,7 @@ Located at 39.19N, 106.82W on East Main Street in Aspen, Colorado. The hotel sit
 ## Sources
 
 - [Hotel Jerome - Wikipedia](https://en.wikipedia.org/?curid=32768739)
-- [Wikipedia - Hotel Jerome](https://en.wikipedia.org/wiki/Hotel_Jerome)
+- [Wikipedia - Hotel Jerome](https://en.wikipedia.org/?curid=32768739)
   - NRHP listing 1986 confirmed
   - Jerome B. Wheeler co-owner of Macys confirmed
   - Mansor Elisha acquired hotel 1911 confirmed

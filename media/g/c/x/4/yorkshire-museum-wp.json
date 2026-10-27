@@ -3,29 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/x/4/yorkshire-museum-wp/hero.jpg",
-        "filename": "Boss York 3.jpg",
-        "caption": "Schlussstein Yorkshire Museum in York",
-        "alt": "Schlussstein Yorkshire Museum in York",
-        "width": 3264,
-        "height": 2448,
+        "path": "_m/g/c/x/4/yorkshire-museum-wp/yorkshire-museum.jpg",
+        "filename": "Yorkshire Museum.jpg",
+        "caption": "The Yorkshire Museum, York, England.  Designed by architect William Wilkins in a Greek Revival style and was officially opened in February 1830.",
+        "alt": "The Yorkshire Museum, York, England.  Designed by architect William Wilkins in a Greek Revival style and was officially opened in February 1830.",
+        "width": 3648,
+        "height": 2736,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0 de",
-        "artist": "Fingalo Christian Bickel",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boss_York_3.jpg",
+        "license": "CC BY-SA 3.0",
+        "artist": "Kaly99",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yorkshire_Museum.jpg",
         "sourceType": "core",
         "sourceArticleId": "yorkshire-museum-wp",
         "sourceGeohash4": "gcx4",
         "categories": [
-          "April 2008 in York",
-          "Bosses in North Yorkshire",
-          "CC-BY-SA-2.0-DE",
-          "England photographs taken on 2008-04-04",
-          "Fingalo 2008 Eng",
-          "Reliefs in York",
-          "St Mary's Abbey",
-          "Taken with Panasonic Lumix DMC-FZ30"
-        ]
+          "CC-BY-SA-3.0",
+          "England photographs taken on 2008-07-29",
+          "GFDL",
+          "July 2008 in York",
+          "License migration redundant",
+          "Self-published work",
+          "Yorkshire Museum"
+        ],
+        "mediumPath": "_m/g/c/x/4/yorkshire-museum-wp/yorkshire-museum-medium.webp",
+        "smallPath": "_m/g/c/x/4/yorkshire-museum-wp/yorkshire-museum-small.webp"
       },
       "images": [
         {
@@ -50,10 +51,12 @@
             "License migration redundant",
             "Self-published work",
             "Yorkshire Museum"
-          ]
+          ],
+          "mediumPath": "_m/g/c/x/4/yorkshire-museum-wp/yorkshire-museum-medium.webp",
+          "smallPath": "_m/g/c/x/4/yorkshire-museum-wp/yorkshire-museum-small.webp"
         },
         {
-          "path": "_m/g/c/x/4/yorkshire-museum-wp/york-observatory-centr.jpg",
+          "path": "_m/g/c/x/4/york-museum-gardens-wp/york-observatory-centr.jpg",
           "filename": "York Observatory.jpg",
           "caption": "York observatory in the centre of Museum Gardens, York, England, forms part of the Yorkshire Museum.  The octagonal observatory during built during 1832 and 1833 and the design of its rotating roof is credited to John Smeaton.",
           "alt": "York observatory in the centre of Museum Gardens, York, England, forms part of the Yorkshire Museum.  The octagonal observatory during built during 1832 and 1833 and the design of its rotating roof is credited to John Smeaton.",
@@ -74,7 +77,9 @@
             "License migration redundant",
             "Self-published work",
             "York Observatory"
-          ]
+          ],
+          "mediumPath": "_m/g/c/x/4/york-museum-gardens-wp/york-observatory-centr-medium.webp",
+          "smallPath": "_m/g/c/x/4/york-museum-gardens-wp/york-observatory-centr-small.webp"
         },
         {
           "path": "_m/g/c/x/4/yorkshire-museum-wp/ormside-bowl-british-m.jpg",
@@ -102,7 +107,7 @@
           "smallPath": "_m/g/c/x/4/yorkshire-museum-wp/ormside-bowl-british-m-small.webp"
         },
         {
-          "path": "_m/g/c/x/4/yorkshire-museum-wp/st-mary-s-abbey-figuri.jpg",
+          "path": "_m/g/c/x/4/st-mary-s-abbey-york-wp/st-mary-s-abbey-figuri.jpg",
           "filename": "St Mary's Abbey Figurine.jpg",
           "caption": "St Mary's Abbey Figurine, 2019",
           "alt": "St Mary's Abbey Figurine, 2019",
@@ -114,7 +119,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Mary%27s_Abbey_Figurine.jpg",
           "sourceType": "core",
           "sourceArticleId": "yorkshire-museum-wp",
-          "sourceGeohash4": "gcx4"
+          "sourceGeohash4": "gcx4",
+          "mediumPath": "_m/g/c/x/4/st-mary-s-abbey-york-wp/st-mary-s-abbey-figuri-medium.webp",
+          "smallPath": "_m/g/c/x/4/st-mary-s-abbey-york-wp/st-mary-s-abbey-figuri-small.webp"
         },
         {
           "path": "_m/g/c/x/4/yorkshire-museum-wp/yorkshire-museum.jpg",
@@ -443,7 +450,7 @@
           "smallPath": "_m/g/c/x/4/yorkshire-museum-wp/walter-e-collinge-small.webp"
         },
         {
-          "path": "_m/g/c/x/4/yorkshire-museum-wp/museum-and-gardens-geograph-or.jpg",
+          "path": "_m/g/c/x/4/york-museum-gardens-wp/museum-and-gardens-geograph-or.jpg",
           "filename": "Museum and gardens - geograph.org.uk - 4975947.jpg",
           "caption": "Museum and gardens",
           "alt": "Museum and gardens",
@@ -455,7 +462,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_and_gardens_-_geograph.org.uk_-_4975947.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "york-museum-gardens-wp",
-          "sourceGeohash4": "gcx4"
+          "sourceGeohash4": "gcx4",
+          "smallPath": "_m/g/c/x/4/york-museum-gardens-wp/museum-and-gardens-geograph-or-small.webp"
         },
         {
           "path": "_m/g/c/x/4/yorkshire-museum-wp/york-yorkshire-museum-geograph.jpg",
@@ -514,7 +522,8 @@
             "Self-published work",
             "Taken with Minolta Dimage Z1",
             "United Kingdom photographs taken on 2005-10-27"
-          ]
+          ],
+          "smallPath": "_m/g/c/x/4/yorkshire-wp/upper-nidderdale-small.webp"
         },
         {
           "path": "_m/g/c/x/4/yorkshire-wp/york-minster-from-m-s.jpg",
@@ -542,7 +551,9 @@
             "United Kingdom photographs taken on 2003-12-30",
             "West towers of York Minster",
             "York Minster from Marks & Spencer"
-          ]
+          ],
+          "mediumPath": "_m/g/c/x/4/yorkshire-wp/york-minster-from-m-s-medium.webp",
+          "smallPath": "_m/g/c/x/4/yorkshire-wp/york-minster-from-m-s-small.webp"
         },
         {
           "path": "_m/g/c/x/4/yorkshire-wp/wakefield-1.jpg",
@@ -560,7 +571,9 @@
           "sourceGeohash4": "gcx4",
           "categories": [
             "CC-BY-2.0"
-          ]
+          ],
+          "mediumPath": "_m/g/c/x/4/yorkshire-wp/wakefield-1-medium.webp",
+          "smallPath": "_m/g/c/x/4/yorkshire-wp/wakefield-1-small.webp"
         },
         {
           "path": "_m/g/c/x/5/north-yorkshire-wp/middlesbrough-town-hall-yorksh.jpg",
@@ -575,7 +588,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Middlesbrough_Town_Hall,_Yorkshire.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "north-yorkshire-wp",
-          "sourceGeohash4": "gcx4"
+          "sourceGeohash4": "gcx4",
+          "smallPath": "_m/g/c/x/5/north-yorkshire-wp/middlesbrough-town-hall-yorksh-small.webp"
         },
         {
           "path": "_m/g/c/x/4/yorkshire-wp/yorkshire-map.png",
@@ -590,7 +604,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yorkshire_map.png",
           "sourceType": "sibling",
           "sourceArticleId": "yorkshire-wp",
-          "sourceGeohash4": "gcx4"
+          "sourceGeohash4": "gcx4",
+          "mediumPath": "_m/g/c/x/4/yorkshire-wp/yorkshire-map-medium.webp",
+          "smallPath": "_m/g/c/x/4/yorkshire-wp/yorkshire-map-small.webp"
         },
         {
           "path": "_m/g/c/q/x/peak-district-wp/sheffield-city.jpg",
@@ -605,7 +621,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sheffield_City.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "peak-district-wp",
-          "sourceGeohash4": "gcx4"
+          "sourceGeohash4": "gcx4",
+          "smallPath": "_m/g/c/q/x/peak-district-wp/sheffield-city-small.webp"
         },
         {
           "path": "_m/g/c/w/c/west-yorkshire-wp/leeds-montage.jpg",
@@ -620,7 +637,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leeds_Montage.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "west-yorkshire-wp",
-          "sourceGeohash4": "gcx4"
+          "sourceGeohash4": "gcx4",
+          "mediumPath": "_m/g/c/w/c/west-yorkshire-wp/leeds-montage-medium.webp",
+          "smallPath": "_m/g/c/w/c/west-yorkshire-wp/leeds-montage-small.webp"
         }
       ],
       "narration": [

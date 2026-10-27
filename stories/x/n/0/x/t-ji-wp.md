@@ -32,7 +32,7 @@ Tō-ji sits at 34.981N, 135.748E in Kyoto's Minami-ku ward, southwest of Kyoto S
 
 ## Sources
 
-- [Tō-ji - Wikipedia](https://en.wikipedia.org/wiki/T%C5%8D-ji)
+- [Tō-ji - Wikipedia](https://en.wikipedia.org/?curid=799616)
   - Pagoda height ~55 meters (54.8m precisely), tallest wooden tower in Japan
   - Current pagoda built 1643 by order of third Tokugawa shogun Iemitsu
   - Pagoda destroyed and rebuilt four times

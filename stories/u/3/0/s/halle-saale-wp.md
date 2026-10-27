@@ -36,7 +36,7 @@ Halle sits at 51.483°N, 11.970°E on the River Saale in the Leipzig Bay, the so
 
 ## Sources
 
-- [Halle (Saale) - Wikipedia](https://en.wikipedia.org/wiki/Halle_(Saale))
+- [Halle (Saale) - Wikipedia](https://en.wikipedia.org/?curid=186208)
 - [Halle (Saale) - Wikipedia](https://en.wikipedia.org/?curid=186208)
   - Halloren-Werke chocolate factory founded 1804, oldest chocolate factory in Germany (confirmed)
   - Halle first documented AD 806; Hanseatic League membership by 1281 (confirmed)

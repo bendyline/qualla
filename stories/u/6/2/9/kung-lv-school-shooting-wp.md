@@ -49,7 +49,7 @@ Located at 57.87N, 11.97E in Kungalv, a town approximately 15km north of Gothenb
   - Psychiatric treatment not prison
   - Married within 4 years
   - Suicide August 12 2008
-- [Wikipedia - Kungalv school shooting](https://en.wikipedia.org/wiki/Kung%C3%A4lv_school_shooting)
+- [Wikipedia - Kungalv school shooting](https://en.wikipedia.org/?curid=36615107)
   - Essie Altvall forgave shooter
   - Annual stipend in Per's memory
   - Bonanza/Cartwrights media debate

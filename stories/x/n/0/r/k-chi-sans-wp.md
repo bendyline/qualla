@@ -32,7 +32,7 @@ Located at 35.017°N, 135.669°E on the slopes of Mount Ogura in western Kyoto's
 
 ## Sources
 
-- [Okochi Sanso - Wikipedia](https://en.wikipedia.org/wiki/%C5%8Ck%C5%8Dchi_Sans%C5%8D)
+- [Okochi Sanso - Wikipedia](https://en.wikipedia.org/?curid=29580287)
 - [Denjiro Okochi - Wikipedia](https://en.wikipedia.org/wiki/Denjir%C5%8D_%C5%8Ck%C5%8Dchi)
   - Born Masuo Obe in 1898 in Fukuoka Prefecture
   - Family of physicians who served local feudal lord

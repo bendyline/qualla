@@ -35,6 +35,14 @@ Operation Delaware's area of operations centers on the A Shau Valley at approxim
 ## Sources
 
 - [Operation Delaware - Wikipedia](https://en.wikipedia.org/?curid=21017886)
+- [Operation Delaware - Wikipedia](https://en.wikipedia.org/?curid=21017886)
+  - Operation ran April 19 to May 17, 1968 (story says 'April 19' start date — confirmed)
+  - 1st Cavalry Division (Airmobile) primary force confirmed
+  - 101st Airborne Division's 1st Brigade also participated via Firebase Bastogne/Veghel — confirmed
+  - C-130B serial 60-0298 struck by antiaircraft fire on April 26 — confirmed in multiple sources
+  - 1st Cavalry Division casualties: 130+ dead and 530+ wounded — confirmed
+  - PAVN losses estimated 800+ killed, plus tank, 70 trucks, two bulldozers, 30 flamethrowers — confirmed
+  - C-7 Caribou first fixed-wing to land A Lưới airstrip on May 2 confirmed
 
 ## Review Notes
 

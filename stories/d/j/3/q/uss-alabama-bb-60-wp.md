@@ -32,7 +32,7 @@ Today Alabama sits in Battleship Memorial Park on the western shore of Mobile Ba
 
 ## Flight Context
 
-USS Alabama (BB-60) sits at 30.6818N, 88.0145W in Battleship Memorial Park on the west side of Mobile Bay. The gray hull is clearly visible from altitude against the dark water. Approach from the east over Mobile Bay for the best view. Nearby airports include Mobile Downtown Airport (KBFM, 3 nm southwest) and Mobile Regional Airport (KMOB, 10 nm west). The submarine USS Drum is visible on shore just south of the battleship. Recommended viewing altitude: 1,500-3,000 feet AGL.
+USS Alabama (BB-60) sits at 30.6818N, 88.0145W in Battleship Memorial Park on the west side of Mobile Bay. The gray hull is clearly visible from altitude against the dark water. Approach from the east over Mobile Bay for the best view. Nearby airports include Mobile International Airport (KBFM, formerly Mobile Downtown, 3 nm southwest) and Mobile Regional Airport (KMOB, 10 nm west). The submarine USS Drum is visible on shore just south of the battleship. Recommended viewing altitude: 1,500-3,000 feet AGL.
 
 ## Sources
 

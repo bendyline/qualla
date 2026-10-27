@@ -39,7 +39,7 @@ Tacheles stands at 52.526°N, 13.389°E on Oranienburger Straße in Spandauer Vo
 - [Kunsthaus Tacheles - Wikipedia](https://en.wikipedia.org/?curid=740999)
 - [Fotografiska Berlin in the former Tacheles](https://www.dezeen.com/2024/03/20/fotografiska-berlin-tacheles-studio-aisslinger/)
 - [Tacheles](https://www.berlin.de/en/attractions-and-sights/3560455-3104052-tacheles.en.html)
-- [Kunsthaus Tacheles - Wikipedia (independent final-review re-check)](https://en.wikipedia.org/wiki/Kunsthaus_Tacheles)
+- [Kunsthaus Tacheles - Wikipedia (independent final-review re-check)](https://en.wikipedia.org/?curid=740999)
   - built 1907-1908 as the Friedrichstraßenpassage, cost ~7 million marks, bankrupt August 1908; Wertheim department store 1909-1914 - confirmed
   - AEG Haus der Technik from 1928; SS central office by 1941; French POWs held in the sealed attic from 1943; cellar flooded on Nazi orders - confirmed
   - FDGB ownership from 1948; demolition begun 1980, halted; occupied 13 February 1990; landmark status confirmed 1992 - confirmed

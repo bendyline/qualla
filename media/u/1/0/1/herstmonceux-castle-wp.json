@@ -3,27 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/0/1/herstmonceux-castle-wp/hero.jpg",
-        "filename": "Herstmonceux Observatory aerial view.jpg",
-        "caption": "Aerial view of the Observatory Science Centre on the Herstmonceux castle grounds (East Sussex, England). Currently a science exhibit, this site was home to the Royal Greenwich Observatory from 1948 until 1990. Nikon D60 f=200mm f/6.3 at 1/2500s ISO 800. Processed using Nikon ViewNX 1.5.2 and GIMP 2.6.6.",
-        "alt": "Aerial view of the Observatory Science Centre on the Herstmonceux castle grounds (East Sussex, England). Currently a science exhibit, this site was home to the Royal Greenwich Observatory from 1948 until 1990. Nikon D60 f=200mm f/6.3 at 1/2500s ISO 800. Processed using Nikon ViewNX 1.5.2 and GIMP 2.6.6.",
-        "width": 3636,
-        "height": 2028,
+        "path": "_m/u/1/0/1/herstmonceux-castle-wp/interior-corridor-hers.jpg",
+        "filename": "Herstmonceux Castle interior corridor.jpg",
+        "caption": "Interior corridor, Herstomonceux Castle",
+        "alt": "Interior corridor, Herstomonceux Castle",
+        "width": 3648,
+        "height": 2736,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "Lieven Smits",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herstmonceux_Observatory_aerial_view.jpg",
+        "artist": "6mat1 (talk)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herstmonceux_Castle_interior_corridor.jpg",
         "sourceType": "core",
         "sourceArticleId": "herstmonceux-castle-wp",
         "sourceGeohash4": "u101",
         "categories": [
-          "Aerial photographs of East Sussex",
+          "Building interiors in East Sussex",
           "CC-BY-SA-3.0,2.5,2.0,1.0",
           "GFDL",
-          "Herstmonceux Observatory",
+          "Herstmonceux Castle",
           "License migration redundant",
-          "Self-published work"
-        ]
+          "Self-published work",
+          "Taken with Olympus E-420"
+        ],
+        "mediumPath": "_m/u/1/0/1/herstmonceux-castle-wp/interior-corridor-hers-medium.webp",
+        "smallPath": "_m/u/1/0/1/herstmonceux-castle-wp/interior-corridor-hers-small.webp"
       },
       "images": [
         {
@@ -76,7 +79,7 @@
           "smallPath": "_m/u/1/0/1/herstmonceux-castle-wp/interior-corridor-hers-small.webp"
         },
         {
-          "path": "_m/u/1/0/1/herstmonceux-castle-wp/royal-greenwich-observ.jpg",
+          "path": "_m/g/c/p/u/royal-observatory-greenwich-wp/royal-greenwich-observ.jpg",
           "filename": "Royal Greenwich Observatory, Herstmonceux - April 2012.jpg",
           "caption": "Royal Greenwich Observatory, Herstmonceux, England, as viewed from the south.",
           "alt": "Royal Greenwich Observatory, Herstmonceux, England, as viewed from the south.",
@@ -97,7 +100,9 @@
             "License migration redundant",
             "Self-published work",
             "United Kingdom photographs taken on 2012-04-22"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/royal-observatory-greenwich-wp/royal-greenwich-observ-medium.webp",
+          "smallPath": "_m/g/c/p/u/royal-observatory-greenwich-wp/royal-greenwich-observ-small.webp"
         },
         {
           "path": "_m/u/1/0/1/herstmonceux-castle-wp/site-map-herstmonceux.jpg",
@@ -500,7 +505,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Photographs by Simon Carey"
-          ]
+          ],
+          "smallPath": "_m/u/1/0/1/herstmonceux-wp/high-street-geograph-org-uk-18-small.webp"
         },
         {
           "path": "_m/u/1/0/3/east-sussex-wp/brighton-uk.jpg",
@@ -524,7 +530,9 @@
             "East Street Groyne, Brighton, East Sussex",
             "Self-published work",
             "Taken with Kodak EasyShare C310"
-          ]
+          ],
+          "mediumPath": "_m/u/1/0/3/east-sussex-wp/brighton-uk-medium.webp",
+          "smallPath": "_m/u/1/0/3/east-sussex-wp/brighton-uk-small.webp"
         },
         {
           "path": "_m/u/1/0/3/east-sussex-wp/ashdown-forest-view.jpg",
@@ -546,7 +554,9 @@
             "Forests in the United Kingdom in autumn",
             "Taken with HP PhotoSmart M527",
             "Views of East Sussex"
-          ]
+          ],
+          "mediumPath": "_m/u/1/0/3/east-sussex-wp/ashdown-forest-view-medium.webp",
+          "smallPath": "_m/u/1/0/3/east-sussex-wp/ashdown-forest-view-small.webp"
         },
         {
           "path": "_m/u/1/0/3/east-sussex-wp/batemans.jpg",
@@ -570,7 +580,9 @@
             "Park and Garden of Bateman's",
             "Photographs by Brian Snelson",
             "Taken with Canon EOS 20D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/0/3/east-sussex-wp/batemans-medium.webp",
+          "smallPath": "_m/u/1/0/3/east-sussex-wp/batemans-small.webp"
         },
         {
           "path": "_m/u/1/0/3/east-sussex-wp/bodiam.jpg",
@@ -594,7 +606,8 @@
             "License migration completed",
             "Self-published work",
             "Taken with Nikon D70"
-          ]
+          ],
+          "smallPath": "_m/u/1/0/3/east-sussex-wp/bodiam-small.webp"
         },
         {
           "path": "_m/u/1/0/3/east-sussex-wp/beachy-head-east-sussex-englan.jpg",
@@ -609,7 +622,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beachy_Head,_East_Sussex,_England-2Oct2011_(1).jpg",
           "sourceType": "poi",
           "sourceArticleId": "east-sussex-wp",
-          "sourceGeohash4": "u103"
+          "sourceGeohash4": "u103",
+          "mediumPath": "_m/u/1/0/3/east-sussex-wp/beachy-head-east-sussex-englan-medium.webp",
+          "smallPath": "_m/u/1/0/3/east-sussex-wp/beachy-head-east-sussex-englan-small.webp"
         },
         {
           "path": "_m/g/c/p/c/brighton-wp/brighton-pier-1996.jpg",
@@ -624,7 +639,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brighton_pier_1996.jpg",
           "sourceType": "poi",
           "sourceArticleId": "brighton-wp",
-          "sourceGeohash4": "u103"
+          "sourceGeohash4": "u103",
+          "smallPath": "_m/g/c/p/c/brighton-wp/brighton-pier-1996-small.webp"
         },
         {
           "path": "_m/u/1/0/3/east-sussex-wp/battle-high-street.jpg",
@@ -639,7 +655,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battle_High_Street.jpg",
           "sourceType": "poi",
           "sourceArticleId": "east-sussex-wp",
-          "sourceGeohash4": "u103"
+          "sourceGeohash4": "u103",
+          "smallPath": "_m/u/1/0/3/east-sussex-wp/battle-high-street-small.webp"
         },
         {
           "path": "_m/u/1/0/3/east-sussex-wp/bexhill-town-limit-sign-bexhil.jpg",
@@ -654,7 +671,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bexhill_town_limit_sign,_Bexhill_Road.jpg",
           "sourceType": "poi",
           "sourceArticleId": "east-sussex-wp",
-          "sourceGeohash4": "u103"
+          "sourceGeohash4": "u103",
+          "mediumPath": "_m/u/1/0/3/east-sussex-wp/bexhill-town-limit-sign-bexhil-medium.webp",
+          "smallPath": "_m/u/1/0/3/east-sussex-wp/bexhill-town-limit-sign-bexhil-small.webp"
         }
       ],
       "videos": [

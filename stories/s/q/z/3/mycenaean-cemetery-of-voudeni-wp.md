@@ -58,7 +58,7 @@ The Mycenaean cemetery of Voudeni sits at approximately 38.2540°N, 21.7816°E, 
 - [Archaeological Museum of Patras - Wikipedia](https://en.wikipedia.org/wiki/Archaeological_Museum_of_Patras)
   - Archaeological Museum of Patras opened July 24, 2009 confirmed
   - Museum located in northeast of city center (not 'near the city center') — description in story is acceptable general phrasing
-- [Patras Mycenaean Park - search verification](https://en.wikipedia.org/wiki/Mycenaean_cemetery_of_Voudeni)
+- [Patras Mycenaean Park - search verification](https://en.wikipedia.org/?curid=58957633)
   - Park total area 180 acres confirmed
   - Altitude 220 meters confirmed
   - 7 kilometers northeast of Patras confirmed

@@ -3,29 +3,36 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/q/g/m/old-banten-wp/hero.jpg",
-        "filename": "Masjid Banten 111225 0560 mer.JPG",
-        "caption": "The Great Mosque of Banten, from east side",
-        "alt": "The Great Mosque of Banten, from east side",
-        "width": 1280,
-        "height": 768,
+        "path": "_m/q/q/g/m/old-banten-wp/ruine-van-de-dalam-van-bantam.jpg",
+        "filename": "Ruine van de Dalam van Bantam.jpg",
+        "caption": "Ruine van de Dalam van Bantam",
+        "alt": "Ruine van de Dalam van Bantam",
+        "width": 4236,
+        "height": 2791,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Wibowo Djatmiko (Wie146)",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masjid_Banten_111225_0560_mer.JPG",
-        "sourceType": "core",
+        "license": "Public domain",
+        "artist": "Steven Adriaan Buddingh (1811-1869)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruine_van_de_Dalam_van_Bantam.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "old-banten-wp",
         "sourceGeohash4": "qqgm",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Files by User:Wie146",
-          "Grand Mosque of Banten",
-          "Images with extracted images"
-        ]
+          "1859 in Indonesia",
+          "Author died more than 100 years ago public domain images",
+          "CC-PD-Mark",
+          "Drawings by S.A. Buddingh",
+          "History of Banten",
+          "Java in the 1850s",
+          "Old Banten",
+          "PD-old missing SDC copyright status",
+          "Palaces in Java"
+        ],
+        "mediumPath": "_m/q/q/g/m/old-banten-wp/ruine-van-de-dalam-van-bantam-medium.webp",
+        "smallPath": "_m/q/q/g/m/old-banten-wp/ruine-van-de-dalam-van-bantam-small.webp"
       },
       "images": [
         {
-          "path": "_m/q/q/g/m/old-banten-wp/la-ville-de-bantam.jpg",
+          "path": "_m/q/q/g/e/banten-wp/la-ville-de-bantam.jpg",
           "filename": "La ville de Bantam.jpg",
           "caption": "La ville de Banten, sur l’île de Java.",
           "alt": "La ville de Banten, sur l’île de Java.",
@@ -50,7 +57,8 @@
             "PD Old (assumed)",
             "PD US expired",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/q/q/g/e/banten-wp/la-ville-de-bantam-small.webp"
         },
         {
           "path": "_m/q/q/g/m/old-banten-wp/repronegatief-europees.jpg",
@@ -164,7 +172,7 @@
           "smallPath": "_m/q/q/g/m/old-banten-wp/ruine-van-de-dalam-van-bantam-small.webp"
         },
         {
-          "path": "_m/q/q/g/m/old-banten-wp/tour-religi.jpg",
+          "path": "_m/q/q/g/m/great-mosque-of-banten-wp/tour-religi.jpg",
           "filename": "Tour religi.jpg",
           "caption": "menyambut bulan suci ramadhan",
           "alt": "menyambut bulan suci ramadhan",
@@ -184,7 +192,8 @@
             "Self-published work",
             "Uploaded with Mobile/Android",
             "Uploaded with Mobile/Android (Nov 2017-Aug 2019)"
-          ]
+          ],
+          "smallPath": "_m/q/q/g/m/great-mosque-of-banten-wp/tour-religi-small.webp"
         },
         {
           "path": "_m/q/q/g/e/banten-wp/banten-city-java-1724.jpg",
@@ -206,7 +215,8 @@
             "François Valentijn",
             "North Coast of Java",
             "PD US expired"
-          ]
+          ],
+          "smallPath": "_m/q/q/g/e/banten-wp/banten-city-java-1724-small.webp"
         },
         {
           "path": "_m/q/q/g/m/serang-wp/great-mosque-of-serang-interio.jpg",
@@ -227,7 +237,9 @@
             "CC-BY-SA-4.0",
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/q/q/g/m/serang-wp/great-mosque-of-serang-interio-medium.webp",
+          "smallPath": "_m/q/q/g/m/serang-wp/great-mosque-of-serang-interio-small.webp"
         }
       ],
       "narration": [

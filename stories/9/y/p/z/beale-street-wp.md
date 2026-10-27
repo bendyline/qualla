@@ -28,7 +28,7 @@ The music has never really stopped on Beale Street. Since 1987, the band FreeWor
 
 ## Flight Context
 
-Located at 35.139°N, 90.052°W in downtown Memphis, Tennessee, running east-west from the Mississippi River bluffs. The street is part of the dense downtown grid clearly visible from altitude, with FedExForum arena at 191 Beale serving as a major landmark. Memphis International Airport (KMEM) is approximately 10 nm southeast. The Mississippi River forms the western edge of the city. Tom Lee Park, where the Beale Street Music Festival is held, is visible at the river end of the street. Best viewed at 2,000-3,000 feet AGL on approach from the west over the river.
+Located at 35.139°N, 90.052°W in downtown Memphis, Tennessee, running east-west from the Mississippi River bluffs. The street is part of the dense downtown grid clearly visible from altitude, with FedExForum arena at 191 Beale serving as a major landmark. Frederick W. Smith International Airport (KMEM, formerly Memphis International) is approximately 10 nm southeast. The Mississippi River forms the western edge of the city. Tom Lee Park, where the Beale Street Music Festival is held, is visible at the river end of the street. Best viewed at 2,000-3,000 feet AGL on approach from the west over the river.
 
 ## Sources
 

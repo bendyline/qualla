@@ -37,7 +37,7 @@ Located at 35.00N, 135.78E in the Higashiyama ward of eastern Kyoto, Japan. From
 ## Sources
 
 - [Gion - Wikipedia](https://en.wikipedia.org/?curid=1001170)
-- [Wikipedia - Gion](https://en.wikipedia.org/wiki/Gion)
+- [Wikipedia - Gion](https://en.wikipedia.org/?curid=1001170)
   - 1881 split of original hanamachi into Gion Kobu and Gion Higashi confirmed
   - Gion grew around Yasaka Shrine in Sengoku period confirmed
   - Miyako Odori dates to 1872 Kyoto exhibition confirmed

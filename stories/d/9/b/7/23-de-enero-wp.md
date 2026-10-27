@@ -33,7 +33,7 @@ Nestled in a series of hills adjacent to the Catia and Sucre parishes, 23 de Ene
 ## Sources
 
 - [23 de Enero - Wikipedia](https://en.wikipedia.org/?curid=45626286)
-- [23 de Enero - Wikipedia (fact check)](https://en.wikipedia.org/wiki/23_de_Enero)
+- [23 de Enero - Wikipedia (fact check)](https://en.wikipedia.org/?curid=45626286)
   - January 23 1958 Perez Jimenez fled confirmed
   - Complex originally called 'Urbanization December 2' confirmed
   - Renamed 23 de Enero after dictator fled confirmed

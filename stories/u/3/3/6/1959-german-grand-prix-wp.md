@@ -36,7 +36,7 @@ The AVUS runs roughly north–south through the Grunewald at 52.481°N, 13.251°
 
 ## Sources
 
-- [1959 German Grand Prix - Wikipedia](https://en.wikipedia.org/wiki/1959_German_Grand_Prix)
+- [1959 German Grand Prix - Wikipedia](https://en.wikipedia.org/?curid=1122210)
 - [AVUS - Wikipedia](https://en.wikipedia.org/wiki/AVUS)
 - [1959 German Grand Prix - Wikipedia](https://en.wikipedia.org/?curid=1122210)
   - Race held 2 August 1959 at AVUS: two 30-lap heats of the 8 km circuit, 498 km total, split for tyre wear

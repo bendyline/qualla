@@ -32,7 +32,7 @@ Located at 35.33°N, 139.56°E in the Kita-Kamakura area, nestled in a forested 
 
 ## Sources
 
-- [Kencho-ji - Wikipedia](https://en.wikipedia.org/wiki/Kench%C5%8D-ji)
+- [Kencho-ji - Wikipedia](https://en.wikipedia.org/?curid=2828368)
 - [Kenchoji Temple - Japan Guide](https://www.japan-guide.com/e/e3104.html)
   - Oldest Zen training monastery in Japan
   - Completed in 1253 by Chinese monk Rankei Doryu

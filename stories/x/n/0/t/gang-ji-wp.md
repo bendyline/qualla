@@ -33,7 +33,7 @@ Located at 34.678°N, 135.831°E in the heart of Nara's Naramachi district, sout
 ## Sources
 
 - [Gang Dong-won - Wikipedia](https://en.wikipedia.org/?curid=2704831)
-- [Wikipedia - Gangō-ji](https://en.wikipedia.org/wiki/Gang%C5%8D-ji)
+- [Wikipedia - Gangō-ji](https://en.wikipedia.org/?curid=779385)
   - Gangō-ji relocated from Asuka-dera to Nara in 718
   - Temple dimensions: 440 meters north-south, 220 meters east-west
   - Gokurakubō registered as UNESCO World Heritage Site under Historic Monuments of Ancient Nara (1998)

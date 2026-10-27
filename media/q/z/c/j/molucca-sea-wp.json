@@ -3,32 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/z/c/j/molucca-sea-wp/hero.jpg",
-        "filename": "Waves in pacifica 1.jpg",
-        "caption": "Sea Storm in Pacifica, w:California",
-        "alt": "Sea Storm in Pacifica, w:California",
-        "width": 2000,
-        "height": 1358,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Brocken Inaglory",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waves_in_pacifica_1.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "molucca-sea-wp",
-        "sourceGeohash4": "qzcj",
-        "categories": [
-          "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
-          "California Coast",
-          "GFDL",
-          "Images with extracted images",
-          "License migration redundant",
-          "Ocean surface waves",
-          "Self-published work"
-        ]
+        "path": "_m/q/z/7/4/maluku-province-wp/ternate-island.jpg",
+        "filename": "Ternate Island.jpg",
+        "caption": "View of Ternate Island off west coast of Halmahera, Indonesia",
+        "alt": "View of Ternate Island off west coast of Halmahera, Indonesia",
+        "width": 1024,
+        "height": 768,
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "artist": "A. Rabin",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ternate_Island.jpg",
+        "smallPath": "_m/q/z/7/4/maluku-province-wp/ternate-island-small.webp"
       },
       "images": [
         {
-          "path": "_m/q/z/c/j/molucca-sea-wp/ternate-island.jpg",
+          "path": "_m/q/z/7/4/maluku-province-wp/ternate-island.jpg",
           "filename": "Ternate Island.jpg",
           "caption": "View of Ternate Island off west coast of Halmahera, Indonesia",
           "alt": "View of Ternate Island off west coast of Halmahera, Indonesia",
@@ -48,7 +37,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Gamalama",
             "Halmahera"
-          ]
+          ],
+          "smallPath": "_m/q/z/7/4/maluku-province-wp/ternate-island-small.webp"
         }
       ],
       "narration": [
@@ -60,8 +50,9 @@
         "_m/q/z/c/j/molucca-sea-wp/qzcj-the-sea-that-swallows-itself-where-empires-collide.mp3"
       ],
       "combinedNarration": "_m/q/z/c/j/molucca-sea-wp/qzcj-molucca-sea-combined.mp3",
-      "combinedNarrationBytes": 4413883,
-      "combinedNarrationDuration": 367
+      "combinedNarrationBytes": 4459394,
+      "combinedNarrationDuration": 367,
+      "combinedCover": "_m/q/z/c/j/molucca-sea-wp/qzcj-molucca-sea-combined-cover.jpg"
     }
   }
 }

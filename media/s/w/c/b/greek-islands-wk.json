@@ -3,33 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/w/c/b/greek-islands-wk/hero.jpg",
-        "filename": "Panoramic of Heraklion.jpg",
-        "caption": "Panoramic view of Heraklion from Kazantzakis Tomb, Crete, Greece",
-        "alt": "Panoramic view of Heraklion from Kazantzakis Tomb, Crete, Greece",
-        "width": 4488,
-        "height": 1075,
+        "path": "_m/s/w/c/b/greek-islands-wk/ios-gialos-2-banner.jpg",
+        "filename": "Ios Gialos 2 banner.jpg",
+        "caption": "Ios, Gialos, Greece",
+        "alt": "Ios, Gialos, Greece",
+        "width": 4539,
+        "height": 650,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Bernard Gagnon",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panoramic_of_Heraklion.jpg",
-        "sourceType": "core",
+        "license": "CC BY 3.0",
+        "artist": "user:Olaf Tausch",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ios_Gialos_2_banner.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "greek-islands-wk",
         "sourceGeohash4": "swcb",
-        "categories": [
-          "2011 in Heraklion",
-          "CC-BY-SA-3.0",
-          "Files with coordinates missing SDC location of creation",
-          "GFDL",
-          "License migration redundant",
-          "Panoramics of Heraklion",
-          "Self-published work",
-          "Taken with Sony DSC-HX1"
-        ]
+        "mediumPath": "_m/s/w/c/b/greek-islands-wk/ios-gialos-2-banner-medium.webp",
+        "smallPath": "_m/s/w/c/b/greek-islands-wk/ios-gialos-2-banner-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/w/c/b/greek-islands-wk/blick-vom-hochsten-pun.jpg",
+          "path": "_m/s/w/b/7/greece-wk/blick-vom-hochsten-pun.jpg",
           "filename": "RhodosStadtzentrum5.JPG",
           "caption": "Blick vom höchsten Punkt auf dem Glockenturrm des \"ROLOI\" Uhrturm in der Altstadt von Rhodos.",
           "alt": "Blick vom höchsten Punkt auf dem Glockenturrm des \"ROLOI\" Uhrturm in der Altstadt von Rhodos.",
@@ -53,10 +45,12 @@
             "Taken with Konica Minolta Dynax 7D",
             "Unidentified ships in Rhodes (city)",
             "Views from Rhodes clock tower"
-          ]
+          ],
+          "mediumPath": "_m/s/w/b/7/greece-wk/blick-vom-hochsten-pun-medium.webp",
+          "smallPath": "_m/s/w/b/7/greece-wk/blick-vom-hochsten-pun-small.webp"
         },
         {
-          "path": "_m/s/w/c/b/greek-islands-wk/asos-kefalonia.jpg",
+          "path": "_m/s/q/w/x/ionian-islands-wk/asos-kefalonia.jpg",
           "filename": "Asos, Kefalonia.jpg",
           "caption": "Asos, Kefalonia, Greece.",
           "alt": "Asos, Kefalonia, Greece.",
@@ -76,7 +70,9 @@
             "Greece photographs taken on 2008-09-17",
             "Taken with Nikon D40x",
             "Views of Assos (Kefalonia)"
-          ]
+          ],
+          "mediumPath": "_m/s/q/w/x/ionian-islands-wk/asos-kefalonia-medium.webp",
+          "smallPath": "_m/s/q/w/x/ionian-islands-wk/asos-kefalonia-small.webp"
         },
         {
           "path": "_m/s/w/c/b/greek-islands-wk/greek-islands-regions.png",
@@ -107,7 +103,7 @@
           "smallPath": "_m/s/w/c/b/greek-islands-wk/greek-islands-regions-small.webp"
         },
         {
-          "path": "_m/s/w/c/b/greek-islands-wk/medieval-city-of-rhodes-03.jpg",
+          "path": "_m/tpc/rh/od/es/__/rhodes/medieval-city-of-rhodes-03.jpg",
           "filename": "Medieval City of Rhodes 03.jpg",
           "caption": "Medieval City of Rhodes, Greece",
           "alt": "Medieval City of Rhodes, Greece",
@@ -132,10 +128,12 @@
             "Roofscapes in the medieval city of Rhodes",
             "Self-published work",
             "Taken with Sony DSC-HX1"
-          ]
+          ],
+          "mediumPath": "_m/tpc/rh/od/es/__/rhodes/medieval-city-of-rhodes-03-medium.webp",
+          "smallPath": "_m/tpc/rh/od/es/__/rhodes/medieval-city-of-rhodes-03-small.webp"
         },
         {
-          "path": "_m/s/w/c/b/greek-islands-wk/zakyntos-city-view.jpg",
+          "path": "_m/s/q/w/x/ionian-islands-wk/zakyntos-city-view.jpg",
           "filename": "Zakyntos city view.jpg",
           "caption": "Zakynthos city panoramic view from Bohali hill",
           "alt": "Zakynthos city panoramic view from Bohali hill",
@@ -151,10 +149,12 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Zakynthos (city)"
-          ]
+          ],
+          "mediumPath": "_m/s/q/w/x/ionian-islands-wk/zakyntos-city-view-medium.webp",
+          "smallPath": "_m/s/q/w/x/ionian-islands-wk/zakyntos-city-view-small.webp"
         },
         {
-          "path": "_m/s/w/c/b/greek-islands-wk/the-old-fortress-and-the-old-t.jpg",
+          "path": "_m/s/q/w/x/ionian-islands-wk/the-old-fortress-and-the-old-t.jpg",
           "filename": "The Old Fortress and the Old Town of Corfu - September 2017.jpg",
           "caption": "The Old Fortress and the Old Town of Corfu - part of UNESCO World Heritage Site Ref. Number 978.",
           "alt": "The Old Fortress and the Old Town of Corfu - part of UNESCO World Heritage Site Ref. Number 978.",
@@ -166,10 +166,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Old_Fortress_and_the_Old_Town_of_Corfu_-_September_2017.jpg",
           "sourceType": "core",
           "sourceArticleId": "greek-islands-wk",
-          "sourceGeohash4": "swcb"
+          "sourceGeohash4": "swcb",
+          "mediumPath": "_m/s/q/w/x/ionian-islands-wk/the-old-fortress-and-the-old-t-medium.webp",
+          "smallPath": "_m/s/q/w/x/ionian-islands-wk/the-old-fortress-and-the-old-t-small.webp"
         },
         {
-          "path": "_m/s/w/c/b/greek-islands-wk/pictures-trip-koufonis.jpg",
+          "path": "_m/s/w/d/4/koufonisi-wk/pictures-trip-koufonis.jpg",
           "filename": "Koufonisi 2023 08.jpg",
           "caption": "Pictures from trip to Koufonisi June 2023",
           "alt": "Pictures from trip to Koufonisi June 2023",
@@ -182,8 +184,8 @@
           "sourceType": "core",
           "sourceArticleId": "greek-islands-wk",
           "sourceGeohash4": "swcb",
-          "mediumPath": "_m/s/w/c/b/greek-islands-wk/pictures-trip-koufonis-medium.webp",
-          "smallPath": "_m/s/w/c/b/greek-islands-wk/pictures-trip-koufonis-small.webp"
+          "mediumPath": "_m/s/w/d/4/koufonisi-wk/pictures-trip-koufonis-medium.webp",
+          "smallPath": "_m/s/w/d/4/koufonisi-wk/pictures-trip-koufonis-small.webp"
         },
         {
           "path": "_m/s/w/c/b/greek-islands-wk/pictures-trip-koufonis-1.jpg",
@@ -203,7 +205,7 @@
           "smallPath": "_m/s/w/c/b/greek-islands-wk/pictures-trip-koufonis-1-small.webp"
         },
         {
-          "path": "_m/s/w/c/b/greek-islands-wk/on-top-of-the-world-1044551921.jpg",
+          "path": "_m/s/q/w/x/ionian-islands-wk/on-top-of-the-world-1044551921.jpg",
           "filename": "On top of the world (10445519213).jpg",
           "caption": "Ithaca from very near the top of the northern peninsula of Kefalonia. The Greek mainland in the haze behind.",
           "alt": "Ithaca from very near the top of the northern peninsula of Kefalonia. The Greek mainland in the haze behind.",
@@ -215,10 +217,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:On_top_of_the_world_(10445519213).jpg",
           "sourceType": "core",
           "sourceArticleId": "greek-islands-wk",
-          "sourceGeohash4": "swcb"
+          "sourceGeohash4": "swcb",
+          "smallPath": "_m/s/q/w/x/ionian-islands-wk/on-top-of-the-world-1044551921-small.webp"
         },
         {
-          "path": "_m/s/w/c/b/greek-islands-wk/aerial-view-santorini.jpg",
+          "path": "_m/s/w/6/p/santorini-eruption-wk/aerial-view-santorini.jpg",
           "filename": "Santoríni aerial.jpg",
           "caption": "Aerial view of Santoríni",
           "alt": "Aerial view of Santoríni",
@@ -230,10 +233,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santor%C3%ADni_aerial.jpg",
           "sourceType": "core",
           "sourceArticleId": "greek-islands-wk",
-          "sourceGeohash4": "swcb"
+          "sourceGeohash4": "swcb",
+          "mediumPath": "_m/s/w/6/p/santorini-eruption-wk/aerial-view-santorini-medium.webp",
+          "smallPath": "_m/s/w/6/p/santorini-eruption-wk/aerial-view-santorini-small.webp"
         },
         {
-          "path": "_m/s/w/c/b/greek-islands-wk/inhabited-islands-argo.jpg",
+          "path": "_m/s/w/8/y/saronic-gulf-wp/inhabited-islands-argo.jpg",
           "filename": "Argo-saronic EN.JPG",
           "caption": "Inhabited islands of Argo-saronic, Greece",
           "alt": "Inhabited islands of Argo-saronic, Greece",
@@ -257,7 +262,8 @@
             "Saronic Gulf",
             "Satellite pictures of Greece",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/w/8/y/saronic-gulf-wp/inhabited-islands-argo-small.webp"
         },
         {
           "path": "_m/s/w/c/b/greek-islands-wk/avelonisia-irakleias.png",
@@ -304,7 +310,7 @@
           "smallPath": "_m/s/w/c/b/greek-islands-wk/arnaouti-small.webp"
         },
         {
-          "path": "_m/s/w/c/b/greek-islands-wk/argolide-e-golfo-di-saronicco.jpg",
+          "path": "_m/s/w/8/y/saronic-gulf-wp/argolide-e-golfo-di-saronicco.jpg",
           "filename": "Argolide e golfo di Saronicco.JPG",
           "caption": "Argolide e Golfo di Saronicco, Grecia",
           "alt": "Argolide e Golfo di Saronicco, Grecia",
@@ -328,7 +334,8 @@
             "Satellite pictures of Greece",
             "Self-published work",
             "Uploaded with derivativeFX"
-          ]
+          ],
+          "smallPath": "_m/s/w/8/y/saronic-gulf-wp/argolide-e-golfo-di-saronicco-small.webp"
         },
         {
           "path": "_m/s/w/c/b/greek-islands-wk/idhra09islet.jpg",
@@ -353,7 +360,7 @@
           "smallPath": "_m/s/w/c/b/greek-islands-wk/idhra09islet-small.webp"
         },
         {
-          "path": "_m/s/w/c/b/greek-islands-wk/insel-thymena-mit-kisi.jpg",
+          "path": "_m/s/w/d/v/fourni-wk/insel-thymena-mit-kisi.jpg",
           "filename": "Insel Thymena (Fourni).jpg",
           "caption": "Insel Thymena mit Kisira (Fourni), im Vordergrund der Ort Fourni, im Hintergrund die Insel Ikaria",
           "alt": "Insel Thymena mit Kisira (Fourni), im Vordergrund der Ort Fourni, im Hintergrund die Insel Ikaria",
@@ -366,8 +373,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "fourni-wk",
           "sourceGeohash4": "swcb",
-          "mediumPath": "_m/s/w/c/b/greek-islands-wk/insel-thymena-mit-kisi-medium.webp",
-          "smallPath": "_m/s/w/c/b/greek-islands-wk/insel-thymena-mit-kisi-small.webp"
+          "mediumPath": "_m/s/w/d/v/fourni-wk/insel-thymena-mit-kisi-medium.webp",
+          "smallPath": "_m/s/w/d/v/fourni-wk/insel-thymena-mit-kisi-small.webp"
         },
         {
           "path": "_m/s/w/c/b/greek-islands-wk/agia-kyriaki.jpg",
@@ -618,7 +625,9 @@
             "NASA World Wind",
             "PD World Wind",
             "Satellite pictures of Rhodes"
-          ]
+          ],
+          "mediumPath": "_m/s/w/7/y/battle-of-rhodes-1943-wp/hero-medium.webp",
+          "smallPath": "_m/s/w/7/y/battle-of-rhodes-1943-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/od/ys/se/us/odysseus/kefallonia-ithakiww.jpg",
@@ -640,7 +649,8 @@
             "NASA World Wind",
             "PD World Wind",
             "Satellite pictures of Kefalonia"
-          ]
+          ],
+          "smallPath": "_m/tpc/od/ys/se/us/odysseus/kefallonia-ithakiww-small.webp"
         },
         {
           "path": "_m/tpc/gr/ee/k-/is/greek-islands/cycladeseng.jpg",
@@ -662,7 +672,9 @@
             "License migration redundant",
             "Maps of the Cyclades",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/gr/ee/k-/is/greek-islands/cycladeseng-medium.webp",
+          "smallPath": "_m/tpc/gr/ee/k-/is/greek-islands/cycladeseng-small.webp"
         },
         {
           "path": "_m/tpc/gr/ee/k-/is/greek-islands/nisi-ioannina-5990.jpg",
@@ -687,7 +699,9 @@
             "Ioannina Island",
             "Lake Pamvotis",
             "Views of Ioannina"
-          ]
+          ],
+          "mediumPath": "_m/tpc/gr/ee/k-/is/greek-islands/nisi-ioannina-5990-medium.webp",
+          "smallPath": "_m/tpc/gr/ee/k-/is/greek-islands/nisi-ioannina-5990-small.webp"
         },
         {
           "path": "_m/s/q/z/1/echinades-wp/hero.png",
@@ -708,7 +722,8 @@
             "Maps of the Ionian Sea",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/q/z/1/echinades-wp/hero-small.webp"
         },
         {
           "path": "_m/s/w/7/y/battle-of-rhodes-1943-wp/karte-der-dodekanes-er.png",
@@ -728,7 +743,8 @@
             "Maps of the Dodecanese",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/w/7/y/battle-of-rhodes-1943-wp/karte-der-dodekanes-er-small.webp"
         },
         {
           "path": "_m/s/w/6/2/agios-nikolaos-wk/20090620-spinalogka-elounta-pa.jpg",
@@ -748,7 +764,9 @@
             "Assessment tagged pages marked as POTY candidates",
             "CC-BY-SA-3.0",
             "Commons featured widescreen desktop backgrounds"
-          ]
+          ],
+          "mediumPath": "_m/s/w/6/2/agios-nikolaos-wk/20090620-spinalogka-elounta-pa-medium.webp",
+          "smallPath": "_m/s/w/6/2/agios-nikolaos-wk/20090620-spinalogka-elounta-pa-small.webp"
         },
         {
           "path": "_m/tpc/gr/ee/k-/is/greek-islands/souda-island.jpg",
@@ -763,7 +781,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Souda_Island.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "greek-islands",
-          "sourceGeohash4": "tpc/gr/ee/k-/is"
+          "sourceGeohash4": "tpc/gr/ee/k-/is",
+          "mediumPath": "_m/tpc/gr/ee/k-/is/greek-islands/souda-island-medium.webp",
+          "smallPath": "_m/tpc/gr/ee/k-/is/greek-islands/souda-island-small.webp"
         },
         {
           "path": "_m/tpc/gr/ee/k-/is/greek-islands/the-four-windmills-in-mykonos.jpg",
@@ -778,7 +798,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_four_windmills_in_Mykonos.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "greek-islands",
-          "sourceGeohash4": "tpc/gr/ee/k-/is"
+          "sourceGeohash4": "tpc/gr/ee/k-/is",
+          "smallPath": "_m/tpc/gr/ee/k-/is/greek-islands/the-four-windmills-in-mykonos-small.webp"
         },
         {
           "path": "_m/tpc/gr/ee/k-/is/greek-islands/island-of-crete-greece.jpg",
@@ -793,7 +814,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Island_of_Crete,_Greece.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "greek-islands",
-          "sourceGeohash4": "tpc/gr/ee/k-/is"
+          "sourceGeohash4": "tpc/gr/ee/k-/is",
+          "mediumPath": "_m/tpc/gr/ee/k-/is/greek-islands/island-of-crete-greece-medium.webp",
+          "smallPath": "_m/tpc/gr/ee/k-/is/greek-islands/island-of-crete-greece-small.webp"
         },
         {
           "path": "_m/tpc/gr/ee/k-/is/greek-islands/nordliche-sporaden-topo.png",
@@ -808,7 +831,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:N%C3%B6rdliche_Sporaden_topo.png",
           "sourceType": "sibling",
           "sourceArticleId": "greek-islands",
-          "sourceGeohash4": "tpc/gr/ee/k-/is"
+          "sourceGeohash4": "tpc/gr/ee/k-/is",
+          "smallPath": "_m/tpc/gr/ee/k-/is/greek-islands/nordliche-sporaden-topo-small.webp"
         },
         {
           "path": "_m/tpc/gr/ee/k-/is/greek-islands/pondikonisi-cropped-01.jpg",
@@ -823,7 +847,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pondikonisi_(cropped)01.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "greek-islands",
-          "sourceGeohash4": "tpc/gr/ee/k-/is"
+          "sourceGeohash4": "tpc/gr/ee/k-/is",
+          "mediumPath": "_m/tpc/gr/ee/k-/is/greek-islands/pondikonisi-cropped-01-medium.webp",
+          "smallPath": "_m/tpc/gr/ee/k-/is/greek-islands/pondikonisi-cropped-01-small.webp"
         },
         {
           "path": "_m/s/w/8/s/hydra-island-wp/aerial-hydra-island-gr.jpg",
@@ -838,7 +864,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_of_Hydra_island,_Greece_(43958918185).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "hydra-island-wp",
-          "sourceGeohash4": "swcb"
+          "sourceGeohash4": "swcb",
+          "mediumPath": "_m/s/w/8/s/hydra-island-wp/aerial-hydra-island-gr-medium.webp",
+          "smallPath": "_m/s/w/8/s/hydra-island-wp/aerial-hydra-island-gr-small.webp"
         }
       ],
       "narration": [

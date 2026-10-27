@@ -3,33 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/7/k/c/noosa-national-park-wp/hero.jpg",
-        "filename": "Noosa head-raffi kojian-CIMG6549.JPG",
-        "caption": "The beach along Noosa headlands, Queensland.  Only accessible by foot.  Photo by Raffi Kojian.",
-        "alt": "The beach along Noosa headlands, Queensland.  Only accessible by foot.  Photo by Raffi Kojian.",
-        "width": 1280,
-        "height": 960,
+        "path": "_m/r/7/k/c/noosa-national-park-wp/walkway-noosa-national.jpg",
+        "filename": "Walkway in Noosa National park Australia.jpg",
+        "caption": "Walkway in Noosa National park Australia",
+        "alt": "Walkway in Noosa National park Australia",
+        "width": 5760,
+        "height": 3840,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.5",
-        "artist": "No machine-readable author provided. RaffiKojian assumed (based on copyright claims).",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noosa_head-raffi_kojian-CIMG6549.JPG",
+        "license": "CC BY-SA 4.0",
+        "artist": "Havardtl",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walkway_in_Noosa_National_park_Australia.jpg",
         "sourceType": "core",
         "sourceArticleId": "noosa-national-park-wp",
         "sourceGeohash4": "r7kc",
         "categories": [
-          "Assumed own work",
-          "Beaches of Queensland",
-          "CC-BY-2.5",
-          "CC-BY-SA-3.0-migrated",
-          "Files with no machine-readable source",
-          "GFDL",
-          "License migration redundant",
-          "Noosa Heads, Queensland",
+          "CC-BY-SA-4.0",
           "Noosa National Park",
-          "Photographs taken on 2006-02-09",
-          "Self-published work",
-          "Taken with Casio Exilim EX-M20"
-        ]
+          "Self-published work"
+        ],
+        "mediumPath": "_m/r/7/k/c/noosa-national-park-wp/walkway-noosa-national-medium.webp",
+        "smallPath": "_m/r/7/k/c/noosa-national-park-wp/walkway-noosa-national-small.webp"
       },
       "images": [
         {
@@ -476,7 +469,9 @@
             "Pomona, Queensland",
             "Self-published work",
             "Taken with Fujifilm FinePix S2950"
-          ]
+          ],
+          "mediumPath": "_m/r/7/k/c/noosa-wk/pomona-hotel-medium.webp",
+          "smallPath": "_m/r/7/k/c/noosa-wk/pomona-hotel-small.webp"
         },
         {
           "path": "_m/r/7/k/c/noosa-wk/noosa-banner.jpg",
@@ -505,7 +500,9 @@
             "Taken with iPhone 7 Plus",
             "Wikivoyage banners by SHB2000",
             "Wikivoyage banners of Queensland"
-          ]
+          ],
+          "mediumPath": "_m/r/7/k/c/noosa-wk/noosa-banner-medium.webp",
+          "smallPath": "_m/r/7/k/c/noosa-wk/noosa-banner-small.webp"
         }
       ],
       "narration": [

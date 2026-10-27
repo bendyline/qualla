@@ -1,6 +1,6 @@
 # Lauro Sodré Palace
 
-Designed by an eighteenth-century Bolognese architect for governors who never got to use the building that rumor said was meant for a Portuguese king who never arrived.
+The seat of government for Portugal's Amazon colony, stormed by rebels in 1835 and held for two years - now the Pará State Museum.
 
 **Location:** -1.4563, -48.5031
 
@@ -8,33 +8,55 @@ Designed by an eighteenth-century Bolognese architect for governors who never go
 
 ## Introduction
 
-The rumor is persistent enough that locals still repeat it. The palace, they say, was built to house King Joseph I of Portugal and his royal family, should they ever need to relocate their court to the far colonies - a contingency plan carved in Italianate limestone on the banks of the Amazon. No document confirms this. The rumor survives because the building is grand enough to make it plausible. Stand on Portugal Avenue in the Cidade Velha quarter of Belém and you see a palace of classical symmetry, Bolognese proportions, designed by an architect from northern Italy for a colonial administration twelve thousand kilometers from home. It was completed in 1771 and occupied a year later by João Pereira Caldas, the Portuguese colonial administrator. It took its current name - Lauro Sodré Palace - in honor of a Republican-era governor of Pará whose name still carries political weight in the state.
+On January 6, 1835, rebels led by Antônio Vinagre took the government palace in Belém. They did not raid it and leave. They held it, and the province with it, for two years, withdrawing into the interior of Pará in 1837 only to keep fighting from there. The building they occupied had been designed by a Bolognese architect for Portuguese governors and had been standing barely sixty years. It is standing still. The Palácio Lauro Sodré now houses the Pará State Museum, and the rooms where an eighteenth-century colonial administration issued its orders hang paintings instead.
 
-## Antonio Landi's Design
+## A House That Would Not Stay Up
 
-The architect was Antonio Giuseppe Landi, born in Bologna in 1713, trained in the classical Italian tradition that made his home city one of the centers of European Baroque architecture. How he ended up in Belém is a story of the Pombaline reforms - the sweeping modernization program of the Marquis of Pombal, who reshaped Portugal's empire in the mid-eighteenth century. Landi arrived with a 1754 expedition as a technician of the Kingdom, tasked with upgrading the colonial infrastructure of Grão-Pará. The governor, Manuel Bernardo Mello de Castro, had inspected the existing Government Palace and found it on the verge of collapse; Friar Miguel de Bulhões had requested the inspection, and the engineers Galluzie and Manuel Mendes joined Landi on the commission that recommended demolition. In 1759, Mello de Castro formally asked the Court for Kingdom technicians to design a replacement. Landi was the answer. He would spend decades in the Amazon, designing churches, civic buildings, and the palace that bears his stylistic signature more clearly than any other of his surviving works.
+There was a palace here before this one. In 1680 the Portuguese put up a Casa de Residência - a residence house - for governors coming to inspect the Captaincy of Pará. It aged badly. By 1754, in the Pombaline years, Friar Miguel de Bulhões, standing in for Governor Mendonça Furtado, ordered an inspection that came back with an unhappy verdict: the building needed propping to stop it collapsing. Three years later the administration gave up and moved into a rented house.
 
-## Nine Years, Three Lots
+In 1759 Governor Manuel Bernardo de Mello e Castro asked Lisbon for a technical judgment, and the Kingdom sent a commission - the architect Antonio Landi with the engineers Galluzie and Manuel Mendes. They confirmed the ruin and recommended demolition, salvaging whatever tiles and timber were worth keeping. Colonial administration in the Amazon ran on exchanges like this. A wall cracks in Belém, and the answer arrives from six thousand kilometres away, months later, in writing.
 
-Construction began in 1768 under the mason Jerônimo da Silva. The existing site proved too small, and three adjacent lots had to be purchased to achieve the building's intended scale - a reminder that even eighteenth-century colonial governments negotiated with property owners. The work moved slowly through the Amazonian climate, where mortar cures differently than it does in Europe and every tropical wet season means construction delays. Nine years later, in 1771, the palace was declared complete. The administration that had commissioned it had spent the intervening years in a rented house. João Pereira Caldas moved in the following year, 1772, becoming the first governor to actually work from the building. For the next sixty-three years, the palace served as the seat of Portuguese colonial administration in the State of Grão-Pará and Maranhão - until something like insurrection arrived.
+## Three Lots and a Master Mason
 
-## The Cabanagem Storms the Gates
+Work on the replacement began in 1768 under a master mason named Jerônimo da Silva. To get the footprint the design wanted, the government bought three adjoining lots. The building was finished in November 1771 and occupied the following year by João Pereira Caldas, the Portuguese colonial administrator who inaugurated it as the palace of the governors of the State of Grão-Pará and Maranhão.
 
-On January 6, 1835, the Cabanagem revolt reached the palace. Led by Antônio Vinagre, the rebels - mostly cabanos, the poor river-people whose cane-palm huts gave the uprising its name - stormed the Government Palace in Belém. They would hold the building, and much of Pará, for the next two years. The Cabanagem was one of the bloodiest regional revolts in Brazilian history, a rising of the dispossessed against the imperial government that had inherited Portugal's colonial structures after independence. When the rebels finally abandoned the city in 1837, they fled inland to continue fighting from the interior. The cost to the rebels' community was catastrophic. But for the palace, the episode is a reminder that its elegant Italianate facade once looked out on a city where ordinary people, armed with whatever they could carry, had taken and held the seat of government by force.
+Landi gave it a classical Italian face, working from the neo-Palladian ideas he had carried out of Bologna, and the result is a piece of European academic architecture set down on the bank of a tropical bay. A rumour has followed it ever since: that it was really built for King Joseph I of Portugal, in case the royal family ever had to move the court to the colonies. No document supports this. The palace is grand enough that people kept saying it anyway, and it carries a second nickname - the King's Palace - to show for it.
 
-## From Government to Museum
+## The Cabanagem
 
-The building served as Pará's state government headquarters for over two centuries - through the empire, through the Republic, through the various reinventions of the Brazilian political order. Then in 1994, under Governor Jader Barbalho's administration, the government moved out and the palace became the Pará State Museum, known locally as MEP. The transformation was significant. The building that had embodied political power now held artistic exhibitions, from painting shows to video-mapping projections onto the historic facade - images cast in light across eighteenth-century stone. The National Institute of Historic and Artistic Heritage (IPHAN) protects the palace and its neighbors on Portugal Avenue - the Ver-o-Peso Dock, the Clock Square, Dom Pedro II Square, the Antônio Lemos Palace, the Baron of Guajará Manor House. Together they form one of the best-preserved eighteenth-century urban ensembles in Amazonian Brazil, a district of stone and tile that remembers what Belém was when it was Portugal's northernmost major colonial capital.
+The revolt that took this building in 1835 was not a palace coup. The Cabanagem drew on the people the province counted least: the poor of the Amazon, Indigenous and Black and mixed-race, many of them living in the riverside cabanas that gave the movement its name. Between 1835 and 1840 they fought the imperial government to a standstill and, for a time, ran Grão-Pará themselves. Estimates of the dead run into the tens of thousands.
+
+Antônio Vinagre's fighters left Belém in 1837 and carried the war into the interior for three more years. The palace went back to the governors. Nothing in the architecture records what happened here on January 6 - the building was designed to express a very different kind of authority, and it went on expressing it. But for two years the grandest room in Portuguese Amazonia belonged to people who had never been meant to enter it.
+
+## From Orders to Objects
+
+The palace stayed in government use long after the empire ended, which is why it is also called the Palácio do Governo. The Museu do Estado do Pará was created in 1981; in 1994, under Governor Jader Barbalho, the building was converted to house it, and the museum has been here since. Its programme runs from visual-arts exhibitions to video-mapping projected onto the facade after dark, a use for a neoclassical elevation that Landi would have struggled to picture.
+
+IPHAN, the national heritage institute, protects the building. It stands on Avenida Portugal in Cidade Velha, beside the state's judicial and legislative headquarters, inside a dense block of listed structures: the Ver-o-Peso Dock, Clock Square, Dom Pedro II Square, the Antônio Lemos Palace, the Baron of Guajará Manor House. Belém keeps a remarkable amount of its history in a very small area, and most of it is still in use.
 
 ## Flight Context
 
-Located at 1.46 degrees S, 48.50 degrees W in the Cidade Velha neighborhood of Belém, fronting Portugal Avenue and the waters of Guajará Bay. Part of a dense colonial heritage ensemble that includes the Ver-o-Peso Dock and several other IPHAN-protected buildings. Best viewed from 2,000-4,000 feet AGL on approach to Belém/Val de Cans International Airport (SBBE) from the south or east. The palace's classical Italian facade faces the bay and catches strong morning light.
+Located at 1.456 degrees S, 48.503 degrees W in the Cidade Velha district of Belém, fronting Avenida Portugal and the waters of Guajará Bay. The palace sits inside the colonial heritage core alongside the Ver-o-Peso Dock, Clock Square and the Antônio Lemos Palace; from the air, find the Ver-o-Peso market sheds on the shoreline and look immediately south into the older, tighter street grid. Best viewed from 2,000-4,000 feet AGL. Nearest field is Belém/Val de Cans-Júlio Cezar Ribeiro International (SBBE), about 9 km north. The pale classical facade faces the bay and takes strong morning light.
 
 ## Sources
 
 - [Lauro Sodré Palace - Wikipedia](https://en.wikipedia.org/?curid=73784055)
+- [Lauro Sodré Palace - Wikipedia](https://en.wikipedia.org/?curid=73784055)
+  - Original Casa de Residência built 1680; 1754 inspection ordered under Friar Miguel de Bulhões found the building structurally unsound
+  - 1759 Governor Manuel Bernardo de Mello e Castro requested a technical judgment from Lisbon; commission included architect Antonio Landi and engineers Galluzie and Manuel Mendes
+  - Construction of the replacement began 1768 under master mason Jerônimo da Silva; finished 1771, occupied 1772 by João Pereira Caldas
+  - Cabanagem revolt: Antônio Vinagre's rebels seized the palace on January 6, 1835 and held control until 1837, when they withdrew into the interior of Pará; the 1835-1840 conflict killed an estimated 30-40% of Grão-Pará's roughly 100,000 people
+  - Museu do Estado do Pará created 1981; the palace was converted to house it in 1994 under Governor Jader Barbalho
+
+## Review Notes
+
+**Reviewed:** 2026-09-05 · 5 facts verified · 0 corrections
+
+Verified 1680/1754/1759/1768/1771-72 construction timeline, Antonio Landi commission, Cabanagem seizure Jan 6 1835 and 1837 withdrawal, revolt casualty estimates (30-40% of ~100k population), and 1981/1994 museum founding & conversion under Gov. Jader Barbalho via English and Portuguese Wikipedia. No factual or dignity errors found. Spiciness 2 (mild, mostly narrative).
+
+**Spiciness:** 2/5
 
 ---
 
-*Word count: 810*
+*Word count: 718*
 *Read time: 4 minutes*

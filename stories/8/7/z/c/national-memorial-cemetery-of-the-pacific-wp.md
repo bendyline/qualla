@@ -32,7 +32,7 @@ Millions of visitors come to the Punchbowl each year, making it one of Hawaii's 
 
 ## Flight Context
 
-Located at 21.312N, 157.846W inside Punchbowl Crater in Honolulu. The crater is a distinctive circular formation clearly visible from the air at altitudes above 1,500 feet. Diamond Head crater is visible 3 miles to the southeast. Honolulu International Airport (PHNL) lies 4 miles to the west. Best viewed in morning light from the south or east approach.
+Located at 21.312N, 157.846W inside Punchbowl Crater in Honolulu. The crater is a distinctive circular formation clearly visible from the air at altitudes above 1,500 feet. Diamond Head crater is visible 3 miles to the southeast. Daniel K. Inouye International Airport (PHNL, formerly Honolulu International) lies 4 miles to the west. Best viewed in morning light from the south or east approach.
 
 ## Sources
 

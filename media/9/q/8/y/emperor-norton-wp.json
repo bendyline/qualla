@@ -3,32 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/8/y/emperor-norton-wp/hero.png",
-        "filename": "Nortonplaque3-01.png",
-        "caption": "Plaque commemorating \"Emperor Norton I\" of San Francisco, from Transbay Terminal.",
-        "alt": "Plaque commemorating \"Emperor Norton I\" of San Francisco, from Transbay Terminal.",
-        "width": 1049,
-        "height": 1277,
-        "mimeType": "image/png",
+        "path": "_m/9/q/8/y/mission-san-francisco-de-as-s-wp/hero.jpg",
+        "filename": "SF From Marin Highlands3.jpg",
+        "caption": "San Francisco from en:Marin Headlands",
+        "alt": "San Francisco from en:Marin Headlands",
+        "width": 2672,
+        "height": 1885,
         "license": "Public domain",
-        "artist": "Nagle at en.wikipedia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nortonplaque3-01.png",
-        "sourceType": "core",
-        "sourceArticleId": "emperor-norton-wp",
-        "sourceGeohash4": "9q8y",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Emperor Norton Bay Bridge plaque",
-          "GFDL",
-          "License migration redundant",
-          "PD US no notice",
-          "PD US not renewed",
-          "Self-published work"
-        ]
+        "artist": "en:User:Paul.h",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SF_From_Marin_Highlands3.jpg",
+        "mediumPath": "_m/9/q/8/y/mission-san-francisco-de-as-s-wp/hero-medium.webp",
+        "smallPath": "_m/9/q/8/y/mission-san-francisco-de-as-s-wp/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/8/y/emperor-norton-wp/hero.jpg",
+          "path": "_m/9/q/8/y/mission-san-francisco-de-as-s-wp/hero.jpg",
           "filename": "SF From Marin Highlands3.jpg",
           "caption": "San Francisco from en:Marin Headlands",
           "alt": "San Francisco from en:Marin Headlands",
@@ -50,7 +39,9 @@
             "San Francisco skylines",
             "Taken with Canon Digital IXUS 800 IS",
             "United States photographs taken on 2006-11-05"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/mission-san-francisco-de-as-s-wp/hero-medium.webp",
+          "smallPath": "_m/9/q/8/y/mission-san-francisco-de-as-s-wp/hero-small.webp"
         }
       ],
       "narration": [
@@ -62,8 +53,9 @@
         "_m/9/q/8/y/emperor-norton-wp/9q8y-emperor-norton-the-emperors-afterlife.mp3"
       ],
       "combinedNarration": "_m/9/q/8/y/emperor-norton-wp/9q8y-emperor-norton-combined.mp3",
-      "combinedNarrationBytes": 2875041,
-      "combinedNarrationDuration": 239
+      "combinedNarrationBytes": 2982683,
+      "combinedNarrationDuration": 239,
+      "combinedCover": "_m/9/q/8/y/emperor-norton-wp/9q8y-emperor-norton-combined-cover.jpg"
     }
   }
 }

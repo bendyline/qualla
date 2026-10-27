@@ -3,26 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/b/g/k/castle-down-wp/hero.jpg",
-        "filename": "Aerial view of the Isles of Scilly 2009-03-04.jpg",
-        "caption": "Dodgy iPhone-out-of-plane-window shot of this island group off the coast of Cornwall. Not quite complete - St Agnes and a few smaller islands are off the bottom of the shot.",
-        "alt": "Dodgy iPhone-out-of-plane-window shot of this island group off the coast of Cornwall. Not quite complete - St Agnes and a few smaller islands are off the bottom of the shot.",
-        "width": 1191,
-        "height": 899,
+        "path": "_m/g/b/g/k/castle-down-wp/path-to-castle-down-geograph-o.jpg",
+        "filename": "Path to Castle Down - geograph.org.uk - 829816.jpg",
+        "caption": "Path to Castle Down A path cut through the rhododendron shows that it has grown to around 12 feet in height as well as spread across the entire hillside.",
+        "alt": "Path to Castle Down A path cut through the rhododendron shows that it has grown to around 12 feet in height as well as spread across the entire hillside.",
+        "width": 640,
+        "height": 427,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 2.0",
-        "artist": "Mike Knell",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Isles_of_Scilly_2009-03-04.jpg",
-        "sourceType": "core",
+        "artist": "David Lally",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Path_to_Castle_Down_-_geograph.org.uk_-_829816.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "castle-down-wp",
         "sourceGeohash4": "gbgk",
         "categories": [
-          "2009 in the Isles of Scilly",
-          "Aerial photographs of the Isles of Scilly",
           "CC-BY-SA-2.0",
-          "Flickr images uploaded by Flickr upload bot",
-          "Taken with iPhone (original)"
-        ]
+          "Castle Down",
+          "Images by David Lally",
+          "Images from Geograph Britain and Ireland",
+          "Information field template with formatting",
+          "Rhododendron gardens",
+          "Taken with Canon EOS 400D"
+        ],
+        "smallPath": "_m/g/b/g/k/castle-down-wp/path-to-castle-down-geograph-o-small.webp"
       },
       "images": [
         {
@@ -209,7 +212,9 @@
             "CC-BY-SA-4.0",
             "Castle Down",
             "Files with coordinates missing SDC location of creation"
-          ]
+          ],
+          "mediumPath": "_m/g/b/g/k/castle-down-wp/tresco-castle-down-medium.webp",
+          "smallPath": "_m/g/b/g/k/castle-down-wp/tresco-castle-down-small.webp"
         },
         {
           "path": "_m/g/b/g/e/isles-of-scilly-wp/hugh-town.jpg",
@@ -230,7 +235,8 @@
             "CC-BY-SA-2.5",
             "Hugh Town Harbour",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/b/g/e/isles-of-scilly-wp/hugh-town-small.webp"
         },
         {
           "path": "_m/g/b/g/e/isles-of-scilly-wp/cromwellscastle.jpg",
@@ -252,7 +258,8 @@
             "Media missing infobox template",
             "PD-user",
             "Taken with Pentax Optio S4"
-          ]
+          ],
+          "smallPath": "_m/g/b/g/e/isles-of-scilly-wp/cromwellscastle-small.webp"
         },
         {
           "path": "_m/g/b/g/e/isles-of-scilly-wp/isles-of-scilly-map.png",
@@ -267,7 +274,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isles_of_Scilly_map.png",
           "sourceType": "poi",
           "sourceArticleId": "isles-of-scilly-wp",
-          "sourceGeohash4": "gbge"
+          "sourceGeohash4": "gbge",
+          "mediumPath": "_m/g/b/g/e/isles-of-scilly-wp/isles-of-scilly-map-medium.webp",
+          "smallPath": "_m/g/b/g/e/isles-of-scilly-wp/isles-of-scilly-map-small.webp"
         }
       ],
       "narration": [

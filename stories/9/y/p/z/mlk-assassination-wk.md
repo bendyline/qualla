@@ -42,7 +42,7 @@ The Lorraine Motel is now the National Civil Rights Museum. Room 306 is preserve
 
 ## Flight Context
 
-The Lorraine Motel (35.13N, 90.06W) is located in downtown Memphis, Tennessee. Memphis International Airport (KMEM) is 15km south. The Mississippi River is 2km west. The area is flat delta terrain. Weather is humid subtropical - hot summers, mild winters. The museum complex includes the original motel and the boarding house across Mulberry Street.
+The Lorraine Motel (35.13N, 90.06W) is located in downtown Memphis, Tennessee. Frederick W. Smith International Airport (KMEM, formerly Memphis International) is 15km south. The Mississippi River is 2km west. The area is flat delta terrain. Weather is humid subtropical - hot summers, mild winters. The museum complex includes the original motel and the boarding house across Mulberry Street.
 
 ## Sources
 

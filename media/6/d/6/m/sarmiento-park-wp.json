@@ -3,29 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/d/6/m/sarmiento-park-wp/hero.jpg",
-        "filename": "Parque Sarmiento, Córdoba, Argentina 1.jpg",
-        "caption": "An artificial stream in Parque Sarmiento, a large urban park in the city of Córdoba, Argentina.",
-        "alt": "An artificial stream in Parque Sarmiento, a large urban park in the city of Córdoba, Argentina.",
-        "width": 2304,
-        "height": 1728,
+        "path": "_m/6/d/6/m/sarmiento-park-wp/parque-sarmiento-lago.jpg",
+        "filename": "Parque Sarmiento (Lago).jpg",
+        "caption": "Córdoba, Argentina",
+        "alt": "Córdoba, Argentina",
+        "width": 4928,
+        "height": 2976,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.5",
-        "artist": "Pablo D. Flores",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parque_Sarmiento,_C%C3%B3rdoba,_Argentina_1.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Guadalupe S Ticse",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parque_Sarmiento_(Lago).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "sarmiento-park-wp",
         "sourceGeohash4": "6d6m",
-        "categories": [
-          "CC-BY-SA-2.5",
-          "Sarmiento Park, Córdoba",
-          "Self-published work",
-          "Taken with Fujifilm FinePix A345"
-        ]
+        "mediumPath": "_m/6/d/6/m/sarmiento-park-wp/parque-sarmiento-lago-medium.webp",
+        "smallPath": "_m/6/d/6/m/sarmiento-park-wp/parque-sarmiento-lago-small.webp"
       },
       "images": [
         {
-          "path": "_m/6/d/6/m/sarmiento-park-wp/fachada-del-museo-supe.jpg",
+          "path": "_m/6/d/6/m/c-rdoba-city-argentina-wk/fachada-del-museo-supe.jpg",
           "filename": "Fachadapalacioferreyra.JPG",
           "caption": "Fachada del Museo Superior de Bellas Artes Palacio Ferreyra",
           "alt": "Fachada del Museo Superior de Bellas Artes Palacio Ferreyra",
@@ -49,10 +45,12 @@
             "Pictures by User:Leandroidecba",
             "Self-published work",
             "Taken with Fujifilm FinePix A400"
-          ]
+          ],
+          "mediumPath": "_m/6/d/6/m/c-rdoba-city-argentina-wk/fachada-del-museo-supe-medium.webp",
+          "smallPath": "_m/6/d/6/m/c-rdoba-city-argentina-wk/fachada-del-museo-supe-small.webp"
         },
         {
-          "path": "_m/6/d/6/m/sarmiento-park-wp/hero.jpg",
+          "path": "_m/6/d/6/m/caraffa-fine-arts-museum-wp/hero.jpg",
           "filename": "Fachadanuevamuseocaraffa.JPG",
           "caption": "New wing of Emilio Caraffa Provincial Fine Arts Museum, on 411 Poeta Lugones Avenue in Córdoba (Argentina).",
           "alt": "New wing of Emilio Caraffa Provincial Fine Arts Museum, on 411 Poeta Lugones Avenue in Córdoba (Argentina).",
@@ -75,7 +73,9 @@
             "Pictures by User:Leandroidecba",
             "Self-published work",
             "Taken with Fujifilm FinePix A400"
-          ]
+          ],
+          "mediumPath": "_m/6/d/6/m/caraffa-fine-arts-museum-wp/hero-medium.webp",
+          "smallPath": "_m/6/d/6/m/caraffa-fine-arts-museum-wp/hero-small.webp"
         },
         {
           "path": "_m/6/d/6/m/sarmiento-park-wp/duck-lake-pic-2024.jpg",
@@ -387,7 +387,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parque_Sarmiento,_C%C3%B3rdoba.JPG",
           "sourceType": "commons-category",
           "sourceArticleId": "cordoba-city-argentina-wk",
-          "sourceGeohash4": "6d6m"
+          "sourceGeohash4": "6d6m",
+          "smallPath": "_m/6/d/6/m/sarmiento-park-wp/parque-sarmiento-cordoba-small.webp"
         },
         {
           "path": "_m/6/d/6/m/sarmiento-park-wp/parque-sarmiento-lago.jpg",

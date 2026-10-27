@@ -3,26 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/m/x/unstan-chambered-cairn-wp/hero.jpg",
-        "filename": "Unstan chambered cairn entrance by Bruce McAdam.jpg",
-        "caption": "Entrance to Unstan Chambered Cairn, Orkney",
-        "alt": "Entrance to Unstan Chambered Cairn, Orkney",
-        "width": 2304,
-        "height": 3072,
+        "path": "_m/g/f/m/x/unstan-chambered-cairn-wp/orkney-unstan-chambered-cairn-.jpg",
+        "filename": "Orkney Unstan Chambered Cairn 03.jpg",
+        "caption": "Orkney, Unstan Chambered Cairn",
+        "alt": "Orkney, Unstan Chambered Cairn",
+        "width": 3072,
+        "height": 4080,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Bruce McAdam from Reykjavik, Iceland",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unstan_chambered_cairn_entrance_by_Bruce_McAdam.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "PaulT (Gunther Tschuch)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orkney_Unstan_Chambered_Cairn_03.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "unstan-chambered-cairn-wp",
         "sourceGeohash4": "gfmx",
-        "categories": [
-          "CC-BY-SA-2.0",
-          "Files with coordinates missing SDC location of creation",
-          "Flickr images reviewed by File Upload Bot (Magnus Manske)",
-          "Taken with Canon PowerShot A620",
-          "Unstan Chambered Cairn"
-        ]
+        "mediumPath": "_m/g/f/m/x/unstan-chambered-cairn-wp/orkney-unstan-chambered-cairn--medium.webp",
+        "smallPath": "_m/g/f/m/x/unstan-chambered-cairn-wp/orkney-unstan-chambered-cairn--small.webp"
       },
       "images": [
         {
@@ -339,7 +334,8 @@
             "Self-published work",
             "Taken with Nikon D5000",
             "United Kingdom in World War II"
-          ]
+          ],
+          "smallPath": "_m/g/f/m/x/stromness-wp/ness-battery-stromness-orkney--small.webp"
         },
         {
           "path": "_m/g/f/m/x/stromness-wp/stromness-museum.jpg",
@@ -362,7 +358,8 @@
             "John Rae (explorer)",
             "Self-published work",
             "Stromness Museum"
-          ]
+          ],
+          "smallPath": "_m/g/f/m/x/stromness-wp/stromness-museum-small.webp"
         },
         {
           "path": "_m/g/f/t/b/rousay-wp/rousay-banner-midhow-chambered.jpg",
@@ -385,7 +382,9 @@
             "Midhowe Chambered Cairn",
             "Self-published work",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/t/b/rousay-wp/rousay-banner-midhow-chambered-medium.webp",
+          "smallPath": "_m/g/f/t/b/rousay-wp/rousay-banner-midhow-chambered-small.webp"
         },
         {
           "path": "_m/g/f/t/b/rousay-wp/midhowe-neolithic-chambered-ca.jpg",
@@ -416,7 +415,9 @@
             "United Kingdom photographs taken on 2014-07-16",
             "Uploaded via Campaign:wlm-gb-sct",
             "WLM-UK 2018 unfiltered 09-03"
-          ]
+          ],
+          "mediumPath": "_m/g/f/t/b/rousay-wp/midhowe-neolithic-chambered-ca-medium.webp",
+          "smallPath": "_m/g/f/t/b/rousay-wp/midhowe-neolithic-chambered-ca-small.webp"
         },
         {
           "path": "_m/g/f/t/b/rousay-wp/taversoe-tuick-chambered-cairn.jpg",
@@ -431,7 +432,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tavers%C3%B6e_Tuick_Chambered_Cairn,_Rousay_(exterior).jpg",
           "sourceType": "poi",
           "sourceArticleId": "rousay-wp",
-          "sourceGeohash4": "gftb"
+          "sourceGeohash4": "gftb",
+          "mediumPath": "_m/g/f/t/b/rousay-wp/taversoe-tuick-chambered-cairn-medium.webp",
+          "smallPath": "_m/g/f/t/b/rousay-wp/taversoe-tuick-chambered-cairn-small.webp"
         }
       ],
       "narration": [

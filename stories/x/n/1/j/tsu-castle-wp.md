@@ -33,7 +33,7 @@ Located at 34.718N, 136.508E in central Tsu city, Mie Prefecture, at the conflue
 ## Sources
 
 - [Tsu Castle - Wikipedia](https://en.wikipedia.org/?curid=38095039)
-- [Wikipedia - Tsu Castle (fact-check)](https://en.wikipedia.org/wiki/Tsu_Castle)
+- [Wikipedia - Tsu Castle (fact-check)](https://en.wikipedia.org/?curid=38095039)
   - 1,300 defenders vs 30,000 attackers at 1600 siege - confirmed
   - Western army commanders included Mori Terumoto and Chosokabe Morichika - confirmed
   - Tomita Nobutaka and wife Yuki no Kata defended the castle - confirmed

@@ -41,7 +41,7 @@ Epicenter located near 35.00N, 139.00E, in the mountainous interior of the north
   - Tanna Fault caused 1930 North Izu earthquake
   - left-lateral strike-slip fault mechanism
   - fault movement visible at Tanna Fault Park where railway tunnel was displaced
-- [1930 North Izu earthquake - USGS / seismological literature](https://en.wikipedia.org/wiki/1930_North_Izu_earthquake)
+- [1930 North Izu earthquake - USGS / seismological literature](https://en.wikipedia.org/?curid=36004068)
   - magnitude Ms 7.3 confirmed (story's 7.3 is correct; some sources say 7.0 but Ms 7.3 is the standard seismological measurement)
   - 272 deaths confirmed
   - 2165 houses totally destroyed

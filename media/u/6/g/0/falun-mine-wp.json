@@ -12,20 +12,32 @@
         "_m/u/6/g/0/falun-mine-wp/u6g0-falun-mine-from-copper-to-heritage.mp3"
       ],
       "hero": {
-        "path": "_m/u/6/f/e/sweden-wp/01-falukorv.jpg",
-        "filename": "01 Falukorv.jpg",
-        "caption": "Falukorv, a type of Swedish cooked sausage ('korv' in Swedish) made of a grated mixture of smoked pork and beef or veal with potato starch flour, onion, salt and mild spices. The name and history of falukorv reaches back to the Falun copper mine during the 16th and 17th century.",
-        "alt": "Falukorv, a type of Swedish cooked sausage ('korv' in Swedish) made of a grated mixture of smoked pork and beef or veal with potato starch flour, onion, salt and mild spices. The name and history of falukorv reaches back to the Falun copper mine during the 16th and 17th century.",
-        "width": 1600,
-        "height": 1200,
+        "path": "_m/u/6/g/0/falun-mine-wp/hero.jpg",
+        "filename": "Falu koppargruva.jpg",
+        "caption": "Falun Coppermine",
+        "alt": "Falun Coppermine",
+        "width": 2048,
+        "height": 1536,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "Julien Menichini",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:01_Falukorv.jpg",
-        "sourceType": "poi",
-        "sourceArticleId": "sweden-wp",
-        "sourceGeohash4": "u6fe",
+        "license": "CC BY-SA 2.0 de",
+        "artist": "Lapplaender",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falu_koppargruva.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "falun-mine-wp",
+        "sourceGeohash4": "u6g0",
         "accessedAt": "2026-02-22T14:44:27.801Z",
+        "categories": [
+          "CC-BY-SA-2.0-DE",
+          "Falun Copper Mine",
+          "Gamla och nya gruvstugan",
+          "June 2004 in Falun",
+          "Listed buildings in Sweden missing SDC location of creation",
+          "Listed buildings in Sweden with known IDs",
+          "Oscars lave",
+          "Self-published work",
+          "Sweden photographs taken on 2004-06-27",
+          "Taken with Ricoh Caplio RR30"
+        ],
         "mediumPath": "_m/u/6/g/0/falun-mine-wp/hero-medium.webp",
         "smallPath": "_m/u/6/g/0/falun-mine-wp/hero-small.webp"
       },
@@ -153,7 +165,7 @@
           "sourceArticleId": "falun-mine-wp",
           "sourceGeohash4": "u6g0",
           "accessedAt": "2026-02-22T14:44:27.801Z",
-          "smallPath": "_m/u/6/g/0/falun-mine-wp/blank-relief-location-small.jpg"
+          "smallPath": "_m/u/6/g/0/falun-mine-wp/blank-relief-location-small.webp"
         },
         {
           "path": "_m/u/6/g/0/falun-mine-wp/arbetsam-database-1.jpg",
@@ -996,8 +1008,8 @@
             "Sweden photographs taken on 2004-06-27",
             "Taken with Ricoh Caplio RR30"
           ],
-          "mediumPath": "_m/u/6/g/0/falun-mine-wp/hero-medium.jpg",
-          "smallPath": "_m/u/6/g/0/falun-mine-wp/hero-small.jpg"
+          "mediumPath": "_m/u/6/g/0/falun-mine-wp/hero-medium.webp",
+          "smallPath": "_m/u/6/g/0/falun-mine-wp/hero-small.webp"
         },
         {
           "path": "_m/u/6/2/8/gothenburg-wp/goteborg-sweden-july-2.jpg",
@@ -1013,7 +1025,9 @@
           "sourceType": "poi",
           "sourceArticleId": "gothenburg-wp",
           "sourceGeohash4": "u6fe",
-          "accessedAt": "2026-02-22T14:44:27.801Z"
+          "accessedAt": "2026-02-22T14:44:27.801Z",
+          "mediumPath": "_m/u/6/2/8/gothenburg-wp/goteborg-sweden-july-2-medium.webp",
+          "smallPath": "_m/u/6/2/8/gothenburg-wp/goteborg-sweden-july-2-small.webp"
         },
         {
           "path": "_m/u/6/f/e/sweden-wp/centrala-malmo.jpg",

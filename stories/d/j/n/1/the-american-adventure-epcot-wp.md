@@ -33,7 +33,7 @@ Located at 28.37N, 81.55W on the southern shore of the World Showcase Lagoon at 
 ## Sources
 
 - [The American Adventure (Epcot) - Wikipedia](https://en.wikipedia.org/?curid=7014760)
-- [Wikipedia - The American Adventure (Epcot)](https://en.wikipedia.org/wiki/The_American_Adventure_(Epcot))
+- [Wikipedia - The American Adventure (Epcot)](https://en.wikipedia.org/?curid=7014760)
   - Dallas McKennon voiced Benjamin Franklin confirmed
   - John Anderson voiced Mark Twain confirmed
   - Five-story building with forced perspective confirmed

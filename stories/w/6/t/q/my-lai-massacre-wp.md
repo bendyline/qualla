@@ -48,7 +48,7 @@ The My Lai massacre site is located at 15.178N, 108.869E in Quang Ngai Province,
   - Twenty-six soldiers charged; only Calley convicted
 - [William Calley - Wikipedia](https://en.wikipedia.org/wiki/William_Calley)
   - Calley served approximately three and a half years under house arrest before parole in November 1974
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/My_Lai_massacre)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=68292)
   - Converted a compressed/misattributed ditch quote to indirect speech (source renders it as Calley's reconstructed line).
 
 ## Review Notes

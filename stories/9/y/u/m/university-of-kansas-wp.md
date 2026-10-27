@@ -28,7 +28,7 @@ From the top of Mount Oread, the view stretches east across the Wakarusa Valley 
 
 ## Flight Context
 
-Located at 38.958N, 95.248W on Mount Oread in Lawrence, Kansas, elevation approximately 1,020 feet MSL. The campus is the prominent hilltop feature on the west side of Lawrence, easily visible from altitude. Lawrence Municipal Airport (KLWC) lies 4 miles north. The War Memorial Campanile tower is a visible landmark. Allen Fieldhouse and David Booth Kansas Memorial Stadium are large structures on the southeast side of campus. The Kansas River flows along the north edge of Lawrence. The Haskell-Baker Wetlands are visible to the southeast. Best viewed at 3,000-5,000 feet AGL, with the hilltop campus contrasting against the surrounding flatter terrain.
+Located at 38.958N, 95.248W on Mount Oread in Lawrence, Kansas, elevation approximately 1,020 feet MSL. The campus is the prominent hilltop feature on the west side of Lawrence, easily visible from altitude. Lawrence Regional Airport (KLWC, formerly Lawrence Municipal) lies 4 miles north. The War Memorial Campanile tower is a visible landmark. Allen Fieldhouse and David Booth Kansas Memorial Stadium are large structures on the southeast side of campus. The Kansas River flows along the north edge of Lawrence. The Haskell-Baker Wetlands are visible to the southeast. Best viewed at 3,000-5,000 feet AGL, with the hilltop campus contrasting against the surrounding flatter terrain.
 
 ## Sources
 

@@ -3,33 +3,20 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/8/p/b/saky-air-base-wp/hero.png",
-        "filename": "Reliefkarte Ukraine 2022.png",
-        "caption": "Reliefkarte Ukraine",
-        "alt": "Reliefkarte Ukraine",
-        "width": 2876,
-        "height": 1954,
-        "mimeType": "image/png",
-        "license": "CC BY-SA 3.0",
-        "artist": "Tschubby",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reliefkarte_Ukraine_2022.png",
-        "sourceType": "core",
-        "sourceArticleId": "saky-air-base-wp",
-        "sourceGeohash4": "u8pb",
-        "categories": [
-          "CC-BY-SA-2.5,2.0,1.0",
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "License migration redundant",
-          "Map images that should use vector graphics",
-          "PNG that should use vector graphics",
-          "Relief location maps of Ukraine",
-          "Self-published work"
-        ]
+        "path": "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png",
+        "filename": "Aviacionavion.png",
+        "caption": "Sign based on photograph with front view of a Turkmenistan Airlines Boeing 757 landing at London Heathrow Airport, England. The registration is not known. Photographed by Adrian Pingstone in June 2004 and released to the public domain.",
+        "alt": "Sign based on photograph with front view of a Turkmenistan Airlines Boeing 757 landing at London Heathrow Airport, England. The registration is not known. Photographed by Adrian Pingstone in June 2004 and released to the public domain.",
+        "width": 1600,
+        "height": 1600,
+        "license": "Public domain",
+        "artist": "Turkmenistan.airlines.frontview.arp.jpg: elfuser\nderivative work: Elfuser (talk)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aviacionavion.png",
+        "smallPath": "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/u/8/p/b/saky-air-base-wp/hero.png",
+          "path": "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png",
           "filename": "Aviacionavion.png",
           "caption": "Sign based on photograph with front view of a Turkmenistan Airlines Boeing 757 landing at London Heathrow Airport, England. The registration is not known. Photographed by Adrian Pingstone in June 2004 and released to the public domain.",
           "alt": "Sign based on photograph with front view of a Turkmenistan Airlines Boeing 757 landing at London Heathrow Airport, England. The registration is not known. Photographed by Adrian Pingstone in June 2004 and released to the public domain.",
@@ -49,10 +36,11 @@
             "Retouched pictures",
             "Self-published work",
             "Uploaded with derivativeFX"
-          ]
+          ],
+          "smallPath": "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero-small.webp"
         },
         {
-          "path": "_m/u/8/p/b/saky-air-base-wp/relief-map-of-crimea-disputed-.jpg",
+          "path": "_m/u/8/p/9/yevpatoria-wp/relief-map-of-crimea-disputed-.jpg",
           "filename": "Relief map of Crimea (disputed status).jpg",
           "caption": "Physical map of the CrimeaConformal projection, standard parallels — 45°15's.W.Template parameters (coordinates of the edges):",
           "alt": "Physical map of the CrimeaConformal projection, standard parallels — 45°15's.W.Template parameters (coordinates of the edges):",
@@ -70,7 +58,8 @@
             "PD-self",
             "Self-published work",
             "Topographic maps of Europe"
-          ]
+          ],
+          "smallPath": "_m/u/8/p/9/yevpatoria-wp/relief-map-of-crimea-disputed--small.webp"
         }
       ],
       "narration": [
@@ -82,8 +71,9 @@
         "_m/u/8/p/b/saky-air-base-wp/u8pb-saky-air-base-fire-on-the-apron.mp3"
       ],
       "combinedNarration": "_m/u/8/p/b/saky-air-base-wp/u8pb-saky-air-base-combined.mp3",
-      "combinedNarrationBytes": 3145957,
-      "combinedNarrationDuration": 262
+      "combinedNarrationBytes": 3177424,
+      "combinedNarrationDuration": 262,
+      "combinedCover": "_m/u/8/p/b/saky-air-base-wp/u8pb-saky-air-base-combined-cover.jpg"
     }
   }
 }

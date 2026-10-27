@@ -46,7 +46,7 @@ Located at 13.82N, 100.05E in Nakhon Pathom province, roughly 56 kilometers west
   - Princess Bejaratana chaired 2003 renovation committee
   - Chaleemongkolasana means 'auspicious residence of Charlie'
   - Bhimarn Prathom was first building constructed
-- [Sanam Chandra Palace - Wikipedia (2026 review)](https://en.wikipedia.org/wiki/Sanam_Chandra_Palace)
+- [Sanam Chandra Palace - Wikipedia (2026 review)](https://en.wikipedia.org/?curid=8052769)
   - Vajiravudh purchased ~335 acres in 1907 confirmed
   - Palace completed 1911 confirmed
   - Silpakorn University campus established 1965, first faculties 1968 and 1970 confirmed

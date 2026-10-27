@@ -28,7 +28,7 @@ The National Transportation Safety Board concluded that metal fatigue, exacerbat
 
 ## Flight Context
 
-The accident occurred during a flight from Hilo International (PHTO) to Honolulu International (PHNL). The emergency landing took place at Kahului Airport (PHOG) on Maui, approximately 20.54°N, 156.28°W. The flight path crossed over the Alenuihaha Channel between the Big Island and Maui. From the air, Kahului Airport is clearly visible on Maui's central isthmus between Haleakala and the West Maui Mountains. The inter-island route is one of the most heavily flown corridors in the United States.
+The accident occurred during a flight from Hilo International (PHTO) to Daniel K. Inouye International Airport (PHNL, formerly Honolulu International). The emergency landing took place at Kahului Airport (PHOG) on Maui, approximately 20.54°N, 156.28°W. The flight path crossed over the Alenuihaha Channel between the Big Island and Maui. From the air, Kahului Airport is clearly visible on Maui's central isthmus between Haleakala and the West Maui Mountains. The inter-island route is one of the most heavily flown corridors in the United States.
 
 ## Sources
 

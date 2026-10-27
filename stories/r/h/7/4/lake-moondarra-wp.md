@@ -45,7 +45,7 @@ Lake Moondarra lies at roughly 20.58 degrees south, 139.57 degrees east, on the 
   - Salvinia infestation covered ~800 hectares and weighed more than 50,000 tonnes before treatment
   - Weevil reduced infestation to just a few small patches by mid-1981; landmark experiment in biological pest control
   - Subsequently used in 13 tropical countries worldwide
-- [Kalkadoon people - traditional owners of Mount Isa region](https://en.wikipedia.org/wiki/Lake_Moondarra)
+- [Kalkadoon people - traditional owners of Mount Isa region](https://en.wikipedia.org/?curid=13198166)
   - Kalkadoon people confirmed as traditional owners of the Mount Isa / Lake Moondarra area
   - Stone axe quarry at Lake Moondarra site confirmed; axes traded across large distances
 

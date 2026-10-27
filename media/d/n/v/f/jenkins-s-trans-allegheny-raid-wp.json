@@ -3,33 +3,20 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/d/n/v/f/jenkins-s-trans-allegheny-raid-wp/hero.png",
-        "filename": "Jenkins Trans-Allegheny Raid 1862V2.png",
-        "caption": "This map shows the route of Confederate Brigadier General Albert G. Jenkins in the Kanawha Valley Campaign of 1862 during the American Civil War. Jenkins circled behind a Union force commanded by Colonel Joseph Andrew Jackson Lightburn while a larger Confederate force commanded by Major General William W. Loring occupied the front.",
-        "alt": "This map shows the route of Confederate Brigadier General Albert G. Jenkins in the Kanawha Valley Campaign of 1862 during the American Civil War. Jenkins circled behind a Union force commanded by Colonel Joseph Andrew Jackson Lightburn while a larger Confederate force commanded by Major General William W. Loring occupied the front.",
-        "width": 984,
-        "height": 783,
-        "mimeType": "image/png",
+        "path": "_m/d/n/v/f/battle-of-charleston-1862-wp/hero.png",
+        "filename": "Western Virginia 1862.png",
+        "caption": "Map shows western Virginia (eventually West Virginia) in 1862, with the Kanawha River Valley and nearby important points highlighted. In 1862 during the American Civil War, a group of small battles were fought in the region, including at Charleston.",
+        "alt": "Map shows western Virginia (eventually West Virginia) in 1862, with the Kanawha River Valley and nearby important points highlighted. In 1862 during the American Civil War, a group of small battles were fought in the region, including at Charleston.",
+        "width": 1066,
+        "height": 651,
         "license": "Public domain",
-        "artist": "The map is by Alvin Jewett Johnson (1827-1884), and was published in 1864. TwoScarsUp made modifications.",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jenkins_Trans-Allegheny_Raid_1862V2.png",
-        "sourceType": "core",
-        "sourceArticleId": "jenkins-s-trans-allegheny-raid-wp",
-        "sourceGeohash4": "dnvf",
-        "categories": [
-          "Albert Gallatin Jenkins",
-          "Battle of Charleston (West Virginia)",
-          "CC-PD-Mark",
-          "Details of old maps, defaced",
-          "Jenkins' Western Virginia and Ohio Raid of 1862",
-          "Old maps of West Virginia",
-          "PD-old-70-expired",
-          "PD-old missing SDC copyright status"
-        ]
+        "artist": "Jacob Dolson Cox modified by TwoScarsUp",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_Virginia_1862.png",
+        "smallPath": "_m/d/n/v/f/battle-of-charleston-1862-wp/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/d/n/v/f/jenkins-s-trans-allegheny-raid-wp/hero.png",
+          "path": "_m/d/n/v/f/battle-of-charleston-1862-wp/hero.png",
           "filename": "Western Virginia 1862.png",
           "caption": "Map shows western Virginia (eventually West Virginia) in 1862, with the Kanawha River Valley and nearby important points highlighted. In 1862 during the American Civil War, a group of small battles were fought in the region, including at Charleston.",
           "alt": "Map shows western Virginia (eventually West Virginia) in 1862, with the Kanawha River Valley and nearby important points highlighted. In 1862 during the American Civil War, a group of small battles were fought in the region, including at Charleston.",
@@ -51,10 +38,11 @@
             "Jenkins' Western Virginia and Ohio Raid of 1862",
             "PD-old-70-expired",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "smallPath": "_m/d/n/v/f/battle-of-charleston-1862-wp/hero-small.webp"
         },
         {
-          "path": "_m/d/n/v/f/jenkins-s-trans-allegheny-raid-wp/lightburnescapes2.png",
+          "path": "_m/d/n/v/f/battle-of-charleston-1862-wp/lightburnescapes2.png",
           "filename": "LightburnEscapes2.png",
           "caption": "This map shows the route of Union Colonel Joseph A. J. Lightburn's retreat from Charleston in the Kanawha Valley Campaign of 1862 during the American Civil War. Lightburn took a route to Ripley and Ravenswood to get to Ohio, and then moved to Point Pleasant. This avoided possible Confederate troops at Coalsmouth, and the cannon fire from Confederate troops on the south side of the Kanawha River.",
           "alt": "This map shows the route of Union Colonel Joseph A. J. Lightburn's retreat from Charleston in the Kanawha Valley Campaign of 1862 during the American Civil War. Lightburn took a route to Ripley and Ravenswood to get to Ohio, and then moved to Point Pleasant. This avoided possible Confederate troops at Coalsmouth, and the cannon fire from Confederate troops on the south side of the Kanawha River.",
@@ -73,7 +61,8 @@
             "Jenkins' Western Virginia and Ohio Raid of 1862",
             "PD-old-70-expired",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "smallPath": "_m/d/n/v/f/battle-of-charleston-1862-wp/lightburnescapes2-small.webp"
         }
       ],
       "narration": [
@@ -85,8 +74,9 @@
         "_m/d/n/v/f/jenkins-s-trans-allegheny-raid-wp/dnvf-jenkinss-trans-allegheny-raid-the-reckoning.mp3"
       ],
       "combinedNarration": "_m/d/n/v/f/jenkins-s-trans-allegheny-raid-wp/dnvf-jenkins-s-trans-allegheny-raid-combined.mp3",
-      "combinedNarrationBytes": 4260901,
-      "combinedNarrationDuration": 355
+      "combinedNarrationBytes": 4398306,
+      "combinedNarrationDuration": 355,
+      "combinedCover": "_m/d/n/v/f/jenkins-s-trans-allegheny-raid-wp/dnvf-jenkins-s-trans-allegheny-raid-combined-cover.jpg"
     }
   }
 }

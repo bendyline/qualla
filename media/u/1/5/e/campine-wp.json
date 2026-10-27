@@ -3,26 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/5/e/campine-wp/hero.jpg",
-        "filename": "Mechelse Hei 050806.JPG",
-        "caption": "Typisch Kempens landschap op de Mechelse Hei (Maasmechelen).",
-        "alt": "Typisch Kempens landschap op de Mechelse Hei (Maasmechelen).",
-        "width": 2304,
-        "height": 1536,
+        "path": "_m/u/1/5/e/campine-wp/de-kempen-1.jpg",
+        "filename": "De Kempen-1.jpg",
+        "caption": "landschap",
+        "alt": "landschap",
+        "width": 4608,
+        "height": 3456,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "KB72",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mechelse_Hei_050806.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Hikerbiker",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:De_Kempen-1.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "campine-wp",
         "sourceGeohash4": "u15e",
-        "categories": [
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "GFDL",
-          "License migration redundant",
-          "Mechelse Heide",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/u/1/5/e/campine-wp/de-kempen-1-medium.webp",
+        "smallPath": "_m/u/1/5/e/campine-wp/de-kempen-1-small.webp"
       },
       "images": [
         {
@@ -476,7 +471,8 @@
             "License migration redundant",
             "Rijksmonumenten with known IDs",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/0/g/r/southern-netherlands-wp/breda-kasteel-small.webp"
         },
         {
           "path": "_m/u/1/5/h/bergen-op-zoom-wp/bergen-op-zoom-008.jpg",
@@ -504,7 +500,8 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Canon PowerShot A520"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/h/bergen-op-zoom-wp/bergen-op-zoom-008-small.webp"
         },
         {
           "path": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/centrum-eindhoven.jpg",
@@ -525,7 +522,8 @@
             "CC-BY-2.0",
             "Eindhoven",
             "Flickr images reviewed by FlickreviewR"
-          ]
+          ],
+          "smallPath": "_m/tpc/ki/ng/do/m-/kingdom-of-the-netherlands/centrum-eindhoven-small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/burchtplein-oss.jpg",
@@ -548,7 +546,8 @@
             "License migration redundant",
             "Metalen bol (Burchtplein), Oss",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/burchtplein-oss-small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/klotterpeel-1.jpg",
@@ -575,7 +574,8 @@
             "Peel, Netherlands",
             "Self-published work",
             "Taken with Pentax Optio WP"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/klotterpeel-1-small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/de-grens-van-baarle.jpg",
@@ -596,7 +596,8 @@
             "CC-BY-SA-2.0",
             "Files with coordinates missing SDC location of creation (51° N, 4° E)",
             "Flickr images uploaded by Flickr upload bot"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/de-grens-van-baarle-small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/centrum-geldrop-p1060740.jpg",
@@ -611,7 +612,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Centrum_Geldrop_P1060740.JPG",
           "sourceType": "poi",
           "sourceArticleId": "north-brabant-wp",
-          "sourceGeohash4": "u15t"
+          "sourceGeohash4": "u15t",
+          "mediumPath": "_m/u/1/5/t/north-brabant-wp/centrum-geldrop-p1060740-medium.webp",
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/centrum-geldrop-p1060740-small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/boekel-raadhuis.jpg",
@@ -626,7 +629,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boekel_Raadhuis.JPG",
           "sourceType": "poi",
           "sourceArticleId": "north-brabant-wp",
-          "sourceGeohash4": "u15t"
+          "sourceGeohash4": "u15t",
+          "mediumPath": "_m/u/1/5/t/north-brabant-wp/boekel-raadhuis-medium.webp",
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/boekel-raadhuis-small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/2012-08-25-loonse-en-drunense-.jpg",
@@ -641,7 +646,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2012-08-25_Loonse_en_Drunense_Duinen_%E2%80%93_Tree.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-brabant-wp",
-          "sourceGeohash4": "u15t"
+          "sourceGeohash4": "u15t",
+          "mediumPath": "_m/u/1/5/t/north-brabant-wp/2012-08-25-loonse-en-drunense--medium.webp",
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/2012-08-25-loonse-en-drunense--small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/huize-bartholomeus-koningsplei.jpg",
@@ -656,7 +663,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huize_Bartholomeus,_Koningsplein_1,_Asten.JPG",
           "sourceType": "poi",
           "sourceArticleId": "north-brabant-wp",
-          "sourceGeohash4": "u15t"
+          "sourceGeohash4": "u15t",
+          "mediumPath": "_m/u/1/5/t/north-brabant-wp/huize-bartholomeus-koningsplei-medium.webp",
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/huize-bartholomeus-koningsplei-small.webp"
         },
         {
           "path": "_m/u/1/5/t/north-brabant-wp/haageind-deurne-klein-kasteel-.jpg",
@@ -671,7 +680,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:HAAGEIND_DEURNE_klein_kasteel_DSC4657_140913.JPG",
           "sourceType": "poi",
           "sourceArticleId": "north-brabant-wp",
-          "sourceGeohash4": "u15t"
+          "sourceGeohash4": "u15t",
+          "smallPath": "_m/u/1/5/t/north-brabant-wp/haageind-deurne-klein-kasteel--small.webp"
         },
         {
           "path": "_m/u/1/5/e/benelux-wk/intercitynet-nl-2015.png",
@@ -686,7 +696,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Intercitynet_NL_2015.png",
           "sourceType": "poi",
           "sourceArticleId": "benelux-wk",
-          "sourceGeohash4": "u15t"
+          "sourceGeohash4": "u15t",
+          "mediumPath": "_m/u/1/5/e/benelux-wk/intercitynet-nl-2015-medium.webp",
+          "smallPath": "_m/u/1/5/e/benelux-wk/intercitynet-nl-2015-small.webp"
         },
         {
           "path": "_m/u/0/g/r/southern-netherlands-wp/efteling-the-house-of-the-five.jpg",
@@ -701,7 +713,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Efteling_The_House_of_the_Five_Senses.jpg",
           "sourceType": "poi",
           "sourceArticleId": "southern-netherlands-wp",
-          "sourceGeohash4": "u15t"
+          "sourceGeohash4": "u15t",
+          "mediumPath": "_m/u/0/g/r/southern-netherlands-wp/efteling-the-house-of-the-five-medium.webp",
+          "smallPath": "_m/u/0/g/r/southern-netherlands-wp/efteling-the-house-of-the-five-small.webp"
         },
         {
           "path": "_m/u/1/5/9/sint-truiden-wp/sint-truiden.jpg",
@@ -733,7 +747,8 @@
             "September 2006 in Belgium",
             "Street clocks in Sint-Truiden",
             "Town hall of Sint-Truiden"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/9/sint-truiden-wp/sint-truiden-small.webp"
         },
         {
           "path": "_m/u/1/5/4/flanders-wp/hasselt-rathaus-20060906.jpg",
@@ -759,7 +774,9 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ20",
             "User-created GFDL images"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/4/flanders-wp/hasselt-rathaus-20060906-medium.webp",
+          "smallPath": "_m/u/1/5/4/flanders-wp/hasselt-rathaus-20060906-small.webp"
         },
         {
           "path": "_m/u/1/5/1/royal-academy-of-fine-arts-brussels-wp/mining-cathedral-saint.jpg",
@@ -786,7 +803,9 @@
             "Self-published work",
             "Theodard of Maastricht Church (Beringen-Mijn)",
             "Uploaded by Sonuwe"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/1/royal-academy-of-fine-arts-brussels-wp/mining-cathedral-saint-medium.webp",
+          "smallPath": "_m/u/1/5/1/royal-academy-of-fine-arts-brussels-wp/mining-cathedral-saint-small.webp"
         },
         {
           "path": "_m/u/1/5/f/limburg-belgium-wp/gravenvoeren-1.jpg",
@@ -809,7 +828,8 @@
             "Photos by ffc",
             "Self-published work",
             "Voer in 's-Gravenvoeren"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/f/limburg-belgium-wp/gravenvoeren-1-small.webp"
         },
         {
           "path": "_m/u/1/5/f/limburg-belgium-wp/servatiusdiepenbeek.jpg",
@@ -836,7 +856,8 @@
             "Taken with Canon PowerShot G5",
             "Town hall of Diepenbeek",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/f/limburg-belgium-wp/servatiusdiepenbeek-small.webp"
         },
         {
           "path": "_m/u/1/5/f/limburg-belgium-wp/20140726-maasmechelen-03.jpg",
@@ -851,7 +872,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20140726_Maasmechelen_03.jpg",
           "sourceType": "poi",
           "sourceArticleId": "limburg-belgium-wp",
-          "sourceGeohash4": "u15f"
+          "sourceGeohash4": "u15f",
+          "mediumPath": "_m/u/1/5/f/limburg-belgium-wp/20140726-maasmechelen-03-medium.webp",
+          "smallPath": "_m/u/1/5/f/limburg-belgium-wp/20140726-maasmechelen-03-small.webp"
         },
         {
           "path": "_m/u/1/5/f/limburg-belgium-wp/20100706-tongeren25-c.jpg",
@@ -866,7 +889,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20100706_tongeren25-c.JPG",
           "sourceType": "poi",
           "sourceArticleId": "limburg-belgium-wp",
-          "sourceGeohash4": "u15f"
+          "sourceGeohash4": "u15f",
+          "mediumPath": "_m/u/1/5/f/limburg-belgium-wp/20100706-tongeren25-c-medium.webp",
+          "smallPath": "_m/u/1/5/f/limburg-belgium-wp/20100706-tongeren25-c-small.webp"
         },
         {
           "path": "_m/u/1/5/f/limburg-belgium-wp/sint-pietersbandenkerk-halen-2.jpg",
@@ -881,7 +906,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sint-Pietersbandenkerk_(Halen)_(21764)_18-08-2019.jpg",
           "sourceType": "poi",
           "sourceArticleId": "limburg-belgium-wp",
-          "sourceGeohash4": "u15f"
+          "sourceGeohash4": "u15f",
+          "mediumPath": "_m/u/1/5/f/limburg-belgium-wp/sint-pietersbandenkerk-halen-2-medium.webp",
+          "smallPath": "_m/u/1/5/f/limburg-belgium-wp/sint-pietersbandenkerk-halen-2-small.webp"
         },
         {
           "path": "_m/u/1/5/f/limburg-belgium-wp/sint-martinuskerk-21611-genk-1.jpg",
@@ -896,7 +923,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sint-Martinuskerk_(21611)_(Genk)_19-05-2019_12-21-58.jpg",
           "sourceType": "poi",
           "sourceArticleId": "limburg-belgium-wp",
-          "sourceGeohash4": "u15f"
+          "sourceGeohash4": "u15f",
+          "mediumPath": "_m/u/1/5/f/limburg-belgium-wp/sint-martinuskerk-21611-genk-1-medium.webp",
+          "smallPath": "_m/u/1/5/f/limburg-belgium-wp/sint-martinuskerk-21611-genk-1-small.webp"
         },
         {
           "path": "_m/u/1/h/5/weert-wp/weert-stationsgebouw.jpg",
@@ -922,7 +951,8 @@
             "Self-published work",
             "Station Weert",
             "Taken with Canon PowerShot A520"
-          ]
+          ],
+          "smallPath": "_m/u/1/h/5/weert-wp/weert-stationsgebouw-small.webp"
         },
         {
           "path": "_m/u/1/h/5/weert-wp/sint-martinuskerk-weert.jpg",
@@ -947,7 +977,8 @@
             "Self-published work",
             "Toren Weert",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/u/1/h/5/weert-wp/sint-martinuskerk-weert-small.webp"
         },
         {
           "path": "_m/u/1/h/5/weert-wp/weert-gemeentehuis3.jpg",
@@ -969,7 +1000,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Olympus SP-570UZ"
-          ]
+          ],
+          "mediumPath": "_m/u/1/h/5/weert-wp/weert-gemeentehuis3-medium.webp",
+          "smallPath": "_m/u/1/h/5/weert-wp/weert-gemeentehuis3-small.webp"
         },
         {
           "path": "_m/u/1/h/5/weert-wp/stramproy-sint-jan.jpg",
@@ -992,7 +1025,8 @@
             "Self-published work",
             "Sint Jan, Stamproy",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "smallPath": "_m/u/1/h/5/weert-wp/stramproy-sint-jan-small.webp"
         },
         {
           "path": "_m/u/1/h/5/weert-wp/boshoverheide-weert-20536831-r.jpg",
@@ -1016,7 +1050,9 @@
             "Netherlands photographs taken on 2011-05-10",
             "Photographs by Sergé Technau",
             "Rijksmonumenten with known IDs"
-          ]
+          ],
+          "mediumPath": "_m/u/1/h/5/weert-wp/boshoverheide-weert-20536831-r-medium.webp",
+          "smallPath": "_m/u/1/h/5/weert-wp/boshoverheide-weert-20536831-r-small.webp"
         },
         {
           "path": "_m/u/1/h/5/weert-wp/ambachtengebouw-bi-j-coppes.jpg",
@@ -1036,7 +1072,9 @@
             "CC-BY-SA-4.0",
             "Limburgs Openluchtmuseum Eynderhoof",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/h/5/weert-wp/ambachtengebouw-bi-j-coppes-medium.webp",
+          "smallPath": "_m/u/1/h/5/weert-wp/ambachtengebouw-bi-j-coppes-small.webp"
         },
         {
           "path": "_m/u/1/5/9/sint-truiden-wp/begijnhof-sint-truiden1.jpg",
@@ -1060,7 +1098,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon Digital IXUS 860 IS"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/9/sint-truiden-wp/begijnhof-sint-truiden1-medium.webp",
+          "smallPath": "_m/u/1/5/9/sint-truiden-wp/begijnhof-sint-truiden1-small.webp"
         },
         {
           "path": "_m/u/1/5/9/sint-truiden-wp/sint-truiden-abdijcomplex-uitz.jpg",
@@ -1086,7 +1126,9 @@
             "Self-published work",
             "Taken with Samsung GT-I9100",
             "Views from the tower of Benedictijnenabdij (Sint-Truiden)"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/9/sint-truiden-wp/sint-truiden-abdijcomplex-uitz-medium.webp",
+          "smallPath": "_m/u/1/5/9/sint-truiden-wp/sint-truiden-abdijcomplex-uitz-small.webp"
         }
       ],
       "narration": [

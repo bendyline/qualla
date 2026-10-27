@@ -3,31 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/j/j/the-mumbles-lifeboat-station-wp/hero.jpg",
-        "filename": "Mumbles Lifeboat Station (geograph 5475191).jpg",
-        "caption": "Mumbles Lifeboat Station. The new Mumbles Lifeboat Station, formally opened in March 2014",
-        "alt": "Mumbles Lifeboat Station. The new Mumbles Lifeboat Station, formally opened in March 2014",
-        "width": 3924,
-        "height": 2898,
+        "path": "_m/g/c/j/j/the-mumbles-lifeboat-station-wp/mumbles-beach-panorama.jpg",
+        "filename": "Mumbles Beach panorama.jpg",
+        "caption": "From the foot of Mumbles Lighthouse and from left to right : Bracelet Bay,Mumbles Beach. Background: Bracelet Bay car park and Mumbles Lifeboat Station.",
+        "alt": "From the foot of Mumbles Lighthouse and from left to right : Bracelet Bay,Mumbles Beach. Background: Bracelet Bay car park and Mumbles Lifeboat Station.",
+        "width": 5962,
+        "height": 3985,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "David Tyers",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbles_Lifeboat_Station_(geograph_5475191).jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mjhvc",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbles_Beach_panorama.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "the-mumbles-lifeboat-station-wp",
         "sourceGeohash4": "gcjj",
-        "categories": [
-          "CC-BY-SA-2.0",
-          "Images by David Tyers",
-          "Images from Geograph Britain and Ireland",
-          "Information field template with formatting",
-          "June 2017 in Swansea",
-          "Mumbles Lifeboat Station"
-        ]
+        "mediumPath": "_m/g/c/j/j/the-mumbles-lifeboat-station-wp/mumbles-beach-panorama-medium.webp",
+        "smallPath": "_m/g/c/j/j/the-mumbles-lifeboat-station-wp/mumbles-beach-panorama-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/j/j/the-mumbles-lifeboat-station-wp/relief-map-swansea-uk.jpg",
+          "path": "_m/g/c/j/j/horton-and-port-eynon-lifeboat-station-wp/relief-map-swansea-uk.jpg",
           "filename": "Swansea UK relief location map.jpg",
           "caption": "Relief map of Swansea, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 160%\nGeographic limits:\n\nWest: 4.35W\nEast: 3.83W\nNorth: 51.80N\nSouth: 51.50N",
           "alt": "Relief map of Swansea, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 160%\nGeographic limits:\n\nWest: 4.35W\nEast: 3.83W\nNorth: 51.80N\nSouth: 51.50N",
@@ -46,7 +40,9 @@
             "Maps of Swansea",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of Wales"
-          ]
+          ],
+          "mediumPath": "_m/g/c/j/j/horton-and-port-eynon-lifeboat-station-wp/relief-map-swansea-uk-medium.webp",
+          "smallPath": "_m/g/c/j/j/horton-and-port-eynon-lifeboat-station-wp/relief-map-swansea-uk-small.webp"
         },
         {
           "path": "_m/g/c/j/j/the-mumbles-lifeboat-station-wp/building-rnli-plaques.jpg",
@@ -489,7 +485,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot S40"
-          ]
+          ],
+          "mediumPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/all-saints-church-medium.webp",
+          "smallPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/all-saints-church-small.webp"
         },
         {
           "path": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/cardiffmontage3.jpg",
@@ -504,7 +502,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cardiffmontage3.jpg",
           "sourceType": "poi",
           "sourceArticleId": "vale-of-glamorgan",
-          "sourceGeohash4": "gcjj"
+          "sourceGeohash4": "gcjj",
+          "mediumPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/cardiffmontage3-medium.webp",
+          "smallPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/cardiffmontage3-small.webp"
         },
         {
           "path": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/afan-forest-park-1.jpg",
@@ -519,7 +519,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Afan_Forest_Park_1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "vale-of-glamorgan",
-          "sourceGeohash4": "gcjj"
+          "sourceGeohash4": "gcjj",
+          "smallPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/afan-forest-park-1-small.webp"
         },
         {
           "path": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/marine-hotel-southerndown-brid.jpg",
@@ -534,7 +535,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marine_Hotel,_Southerndown,_Bridgend_(4641177).jpg",
           "sourceType": "poi",
           "sourceArticleId": "vale-of-glamorgan",
-          "sourceGeohash4": "gcjj"
+          "sourceGeohash4": "gcjj",
+          "smallPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/marine-hotel-southerndown-brid-small.webp"
         },
         {
           "path": "_m/g/c/p/v/london-wk/4-gwr-class-80x-paddin.jpg",
@@ -549,7 +551,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:4_GWR_Class_80X_at_Paddington,_from_overbridge_above_pl_4,_Nov_2021.jpg",
           "sourceType": "poi",
           "sourceArticleId": "london-wk",
-          "sourceGeohash4": "gcjj"
+          "sourceGeohash4": "gcjj",
+          "mediumPath": "_m/g/c/p/v/london-wk/4-gwr-class-80x-paddin-medium.webp",
+          "smallPath": "_m/g/c/p/v/london-wk/4-gwr-class-80x-paddin-small.webp"
         },
         {
           "path": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/castell-caerffili-o-r-awyr-aer.jpg",
@@ -564,7 +568,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castell_Caerffili_o%27r_awyr_-_aerial_(drone)_view_of_Caerphilly_Castle_-_2023_04.jpg",
           "sourceType": "poi",
           "sourceArticleId": "vale-of-glamorgan",
-          "sourceGeohash4": "gcjj"
+          "sourceGeohash4": "gcjj",
+          "mediumPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/castell-caerffili-o-r-awyr-aer-medium.webp",
+          "smallPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/castell-caerffili-o-r-awyr-aer-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/mumblespier.jpg",
@@ -588,7 +594,9 @@
             "PD-self",
             "Self-published work",
             "United Kingdom photographs taken on 2008-03-31"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/mumblespier-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/mumblespier-small.webp"
         },
         {
           "path": "_m/g/c/j/j/swansea-wp/arthur-s-stone-maen-ceti.jpg",
@@ -603,7 +611,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arthur%27s_stone_-_Maen_Ceti.JPG",
           "sourceType": "poi",
           "sourceArticleId": "swansea-wp",
-          "sourceGeohash4": "gcjj"
+          "sourceGeohash4": "gcjj",
+          "mediumPath": "_m/g/c/j/j/swansea-wp/arthur-s-stone-maen-ceti-medium.webp",
+          "smallPath": "_m/g/c/j/j/swansea-wp/arthur-s-stone-maen-ceti-small.webp"
         },
         {
           "path": "_m/g/c/j/j/swansea-wp/canolfan-dylan-thomas-abertawe.jpg",
@@ -618,7 +628,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canolfan_Dylan_Thomas,_Abertawe.JPG",
           "sourceType": "poi",
           "sourceArticleId": "swansea-wp",
-          "sourceGeohash4": "gcjj"
+          "sourceGeohash4": "gcjj",
+          "mediumPath": "_m/g/c/j/j/swansea-wp/canolfan-dylan-thomas-abertawe-medium.webp",
+          "smallPath": "_m/g/c/j/j/swansea-wp/canolfan-dylan-thomas-abertawe-small.webp"
         },
         {
           "path": "_m/g/c/j/j/swansea-wp/laverbread.jpg",
@@ -633,7 +645,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laverbread.jpg",
           "sourceType": "poi",
           "sourceArticleId": "swansea-wp",
-          "sourceGeohash4": "gcjj"
+          "sourceGeohash4": "gcjj",
+          "mediumPath": "_m/g/c/j/j/swansea-wp/laverbread-medium.webp",
+          "smallPath": "_m/g/c/j/j/swansea-wp/laverbread-small.webp"
         },
         {
           "path": "_m/g/c/j/j/swansea-wp/glynn-vivian-art-gallery-swans.jpg",
@@ -648,7 +662,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glynn_Vivian_Art_Gallery,_Swansea,_close-up.jpg",
           "sourceType": "poi",
           "sourceArticleId": "swansea-wp",
-          "sourceGeohash4": "gcjj"
+          "sourceGeohash4": "gcjj",
+          "smallPath": "_m/g/c/j/j/swansea-wp/glynn-vivian-art-gallery-swans-small.webp"
         },
         {
           "path": "_m/g/c/j/j/swansea-wp/mission-gallery.jpg",
@@ -663,7 +678,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mission_Gallery.jpg",
           "sourceType": "poi",
           "sourceArticleId": "swansea-wp",
-          "sourceGeohash4": "gcjj"
+          "sourceGeohash4": "gcjj",
+          "smallPath": "_m/g/c/j/j/swansea-wp/mission-gallery-small.webp"
         },
         {
           "path": "_m/g/c/j/j/swansea-wp/cwmdonkin-park-geograph-org-uk.jpg",
@@ -678,7 +694,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cwmdonkin_Park_-_geograph.org.uk_-_4010389.jpg",
           "sourceType": "poi",
           "sourceArticleId": "swansea-wp",
-          "sourceGeohash4": "gcjj"
+          "sourceGeohash4": "gcjj",
+          "mediumPath": "_m/g/c/j/j/swansea-wp/cwmdonkin-park-geograph-org-uk-medium.webp",
+          "smallPath": "_m/g/c/j/j/swansea-wp/cwmdonkin-park-geograph-org-uk-small.webp"
         },
         {
           "path": "_m/g/c/j/j/swansea-wp/clyne-gardens.jpg",
@@ -693,7 +711,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clyne_Gardens.jpg",
           "sourceType": "poi",
           "sourceArticleId": "swansea-wp",
-          "sourceGeohash4": "gcjj"
+          "sourceGeohash4": "gcjj",
+          "mediumPath": "_m/g/c/j/j/swansea-wp/clyne-gardens-medium.webp",
+          "smallPath": "_m/g/c/j/j/swansea-wp/clyne-gardens-small.webp"
         }
       ],
       "narration": [

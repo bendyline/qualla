@@ -3,26 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/s/s/peel-castle-wp/hero.jpg",
-        "filename": "Isle of Man Peel Castle.jpg",
-        "caption": "Peel Castle at Peel, Isle of Man",
-        "alt": "Peel Castle at Peel, Isle of Man",
-        "width": 2272,
-        "height": 1704,
+        "path": "_m/g/c/s/s/peel-castle-wp/st-german-s-cathedral.jpg",
+        "filename": "Peel Castle cathedral.jpg",
+        "caption": "St. German's Cathedral and the Lord's Apartments",
+        "alt": "St. German's Cathedral and the Lord's Apartments",
+        "width": 3925,
+        "height": 2322,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Finn Bjorklid",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isle_of_Man_Peel_Castle.jpg",
+        "license": "CC0",
+        "artist": "Manx_James",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peel_Castle_cathedral.jpg",
         "sourceType": "core",
         "sourceArticleId": "peel-castle-wp",
         "sourceGeohash4": "gcss",
         "categories": [
-          "PD-self",
-          "Peel Castle",
+          "CC-Zero",
+          "Files with coordinates missing SDC location of creation (54° N, 5° W)",
+          "Isle of Man photographs taken on 2017-04-02",
           "Self-published work",
           "St German's Cathedral (Isle of Man)",
-          "Taken with Canon PowerShot S3 IS"
-        ]
+          "Uploaded with Mobile/Android",
+          "Uploaded with Mobile/Android (Jul 2016 - Jun 2017)"
+        ],
+        "mediumPath": "_m/g/c/s/s/peel-castle-wp/st-german-s-cathedral-medium.webp",
+        "smallPath": "_m/g/c/s/s/peel-castle-wp/st-german-s-cathedral-small.webp"
       },
       "images": [
         {
@@ -545,7 +549,8 @@
             "Photographs taken on 2005-07-31",
             "Self-published work",
             "Taken with Fujifilm FinePix A205"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/laxey-wheel-1-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/peel-isle-of-man.jpg",
@@ -568,7 +573,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Information field template with formatting",
             "Taken with Canon Digital IXUS 330"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/peel-isle-of-man-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/snaefell.jpg",
@@ -589,7 +595,8 @@
             "Self-published work",
             "Snaefell",
             "Taken with Canon PowerShot S3 IS"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/snaefell-small.webp"
         },
         {
           "path": "_m/g/c/s/e/castle-rushen-wp/hero.jpg",
@@ -604,7 +611,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle_Rushen.jpg",
           "sourceType": "poi",
           "sourceArticleId": "castle-rushen-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/e/castle-rushen-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/s/e/castle-rushen-wp/hero-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/cregneash-folk-museum-1988.jpg",
@@ -619,7 +628,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cregneash_Folk_Museum_1988.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/cregneash-folk-museum-1988-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22.jpg",
@@ -634,7 +644,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doolish_2013_22.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22-medium.webp",
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/doolish-2013-22-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812.jpg",
@@ -649,7 +661,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jurby_Busses_(28134100812).jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-man-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "mediumPath": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812-medium.webp",
+          "smallPath": "_m/g/c/s/u/isle-of-man-wp/jurby-busses-28134100812-small.webp"
         }
       ],
       "narration": [

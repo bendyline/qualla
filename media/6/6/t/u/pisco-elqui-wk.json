@@ -3,25 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/6/t/u/pisco-elqui-wk/hero.jpg",
-        "filename": "Fachada principal de la iglesia de Pisco Elqui, Norte Chico, Chile.jpg",
-        "caption": "La iglesia del pueblo de Pisco Elqui está dedicada a Nuestra Señora del Rosario. Es de estilo neogótico. Construida principalmente en madera (torre y bóvedas), aunque con muros bajos de mampostería.",
-        "alt": "La iglesia del pueblo de Pisco Elqui está dedicada a Nuestra Señora del Rosario. Es de estilo neogótico. Construida principalmente en madera (torre y bóvedas), aunque con muros bajos de mampostería.",
+        "path": "_m/6/6/t/u/pisco-elqui-wk/calle-del-pueblo-de-pisco-elqu.jpg",
+        "filename": "Calle del pueblo de Pisco Elqui, en Chile.jpg",
+        "caption": "La localidad de Pisco Elqui se encuentra en el Valle de Elqui, en la IV Región de Coquimbo, en Chile. Los cerros inmediatos son de la precordillera de los Andes.",
+        "alt": "La localidad de Pisco Elqui se encuentra en el Valle de Elqui, en la IV Región de Coquimbo, en Chile. Los cerros inmediatos son de la precordillera de los Andes.",
         "width": 4896,
         "height": 3672,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
         "artist": "CARLOS TEIXIDOR CADENAS",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fachada_principal_de_la_iglesia_de_Pisco_Elqui,_Norte_Chico,_Chile.jpg",
-        "sourceType": "core",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calle_del_pueblo_de_Pisco_Elqui,_en_Chile.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "pisco-elqui-wk",
         "sourceGeohash4": "66tu",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Files with coordinates missing SDC location of creation",
-          "Iglesia de Nuestra Señora del Rosario, Pisco Elqui",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/6/6/t/u/pisco-elqui-wk/calle-del-pueblo-de-pisco-elqu-medium.webp",
+        "smallPath": "_m/6/6/t/u/pisco-elqui-wk/calle-del-pueblo-de-pisco-elqu-small.webp"
       },
       "images": [
         {
@@ -96,7 +92,7 @@
           "smallPath": "_m/6/6/t/u/pisco-elqui-wk/pisco-elqui-pano2-small.webp"
         },
         {
-          "path": "_m/6/6/t/u/pisco-elqui-wk/pisco-elqui-pano3.jpg",
+          "path": "_m/tpc/oj/os/-d/el/ojos-del-salado/pisco-elqui-pano3.jpg",
           "filename": "Pisco elqui pano3.jpg",
           "caption": "Panorámica de Pisco Elqui, Chile (3)",
           "alt": "Panorámica de Pisco Elqui, Chile (3)",
@@ -115,7 +111,9 @@
             "Flickr images uploaded by Flickr upload bot",
             "Pisco Elqui",
             "Vineyards in Chile"
-          ]
+          ],
+          "mediumPath": "_m/tpc/oj/os/-d/el/ojos-del-salado/pisco-elqui-pano3-medium.webp",
+          "smallPath": "_m/tpc/oj/os/-d/el/ojos-del-salado/pisco-elqui-pano3-small.webp"
         },
         {
           "path": "_m/6/6/t/u/pisco-elqui-wk/infancia-congelada.jpg",
@@ -442,7 +440,8 @@
             "Photos by Michaël Lejeune",
             "Self-published work",
             "Taken with Konica Minolta Dimage X50"
-          ]
+          ],
+          "smallPath": "_m/6/6/t/u/pisco-elqui-wp/pisco-elqui-church-small.webp"
         }
       ],
       "narration": [

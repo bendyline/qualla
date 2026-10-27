@@ -36,7 +36,7 @@ The library stands at 50.979 N, 11.332 E in central Weimar, Thuringia, at roughl
 
 ## Sources
 
-- [Duchess Anna Amalia Library - Wikipedia](https://en.wikipedia.org/wiki/Duchess_Anna_Amalia_Library)
+- [Duchess Anna Amalia Library - Wikipedia](https://en.wikipedia.org/?curid=955286)
 - [Herzogin Anna Amalia Bibliothek - Wikipedia (DE)](https://de.wikipedia.org/wiki/Herzogin_Anna_Amalia_Bibliothek)
   - Fire 2 September 2004, cause a smouldering defective electrical cable connection (aluminium/copper) in the roof (confirmed)
   - About 28,000 volumes rescued including the 1534 Weimar Luther Bible (confirmed)

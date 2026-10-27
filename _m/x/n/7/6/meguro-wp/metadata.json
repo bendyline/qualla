@@ -25,7 +25,8 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "meguro-wp",
-      "sourceGeohash4": "xn76"
+      "sourceGeohash4": "xn76",
+      "smallPath": "_m/x/n/7/6/meguro-wp/meguro-river-small.webp"
     },
     {
       "filename": "Kumano jinja(Meguroku) torii.JPG",
@@ -48,9 +49,64 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "meguro-wp",
+      "sourceGeohash4": "xn76",
+      "mediumPath": "_m/x/n/7/6/meguro-wp/kumano-jinja-meguroku-torii-medium.webp",
+      "smallPath": "_m/x/n/7/6/meguro-wp/kumano-jinja-meguroku-torii-small.webp"
+    },
+    {
+      "filename": "Meguro-river.jpg",
+      "title": "File:Meguro-river.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Meguro-river.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Meguro-river.jpg",
+      "width": 600,
+      "height": 800,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 1.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+      "artist": "Photo by Paul Richter, April 2005. (WT-en) Paul Richter at English Wikivoyage",
+      "description": "Meguro River with cherry blossom petals.",
+      "dateCreated": "26 April 2005 (original upload date)",
+      "categories": [
+        "CC-BY-SA-1.0",
+        "Cherry trees in bloom along the Meguro River",
+        "Files by Wikivoyage user (not yet sorted)",
+        "Files from Wikivoyage en",
+        "Files from Wikivoyage wts",
+        "Self-published work",
+        "Taken with Fujifilm FinePix F601"
+      ],
+      "sourceType": "poi",
+      "sourceArticleId": "meguro-wp",
+      "sourceGeohash4": "xn76"
+    },
+    {
+      "filename": "Kumano jinja(Meguroku) torii.JPG",
+      "title": "File:Kumano jinja(Meguroku) torii.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kumano_jinja%28Meguroku%29_torii.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Kumano_jinja(Meguroku)_torii.JPG",
+      "width": 2048,
+      "height": 1536,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Tadill",
+      "description": "東京都目黒区 熊野神社 - 鳥居",
+      "dateCreated": "2013-09-10 14:30:23",
+      "categories": [
+        "CC-BY-SA-3.0",
+        "Files with coordinates missing SDC location of creation",
+        "Kumano-jinja (Meguro)",
+        "Self-published work",
+        "Taken with Olympus E-P5"
+      ],
+      "sourceType": "poi",
+      "sourceArticleId": "meguro-wp",
       "sourceGeohash4": "xn76"
     }
   ],
-  "galleryPaths": [],
-  "updatedAt": "2026-02-23T06:46:48.133Z"
+  "galleryPaths": [
+    "_m/x/n/7/6/meguro-wp/meguro-river.jpg",
+    "_m/x/n/7/6/meguro-wp/kumano-jinja-meguroku-torii.jpg"
+  ],
+  "updatedAt": "2026-10-20T01:37:13.023Z"
 }

@@ -1,5 +1,26 @@
 {
   "articleId": "d-day-beaches-wk",
+  "narration": {
+    "files": [
+      "gbzb-d-day-the-longest-day-flight-context.mp3",
+      "gbzb-d-day-the-longest-day-intro.mp3",
+      "gbzb-d-day-the-longest-day-the-plan.mp3",
+      "gbzb-d-day-the-longest-day-the-beaches.mp3",
+      "gbzb-d-day-the-longest-day-the-slaughter.mp3",
+      "gbzb-d-day-the-longest-day-the-airborne.mp3",
+      "gbzb-d-day-the-longest-day-the-memorial.mp3"
+    ],
+    "durations": {
+      "gbzb-d-day-the-longest-day-flight-context.mp3": 38.2490833,
+      "gbzb-d-day-the-longest-day-intro.mp3": 51.8535833,
+      "gbzb-d-day-the-longest-day-the-plan.mp3": 45.759625,
+      "gbzb-d-day-the-longest-day-the-beaches.mp3": 42.0005833,
+      "gbzb-d-day-the-longest-day-the-slaughter.mp3": 43.395125,
+      "gbzb-d-day-the-longest-day-the-airborne.mp3": 38.3020833,
+      "gbzb-d-day-the-longest-day-the-memorial.mp3": 46.8165
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
   "hero": {
     "filename": "1944 NormandyLST.jpg",
     "title": "File:1944 NormandyLST.jpg",
@@ -473,26 +494,5 @@
     "_m/g/b/z/b/d-day-beaches-wk/world-war-ii-monument.jpg",
     "_m/g/b/z/b/d-day-beaches-wk/memorial-pegasus-entre.jpg"
   ],
-  "updatedAt": "2026-01-29T17:18:01.738Z",
-  "narration": {
-    "files": [
-      "gbzb-d-day-the-longest-day-flight-context.mp3",
-      "gbzb-d-day-the-longest-day-intro.mp3",
-      "gbzb-d-day-the-longest-day-the-plan.mp3",
-      "gbzb-d-day-the-longest-day-the-beaches.mp3",
-      "gbzb-d-day-the-longest-day-the-slaughter.mp3",
-      "gbzb-d-day-the-longest-day-the-airborne.mp3",
-      "gbzb-d-day-the-longest-day-the-memorial.mp3"
-    ],
-    "durations": {
-      "gbzb-d-day-the-longest-day-flight-context.mp3": 38.2490833,
-      "gbzb-d-day-the-longest-day-intro.mp3": 51.8535833,
-      "gbzb-d-day-the-longest-day-the-plan.mp3": 45.759625,
-      "gbzb-d-day-the-longest-day-the-beaches.mp3": 42.0005833,
-      "gbzb-d-day-the-longest-day-the-slaughter.mp3": 43.395125,
-      "gbzb-d-day-the-longest-day-the-airborne.mp3": 38.3020833,
-      "gbzb-d-day-the-longest-day-the-memorial.mp3": 46.8165
-    },
-    "voice": "en-US-Ava3:DragonHDLatestNeural"
-  }
+  "updatedAt": "2026-01-29T17:18:01.738Z"
 }

@@ -3,30 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/k/9/q/germa-wp/hero.jpg",
-        "filename": "Garma (Garama) - Ruinen der antiken Stadt Garma 02.jpg",
-        "caption": "Garma (Garama) - Ruins of the ancient city of Garma02",
-        "alt": "Garma (Garama) - Ruins of the ancient city of Garma02",
-        "width": 3322,
-        "height": 2991,
+        "path": "_m/s/k/9/q/germa-wp/garma-garama-ruinen-der-antike.jpg",
+        "filename": "Garma (Garama) - Ruinen der antiken Stadt Garama.jpg",
+        "caption": "Garma (Garama)-Ruinen der antiken Stadt Garama",
+        "alt": "Garma (Garama)-Ruinen der antiken Stadt Garama",
+        "width": 4000,
+        "height": 2346,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
         "artist": "Franzfoto",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garma_(Garama)_-_Ruinen_der_antiken_Stadt_Garma_02.jpg",
-        "sourceType": "core",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garma_(Garama)_-_Ruinen_der_antiken_Stadt_Garama.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "germa-wp",
         "sourceGeohash4": "sk9q",
         "categories": [
           "CC-BY-SA-3.0,2.5,2.0,1.0",
+          "Fezzan",
           "GFDL",
           "Germa",
           "License migration redundant",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/s/k/9/q/germa-wp/garma-garama-ruinen-der-antike-medium.webp",
+        "smallPath": "_m/s/k/9/q/germa-wp/garma-garama-ruinen-der-antike-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/k/9/q/germa-wp/physical-location-cart.jpg",
+          "path": "_m/s/m/8/m/nafusa-mountains-wp/physical-location-cart.jpg",
           "filename": "Libya relief location map.jpg",
           "caption": "Physical location cartographic relief depiction map of Libya",
           "alt": "Physical location cartographic relief depiction map of Libya",
@@ -42,7 +45,8 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Relief location maps of Libya"
-          ]
+          ],
+          "smallPath": "_m/s/m/8/m/nafusa-mountains-wp/physical-location-cart-small.webp"
         },
         {
           "path": "_m/s/k/9/q/germa-wp/garma-garama-ruinen-der-antike.jpg",
@@ -212,7 +216,8 @@
             "Ghat",
             "Media missing infobox template",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/k/9/t/fezzan-wp/fortress-medina-ghat-small.webp"
         },
         {
           "path": "_m/s/h/r/m/acacus-mountains-wp/hero.jpg",
@@ -236,7 +241,8 @@
             "PD-Art (PD-old default)",
             "Rock art of the Tadrart Acacus",
             "Rock paintings in Libya"
-          ]
+          ],
+          "smallPath": "_m/s/h/r/m/acacus-mountains-wp/hero-small.webp"
         }
       ],
       "narration": [

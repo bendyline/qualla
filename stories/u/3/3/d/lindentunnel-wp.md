@@ -47,7 +47,7 @@ The tunnel lies at 52.5175°N 13.3947°E, under the eastern end of Unter den Lin
 ## Sources
 
 - [Lindentunnel - Wikipedia](https://en.wikipedia.org/?curid=76920194)
-- [Lindentunnel - Wikipedia (English)](https://en.wikipedia.org/wiki/Lindentunnel)
+- [Lindentunnel - Wikipedia (English)](https://en.wikipedia.org/?curid=76920194)
   - trams crossed Unter den Linden at grade from 1894; Wilhelm II banned surface crossings in 1901 (the specific 'scrawled note' quote is treated by the story as disputed, consistent with the ambiguity in sources) - confirmed
   - two parallel tunnels: east/Opera Tunnel 354 m with 4.65 m clearance; west/Behrenstrassentunnel 389 m with 4.30 m clearance, constrained by the Empress Augusta monument - confirmed
   - excavation began 7 September 1914; both tunnels opened December 1916 - confirmed

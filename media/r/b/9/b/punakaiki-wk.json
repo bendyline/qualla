@@ -3,24 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/b/9/b/punakaiki-wk/hero.jpg",
-        "filename": "Punakaiki - looking south.jpg",
-        "caption": "Looking south from Punakaiki on the West Coast of New Zealand. The snow on the Southern Alps can be seen in the distance.",
-        "alt": "Looking south from Punakaiki on the West Coast of New Zealand. The snow on the Southern Alps can be seen in the distance.",
-        "width": 2592,
-        "height": 1944,
+        "path": "_m/r/b/9/b/punakaiki-wk/1-punakaiki-pano-aerial-2018.jpg",
+        "filename": "1 punakaiki pano aerial 2018.jpg",
+        "caption": "punakaiki pano aerial 2018",
+        "alt": "punakaiki pano aerial 2018",
+        "width": 11505,
+        "height": 3000,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Alan Liefting at English Wikipedia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Punakaiki_-_looking_south.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Chensiyuan",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_punakaiki_pano_aerial_2018.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "punakaiki-wk",
         "sourceGeohash4": "rb9b",
-        "categories": [
-          "PD-user",
-          "Pancake Rocks",
-          "Taken with Canon PowerShot S2 IS"
-        ]
+        "mediumPath": "_m/r/b/9/b/punakaiki-wk/1-punakaiki-pano-aerial-2018-medium.webp",
+        "smallPath": "_m/r/b/9/b/punakaiki-wk/1-punakaiki-pano-aerial-2018-small.webp"
       },
       "images": [
         {
@@ -301,7 +298,7 @@
           "smallPath": "_m/r/b/9/b/punakaiki-wk/punakaiki-resort-rocks-2-small.webp"
         },
         {
-          "path": "_m/r/b/9/b/punakaiki-wk/nzl-pancake-eingang.jpg",
+          "path": "_m/r/b/9/b/pancake-rocks-and-blowholes-wp/nzl-pancake-eingang.jpg",
           "filename": "NZL-pancake-eingang.jpg",
           "caption": "Entrance to Punakaiki Pancake Rocks and Blowholes walkway, Paparoa NP, New Zealand",
           "alt": "Entrance to Punakaiki Pancake Rocks and Blowholes walkway, Paparoa NP, New Zealand",
@@ -322,7 +319,8 @@
             "License migration redundant",
             "Pancake Rocks",
             "Punakaiki"
-          ]
+          ],
+          "smallPath": "_m/r/b/9/b/pancake-rocks-and-blowholes-wp/nzl-pancake-eingang-small.webp"
         },
         {
           "path": "_m/r/b/9/b/punakaiki-wk/cliffs-south-of-punakaiki-panc.jpg",

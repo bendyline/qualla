@@ -36,7 +36,7 @@ The site sits at 52.508°N, 13.377°E on the southeast edge of Potsdamer Platz i
 
 ## Sources
 
-- [Haus Vaterland - Wikipedia](https://en.wikipedia.org/wiki/Haus_Vaterland)
+- [Haus Vaterland - Wikipedia](https://en.wikipedia.org/?curid=31545097)
 - [Haus Vaterland: The lost pleasure palace of Potsdamer Platz](https://www.the-berliner.com/berlin/haus-vaterland-history-the-lost-pleasure-palace-of-potsdamer-platz/)
 - [Haus Vaterland at PotsdamerPlatz.org](http://www.potsdamer-platz.org/haus_vaterland.htm)
 - [Haus Vaterland - Wikipedia](https://en.wikipedia.org/?curid=31545097)

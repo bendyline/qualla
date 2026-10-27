@@ -3,19 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/b/u/v/spanish-armada-wp/hero.jpg",
-        "filename": "GironaCannon.JPG",
-        "caption": "Bronze saker on carriage and other armament from the Spanish Armada ship, Girona, Ulster Museum, Belfast",
-        "alt": "Bronze saker on carriage and other armament from the Spanish Armada ship, Girona, Ulster Museum, Belfast",
-        "width": 3072,
-        "height": 2304,
+        "path": "_m/g/b/u/v/spanish-armada-wp/naufrage-de-l-invincible-armad.jpg",
+        "filename": "Naufrage de l'invincible Armada-gravure.jpg",
+        "caption": "Gravure de Jules Noël qui représente le naufrage de l'Invincible Armada en 1588",
+        "alt": "Gravure de Jules Noël qui représente le naufrage de l'Invincible Armada en 1588",
+        "width": 6545,
+        "height": 4384,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Notafly",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:GironaCannon.JPG",
-        "sourceType": "core",
+        "license": "Public domain",
+        "artist": "Jules Achille Noël",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naufrage_de_l%27invincible_Armada-gravure.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "spanish-armada-wp",
-        "sourceGeohash4": "gbuv"
+        "sourceGeohash4": "gbuv",
+        "categories": [
+          "CC-PD-Mark",
+          "Engravings by Jules Noël",
+          "PD-old-100-expired",
+          "PD-old missing SDC copyright status",
+          "Shipwrecks in engravings",
+          "Spanish Armada"
+        ],
+        "mediumPath": "_m/g/b/u/v/spanish-armada-wp/naufrage-de-l-invincible-armad-medium.webp",
+        "smallPath": "_m/g/b/u/v/spanish-armada-wp/naufrage-de-l-invincible-armad-small.webp"
       },
       "images": [
         {
@@ -121,7 +131,7 @@
           "smallPath": "_m/g/b/u/v/spanish-armada-wp/portrait-elizabeth-i-e-small.webp"
         },
         {
-          "path": "_m/g/b/u/v/spanish-armada-wp/contemporary-flemish-i.jpg",
+          "path": "_m/d/q/6/h/roanoke-colony-wp/contemporary-flemish-i.jpg",
           "filename": "Spanish Armada fireships.jpg",
           "caption": "Contemporary Flemish interpretation of the launching of English fire-ships against the Spanish Armada, 7 August 1588",
           "alt": "Contemporary Flemish interpretation of the launching of English fire-ships against the Spanish Armada, 7 August 1588",
@@ -133,7 +143,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spanish_Armada_fireships.jpg",
           "sourceType": "core",
           "sourceArticleId": "spanish-armada-wp",
-          "sourceGeohash4": "gbuv"
+          "sourceGeohash4": "gbuv",
+          "smallPath": "_m/d/q/6/h/roanoke-colony-wp/contemporary-flemish-i-small.webp"
         },
         {
           "path": "_m/g/b/u/v/spanish-armada-wp/elizabeth-i-spanish-ar.jpg",

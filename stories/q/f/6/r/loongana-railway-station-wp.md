@@ -40,7 +40,7 @@ Loongana lies at roughly 30.95 degrees south, 127.04 degrees east, near the midd
 - [Tea and Sugar Train - Wikipedia](https://en.wikipedia.org/wiki/Tea_and_Sugar_Train)
   - Tea and Sugar Train withdrawn 1996 confirmed (final run 30 August 1996)
   - Delivered essential provisions to isolated railway communities confirmed
-- [Loongana railway station - Wikipedia](https://en.wikipedia.org/wiki/Loongana_railway_station)
+- [Loongana railway station - Wikipedia](https://en.wikipedia.org/?curid=10589471)
   - Loongana was site of lime mine and processing plant confirmed
   - Railway cottages for maintenance crews confirmed
 

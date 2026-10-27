@@ -39,7 +39,7 @@ Located at 19.97N, 75.14W on the southeastern coast of Cuba, at the entrance to 
 ## Sources
 
 - [Invasion of Cuba (1741) - Wikipedia](https://en.wikipedia.org/?curid=25122040)
-- [Invasion of Cuba (1741) - Wikipedia](https://en.wikipedia.org/wiki/Invasion_of_Cuba_(1741))
+- [Invasion of Cuba (1741) - Wikipedia](https://en.wikipedia.org/?curid=25122040)
   - Vernon had eight warships and 4,000 soldiers (3,000 British/colonial + 1,000 Jamaican) confirmed
   - Landing on night of August 4-5 1741 confirmed
   - Major-General Thomas Wentworth commanded land forces confirmed

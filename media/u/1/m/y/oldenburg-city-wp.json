@@ -3,19 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/m/y/oldenburg-city-wp/hero.jpg",
-        "filename": "Oldenburger Schloss 20141230.jpg",
-        "caption": "Oldenburg Castle is home to the Oldenburg State Museum of Art and Cultural History.",
-        "alt": "Oldenburg Castle is home to the Oldenburg State Museum of Art and Cultural History.",
-        "width": 3492,
-        "height": 2794,
+        "path": "_m/u/1/m/y/oldenburg-city-wp/oldenburg-oldb-kleine.jpg",
+        "filename": "(Kleine) EWE ARENA in Oldenburg (Oldb).jpg",
+        "caption": "Oldenburg (Oldb): Kleine EWE-Arena",
+        "alt": "Oldenburg (Oldb): Kleine EWE-Arena",
+        "width": 6720,
+        "height": 3780,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
         "artist": "JoachimKohler-HB",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oldenburger_Schloss_20141230.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:(Kleine)_EWE_ARENA_in_Oldenburg_(Oldb).jpg",
         "sourceType": "core",
         "sourceArticleId": "oldenburg-city-wp",
-        "sourceGeohash4": "u1my"
+        "sourceGeohash4": "u1my",
+        "mediumPath": "_m/u/1/m/y/oldenburg-city-wp/oldenburg-oldb-kleine-medium.webp",
+        "smallPath": "_m/u/1/m/y/oldenburg-city-wp/oldenburg-oldb-kleine-small.webp"
       },
       "images": [
         {
@@ -203,7 +205,7 @@
           "smallPath": "_m/u/1/m/y/oldenburg-city-wp/der-oldenburger-nordha-small.webp"
         },
         {
-          "path": "_m/u/1/m/y/oldenburg-city-wp/degode-haus-in-oldenburg.jpg",
+          "path": "_m/u/1/m/y/oldenburg-wk/degode-haus-in-oldenburg.jpg",
           "filename": "Degode-Haus in Oldenburg.jpg",
           "caption": "Degode House in Oldenburg (Oldb), one of the few houses that survived the city fire of 1676.",
           "alt": "Degode House in Oldenburg (Oldb), one of the few houses that survived the city fire of 1676.",
@@ -216,8 +218,8 @@
           "sourceType": "core",
           "sourceArticleId": "oldenburg-city-wp",
           "sourceGeohash4": "u1my",
-          "mediumPath": "_m/u/1/m/y/oldenburg-city-wp/degode-haus-in-oldenburg-medium.webp",
-          "smallPath": "_m/u/1/m/y/oldenburg-city-wp/degode-haus-in-oldenburg-small.webp"
+          "mediumPath": "_m/u/1/m/y/oldenburg-wk/degode-haus-in-oldenburg-medium.webp",
+          "smallPath": "_m/u/1/m/y/oldenburg-wk/degode-haus-in-oldenburg-small.webp"
         },
         {
           "path": "_m/u/1/m/y/oldenburg-city-wp/staatstheater-oldenbur.jpg",
@@ -711,7 +713,9 @@
             "Schlossgarten Oldenburg",
             "Self-published work",
             "Taken with Minolta Dimage Z1"
-          ]
+          ],
+          "mediumPath": "_m/u/1/m/y/oldenburg-wk/oldenburg-schlossgarten-3-medium.webp",
+          "smallPath": "_m/u/1/m/y/oldenburg-wk/oldenburg-schlossgarten-3-small.webp"
         },
         {
           "path": "_m/u/1/m/y/oldenburg-wk/oldenburg-hbf1.jpg",
@@ -735,7 +739,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon Digital IXUS 300"
-          ]
+          ],
+          "smallPath": "_m/u/1/m/y/oldenburg-wk/oldenburg-hbf1-small.webp"
         },
         {
           "path": "_m/u/1/m/y/oldenburg-wk/oldenburg-castle.jpg",
@@ -758,7 +763,9 @@
             "Oldenburger Schloss",
             "Self-published work",
             "Taken with Rollei Compactline 200"
-          ]
+          ],
+          "mediumPath": "_m/u/1/m/y/oldenburg-wk/oldenburg-castle-medium.webp",
+          "smallPath": "_m/u/1/m/y/oldenburg-wk/oldenburg-castle-small.webp"
         },
         {
           "path": "_m/u/1/m/y/oldenburg-wk/oldenburg-pulverturm.jpg",
@@ -778,7 +785,8 @@
             "CC-Zero",
             "Pulverturm (Oldenburg in Oldenburg)",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/1/m/y/oldenburg-wk/oldenburg-pulverturm-small.webp"
         },
         {
           "path": "_m/u/1/m/y/oldenburg-wk/oldenburgbergst.jpg",
@@ -804,7 +812,9 @@
             "Oldenburg (Oldenburg)",
             "Self-published work",
             "Taken with Kodak EasyShare Z740"
-          ]
+          ],
+          "mediumPath": "_m/u/1/m/y/oldenburg-wk/oldenburgbergst-medium.webp",
+          "smallPath": "_m/u/1/m/y/oldenburg-wk/oldenburgbergst-small.webp"
         },
         {
           "path": "_m/u/1/m/y/oldenburg-wk/oldenburg-church.jpg",
@@ -830,7 +840,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Kodak EasyShare Z740"
-          ]
+          ],
+          "mediumPath": "_m/u/1/m/y/oldenburg-wk/oldenburg-church-medium.webp",
+          "smallPath": "_m/u/1/m/y/oldenburg-wk/oldenburg-church-small.webp"
         },
         {
           "path": "_m/u/1/m/y/oldenburg-wk/lappanol.jpg",
@@ -848,7 +860,9 @@
           "sourceGeohash4": "u1my",
           "categories": [
             "CC-BY-SA-3.0"
-          ]
+          ],
+          "mediumPath": "_m/u/1/m/y/oldenburg-wk/lappanol-medium.webp",
+          "smallPath": "_m/u/1/m/y/oldenburg-wk/lappanol-small.webp"
         },
         {
           "path": "_m/u/1/m/y/oldenburg-wk/oldenburg-oldenburg-rathaus-mi.jpg",
@@ -863,7 +877,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oldenburg_(Oldenburg)_-_Rathaus_mit_Platz.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "oldenburg-wk",
-          "sourceGeohash4": "u1my"
+          "sourceGeohash4": "u1my",
+          "mediumPath": "_m/u/1/m/y/oldenburg-wk/oldenburg-oldenburg-rathaus-mi-medium.webp",
+          "smallPath": "_m/u/1/m/y/oldenburg-wk/oldenburg-oldenburg-rathaus-mi-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/bremen-rathaus.jpg",
@@ -890,7 +906,8 @@
             "Photographs taken on 2004-05-11",
             "Self-published work",
             "Town hall of Bremen"
-          ]
+          ],
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremen-rathaus-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/bremen-uebersee-museum-1.jpg",
@@ -912,7 +929,8 @@
             "Files with coordinates missing SDC location of creation (53° N, 8° E)",
             "Self-published work",
             "Übersee-Museum Bremen (building)"
-          ]
+          ],
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremen-uebersee-museum-1-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/boettcherstrasse04.jpg",
@@ -938,7 +956,8 @@
             "Paula Modersohn-Becker Museum",
             "Self-published work",
             "St. Petrus House"
-          ]
+          ],
+          "smallPath": "_m/u/1/q/m/bremen-wp/boettcherstrasse04-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/flughafen-bremen-1.jpg",
@@ -960,7 +979,9 @@
             "July 2006 in Bremen (state)",
             "Self-published work",
             "Taken with Sanyo Xacti VPC-S1"
-          ]
+          ],
+          "mediumPath": "_m/u/1/q/m/bremen-wp/flughafen-bremen-1-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/flughafen-bremen-1-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/bottcherstra-e3.jpg",
@@ -982,7 +1003,9 @@
             "PD-self",
             "Robinson Crusoe Haus",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/q/m/bremen-wp/bottcherstra-e3-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/bottcherstra-e3-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/061011-120443-uberseestadt-spe.jpg",
@@ -1007,7 +1030,9 @@
             "Hochschule für Künste Bremen",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/q/m/bremen-wp/061011-120443-uberseestadt-spe-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/061011-120443-uberseestadt-spe-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/bremen-hbf-pano.jpg",
@@ -1022,7 +1047,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bremen_Hbf_pano.jpg",
           "sourceType": "poi",
           "sourceArticleId": "bremen-wp",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/bremen-hbf-pano-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremen-hbf-pano-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/bremer-dom-mit-bismarck.jpg",
@@ -1037,7 +1064,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bremer_Dom_mit_Bismarck.jpg",
           "sourceType": "poi",
           "sourceArticleId": "bremen-wp",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremer-dom-mit-bismarck-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/2012-08-08-fotoflug-bremen-ers.jpg",
@@ -1052,7 +1080,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2012-08-08-fotoflug-bremen_erster_flug_0580.JPG",
           "sourceType": "poi",
           "sourceArticleId": "bremen-wp",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/2012-08-08-fotoflug-bremen-ers-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/2012-08-08-fotoflug-bremen-ers-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/bremen01.jpg",
@@ -1067,7 +1097,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bremen01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "bremen-wp",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremen01-small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/bremen-town-musicians-germany-.jpg",
@@ -1082,7 +1113,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bremen_Town_Musicians,_Germany_(6919467998).jpg",
           "sourceType": "poi",
           "sourceArticleId": "bremen-wp",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/bremen-town-musicians-germany--medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/bremen-town-musicians-germany--small.webp"
         },
         {
           "path": "_m/u/1/q/m/bremen-wp/2026bremen.png",
@@ -1097,7 +1130,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2026Bremen.png",
           "sourceType": "poi",
           "sourceArticleId": "bremen-wp",
-          "sourceGeohash4": "u1qm"
+          "sourceGeohash4": "u1qm",
+          "mediumPath": "_m/u/1/q/m/bremen-wp/2026bremen-medium.webp",
+          "smallPath": "_m/u/1/q/m/bremen-wp/2026bremen-small.webp"
         }
       ],
       "narration": [

@@ -36,7 +36,7 @@ Located at 47.911°N, 98.884°W on the southern shores of Devils Lake in east-ce
 - [Bureau of Indian Affairs - Spirit Lake name change](https://www.bia.gov/as-ia/opa/online-press-release/american-indian-tribe-reverts-ancestral-name-spirit-lake-new-name)
   - Name officially changed from Devils Lake Sioux Tribe in 1993 confirmed (adoption) / 1996 BIA announcement
   - Mni Wakan Oyate is Dakota name confirmed
-- [Cankdeska Cikana Community College - Spirit Lake history](https://en.wikipedia.org/wiki/Spirit_Lake_Tribe)
+- [Cankdeska Cikana Community College - Spirit Lake history](https://en.wikipedia.org/?curid=7663085)
   - 7,256 enrolled members as of 2014 confirmed
   - Reservation primarily in Benson and Eddy counties confirmed
   - Treaty of 1867 established reservation confirmed

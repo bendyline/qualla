@@ -42,7 +42,7 @@ The Mittelberg find site sits at 51.284 N, 11.520 E, a wooded 252-metre hill in 
 
 ## Sources
 
-- [Nebra sky disc - Wikipedia](https://en.wikipedia.org/wiki/Nebra_sky_disc)
+- [Nebra sky disc - Wikipedia](https://en.wikipedia.org/?curid=470014)
   - Disc c. 30 cm diameter, 2.2 kg, blue-green patina, gold inlays; oldest concrete depiction of astronomical phenomena known worldwide
   - Found 1999 on the Mittelberg by unlicensed detectorists Henry Westphal and Mario Renner with two swords, two sets of axe remains, a chisel and spiral armband fragments; sold next day for 31,000 DM to a Cologne dealer
   - February 2002 police-led sting in Basel; Harald Meller recovered the disc from a couple asking 700,000 DM

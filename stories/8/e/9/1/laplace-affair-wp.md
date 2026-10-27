@@ -28,7 +28,7 @@ The Laplace affair exposed the precarious position of the Hawaiian Kingdom in th
 
 ## Flight Context
 
-The Laplace affair unfolded primarily in Honolulu Harbor, but the article is geolocated near the Kona coast of the Big Island at approximately 19.883°N, 155.934°W. The broader context spans the Hawaiian Islands. From the air, Honolulu Harbor on Oahu is where the French frigate Artemise anchored in 1839. Nearest airports: Kona International (PHKO) on the Big Island, Honolulu International (PHNL) on Oahu where the historical events primarily occurred. The inter-island channels between the major Hawaiian islands are visible from cruising altitude.
+The Laplace affair unfolded primarily in Honolulu Harbor, but the article is geolocated near the Kona coast of the Big Island at approximately 19.883°N, 155.934°W. The broader context spans the Hawaiian Islands. From the air, Honolulu Harbor on Oahu is where the French frigate Artemise anchored in 1839. Nearest airports: Kona International (PHKO) on the Big Island, Daniel K. Inouye International Airport (PHNL, formerly Honolulu International) on Oahu where the historical events primarily occurred. The inter-island channels between the major Hawaiian islands are visible from cruising altitude.
 
 ## Sources
 

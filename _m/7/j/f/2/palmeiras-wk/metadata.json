@@ -11,6 +11,8 @@
       "mime": "image/jpeg",
       "license": "Public domain",
       "artist": "Adelano Lázaro",
+      "credit": "Own work",
+      "source": "Chapadadiamantinafumaca",
       "description": "Descrição = cachoeira da fumaça - chapada diamantina - bahia - brasil\nautor: Adelano Lázaro\n\ndata: 09-2009",
       "dateCreated": "2009-09",
       "categories": [
@@ -20,11 +22,11 @@
         "Self-published work",
         "Taken with Sony DSC-H50"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "palmeiras-wk",
       "sourceGeohash4": "7jf2",
-      "mediumPath": "_m/7/j/f/2/palmeiras-wk/chapadadiamantinafumaca-medium.webp",
-      "smallPath": "_m/7/j/f/2/palmeiras-wk/chapadadiamantinafumaca-small.webp"
+      "smallPath": "_m/7/j/f/2/palmeiras-wk/chapadadiamantinafumaca-small.webp",
+      "mediumPath": "_m/7/j/f/2/palmeiras-wk/chapadadiamantinafumaca-medium.webp"
     },
     {
       "filename": "Palmeiras, BA 01.jpg",
@@ -37,6 +39,8 @@
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "artist": "Samory Pereira Santos from Salvador, Brazil",
+      "credit": "Rua 13 de Maio",
+      "source": "Palmeiras, BA 01",
       "description": "Rua 13 de Maio",
       "dateCreated": "2007-06-23 10:03",
       "categories": [
@@ -45,52 +49,108 @@
         "Palmeiras (Bahia)",
         "Streets in Bahia"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "palmeiras-wk",
       "sourceGeohash4": "7jf2",
       "smallPath": "_m/7/j/f/2/palmeiras-wk/palmeiras-ba-01-small.webp"
-    },
-    {
-      "filename": "Parque Nacional da Chapada Diamantina, Palmeiras Brazil banner.jpg",
-      "title": "File:Parque Nacional da Chapada Diamantina, Palmeiras Brazil banner.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Parque_Nacional_da_Chapada_Diamantina%2C_Palmeiras_Brazil_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_da_Chapada_Diamantina,_Palmeiras_Brazil_banner.jpg",
-      "width": 4896,
-      "height": 699,
-      "mime": "image/jpeg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "RobinsonBarros",
-      "description": "Micranthocereus purpureus no Morro do Pai Inácio.",
-      "dateCreated": "2014-08-19 12:09:04",
-      "categories": [
-        "Brazil photographs taken on 2014-08-19",
-        "CC-BY-SA-3.0",
-        "Cactaceae in Bahia",
-        "Extracted images",
-        "Images from Wiki Loves Earth 2015",
-        "Images from Wiki Loves Earth 2015 in Brazil",
-        "Images from Wiki Loves Earth missing SDC depicts",
-        "Images from Wiki Loves Earth missing SDC location of creation",
-        "Micranthocereus in Brazil",
-        "Micranthocereus purpureus",
-        "Palmeiras (Bahia)",
-        "Rock formations in Chapada Diamantina",
-        "Self-published work",
-        "Uploaded via Campaign:wle-br",
-        "Wikivoyage banners of Bahia"
-      ],
-      "sourceType": "poi",
-      "sourceArticleId": "palmeiras-wk",
-      "sourceGeohash4": "7jf2",
-      "mediumPath": "_m/7/j/f/2/palmeiras-wk/parque-nacional-da-chapada-dia-medium.webp",
-      "smallPath": "_m/7/j/f/2/palmeiras-wk/parque-nacional-da-chapada-dia-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/7/j/f/2/palmeiras-wk/chapadadiamantinafumaca.jpg",
-    "_m/7/j/f/2/palmeiras-wk/palmeiras-ba-01.jpg",
-    "_m/7/j/f/2/palmeiras-wk/parque-nacional-da-chapada-dia.jpg"
+    "_m/7/j/f/2/palmeiras-wk/palmeiras-ba-01.jpg"
   ],
-  "updatedAt": "2026-05-09T10:02:19.992Z"
+  "updatedAt": "2026-05-09T10:02:19.992Z",
+  "narration": {
+    "files": [
+      "7jf2-palmeiras-flight-context.mp3",
+      "7jf2-palmeiras-intro.mp3",
+      "7jf2-palmeiras-diamonds-then-drought.mp3",
+      "7jf2-palmeiras-the-valley-twenty-two-kilometres-away.mp3",
+      "7jf2-palmeiras-trailhead.mp3",
+      "7jf2-palmeiras-what-grows-here-now.mp3",
+      "7jf2-palmeiras-cold-mornings-in-the-sert-o.mp3"
+    ],
+    "durations": {
+      "7jf2-palmeiras-flight-context.mp3": 85.5417083,
+      "7jf2-palmeiras-intro.mp3": 47.12425,
+      "7jf2-palmeiras-diamonds-then-drought.mp3": 57.1092083,
+      "7jf2-palmeiras-the-valley-twenty-two-kilometres-away.mp3": 60.7148333,
+      "7jf2-palmeiras-trailhead.mp3": 55.8188333,
+      "7jf2-palmeiras-what-grows-here-now.mp3": 55.7687916,
+      "7jf2-palmeiras-cold-mornings-in-the-sert-o.mp3": 52.0622083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Parque Nacional da Chapada Diamantina, Palmeiras Brazil banner.jpg",
+    "title": "File:Parque Nacional da Chapada Diamantina, Palmeiras Brazil banner.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Parque_Nacional_da_Chapada_Diamantina%2C_Palmeiras_Brazil_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_da_Chapada_Diamantina,_Palmeiras_Brazil_banner.jpg",
+    "width": 4896,
+    "height": 699,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "RobinsonBarros",
+    "credit": "Own work",
+    "source": "Parque Nacional da Chapada Diamantina, Palmeiras Brazil banner",
+    "description": "Micranthocereus purpureus no Morro do Pai Inácio.",
+    "dateCreated": "2014-08-19 12:09:04",
+    "categories": [
+      "Brazil photographs taken on 2014-08-19",
+      "CC-BY-SA-3.0",
+      "Cactaceae in Bahia",
+      "Extracted images",
+      "Images from Wiki Loves Earth 2015",
+      "Images from Wiki Loves Earth 2015 in Brazil",
+      "Images from Wiki Loves Earth missing SDC depicts",
+      "Images from Wiki Loves Earth missing SDC location of creation",
+      "Micranthocereus in Brazil",
+      "Micranthocereus purpureus",
+      "Palmeiras (Bahia)",
+      "Rock formations in Chapada Diamantina",
+      "Self-published work",
+      "Uploaded via Campaign:wle-br",
+      "Wikivoyage banners of Bahia"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "palmeiras-wk",
+    "sourceGeohash4": "7jf2"
+  },
+  "thumbnail": {
+    "filename": "Parque Nacional da Chapada Diamantina, Palmeiras Brazil banner.jpg",
+    "title": "File:Parque Nacional da Chapada Diamantina, Palmeiras Brazil banner.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Parque_Nacional_da_Chapada_Diamantina%2C_Palmeiras_Brazil_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_da_Chapada_Diamantina,_Palmeiras_Brazil_banner.jpg",
+    "width": 4896,
+    "height": 699,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "RobinsonBarros",
+    "credit": "Own work",
+    "source": "Parque Nacional da Chapada Diamantina, Palmeiras Brazil banner",
+    "description": "Micranthocereus purpureus no Morro do Pai Inácio.",
+    "dateCreated": "2014-08-19 12:09:04",
+    "categories": [
+      "Brazil photographs taken on 2014-08-19",
+      "CC-BY-SA-3.0",
+      "Cactaceae in Bahia",
+      "Extracted images",
+      "Images from Wiki Loves Earth 2015",
+      "Images from Wiki Loves Earth 2015 in Brazil",
+      "Images from Wiki Loves Earth missing SDC depicts",
+      "Images from Wiki Loves Earth missing SDC location of creation",
+      "Micranthocereus in Brazil",
+      "Micranthocereus purpureus",
+      "Palmeiras (Bahia)",
+      "Rock formations in Chapada Diamantina",
+      "Self-published work",
+      "Uploaded via Campaign:wle-br",
+      "Wikivoyage banners of Bahia"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "palmeiras-wk",
+    "sourceGeohash4": "7jf2"
+  }
 }

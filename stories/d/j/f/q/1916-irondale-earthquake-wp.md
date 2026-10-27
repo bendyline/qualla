@@ -33,7 +33,7 @@ Located at 33.53N, 86.69W, Irondale sits just east of Birmingham, Alabama. From 
 ## Sources
 
 - [1916 Irondale earthquake - Wikipedia](https://en.wikipedia.org/?curid=27510247)
-- [1916 Irondale earthquake - Wikipedia (cross-check)](https://en.wikipedia.org/wiki/1916_Irondale_earthquake)
+- [1916 Irondale earthquake - Wikipedia (cross-check)](https://en.wikipedia.org/?curid=27510247)
   - Magnitude 5.1 estimate confirmed
   - Strongest earthquake in Alabama recorded history confirmed
   - October 18, 1916 at 4 PM confirmed

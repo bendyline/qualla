@@ -36,7 +36,7 @@ Coordinates of the documented loss position: 53.93 N, 7.92 E, in the approaches 
 
 ## Sources
 
-- [SM U-51 - Wikipedia](https://en.wikipedia.org/wiki/SM_U-51)
+- [SM U-51 - Wikipedia](https://en.wikipedia.org/?curid=25260024)
   - U-51 sunk 14 July 1916 by HMS H.5
   - 34 crew lost, 4 survivors
   - Kapitaenleutnant Walter Rumpel was captain

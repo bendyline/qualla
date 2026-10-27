@@ -28,7 +28,7 @@ The museum's identity has proven nearly as turbulent as Gulf waters. Originally 
 
 ## Flight Context
 
-Located at 30.69°N, 88.04°W on the Mobile riverfront in downtown Mobile, Alabama. From the air, the museum's distinctive ship-shaped architecture is visible along the waterfront, pointing toward Mobile Bay. It sits near the Arthur R. Outlaw Mobile Convention Center and the Mobile cruise terminal. The nearest airport is Mobile Downtown Airport (BFM), approximately 3 nautical miles south, and Mobile Regional Airport (MOB) lies about 10 nautical miles west. Best viewed at 1,500-2,500 feet AGL to appreciate the ship-shaped building design against the riverfront.
+Located at 30.69°N, 88.04°W on the Mobile riverfront in downtown Mobile, Alabama. From the air, the museum's distinctive ship-shaped architecture is visible along the waterfront, pointing toward Mobile Bay. It sits near the Arthur R. Outlaw Mobile Convention Center and the Mobile cruise terminal. The nearest airport is Mobile International Airport (BFM, formerly Mobile Downtown), approximately 3 nautical miles south, and Mobile Regional Airport (MOB) lies about 10 nautical miles west. Best viewed at 1,500-2,500 feet AGL to appreciate the ship-shaped building design against the riverfront.
 
 ## Sources
 

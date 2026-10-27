@@ -32,10 +32,10 @@ Located at 34.97°N, 135.92°E in the Oe neighborhood of Otsu, Shiga Prefecture,
 
 ## Sources
 
-- [Omi Kokucho - Wikipedia](https://en.wikipedia.org/wiki/%C5%8Cmi_Kokuch%C5%8D)
+- [Omi Kokucho - Wikipedia](https://en.wikipedia.org/?curid=69141618)
 - Cultural Heritage Online
 - National Historic Site Encyclopedia
-- [Omi Kokucho - Wikipedia](https://en.wikipedia.org/wiki/%C5%8Cmi_Kokuch%C5%8D)
+- [Omi Kokucho - Wikipedia](https://en.wikipedia.org/?curid=69141618)
   - Site identified in 1935 as first kokufu matched to Wamyo Ruijusho records - confirmed landmark in Japanese archaeology
   - Excavation took place 1963-1965
   - Complex covers eight to nine cho (roughly 20 acres)

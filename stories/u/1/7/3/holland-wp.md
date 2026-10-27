@@ -33,7 +33,7 @@ The Holland region occupies the western coastal strip of the Netherlands at appr
 ## Sources
 
 - [Holland - Wikipedia](https://en.wikipedia.org/?curid=13288)
-- [Holland - Wikipedia (etymology and county history)](https://en.wikipedia.org/wiki/Holland)
+- [Holland - Wikipedia (etymology and county history)](https://en.wikipedia.org/?curid=13288)
   - holtlant etymology confirmed (wood-land, Old Dutch)
   - name in use by 1064 confirmed
   - hol land folk etymology noted as incorrect

@@ -32,13 +32,13 @@ The 7000 Oaks are scattered across the whole of Kassel in northern Hesse, with t
 
 ## Sources
 
-- [7000 Oaks - Wikipedia](https://en.wikipedia.org/wiki/7000_Oaks)
+- [7000 Oaks - Wikipedia](https://en.wikipedia.org/?curid=23819087)
 - [Joseph Beuys - Wikipedia](https://en.wikipedia.org/wiki/Joseph_Beuys)
   - born 12 May 1921 in Krefeld
   - died of heart failure in Dusseldorf on 23 January 1986
   - volunteered for the Luftwaffe in 1941 and trained as an aircraft radio operator; his aircraft crashed on the Crimean front in March 1944
   - the project began in 1982 for documenta 7 and officially ended in 1987, the year after his death
-- [7000 Oaks - Wikipedia (re-verification)](https://en.wikipedia.org/wiki/7000_Oaks)
+- [7000 Oaks - Wikipedia (re-verification)](https://en.wikipedia.org/?curid=23819087)
   - Dia Art Foundation maintains 37 tree-and-stone pairs in New York City
   - in 2000 the Center for Art, Design and Visual Culture (UMBC) planted over 350 trees in Baltimore parks with over 500 volunteers including schoolchildren
   - Ackroyd & Harvey collected acorns from the original oaks in 2007; 100 trees grown from them were shown at Tate Modern in 2021

@@ -41,7 +41,7 @@ Located at 10.493N, 67.527W on Venezuela's central Caribbean coast, in the north
 - [Dancing devils of Corpus Christi - Wikipedia](https://en.wikipedia.org/wiki/Dancing_devils_of_Corpus_Christi)
   - Diablos Danzantes recognized by UNESCO as Intangible Cultural Heritage in 2012
   - Tradition fuses African and Catholic elements rooted in colonial-era cacao plantations
-- [Chuao - National Monument status and church details](https://en.wikipedia.org/wiki/Chuao)
+- [Chuao - National Monument status and church details](https://en.wikipedia.org/?curid=2067974)
   - Chuao declared National Monument per Official Gazette No. 26,320 dated August 2 1960
   - Church facade features double pilasters and semicircular arch consistent with article description
 

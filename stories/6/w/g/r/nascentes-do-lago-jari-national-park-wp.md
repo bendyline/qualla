@@ -33,7 +33,7 @@ Located at 5.77S, 62.59W in central Amazonas state. From cruising altitude, the 
 ## Sources
 
 - [Nascentes do Lago Jari National Park - Wikipedia](https://en.wikipedia.org/?curid=50706232)
-- [Nascentes do Lago Jari National Park - Wikipedia](https://en.wikipedia.org/wiki/Nascentes_do_Lago_Jari_National_Park)
+- [Nascentes do Lago Jari National Park - Wikipedia](https://en.wikipedia.org/?curid=50706232)
   - 812,745 hectares park size confirmed
   - Created by decree 8 May 2008 confirmed
   - Located in municipalities of Tapaua and Beruri confirmed

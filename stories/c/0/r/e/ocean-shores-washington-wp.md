@@ -37,7 +37,7 @@ Ocean Shores sits at 46.97°N, 124.16°W on the Point Brown peninsula at the nor
   - SS Catala brought to Ocean Shores in 1963 as floating hotel confirmed
   - Grounded by storm on New Year's Day 1965 confirmed
   - Towed to Damon Point and deliberately grounded in 1965 confirmed
-- [Ocean Shores, Washington population and history](https://en.wikipedia.org/wiki/Ocean_Shores,_Washington)
+- [Ocean Shores, Washington population and history](https://en.wikipedia.org/?curid=137957)
   - Population 6,715 at 2020 census confirmed
   - City incorporated in 1970 confirmed
   - 41% of residents age 65 or older confirmed

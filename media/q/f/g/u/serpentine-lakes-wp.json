@@ -3,33 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/f/g/u/serpentine-lakes-wp/hero.jpg",
-        "filename": "Serpentine Lakes.JPG",
-        "caption": "Serpentine Lakes, South Australia. Salt Lakes in the Great Victoria Desert near the Western Australian border",
-        "alt": "Serpentine Lakes, South Australia. Salt Lakes in the Great Victoria Desert near the Western Australian border",
-        "width": 3456,
-        "height": 2304,
-        "mimeType": "image/jpeg",
+        "path": "_m/r/1/f/9/adelaide-wp/australia-south-australia-reli.png",
+        "filename": "Australia South Australia relief location map.png",
+        "caption": "Location map of South Australia, Australia\nEquidistant cylindrical projection, latitude of true scale 31.27° S (equivalent to equirectangular projection with N/S stretching 117 %). Geographic limits of the map:\n\nN: 25.6° S\nS: 38.5° S\nW: 128.5° E\nE: 141.5° E",
+        "alt": "Location map of South Australia, Australia\nEquidistant cylindrical projection, latitude of true scale 31.27° S (equivalent to equirectangular projection with N/S stretching 117 %). Geographic limits of the map:\n\nN: 25.6° S\nS: 38.5° S\nW: 128.5° E\nE: 141.5° E",
+        "width": 1812,
+        "height": 2105,
         "license": "CC BY-SA 3.0",
-        "artist": "Marian Deschain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serpentine_Lakes.JPG",
-        "sourceType": "core",
-        "sourceArticleId": "serpentine-lakes-wp",
-        "sourceGeohash4": "qfgu",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Files with coordinates missing SDC location of creation",
-          "Lakes of Perth, Western Australia",
-          "Lakes of South Australia",
-          "Mamungari Conservation Park",
-          "Salt lakes of Australia",
-          "Self-published work",
-          "Taken with Canon EOS 350D"
-        ]
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Tentotwo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Australia_South_Australia_relief_location_map.png",
+        "smallPath": "_m/r/1/f/9/adelaide-wp/australia-south-australia-reli-small.webp"
       },
       "images": [
         {
-          "path": "_m/q/f/g/u/serpentine-lakes-wp/australia-south-australia-reli.png",
+          "path": "_m/r/1/f/9/adelaide-wp/australia-south-australia-reli.png",
           "filename": "Australia South Australia relief location map.png",
           "caption": "Location map of South Australia, Australia\nEquidistant cylindrical projection, latitude of true scale 31.27° S (equivalent to equirectangular projection with N/S stretching 117 %). Geographic limits of the map:\n\nN: 25.6° S\nS: 38.5° S\nW: 128.5° E\nE: 141.5° E",
           "alt": "Location map of South Australia, Australia\nEquidistant cylindrical projection, latitude of true scale 31.27° S (equivalent to equirectangular projection with N/S stretching 117 %). Geographic limits of the map:\n\nN: 25.6° S\nS: 38.5° S\nW: 128.5° E\nE: 141.5° E",
@@ -49,7 +37,8 @@
             "PNG created with QGIS",
             "Relief location maps of Australia",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/r/1/f/9/adelaide-wp/australia-south-australia-reli-small.webp"
         }
       ],
       "narration": [
@@ -61,8 +50,9 @@
         "_m/q/f/g/u/serpentine-lakes-wp/qfgu-serpentine-lakes-reading-the-emptiness.mp3"
       ],
       "combinedNarration": "_m/q/f/g/u/serpentine-lakes-wp/qfgu-serpentine-lakes-combined.mp3",
-      "combinedNarrationBytes": 3364311,
-      "combinedNarrationDuration": 280
+      "combinedNarrationBytes": 3412045,
+      "combinedNarrationDuration": 280,
+      "combinedCover": "_m/q/f/g/u/serpentine-lakes-wp/qfgu-serpentine-lakes-combined-cover.jpg"
     }
   }
 }

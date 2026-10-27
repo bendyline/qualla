@@ -44,7 +44,7 @@ The burial site lies at 51.294 N, 12.063 E, on a terrace above the east bank of 
 
 ## Sources
 
-- [Bad Dürrenberg burial - Wikipedia](https://en.wikipedia.org/wiki/Bad_D%C3%BCrrenberg_burial)
+- [Bad Dürrenberg burial - Wikipedia](https://en.wikipedia.org/?curid=75521193)
   - Discovered 4 May 1934 by workmen laying a water pipe in a spa garden beside the Saale; excavated in one day under Wilhelm Henning; no photographs, only a two-page report and a sketch
   - Woman aged 30-40 buried seated facing south with an infant across her lap, grave filled with powdered red ochre, shaft walls lined with wattle and capped with wood and loam
   - Radiocarbon dating 7000-6800 BC, roughly 9,000 years ago; first dated in the 1970s

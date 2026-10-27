@@ -2,38 +2,9 @@
   "articleId": "piriapolis-wk",
   "gallery": [
     {
-      "filename": "Piriápolis (Maldonado) - Colonia de Canaciones Nro 65.JPG",
-      "title": "File:Piriápolis (Maldonado) - Colonia de Canaciones Nro 65.JPG",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Piri%C3%A1polis_%28Maldonado%29_-_Colonia_de_Canaciones_Nro_65.JPG",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Piri%C3%A1polis_(Maldonado)_-_Colonia_de_Canaciones_Nro_65.JPG",
-      "width": 3264,
-      "height": 1832,
-      "mime": "image/jpeg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "LaMisma",
-      "description": "This is a photo of a Uruguayan monument identified by the ID",
-      "dateCreated": "Taken on 31 October 2009, 14:49:05",
-      "categories": [
-        "CC-BY-SA-3.0",
-        "Cultural heritage monuments in Uruguay with known IDs",
-        "Escuela N° 85 Colonia de Vacaciones Emilio Oribe",
-        "Images from Wiki Loves Monuments 2013",
-        "Images from Wiki Loves Monuments 2013 in Uruguay",
-        "Self-published work",
-        "Uploaded via Campaign:wlm-uy",
-        "Uruguay photographs taken on 2009-10-31"
-      ],
-      "sourceType": "poi",
-      "sourceArticleId": "piriapolis-wk",
-      "sourceGeohash4": "6cb9",
-      "mediumPath": "_m/6/c/b/9/piriapolis-wk/piri-polis-maldonado-colonia-d-medium.webp",
-      "smallPath": "_m/6/c/b/9/piriapolis-wk/piri-polis-maldonado-colonia-d-small.webp"
-    },
-    {
       "filename": "Piriápolis banner (Castillo de Piria).jpg",
       "title": "File:Piriápolis banner (Castillo de Piria).jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Piri%C3%A1polis_banner_%28Castillo_de_Piria%29.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Piri%C3%A1polis_banner_%28Castillo_de_Piria%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Piri%C3%A1polis_banner_(Castillo_de_Piria).jpg",
       "width": 4200,
       "height": 600,
@@ -41,6 +12,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Zerabat, en base a la fotografía de LaMisma.",
+      "credit": "Obra derivada de File:Castillo de Piria - Piriápolis (Maldonado).JPG, creada por LaMisma.",
+      "source": "Piriápolis banner (Castillo de Piria)",
       "description": "Banner de Piriápolis de Wikiviajes, en el que se muestra parte del Castillo de Piria.",
       "dateCreated": "2014-06-07",
       "categories": [
@@ -48,15 +21,14 @@
         "Castillo de Piria",
         "Wikivoyage banners of Uruguay"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "piriapolis-wk",
       "sourceGeohash4": "6cb9",
-      "mediumPath": "_m/6/c/b/9/piriapolis-wk/piri-polis-banner-castillo-de--medium.webp",
-      "smallPath": "_m/6/c/b/9/piriapolis-wk/piri-polis-banner-castillo-de--small.webp"
+      "smallPath": "_m/6/c/b/9/piriapolis-wk/piri-polis-banner-castillo-de--small.webp",
+      "mediumPath": "_m/6/c/b/9/piriapolis-wk/piri-polis-banner-castillo-de--medium.webp"
     }
   ],
   "galleryPaths": [
-    "_m/6/c/b/9/piriapolis-wk/piri-polis-maldonado-colonia-d.jpg",
     "_m/6/c/b/9/piriapolis-wk/piri-polis-banner-castillo-de-.jpg"
   ],
   "updatedAt": "2026-02-16T18:04:42.031Z",
@@ -78,5 +50,65 @@
       "6cb9-piri-polis-getting-lost-is-hard.mp3": 49.0563333
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Piriápolis (Maldonado) - Colonia de Canaciones Nro 65.JPG",
+    "title": "File:Piriápolis (Maldonado) - Colonia de Canaciones Nro 65.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Piri%C3%A1polis_%28Maldonado%29_-_Colonia_de_Canaciones_Nro_65.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Piri%C3%A1polis_(Maldonado)_-_Colonia_de_Canaciones_Nro_65.JPG",
+    "width": 3264,
+    "height": 1832,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "LaMisma",
+    "credit": "Own work",
+    "source": "Piriápolis (Maldonado) - Colonia de Canaciones Nro 65",
+    "description": "This is a photo of a Uruguayan monument identified by the ID",
+    "dateCreated": "Taken on 31 October 2009, 14:49:05",
+    "categories": [
+      "CC-BY-SA-3.0",
+      "Cultural heritage monuments in Uruguay with known IDs",
+      "Escuela N° 85 Colonia de Vacaciones Emilio Oribe",
+      "Images from Wiki Loves Monuments 2013",
+      "Images from Wiki Loves Monuments 2013 in Uruguay",
+      "Self-published work",
+      "Taken with Canon PowerShot A590 IS",
+      "Uploaded via Campaign:wlm-uy",
+      "Uruguay photographs taken on 2009-10-31"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "piriapolis-wk",
+    "sourceGeohash4": "6cb9"
+  },
+  "thumbnail": {
+    "filename": "Piriápolis (Maldonado) - Colonia de Canaciones Nro 65.JPG",
+    "title": "File:Piriápolis (Maldonado) - Colonia de Canaciones Nro 65.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Piri%C3%A1polis_%28Maldonado%29_-_Colonia_de_Canaciones_Nro_65.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Piri%C3%A1polis_(Maldonado)_-_Colonia_de_Canaciones_Nro_65.JPG",
+    "width": 3264,
+    "height": 1832,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "LaMisma",
+    "credit": "Own work",
+    "source": "Piriápolis (Maldonado) - Colonia de Canaciones Nro 65",
+    "description": "This is a photo of a Uruguayan monument identified by the ID",
+    "dateCreated": "Taken on 31 October 2009, 14:49:05",
+    "categories": [
+      "CC-BY-SA-3.0",
+      "Cultural heritage monuments in Uruguay with known IDs",
+      "Escuela N° 85 Colonia de Vacaciones Emilio Oribe",
+      "Images from Wiki Loves Monuments 2013",
+      "Images from Wiki Loves Monuments 2013 in Uruguay",
+      "Self-published work",
+      "Taken with Canon PowerShot A590 IS",
+      "Uploaded via Campaign:wlm-uy",
+      "Uruguay photographs taken on 2009-10-31"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "piriapolis-wk",
+    "sourceGeohash4": "6cb9"
   }
 }

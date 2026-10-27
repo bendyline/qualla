@@ -26,7 +26,7 @@ Yucca Valley and Twentynine Palms are the basin's largest communities. Joshua Tr
 
 ## Flight Context
 
-The Morongo Basin is easily oriented from above: Joshua Tree National Park occupies the southern portion, the Marine Corps base dominates the northeast, and the Coachella Valley lies to the south beyond the Little San Bernardino Mountains. The basin runs roughly east-west at 34°N, between 116°W and 115.5°W. Nearest airports: Twentynine Palms (TNP), Desert Resorts Regional (PSP) at Palm Springs.
+The Morongo Basin is easily oriented from above: Joshua Tree National Park occupies the southern portion, the Marine Corps base dominates the northeast, and the Coachella Valley lies to the south beyond the Little San Bernardino Mountains. The basin runs roughly east-west at 34°N, between 116°W and 115.5°W. Nearest airports: Twentynine Palms (TNP), Palm Springs International (PSP) at Palm Springs.
 
 ## Sources
 

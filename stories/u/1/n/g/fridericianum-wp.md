@@ -32,7 +32,7 @@ The Fridericianum stands on the north side of Friedrichsplatz at 51.3136N, 9.497
 
 ## Sources
 
-- [Fridericianum - Wikipedia](https://en.wikipedia.org/wiki/Fridericianum)
+- [Fridericianum - Wikipedia](https://en.wikipedia.org/?curid=28935533)
   - designed by Simon Louis du Ry for Landgrave Frederick II and opened in 1779
   - financed from the proceeds of hiring Hessian soldiers to the British
   - the Zwehrenturm was converted into an observatory
@@ -43,7 +43,7 @@ The Fridericianum stands on the north side of Friedrichsplatz at 51.3136N, 9.497
   - Moritz Wesseler has directed the Fridericianum since November 2018
   - over 2,000 square metres of exhibition space
   - programme focused on artists not yet given an institutional platform in Germany
-- [Fridericianum - Wikipedia (re-verification)](https://en.wikipedia.org/wiki/Fridericianum)
+- [Fridericianum - Wikipedia (re-verification)](https://en.wikipedia.org/?curid=28935533)
   - opened 1779, one of the oldest/first public museums in Europe
   - financed from money Britain paid Hesse-Kassel for hiring out Hessian soldiers
   - became Germany's first parliamentary building under Jerome Bonaparte, reverted to museum use in 1813

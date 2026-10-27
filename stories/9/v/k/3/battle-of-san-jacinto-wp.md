@@ -55,7 +55,7 @@ Located at 29.75N, 95.08W on the marshy lowlands where Buffalo Bayou meets the S
 - [Wikipedia - USS Texas BB-35](https://en.wikipedia.org/wiki/USS_Texas_(BB-35))
   - Battleship Texas berthed at San Jacinto 1948-2022 confirmed
   - Moved to Galveston for repairs August 2022 confirmed
-- [Juan Seguin and Tejano soldiers at San Jacinto](https://en.wikipedia.org/wiki/Battle_of_San_Jacinto)
+- [Juan Seguin and Tejano soldiers at San Jacinto](https://en.wikipedia.org/?curid=165630)
   - Juan Seguin and Antonio Menchaca protest confirmed
   - Playing cards in hats for Tejano identification confirmed
   - Deaf Smith destroyed Vince Bridge confirmed

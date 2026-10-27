@@ -3,31 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/t/k/1/w/siege-of-muscat-1650-wp/hero.jpg",
-        "filename": "Al Jalali Fort (47953954322).jpg",
-        "caption": "Old Muscat, Oman.",
-        "alt": "Old Muscat, Oman.",
-        "width": 5184,
-        "height": 3456,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Eduard Marmet",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al_Jalali_Fort_(47953954322).jpg",
-        "sourceType": "core",
-        "sourceArticleId": "siege-of-muscat-1650-wp",
-        "sourceGeohash4": "tk1w",
-        "accessedAt": "2026-03-01T10:02:59.878Z",
-        "categories": [
-          "CC-BY-SA-2.0",
-          "Files with coordinates missing SDC location of creation",
-          "Flickr images missing SDC published in",
-          "Flickr images reviewed by FlickreviewR 2",
-          "Fort Al Jalali"
-        ]
+        "path": "_m/t/k/1/w/old-muscat-wp/mascate-antonio-bocarro.png",
+        "filename": "MASCATE António Bocarro.png",
+        "caption": "Muscat (Mascate) Portuguese Fortress in the 17th century.",
+        "alt": "Muscat (Mascate) Portuguese Fortress in the 17th century.",
+        "width": 797,
+        "height": 538,
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Hugo Refachinho",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:MASCATE_Ant%C3%B3nio_Bocarro.png",
+        "smallPath": "_m/t/k/1/w/old-muscat-wp/mascate-antonio-bocarro-small.webp"
       },
       "images": [
         {
-          "path": "_m/t/k/1/w/siege-of-muscat-1650-wp/muscat-fort-cropped.jpg",
+          "path": "_m/t/k/1/w/al-jalali-fort-wp/muscat-fort-cropped.jpg",
           "filename": "Muscat Fort (cropped).jpg",
           "caption": "Al-Jalali and Al-Mirani forts in Mascat, Oman.",
           "alt": "Al-Jalali and Al-Mirani forts in Mascat, Oman.",
@@ -46,10 +36,11 @@
             "Extracted images",
             "Fort Al Jalali",
             "Mirani Fort"
-          ]
+          ],
+          "smallPath": "_m/t/k/1/w/al-jalali-fort-wp/muscat-fort-cropped-small.webp"
         },
         {
-          "path": "_m/t/k/1/w/siege-of-muscat-1650-wp/mascate-antonio-bocarro.png",
+          "path": "_m/t/k/1/w/old-muscat-wp/mascate-antonio-bocarro.png",
           "filename": "MASCATE António Bocarro.png",
           "caption": "Muscat (Mascate) Portuguese Fortress in the 17th century.",
           "alt": "Muscat (Mascate) Portuguese Fortress in the 17th century.",
@@ -70,7 +61,8 @@
             "Old Muscat",
             "Portuguese forts",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/t/k/1/w/old-muscat-wp/mascate-antonio-bocarro-small.webp"
         }
       ],
       "narration": [
@@ -82,8 +74,9 @@
         "_m/t/k/1/w/siege-of-muscat-1650-wp/tk1w-siege-of-muscat-1650-the-end-of-portuguese-oman.mp3"
       ],
       "combinedNarration": "_m/t/k/1/w/siege-of-muscat-1650-wp/tk1w-siege-of-muscat-1650-combined.mp3",
-      "combinedNarrationBytes": 3159349,
-      "combinedNarrationDuration": 263
+      "combinedNarrationBytes": 3245137,
+      "combinedNarrationDuration": 263,
+      "combinedCover": "_m/t/k/1/w/siege-of-muscat-1650-wp/tk1w-siege-of-muscat-1650-combined-cover.jpg"
     }
   }
 }

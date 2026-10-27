@@ -32,7 +32,7 @@ The recorded loss position of UC-75 is roughly 53.95 degrees north, 0.15 degrees
 
 ## Sources
 
-- [SM UC-75 - Wikipedia](https://en.wikipedia.org/wiki/SM_UC-75)
+- [SM UC-75 - Wikipedia](https://en.wikipedia.org/?curid=21679283)
   - 59 ships sunk in 13 patrols confirmed
   - rammed by HMS Fairy 31 May 1918 confirmed
   - Corrected: 25 crew / 19 killed / 6 survivors → 26 crew / 17 killed / 14 survivors

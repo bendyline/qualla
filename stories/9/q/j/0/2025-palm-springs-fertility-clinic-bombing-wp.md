@@ -33,7 +33,7 @@ Located at 33.84°N, 116.55°W, in downtown Palm Springs near Desert Regional Me
 ## Sources
 
 - [2025 Palm Springs fertility clinic bombing - Wikipedia](https://en.wikipedia.org/?curid=79993622)
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2025_Palm_Springs_fertility_clinic_bombing)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=79993622)
   - Attributed co-conspirator Daniel Park's in-custody death to authorities ('authorities said he had jumped') rather than stating it as fact, matching the source's hedged 'according to authorities' phrasing.
 - [Final review — 2026-08-05](https://en.wikipedia.org/?curid=79993622)
   - Bombing occurred May 17, 2025 (Saturday), outside American Reproductive Centers at 1199 North Indian Canyon Drive, Palm Springs; clinic closed weekends, no staff inside

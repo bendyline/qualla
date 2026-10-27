@@ -3,30 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/p/v/palace-of-whitehall-wp/hero.jpg",
-        "filename": "The Old Palace of Whitehall by Hendrik Danckerts.jpg",
-        "caption": "The view is from the west. Despite appearances this painting shows a single palace. The Banqueting House is on the left.",
-        "alt": "The view is from the west. Despite appearances this painting shows a single palace. The Banqueting House is on the left.",
-        "width": 1000,
-        "height": 600,
+        "path": "_m/g/c/p/v/palace-of-whitehall-wp/a-view-of-lambeth-palace-from-.jpg",
+        "filename": "A view of Lambeth Palace from the river at Whitehall Stairs MET DP823187.jpg",
+        "caption": "Print; Prints",
+        "alt": "Print; Prints",
+        "width": 3886,
+        "height": 2160,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Hendrick Danckerts",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Old_Palace_of_Whitehall_by_Hendrik_Danckerts.jpg",
-        "sourceType": "core",
+        "license": "CC0",
+        "artist": "Wenceslaus Hollar",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_of_Lambeth_Palace_from_the_river_at_Whitehall_Stairs_MET_DP823187.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "palace-of-whitehall-wp",
         "sourceGeohash4": "gcpv",
-        "categories": [
-          "CC-PD-Mark",
-          "Landscape paintings by Hendrick Danckerts",
-          "PD-Art (PD-old-100)",
-          "Paintings without Wikidata item",
-          "Whitehall in art"
-        ]
+        "mediumPath": "_m/g/c/p/v/palace-of-whitehall-wp/a-view-of-lambeth-palace-from--medium.webp",
+        "smallPath": "_m/g/c/p/v/palace-of-whitehall-wp/a-view-of-lambeth-palace-from--small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/p/v/palace-of-whitehall-wp/banqueting-house-london.jpg",
+          "path": "_m/tpc/bu/ck/in/gh/buckingham-palace/banqueting-house-london.jpg",
           "filename": "Banqueting House London.jpg",
           "caption": "Banqueting House, London",
           "alt": "Banqueting House, London",
@@ -47,7 +42,8 @@
             "License migration completed",
             "Listed buildings in England with known IDs",
             "Reliefs of garlands in London"
-          ]
+          ],
+          "smallPath": "_m/tpc/bu/ck/in/gh/buckingham-palace/banqueting-house-london-small.webp"
         },
         {
           "path": "_m/g/c/p/v/palace-of-whitehall-wp/whitehallwren.jpg",
@@ -123,7 +119,7 @@
           "smallPath": "_m/g/c/p/v/palace-of-whitehall-wp/drawing-antony-van-den-small.webp"
         },
         {
-          "path": "_m/g/c/p/v/palace-of-whitehall-wp/john-constable-opening.jpg",
+          "path": "_m/g/c/p/v/waterloo-bridge-wp/john-constable-opening.jpg",
           "filename": "John Constable - The Opening of Waterloo Bridge.jpg",
           "alt": "John Constable - The Opening of Waterloo Bridge.jpg",
           "width": 4096,
@@ -154,7 +150,9 @@
             "Stone arch bridges in art",
             "The Opening of Waterloo Bridge (T04904)",
             "Waterloo Bridge in art"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/waterloo-bridge-wp/john-constable-opening-medium.webp",
+          "smallPath": "_m/g/c/p/v/waterloo-bridge-wp/john-constable-opening-small.webp"
         },
         {
           "path": "_m/g/c/p/v/palace-of-whitehall-wp/waterloo-bridgeconstable.jpg",
@@ -345,7 +343,8 @@
             "National Register of Historic Places in Lehigh County, Pennsylvania",
             "National Register of Historic Places with known IDs",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/wh/it/eh/al/whitehall/george-taylor-house-small.webp"
         },
         {
           "path": "_m/d/r/4/q/allentown-wk/lehigh-valley-mall-lifestyle-c.jpg",
@@ -367,7 +366,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Fujifilm FinePix Z10fd"
-          ]
+          ],
+          "mediumPath": "_m/d/r/4/q/allentown-wk/lehigh-valley-mall-lifestyle-c-medium.webp",
+          "smallPath": "_m/d/r/4/q/allentown-wk/lehigh-valley-mall-lifestyle-c-small.webp"
         },
         {
           "path": "_m/tpc/wh/it/eh/al/whitehall/us-22-eb-at-pa-145-sb-exit.jpg",
@@ -391,7 +392,9 @@
             "Roads in Whitehall Township, Lehigh County, Pennsylvania",
             "Self-published work",
             "Taken with Fujifilm FinePix Z10fd"
-          ]
+          ],
+          "mediumPath": "_m/tpc/wh/it/eh/al/whitehall/us-22-eb-at-pa-145-sb-exit-medium.webp",
+          "smallPath": "_m/tpc/wh/it/eh/al/whitehall/us-22-eb-at-pa-145-sb-exit-small.webp"
         },
         {
           "path": "_m/d/r/4/q/allentown-wk/abe-terminal-2.jpg",
@@ -415,7 +418,9 @@
             "Lehigh Valley International Airport",
             "Self-published work",
             "Taken with Sony DSC-TX1"
-          ]
+          ],
+          "mediumPath": "_m/d/r/4/q/allentown-wk/abe-terminal-2-medium.webp",
+          "smallPath": "_m/d/r/4/q/allentown-wk/abe-terminal-2-small.webp"
         },
         {
           "path": "_m/d/r/4/e/philadelphia-wk/30th-street-station-ph-1.jpg",
@@ -449,7 +454,9 @@
             "License migration redundant",
             "Pictures of the day (2020)",
             "Taken with Nikon D7000"
-          ]
+          ],
+          "mediumPath": "_m/d/r/4/e/philadelphia-wk/30th-street-station-ph-1-medium.webp",
+          "smallPath": "_m/d/r/4/e/philadelphia-wk/30th-street-station-ph-1-small.webp"
         }
       ],
       "narration": [

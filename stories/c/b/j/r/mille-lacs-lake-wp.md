@@ -59,7 +59,7 @@ Located at 46.24N, 93.64W in central Minnesota. Mille Lacs Lake is an enormous, 
   - 207 square miles confirmed
   - Second-largest inland lake in Minnesota after Red Lake confirmed
   - Premier walleye fishery confirmed
-- [Wikipedia - Mille Lacs Lake - Named Islands List](https://en.wikipedia.org/wiki/Mille_Lacs_Lake)
+- [Wikipedia - Mille Lacs Lake - Named Islands List](https://en.wikipedia.org/?curid=30863165)
   - 13 named islands confirmed (Malone largest at 35 acres, Hennepin smallest at 0.17 acres)
   - Maximum depth 42 feet confirmed
   - Cold polymictic lake confirmed

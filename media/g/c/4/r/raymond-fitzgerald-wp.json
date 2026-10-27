@@ -3,30 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/4/r/raymond-fitzgerald-wp/hero.jpg",
-        "filename": "National Library of Ireland MS 700 f77v Raymond de Gros.jpg",
-        "caption": "Raymond le Gros as shown in a 13th century manuscript of the Expugnatio Hibernica by Giraldus de Barri (Gerald of Wales)",
-        "alt": "Raymond le Gros as shown in a 13th century manuscript of the Expugnatio Hibernica by Giraldus de Barri (Gerald of Wales)",
-        "width": 912,
-        "height": 1875,
-        "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Unknown artist of the 13th century",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Library_of_Ireland_MS_700_f77v_Raymond_de_Gros.jpg",
+        "path": "_m/g/c/4/r/raymond-fitzgerald-wp/map-showing-location-b.png",
+        "filename": "Baginbun Head Map.png",
+        "caption": "Map showing the location of Baginbun Head where Raymond le Gros landed in 1170 in Ireland. Waterford and Wexford were Norse settlements at that time. The first landing of the Normans took place at Bannow Island in 1169. (This island meanwhile joined the mainland.)",
+        "alt": "Map showing the location of Baginbun Head where Raymond le Gros landed in 1170 in Ireland. Waterford and Wexford were Norse settlements at that time. The first landing of the Normans took place at Bannow Island in 1169. (This island meanwhile joined the mainland.)",
+        "width": 825,
+        "height": 525,
+        "mimeType": "image/png",
+        "license": "CC BY-SA 4.0",
+        "artist": "AFBorchert",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baginbun_Head_Map.png",
         "sourceType": "core",
         "sourceArticleId": "raymond-fitzgerald-wp",
         "sourceGeohash4": "gc4r",
         "categories": [
-          "13th-century illuminated manuscripts",
-          "CC-PD-Mark",
-          "Expugnatio Hibernica",
-          "Images from the National Library of Ireland",
-          "PD-Art (PD-old-70)",
-          "PD-Art (PD-old default)",
-          "PD-Art missing SDC copyright status",
-          "PD-old missing SDC copyright status",
-          "Raymond FitzGerald"
-        ]
+          "Baginbun Head",
+          "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+          "GFDL",
+          "License migration redundant",
+          "Maps of County Wexford",
+          "Raymond FitzGerald",
+          "Self-published work"
+        ],
+        "smallPath": "_m/g/c/4/r/raymond-fitzgerald-wp/map-showing-location-b-small.webp"
       },
       "images": [
         {
@@ -83,7 +82,7 @@
           "smallPath": "_m/g/c/4/r/raymond-fitzgerald-wp/map-showing-location-b-small.webp"
         },
         {
-          "path": "_m/g/c/4/r/raymond-fitzgerald-wp/molana-priory-refectory-2007-0.jpg",
+          "path": "_m/g/c/4/r/molana-abbey-wp/molana-priory-refectory-2007-0.jpg",
           "filename": "Molana Priory Refectory 2007 08 07.jpg",
           "caption": "13th-century refectory along with the reader's pulpit recess where a 19th century plate has been erected with the following inscription: Here lie the Remains of Raymond le Gros Who Died Anno Domini 1186.",
           "alt": "13th-century refectory along with the reader's pulpit recess where a 19th century plate has been erected with the following inscription: Here lie the Remains of Raymond le Gros Who Died Anno Domini 1186.",
@@ -109,7 +108,9 @@
             "Refectories in Ireland",
             "Self-published work",
             "Taken with Canon EOS 30D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/4/r/molana-abbey-wp/molana-priory-refectory-2007-0-medium.webp",
+          "smallPath": "_m/g/c/4/r/molana-abbey-wp/molana-priory-refectory-2007-0-small.webp"
         },
         {
           "path": "_m/d/q/6/h/roanoke-colony-wp/sir-walter-raleigh-ova.jpg",
@@ -149,7 +150,8 @@
             "Sir Walter Raleigh",
             "Tudor portrait miniatures",
             "Yorck Project paintings missing described by source"
-          ]
+          ],
+          "smallPath": "_m/d/q/6/h/roanoke-colony-wp/sir-walter-raleigh-ova-small.webp"
         },
         {
           "path": "_m/g/c/6/9/county-waterford-wp/lismore-castle-2.jpg",
@@ -168,7 +170,9 @@
           "categories": [
             "CC-BY-SA-2.5",
             "Lismore Castle"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/9/county-waterford-wp/lismore-castle-2-medium.webp",
+          "smallPath": "_m/g/c/6/9/county-waterford-wp/lismore-castle-2-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/waterford-by-night.jpg",
@@ -191,7 +195,8 @@
             "Information field template with formatting",
             "Republic of Ireland photographs taken on 2007-07-07",
             "Waterford"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/waterford-by-night-small.webp"
         },
         {
           "path": "_m/g/c/6/9/county-waterford-wp/dungarvan-ireland-harbour.jpg",
@@ -211,7 +216,9 @@
             "CC-BY-SA-3.0",
             "Dungarvan",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/9/county-waterford-wp/dungarvan-ireland-harbour-medium.webp",
+          "smallPath": "_m/g/c/6/9/county-waterford-wp/dungarvan-ireland-harbour-small.webp"
         },
         {
           "path": "_m/g/c/6/9/county-waterford-wp/reginalds-tower-2.jpg",
@@ -226,7 +233,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reginalds_Tower_2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-waterford-wp",
-          "sourceGeohash4": "gc69"
+          "sourceGeohash4": "gc69",
+          "smallPath": "_m/g/c/6/9/county-waterford-wp/reginalds-tower-2-small.webp"
         },
         {
           "path": "_m/g/c/6/9/county-waterford-wp/watch-out-tower-at-ram-head-ar.jpg",
@@ -241,7 +249,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Watch_out_tower_at_Ram_Head,_Ardmore,_Co_Waterford_-_geograph.org.uk_-_5615101.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-waterford-wp",
-          "sourceGeohash4": "gc69"
+          "sourceGeohash4": "gc69",
+          "mediumPath": "_m/g/c/6/9/county-waterford-wp/watch-out-tower-at-ram-head-ar-medium.webp",
+          "smallPath": "_m/g/c/6/9/county-waterford-wp/watch-out-tower-at-ram-head-ar-small.webp"
         },
         {
           "path": "_m/g/c/6/9/county-waterford-wp/waterford-blaa-sandwich.jpg",
@@ -256,7 +266,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waterford_blaa_sandwich.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-waterford-wp",
-          "sourceGeohash4": "gc69"
+          "sourceGeohash4": "gc69",
+          "mediumPath": "_m/g/c/6/9/county-waterford-wp/waterford-blaa-sandwich-medium.webp",
+          "smallPath": "_m/g/c/6/9/county-waterford-wp/waterford-blaa-sandwich-small.webp"
         }
       ],
       "narration": [

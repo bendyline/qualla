@@ -33,7 +33,7 @@ Located at 28.520N, 81.377W on South Orange Avenue in Orlando, Florida, approxim
 ## Sources
 
 - [Pulse nightclub shooting - Wikipedia](https://en.wikipedia.org/?curid=50787160)
-- [Wikipedia - Pulse nightclub shooting](https://en.wikipedia.org/wiki/Pulse_nightclub_shooting)
+- [Wikipedia - Pulse nightclub shooting](https://en.wikipedia.org/?curid=50787160)
   - 49 killed, 58 wounded confirmed (53 by gunfire, 5 other causes)
   - SIG Sauer MCX semi-automatic rifle confirmed
   - Approximately 320 people in club confirmed

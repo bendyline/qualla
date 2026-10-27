@@ -3,29 +3,40 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/3/1/3/freiberg-cathedral-wp/hero.jpg",
-        "filename": "Freiberg Sachsen Dom Goldene Pforte.jpg",
-        "caption": "Freiberg Cathedral (in Saxony, Germany): Detail from the Golden Portal.",
-        "alt": "Freiberg Cathedral (in Saxony, Germany): Detail from the Golden Portal.",
-        "width": 2048,
-        "height": 1536,
+        "path": "_m/u/3/1/3/freiberg-cathedral-wp/freiberg-cathedral-ele.jpg",
+        "filename": "Freiberg katedra mpazdziora.JPG",
+        "caption": "Freiberg Cathedral: the electoral box of King Augustus II the Strong of Poland-Lithuania and his electoral cypher as Elector of Saxony (Frederick Augustus)",
+        "alt": "Freiberg Cathedral: the electoral box of King Augustus II the Strong of Poland-Lithuania and his electoral cypher as Elector of Saxony (Frederick Augustus)",
+        "width": 2816,
+        "height": 1654,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Photo: Andreas Praefcke",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freiberg_Sachsen_Dom_Goldene_Pforte.jpg",
+        "license": "CC BY-SA 3.0",
+        "artist": "Mariusz Paździora",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freiberg_katedra_mpazdziora.JPG",
         "sourceType": "core",
         "sourceArticleId": "freiberg-cathedral-wp",
         "sourceGeohash4": "u313",
         "categories": [
-          "Goldene Pforte",
-          "PD-self",
-          "Photos by User:AndreasPraefcke",
-          "Self-published work"
-        ]
+          "CC-BY-SA-3.0",
+          "Coats of arms of Saxony and Poland (personal union)",
+          "Coats of arms of the Polish-Lithuanian Commonwealth in architecture",
+          "Colorful reliefs in Germany",
+          "Colorful reliefs of coats of arms",
+          "GFDL",
+          "Images with extracted images",
+          "Interior of Freiberger Dom",
+          "License migration redundant",
+          "Reliefs of coats of arms in Saxony",
+          "Reliefs of the coats of arms of Lithuania",
+          "Self-published work",
+          "Taken with Canon EOS 1000D"
+        ],
+        "mediumPath": "_m/u/3/1/3/freiberg-cathedral-wp/freiberg-cathedral-ele-medium.webp",
+        "smallPath": "_m/u/3/1/3/freiberg-cathedral-wp/freiberg-cathedral-ele-small.webp"
       },
       "images": [
         {
-          "path": "_m/u/3/1/3/freiberg-cathedral-wp/fg080509-10dom.jpg",
+          "path": "_m/u/3/1/3/freiberg-wp/fg080509-10dom.jpg",
           "filename": "Fg080509 10dom.jpg",
           "caption": "Freiberg, Cathedral St. Marien and mining museum",
           "alt": "Freiberg, Cathedral St. Marien and mining museum",
@@ -50,8 +61,8 @@
             "Taken with Canon EOS 50D",
             "Untermarkt (Freiberg, Sachsen)"
           ],
-          "mediumPath": "_m/u/3/1/3/freiberg-cathedral-wp/fg080509-10dom-medium.webp",
-          "smallPath": "_m/u/3/1/3/freiberg-cathedral-wp/fg080509-10dom-small.webp"
+          "mediumPath": "_m/u/3/1/3/freiberg-wp/fg080509-10dom-medium.webp",
+          "smallPath": "_m/u/3/1/3/freiberg-wp/fg080509-10dom-small.webp"
         },
         {
           "path": "_m/u/3/1/3/freiberg-cathedral-wp/freiberg-cathedral-ele.jpg",
@@ -529,7 +540,8 @@
             "Mining carts in Saxony",
             "Reiche Zeche",
             "Underground mining"
-          ]
+          ],
+          "smallPath": "_m/u/3/1/3/freiberg-wp/fg-reiche-zeche-07-2006-11-08-small.webp"
         },
         {
           "path": "_m/u/3/1/3/freiberg-wp/glueck.jpg",
@@ -550,7 +562,9 @@
             "PD-self",
             "Self-published work",
             "Technische Universität Bergakademie Freiberg"
-          ]
+          ],
+          "mediumPath": "_m/u/3/1/3/freiberg-wp/glueck-medium.webp",
+          "smallPath": "_m/u/3/1/3/freiberg-wp/glueck-small.webp"
         },
         {
           "path": "_m/u/3/1/3/freiberg-wp/freibergjakobikirche.jpg",
@@ -572,7 +586,8 @@
             "Jakobikirche (Freiberg)",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "smallPath": "_m/u/3/1/3/freiberg-wp/freibergjakobikirche-small.webp"
         },
         {
           "path": "_m/u/3/1/3/freiberg-wp/christmarkt-freiberg-1.jpg",
@@ -594,7 +609,9 @@
             "Ortspyramide Freiberg",
             "Self-published work",
             "Taken with Nikon D80"
-          ]
+          ],
+          "mediumPath": "_m/u/3/1/3/freiberg-wp/christmarkt-freiberg-1-medium.webp",
+          "smallPath": "_m/u/3/1/3/freiberg-wp/christmarkt-freiberg-1-small.webp"
         },
         {
           "path": "_m/u/3/1/3/freiberg-wp/freiberg-bf-1.jpg",
@@ -617,7 +634,9 @@
             "Files with coordinates missing SDC location of creation",
             "GFDL",
             "License migration redundant"
-          ]
+          ],
+          "mediumPath": "_m/u/3/1/3/freiberg-wp/freiberg-bf-1-medium.webp",
+          "smallPath": "_m/u/3/1/3/freiberg-wp/freiberg-bf-1-small.webp"
         },
         {
           "path": "_m/u/3/1/6/saxony-wp/altstadt-von-freiberg.jpg",
@@ -632,7 +651,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Altstadt_von_Freiberg.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "saxony-wp",
-          "sourceGeohash4": "u313"
+          "sourceGeohash4": "u313",
+          "smallPath": "_m/u/3/1/6/saxony-wp/altstadt-von-freiberg-small.webp"
         },
         {
           "path": "_m/u/3/1/3/freiberg-wp/calcit-sphalerit-flourit.jpg",
@@ -647,7 +667,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calcit_Sphalerit_Flourit.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "freiberg-wp",
-          "sourceGeohash4": "u313"
+          "sourceGeohash4": "u313",
+          "mediumPath": "_m/u/3/1/3/freiberg-wp/calcit-sphalerit-flourit-medium.webp",
+          "smallPath": "_m/u/3/1/3/freiberg-wp/calcit-sphalerit-flourit-small.webp"
         },
         {
           "path": "_m/u/3/1/3/freiberg-wp/alte-porzellanfabrik-freiberg-.jpg",
@@ -662,7 +684,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alte_Porzellanfabrik_Freiberg_1.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "freiberg-wp",
-          "sourceGeohash4": "u313"
+          "sourceGeohash4": "u313",
+          "mediumPath": "_m/u/3/1/3/freiberg-wp/alte-porzellanfabrik-freiberg--medium.webp",
+          "smallPath": "_m/u/3/1/3/freiberg-wp/alte-porzellanfabrik-freiberg--small.webp"
         },
         {
           "path": "_m/u/3/1/3/freiberg-wk/kdfg-09200735-an-der-nikolaiki.jpg",
@@ -677,7 +701,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:KDFG_09200735_An_der_Nikolaikirche_3_LvT.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "freiberg-wk",
-          "sourceGeohash4": "u313"
+          "sourceGeohash4": "u313",
+          "mediumPath": "_m/u/3/1/3/freiberg-wk/kdfg-09200735-an-der-nikolaiki-medium.webp",
+          "smallPath": "_m/u/3/1/3/freiberg-wk/kdfg-09200735-an-der-nikolaiki-small.webp"
         },
         {
           "path": "_m/u/3/1/3/freiberg-wp/freiberg-pagebanner.jpg",
@@ -692,7 +718,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freiberg_pagebanner.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "freiberg-wp",
-          "sourceGeohash4": "u313"
+          "sourceGeohash4": "u313",
+          "mediumPath": "_m/u/3/1/3/freiberg-wp/freiberg-pagebanner-medium.webp",
+          "smallPath": "_m/u/3/1/3/freiberg-wp/freiberg-pagebanner-small.webp"
         },
         {
           "path": "_m/u/3/1/3/freiberg-wp/2h1a7265.jpg",
@@ -707,7 +735,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2H1A7265%D0%9E%D0%92.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "freiberg-wp",
-          "sourceGeohash4": "u313"
+          "sourceGeohash4": "u313",
+          "mediumPath": "_m/u/3/1/3/freiberg-wp/2h1a7265-medium.webp",
+          "smallPath": "_m/u/3/1/3/freiberg-wp/2h1a7265-small.webp"
         },
         {
           "path": "_m/u/3/1/3/freiberg-wp/freiberg-das-stadt-und-bergbau.jpg",
@@ -722,7 +752,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freiberg,_das_Stadt-_und_Bergbaumuseum.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "freiberg-wp",
-          "sourceGeohash4": "u313"
+          "sourceGeohash4": "u313",
+          "mediumPath": "_m/u/3/1/3/freiberg-wp/freiberg-das-stadt-und-bergbau-medium.webp",
+          "smallPath": "_m/u/3/1/3/freiberg-wp/freiberg-das-stadt-und-bergbau-small.webp"
         },
         {
           "path": "_m/u/3/1/6/saxony-wp/city-bautzen-germany-104.jpg",
@@ -749,7 +781,9 @@
             "Stephan M. Höhne/Bautzen",
             "Taken with Sony DSC-R1",
             "Views from Friedensbrücke (Bautzen)"
-          ]
+          ],
+          "mediumPath": "_m/u/3/1/6/saxony-wp/city-bautzen-germany-104-medium.webp",
+          "smallPath": "_m/u/3/1/6/saxony-wp/city-bautzen-germany-104-small.webp"
         },
         {
           "path": "_m/u/3/1/6/saxony-wp/elsterlofts.jpg",
@@ -777,7 +811,9 @@
             "Skyways in Leipzig",
             "Sächsische Wollgarnfabrik",
             "Taken with Nikon D40"
-          ]
+          ],
+          "mediumPath": "_m/u/3/1/6/saxony-wp/elsterlofts-medium.webp",
+          "smallPath": "_m/u/3/1/6/saxony-wp/elsterlofts-small.webp"
         },
         {
           "path": "_m/u/3/1/6/saxony-wp/le-hauptbahnhof-4.jpg",
@@ -802,7 +838,9 @@
             "License migration redundant",
             "Main facade of Leipzig Hauptbahnhof",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/3/1/6/saxony-wp/le-hauptbahnhof-4-medium.webp",
+          "smallPath": "_m/u/3/1/6/saxony-wp/le-hauptbahnhof-4-small.webp"
         },
         {
           "path": "_m/u/3/1/6/saxony-wp/dresden-from-albertbrucke.jpg",
@@ -825,7 +863,9 @@
             "July 2011 Dresden photographs",
             "Night skylines in Dresden",
             "Taken with Canon EOS 5D Mark II"
-          ]
+          ],
+          "mediumPath": "_m/u/3/1/6/saxony-wp/dresden-from-albertbrucke-medium.webp",
+          "smallPath": "_m/u/3/1/6/saxony-wp/dresden-from-albertbrucke-small.webp"
         },
         {
           "path": "_m/u/3/1/6/saxony-wp/altstadtbrucke-und-peterskirch.jpg",
@@ -848,7 +888,9 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work",
             "Waidhaus (Görlitz)"
-          ]
+          ],
+          "mediumPath": "_m/u/3/1/6/saxony-wp/altstadtbrucke-und-peterskirch-medium.webp",
+          "smallPath": "_m/u/3/1/6/saxony-wp/altstadtbrucke-und-peterskirch-small.webp"
         },
         {
           "path": "_m/u/3/1/6/saxony-wp/dresdner-eierschecke-9.jpg",
@@ -866,7 +908,9 @@
           "sourceGeohash4": "u316",
           "categories": [
             "CC-Zero"
-          ]
+          ],
+          "mediumPath": "_m/u/3/1/6/saxony-wp/dresdner-eierschecke-9-medium.webp",
+          "smallPath": "_m/u/3/1/6/saxony-wp/dresdner-eierschecke-9-small.webp"
         },
         {
           "path": "_m/u/3/1/6/saxony-wp/kriebstein-cossa.jpg",
@@ -881,7 +925,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kriebstein_cossa.jpg",
           "sourceType": "poi",
           "sourceArticleId": "saxony-wp",
-          "sourceGeohash4": "u316"
+          "sourceGeohash4": "u316",
+          "mediumPath": "_m/u/3/1/6/saxony-wp/kriebstein-cossa-medium.webp",
+          "smallPath": "_m/u/3/1/6/saxony-wp/kriebstein-cossa-small.webp"
         },
         {
           "path": "_m/u/3/1/6/saxony-wp/dd-canaletto-blick.jpg",
@@ -896,7 +942,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:DD-canaletto-blick.jpg",
           "sourceType": "poi",
           "sourceArticleId": "saxony-wp",
-          "sourceGeohash4": "u316"
+          "sourceGeohash4": "u316",
+          "mediumPath": "_m/u/3/1/6/saxony-wp/dd-canaletto-blick-medium.webp",
+          "smallPath": "_m/u/3/1/6/saxony-wp/dd-canaletto-blick-small.webp"
         },
         {
           "path": "_m/u/3/1/6/saxony-wp/lo-nitzgrundbahn-991777-4.jpg",
@@ -911,7 +959,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:L%C3%B6%C3%9Fnitzgrundbahn_991777-4.jpg",
           "sourceType": "poi",
           "sourceArticleId": "saxony-wp",
-          "sourceGeohash4": "u316"
+          "sourceGeohash4": "u316",
+          "mediumPath": "_m/u/3/1/6/saxony-wp/lo-nitzgrundbahn-991777-4-medium.webp",
+          "smallPath": "_m/u/3/1/6/saxony-wp/lo-nitzgrundbahn-991777-4-small.webp"
         },
         {
           "path": "_m/u/3/1/6/saxony-wp/j21461-bf-l-dre-gbf-411-xxx.jpg",
@@ -926,7 +976,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:J21461_Bf_L-Dre_Gbf,_411_xxx.jpg",
           "sourceType": "poi",
           "sourceArticleId": "saxony-wp",
-          "sourceGeohash4": "u316"
+          "sourceGeohash4": "u316",
+          "mediumPath": "_m/u/3/1/6/saxony-wp/j21461-bf-l-dre-gbf-411-xxx-medium.webp",
+          "smallPath": "_m/u/3/1/6/saxony-wp/j21461-bf-l-dre-gbf-411-xxx-small.webp"
         },
         {
           "path": "_m/u/3/1/6/saxony-wp/das-neue-schloss-im-furst-puck.jpg",
@@ -941,7 +993,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Das_Neue_Schloss_im_F%C3%BCrst-P%C3%BCckler-Park._IMG_9436WI.jpg",
           "sourceType": "poi",
           "sourceArticleId": "saxony-wp",
-          "sourceGeohash4": "u316"
+          "sourceGeohash4": "u316",
+          "mediumPath": "_m/u/3/1/6/saxony-wp/das-neue-schloss-im-furst-puck-medium.webp",
+          "smallPath": "_m/u/3/1/6/saxony-wp/das-neue-schloss-im-furst-puck-small.webp"
         },
         {
           "path": "_m/u/3/1/6/saxony-wp/kloster-st-marienthal-panorama.jpg",
@@ -956,7 +1010,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kloster_St._Marienthal_Panorama.JPG",
           "sourceType": "poi",
           "sourceArticleId": "saxony-wp",
-          "sourceGeohash4": "u316"
+          "sourceGeohash4": "u316",
+          "mediumPath": "_m/u/3/1/6/saxony-wp/kloster-st-marienthal-panorama-medium.webp",
+          "smallPath": "_m/u/3/1/6/saxony-wp/kloster-st-marienthal-panorama-small.webp"
         },
         {
           "path": "_m/u/3/1/1/chemnitz-wp/chemnitz-glaesernes-kaufhaus.jpg",
@@ -983,7 +1039,9 @@
             "March 2007 in Chemnitz",
             "Self-published work",
             "Taken with Sony DSC-R1"
-          ]
+          ],
+          "mediumPath": "_m/u/3/1/1/chemnitz-wp/chemnitz-glaesernes-kaufhaus-medium.webp",
+          "smallPath": "_m/u/3/1/1/chemnitz-wp/chemnitz-glaesernes-kaufhaus-small.webp"
         },
         {
           "path": "_m/u/3/1/1/chemnitz-wp/greifensteine-lc0040.jpg",
@@ -1010,7 +1068,8 @@
             "Quality images of rock formations",
             "Self-published work",
             "Spheroidal weathering"
-          ]
+          ],
+          "smallPath": "_m/u/3/1/1/chemnitz-wp/greifensteine-lc0040-small.webp"
         },
         {
           "path": "_m/u/3/1/1/chemnitz-wp/altes-und-neues-chemnitzer-rat.jpg",
@@ -1031,7 +1090,9 @@
             "CC-BY-SA-2.0-DE",
             "January 1995 in Chemnitz",
             "Neues Rathaus, Chemnitz"
-          ]
+          ],
+          "mediumPath": "_m/u/3/1/1/chemnitz-wp/altes-und-neues-chemnitzer-rat-medium.webp",
+          "smallPath": "_m/u/3/1/1/chemnitz-wp/altes-und-neues-chemnitzer-rat-small.webp"
         },
         {
           "path": "_m/u/3/1/1/chemnitz-wp/chemnitz-mercure.jpg",
@@ -1056,7 +1117,8 @@
             "Hotel Kongress, Chemnitz",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/u/3/1/1/chemnitz-wp/chemnitz-mercure-small.webp"
         },
         {
           "path": "_m/u/3/1/1/chemnitz-wp/chemnitz-stra-enbahn-netzplan.png",
@@ -1078,7 +1140,9 @@
             "Self-published work",
             "Tram maps of Chemnitz",
             "User:Maximilian Dörrbecker"
-          ]
+          ],
+          "mediumPath": "_m/u/3/1/1/chemnitz-wp/chemnitz-stra-enbahn-netzplan-medium.webp",
+          "smallPath": "_m/u/3/1/1/chemnitz-wp/chemnitz-stra-enbahn-netzplan-small.webp"
         },
         {
           "path": "_m/u/3/1/1/chemnitz-wp/chemnitz2-hb.jpg",
@@ -1093,7 +1157,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chemnitz2_hb.JPG",
           "sourceType": "poi",
           "sourceArticleId": "chemnitz-wp",
-          "sourceGeohash4": "u311"
+          "sourceGeohash4": "u311",
+          "smallPath": "_m/u/3/1/1/chemnitz-wp/chemnitz2-hb-small.webp"
         },
         {
           "path": "_m/u/3/1/1/chemnitz-wp/chemnitz3-hb.jpg",
@@ -1108,7 +1173,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chemnitz3_hb.JPG",
           "sourceType": "poi",
           "sourceArticleId": "chemnitz-wp",
-          "sourceGeohash4": "u311"
+          "sourceGeohash4": "u311",
+          "smallPath": "_m/u/3/1/1/chemnitz-wp/chemnitz3-hb-small.webp"
         },
         {
           "path": "_m/u/3/1/1/chemnitz-wp/schlossteich-chemnitz-hb.jpg",
@@ -1123,7 +1189,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schlossteich_Chemnitz_hb.JPG",
           "sourceType": "poi",
           "sourceArticleId": "chemnitz-wp",
-          "sourceGeohash4": "u311"
+          "sourceGeohash4": "u311",
+          "smallPath": "_m/u/3/1/1/chemnitz-wp/schlossteich-chemnitz-hb-small.webp"
         },
         {
           "path": "_m/u/3/1/1/chemnitz-wp/aerial-image-of-the-chemnitz-j.jpg",
@@ -1138,7 +1205,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Chemnitz-Jahnsdorf_airfield.jpg",
           "sourceType": "poi",
           "sourceArticleId": "chemnitz-wp",
-          "sourceGeohash4": "u311"
+          "sourceGeohash4": "u311",
+          "mediumPath": "_m/u/3/1/1/chemnitz-wp/aerial-image-of-the-chemnitz-j-medium.webp",
+          "smallPath": "_m/u/3/1/1/chemnitz-wp/aerial-image-of-the-chemnitz-j-small.webp"
         },
         {
           "path": "_m/u/2/c/p/saxon-ore-mountains-wk/seiffen-02-2006-11-30.jpg",
@@ -1158,7 +1227,8 @@
             "CC-BY-SA-2.5",
             "Hauptstraße (Seiffen)",
             "Photographs taken on 2006-11-30"
-          ]
+          ],
+          "smallPath": "_m/u/2/c/p/saxon-ore-mountains-wk/seiffen-02-2006-11-30-small.webp"
         },
         {
           "path": "_m/u/2/c/p/saxon-ore-mountains-wk/altenberg-panorama-04-2006-10-.jpg",
@@ -1179,7 +1249,8 @@
             "Geisingberg",
             "Photographs taken on 2006-10-30",
             "Views of Altenberg, Saxony"
-          ]
+          ],
+          "smallPath": "_m/u/2/c/p/saxon-ore-mountains-wk/altenberg-panorama-04-2006-10--small.webp"
         },
         {
           "path": "_m/u/2/c/p/saxon-ore-mountains-wk/heimatglocken.jpg",
@@ -1199,7 +1270,9 @@
             "CC-BY-SA-2.0-DE",
             "Stadtkirche Johanngeorgenstadt",
             "Taken with Olympus u700 / S-700"
-          ]
+          ],
+          "mediumPath": "_m/u/2/c/p/saxon-ore-mountains-wk/heimatglocken-medium.webp",
+          "smallPath": "_m/u/2/c/p/saxon-ore-mountains-wk/heimatglocken-small.webp"
         },
         {
           "path": "_m/u/2/c/p/saxon-ore-mountains-wk/aue-panorama-mit-nummern.jpg",
@@ -1222,7 +1295,9 @@
             "Self-published work",
             "Views of Aue (Aue-Bad Schlema)",
             "Zelle (Aue)"
-          ]
+          ],
+          "mediumPath": "_m/u/2/c/p/saxon-ore-mountains-wk/aue-panorama-mit-nummern-medium.webp",
+          "smallPath": "_m/u/2/c/p/saxon-ore-mountains-wk/aue-panorama-mit-nummern-small.webp"
         },
         {
           "path": "_m/u/2/c/p/saxon-ore-mountains-wk/dippoldiswalde-rathaus.jpg",
@@ -1247,7 +1322,8 @@
             "Market squares in Landkreis Sächsische Schweiz-Osterzgebirge",
             "Self-published work",
             "Town halls in Landkreis Sächsische Schweiz-Osterzgebirge"
-          ]
+          ],
+          "smallPath": "_m/u/2/c/p/saxon-ore-mountains-wk/dippoldiswalde-rathaus-small.webp"
         },
         {
           "path": "_m/u/2/c/p/saxon-ore-mountains-wk/annaberg-kaet-2010-2.jpg",
@@ -1272,7 +1348,9 @@
             "Taken with Canon EOS 450D",
             "Views of Annaberg-Buchholz",
             "Views of Pöhlberg"
-          ]
+          ],
+          "mediumPath": "_m/u/2/c/p/saxon-ore-mountains-wk/annaberg-kaet-2010-2-medium.webp",
+          "smallPath": "_m/u/2/c/p/saxon-ore-mountains-wk/annaberg-kaet-2010-2-small.webp"
         },
         {
           "path": "_m/u/3/1/1/chemnitz-wp/schlo-kirche-am-schlo-teich.jpg",
@@ -1290,7 +1368,9 @@
           "sourceGeohash4": "u2cp",
           "categories": [
             "Aerial photographs of Chemnitz"
-          ]
+          ],
+          "mediumPath": "_m/u/3/1/1/chemnitz-wp/schlo-kirche-am-schlo-teich-medium.webp",
+          "smallPath": "_m/u/3/1/1/chemnitz-wp/schlo-kirche-am-schlo-teich-small.webp"
         }
       ],
       "narration": [

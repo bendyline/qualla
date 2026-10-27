@@ -38,8 +38,8 @@
           "Self-published work",
           "Vadstena Monastery"
         ],
-        "smallPath": "_m/u/6/6/s/vadstena-abbey-wp/hero-small.webp",
-        "mediumPath": "_m/u/6/6/s/vadstena-abbey-wp/hero-medium.webp"
+        "smallPath": "_m/u/6/6/s/vadstena-abbey-wp/vadstena-abbey-small.webp",
+        "mediumPath": "_m/u/6/6/s/vadstena-abbey-wp/vadstena-abbey-medium.webp"
       },
       "images": [
         {
@@ -146,8 +146,8 @@
             "Vadstena klosterkyrka",
             "Vadstena klosterkyrkogård"
           ],
-          "mediumPath": "_m/u/6/6/s/vadstena-abbey-wp/vadstena-abbey-medium.webp",
-          "smallPath": "_m/u/6/6/s/vadstena-abbey-wp/vadstena-abbey-small.webp"
+          "mediumPath": "_m/u/6/6/s/vadstena-abbey-wp/hero-medium.webp",
+          "smallPath": "_m/u/6/6/s/vadstena-abbey-wp/hero-small.webp"
         },
         {
           "path": "_m/u/6/6/s/vadstena-abbey-wp/kung-magnus-och-drottn.jpg",
@@ -615,7 +615,8 @@
             "Photographs taken on 2009-11-19",
             "Taken with Minolta Dimage X20",
             "Östergötlands runinskrifter 136 (Rökstenen)"
-          ]
+          ],
+          "smallPath": "_m/tpc/va/ds/te/na/vadstena/rokstenen-1-small.webp"
         },
         {
           "path": "_m/tpc/va/ds/te/na/vadstena/vaversunda-view.jpg",
@@ -647,7 +648,9 @@
             "Taken with Olympus C-5050Z",
             "Väversunda kyrka",
             "Väversunda kyrkogård"
-          ]
+          ],
+          "mediumPath": "_m/tpc/va/ds/te/na/vadstena/vaversunda-view-medium.webp",
+          "smallPath": "_m/tpc/va/ds/te/na/vadstena/vaversunda-view-small.webp"
         },
         {
           "path": "_m/u/6/6/s/vadstena-castle-wp/vadstena-castle-vadstena-swede.jpg",
@@ -676,7 +679,9 @@
             "Self-published work",
             "Taken with Nikon Coolpix 995",
             "Vadstena slott"
-          ]
+          ],
+          "mediumPath": "_m/u/6/6/s/vadstena-castle-wp/vadstena-castle-vadstena-swede-medium.webp",
+          "smallPath": "_m/u/6/6/s/vadstena-castle-wp/vadstena-castle-vadstena-swede-small.webp"
         },
         {
           "path": "_m/tpc/va/ds/te/na/vadstena/vadstena-sweden-004.jpg",
@@ -704,7 +709,9 @@
             "Streets in Vadstena",
             "Taken with Nikon Coolpix 995",
             "Wooden buildings in Östergötland"
-          ]
+          ],
+          "mediumPath": "_m/tpc/va/ds/te/na/vadstena/vadstena-sweden-004-medium.webp",
+          "smallPath": "_m/tpc/va/ds/te/na/vadstena/vadstena-sweden-004-small.webp"
         },
         {
           "path": "_m/tpc/va/ds/te/na/vadstena/alvastra-ruins-sweden.jpg",
@@ -730,7 +737,9 @@
             "Photographs taken on 2006-08-15",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/tpc/va/ds/te/na/vadstena/alvastra-ruins-sweden-medium.webp",
+          "smallPath": "_m/tpc/va/ds/te/na/vadstena/alvastra-ruins-sweden-small.webp"
         },
         {
           "path": "_m/tpc/va/ds/te/na/vadstena/omberg-vaettern.jpg",
@@ -749,7 +758,9 @@
           "accessedAt": "2026-02-22T14:38:37.772Z",
           "categories": [
             "Omberg"
-          ]
+          ],
+          "mediumPath": "_m/tpc/va/ds/te/na/vadstena/omberg-vaettern-medium.webp",
+          "smallPath": "_m/tpc/va/ds/te/na/vadstena/omberg-vaettern-small.webp"
         },
         {
           "path": "_m/tpc/va/ds/te/na/vadstena/taakern-mod-nordvest-537.jpg",
@@ -765,7 +776,9 @@
           "sourceType": "poi",
           "sourceArticleId": "vadstena",
           "sourceGeohash4": "tpc/va/ds/te/na",
-          "accessedAt": "2026-02-22T14:38:37.772Z"
+          "accessedAt": "2026-02-22T14:38:37.772Z",
+          "mediumPath": "_m/tpc/va/ds/te/na/vadstena/taakern-mod-nordvest-537-medium.webp",
+          "smallPath": "_m/tpc/va/ds/te/na/vadstena/taakern-mod-nordvest-537-small.webp"
         },
         {
           "path": "_m/tpc/os/te/rg/ot/ostergotland/stora-torget-linkoping-juli-20.jpg",
@@ -793,7 +806,8 @@
             "Summer 2005 in Östergötland County",
             "Summer in Linköping",
             "Ullrich & Hallquisth"
-          ]
+          ],
+          "smallPath": "_m/tpc/os/te/rg/ot/ostergotland/stora-torget-linkoping-juli-20-small.webp"
         },
         {
           "path": "_m/tpc/os/te/rg/ot/ostergotland/bergslagstorget-finspang-juli-.jpg",
@@ -816,7 +830,8 @@
             "Finspång",
             "Media missing infobox template",
             "Urban squares in Sweden"
-          ]
+          ],
+          "smallPath": "_m/tpc/os/te/rg/ot/ostergotland/bergslagstorget-finspang-juli--small.webp"
         },
         {
           "path": "_m/tpc/os/te/rg/ot/ostergotland/kungsvagen-i-centrum-av-mjolby.jpg",
@@ -841,7 +856,9 @@
             "Mjölby",
             "Self-published work",
             "Taken with 8MP-9U4"
-          ]
+          ],
+          "mediumPath": "_m/tpc/os/te/rg/ot/ostergotland/kungsvagen-i-centrum-av-mjolby-medium.webp",
+          "smallPath": "_m/tpc/os/te/rg/ot/ostergotland/kungsvagen-i-centrum-av-mjolby-small.webp"
         },
         {
           "path": "_m/tpc/os/te/rg/ot/ostergotland/norrkopings-radhus-2008-05-10-.jpg",
@@ -869,7 +886,9 @@
             "Spring 2008 in Sweden",
             "Spring in Norrköping",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/tpc/os/te/rg/ot/ostergotland/norrkopings-radhus-2008-05-10--medium.webp",
+          "smallPath": "_m/tpc/os/te/rg/ot/ostergotland/norrkopings-radhus-2008-05-10--small.webp"
         },
         {
           "path": "_m/tpc/os/te/rg/ot/ostergotland/soderkopings-radhus.jpg",
@@ -897,7 +916,9 @@
             "Söderköpings rådhus",
             "Söderköpingsån",
             "Taken with Nikon D300s"
-          ]
+          ],
+          "mediumPath": "_m/tpc/os/te/rg/ot/ostergotland/soderkopings-radhus-medium.webp",
+          "smallPath": "_m/tpc/os/te/rg/ot/ostergotland/soderkopings-radhus-small.webp"
         },
         {
           "path": "_m/tpc/os/te/rg/ot/ostergotland/motala-sweden-001.jpg",
@@ -921,7 +942,9 @@
             "GFDL",
             "License migration redundant",
             "Motala"
-          ]
+          ],
+          "mediumPath": "_m/tpc/os/te/rg/ot/ostergotland/motala-sweden-001-medium.webp",
+          "smallPath": "_m/tpc/os/te/rg/ot/ostergotland/motala-sweden-001-small.webp"
         },
         {
           "path": "_m/tpc/os/te/rg/ot/ostergotland/vadstena-vid-vattern.jpg",
@@ -937,7 +960,9 @@
           "sourceType": "poi",
           "sourceArticleId": "ostergotland",
           "sourceGeohash4": "tpc/os/te/rg/ot",
-          "accessedAt": "2026-02-22T14:38:37.772Z"
+          "accessedAt": "2026-02-22T14:38:37.772Z",
+          "mediumPath": "_m/tpc/os/te/rg/ot/ostergotland/vadstena-vid-vattern-medium.webp",
+          "smallPath": "_m/tpc/os/te/rg/ot/ostergotland/vadstena-vid-vattern-small.webp"
         },
         {
           "path": "_m/tpc/os/te/rg/ot/ostergotland/jonkoping-holavedsleden-lub-20.jpg",
@@ -953,7 +978,9 @@
           "sourceType": "poi",
           "sourceArticleId": "ostergotland",
           "sourceGeohash4": "tpc/os/te/rg/ot",
-          "accessedAt": "2026-02-22T14:38:37.772Z"
+          "accessedAt": "2026-02-22T14:38:37.772Z",
+          "mediumPath": "_m/tpc/os/te/rg/ot/ostergotland/jonkoping-holavedsleden-lub-20-medium.webp",
+          "smallPath": "_m/tpc/os/te/rg/ot/ostergotland/jonkoping-holavedsleden-lub-20-small.webp"
         }
       ],
       "combinedNarration": "_m/u/6/6/s/vadstena-abbey-wp/u66s-vadstena-abbey-combined.mp3",

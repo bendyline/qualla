@@ -3,26 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/w/8/r/isthmus-of-corinth-wp/hero.jpg",
-        "filename": "Kanal-Korinth-2011.jpg",
-        "caption": "Corinth Canal - Aerial photography",
-        "alt": "Corinth Canal - Aerial photography",
-        "width": 2048,
-        "height": 1536,
+        "path": "_m/s/w/8/r/isthmus-of-corinth-wp/view-of-the-saronic-gulf-and-t.jpg",
+        "filename": "View of the Saronic Gulf and the Canal of Corinth from the Acrocorinth on January 10, 2020.jpg",
+        "caption": "View of the fortifications of the Castle of the Acrocorinth. In the distance, the Saronic Gulf. To the left of the Saronic Gulf is visible the Canal of Corinth.",
+        "alt": "View of the fortifications of the Castle of the Acrocorinth. In the distance, the Saronic Gulf. To the left of the Saronic Gulf is visible the Canal of Corinth.",
+        "width": 6000,
+        "height": 4000,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Philos2000",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanal-Korinth-2011.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "George E. Koronaios",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_the_Saronic_Gulf_and_the_Canal_of_Corinth_from_the_Acrocorinth_on_January_10,_2020.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "isthmus-of-corinth-wp",
         "sourceGeohash4": "sw8r",
-        "categories": [
-          "Aerial photographs of the Corinth Canal",
-          "CC-BY-SA-3.0",
-          "Files with coordinates missing SDC location of creation",
-          "Isthmus of Corinth",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/s/w/8/r/isthmus-of-corinth-wp/view-of-the-saronic-gulf-and-t-medium.webp",
+        "smallPath": "_m/s/w/8/r/isthmus-of-corinth-wp/view-of-the-saronic-gulf-and-t-small.webp"
       },
       "images": [
         {
@@ -120,7 +115,7 @@
           "smallPath": "_m/s/w/8/r/isthmus-of-corinth-wp/submerge-bridge-corint-small.webp"
         },
         {
-          "path": "_m/s/w/8/r/isthmus-of-corinth-wp/korinthos-khiliomodhio.jpg",
+          "path": "_m/s/w/8/r/diolkos-wp/korinthos-khiliomodhio.jpg",
           "filename": "Istmo de Corinto ESC large ISS011 ISS011-E-13188.JPG",
           "caption": "KORINTHOS, KHILIOMODHION\nCamera\nCamera Tilt: 24\nCamera Focal Length: 400mm\nCamera: E4: Kodak DCS760C Electronic Still Camera\nFilm: 3060E : 3060 x 2036 pixel CCD, RGBG array. \n\nNadir\nDate: 20050917 (YYYYMMDD)GMT Time: 111637 (HHMMSS)\nNadir Point Latitude: 39.3, Longitude: 22.9 (Negative numbers indicate south for latitude and west for longitude)\nNadir to Photo Center Direction: South\nSun Azimuth: 202 (Clockwise angle in degrees from north to the sun measured at the nadir point)\nSpacecraft Altitude: 186 nautical miles (344 km)\nSun Elevation Angle: 51 (Angle in degrees between the horizon and the sun, measured at the nadir point)\n\nOrbit Number: 3020",
           "alt": "KORINTHOS, KHILIOMODHION\nCamera\nCamera Tilt: 24\nCamera Focal Length: 400mm\nCamera: E4: Kodak DCS760C Electronic Still Camera\nFilm: 3060E : 3060 x 2036 pixel CCD, RGBG array. \n\nNadir\nDate: 20050917 (YYYYMMDD)GMT Time: 111637 (HHMMSS)\nNadir Point Latitude: 39.3, Longitude: 22.9 (Negative numbers indicate south for latitude and west for longitude)\nNadir to Photo Center Direction: South\nSun Azimuth: 202 (Clockwise angle in degrees from north to the sun measured at the nadir point)\nSpacecraft Altitude: 186 nautical miles (344 km)\nSun Elevation Angle: 51 (Angle in degrees between the horizon and the sun, measured at the nadir point)\n\nOrbit Number: 3020",
@@ -140,7 +135,9 @@
             "Photos taken with Kodak DCS 760",
             "Satellite pictures of Corinth",
             "Satellite pictures of Loutraki-Perachora-Agioi Theodoroi"
-          ]
+          ],
+          "mediumPath": "_m/s/w/8/r/diolkos-wp/korinthos-khiliomodhio-medium.webp",
+          "smallPath": "_m/s/w/8/r/diolkos-wp/korinthos-khiliomodhio-small.webp"
         },
         {
           "path": "_m/s/w/8/r/isthmus-of-corinth-wp/view-of-the-saronic-gulf-and-t.jpg",
@@ -229,7 +226,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon Coolpix 995"
-          ]
+          ],
+          "mediumPath": "_m/s/w/8/r/ancient-corinth-wp/castle-acrocorinth-medium.webp",
+          "smallPath": "_m/s/w/8/r/ancient-corinth-wp/castle-acrocorinth-small.webp"
         },
         {
           "path": "_m/s/w/8/r/ancient-corinth-wp/ancient-corinth-roman.jpg",
@@ -252,7 +251,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Nikon Coolpix 995"
-          ]
+          ],
+          "mediumPath": "_m/s/w/8/r/ancient-corinth-wp/ancient-corinth-roman-medium.webp",
+          "smallPath": "_m/s/w/8/r/ancient-corinth-wp/ancient-corinth-roman-small.webp"
         },
         {
           "path": "_m/s/w/8/r/corinth-wp/submersible.gif",
@@ -273,7 +274,8 @@
             "Animated GIF files",
             "CC-BY-SA-2.5",
             "Poseidonia Bridge"
-          ]
+          ],
+          "smallPath": "_m/s/w/8/r/corinth-wp/submersible-small.gif"
         },
         {
           "path": "_m/s/w/8/r/corinth-wp/mosaique-de-dionysos.jpg",
@@ -321,7 +323,8 @@
             "Valued images missing SDC source of file",
             "Valued images promoted 2015-01",
             "Valued images sorted by promotion date"
-          ]
+          ],
+          "smallPath": "_m/s/w/8/r/corinth-wp/mosaique-de-dionysos-small.webp"
         },
         {
           "path": "_m/s/w/8/r/corinth-wp/fountain-of-glauke-02.jpg",
@@ -336,7 +339,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fountain_of_Glauke_02.jpg",
           "sourceType": "poi",
           "sourceArticleId": "corinth-wp",
-          "sourceGeohash4": "sw8r"
+          "sourceGeohash4": "sw8r",
+          "mediumPath": "_m/s/w/8/r/corinth-wp/fountain-of-glauke-02-medium.webp",
+          "smallPath": "_m/s/w/8/r/corinth-wp/fountain-of-glauke-02-small.webp"
         },
         {
           "path": "_m/s/w/8/r/ancient-corinth-wp/greece-ancient-corinth.jpg",
@@ -351,7 +356,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korinth_BW_2017-10-10_10-55-28.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ancient-corinth-wp",
-          "sourceGeohash4": "sw8r"
+          "sourceGeohash4": "sw8r",
+          "mediumPath": "_m/s/w/8/r/ancient-corinth-wp/greece-ancient-corinth-medium.webp",
+          "smallPath": "_m/s/w/8/r/ancient-corinth-wp/greece-ancient-corinth-small.webp"
         },
         {
           "path": "_m/s/w/8/r/corinth-wp/korinth-bw-2017-10-10-11-13-45.jpg",
@@ -366,7 +373,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korinth_BW_2017-10-10_11-13-45.jpg",
           "sourceType": "poi",
           "sourceArticleId": "corinth-wp",
-          "sourceGeohash4": "sw8r"
+          "sourceGeohash4": "sw8r",
+          "mediumPath": "_m/s/w/8/r/corinth-wp/korinth-bw-2017-10-10-11-13-45-medium.webp",
+          "smallPath": "_m/s/w/8/r/corinth-wp/korinth-bw-2017-10-10-11-13-45-small.webp"
         }
       ],
       "narration": [

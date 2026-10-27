@@ -3,35 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/k/r/4/y/zaire-wp/hero.jpg",
-        "filename": "Mobutu.jpg",
-        "caption": "U.S. Secretary of Defense Caspar W. Weinberger meets with President Mobutu of Zaire in his Pentagon office, Room 3E880.",
-        "alt": "U.S. Secretary of Defense Caspar W. Weinberger meets with President Mobutu of Zaire in his Pentagon office, Room 3E880.",
-        "width": 1130,
-        "height": 1695,
+        "path": "_m/k/r/4/y/zaire-wp/the-encyclopedia-africana.jpg",
+        "filename": "The Encyclopedia Africana.jpg",
+        "caption": "First three volumes of the African diaspora encyclopedia by W. E. B. Du Bois while he was in Ghana",
+        "alt": "First three volumes of the African diaspora encyclopedia by W. E. B. Du Bois while he was in Ghana",
+        "width": 4032,
+        "height": 3024,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Frank Hall",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mobutu.jpg",
-        "sourceType": "core",
+        "license": "CC BY 4.0",
+        "artist": "Bambiwa",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Encyclopedia_Africana.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "zaire-wp",
         "sourceGeohash4": "kr4y",
-        "categories": [
-          "Extracted images",
-          "Fur fashion in 1983",
-          "Images with extracted images",
-          "Leopard clothing, male",
-          "Male fur headgear",
-          "Men facing right and looking right",
-          "Mobutu Sese Seko in 1983",
-          "PD-user",
-          "PD US Military",
-          "Side caps"
-        ]
+        "mediumPath": "_m/k/r/4/y/zaire-wp/the-encyclopedia-africana-medium.webp",
+        "smallPath": "_m/k/r/4/y/zaire-wp/the-encyclopedia-africana-small.webp"
       },
       "images": [
         {
-          "path": "_m/k/r/4/y/zaire-wp/idi-amin-and-mobutu.jpg",
+          "path": "_m/tpc/_ho/co/ng/o-/history-of-congo-free-state/idi-amin-and-mobutu.jpg",
           "filename": "Idi Amin and Mobutu.jpeg",
           "caption": "Idi Amin visits Mobutu during the Shaba I conflict.",
           "alt": "Idi Amin visits Mobutu during the Shaba I conflict.",
@@ -54,7 +44,7 @@
             "PD US Army",
             "Shaba I"
           ],
-          "smallPath": "_m/k/r/4/y/zaire-wp/idi-amin-and-mobutu-small.webp"
+          "smallPath": "_m/tpc/_ho/co/ng/o-/history-of-congo-free-state/idi-amin-and-mobutu-small.webp"
         },
         {
           "path": "_m/k/r/4/y/zaire-wp/exposicio-doctor-carsi-supose-.jpg",
@@ -159,7 +149,8 @@
             "Matadi",
             "Media missing infobox template",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/k/q/c/w/kongo-central-wp/matadi3-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/kinshasa-matadi.jpg",
@@ -182,7 +173,8 @@
             "Rail transport in the Democratic Republic of the Congo",
             "Self-published work",
             "Taken with 1.3M Digital CAM"
-          ]
+          ],
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/kinshasa-matadi-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/downtown-lubumbashi-democratic.jpg",
@@ -207,7 +199,9 @@
             "Self-published work",
             "Taken with Pentax Optio 50L",
             "Transport in Lubumbashi"
-          ]
+          ],
+          "mediumPath": "_m/tpc/za/ir/e_/__/zaire/downtown-lubumbashi-democratic-medium.webp",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/downtown-lubumbashi-democratic-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/congo-transport-map.png",
@@ -235,7 +229,8 @@
             "Transport map images that should use vector graphics",
             "Transport maps of the Democratic Republic of the Congo",
             "Water transport maps"
-          ]
+          ],
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/congo-transport-map-small.webp"
         },
         {
           "path": "_m/tpc/re/pu/bl/ic/republic-of-the-congo/epulu-okapi-reserve.jpg",
@@ -250,7 +245,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Epulu_Okapi_Reserve.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "republic-of-the-congo",
-          "sourceGeohash4": "kr4y"
+          "sourceGeohash4": "kr4y",
+          "smallPath": "_m/tpc/re/pu/bl/ic/republic-of-the-congo/epulu-okapi-reserve-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/virunga-01.jpg",
@@ -265,7 +261,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Virunga_01.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "zaire",
-          "sourceGeohash4": "tpc/za/ir/e_/__"
+          "sourceGeohash4": "tpc/za/ir/e_/__",
+          "mediumPath": "_m/tpc/za/ir/e_/__/zaire/virunga-01-medium.webp",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/virunga-01-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/mbandaka-koloniale-architectuu.jpg",
@@ -280,7 +278,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mbandaka_koloniale_architectuur_Banque_du_Congo_belge.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "zaire",
-          "sourceGeohash4": "tpc/za/ir/e_/__"
+          "sourceGeohash4": "tpc/za/ir/e_/__",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/mbandaka-koloniale-architectuu-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/sunrise-near-mossaka-congo.jpg",
@@ -295,7 +294,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunrise_near_Mossaka_(Congo).JPG",
           "sourceType": "sibling",
           "sourceArticleId": "zaire",
-          "sourceGeohash4": "tpc/za/ir/e_/__"
+          "sourceGeohash4": "tpc/za/ir/e_/__",
+          "mediumPath": "_m/tpc/za/ir/e_/__/zaire/sunrise-near-mossaka-congo-medium.webp",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/sunrise-near-mossaka-congo-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/kinshasa-tour-de-l-echangeur-d.jpg",
@@ -310,7 +311,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kinshasa,_tour_de_l%27%C3%A9changeur_de_Limete_-_20090705.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "zaire",
-          "sourceGeohash4": "tpc/za/ir/e_/__"
+          "sourceGeohash4": "tpc/za/ir/e_/__",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/kinshasa-tour-de-l-echangeur-d-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/kisangani-rond-point-cathedral.jpg",
@@ -325,7 +327,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kisangani_rond-point_Cath%C3%A9drale_et_Congo_Palace.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "zaire",
-          "sourceGeohash4": "tpc/za/ir/e_/__"
+          "sourceGeohash4": "tpc/za/ir/e_/__",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/kisangani-rond-point-cathedral-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/congo-dem-rep-regions-map.png",
@@ -340,7 +343,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Congo_Dem_Rep_Regions_Map.png",
           "sourceType": "sibling",
           "sourceArticleId": "zaire",
-          "sourceGeohash4": "tpc/za/ir/e_/__"
+          "sourceGeohash4": "tpc/za/ir/e_/__",
+          "mediumPath": "_m/tpc/za/ir/e_/__/zaire/congo-dem-rep-regions-map-medium.webp",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/congo-dem-rep-regions-map-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/breadbike.jpg",
@@ -355,7 +360,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Breadbike.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "zaire",
-          "sourceGeohash4": "tpc/za/ir/e_/__"
+          "sourceGeohash4": "tpc/za/ir/e_/__",
+          "mediumPath": "_m/tpc/za/ir/e_/__/zaire/breadbike-medium.webp",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/breadbike-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/visa-policy-of-the-democratic-.png",
@@ -370,7 +377,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Visa_policy_of_the_Democratic_Republic_of_the_Congo.png",
           "sourceType": "sibling",
           "sourceArticleId": "zaire",
-          "sourceGeohash4": "tpc/za/ir/e_/__"
+          "sourceGeohash4": "tpc/za/ir/e_/__",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/visa-policy-of-the-democratic--small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/south-maiko-panorama.jpg",
@@ -385,7 +393,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:South_maiko_panorama.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "zaire",
-          "sourceGeohash4": "tpc/za/ir/e_/__"
+          "sourceGeohash4": "tpc/za/ir/e_/__",
+          "mediumPath": "_m/tpc/za/ir/e_/__/zaire/south-maiko-panorama-medium.webp",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/south-maiko-panorama-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/monusco-peacekeepers-last-line.jpg",
@@ -400,7 +410,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:MONUSCO_peacekeepers_-_Last_line_of_defense_near_Goma._Photo_MONUSCO_(8229506972).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "zaire",
-          "sourceGeohash4": "tpc/za/ir/e_/__"
+          "sourceGeohash4": "tpc/za/ir/e_/__",
+          "mediumPath": "_m/tpc/za/ir/e_/__/zaire/monusco-peacekeepers-last-line-medium.webp",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/monusco-peacekeepers-last-line-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/aerial-photograph-of-kananga.jpg",
@@ -415,7 +427,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Kananga.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "zaire",
-          "sourceGeohash4": "tpc/za/ir/e_/__"
+          "sourceGeohash4": "tpc/za/ir/e_/__",
+          "mediumPath": "_m/tpc/za/ir/e_/__/zaire/aerial-photograph-of-kananga-medium.webp",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/aerial-photograph-of-kananga-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/aeroport-de-mbuji-mayi.jpg",
@@ -430,7 +444,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A%C3%A9roport_de_Mbuji-Mayi.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "zaire",
-          "sourceGeohash4": "tpc/za/ir/e_/__"
+          "sourceGeohash4": "tpc/za/ir/e_/__",
+          "mediumPath": "_m/tpc/za/ir/e_/__/zaire/aeroport-de-mbuji-mayi-medium.webp",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/aeroport-de-mbuji-mayi-small.webp"
         },
         {
           "path": "_m/k/q/c/w/matadi-kinshasa-railway-wp/hero.jpg",
@@ -445,7 +461,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matadi_train_station_(21236934082).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "matadi-kinshasa-railway-wp",
-          "sourceGeohash4": "kr4y"
+          "sourceGeohash4": "kr4y",
+          "mediumPath": "_m/k/q/c/w/matadi-kinshasa-railway-wp/hero-medium.webp",
+          "smallPath": "_m/k/q/c/w/matadi-kinshasa-railway-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/bukavu-centre-ville.png",
@@ -460,7 +478,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukavu_centre_ville.png",
           "sourceType": "sibling",
           "sourceArticleId": "zaire",
-          "sourceGeohash4": "tpc/za/ir/e_/__"
+          "sourceGeohash4": "tpc/za/ir/e_/__",
+          "mediumPath": "_m/tpc/za/ir/e_/__/zaire/bukavu-centre-ville-medium.webp",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/bukavu-centre-ville-small.webp"
         },
         {
           "path": "_m/tpc/za/ir/e_/__/zaire/kahuzi-biega-national-park-394.jpg",
@@ -475,7 +495,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kahuzi-Biega_National_Park_(39423247252).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "zaire",
-          "sourceGeohash4": "tpc/za/ir/e_/__"
+          "sourceGeohash4": "tpc/za/ir/e_/__",
+          "mediumPath": "_m/tpc/za/ir/e_/__/zaire/kahuzi-biega-national-park-394-medium.webp",
+          "smallPath": "_m/tpc/za/ir/e_/__/zaire/kahuzi-biega-national-park-394-small.webp"
         },
         {
           "path": "_m/k/q/c/q/congo-free-state-wp/mutilated-congolese-ch.jpg",
@@ -504,7 +526,8 @@
             "People of Congo Free State in the 1900s",
             "Violence against children",
             "Wounded children"
-          ]
+          ],
+          "smallPath": "_m/k/q/c/q/congo-free-state-wp/mutilated-congolese-ch-small.webp"
         },
         {
           "path": "_m/tpc/_ho/co/ng/o-/history-of-congo-free-state/nyangwe.jpg",
@@ -527,7 +550,9 @@
             "Nyangwe",
             "PD-old missing SDC copyright status",
             "PD Old"
-          ]
+          ],
+          "mediumPath": "_m/tpc/_ho/co/ng/o-/history-of-congo-free-state/nyangwe-medium.webp",
+          "smallPath": "_m/tpc/_ho/co/ng/o-/history-of-congo-free-state/nyangwe-small.webp"
         },
         {
           "path": "_m/tpc/_ho/co/ng/o-/history-of-congo-free-state/stanley-founding-of-congo-free.jpg",
@@ -554,7 +579,8 @@
             "PD Old",
             "Ports and harbours in Kinshasa",
             "The Congo and the founding of its free state"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/co/ng/o-/history-of-congo-free-state/stanley-founding-of-congo-free-small.webp"
         },
         {
           "path": "_m/k/q/b/v/soyo-wp/map-west-central-afric.png",
@@ -569,7 +595,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:West_Central_Africa_1350CE.png",
           "sourceType": "history",
           "sourceArticleId": "soyo-wp",
-          "sourceGeohash4": "kr4y"
+          "sourceGeohash4": "kr4y",
+          "mediumPath": "_m/k/q/b/v/soyo-wp/map-west-central-afric-medium.webp",
+          "smallPath": "_m/k/q/b/v/soyo-wp/map-west-central-afric-small.webp"
         },
         {
           "path": "_m/tpc/_ho/co/ng/o-/history-of-congo-free-state/west-central-africa-1550ce.png",
@@ -584,7 +612,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:West_Central_Africa_1550CE.png",
           "sourceType": "history",
           "sourceArticleId": "history-of-congo-free-state",
-          "sourceGeohash4": "kr4y"
+          "sourceGeohash4": "kr4y",
+          "mediumPath": "_m/tpc/_ho/co/ng/o-/history-of-congo-free-state/west-central-africa-1550ce-medium.webp",
+          "smallPath": "_m/tpc/_ho/co/ng/o-/history-of-congo-free-state/west-central-africa-1550ce-small.webp"
         }
       ],
       "narration": [

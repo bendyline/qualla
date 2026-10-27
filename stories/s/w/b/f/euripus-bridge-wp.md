@@ -41,7 +41,7 @@ The Euripus Bridge crosses the strait just south of central Chalcis at 38.445°N
   - Carriageway 13.5 meters wide
   - Cable spacing approximately every 5 meters with minimum inclination of 23 degrees
   - Channel width at new bridge location approximately 160 meters
-- [Euripus Bridge - Euripus Strait history](https://en.wikipedia.org/wiki/Euripus_Bridge)
+- [Euripus Bridge - Euripus Strait history](https://en.wikipedia.org/?curid=16499853)
   - Old sliding bridge at narrowest point (38 m wide channel)
   - Rebuilt as retractable span in 1858
   - Replaced by rotating iron swing bridge in 1896

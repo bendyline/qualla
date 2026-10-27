@@ -33,7 +33,7 @@ The Crepori National Forest is centered at approximately 6.50S, 57.00W in the mu
 ## Sources
 
 - [Crepori National Forest - Wikipedia](https://en.wikipedia.org/?curid=53187345)
-- [Crepori National Forest - Wikipedia (fact check)](https://en.wikipedia.org/wiki/Crepori_National_Forest)
+- [Crepori National Forest - Wikipedia (fact check)](https://en.wikipedia.org/?curid=53187345)
   - Municipality of Jacareacanga, Para confirmed
   - Created by federal decree 13 February 2006 confirmed
   - IUCN Category VI (sustainable use) classification confirmed

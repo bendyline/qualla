@@ -35,7 +35,7 @@ Located at 30.46°N, 84.31°W in central Tallahassee at 1401 High Road, Leon Cou
 - [Lichgate on High Road - Wikipedia](https://en.wikipedia.org/?curid=8912190)
 - [Lichgate on High Road - Atlas Obscura](https://www.atlasobscura.com/places/lichgate-on-high-road)
 - [The Story of Lichgate, Laura Jepsen and the Struggle to Continue Her Legacy](https://www.tallahasseemagazine.com/the-story-of-lichgate-laura-jepsen-and-the-struggle-to-continue-her-legacy/)
-- [Lichgate on High Road - Wikipedia](https://en.wikipedia.org/wiki/Lichgate_on_High_Road)
+- [Lichgate on High Road - Wikipedia](https://en.wikipedia.org/?curid=8912190)
   - property purchased 1955 from Capital City Free Will Baptist Church representatives
   - National Register of Historic Places March 31 2006
   - Laura Jepsen FSU professor 1946-1978

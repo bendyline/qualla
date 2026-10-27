@@ -32,7 +32,7 @@ The Mob Museum occupies the former Las Vegas Post Office and Courthouse, a neocl
 
 ## Flight Context
 
-The Mob Museum is located at 36.173N, 115.141W in downtown Las Vegas, two blocks north of the Fremont Street Experience. From the air, downtown Las Vegas is easily distinguished from the Strip by the covered pedestrian mall and the cluster of older, lower-rise casino buildings. The museum occupies a three-story neoclassical building that served as the federal courthouse and post office from 1933 until its closure. McCarran International Airport (KLAS) lies approximately 4 nautical miles to the south. Downtown's position at the northern end of Las Vegas Boulevard provides clear visual reference for orientation.
+The Mob Museum is located at 36.173N, 115.141W in downtown Las Vegas, two blocks north of the Fremont Street Experience. From the air, downtown Las Vegas is easily distinguished from the Strip by the covered pedestrian mall and the cluster of older, lower-rise casino buildings. The museum occupies a three-story neoclassical building that served as the federal courthouse and post office from 1933 until its closure. Harry Reid International Airport (KLAS, formerly McCarran International) lies approximately 4 nautical miles to the south. Downtown's position at the northern end of Las Vegas Boulevard provides clear visual reference for orientation.
 
 ## Sources
 

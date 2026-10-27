@@ -36,7 +36,7 @@ Documenta is centred on the Fridericianum at 51.314N, 9.497E, on Friedrichsplatz
 
 ## Sources
 
-- [Documenta - Wikipedia](https://en.wikipedia.org/wiki/Documenta)
+- [Documenta - Wikipedia](https://en.wikipedia.org/?curid=243987)
 - [Geschichte der documenta - Stadt Kassel](https://www.kassel.de/buerger/kunst_und_kultur/documenta-geschichte.php)
   - first documenta opened in Kassel in July 1955 alongside the Bundesgartenschau
   - the Fridericianum had burnt out in 1943/44 and was only provisionally restored
@@ -47,7 +47,7 @@ Documenta is centred on the Fridericianum at 51.314N, 9.497E, on Friedrichsplatz
   - the banner was first covered and then dismantled on 21 June 2022
 - [Documenta director resigns amid antisemitism controversy - CNN](https://www.cnn.com/style/article/documenta-director-resigns-antisemitism-controversy/index.html)
   - director general Sabine Schormann resigned in July 2022
-- [Documenta - Wikipedia (re-verification of visitor figures and finances)](https://en.wikipedia.org/wiki/Documenta)
+- [Documenta - Wikipedia (re-verification of visitor figures and finances)](https://en.wikipedia.org/?curid=243987)
   - 1992 (documenta IX) first edition to draw over half a million visitors
   - 2002 edition drew 650,000 visitors, more than triple Kassel's population
   - 2007 (documenta 12) drew 754,000 paying visitors, over a third from abroad

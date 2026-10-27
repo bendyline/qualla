@@ -3,25 +3,26 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/w/b/4/ex-voto-of-daochos-wp/hero.jpg",
-        "filename": "Exvoto-Daoco.jpg",
-        "caption": "Exvoto de Daoco. Museo arqueológico de Delfos.",
-        "alt": "Exvoto de Daoco. Museo arqueológico de Delfos.",
-        "width": 1400,
-        "height": 788,
+        "path": "_m/s/w/b/4/ex-voto-of-daochos-wp/dedication-of-daochos-delphi-m.jpg",
+        "filename": "Dedication of Daochos - Delphi Museum.jpg",
+        "caption": "Dedication of Daochos at the Archaeological Museum of Delphi, Room 11.",
+        "alt": "Dedication of Daochos at the Archaeological Museum of Delphi, Room 11.",
+        "width": 4608,
+        "height": 3456,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Nanosanchez",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exvoto-Daoco.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Odysses",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dedication_of_Daochos_-_Delphi_Museum.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "ex-voto-of-daochos-wp",
         "sourceGeohash4": "swb4",
         "categories": [
+          "CC-BY-SA-4.0",
           "Daochos Votive",
-          "PD-self",
-          "Self-published work",
-          "Taken with Panasonic Lumix DMC-LX1"
-        ]
+          "Self-published work"
+        ],
+        "mediumPath": "_m/s/w/b/4/ex-voto-of-daochos-wp/dedication-of-daochos-delphi-m-medium.webp",
+        "smallPath": "_m/s/w/b/4/ex-voto-of-daochos-wp/dedication-of-daochos-delphi-m-small.webp"
       },
       "images": [
         {
@@ -438,7 +439,8 @@
             "Building of the Archaeological Museum of Delphi",
             "CC-BY-SA-2.5",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/w/b/4/delphi-wp/archaeological-museum-small.webp"
         },
         {
           "path": "_m/s/w/b/4/delphi-wk/07delphi-theater03.jpg",
@@ -462,7 +464,9 @@
             "Fingalo 2007g",
             "June 2007 Greece photographs",
             "Taken with Panasonic Lumix DMC-FZ30"
-          ]
+          ],
+          "mediumPath": "_m/s/w/b/4/delphi-wk/07delphi-theater03-medium.webp",
+          "smallPath": "_m/s/w/b/4/delphi-wk/07delphi-theater03-small.webp"
         },
         {
           "path": "_m/s/w/b/4/delphi-wp/tholos-temple-delphi-g.jpg",
@@ -488,7 +492,8 @@
             "Self-published work",
             "Taken with Fujifilm FinePix S5000",
             "Tholos in Delphi (North-West view)"
-          ]
+          ],
+          "smallPath": "_m/s/w/b/4/delphi-wp/tholos-temple-delphi-g-small.webp"
         },
         {
           "path": "_m/s/w/b/4/delphi-wk/delfi-apollons-tempel.jpg",
@@ -510,7 +515,9 @@
             "Self-published work",
             "Taken with Nikon D5000",
             "Temple of Apollo in Delphi, view from up-slope"
-          ]
+          ],
+          "mediumPath": "_m/s/w/b/4/delphi-wk/delfi-apollons-tempel-medium.webp",
+          "smallPath": "_m/s/w/b/4/delphi-wk/delfi-apollons-tempel-small.webp"
         },
         {
           "path": "_m/s/w/b/4/delphi-wk/delphi-countryside.jpg",
@@ -535,7 +542,8 @@
             "Pleistos",
             "Taken with Kodak EasyShare DX7590",
             "Views of Delphi"
-          ]
+          ],
+          "smallPath": "_m/s/w/b/4/delphi-wk/delphi-countryside-small.webp"
         },
         {
           "path": "_m/s/w/b/4/delphi-wk/temple-of-apollo.jpg",
@@ -559,7 +567,8 @@
             "PD-author",
             "Taken with Kodak EasyShare DX7590",
             "Temple of Apollo in Delphi, adyton"
-          ]
+          ],
+          "smallPath": "_m/s/w/b/4/delphi-wk/temple-of-apollo-small.webp"
         },
         {
           "path": "_m/s/w/b/4/delphi-wk/templeatdelphi2015.jpg",
@@ -574,7 +583,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:TempleAtDelphi2015.JPG",
           "sourceType": "poi",
           "sourceArticleId": "delphi-wk",
-          "sourceGeohash4": "swb4"
+          "sourceGeohash4": "swb4",
+          "mediumPath": "_m/s/w/b/4/delphi-wk/templeatdelphi2015-medium.webp",
+          "smallPath": "_m/s/w/b/4/delphi-wk/templeatdelphi2015-small.webp"
         },
         {
           "path": "_m/s/w/b/4/delphi-wk/stadium-of-the-pythian-games-a.jpg",
@@ -589,7 +600,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stadium_of_the_Pythian_games_at_Delphi,_060172.jpg",
           "sourceType": "poi",
           "sourceArticleId": "delphi-wk",
-          "sourceGeohash4": "swb4"
+          "sourceGeohash4": "swb4",
+          "mediumPath": "_m/s/w/b/4/delphi-wk/stadium-of-the-pythian-games-a-medium.webp",
+          "smallPath": "_m/s/w/b/4/delphi-wk/stadium-of-the-pythian-games-a-small.webp"
         }
       ],
       "narration": [

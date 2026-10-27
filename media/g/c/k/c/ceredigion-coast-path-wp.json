@@ -3,27 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/k/c/ceredigion-coast-path-wp/hero.jpg",
-        "filename": "LDTraethMwnt.jpg",
-        "caption": "Mwnt beach on a summer day.",
-        "alt": "Mwnt beach on a summer day.",
-        "width": 2533,
-        "height": 1870,
+        "path": "_m/g/c/k/c/ceredigion-coast-path-wp/cors-fochno-aberleri-nature-re.jpg",
+        "filename": "Cors Fochno Aberleri Nature Reserve.jpg",
+        "caption": "Cors Fochno, Aberleri Nature Reserve.",
+        "alt": "Cors Fochno, Aberleri Nature Reserve.",
+        "width": 640,
+        "height": 480,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "LinguisticDemographer at English Wikipedia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:LDTraethMwnt.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Nigel Callaghan",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cors_Fochno_Aberleri_Nature_Reserve.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "ceredigion-coast-path-wp",
         "sourceGeohash4": "gckc",
         "categories": [
-          "Beaches of Ceredigion",
-          "Files with coordinates missing SDC location of creation (52° N, 5° W)",
-          "Mwnt",
-          "PD-user",
-          "People at the beach in Wales",
-          "Taken with Sony DSC-V1"
-        ]
+          "Afon Leri",
+          "CC-BY-SA-2.0",
+          "Ceredigion Coast Path",
+          "Cors Fochno",
+          "Images by Nigel Callaghan",
+          "Images from Geograph Britain and Ireland",
+          "Information field template with formatting",
+          "Taken with Konica Minolta Dimage Z5",
+          "United Kingdom photographs taken on 2005-06-05"
+        ],
+        "smallPath": "_m/g/c/k/c/ceredigion-coast-path-wp/cors-fochno-aberleri-nature-re-small.webp"
       },
       "images": [
         {
@@ -429,7 +433,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Pentax Optio 555"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/h/gwynedd-wp/bangor-from-bangor-mountain-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/aberarth-and-river-arth.jpg",
@@ -454,7 +459,8 @@
             "Pont Aberarth",
             "Self-published work",
             "Taken with Pentax Optio 555"
-          ]
+          ],
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/aberarth-and-river-arth-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/cardiff-bay.jpg",
@@ -479,7 +485,9 @@
             "Photographs taken on 2005-02-14",
             "Self-published work",
             "Taken with Fujifilm FinePix 40i"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/cardiff-bay-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/cardiff-bay-small.webp"
         },
         {
           "path": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/all-saints-church.jpg",
@@ -503,7 +511,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot S40"
-          ]
+          ],
+          "mediumPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/all-saints-church-medium.webp",
+          "smallPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/all-saints-church-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/borth-2008-03-01.jpg",
@@ -530,7 +540,9 @@
             "Self-published work",
             "Taken with Sony DSC-P12",
             "United Kingdom photographs taken on 2008-03-01"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/borth-2008-03-01-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/borth-2008-03-01-small.webp"
         },
         {
           "path": "_m/tpc/co/ve/nt/ry/coventry/birmingham-airport-england-feb.jpg",
@@ -550,7 +562,9 @@
             "Aerial photographs of airports in the United Kingdom",
             "Birmingham Airport",
             "CC-BY-2.0"
-          ]
+          ],
+          "mediumPath": "_m/tpc/co/ve/nt/ry/coventry/birmingham-airport-england-feb-medium.webp",
+          "smallPath": "_m/tpc/co/ve/nt/ry/coventry/birmingham-airport-england-feb-small.webp"
         },
         {
           "path": "_m/tpc/ab/er/ys/tw/aberystwyth/aberystwyth-cliff-railway-by-a.jpg",
@@ -565,7 +579,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aberystwyth_Cliff_Railway_by_Aberdare_Blog.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "aberystwyth",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/tpc/ab/er/ys/tw/aberystwyth/aberystwyth-cliff-railway-by-a-small.webp"
         },
         {
           "path": "_m/tpc/de/nb/ig/hs/denbighshire/benkid77-church-street-flint-2.jpg",
@@ -580,7 +595,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benkid77_Church_Street,_Flint_290609.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "denbighshire",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/tpc/de/nb/ig/hs/denbighshire/benkid77-church-street-flint-2-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/benkid77-rhos-on-sea-4-220709.jpg",
@@ -595,7 +611,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benkid77_Rhos-on-sea_4_220709.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/benkid77-rhos-on-sea-4-220709-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/benkid77-rhos-on-sea-4-220709-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/beaumaris-castle.jpg",
@@ -610,7 +628,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beaumaris_Castle.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/beaumaris-castle-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/beaumaris-castle-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/abercastle.jpg",
@@ -625,7 +645,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abercastle.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-wk",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/h/w/pembrokeshire-wk/abercastle-medium.webp",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/abercastle-small.webp"
         },
         {
           "path": "_m/g/c/j/y/monmouthshire-wp/caldicot-cross.jpg",
@@ -640,7 +662,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caldicot_Cross.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "monmouthshire-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/j/y/monmouthshire-wp/caldicot-cross-medium.webp",
+          "smallPath": "_m/g/c/j/y/monmouthshire-wp/caldicot-cross-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/amlwch-lighthouse-01.jpg",
@@ -655,7 +679,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amlwch_Lighthouse_01.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/amlwch-lighthouse-01-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/amlwch-lighthouse-01-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/burry-port-lighthouse-carmarth.jpg",
@@ -670,7 +696,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burry_Port_Lighthouse,_Carmarthenshire,_Wales.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/burry-port-lighthouse-carmarth-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/burry-port-lighthouse-carmarth-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/beaumaris-pier-geograph-org-uk.jpg",
@@ -685,7 +713,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beaumaris_Pier_-_geograph.org.uk_-_693339.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/beaumaris-pier-geograph-org-uk-small.webp"
         },
         {
           "path": "_m/tpc/an/gl/es/ey/anglesey/a-good-site-for-a-windmill-geo.jpg",
@@ -700,7 +729,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_good_site_for_a_windmill_(geograph_3482177).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "anglesey",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/an/gl/es/ey/anglesey/a-good-site-for-a-windmill-geo-medium.webp",
+          "smallPath": "_m/tpc/an/gl/es/ey/anglesey/a-good-site-for-a-windmill-geo-small.webp"
         },
         {
           "path": "_m/g/c/m/h/gwynedd-wp/afon-seiont-in-caernarfon-7492.jpg",
@@ -715,7 +746,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Afon_Seiont_in_Caernarfon_(7492).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gwynedd-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/m/h/gwynedd-wp/afon-seiont-in-caernarfon-7492-medium.webp",
+          "smallPath": "_m/g/c/m/h/gwynedd-wp/afon-seiont-in-caernarfon-7492-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/360-view-hide-cors-dyfi-nature.jpg",
@@ -730,7 +763,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:360_view_hide,_Cors_Dyfi_nature_reserve.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/360-view-hide-cors-dyfi-nature-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/360-view-hide-cors-dyfi-nature-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/bracelet-bay-3.jpg",
@@ -745,7 +780,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bracelet_Bay_3.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/bracelet-bay-3-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/bracelet-bay-3-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/bangor-pier-35388296725.jpg",
@@ -760,7 +797,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangor_Pier_(35388296725).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/bangor-pier-35388296725-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/bangor-pier-35388296725-small.webp"
         },
         {
           "path": "_m/g/c/m/m/north-wales-wp/awyrlun-o-gastell-conwy-aerial.jpg",
@@ -775,7 +814,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Awyrlun_o_Gastell_Conwy_-_Aerial_photograph_of_Castell_Conwy,_Conwy_County_Borough,_Cymru_(Wales).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "north-wales-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/m/m/north-wales-wp/awyrlun-o-gastell-conwy-aerial-medium.webp",
+          "smallPath": "_m/g/c/m/m/north-wales-wp/awyrlun-o-gastell-conwy-aerial-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/aerial-image-of-portmeirion-gw.jpg",
@@ -790,7 +831,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Portmeirion,_Gwynedd,_Wales_(Cymru)_-_pentref_Eidalaidd,_Rhagfyr_2022_04.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/aerial-image-of-portmeirion-gw-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/aerial-image-of-portmeirion-gw-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/brittania-bridge-anglesey-cymr.jpg",
@@ -805,7 +848,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brittania_Bridge,_Anglesey,_Cymru_(Wales);_June_2023.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/brittania-bridge-anglesey-cymr-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/brittania-bridge-anglesey-cymr-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/arthog-barmouth-bridge-2007091.jpg",
@@ -820,7 +865,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arthog_-_Barmouth_Bridge_-_20070915150033.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/arthog-barmouth-bridge-2007091-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/arthog-barmouth-bridge-2007091-small.webp"
         },
         {
           "path": "_m/tpc/ca/st/le/__/castle/castell-caernarfon-yn-y-cyfnos.png",
@@ -835,7 +882,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castell_Caernarfon_yn_y_cyfnos_yn_2023_-_Castell_Caernarfon,_Gwynedd,_Wales_at_Dusk_-_2023_10.png",
           "sourceType": "sibling",
           "sourceArticleId": "castle",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/ca/st/le/__/castle/castell-caernarfon-yn-y-cyfnos-medium.webp",
+          "smallPath": "_m/tpc/ca/st/le/__/castle/castell-caernarfon-yn-y-cyfnos-small.webp"
         },
         {
           "path": "_m/g/c/m/k/snowdonia-wp/castell-beaumaris-castle-ynys-.png",
@@ -850,7 +899,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castell_Beaumaris_Castle,_Ynys_Mon_(Anglesey),_Wales_44.png",
           "sourceType": "sibling",
           "sourceArticleId": "snowdonia-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/m/k/snowdonia-wp/castell-beaumaris-castle-ynys--medium.webp",
+          "smallPath": "_m/g/c/m/k/snowdonia-wp/castell-beaumaris-castle-ynys--small.webp"
         },
         {
           "path": "_m/g/c/h/z/carmarthenshire-wp/caerfyrddin-ac-afon-tywi-ardal.jpg",
@@ -865,7 +916,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caerfyrddin_ac_Afon_Tywi_(Ardal_Cadwraeth_Arbennig_Ddynodedig_(ACA))_-_Carmarthen_and_the_Afon_Tywi_river;_Wales_12.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "carmarthenshire-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/h/z/carmarthenshire-wp/caerfyrddin-ac-afon-tywi-ardal-medium.webp",
+          "smallPath": "_m/g/c/h/z/carmarthenshire-wp/caerfyrddin-ac-afon-tywi-ardal-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/aberaeron-ceredigion-cymru-wal.jpg",
@@ -880,7 +933,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aberaeron,_Ceredigion,_Cymru_(Wales)_-_Gorllewin_Cymru_Forol_-_SAC_Special_Areas_of_Conservation_82.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/aberaeron-ceredigion-cymru-wal-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/aberaeron-ceredigion-cymru-wal-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/arfordir-aberystwyth-ceredigio.jpg",
@@ -895,7 +950,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arfordir_Aberystwyth,_Ceredigion_-_Aberystwyth_SAC_Special_Areas_of_Conservation,_West_Wales_Marine_01.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/arfordir-aberystwyth-ceredigio-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/arfordir-aberystwyth-ceredigio-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/afon-teifi-ger-aberteifi-o-r-a.jpg",
@@ -910,7 +967,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Afon_Teifi_ger_Aberteifi_o%27r_awyr_-_the_river_teifi_near_Cardigan,_Ceredigion,_Wales_from_the_air_05.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/afon-teifi-ger-aberteifi-o-r-a-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/afon-teifi-ger-aberteifi-o-r-a-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/abaty-ac-eglwys-llandudoch-sir.png",
@@ -925,7 +984,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abaty_ac_Eglwys_Llandudoch,_Sir_Benfro_-_St_Dogmael%27s_Parish_Church_and_St_Dogmaels_Abbey,_Pembrokeshire,_Wales_34.png",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/abaty-ac-eglwys-llandudoch-sir-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/abaty-ac-eglwys-llandudoch-sir-small.webp"
         },
         {
           "path": "_m/g/c/m/h/gwynedd-wp/aberdyfi-gwynedd-cymru-wales-2.jpg",
@@ -940,7 +1001,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aberdyfi,_Gwynedd,_Cymru_(Wales)_2024_03.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "gwynedd-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/m/h/gwynedd-wp/aberdyfi-gwynedd-cymru-wales-2-medium.webp",
+          "smallPath": "_m/g/c/m/h/gwynedd-wp/aberdyfi-gwynedd-cymru-wales-2-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/dyfi-furnace-3.jpg",
@@ -962,7 +1025,9 @@
             "Self-published work",
             "Taken with Konica Minolta Dimage E500",
             "Watermills in Wales"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/dyfi-furnace-3-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/dyfi-furnace-3-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/llangrannog-from-south-cliffs.jpg",
@@ -984,7 +1049,8 @@
             "License migration completed",
             "Llangrannog",
             "Taken with Nikon Coolpix 5700"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/llangrannog-from-south-cliffs-small.webp"
         },
         {
           "path": "_m/g/c/m/h/gwynedd-wp/dinas-dinlle-04-977.png",
@@ -1006,7 +1072,9 @@
             "Hills of Gwynedd",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/h/gwynedd-wp/dinas-dinlle-04-977-medium.webp",
+          "smallPath": "_m/g/c/m/h/gwynedd-wp/dinas-dinlle-04-977-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/deganwy-town-and-castle.jpg",
@@ -1021,7 +1089,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deganwy_town_and_castle.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/deganwy-town-and-castle-small.webp"
         },
         {
           "path": "_m/g/c/k/v/criccieth-castle-wp/criccieth-beach.jpg",
@@ -1036,7 +1105,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Criccieth_beach.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "criccieth-castle-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/k/v/criccieth-castle-wp/criccieth-beach-medium.webp",
+          "smallPath": "_m/g/c/k/v/criccieth-castle-wp/criccieth-beach-small.webp"
         },
         {
           "path": "_m/g/c/m/m/north-wales-wp/llandudno-in-wales.jpg",
@@ -1051,7 +1122,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Llandudno_in_Wales.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "north-wales-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/m/m/north-wales-wp/llandudno-in-wales-medium.webp",
+          "smallPath": "_m/g/c/m/m/north-wales-wp/llandudno-in-wales-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/llandudnopier-p6140188.jpg",
@@ -1066,7 +1139,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:LlandudnoPier-P6140188.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/llandudnopier-p6140188-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/llandudnopier-p6140188-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/llynpenrhyn.jpg",
@@ -1081,7 +1156,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:LlynPenrhyn.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/llynpenrhyn-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/ceibwrcliffs.jpg",
@@ -1096,7 +1172,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CeibwrCliffs.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/ceibwrcliffs-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/ceibwrcliffs-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/east-usk-lighthouse-2012-02-12.jpg",
@@ -1111,7 +1189,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:East_Usk_Lighthouse_2012-02-12_Crop.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/east-usk-lighthouse-2012-02-12-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/east-usk-lighthouse-2012-02-12-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/doctor-who-experience-81055206.jpg",
@@ -1126,7 +1206,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doctor_Who_Experience_(8105520673).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/doctor-who-experience-81055206-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/glamorganheritagecoast.jpg",
@@ -1141,7 +1222,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:GlamorganHeritageCoast.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/glamorganheritagecoast-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/glamorganheritagecoast-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/conwybridges-01.jpg",
@@ -1156,7 +1239,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:ConwyBridges-01.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/conwybridges-01-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/conwybridges-01-small.webp"
         },
         {
           "path": "_m/g/c/k/v/criccieth-castle-wp/criccieth-castle-14393993760.jpg",
@@ -1171,7 +1256,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Criccieth_Castle_(14393993760).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "criccieth-castle-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/k/v/criccieth-castle-wp/criccieth-castle-14393993760-medium.webp",
+          "smallPath": "_m/g/c/k/v/criccieth-castle-wp/criccieth-castle-14393993760-small.webp"
         },
         {
           "path": "_m/g/c/h/z/carmarthenshire-wp/laugharne-from-the-castle-5842.jpg",
@@ -1186,7 +1273,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laugharne_from_the_castle_(5842).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "carmarthenshire-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/h/z/carmarthenshire-wp/laugharne-from-the-castle-5842-medium.webp",
+          "smallPath": "_m/g/c/h/z/carmarthenshire-wp/laugharne-from-the-castle-5842-small.webp"
         },
         {
           "path": "_m/g/c/h/z/carmarthenshire-wp/ferryside-from-llansteffan-cas.jpg",
@@ -1201,7 +1290,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferryside_from_Llansteffan_Castle_(5949).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "carmarthenshire-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/h/z/carmarthenshire-wp/ferryside-from-llansteffan-cas-medium.webp",
+          "smallPath": "_m/g/c/h/z/carmarthenshire-wp/ferryside-from-llansteffan-cas-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/langland-bay.jpg",
@@ -1216,7 +1307,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Langland_Bay.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/langland-bay-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/langland-bay-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/llanfairfechan-35349045766.jpg",
@@ -1231,7 +1324,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Llanfairfechan_(35349045766).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/llanfairfechan-35349045766-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/llanfairfechan-35349045766-small.webp"
         },
         {
           "path": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/marine-hotel-southerndown-brid.jpg",
@@ -1246,7 +1341,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marine_Hotel,_Southerndown,_Bridgend_(4641177).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "vale-of-glamorgan",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/tpc/va/le/-o/f-/vale-of-glamorgan/marine-hotel-southerndown-brid-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/golygfa-gyffredinol-bae-caerdy.jpg",
@@ -1261,7 +1357,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golygfa_gyffredinol_Bae_Caerdydd.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/golygfa-gyffredinol-bae-caerdy-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/golygfa-gyffredinol-bae-caerdy-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/golygfa-o-dref-harlech-2007.jpg",
@@ -1276,7 +1374,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golygfa_o_dref_Harlech,_2007.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/golygfa-o-dref-harlech-2007-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/golygfa-o-dref-harlech-2007-small.webp"
         },
         {
           "path": "_m/g/c/m/k/snowdonia-wp/conwy-castle-0006.jpg",
@@ -1291,7 +1391,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Conwy-Castle-0006.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "snowdonia-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/g/c/m/k/snowdonia-wp/conwy-castle-0006-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/golden-sands-of-tenby-geograph.jpg",
@@ -1306,7 +1407,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golden_sands_of_Tenby_-_geograph.org.uk_-_3905727.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/golden-sands-of-tenby-geograph-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/dolgellau-o-r-awyr-aerial-imag.jpg",
@@ -1321,7 +1423,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dolgellau_o%27r_awyr;_aerial_image_of_Dolgellau,_Parc_Cenedlaethol_Eryri_-_Eryri_National_Park,_Cymru_(Wales)_18.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/dolgellau-o-r-awyr-aerial-imag-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/dolgellau-o-r-awyr-aerial-imag-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/goleudy-talacre-a-thywynau-gro.jpg",
@@ -1336,7 +1440,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goleudy_Talacre_a_thywynau_Gronant_-_Point_of_Ayr_Lighthouse_and_Talacre_and_Gronant_Dunes_SSSI_13.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/goleudy-talacre-a-thywynau-gro-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/goleudy-talacre-a-thywynau-gro-small.webp"
         },
         {
           "path": "_m/tpc/an/gl/es/ey/anglesey/eglwys-sant-beuno-aberffraw-ar.png",
@@ -1351,7 +1457,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eglwys_Sant_Beuno,_Aberffraw_ar_Ynys_M%C3%B4n_-_St_Beuno%27s_Church,_Aberffraw_parish_church_in_Anglesey,_Wales_31.png",
           "sourceType": "sibling",
           "sourceArticleId": "anglesey",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/an/gl/es/ey/anglesey/eglwys-sant-beuno-aberffraw-ar-medium.webp",
+          "smallPath": "_m/tpc/an/gl/es/ey/anglesey/eglwys-sant-beuno-aberffraw-ar-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/ceinewydd-ceredigion-cymru-wal.jpg",
@@ -1366,7 +1474,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceinewydd,_Ceredigion,_Cymru_(Wales)_-_Mehefin_2024_-_15.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/ceinewydd-ceredigion-cymru-wal-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/ceinewydd-ceredigion-cymru-wal-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/goleudy-pen-y-gogarth-great-or.png",
@@ -1381,7 +1491,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goleudy_Pen_y_Gogarth_-_Great_Ormes_Head_Lighthouse,_Llandudno,_Wales_24.png",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/goleudy-pen-y-gogarth-great-or-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/goleudy-pen-y-gogarth-great-or-small.webp"
         },
         {
           "path": "_m/g/c/j/w/south-wales-wp/st-davids-village-and-cathedra.jpg",
@@ -1404,7 +1516,8 @@
             "License migration redundant",
             "Self-published work",
             "St David's"
-          ]
+          ],
+          "smallPath": "_m/g/c/j/w/south-wales-wp/st-davids-village-and-cathedra-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/saundersfoot-harbor.jpg",
@@ -1426,7 +1539,8 @@
             "Saundersfoot",
             "Seaside resorts in the United Kingdom",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/saundersfoot-harbor-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/mumblespier.jpg",
@@ -1450,7 +1564,9 @@
             "PD-self",
             "Self-published work",
             "United Kingdom photographs taken on 2008-03-31"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/mumblespier-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/mumblespier-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/ogmore-castle-5085.jpg",
@@ -1472,7 +1588,8 @@
             "Listed buildings in Wales with known IDs",
             "Ogmore Castle",
             "Taken with Canon EOS 30D"
-          ]
+          ],
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/ogmore-castle-5085-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/solva-harbour-2.jpg",
@@ -1493,7 +1610,9 @@
             "Self-published work",
             "Solva Harbour",
             "Taken with Panasonic Lumix DMC-TZ3"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/solva-harbour-2-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/solva-harbour-2-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/penmaenpool-cadairidris-02.jpg",
@@ -1508,7 +1627,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Penmaenpool-CadairIdris-02.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/penmaenpool-cadairidris-02-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/penmaenpool-cadairidris-02-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/south-stack-lighthouse-wales-2.jpg",
@@ -1523,7 +1644,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:South_Stack_Lighthouse,_Wales-28May2007b.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/south-stack-lighthouse-wales-2-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/south-stack-lighthouse-wales-2-small.webp"
         },
         {
           "path": "_m/tpc/an/gl/es/ey/anglesey/rhosneigr.jpg",
@@ -1538,7 +1661,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhosneigr.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "anglesey",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/tpc/an/gl/es/ey/anglesey/rhosneigr-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/pendine-sands-in-september-200.jpg",
@@ -1553,7 +1677,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pendine_Sands_in_September_2008.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/pendine-sands-in-september-200-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/pendine-sands-in-september-200-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/point-lynas-lighthouse-2.jpg",
@@ -1568,7 +1694,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Point_Lynas_Lighthouse_(2).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/point-lynas-lighthouse-2-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/the-central-hotel-shotton-geog.jpg",
@@ -1583,7 +1710,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Central_Hotel,_Shotton_(geograph_3800291).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/the-central-hotel-shotton-geog-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/penarth-pier-2013.jpg",
@@ -1598,7 +1726,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Penarth_Pier_2013.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/penarth-pier-2013-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/penarth-pier-2013-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/southstack-stena-01c.jpg",
@@ -1613,7 +1743,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:SouthStack-Stena-01c.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/southstack-stena-01c-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/southstack-stena-01c-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/tenby-beach-8952088342.jpg",
@@ -1628,7 +1760,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tenby_beach_(8952088342).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/tenby-beach-8952088342-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/tenby-beach-8952088342-small.webp"
         },
         {
           "path": "_m/g/c/j/w/south-wales-wp/p-3-swansea-city-centre-2012.jpg",
@@ -1643,7 +1777,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:P.3._Swansea_City_Centre_2012.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "south-wales-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/g/c/j/w/south-wales-wp/p-3-swansea-city-centre-2012-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/port-talbot-the-m4-corridor-ge.jpg",
@@ -1658,7 +1793,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Port_Talbot_%26_the_M4_Corridor_-_geograph-3685831-by-Kevin-Corcoran_(1).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/port-talbot-the-m4-corridor-ge-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/port-talbot-the-m4-corridor-ge-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/rest-bay-porthcawl-4785992.jpg",
@@ -1673,7 +1810,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rest_Bay,_Porthcawl_(4785992).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/rest-bay-porthcawl-4785992-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/rspbmon02lb.jpg",
@@ -1688,7 +1826,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:RSPBMon02LB.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/rspbmon02lb-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/rspbmon02lb-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/strumble-head-lighthouse-26349.jpg",
@@ -1703,7 +1843,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strumble_Head_Lighthouse_(26349374910).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/strumble-head-lighthouse-26349-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/strumble-head-lighthouse-26349-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/st-ann-s-head-lighthouse-26112.jpg",
@@ -1718,7 +1860,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Ann%27s_Head_Lighthouse_(26112091356).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/st-ann-s-head-lighthouse-26112-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/st-ann-s-head-lighthouse-26112-small.webp"
         },
         {
           "path": "_m/g/c/h/r/st-davids-wp/porth-mawr-whitesands-bay-near.jpg",
@@ -1733,7 +1877,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porth_Mawr_(Whitesands_Bay)_near_Tyddewi_(St_David%27s),_Sir_Benfro,_Cymru,_Wales_15.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "st-davids-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/h/r/st-davids-wp/porth-mawr-whitesands-bay-near-medium.webp",
+          "smallPath": "_m/g/c/h/r/st-davids-wp/porth-mawr-whitesands-bay-near-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/newgale-sands-geograph-org-uk-.jpg",
@@ -1748,7 +1894,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newgale_Sands_-_geograph.org.uk_-_2282093.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/newgale-sands-geograph-org-uk--small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/n-side-road-bristol-airport-ge.jpg",
@@ -1763,7 +1910,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:N_Side_Road,_Bristol_Airport_-_geograph.org.uk_-_3737093.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/n-side-road-bristol-airport-ge-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/n-side-road-bristol-airport-ge-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/saundersfoot-beach-and-view-ge.jpg",
@@ -1778,7 +1927,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saundersfoot_Beach_and_View_-_geograph.org.uk_-_4837243.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/saundersfoot-beach-and-view-ge-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/saundersfoot-beach-and-view-ge-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/pont-y-borth-menai-suspension-.jpg",
@@ -1793,7 +1944,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pont_y_Borth_(Menai_Suspension_Bridge)_a_godwyd_gan_Telford,_rhwng_Ynys_Mon_a_Gwynedd;_Mehefin_2023_12.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/pont-y-borth-menai-suspension--medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/pont-y-borth-menai-suspension--small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/neath-port-talbot-steel-works-.jpg",
@@ -1808,7 +1961,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neath_Port_Talbot_,_Steel_Works_-_geograph.org.uk_-_5502264.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/neath-port-talbot-steel-works--medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/neath-port-talbot-steel-works--small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/south-beach-in-tenby.jpg",
@@ -1823,7 +1978,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:South_Beach_in_Tenby.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/south-beach-in-tenby-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/south-beach-in-tenby-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/prestatyn-beach.jpg",
@@ -1838,7 +1995,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prestatyn_Beach.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/prestatyn-beach-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/prestatyn-beach-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/the-bridges-ceredigion.png",
@@ -1853,7 +2012,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_bridges_Ceredigion.png",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/the-bridges-ceredigion-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/the-bridges-ceredigion-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/whiteford-lighthouse-near-0720.jpg",
@@ -1875,7 +2036,8 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ20",
             "Whiteford Lighthouse"
-          ]
+          ],
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/whiteford-lighthouse-near-0720-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/view-over-part-of-rhoose-point.jpg",
@@ -1896,7 +2058,9 @@
             "PD-self",
             "Rhoose Point",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/view-over-part-of-rhoose-point-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/view-over-part-of-rhoose-point-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/west-usk-lighthouse.jpg",
@@ -1921,7 +2085,9 @@
             "Self-published work",
             "Taken with iPhone 4S",
             "West Usk Lighthouse"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/west-usk-lighthouse-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/west-usk-lighthouse-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/walescoastpath-banner-01.jpg",
@@ -1941,7 +2107,9 @@
             "CC-BY-SA-3.0",
             "Self-published work",
             "Wikivoyage banners of Wales"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/walescoastpath-banner-01-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/walescoastpath-banner-01-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/view-from-ynys-hir-hide-ynys-h.jpg",
@@ -1962,7 +2130,9 @@
             "Files with coordinates missing SDC location of creation (52° N, 4° W)",
             "Self-published work",
             "Ynys-hir RSPB reserve"
-          ]
+          ],
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/view-from-ynys-hir-hide-ynys-h-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/view-from-ynys-hir-hide-ynys-h-small.webp"
         },
         {
           "path": "_m/g/c/j/v/newport-transporter-bridge-wp/photo-listed-building.jpg",
@@ -1990,7 +2160,9 @@
             "United Kingdom photographs taken on 2015-09-27",
             "Uploaded via Campaign:wlm-gb-wls",
             "WLM-UK 2014 unfiltered 09-08"
-          ]
+          ],
+          "mediumPath": "_m/g/c/j/v/newport-transporter-bridge-wp/photo-listed-building-medium.webp",
+          "smallPath": "_m/g/c/j/v/newport-transporter-bridge-wp/photo-listed-building-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/trwyn-du-lighthouse-1.jpg",
@@ -2005,7 +2177,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trwyn_Du_Lighthouse_(1).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/trwyn-du-lighthouse-1-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/trwyn-du-lighthouse-1-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/whitmore-bay-beach-geograph-or.jpg",
@@ -2020,7 +2194,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Whitmore_Bay_beach_-_geograph.org.uk_-_1969097.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/whitmore-bay-beach-geograph-or-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/tywyn-beach.jpg",
@@ -2035,7 +2210,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tywyn_Beach.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/tywyn-beach-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/tywyn-beach-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/y-felinheli-ger-y-fenai-on-the.jpg",
@@ -2050,7 +2227,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Y_Felinheli,_ger_y_Fenai_(on_the_Menai_Straights),_Gwynedd,_Cymru_(Wales)_03.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/y-felinheli-ger-y-fenai-on-the-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/y-felinheli-ger-y-fenai-on-the-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/y-cob-porthmadog-o-r-awyr-gwyn.jpg",
@@ -2065,7 +2244,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Y_Cob,_Porthmadog_o%27r_awyr,_Gwynedd,_Cymru_(Wales)_07.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/y-cob-porthmadog-o-r-awyr-gwyn-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/y-cob-porthmadog-o-r-awyr-gwyn-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/views-from-bryn-llwyn-230m-1km.jpg",
@@ -2080,7 +2261,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Views_from_Bryn_Llwyn_(230m)_1km_East_of_Prestatyn,_Wales_-_Bryniau_Clwyd_a_Dyffryn_Dyfrdwy_AONB_03_(cropped).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/views-from-bryn-llwyn-230m-1km-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/views-from-bryn-llwyn-230m-1km-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/tre-saith-ceredigion-tresaith-.jpg",
@@ -2095,7 +2278,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tre-saith,_Ceredigion_-_Tresaith_in_Wales_-_too_much_tourism_and_danger_of_landslide_of_rocks_13.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/tre-saith-ceredigion-tresaith--medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/tre-saith-ceredigion-tresaith--small.webp"
         },
         {
           "path": "_m/g/c/m/m/north-wales-wp/tywyn-gwynedd-eglwys-sant-cadf.jpg",
@@ -2110,7 +2295,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tywyn,_Gwynedd_-_Eglwys_Sant_Cadfan_(St_Cadfan%27s_Church),_Tywyn,_Gwynedd,_Wales_09.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "north-wales-wp",
-          "sourceGeohash4": "gckc"
+          "sourceGeohash4": "gckc",
+          "mediumPath": "_m/g/c/m/m/north-wales-wp/tywyn-gwynedd-eglwys-sant-cadf-medium.webp",
+          "smallPath": "_m/g/c/m/m/north-wales-wp/tywyn-gwynedd-eglwys-sant-cadf-small.webp"
         }
       ],
       "narration": [

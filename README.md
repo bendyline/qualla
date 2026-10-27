@@ -61,7 +61,7 @@ The content files in this repository reference media assets (images, audio narra
 
 ## Feedback and Issues
 
-If you find errors in the content, have suggestions, or want to report a problem, please [open an issue](https://github.com/anthropics/pub-qualla/issues) on this repository.
+If you find errors in the content, have suggestions, or want to report a problem, please [open an issue](https://github.com/bendyline/qualla/issues) on this repository.
 
 ## About Qualla
 

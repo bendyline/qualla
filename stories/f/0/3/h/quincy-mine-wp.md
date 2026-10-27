@@ -37,7 +37,7 @@ Quincy Mine at 47.138N, 88.570W sits on the hillside above Hancock, Michigan, on
 ## Sources
 
 - [Quincy Mine - Wikipedia](https://en.wikipedia.org/?curid=1978763)
-- [Quincy Mine - Wikipedia](https://en.wikipedia.org/wiki/Quincy_Mine)
+- [Quincy Mine - Wikipedia](https://en.wikipedia.org/?curid=1978763)
   - Shaft depth 9,260 feet along dip (NPS cites 9,240 ft - minor source discrepancy, Wikipedia figure used)
   - Dividends paid every year 1868-1920 (53 consecutive years - confirmed)
   - Nordberg Steam Hoist weighed more than 880 tons, lifted 10 tons at 36.4 mph - confirmed
@@ -45,7 +45,7 @@ Quincy Mine at 47.138N, 88.570W sits on the hillside above Hancock, Michigan, on
   - Mine closed 1931, reopened WWII, closed permanently 1945 - confirmed
   - Quincy led copper production 1863-1867 before Calumet and Hecla - confirmed
   - Hoist house cost over $370,000 - confirmed
-- [Quincy Mine No. 2 Shaft Hoist House - Wikipedia](https://en.wikipedia.org/wiki/Quincy_Mine_No._2_Shaft_Hoist_House)
+- [Quincy Mine No. 2 Shaft Hoist House - Wikipedia](https://en.wikipedia.org/?curid=24735171)
   - Hoist built 1918, housed in Georgian-style reinforced concrete building with brick veneer and Italian-tiled walls
   - Hoist sat on largest concrete slab ever poured at time, containing 3,200 cubic yards
 - [The No. 2 Quincy Shaft-Rockhouse: 9,240 Feet into the Earth - National Park Service](https://www.nps.gov/articles/the-no-2-quincy-shaft-rockhouse-9-240-feet-into-the-earth-teaching-with-historic-places.htm)

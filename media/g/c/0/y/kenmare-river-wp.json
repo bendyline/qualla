@@ -27,7 +27,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/0/y/kenmare-river-wp/ireland-relief-location-map.png",
+          "path": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map.png",
           "filename": "Ireland relief location map.png",
           "caption": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
           "alt": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
@@ -46,7 +46,8 @@
             "Images with extracted images",
             "Maps by Nilfanion",
             "Relief location maps of Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map-small.webp"
         },
         {
           "path": "_m/g/c/0/y/kenmare-river-wp/dunkerron-islands-kenm.jpg",
@@ -99,7 +100,7 @@
           "smallPath": "_m/g/c/0/y/kenmare-river-wp/cove-at-loughaunacreen-geograp-small.webp"
         },
         {
-          "path": "_m/g/c/0/y/kenmare-river-wp/eyeries-view-geograph-org-uk-4.jpg",
+          "path": "_m/g/c/0/y/eyeries-wp/eyeries-view-geograph-org-uk-4.jpg",
           "filename": "Eyeries View - geograph.org.uk - 456804.jpg",
           "caption": "Eyeries View Located on the edge of Eyeries, this new building enjoys a fine view of the Kenmare River.",
           "alt": "Eyeries View Located on the edge of Eyeries, this new building enjoys a fine view of the Kenmare River.",
@@ -123,7 +124,8 @@
             "Kenmare River",
             "May 2007 Ireland photographs",
             "Taken with Nikon Coolpix 7600"
-          ]
+          ],
+          "smallPath": "_m/g/c/0/y/eyeries-wp/eyeries-view-geograph-org-uk-4-small.webp"
         },
         {
           "path": "_m/g/c/0/y/kenmare-river-wp/islet-off-loughaunacreen-headl.jpg",
@@ -352,7 +354,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ordnance_Survey_Ireland_One-Inch_Sheet_191_197_198_Kenmare_River,_Surveyed_1842,_Revisions_to_1949.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "bere-island-wp",
-          "sourceGeohash4": "gc0y"
+          "sourceGeohash4": "gc0y",
+          "mediumPath": "_m/g/c/0/y/kenmare-river-wp/ordnance-survey-ireland-one-in-medium.webp",
+          "smallPath": "_m/g/c/0/y/kenmare-river-wp/ordnance-survey-ireland-one-in-small.webp"
         },
         {
           "path": "_m/g/c/0/y/kenmare-river-wp/blackwater-inlet-geograph-org-.jpg",
@@ -473,7 +477,8 @@
             "License migration completed",
             "Media missing infobox template",
             "Staigue stone fort"
-          ]
+          ],
+          "smallPath": "_m/g/c/1/p/kenmare-wk/staigue-fort-small.webp"
         },
         {
           "path": "_m/g/c/1/p/kenmare-wk/kenmare-holy-cross-church-irel.jpg",
@@ -496,7 +501,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Holy Cross Church, Kenmare",
             "Taken with Nikon Coolpix L3"
-          ]
+          ],
+          "smallPath": "_m/g/c/1/p/kenmare-wk/kenmare-holy-cross-church-irel-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut.jpg",
@@ -519,7 +525,9 @@
             "License migration completed",
             "Listowel",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe.jpg",
@@ -534,7 +542,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_slugs_-_forest_and_bog_phenotypes.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir.jpg",
@@ -549,7 +559,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_Airport_(KIR).jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory.jpg",
@@ -564,7 +576,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballinskelligs_Priory.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/portmagee.jpg",
@@ -579,7 +593,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portmagee.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/portmagee-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/portmagee-small.webp"
         }
       ],
       "narration": [

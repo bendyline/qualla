@@ -3,34 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/s/n/greyabbey-wp/hero.png",
-        "filename": "County Down Coat of Arms.png",
-        "alt": "County Down Coat of Arms.png",
-        "width": 998,
-        "height": 905,
-        "mimeType": "image/png",
-        "license": "CC0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:County_Down_Coat_of_Arms.png",
-        "sourceType": "core",
+        "path": "_m/g/c/s/n/greyabbey-wp/farmhouse-and-farm-buildings-o.jpg",
+        "filename": "Farmhouse and farm buildings on the western outskirts of Greyabbey - geograph.org.uk - 3748182.jpg",
+        "caption": "Farmhouse and farm buildings on the western outskirts of Greyabbey",
+        "alt": "Farmhouse and farm buildings on the western outskirts of Greyabbey",
+        "width": 1024,
+        "height": 767,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 2.0",
+        "artist": "Eric Jones",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Farmhouse_and_farm_buildings_on_the_western_outskirts_of_Greyabbey_-_geograph.org.uk_-_3748182.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "greyabbey-wp",
         "sourceGeohash4": "gcsn",
         "categories": [
-          "1 fish argent on a fess",
-          "3 wheat garbs or in heraldry",
-          "Boats in heraldry",
-          "CC-Zero",
-          "Coats of arms of counties of Ireland",
-          "Coats of arms of county councils of Northern Ireland",
-          "Deprecated template usage: AttribSVG",
-          "Files with no machine-readable author",
-          "Irish elk in heraldry",
-          "Latin-language mottos in heraldry",
-          "Self-published work",
-          "Symbols of County Down",
-          "Tinctures not specified (nonSVG)",
-          "Vector images using elements from other vector images",
-          "Vert a fess or"
-        ]
+          "CC-BY-SA-2.0",
+          "Greyabbey",
+          "Images from Geograph Britain and Ireland"
+        ],
+        "smallPath": "_m/g/c/s/n/greyabbey-wp/farmhouse-and-farm-buildings-o-small.webp"
       },
       "images": [
         {
@@ -455,7 +446,9 @@
             "Media missing infobox template",
             "Mourne Mountains",
             "St John's Point"
-          ]
+          ],
+          "mediumPath": "_m/g/c/e/s/mourne-mountains-wp/mournes-wiki-medium.webp",
+          "smallPath": "_m/g/c/e/s/mourne-mountains-wp/mournes-wiki-small.webp"
         },
         {
           "path": "_m/g/c/e/v/county-down-wp/cimg1481-scraboviewnewtownards.jpg",
@@ -482,7 +475,9 @@
             "Newtownards",
             "Scrabo Tower",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/e/v/county-down-wp/cimg1481-scraboviewnewtownards-medium.webp",
+          "smallPath": "_m/g/c/e/v/county-down-wp/cimg1481-scraboviewnewtownards-small.webp"
         },
         {
           "path": "_m/g/c/e/v/county-down-wp/downpatrick-view-02-august-200.jpg",
@@ -497,7 +492,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Downpatrick_view_(02),_August_2009.JPG",
           "sourceType": "poi",
           "sourceArticleId": "county-down-wp",
-          "sourceGeohash4": "gcev"
+          "sourceGeohash4": "gcev",
+          "mediumPath": "_m/g/c/e/v/county-down-wp/downpatrick-view-02-august-200-medium.webp",
+          "smallPath": "_m/g/c/e/v/county-down-wp/downpatrick-view-02-august-200-small.webp"
         },
         {
           "path": "_m/g/c/e/v/county-down-wp/crown-bar-interior.jpg",
@@ -512,7 +509,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crown_Bar_interior.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-down-wp",
-          "sourceGeohash4": "gcev"
+          "sourceGeohash4": "gcev",
+          "smallPath": "_m/g/c/e/v/county-down-wp/crown-bar-interior-small.webp"
         },
         {
           "path": "_m/g/c/e/v/county-down-wp/castle-ward-2.jpg",
@@ -527,7 +525,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle_Ward_2.JPG",
           "sourceType": "poi",
           "sourceArticleId": "county-down-wp",
-          "sourceGeohash4": "gcev"
+          "sourceGeohash4": "gcev",
+          "mediumPath": "_m/g/c/e/v/county-down-wp/castle-ward-2-medium.webp",
+          "smallPath": "_m/g/c/e/v/county-down-wp/castle-ward-2-small.webp"
         },
         {
           "path": "_m/g/c/e/v/county-down-wp/carlingford-ferry-at-greenore-.jpg",
@@ -542,7 +542,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carlingford_Ferry_at_Greenore_(geograph_5686447).jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-down-wp",
-          "sourceGeohash4": "gcev"
+          "sourceGeohash4": "gcev",
+          "mediumPath": "_m/g/c/e/v/county-down-wp/carlingford-ferry-at-greenore--medium.webp",
+          "smallPath": "_m/g/c/e/v/county-down-wp/carlingford-ferry-at-greenore--small.webp"
         }
       ],
       "narration": [

@@ -36,7 +36,7 @@ Kassel sits at 51.316°N, 9.498°E in a basin on the river Fulda, ringed by wood
 
 ## Sources
 
-- [Kassel - Wikivoyage](https://en.wikivoyage.org/wiki/Kassel)
+- [Kassel - Wikivoyage](https://en.wikivoyage.org/?curid=17065)
 - [Bombing of Kassel in World War II - Wikipedia](https://en.wikipedia.org/wiki/Bombing_of_Kassel_in_World_War_II)
   - 569 RAF bombers attacked Kassel on the night of 22 October 1943
   - the resulting firestorm killed around 10,000 people

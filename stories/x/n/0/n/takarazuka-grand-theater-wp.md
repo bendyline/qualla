@@ -33,7 +33,7 @@ Located at 34.807N, 135.346E in the city of Takarazuka, Hyogo Prefecture, along 
 ## Sources
 
 - [Takarazuka Grand Theater - Wikipedia](https://en.wikipedia.org/?curid=22448124)
-- [Wikipedia - Takarazuka Grand Theater](https://en.wikipedia.org/wiki/Takarazuka_Grand_Theater)
+- [Wikipedia - Takarazuka Grand Theater](https://en.wikipedia.org/?curid=22448124)
   - Current Grand Theater opened 1993 confirmed
   - Seats 2,550 after 2005 renovations (originally 2,527) confirmed
   - 23 seats added in 2005 confirmed

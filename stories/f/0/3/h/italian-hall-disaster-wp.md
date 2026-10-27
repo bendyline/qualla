@@ -50,7 +50,7 @@ Located at 47.25N, 88.46W in Calumet, Michigan, on the Keweenaw Peninsula. The s
 - [1913 Massacre - Wikipedia](https://en.wikipedia.org/wiki/1913_Massacre)
   - Woody Guthrie's '1913 Massacre' recorded 1945 (written circa 1941)
   - song attributes false alarm to 'copper boss thug men'
-- [Death's Door - Steve Lehto 2006 book documentation](https://en.wikipedia.org/wiki/Italian_Hall_disaster)
+- [Death's Door - Steve Lehto 2006 book documentation](https://en.wikipedia.org/?curid=1032986)
   - doors opened outward confirmed by photographs
   - doors not mentioned as contributing factor in 1913 inquest or 1914 congressional hearing
   - Steve Lehto's 2006 book 'Death's Door' documented door evidence

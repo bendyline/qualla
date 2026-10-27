@@ -28,7 +28,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/0/v/bere-island-wp/relief-map-ireland-equ.png",
+          "path": "_m/g/c/1/u/lusitania-sinking-wk/relief-map-ireland-equ.png",
           "filename": "Island of Ireland relief location map.png",
           "caption": "Relief map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
           "alt": "Relief map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
@@ -46,7 +46,8 @@
             "Images that should use vector graphics (vector data available)",
             "Maps by Nilfanion",
             "Relief location maps of Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/1/u/lusitania-sinking-wk/relief-map-ireland-equ-small.webp"
         },
         {
           "path": "_m/g/c/0/v/bere-island-wp/good-lunch-we-had-fine.jpg",
@@ -331,7 +332,7 @@
           "smallPath": "_m/g/c/0/v/bere-island-wp/ordnance-survey-ireland-one-in-small.webp"
         },
         {
-          "path": "_m/g/c/0/v/bere-island-wp/admiralty-chart-no-1210-bearha.jpg",
+          "path": "_m/g/c/1/j/battle-of-bantry-bay-wp/admiralty-chart-no-1210-bearha.jpg",
           "filename": "Admiralty Chart No 1210 Bearhaven, Published 1912.jpg",
           "caption": "Nautical chart of Bearhaven, Bantry Bay, at a scale of 1:30,600. Surveted by Captain B.T. Somerville, 1910, and by Staff Captain W.F. Maxwell, 1895-6. Not current - not to be used for navigation!",
           "alt": "Nautical chart of Bearhaven, Bantry Bay, at a scale of 1:30,600. Surveted by Captain B.T. Somerville, 1910, and by Staff Captain W.F. Maxwell, 1895-6. Not current - not to be used for navigation!",
@@ -343,7 +344,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_1210_Bearhaven,_Published_1912.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "battle-of-bantry-bay-wp",
-          "sourceGeohash4": "gc0v"
+          "sourceGeohash4": "gc0v",
+          "mediumPath": "_m/g/c/1/j/battle-of-bantry-bay-wp/admiralty-chart-no-1210-bearha-medium.webp",
+          "smallPath": "_m/g/c/1/j/battle-of-bantry-bay-wp/admiralty-chart-no-1210-bearha-small.webp"
         },
         {
           "path": "_m/g/c/0/v/bere-island-wp/on-the-ferry-from-castletown-b.jpg",
@@ -466,7 +469,9 @@
             "Media missing infobox template",
             "SURGmap",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ba/nt/ry/-b/bantry-bay/bantry-bay-pinnacles-map-medium.webp",
+          "smallPath": "_m/tpc/ba/nt/ry/-b/bantry-bay/bantry-bay-pinnacles-map-small.webp"
         }
       ],
       "narration": [

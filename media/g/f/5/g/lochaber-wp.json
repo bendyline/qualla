@@ -3,26 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/5/g/lochaber-wp/hero.jpg",
-        "filename": "Inverlochy Castle PICT6929.jpg",
-        "caption": "Inverlochy Castle near Fort William",
-        "alt": "Inverlochy Castle near Fort William",
-        "width": 3162,
-        "height": 1987,
+        "path": "_m/g/f/5/g/lochaber-wp/photo-listed-building.jpg",
+        "filename": "Glenfinnan Viaduct at Loch Shiel 2.jpg",
+        "caption": "This is a photo of listed building number",
+        "alt": "This is a photo of listed building number",
+        "width": 5184,
+        "height": 3888,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.5",
-        "artist": "The original uploader was Jmb at English Wikipedia.",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inverlochy_Castle_PICT6929.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Paul Stümke",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glenfinnan_Viaduct_at_Loch_Shiel_2.jpg",
         "sourceType": "core",
         "sourceArticleId": "lochaber-wp",
         "sourceGeohash4": "gf5g",
         "categories": [
-          "CC-BY-2.5",
-          "CC-BY-SA-3.0-migrated-with-disclaimers",
-          "GFDL-en",
-          "Inverlochy Castle",
-          "License migration completed"
-        ]
+          "2017 in Glenfinnan",
+          "August 2017 in Glenfinnan",
+          "CC-BY-SA-4.0",
+          "F-number f/2.8",
+          "Files with coordinates missing SDC location of creation",
+          "Glenfinnan Viaduct"
+        ],
+        "mediumPath": "_m/g/f/5/g/lochaber-wp/photo-listed-building-medium.webp",
+        "smallPath": "_m/g/f/5/g/lochaber-wp/photo-listed-building-small.webp"
       },
       "images": [
         {
@@ -412,7 +415,7 @@
           "smallPath": "_m/g/f/5/g/lochaber-wp/welcome-to-lochaber-geograph-o-small.webp"
         },
         {
-          "path": "_m/g/f/5/g/lochaber-wp/relief-map-lochaber-uk.jpg",
+          "path": "_m/g/f/5/e/eigg-wp/relief-map-lochaber-uk.jpg",
           "filename": "Lochaber UK relief location map.jpg",
           "caption": "Relief map of Lochaber, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 6.75W\nEast: 4.45W\nNorth: 57.20N\nSouth: 56.40N",
           "alt": "Relief map of Lochaber, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 6.75W\nEast: 4.45W\nNorth: 57.20N\nSouth: 56.40N",
@@ -424,7 +427,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lochaber_UK_relief_location_map.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "eigg-wp",
-          "sourceGeohash4": "gf5g"
+          "sourceGeohash4": "gf5g",
+          "mediumPath": "_m/g/f/5/e/eigg-wp/relief-map-lochaber-uk-medium.webp",
+          "smallPath": "_m/g/f/5/e/eigg-wp/relief-map-lochaber-uk-small.webp"
         },
         {
           "path": "_m/g/f/5/g/lochaber-wp/looking-back-into-glen-spean-f.jpg",
@@ -502,7 +507,8 @@
             "License migration completed",
             "Mallaig harbour",
             "Taken with Canon PowerShot A410"
-          ]
+          ],
+          "smallPath": "_m/g/f/5/u/mallaig-wp/mallaig-from-hill-small.webp"
         },
         {
           "path": "_m/g/f/5/u/mallaig-wp/steam-train-at-mallaig-railway.jpg",
@@ -529,7 +535,9 @@
             "Preserved steam locomotives at Mallaig railway station",
             "Self-published work",
             "The Jacobite"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/u/mallaig-wp/steam-train-at-mallaig-railway-medium.webp",
+          "smallPath": "_m/g/f/5/u/mallaig-wp/steam-train-at-mallaig-railway-small.webp"
         }
       ],
       "narration": [

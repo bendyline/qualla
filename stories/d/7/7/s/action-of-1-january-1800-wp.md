@@ -39,7 +39,7 @@ Located at 19.00N, 73.50W in the Bight of Leogane, between the Haitian mainland 
 ## Sources
 
 - [Action of 1 January 1800 - Wikipedia](https://en.wikipedia.org/?curid=23222436)
-- [Action of 1 January 1800 - Wikipedia](https://en.wikipedia.org/wiki/Action_of_1_January_1800)
+- [Action of 1 January 1800 - Wikipedia](https://en.wikipedia.org/?curid=23222436)
   - Experiment 135-ton schooner, 12 six-pounder guns, 70 men confirmed
   - Convoy of four vessels (three schooners and brig) confirmed
   - Eleven barges initially, twenty-six more on standby confirmed

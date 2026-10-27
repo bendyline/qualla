@@ -36,7 +36,7 @@ The Expo 2000 site occupies the Hanover fairground at 52.3217N, 9.8122E, on the 
 
 ## Sources
 
-- [Expo 2000 - Wikipedia](https://en.wikipedia.org/wiki/Expo_2000)
+- [Expo 2000 - Wikipedia](https://en.wikipedia.org/?curid=675667)
   - World Expo held in Hanover 1 June to 31 October 2000 on the Hanover Fairground, the largest exhibition ground in the world
   - Awarded by the BIE on 14 June 1990, beating Toronto 21 votes to 20
   - 1992 city council survey showed only 51.5% of area residents supported hosting

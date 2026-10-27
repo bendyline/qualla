@@ -33,7 +33,7 @@ Coordinates: 71.27°N, 72.09°E. The Yamal LNG plant is located at Sabetta on th
 ## Sources
 
 - [Yamal LNG - Wikipedia](https://en.wikipedia.org/?curid=40068971)
-- [Yamal LNG - Wikipedia and industry sources](https://en.wikipedia.org/wiki/Yamal_LNG)
+- [Yamal LNG - Wikipedia and industry sources](https://en.wikipedia.org/?curid=40068971)
   - Putin launched first cargo 8 December 2017 on tanker Christophe de Margerie — confirmed
   - Gas from Yuzhno-Tambeyskoye field — confirmed
   - Named for Christophe de Margerie, late CEO of Total — confirmed

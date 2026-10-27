@@ -33,7 +33,7 @@ Located at 35.07N, 135.84E atop Mount Hiei (848m / 2,782ft), on the border betwe
 ## Sources
 
 - [Enryaku-ji - Wikipedia](https://en.wikipedia.org/?curid=384114)
-- [Enryaku-ji - Wikipedia](https://en.wikipedia.org/wiki/Enryaku-ji)
+- [Enryaku-ji - Wikipedia](https://en.wikipedia.org/?curid=384114)
   - Founded 788 by Saicho on Mount Hiei northeast of Kyoto
   - Saicho established Tendai sect, bringing teachings from Tiantai school in China
   - Enryaku-ji had up to 3,000 sub-temples at its peak

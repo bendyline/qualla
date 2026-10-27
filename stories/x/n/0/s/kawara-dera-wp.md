@@ -33,7 +33,7 @@ Located at 34.473N, 135.818E in the village of Asuka, Nara Prefecture, on the As
 ## Sources
 
 - [Kawara-dera - Wikipedia](https://en.wikipedia.org/?curid=36056292)
-- [Kawara-dera - Wikipedia](https://en.wikipedia.org/wiki/Kawara-dera)
+- [Kawara-dera - Wikipedia](https://en.wikipedia.org/?curid=36056292)
   - Kawara-dera counted among four great temples of Asuka alongside Asuka-dera, Yakushi-ji, and Daikan-daiji
   - Founding absent from the Nihon Shoki, earning nickname 'mysterious great temple'
   - Palace at Kawara-miya burned in 655 and site converted to temple

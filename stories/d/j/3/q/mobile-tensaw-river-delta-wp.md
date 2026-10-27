@@ -32,7 +32,7 @@ The delta remains remarkably accessible despite its wildness. The Bartram Canoe 
 
 ## Flight Context
 
-Located at 30.75°N, 87.94°W, the Mobile-Tensaw Delta stretches approximately 45 miles north-south and averages 8 miles wide (up to 16 miles at its widest). From altitude, the delta is unmistakable - a vast green expanse of wetlands between Mobile to the west and Baldwin County to the east, fanning out into Mobile Bay. Interstate 65 and Interstate 10 cross different sections. The Causeway (Battleship Parkway) spans the southern portion. Nearest airports are Mobile Downtown Airport (BFM), approximately 5 nm southwest, and Mobile Regional Airport (MOB) about 12 nm west. Best viewed at 3,000-5,000 feet AGL to appreciate the full scale of the wetland system.
+Located at 30.75°N, 87.94°W, the Mobile-Tensaw Delta stretches approximately 45 miles north-south and averages 8 miles wide (up to 16 miles at its widest). From altitude, the delta is unmistakable - a vast green expanse of wetlands between Mobile to the west and Baldwin County to the east, fanning out into Mobile Bay. Interstate 65 and Interstate 10 cross different sections. The Causeway (Battleship Parkway) spans the southern portion. Nearest airports are Mobile International Airport (BFM, formerly Mobile Downtown), approximately 5 nm southwest, and Mobile Regional Airport (MOB) about 12 nm west. Best viewed at 3,000-5,000 feet AGL to appreciate the full scale of the wetland system.
 
 ## Sources
 

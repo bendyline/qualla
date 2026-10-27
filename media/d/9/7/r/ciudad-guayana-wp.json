@@ -3,29 +3,34 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/d/9/7/r/ciudad-guayana-wp/hero.jpg",
-        "filename": "Panorámica aérea de ciudad Guayana.jpg",
-        "caption": "A la izquierda el rio Caroní - al fondo a la derecha el rio Orinoco",
-        "alt": "A la izquierda el rio Caroní - al fondo a la derecha el rio Orinoco",
-        "width": 4592,
-        "height": 3056,
+        "path": "_m/d/9/7/r/ciudad-guayana-wp/iss022-e-24618-view-of-venezue.jpg",
+        "filename": "ISS022-E-24618 - View of Venezuela.jpg",
+        "caption": "View of Venezuela taken during ISS Expedition 22.",
+        "alt": "View of Venezuela taken during ISS Expedition 22.",
+        "width": 6048,
+        "height": 4147,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Heribert Dezeo",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_a%C3%A9rea_de_ciudad_Guayana.jpg",
-        "sourceType": "core",
+        "license": "Public domain",
+        "artist": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ISS022-E-24618_-_View_of_Venezuela.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "ciudad-guayana-wp",
         "sourceGeohash4": "d97r",
         "categories": [
-          "Aerial photographs of Caroní River",
-          "CC-BY-SA-3.0",
-          "Images from Wikiviajes por Venezuela 2014",
-          "June 2011 in Venezuela",
-          "Panoramics in Caroní River",
-          "Photographs taken on 2011-06-13",
-          "Self-published work",
-          "Views of Puerto Ordaz"
-        ]
+          "Caroní River",
+          "Ciudad Guayana",
+          "Files from NASA with known IDs",
+          "ISS Expedition 22 Crew Earth Observations (dump)",
+          "ISS photographs taken on 2010-01-12",
+          "Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
+          "Images with annotations",
+          "PD NASA",
+          "Satellite pictures of Orinoco River",
+          "Satellite pictures of Venezuela",
+          "Taken with Nikon D3"
+        ],
+        "mediumPath": "_m/d/9/7/r/ciudad-guayana-wp/iss022-e-24618-view-of-venezue-medium.webp",
+        "smallPath": "_m/d/9/7/r/ciudad-guayana-wp/iss022-e-24618-view-of-venezue-small.webp"
       },
       "images": [
         {
@@ -356,7 +361,9 @@
             "Parque Cachamay",
             "Self-published work",
             "Wikiviajes por Venezuela 2014"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ci/ud/ad/-g/ciudad-guayana/parque-cachamay-puerto-ordaz-1-medium.webp",
+          "smallPath": "_m/tpc/ci/ud/ad/-g/ciudad-guayana/parque-cachamay-puerto-ordaz-1-small.webp"
         },
         {
           "path": "_m/tpc/ci/ud/ad/-g/ciudad-guayana/represa-macagua.jpg",
@@ -379,7 +386,9 @@
             "May 2012 Venezuela photographs",
             "Photographs taken on 2012-05-10",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ci/ud/ad/-g/ciudad-guayana/represa-macagua-medium.webp",
+          "smallPath": "_m/tpc/ci/ud/ad/-g/ciudad-guayana/represa-macagua-small.webp"
         },
         {
           "path": "_m/tpc/ci/ud/ad/-g/ciudad-guayana/aliviadero-del-embalse-macagua.jpg",
@@ -409,7 +418,9 @@
             "Spillways in Venezuela",
             "Views of Bolívar (state)",
             "Views of Ciudad Guayana"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ci/ud/ad/-g/ciudad-guayana/aliviadero-del-embalse-macagua-medium.webp",
+          "smallPath": "_m/tpc/ci/ud/ad/-g/ciudad-guayana/aliviadero-del-embalse-macagua-small.webp"
         },
         {
           "path": "_m/tpc/ci/ud/ad/-g/ciudad-guayana/parquecachamay-puertoordaz-009.jpg",
@@ -436,7 +447,9 @@
             "Primates in trees",
             "Self-published work",
             "Wikiviajes por Venezuela 2014"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ci/ud/ad/-g/ciudad-guayana/parquecachamay-puertoordaz-009-medium.webp",
+          "smallPath": "_m/tpc/ci/ud/ad/-g/ciudad-guayana/parquecachamay-puertoordaz-009-small.webp"
         },
         {
           "path": "_m/tpc/ve/ne/zu/el/venezuela/merida.jpg",
@@ -462,7 +475,9 @@
             "Self-published work",
             "Taken with Nikon D50",
             "Views of Mérida (Venezuela)"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ve/ne/zu/el/venezuela/merida-medium.webp",
+          "smallPath": "_m/tpc/ve/ne/zu/el/venezuela/merida-small.webp"
         },
         {
           "path": "_m/tpc/ve/ne/zu/el/venezuela/gran-roque.jpg",
@@ -486,7 +501,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon Digital IXUS 330"
-          ]
+          ],
+          "smallPath": "_m/tpc/ve/ne/zu/el/venezuela/gran-roque-small.webp"
         },
         {
           "path": "_m/tpc/ve/ne/zu/el/venezuela/ciudad-bolivar-historical-zone.jpg",
@@ -510,7 +526,8 @@
             "License migration completed",
             "Self-published work",
             "Views of Ciudad Bolívar"
-          ]
+          ],
+          "smallPath": "_m/tpc/ve/ne/zu/el/venezuela/ciudad-bolivar-historical-zone-small.webp"
         },
         {
           "path": "_m/tpc/ve/ne/zu/el/venezuela/maracaibo-panoramica-avenida-c.jpg",
@@ -525,7 +542,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maracaibo_panoramica_avenida_Cecilio_Acosta_cuted.jpg",
           "sourceType": "poi",
           "sourceArticleId": "venezuela",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/ve/ne/zu/el/venezuela/maracaibo-panoramica-avenida-c-medium.webp",
+          "smallPath": "_m/tpc/ve/ne/zu/el/venezuela/maracaibo-panoramica-avenida-c-small.webp"
         },
         {
           "path": "_m/tpc/ve/ne/zu/el/venezuela/caracas-desde-el-avila.jpg",
@@ -540,7 +559,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caracas_desde_el_%C3%A1vila.jpg",
           "sourceType": "poi",
           "sourceArticleId": "venezuela",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/ve/ne/zu/el/venezuela/caracas-desde-el-avila-medium.webp",
+          "smallPath": "_m/tpc/ve/ne/zu/el/venezuela/caracas-desde-el-avila-small.webp"
         },
         {
           "path": "_m/tpc/ve/ne/zu/el/venezuela/delta-del-orinoco-110514-22.jpg",
@@ -555,7 +576,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delta_del_Orinoco_110514-22.JPG",
           "sourceType": "poi",
           "sourceArticleId": "venezuela",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/ve/ne/zu/el/venezuela/delta-del-orinoco-110514-22-medium.webp",
+          "smallPath": "_m/tpc/ve/ne/zu/el/venezuela/delta-del-orinoco-110514-22-small.webp"
         },
         {
           "path": "_m/tpc/ve/ne/zu/el/venezuela/cocotero-en-cayo-sombrero.jpg",
@@ -570,7 +593,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cocotero_en_Cayo_Sombrero.jpg",
           "sourceType": "poi",
           "sourceArticleId": "venezuela",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/ve/ne/zu/el/venezuela/cocotero-en-cayo-sombrero-medium.webp",
+          "smallPath": "_m/tpc/ve/ne/zu/el/venezuela/cocotero-en-cayo-sombrero-small.webp"
         },
         {
           "path": "_m/tpc/ve/ne/zu/el/venezuela/gran-sabana-1.jpg",
@@ -585,7 +610,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gran_Sabana_1.JPG",
           "sourceType": "poi",
           "sourceArticleId": "venezuela",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/ve/ne/zu/el/venezuela/gran-sabana-1-small.webp"
         },
         {
           "path": "_m/tpc/ve/ne/zu/el/venezuela/bajando-de-pico-el-aguila.jpg",
@@ -600,7 +626,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bajando_de_Pico_El_%C3%81guila.jpg",
           "sourceType": "poi",
           "sourceArticleId": "venezuela",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/ve/ne/zu/el/venezuela/bajando-de-pico-el-aguila-medium.webp",
+          "smallPath": "_m/tpc/ve/ne/zu/el/venezuela/bajando-de-pico-el-aguila-small.webp"
         },
         {
           "path": "_m/tpc/ve/ne/zu/el/venezuela/av-bolivar.jpg",
@@ -615,7 +643,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Av._Bol%C3%ADvar.jpg",
           "sourceType": "poi",
           "sourceArticleId": "venezuela",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/ve/ne/zu/el/venezuela/av-bolivar-medium.webp",
+          "smallPath": "_m/tpc/ve/ne/zu/el/venezuela/av-bolivar-small.webp"
         }
       ],
       "narration": [

@@ -32,7 +32,7 @@ The park was listed on the Alabama Register of Landmarks and Heritage on October
 
 ## Flight Context
 
-Located at 30.682°N, 88.015°W on the western shore of Mobile Bay. The 680-foot battleship is clearly visible from altitude, oriented roughly north-south along the waterfront. Best viewed from 2,000-3,000 feet AGL approaching from the east over Mobile Bay. The aircraft collection is visible just south of the battleship berth. Nearby airports: KMOB (Mobile Regional Airport, 10 nm west), KBFM (Mobile Downtown Airport, 4 nm west), KNBJ (Naval Air Station, 6 nm south). Mobile Bay itself is a major visual landmark -- follow it north from the Gulf of Mexico to find the park on the western shore.
+Located at 30.682°N, 88.015°W on the western shore of Mobile Bay. The 680-foot battleship is clearly visible from altitude, oriented roughly north-south along the waterfront. Best viewed from 2,000-3,000 feet AGL approaching from the east over Mobile Bay. The aircraft collection is visible just south of the battleship berth. Nearby airports: KMOB (Mobile Regional Airport, 10 nm west), KBFM (Mobile International Airport, formerly Mobile Downtown, 4 nm west), KNBJ (Naval Air Station, 6 nm south). Mobile Bay itself is a major visual landmark -- follow it north from the Gulf of Mexico to find the park on the western shore.
 
 ## Sources
 

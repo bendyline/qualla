@@ -38,7 +38,7 @@ Susan Island lies in the Clarence River at Grafton, near 29.68 degrees south, 15
   - Flying foxes swell past 100,000 and in exceptional years 300,000
   - Grey-headed flying foxes use it year-round as maternity camp; little red flying foxes also present
   - NPWS rainforest regeneration programs commenced in the late 1980s
-- [Susan Island – Aboriginal Place and Women's Site (various NSW sources)](https://en.wikipedia.org/wiki/Susan_Island_Nature_Reserve)
+- [Susan Island – Aboriginal Place and Women's Site (various NSW sources)](https://en.wikipedia.org/?curid=27584134)
   - Susan Island is a women's site of cultural significance to Gumbaynggirr people
   - Officially acknowledged as an Aboriginal Place under NSW law
   - Traditional uses included fishing, food/medicine gathering, and fibre collection for bags and nets

@@ -33,7 +33,7 @@ Located at 67.50N, 64.06E, approximately 160 km above the Arctic Circle in the K
 ## Sources
 
 - [Vorkutlag - Wikipedia](https://en.wikipedia.org/?curid=28205382)
-- [Vorkutlag - Wikipedia](https://en.wikipedia.org/wiki/Vorkutlag)
+- [Vorkutlag - Wikipedia](https://en.wikipedia.org/?curid=28205382)
   - Vorkutlag established 10 May 1938 by splitting from Ukhtpechlag — confirmed
   - Forced labor in Vorkuta coal basin since 1932 — confirmed
   - Peak population 73,000 in 1951 — confirmed

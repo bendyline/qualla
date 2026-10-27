@@ -33,7 +33,7 @@ The Plaza Theatre sits in downtown El Paso at approximately 31.76N, 106.49W, in 
 ## Sources
 
 - [Plaza Theatre (El Paso) - Wikipedia](https://en.wikipedia.org/?curid=8856975)
-- [Wikipedia - Plaza Theatre (El Paso)](https://en.wikipedia.org/wiki/Plaza_Theatre_(El_Paso))
+- [Wikipedia - Plaza Theatre (El Paso)](https://en.wikipedia.org/?curid=8856975)
   - Opened September 12 1930 confirmed
   - Architect W. Scott Dunne designed 30+ theaters confirmed
   - Original seating capacity 2410 confirmed (1510 main + 508 mezzanine + 392 balcony)

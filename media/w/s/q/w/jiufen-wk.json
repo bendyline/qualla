@@ -3,35 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/s/q/w/jiufen-wk/hero.jpg",
-        "filename": "View from Jiufen (九份), Taiwan.jpg",
-        "caption": "A view from the town of Jiufen ( 九份), near Taipei, Taiwan",
-        "alt": "A view from the town of Jiufen ( 九份), near Taipei, Taiwan",
-        "width": 3998,
-        "height": 2676,
+        "path": "_m/w/s/q/w/jiufen-wk/jiufen-umgebung-von-jiufen-2.jpg",
+        "filename": "Jiufen Umgebung von Jiufen 2.jpg",
+        "caption": "Environment of Jioufen (New Taipei), Taiwan",
+        "alt": "Environment of Jioufen (New Taipei), Taiwan",
+        "width": 4592,
+        "height": 2835,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "M Louis [2]",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Jiufen_(%E4%B9%9D%E4%BB%BD),_Taiwan.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Zairon",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jiufen_Umgebung_von_Jiufen_2.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "jiufen-wk",
         "sourceGeohash4": "wsqw",
-        "categories": [
-          "CC-BY-SA-2.0",
-          "Flickr images missing SDC Flickr photo ID",
-          "Flickr images missing SDC creator",
-          "Flickr images missing SDC published in",
-          "Flickr images missing SDC source of file",
-          "Flickr images reviewed by FlickreviewR",
-          "Photographs by Takato Marui",
-          "Roofs of the Jiufen Daitian Temple",
-          "Roofs of the Jiufen Zhaoling Temple",
-          "Taken with Nikon Coolpix S8100"
-        ]
+        "mediumPath": "_m/w/s/q/w/jiufen-wk/jiufen-umgebung-von-jiufen-2-medium.webp",
+        "smallPath": "_m/w/s/q/w/jiufen-wk/jiufen-umgebung-von-jiufen-2-small.webp"
       },
       "images": [
         {
-          "path": "_m/w/s/q/w/jiufen-wk/jioufen-cropped.jpg",
+          "path": "_m/w/s/q/w/jiufen-wp/jioufen-cropped.jpg",
           "filename": "Jioufen cropped.jpg",
           "caption": "File:Jioufen.jpg cropped to remove foreground buildings.",
           "alt": "File:Jioufen.jpg cropped to remove foreground buildings.",
@@ -48,10 +38,10 @@
             "Buildings in Jioufen",
             "CC-BY-SA-3.0"
           ],
-          "smallPath": "_m/w/s/q/w/jiufen-wk/jioufen-cropped-small.webp"
+          "smallPath": "_m/w/s/q/w/jiufen-wp/jioufen-cropped-small.webp"
         },
         {
-          "path": "_m/w/s/q/w/jiufen-wk/dsc-0358.jpg",
+          "path": "_m/w/s/q/w/jiufen-wp/dsc-0358.jpg",
           "filename": "茶壺山望基隆山DSC 0358.jpg",
           "caption": "​茶壺山望基隆山",
           "alt": "​茶壺山望基隆山",
@@ -74,8 +64,8 @@
             "Photographs by Taiwankengo",
             "Self-published work"
           ],
-          "mediumPath": "_m/w/s/q/w/jiufen-wk/dsc-0358-medium.webp",
-          "smallPath": "_m/w/s/q/w/jiufen-wk/dsc-0358-small.webp"
+          "mediumPath": "_m/w/s/q/w/jiufen-wp/dsc-0358-medium.webp",
+          "smallPath": "_m/w/s/q/w/jiufen-wp/dsc-0358-small.webp"
         },
         {
           "path": "_m/w/s/q/w/jiufen-wk/dusk-in-taiwan-sep-17-2005.jpg",
@@ -273,7 +263,7 @@
           "smallPath": "_m/w/s/q/w/jiufen-wk/chiufen003-small.webp"
         },
         {
-          "path": "_m/w/s/q/w/jiufen-wk/1905.jpg",
+          "path": "_m/w/s/q/w/jinguashi-wk/1905.jpg",
           "filename": "1905水湳洞十萬分之一.jpg",
           "caption": "​中研院1905水湳洞十萬分之一",
           "alt": "​中研院1905水湳洞十萬分之一",
@@ -285,7 +275,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1905%E6%B0%B4%E6%B9%B3%E6%B4%9E%E5%8D%81%E8%90%AC%E5%88%86%E4%B9%8B%E4%B8%80.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "jinguashi-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "smallPath": "_m/w/s/q/w/jinguashi-wk/1905-small.webp"
         },
         {
           "path": "_m/w/s/q/w/jiufen-wk/jiufen-umgebung-von-jiufen-2.jpg",
@@ -497,7 +488,9 @@
             "Self-published work",
             "Taken with Samsung i5",
             "Views from structures in New Taipei"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/w/jiufen-wp/jioufen-medium.webp",
+          "smallPath": "_m/w/s/q/w/jiufen-wp/jioufen-small.webp"
         },
         {
           "path": "_m/w/s/q/w/jiufen-wp/1-jiufen-panorama-2015.jpg",
@@ -521,7 +514,9 @@
             "Self-published work",
             "Taiwan photographs taken on 2014-12-15",
             "Views from structures in New Taipei"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/w/jiufen-wp/1-jiufen-panorama-2015-medium.webp",
+          "smallPath": "_m/w/s/q/w/jiufen-wp/1-jiufen-panorama-2015-small.webp"
         },
         {
           "path": "_m/w/s/q/w/jiufen-wp/night-in-jioufen-view-from-mt-.jpg",
@@ -547,7 +542,9 @@
             "Self-published work",
             "Taiwan photographs taken on 2013-07-11",
             "Views from Mt. Keelung"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/w/jiufen-wp/night-in-jioufen-view-from-mt--medium.webp",
+          "smallPath": "_m/w/s/q/w/jiufen-wp/night-in-jioufen-view-from-mt--small.webp"
         },
         {
           "path": "_m/w/s/q/w/jiufen-wp/jiufen-at-night-lantern-glow.jpg",
@@ -573,7 +570,9 @@
             "Red",
             "Self-published work",
             "Taken with iPhone 13 Mini"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/w/jiufen-wp/jiufen-at-night-lantern-glow-medium.webp",
+          "smallPath": "_m/w/s/q/w/jiufen-wp/jiufen-at-night-lantern-glow-small.webp"
         },
         {
           "path": "_m/w/s/q/w/jiufen-wp/panoramic-painting-of-gold-min.jpg",
@@ -593,7 +592,9 @@
             "Buildings in Taiwan",
             "CC-BY-SA-4.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/w/jiufen-wp/panoramic-painting-of-gold-min-medium.webp",
+          "smallPath": "_m/w/s/q/w/jiufen-wp/panoramic-painting-of-gold-min-small.webp"
         },
         {
           "path": "_m/w/s/q/w/jinguashi-wk/gallery-1.jpg",
@@ -618,7 +619,9 @@
             "Self-published work",
             "Taiwan photographs taken on 2009-07-30",
             "Taken with Sanyo Xacti VPC-CA8"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/w/jinguashi-wk/gallery-1-medium.webp",
+          "smallPath": "_m/w/s/q/w/jinguashi-wk/gallery-1-small.webp"
         },
         {
           "path": "_m/w/s/q/w/jinguashi-wk/gallery-2.jpg",
@@ -642,7 +645,8 @@
             "Self-published work",
             "Taiwan photographs taken on 2011-10-28",
             "Taken with Panasonic Lumix DMC-GF1"
-          ]
+          ],
+          "smallPath": "_m/w/s/q/w/jinguashi-wk/gallery-2-small.webp"
         },
         {
           "path": "_m/w/s/q/w/jinguashi-wk/photo-monument-taiwan.jpg",
@@ -657,7 +661,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E7%93%9C%E7%9F%B3_%E7%A5%9E%E7%A4%BE.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jinguashi-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/jinguashi-wk/photo-monument-taiwan-medium.webp",
+          "smallPath": "_m/w/s/q/w/jinguashi-wk/photo-monument-taiwan-small.webp"
         },
         {
           "path": "_m/w/s/q/w/jinguashi-wk/hero.jpg",
@@ -672,7 +678,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jinguashi_wikivoyage_pagebanner.jpeg",
           "sourceType": "poi",
           "sourceArticleId": "jinguashi-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/jinguashi-wk/hero-medium.webp",
+          "smallPath": "_m/w/s/q/w/jinguashi-wk/hero-small.webp"
         },
         {
           "path": "_m/w/s/q/w/ruifang-wk/tra-sandiaoling-station-200707.jpg",
@@ -698,7 +706,8 @@
             "Rock sheds in Taiwan",
             "Self-published work",
             "Taiwan photographs taken on 2007-07-27"
-          ]
+          ],
+          "smallPath": "_m/w/s/q/w/ruifang-wk/tra-sandiaoling-station-200707-small.webp"
         },
         {
           "path": "_m/w/s/q/w/ruifang-wk/tra-rueifang-station-20070727.jpg",
@@ -724,7 +733,8 @@
             "TRA Ruifang Station",
             "Taiwan photographs taken on 2007-07-27",
             "Taken with Nikon D200"
-          ]
+          ],
+          "smallPath": "_m/w/s/q/w/ruifang-wk/tra-rueifang-station-20070727-small.webp"
         },
         {
           "path": "_m/w/s/q/w/ruifang-wk/tra-sihjiaoting-station.jpg",
@@ -747,7 +757,8 @@
             "Self-published work",
             "TRA Sijiaoting Station",
             "Taken with Nikon D700"
-          ]
+          ],
+          "smallPath": "_m/w/s/q/w/ruifang-wk/tra-sihjiaoting-station-small.webp"
         },
         {
           "path": "_m/w/s/q/w/ruifang-wk/gold-museum-at-jiufen-taiwan-0.jpg",
@@ -771,7 +782,9 @@
             "People with parasols in Taiwan",
             "Taiwan photographs taken on 2008-07-19",
             "Taken with Nikon D50"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/w/ruifang-wk/gold-museum-at-jiufen-taiwan-0-medium.webp",
+          "smallPath": "_m/w/s/q/w/ruifang-wk/gold-museum-at-jiufen-taiwan-0-small.webp"
         },
         {
           "path": "_m/w/s/q/w/ruifang-wk/houtong-cat-bridge.jpg",
@@ -798,7 +811,9 @@
             "Platforms at Houtong Station",
             "Self-published work",
             "Taiwan photographs taken on 2013-06-03"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/w/ruifang-wk/houtong-cat-bridge-medium.webp",
+          "smallPath": "_m/w/s/q/w/ruifang-wk/houtong-cat-bridge-small.webp"
         },
         {
           "path": "_m/w/s/q/w/ruifang-wk/the-thirteen-floor-ruins.jpg",
@@ -813,7 +828,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Thirteen_Floor_Ruins.JPG",
           "sourceType": "poi",
           "sourceArticleId": "ruifang-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/ruifang-wk/the-thirteen-floor-ruins-medium.webp",
+          "smallPath": "_m/w/s/q/w/ruifang-wk/the-thirteen-floor-ruins-small.webp"
         },
         {
           "path": "_m/w/s/q/w/ruifang-wk/image-18.jpg",
@@ -828,7 +845,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E6%BE%B3%E6%BC%81%E6%B8%AF.JPG",
           "sourceType": "poi",
           "sourceArticleId": "ruifang-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/ruifang-wk/image-18-medium.webp",
+          "smallPath": "_m/w/s/q/w/ruifang-wk/image-18-small.webp"
         },
         {
           "path": "_m/w/s/q/w/ruifang-wk/tra-houtong-station-in-march-2.jpg",
@@ -843,7 +862,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:TRA_Houtong_Station_in_March_2014.JPG",
           "sourceType": "poi",
           "sourceArticleId": "ruifang-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/ruifang-wk/tra-houtong-station-in-march-2-medium.webp",
+          "smallPath": "_m/w/s/q/w/ruifang-wk/tra-houtong-station-in-march-2-small.webp"
         },
         {
           "path": "_m/w/s/q/w/ruifang-wk/fuji5003.jpg",
@@ -858,7 +879,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%BC%BB%E9%A0%AD%E8%A7%92%E7%87%88%E5%8F%B0FUJI5003.JPG",
           "sourceType": "poi",
           "sourceArticleId": "ruifang-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/ruifang-wk/fuji5003-medium.webp",
+          "smallPath": "_m/w/s/q/w/ruifang-wk/fuji5003-small.webp"
         },
         {
           "path": "_m/w/s/q/w/ruifang-wk/ruifang-lungyen-temple-2016033.jpg",
@@ -873,7 +896,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruifang_Lungyen_Temple_20160330.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ruifang-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/ruifang-wk/ruifang-lungyen-temple-2016033-medium.webp",
+          "smallPath": "_m/w/s/q/w/ruifang-wk/ruifang-lungyen-temple-2016033-small.webp"
         },
         {
           "path": "_m/w/s/q/w/ruifang-wk/jiufen-golden-waterfall-08.jpg",
@@ -888,7 +913,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jiufen_Golden_Waterfall_08.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ruifang-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/ruifang-wk/jiufen-golden-waterfall-08-medium.webp",
+          "smallPath": "_m/w/s/q/w/ruifang-wk/jiufen-golden-waterfall-08-small.webp"
         },
         {
           "path": "_m/w/s/q/w/ruifang-wk/ruifang-wikivoyage-banner.jpg",
@@ -903,7 +930,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruifang_wikivoyage_banner.jpeg",
           "sourceType": "poi",
           "sourceArticleId": "ruifang-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/ruifang-wk/ruifang-wikivoyage-banner-medium.webp",
+          "smallPath": "_m/w/s/q/w/ruifang-wk/ruifang-wikivoyage-banner-small.webp"
         },
         {
           "path": "_m/w/s/q/w/ruifang-wk/west-exit-tra-ruifang-station-.jpg",
@@ -918,7 +947,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:West_Exit,_TRA_Ruifang_Station_20200820.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ruifang-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/ruifang-wk/west-exit-tra-ruifang-station--medium.webp",
+          "smallPath": "_m/w/s/q/w/ruifang-wk/west-exit-tra-ruifang-station--small.webp"
         },
         {
           "path": "_m/w/s/q/w/keelung-wp/ershawan-battery-0001.jpg",
@@ -944,7 +975,9 @@
             "Self-published work",
             "Stone gates",
             "Taken with Nikon Coolpix 5600"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/w/keelung-wp/ershawan-battery-0001-medium.webp",
+          "smallPath": "_m/w/s/q/w/keelung-wp/ershawan-battery-0001-small.webp"
         },
         {
           "path": "_m/w/s/q/w/keelung-wp/tra-baifu-station-20080803.jpg",
@@ -974,7 +1007,8 @@
             "Taken with Nikon D700",
             "Traffic lights at green state in Taiwan",
             "Train station stairs in Keelung"
-          ]
+          ],
+          "smallPath": "_m/w/s/q/w/keelung-wp/tra-baifu-station-20080803-small.webp"
         },
         {
           "path": "_m/w/s/q/w/keelung-wp/tra-nuannuan-station.jpg",
@@ -1000,7 +1034,8 @@
             "Stairs in Keelung",
             "TRA Nuannuan Station",
             "Taken with Nikon D700"
-          ]
+          ],
+          "smallPath": "_m/w/s/q/w/keelung-wp/tra-nuannuan-station-small.webp"
         },
         {
           "path": "_m/w/s/q/w/keelung-wp/central-keelung-panorama-0002.jpg",
@@ -1028,7 +1063,8 @@
             "Self-published work",
             "Taken with Nikon Coolpix 5600",
             "Views from mountains in Keelung"
-          ]
+          ],
+          "smallPath": "_m/w/s/q/w/keelung-wp/central-keelung-panorama-0002-small.webp"
         },
         {
           "path": "_m/w/s/q/w/keelung-wp/03.jpg",
@@ -1051,7 +1087,8 @@
             "Gong Zie Liao Fort",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/s/q/w/keelung-wp/03-small.webp"
         },
         {
           "path": "_m/w/s/q/w/keelung-wp/image-6.jpg",
@@ -1066,7 +1103,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%85%AB%E5%A0%B5%E8%BB%8A%E7%AB%99%E7%AB%99%E9%AB%94.JPG",
           "sourceType": "poi",
           "sourceArticleId": "keelung-wp",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/keelung-wp/image-6-medium.webp",
+          "smallPath": "_m/w/s/q/w/keelung-wp/image-6-small.webp"
         },
         {
           "path": "_m/w/s/q/w/keelung-wp/dawulun-fort-img-1867-33964672.jpg",
@@ -1081,7 +1120,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dawulun_Fort_IMG_1867_(3396467292).jpg",
           "sourceType": "poi",
           "sourceArticleId": "keelung-wp",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "smallPath": "_m/w/s/q/w/keelung-wp/dawulun-fort-img-1867-33964672-small.webp"
         },
         {
           "path": "_m/w/s/q/x/baimiweng-fort-wp/hero.jpg",
@@ -1096,7 +1136,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baimiwong_fort_(%E7%99%BD%E7%B1%B3%E7%94%95%E7%A0%B2%E5%8F%B0)_(11313783914).jpg",
           "sourceType": "poi",
           "sourceArticleId": "baimiweng-fort-wp",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/x/baimiweng-fort-wp/hero-medium.webp",
+          "smallPath": "_m/w/s/q/x/baimiweng-fort-wp/hero-small.webp"
         },
         {
           "path": "_m/w/s/q/w/keelung-wp/tra-qidu-station-west-side-and.jpg",
@@ -1111,7 +1153,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:TRA_Qidu_Station_west_side_and_Toyota_Wish_taxi_20161126.jpg",
           "sourceType": "poi",
           "sourceArticleId": "keelung-wp",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/keelung-wp/tra-qidu-station-west-side-and-medium.webp",
+          "smallPath": "_m/w/s/q/w/keelung-wp/tra-qidu-station-west-side-and-small.webp"
         },
         {
           "path": "_m/w/s/q/w/keelung-wp/tra-keelung-station-south-2019.jpg",
@@ -1126,7 +1170,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:TRA_Keelung_Station_South_20190406.jpg",
           "sourceType": "poi",
           "sourceArticleId": "keelung-wp",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/keelung-wp/tra-keelung-station-south-2019-medium.webp",
+          "smallPath": "_m/w/s/q/w/keelung-wp/tra-keelung-station-south-2019-small.webp"
         },
         {
           "path": "_m/w/s/q/w/pingxi-wk/tra-jingtong-station-new-tapei.jpg",
@@ -1153,7 +1199,9 @@
             "TRA Jingtong Station",
             "Taiwan photographs taken on 2010-12-23",
             "Taken with Nikon D60"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/w/pingxi-wk/tra-jingtong-station-new-tapei-medium.webp",
+          "smallPath": "_m/w/s/q/w/pingxi-wk/tra-jingtong-station-new-tapei-small.webp"
         },
         {
           "path": "_m/w/s/q/w/pingxi-wk/new-pinghsi-coal-tunnel.jpg",
@@ -1180,7 +1228,9 @@
             "Taiwan photographs taken on 2010-01-02",
             "Taken with Olympus FE-190 / X-750",
             "XPX Taiwan Coal Mine Museum"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/w/pingxi-wk/new-pinghsi-coal-tunnel-medium.webp",
+          "smallPath": "_m/w/s/q/w/pingxi-wk/new-pinghsi-coal-tunnel-small.webp"
         },
         {
           "path": "_m/w/s/q/w/pingxi-wk/tra-wanggu-station-platform-20.jpg",
@@ -1207,7 +1257,9 @@
             "TRA Pingxi Line tracks",
             "Taiwan photographs taken on 2011-08-06",
             "Taken with iPhone 3GS"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/w/pingxi-wk/tra-wanggu-station-platform-20-medium.webp",
+          "smallPath": "_m/w/s/q/w/pingxi-wk/tra-wanggu-station-platform-20-small.webp"
         },
         {
           "path": "_m/w/s/q/w/pingxi-wk/lingjiao-waterfall.jpg",
@@ -1230,7 +1282,9 @@
             "License migration redundant",
             "Lingjiao Waterfall",
             "March 2014 in Taiwan"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/w/pingxi-wk/lingjiao-waterfall-medium.webp",
+          "smallPath": "_m/w/s/q/w/pingxi-wk/lingjiao-waterfall-small.webp"
         },
         {
           "path": "_m/w/s/q/w/pingxi-wk/platform-1-tra-shihfen-station.jpg",
@@ -1245,7 +1299,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Platform_1,_TRA_Shihfen_Station_20130301.jpg",
           "sourceType": "poi",
           "sourceArticleId": "pingxi-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/pingxi-wk/platform-1-tra-shihfen-station-medium.webp",
+          "smallPath": "_m/w/s/q/w/pingxi-wk/platform-1-tra-shihfen-station-small.webp"
         },
         {
           "path": "_m/w/s/q/w/pingxi-wk/image-38.jpg",
@@ -1260,7 +1316,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%B6%BA%E8%85%B3%E8%BB%8A%E7%AB%99_%E5%B0%8F%E8%8A%B1%E9%A1%A7%E7%AB%99.jpg",
           "sourceType": "poi",
           "sourceArticleId": "pingxi-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/pingxi-wk/image-38-medium.webp",
+          "smallPath": "_m/w/s/q/w/pingxi-wk/image-38-small.webp"
         },
         {
           "path": "_m/w/s/q/w/pingxi-wk/pingxi-wikivoyage-banner.jpg",
@@ -1275,7 +1333,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingxi_wikivoyage_banner.jpeg",
           "sourceType": "poi",
           "sourceArticleId": "pingxi-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/pingxi-wk/pingxi-wikivoyage-banner-medium.webp",
+          "smallPath": "_m/w/s/q/w/pingxi-wk/pingxi-wikivoyage-banner-small.webp"
         },
         {
           "path": "_m/w/s/q/w/pingxi-wk/jing-an-road-side-tra-pingxi-s.jpg",
@@ -1290,7 +1350,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jing%27an_Road_side,_TRA_Pingxi_Station_20190914.jpg",
           "sourceType": "poi",
           "sourceArticleId": "pingxi-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/pingxi-wk/jing-an-road-side-tra-pingxi-s-medium.webp",
+          "smallPath": "_m/w/s/q/w/pingxi-wk/jing-an-road-side-tra-pingxi-s-small.webp"
         },
         {
           "path": "_m/w/s/q/w/pingxi-wk/jingtong-coal-mining-cultural-.jpg",
@@ -1305,7 +1367,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jingtong_Coal_Mining_Cultural_House_20200626.jpg",
           "sourceType": "poi",
           "sourceArticleId": "pingxi-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/pingxi-wk/jingtong-coal-mining-cultural--medium.webp",
+          "smallPath": "_m/w/s/q/w/pingxi-wk/jingtong-coal-mining-cultural--small.webp"
         },
         {
           "path": "_m/w/s/q/w/pingxi-wk/shifen-waterfall-2025.jpg",
@@ -1320,7 +1384,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shifen_Waterfall_2025.jpg",
           "sourceType": "poi",
           "sourceArticleId": "pingxi-wk",
-          "sourceGeohash4": "wsqw"
+          "sourceGeohash4": "wsqw",
+          "mediumPath": "_m/w/s/q/w/pingxi-wk/shifen-waterfall-2025-medium.webp",
+          "smallPath": "_m/w/s/q/w/pingxi-wk/shifen-waterfall-2025-small.webp"
         },
         {
           "path": "_m/w/s/q/q/new-taipei-city-wp/cks-airport-oliv.jpg",
@@ -1346,7 +1412,9 @@
             "Taiwan photographs taken on 2003-05-23",
             "Taken with Nikon Coolpix 3100",
             "Visitors in Taiwan Taoyuan International Airport Terminal 1"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/q/new-taipei-city-wp/cks-airport-oliv-medium.webp",
+          "smallPath": "_m/w/s/q/q/new-taipei-city-wp/cks-airport-oliv-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-wp/eslite-xinyi-store-20061125-ni.jpg",
@@ -1371,7 +1439,9 @@
             "Photographs taken on 2006-11-25",
             "Self-published work",
             "Taken with Nikon Coolpix P3"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/q/taipei-wp/eslite-xinyi-store-20061125-ni-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-wp/eslite-xinyi-store-20061125-ni-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-wp/national-taiwan-university-lib.jpg",
@@ -1397,7 +1467,8 @@
             "Self-published work",
             "Taiwan photographs taken on 2006-08-02",
             "Taken with Konica Minolta Dynax 5D"
-          ]
+          ],
+          "smallPath": "_m/w/s/q/q/taipei-wp/national-taiwan-university-lib-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-wp/chihsingshan-tatun-volcanoes.jpg",
@@ -1412,7 +1483,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chihsingshan,_Tatun_volcanoes.jpg",
           "sourceType": "poi",
           "sourceArticleId": "taipei-wp",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "smallPath": "_m/w/s/q/q/taipei-wp/chihsingshan-tatun-volcanoes-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-wp/miramar-entertainment-park-in-.jpg",
@@ -1427,7 +1499,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miramar_Entertainment_Park_in_the_evening.jpg",
           "sourceType": "poi",
           "sourceArticleId": "taipei-wp",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "smallPath": "_m/w/s/q/q/taipei-wp/miramar-entertainment-park-in--small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-wp/tra-taipei-station-taipei-stat.jpg",
@@ -1442,7 +1515,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:TRA_Taipei_Station_%26_Taipei_Station_Underground_Mall_20041227.jpg",
           "sourceType": "poi",
           "sourceArticleId": "taipei-wp",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "smallPath": "_m/w/s/q/q/taipei-wp/tra-taipei-station-taipei-stat-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-wp/taipei-bus-197-fu-20110320.jpg",
@@ -1457,7 +1531,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taipei_Bus_197-FU_20110320.jpg",
           "sourceType": "poi",
           "sourceArticleId": "taipei-wp",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "smallPath": "_m/w/s/q/q/taipei-wp/taipei-bus-197-fu-20110320-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-wp/2013-taipei-film-festival.jpg",
@@ -1472,7 +1547,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2013_Taipei_Film_Festival.JPG",
           "sourceType": "poi",
           "sourceArticleId": "taipei-wp",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "smallPath": "_m/w/s/q/q/taipei-wp/2013-taipei-film-festival-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-wp/ntu-hospital-west-site-2005061.jpg",
@@ -1487,7 +1563,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:NTU_Hospital_West_Site_20050618.jpg",
           "sourceType": "poi",
           "sourceArticleId": "taipei-wp",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/taipei-wp/ntu-hospital-west-site-2005061-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-wp/ntu-hospital-west-site-2005061-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-wp/roc-moi-national-immigration-a.jpg",
@@ -1502,7 +1580,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:ROC-MOI_National_Immigration_Agency_Building_20221120.jpg",
           "sourceType": "poi",
           "sourceArticleId": "taipei-wp",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/taipei-wp/roc-moi-national-immigration-a-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-wp/roc-moi-national-immigration-a-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-old-taipei-wk/dalongtontemple1.jpg",
@@ -1526,7 +1606,9 @@
             "Media missing infobox template",
             "Self-published work",
             "Taipei Bao-an Temple"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/q/taipei-old-taipei-wk/dalongtontemple1-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-old-taipei-wk/dalongtontemple1-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-old-taipei-wk/fa-chu-kung-temple-20060116.jpg",
@@ -1553,7 +1635,9 @@
             "Taiwan photographs taken on 2006-01-16",
             "Taken with 5MP-9X9",
             "Temple gates in Taipei"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/q/taipei-old-taipei-wk/fa-chu-kung-temple-20060116-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-old-taipei-wk/fa-chu-kung-temple-20060116-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-old-taipei-wk/image-3.jpg",
@@ -1582,7 +1666,9 @@
             "Taiwan photographs taken on 2013-01-24",
             "Taken with Canon EOS 5D Mark II",
             "Uploaded via Campaign:wlm-tw"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/q/taipei-old-taipei-wk/image-3-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-old-taipei-wk/image-3-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-old-taipei-wk/taipei-taiwan-north-gate-01.jpg",
@@ -1612,7 +1698,9 @@
             "Quality images of buildings in Taiwan",
             "Self-published work",
             "Taken with Canon EOS 5D Mark III"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/q/taipei-old-taipei-wk/taipei-taiwan-north-gate-01-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-old-taipei-wk/taipei-taiwan-north-gate-01-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-old-taipei-wk/ama-museum-20160723.jpg",
@@ -1630,7 +1718,9 @@
           "sourceGeohash4": "wsqq",
           "categories": [
             "Ama Museum"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/q/taipei-old-taipei-wk/ama-museum-20160723-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-old-taipei-wk/ama-museum-20160723-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-old-taipei-wk/huaxi-street-tourist-night-mar.jpg",
@@ -1645,7 +1735,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_paifang_20180804.jpg",
           "sourceType": "poi",
           "sourceArticleId": "taipei-old-taipei-wk",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/taipei-old-taipei-wk/huaxi-street-tourist-night-mar-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-old-taipei-wk/huaxi-street-tourist-night-mar-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-old-taipei-wk/image-7.jpg",
@@ -1660,7 +1752,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8C%97%E5%AD%94%E5%BB%9F.jpg",
           "sourceType": "poi",
           "sourceArticleId": "taipei-old-taipei-wk",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/taipei-old-taipei-wk/image-7-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-old-taipei-wk/image-7-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-old-taipei-wk/ximending-banner.jpg",
@@ -1675,7 +1769,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ximending_banner.jpg",
           "sourceType": "poi",
           "sourceArticleId": "taipei-old-taipei-wk",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/taipei-old-taipei-wk/ximending-banner-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-old-taipei-wk/ximending-banner-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-old-taipei-wk/image-9.jpg",
@@ -1690,7 +1786,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E8%88%8A%E5%9D%80%EF%BC%88%E5%8E%9F%E5%BB%BA%E6%88%90%E5%B0%8F%E5%AD%B8%E6%A0%A1%EF%BC%89.jpg",
           "sourceType": "poi",
           "sourceArticleId": "taipei-old-taipei-wk",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/taipei-old-taipei-wk/image-9-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-old-taipei-wk/image-9-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-old-taipei-wk/image-10.jpg",
@@ -1705,7 +1803,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%BE%B7%E6%98%9F%E5%A0%82%E9%81%A0%E6%99%AF.jpg",
           "sourceType": "poi",
           "sourceArticleId": "taipei-old-taipei-wk",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/taipei-old-taipei-wk/image-10-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-old-taipei-wk/image-10-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-old-taipei-wk/4.jpg",
@@ -1720,7 +1820,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%AF%A7%E5%A4%8F%E5%A4%9C%E5%B8%82_4.jpg",
           "sourceType": "poi",
           "sourceArticleId": "taipei-old-taipei-wk",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/taipei-old-taipei-wk/4-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-old-taipei-wk/4-small.webp"
         },
         {
           "path": "_m/w/s/q/q/taipei-old-taipei-wk/bangkah-taipei-red-house-theat.jpg",
@@ -1735,7 +1837,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangkah_Taipei_-_Red_House_Theater_-_facade_(2025)_-_img_07.jpg",
           "sourceType": "poi",
           "sourceArticleId": "taipei-old-taipei-wk",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/taipei-old-taipei-wk/bangkah-taipei-red-house-theat-medium.webp",
+          "smallPath": "_m/w/s/q/q/taipei-old-taipei-wk/bangkah-taipei-red-house-theat-small.webp"
         },
         {
           "path": "_m/w/s/q/q/new-taipei-city-wp/hohaiyan-2006-smaller-band-she.jpg",
@@ -1768,7 +1872,8 @@
             "Self-published work",
             "Taiwan photographs taken on 2006-07-22",
             "Taken with Nikon Coolpix 2200"
-          ]
+          ],
+          "smallPath": "_m/w/s/q/q/new-taipei-city-wp/hohaiyan-2006-smaller-band-she-small.webp"
         },
         {
           "path": "_m/w/s/q/q/new-taipei-city-wp/agei.jpg",
@@ -1787,7 +1892,8 @@
           "categories": [
             "A-gei",
             "CC-BY-SA-2.0"
-          ]
+          ],
+          "smallPath": "_m/w/s/q/q/new-taipei-city-wp/agei-small.webp"
         },
         {
           "path": "_m/w/s/q/q/new-taipei-city-wp/wulai-vigor-village.jpg",
@@ -1814,7 +1920,9 @@
             "Self-published work",
             "Taken with Sony DSC-HX1",
             "Views from the Wulai Aerial Tramway"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/q/new-taipei-city-wp/wulai-vigor-village-medium.webp",
+          "smallPath": "_m/w/s/q/q/new-taipei-city-wp/wulai-vigor-village-small.webp"
         },
         {
           "path": "_m/w/s/q/q/new-taipei-city-wp/wuliaojian-5.jpg",
@@ -1829,7 +1937,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wuliaojian_5.jpg",
           "sourceType": "poi",
           "sourceArticleId": "new-taipei-city-wp",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/new-taipei-city-wp/wuliaojian-5-medium.webp",
+          "smallPath": "_m/w/s/q/q/new-taipei-city-wp/wuliaojian-5-small.webp"
         },
         {
           "path": "_m/w/s/q/q/new-taipei-city-wp/2021-jinshan-district-new-taip.jpg",
@@ -1844,7 +1954,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2021_Jinshan_District_New_Taipei_TAIWAN.jpg",
           "sourceType": "poi",
           "sourceArticleId": "new-taipei-city-wp",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/new-taipei-city-wp/2021-jinshan-district-new-taip-medium.webp",
+          "smallPath": "_m/w/s/q/q/new-taipei-city-wp/2021-jinshan-district-new-taip-small.webp"
         },
         {
           "path": "_m/w/s/q/q/banqiao-wk/banqiao-first-sports-ground-20.jpg",
@@ -1868,7 +1980,9 @@
             "Taiwan photographs taken on 2009-05-12",
             "Taken with Canon EOS 500D",
             "Views from buildings in New Taipei"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/q/banqiao-wk/banqiao-first-sports-ground-20-medium.webp",
+          "smallPath": "_m/w/s/q/q/banqiao-wk/banqiao-first-sports-ground-20-small.webp"
         },
         {
           "path": "_m/w/s/q/q/banqiao-wk/image-71.jpg",
@@ -1892,7 +2006,9 @@
             "Photographs by Pbdragonwang taken in New Taipei",
             "Self-published work",
             "Taiwan photographs taken on 2015-08-04"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/q/banqiao-wk/image-71-medium.webp",
+          "smallPath": "_m/w/s/q/q/banqiao-wk/image-71-small.webp"
         },
         {
           "path": "_m/w/s/q/q/banqiao-wk/vs-fuji4237b.jpg",
@@ -1916,7 +2032,9 @@
             "Photographs by Taiwankengo",
             "Self-published work",
             "Xinhai Constructed Wetland"
-          ]
+          ],
+          "mediumPath": "_m/w/s/q/q/banqiao-wk/vs-fuji4237b-medium.webp",
+          "smallPath": "_m/w/s/q/q/banqiao-wk/vs-fuji4237b-small.webp"
         },
         {
           "path": "_m/w/s/q/q/banqiao-wk/image-73.jpg",
@@ -1931,7 +2049,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E4%B8%98%E7%A6%8F%E5%BE%B7%E5%AE%AE.jpg",
           "sourceType": "poi",
           "sourceArticleId": "banqiao-wk",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/banqiao-wk/image-73-medium.webp",
+          "smallPath": "_m/w/s/q/q/banqiao-wk/image-73-small.webp"
         },
         {
           "path": "_m/w/s/q/q/banqiao-wk/435-02-20250902.jpg",
@@ -1946,7 +2066,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:435%E8%97%9D%E6%96%87%E7%89%B9%E5%8D%80%E4%B8%AD%E6%AD%A3%E7%B4%80%E5%BF%B5%E5%A0%82_02_20250902.jpg",
           "sourceType": "poi",
           "sourceArticleId": "banqiao-wk",
-          "sourceGeohash4": "wsqq"
+          "sourceGeohash4": "wsqq",
+          "mediumPath": "_m/w/s/q/q/banqiao-wk/435-02-20250902-medium.webp",
+          "smallPath": "_m/w/s/q/q/banqiao-wk/435-02-20250902-small.webp"
         }
       ],
       "narration": [

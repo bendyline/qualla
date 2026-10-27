@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/p/2/f/casa-navas-wp/hero.jpg",
-        "filename": "Casa Navas.Domenech Muntaner-01.jpg",
-        "caption": "Casa Navàs, a Reus (Baix Camp), obra modernista de Lluís Domenech i Montaner entre 1902 i 1907. La foto és d'abans del 2020 i la restauració del capcer, l'element central que corona la façana.",
-        "alt": "Casa Navàs, a Reus (Baix Camp), obra modernista de Lluís Domenech i Montaner entre 1902 i 1907. La foto és d'abans del 2020 i la restauració del capcer, l'element central que corona la façana.",
-        "width": 897,
-        "height": 734,
+        "path": "_m/s/p/2/f/casa-navas-wp/casa-navas-balco-cantoner.jpg",
+        "filename": "Casa Navàs - balcó cantoner.JPG",
+        "caption": "Balcó cantoner de la Casa Navàs de Reus, Baix Camp.",
+        "alt": "Balcó cantoner de la Casa Navàs de Reus, Baix Camp.",
+        "width": 2736,
+        "height": 3648,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_Navas.Domenech_Muntaner-01.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "Santi Gomà",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_Nav%C3%A0s_-_balc%C3%B3_cantoner.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "casa-navas-wp",
         "sourceGeohash4": "sp2f",
-        "categories": [
-          "Casa Navàs",
-          "Cultural heritage monuments in Spain missing SDC location of creation",
-          "Cultural heritage monuments in Spain with known IDs",
-          "Files with no machine-readable author",
-          "Media lacking author information",
-          "PD-self",
-          "Photographs taken on 2006-08-15",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/s/p/2/f/casa-navas-wp/casa-navas-balco-cantoner-medium.webp",
+        "smallPath": "_m/s/p/2/f/casa-navas-wp/casa-navas-balco-cantoner-small.webp"
       },
       "images": [
         {
@@ -418,7 +411,8 @@
             "License migration redundant",
             "Reus Airport",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/p/2/c/tarragona-wp/airport-reus-seen-from-air-small.webp"
         },
         {
           "path": "_m/s/p/2/f/reus-wk/hero.jpg",
@@ -442,7 +436,9 @@
             "License migration completed",
             "Self-published work",
             "Taken with Nikon Coolpix 4100"
-          ]
+          ],
+          "mediumPath": "_m/s/p/2/f/reus-wk/hero-medium.webp",
+          "smallPath": "_m/s/p/2/f/reus-wk/hero-small.webp"
         },
         {
           "path": "_m/s/p/2/f/reus-wk/casa-rull-reus-baix-ca.jpg",
@@ -466,7 +462,9 @@
             "Flickr images uploaded by Flickr upload bot",
             "Photographs by Jaume Meneses",
             "Taken with Olympus FE-230 / X-790"
-          ]
+          ],
+          "mediumPath": "_m/s/p/2/f/reus-wk/casa-rull-reus-baix-ca-medium.webp",
+          "smallPath": "_m/s/p/2/f/reus-wk/casa-rull-reus-baix-ca-small.webp"
         },
         {
           "path": "_m/s/p/2/f/reus-wk/institut-pere-mata-psy.jpg",
@@ -492,7 +490,8 @@
             "Flickr images missing SDC source of file",
             "Flickr images reviewed by trusted users",
             "Institut Pere Mata"
-          ]
+          ],
+          "smallPath": "_m/s/p/2/f/reus-wk/institut-pere-mata-psy-small.webp"
         },
         {
           "path": "_m/s/p/2/f/reus-wk/railway-station-reus-c.jpg",
@@ -518,7 +517,9 @@
             "Taken with Fujifilm FinePix J12",
             "Train station platforms in the province of Tarragona",
             "Train stations in Catalonia photographed in 2010"
-          ]
+          ],
+          "mediumPath": "_m/s/p/2/f/reus-wk/railway-station-reus-c-medium.webp",
+          "smallPath": "_m/s/p/2/f/reus-wk/railway-station-reus-c-small.webp"
         },
         {
           "path": "_m/s/p/2/f/reus-wk/placa-del-mercadal-reu.jpg",
@@ -539,7 +540,9 @@
             "April 2010 in Catalonia",
             "CC-BY-SA-3.0",
             "Cultural heritage monuments in Spain missing SDC depicts"
-          ]
+          ],
+          "mediumPath": "_m/s/p/2/f/reus-wk/placa-del-mercadal-reu-medium.webp",
+          "smallPath": "_m/s/p/2/f/reus-wk/placa-del-mercadal-reu-small.webp"
         },
         {
           "path": "_m/s/p/2/f/reus-wk/casa-gasull-reus.jpg",
@@ -554,7 +557,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reus_casaGasull_IPA-9522_1536_resize.jpg",
           "sourceType": "poi",
           "sourceArticleId": "reus-wk",
-          "sourceGeohash4": "sp2f"
+          "sourceGeohash4": "sp2f",
+          "smallPath": "_m/s/p/2/f/reus-wk/casa-gasull-reus-small.webp"
         },
         {
           "path": "_m/s/p/2/f/reus-wk/casa-pinyol-reus.jpg",
@@ -569,7 +573,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reus_-_Casa_Pinyol_(1910)_1.JPG",
           "sourceType": "poi",
           "sourceArticleId": "reus-wk",
-          "sourceGeohash4": "sp2f"
+          "sourceGeohash4": "sp2f",
+          "smallPath": "_m/s/p/2/f/reus-wk/casa-pinyol-reus-small.webp"
         }
       ],
       "narration": [

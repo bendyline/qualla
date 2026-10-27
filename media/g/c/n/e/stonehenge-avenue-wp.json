@@ -3,25 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/n/e/stonehenge-avenue-wp/hero.jpg",
-        "filename": "The Avenue, Stonehenge.JPG",
-        "caption": "The Avenue at Stonehenge looking towards Old and New King Barrows",
-        "alt": "The Avenue at Stonehenge looking towards Old and New King Barrows",
-        "width": 2816,
-        "height": 2112,
+        "path": "_m/g/c/n/e/stonehenge-avenue-wp/stonehenge-plan.jpg",
+        "filename": "Stonehenge plan.jpg",
+        "caption": "The site as of AD 2004. The plan omits the trilithon lintels for clarity. Holes that no longer, or never, contained stones are shown as open circles and stones visible today are shown coloured, grey for sarsen and blue for the imported stone, mainly bluestone.\nKey to plan:\n\n1 = The Altar Stone, a six ton monolith of green micaceous sandstone from Scotland\n2 = barrow without a burial\n3 = \"Barrows\" (without burials)\n4 = The fallen Slaughter Stone, 4.9 metres long\n5 = The Heel Stone\n6 = Two of originally four Station Stones\n7 = Ditch\n8 = Inner bank\n9 = Outer bank\n10 = The Avenue, a parallel pair of ditches and banks leading 3 km to the River Avon\n11 = Ring of 30 pits called the Y Holes\n12 = Ring of 29 pits called the Z Holes\n13 = Circle of 56 pits, known as the Aubrey holes\n14 = Smaller southern entrance",
+        "alt": "The site as of AD 2004. The plan omits the trilithon lintels for clarity. Holes that no longer, or never, contained stones are shown as open circles and stones visible today are shown coloured, grey for sarsen and blue for the imported stone, mainly bluestone.\nKey to plan:\n\n1 = The Altar Stone, a six ton monolith of green micaceous sandstone from Scotland\n2 = barrow without a burial\n3 = \"Barrows\" (without burials)\n4 = The fallen Slaughter Stone, 4.9 metres long\n5 = The Heel Stone\n6 = Two of originally four Station Stones\n7 = Ditch\n8 = Inner bank\n9 = Outer bank\n10 = The Avenue, a parallel pair of ditches and banks leading 3 km to the River Avon\n11 = Ring of 30 pits called the Y Holes\n12 = Ring of 29 pits called the Z Holes\n13 = Circle of 56 pits, known as the Aubrey holes\n14 = Smaller southern entrance",
+        "width": 1220,
+        "height": 1188,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "Ashley Columbus",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Avenue,_Stonehenge.JPG",
-        "sourceType": "core",
+        "artist": "Drawn by Adamsan",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stonehenge_plan.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "stonehenge-avenue-wp",
         "sourceGeohash4": "gcne",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Self-published work",
-          "Stonehenge Avenue",
-          "Taken with Panasonic Lumix DMC-FX9"
-        ]
+          "CC-BY-SA-3.0-migrated",
+          "GFDL",
+          "JPG images that should use vector graphics",
+          "License migration completed",
+          "Other images that should use vector graphics",
+          "Plans and maps of Stonehenge",
+          "Stonehenge Avenue"
+        ],
+        "smallPath": "_m/g/c/n/e/stonehenge-avenue-wp/stonehenge-plan-small.webp"
       },
       "images": [
         {
@@ -136,7 +140,8 @@
             "Taken with Olympus C-750UZ",
             "User-created GFDL images",
             "Woodhenge"
-          ]
+          ],
+          "smallPath": "_m/g/c/n/e/stonehenge-wk/durringtonwalls-small.webp"
         },
         {
           "path": "_m/g/c/n/e/stonehenge-wk/stonehenge-cursus.jpg",
@@ -155,7 +160,8 @@
           "categories": [
             "PD-user",
             "Stonehenge Cursus"
-          ]
+          ],
+          "smallPath": "_m/g/c/n/e/stonehenge-wk/stonehenge-cursus-small.webp"
         },
         {
           "path": "_m/g/c/n/e/stonehenge-wk/stonehenge-tumulus.jpg",
@@ -177,7 +183,9 @@
             "Cursus Barrows",
             "Self-published work",
             "Taken with Canon PowerShot S90"
-          ]
+          ],
+          "mediumPath": "_m/g/c/n/e/stonehenge-wk/stonehenge-tumulus-medium.webp",
+          "smallPath": "_m/g/c/n/e/stonehenge-wk/stonehenge-tumulus-small.webp"
         },
         {
           "path": "_m/g/c/n/e/stonehenge-wk/normanton-down-geograph-org-uk.jpg",
@@ -197,7 +205,8 @@
             "CC-BY-SA-2.0",
             "Images by David Smith",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/n/e/stonehenge-wk/normanton-down-geograph-org-uk-small.webp"
         },
         {
           "path": "_m/g/c/n/e/stonehenge-wk/western-wall-of-durrington-wal.jpg",
@@ -212,7 +221,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_wall_of_Durrington_Walls.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "stonehenge-wk",
-          "sourceGeohash4": "gcne"
+          "sourceGeohash4": "gcne",
+          "mediumPath": "_m/g/c/n/e/stonehenge-wk/western-wall-of-durrington-wal-medium.webp",
+          "smallPath": "_m/g/c/n/e/stonehenge-wk/western-wall-of-durrington-wal-small.webp"
         }
       ],
       "narration": [

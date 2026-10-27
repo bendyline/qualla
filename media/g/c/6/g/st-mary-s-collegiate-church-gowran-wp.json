@@ -3,28 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/6/g/st-mary-s-collegiate-church-gowran-wp/hero.jpg",
-        "filename": "St. Mary's Collegiate Church Gowran.jpg",
-        "caption": "This is a photograph of St. Mary's Collegiate Church Gowran, Co. Kilkenny, Ireland. The photograph was taken at the Green in the centre of the Town of Gowran. The photograph was taken on the 4th of June 2013 at 13:56.",
-        "alt": "This is a photograph of St. Mary's Collegiate Church Gowran, Co. Kilkenny, Ireland. The photograph was taken at the Green in the centre of the Town of Gowran. The photograph was taken on the 4th of June 2013 at 13:56.",
-        "width": 2048,
-        "height": 1536,
+        "path": "_m/g/c/6/g/st-mary-s-collegiate-church-gowran-wp/gowran-church.jpg",
+        "filename": "Gowran Church.JPG",
+        "caption": "Gowran Church",
+        "alt": "Gowran Church",
+        "width": 5184,
+        "height": 3456,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Jcgowran",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Mary%27s_Collegiate_Church_Gowran.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "James Keppel",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gowran_Church.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "st-mary-s-collegiate-church-gowran-wp",
         "sourceGeohash4": "gc6g",
         "categories": [
-          "CC-BY-SA-3.0",
-          "GFDL",
-          "License migration redundant",
+          "CC-BY-SA-4.0",
+          "Files with coordinates missing SDC location of creation",
+          "Images from Wiki Loves Monuments 2014",
+          "Images from Wiki Loves Monuments 2014 in Ireland",
+          "Images from Wiki Loves Monuments missing SDC depicts",
+          "Images from Wiki Loves Monuments missing SDC location of creation",
           "Self-published work",
           "St. Mary's Collegiate Church Gowran",
-          "Taken with Sony DSC-T20",
-          "Uploaded with en.wp upload wizard"
-        ]
+          "Taken with Canon EOS 60D",
+          "Uploaded via Campaign:wlm-ie"
+        ],
+        "mediumPath": "_m/g/c/6/g/st-mary-s-collegiate-church-gowran-wp/gowran-church-medium.webp",
+        "smallPath": "_m/g/c/6/g/st-mary-s-collegiate-church-gowran-wp/gowran-church-small.webp"
       },
       "images": [
         {
@@ -249,7 +254,7 @@
           "smallPath": "_m/g/c/6/g/st-mary-s-collegiate-church-gowran-wp/county-kilkenny-st-mary-s-chur-small.webp"
         },
         {
-          "path": "_m/g/c/6/g/st-mary-s-collegiate-church-gowran-wp/restored-ruins-st-mary.jpg",
+          "path": "_m/g/c/6/g/gowran-wp/restored-ruins-st-mary.jpg",
           "filename": "St Mary's Church, Gowran.jpg",
           "caption": "The restored ruins of St. Mary's Church, Gowran, Co. Kilkenny, Ireland, on a sunny day in May 2022",
           "alt": "The restored ruins of St. Mary's Church, Gowran, Co. Kilkenny, Ireland, on a sunny day in May 2022",
@@ -261,7 +266,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Mary%27s_Church,_Gowran.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "gowran-wp",
-          "sourceGeohash4": "gc6g"
+          "sourceGeohash4": "gc6g",
+          "mediumPath": "_m/g/c/6/g/gowran-wp/restored-ruins-st-mary-medium.webp",
+          "smallPath": "_m/g/c/6/g/gowran-wp/restored-ruins-st-mary-small.webp"
         },
         {
           "path": "_m/g/c/6/g/st-mary-s-collegiate-church-gowran-wp/fountains-st-mary-s-church-gow.jpg",
@@ -436,7 +443,8 @@
             "Media missing infobox template",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/tpc/ki/lk/en/ny/kilkenny/kilkenny-2-ireland-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/kilkenny-castle.jpg",
@@ -459,7 +467,8 @@
             "PD-self",
             "Photographs taken on 2004-06-25",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/kilkenny-castle-small.webp"
         },
         {
           "path": "_m/tpc/ki/lk/en/ny/kilkenny/kilkenny-st-canice-cathedral.jpg",
@@ -480,7 +489,9 @@
             "Self-published work",
             "St. Canice's Cathedral, Kilkenny",
             "Taken with Fujifilm FinePix F20"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ki/lk/en/ny/kilkenny/kilkenny-st-canice-cathedral-medium.webp",
+          "smallPath": "_m/tpc/ki/lk/en/ny/kilkenny/kilkenny-st-canice-cathedral-small.webp"
         },
         {
           "path": "_m/tpc/ki/lk/en/ny/kilkenny/kilkenny-black-abbey-sw-2007-0.jpg",
@@ -506,7 +517,9 @@
             "Photographs by Andreas F. Borchert",
             "Self-published work",
             "Taken with Canon EOS 30D"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ki/lk/en/ny/kilkenny/kilkenny-black-abbey-sw-2007-0-medium.webp",
+          "smallPath": "_m/tpc/ki/lk/en/ny/kilkenny/kilkenny-black-abbey-sw-2007-0-small.webp"
         },
         {
           "path": "_m/g/c/6/g/kilkenny-castle-wp/side-view-kilkenny-cas.jpg",
@@ -529,7 +542,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Nikon Coolpix 3100"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/g/kilkenny-castle-wp/side-view-kilkenny-cas-medium.webp",
+          "smallPath": "_m/g/c/6/g/kilkenny-castle-wp/side-view-kilkenny-cas-small.webp"
         },
         {
           "path": "_m/tpc/ki/lk/en/ny/kilkenny/canal-square-kilkenny.jpg",
@@ -551,7 +566,9 @@
             "Self-published work",
             "Streets in Kilkenny",
             "Taken with Sony DSC-T9"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ki/lk/en/ny/kilkenny/canal-square-kilkenny-medium.webp",
+          "smallPath": "_m/tpc/ki/lk/en/ny/kilkenny/canal-square-kilkenny-small.webp"
         },
         {
           "path": "_m/tpc/ki/lk/en/ny/kilkenny/edricecallan.jpg",
@@ -566,7 +583,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:EdRiceCallan.JPG",
           "sourceType": "poi",
           "sourceArticleId": "kilkenny",
-          "sourceGeohash4": "gc6g"
+          "sourceGeohash4": "gc6g",
+          "mediumPath": "_m/tpc/ki/lk/en/ny/kilkenny/edricecallan-medium.webp",
+          "smallPath": "_m/tpc/ki/lk/en/ny/kilkenny/edricecallan-small.webp"
         },
         {
           "path": "_m/tpc/ki/lk/en/ny/kilkenny/kells-priory-burgess-court-sou.jpg",
@@ -581,7 +600,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kells_Priory_Burgess_Court_Southern_Wall_and_Towers_2017_09_13.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kilkenny",
-          "sourceGeohash4": "gc6g"
+          "sourceGeohash4": "gc6g",
+          "mediumPath": "_m/tpc/ki/lk/en/ny/kilkenny/kells-priory-burgess-court-sou-medium.webp",
+          "smallPath": "_m/tpc/ki/lk/en/ny/kilkenny/kells-priory-burgess-court-sou-small.webp"
         },
         {
           "path": "_m/tpc/ki/lk/en/ny/kilkenny/kilkenny-county-hall-2024-03-2.jpg",
@@ -596,7 +617,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kilkenny_County_Hall,_2024-03-22_02.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kilkenny",
-          "sourceGeohash4": "gc6g"
+          "sourceGeohash4": "gc6g",
+          "mediumPath": "_m/tpc/ki/lk/en/ny/kilkenny/kilkenny-county-hall-2024-03-2-medium.webp",
+          "smallPath": "_m/tpc/ki/lk/en/ny/kilkenny/kilkenny-county-hall-2024-03-2-small.webp"
         },
         {
           "path": "_m/tpc/ki/lk/en/ny/kilkenny/kilkenny-city-tours-2024-03-22.jpg",
@@ -611,7 +634,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kilkenny_City_Tours,_2024-03-22.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kilkenny",
-          "sourceGeohash4": "gc6g"
+          "sourceGeohash4": "gc6g",
+          "mediumPath": "_m/tpc/ki/lk/en/ny/kilkenny/kilkenny-city-tours-2024-03-22-medium.webp",
+          "smallPath": "_m/tpc/ki/lk/en/ny/kilkenny/kilkenny-city-tours-2024-03-22-small.webp"
         },
         {
           "path": "_m/tpc/ki/lk/en/ny/kilkenny/art-at-jenkinstown-park.jpg",
@@ -626,7 +651,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Art_at_Jenkinstown_Park.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kilkenny",
-          "sourceGeohash4": "gc6g"
+          "sourceGeohash4": "gc6g",
+          "mediumPath": "_m/tpc/ki/lk/en/ny/kilkenny/art-at-jenkinstown-park-medium.webp",
+          "smallPath": "_m/tpc/ki/lk/en/ny/kilkenny/art-at-jenkinstown-park-small.webp"
         },
         {
           "path": "_m/g/c/6/g/kilkenny-wk/ireland-kilkenny-rothe-house-b.jpg",
@@ -641,7 +668,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ireland_Kilkenny_Rothe_House_BW_2025-09-15_10-49-52.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kilkenny-wk",
-          "sourceGeohash4": "gc6g"
+          "sourceGeohash4": "gc6g",
+          "mediumPath": "_m/g/c/6/g/kilkenny-wk/ireland-kilkenny-rothe-house-b-medium.webp",
+          "smallPath": "_m/g/c/6/g/kilkenny-wk/ireland-kilkenny-rothe-house-b-small.webp"
         },
         {
           "path": "_m/g/c/7/4/graiguenamanagh-wp/graiguenamanach-choir-window-s.jpg",
@@ -667,7 +696,9 @@
             "License migration redundant",
             "Photographs by Andreas F. Borchert",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/7/4/graiguenamanagh-wp/graiguenamanach-choir-window-s-medium.webp",
+          "smallPath": "_m/g/c/7/4/graiguenamanagh-wp/graiguenamanach-choir-window-s-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/brandonhill116.jpg",
@@ -690,7 +721,9 @@
             "Pictures by Sarah777",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/brandonhill116-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/brandonhill116-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/graiguenamanach-view-from-rive.jpg",
@@ -717,7 +750,9 @@
             "Photographs by Andreas F. Borchert",
             "River Barrow",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/graiguenamanach-view-from-rive-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/graiguenamanach-view-from-rive-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/thomastown.jpg",
@@ -740,7 +775,9 @@
             "Self-published work",
             "Taken with Canon EOS 400D",
             "Thomastown, County Kilkenny"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/thomastown-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/thomastown-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/waterford-by-night.jpg",
@@ -763,7 +800,8 @@
             "Information field template with formatting",
             "Republic of Ireland photographs taken on 2007-07-07",
             "Waterford"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/waterford-by-night-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/bridge-in-inistioge-in-2008.jpg",
@@ -786,7 +824,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Fujifilm FinePix F11"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/bridge-in-inistioge-in-2008-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/bridge-in-inistioge-in-2008-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/kellskilkvillage.jpg",
@@ -811,7 +851,9 @@
             "Roads in County Kilkenny",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/kellskilkvillage-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/kellskilkvillage-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/castlecomer-in-county-kilkenny.jpg",
@@ -830,7 +872,9 @@
           "categories": [
             "Buildings in Castlecomer",
             "Castlecomer"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/castlecomer-in-county-kilkenny-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/castlecomer-in-county-kilkenny-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/img-freshfordshop1817.jpg",
@@ -845,7 +889,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:IMG_FreshfordShop1817.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kilkenny-wp",
-          "sourceGeohash4": "gc6g"
+          "sourceGeohash4": "gc6g",
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/img-freshfordshop1817-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/img-freshfordshop1817-small.webp"
         },
         {
           "path": "_m/g/c/6/g/county-kilkenny-wp/new-ross-aerial-2026-04-18-04.jpg",
@@ -860,7 +906,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Ross_-_aerial_-_2026-04-18_04.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kilkenny-wp",
-          "sourceGeohash4": "gc6g"
+          "sourceGeohash4": "gc6g",
+          "mediumPath": "_m/g/c/6/g/county-kilkenny-wp/new-ross-aerial-2026-04-18-04-medium.webp",
+          "smallPath": "_m/g/c/6/g/county-kilkenny-wp/new-ross-aerial-2026-04-18-04-small.webp"
         }
       ],
       "narration": [

@@ -47,7 +47,7 @@ The Cumbres and Toltec Scenic Railroad runs between Antonito, CO (37.07N, 105.66
 ## Sources
 
 - [Cumbres and Toltec Scenic Railroad - Wikipedia](https://en.wikipedia.org/?curid=2109499)
-- [Cumbres and Toltec Scenic Railroad - Wikipedia](https://en.wikipedia.org/wiki/Cumbres_and_Toltec_Scenic_Railroad)
+- [Cumbres and Toltec Scenic Railroad - Wikipedia](https://en.wikipedia.org/?curid=2109499)
   - Feb 20 1880 track laying began from Alamosa
   - Dec 31 1880 arrived Chama
   - 10,015 ft Cumbres Pass highest narrow gauge in North America

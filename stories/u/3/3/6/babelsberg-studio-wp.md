@@ -48,7 +48,7 @@ Located at 52.3869 N, 13.1194 E in Potsdam-Babelsberg, on the southwestern edge 
 
 ## Sources
 
-- [Babelsberg Studio - Wikipedia](https://en.wikipedia.org/wiki/Babelsberg_Studio)
+- [Babelsberg Studio - Wikipedia](https://en.wikipedia.org/?curid=5037674)
   - Oldest large-scale film studio in the world, producing films since 1912; total area about 460,000 m² and studio area about 25,000 m²; Europe's largest film studio
   - Deutsche Bioscop bought the Babelsberg site in 1911 and built a glasshouse studio at Neubabelsberg; company founded by Jules Greenbaum in 1899, incorporated 1902; Carl Moritz Schleussner bought a two-thirds share of 140,000 marks in February 1908 and bought out the Greenbaums in 1909; Schleussner had produced negative film for Röntgen photography since 1896
   - First filming in February 1912 for The Dance of Death by Danish director Urban Gad
@@ -72,7 +72,7 @@ Located at 52.3869 N, 13.1194 E in Potsdam-Babelsberg, on the southwestern edge 
 - [110 Years of Studio Babelsberg - Studio Babelsberg](https://www.studiobabelsberg.com/about-us/press-and-news/studio-babelsberg-110-years/)
   - The large-scale stage now called the Marlene Dietrich Halle was purpose-built in 1926 for Metropolis and is one of the largest sound stages in Europe
   - The Tonkreuz, built in 1929, was the first European sound film studio
-- [Babelsberg Studio - Wikipedia (re-verification)](https://en.wikipedia.org/wiki/Babelsberg_Studio)
+- [Babelsberg Studio - Wikipedia (re-verification)](https://en.wikipedia.org/?curid=5037674)
   - Wikipedia's own text repeats 'the oldest large-scale film studio in the world' with citations; not an inflated or unsupported superlative
   - Filming began February 1912 with The Dance of Death, matching the story
   - Current ownership confirmed unchanged since January 2022: TPG Real Estate Partners and Filmbetriebe Berlin Brandenburg, marketed under Cinespace Film Studios

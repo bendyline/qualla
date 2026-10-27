@@ -33,8 +33,8 @@ The Athens Olympic Aquatic Centre sits within the larger Athens Olympic Sports C
 ## Sources
 
 - [Athens Olympic Aquatic Centre - Wikipedia](https://en.wikipedia.org/?curid=927738)
-- [https://en.wikipedia.org/wiki/Athens_Olympic_Aquatic_Centre](https://en.wikipedia.org/wiki/Athens_Olympic_Aquatic_Centre)
-- [https://en.wikipedia.org/wiki/Athens_Olympic_Aquatic_Centre](https://en.wikipedia.org/wiki/Athens_Olympic_Aquatic_Centre)
+- [https://en.wikipedia.org/?curid=927738](https://en.wikipedia.org/?curid=927738)
+- [https://en.wikipedia.org/?curid=927738](https://en.wikipedia.org/?curid=927738)
 - [https://calatrava.com/projects/olympic-sports-complex-athens.html](https://calatrava.com/projects/olympic-sports-complex-athens.html)
 - [https://oaka.com.gr/en/facilities/olympic-aquatic-center/outdoor-swimming-pools/](https://oaka.com.gr/en/facilities/olympic-aquatic-center/outdoor-swimming-pools/)
 

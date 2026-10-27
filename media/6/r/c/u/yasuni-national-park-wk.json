@@ -3,31 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/r/c/u/yasuni-national-park-wk/hero.jpg",
-        "filename": "Anolis transversalis (cropped).jpg",
-        "caption": "Polychrotidae: Anolis transversalis\n\nFound in Yasuni National Park, Ecuador",
-        "alt": "Polychrotidae: Anolis transversalis\n\nFound in Yasuni National Park, Ecuador",
-        "width": 2405,
-        "height": 770,
+        "path": "_m/6/r/c/u/yasuni-national-park-wk/bactris-palm-sunset.jpg",
+        "filename": "Bactris Palm Sunset.jpg",
+        "caption": "The sun setting on a blackwater tributary leading out of the Yasuni River.",
+        "alt": "The sun setting on a blackwater tributary leading out of the Yasuni River.",
+        "width": 4608,
+        "height": 2592,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "Geoff Gallice",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anolis_transversalis_(cropped).jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Lauren Whitehurst",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bactris_Palm_Sunset.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "yasuni-national-park-wk",
         "sourceGeohash4": "6rcu",
-        "categories": [
-          "Anolis transversalis",
-          "CC-BY-2.0",
-          "Extracted images",
-          "Flickr images uploaded by Flickr upload bot",
-          "Photographs by Geoff Gallice",
-          "Reptiles of Yasuni National Park"
-        ]
+        "mediumPath": "_m/6/r/c/u/yasuni-national-park-wk/bactris-palm-sunset-medium.webp",
+        "smallPath": "_m/6/r/c/u/yasuni-national-park-wk/bactris-palm-sunset-small.webp"
       },
       "images": [
         {
-          "path": "_m/6/r/c/u/yasuni-national-park-wk/q-rio-tivacuno-1004-2-17316111.jpg",
+          "path": "_m/6/r/c/g/yasuni-national-park-wp/q-rio-tivacuno-1004-2-17316111.jpg",
           "filename": "Q Rio Tivacuno 1004 (2) (17316111535).jpg",
           "caption": "Q Rio Tivacuno 1004 (2)",
           "alt": "Q Rio Tivacuno 1004 (2)",
@@ -45,7 +39,8 @@
             "Ecuador photographs taken on 2010-04-15",
             "Flickr images reviewed by FlickreviewR 2",
             "Yasuni National Park"
-          ]
+          ],
+          "smallPath": "_m/6/r/c/g/yasuni-national-park-wp/q-rio-tivacuno-1004-2-17316111-small.webp"
         },
         {
           "path": "_m/6/r/c/u/yasuni-national-park-wk/localizacion-del-parque-yasuni.png",
@@ -425,7 +420,9 @@
             "Pionus menstruus with other species",
             "Psittaciformes of Ecuador",
             "Taken with Nikon D40x"
-          ]
+          ],
+          "mediumPath": "_m/6/x/m/q/amazon-rainforest-wk/many-parrots-clay-lick-medium.webp",
+          "smallPath": "_m/6/x/m/q/amazon-rainforest-wk/many-parrots-clay-lick-small.webp"
         },
         {
           "path": "_m/6/r/d/9/napo-moist-forests-wp/hero.jpg",
@@ -452,7 +449,9 @@
             "Photographs by Geoff Gallice",
             "Taken with Nikon D40x",
             "Tiputini River"
-          ]
+          ],
+          "mediumPath": "_m/6/r/d/9/napo-moist-forests-wp/hero-medium.webp",
+          "smallPath": "_m/6/r/d/9/napo-moist-forests-wp/hero-small.webp"
         },
         {
           "path": "_m/6/r/c/g/yasuni-national-park-wp/pithecia-napensis-2.jpg",
@@ -479,7 +478,8 @@
             "Primates of Ecuador",
             "Primates of rainforests",
             "Taken with Nikon D80"
-          ]
+          ],
+          "smallPath": "_m/6/r/c/g/yasuni-national-park-wp/pithecia-napensis-2-small.webp"
         },
         {
           "path": "_m/6/r/c/g/yasuni-national-park-wp/yasuni-caiman.jpg",
@@ -498,7 +498,8 @@
           "categories": [
             "CC-BY-SA-4.0",
             "Caimaninae"
-          ]
+          ],
+          "smallPath": "_m/6/r/c/g/yasuni-national-park-wp/yasuni-caiman-small.webp"
         },
         {
           "path": "_m/6/r/c/g/yasuni-national-park-wp/yasuni-insect.jpg",
@@ -513,7 +514,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yasuni_Insect.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "yasuni-national-park-wp",
-          "sourceGeohash4": "6rcg"
+          "sourceGeohash4": "6rcg",
+          "mediumPath": "_m/6/r/c/g/yasuni-national-park-wp/yasuni-insect-medium.webp",
+          "smallPath": "_m/6/r/c/g/yasuni-national-park-wp/yasuni-insect-small.webp"
         },
         {
           "path": "_m/6/r/c/g/yasuni-national-park-wp/salt-lick.jpg",
@@ -528,7 +531,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salt_Lick.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "yasuni-national-park-wp",
-          "sourceGeohash4": "6rcg"
+          "sourceGeohash4": "6rcg",
+          "mediumPath": "_m/6/r/c/g/yasuni-national-park-wp/salt-lick-medium.webp",
+          "smallPath": "_m/6/r/c/g/yasuni-national-park-wp/salt-lick-small.webp"
         }
       ],
       "narration": [

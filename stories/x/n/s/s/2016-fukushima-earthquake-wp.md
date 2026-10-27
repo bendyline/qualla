@@ -33,7 +33,7 @@ Epicenter located at 37.39N, 141.40E, in the Pacific Ocean east-southeast of Nam
 ## Sources
 
 - [2016 Fukushima earthquake - Wikipedia](https://en.wikipedia.org/?curid=52344692)
-- [2016 Fukushima earthquake - Wikipedia](https://en.wikipedia.org/wiki/2016_Fukushima_earthquake)
+- [2016 Fukushima earthquake - Wikipedia](https://en.wikipedia.org/?curid=52344692)
   - magnitude 7.4 JMA / 6.9 USGS confirmed (article correctly cites both)
   - depth noted as 9 km in article; Wikipedia says 11.4 km - minor discrepancy
   - tsunami warnings issued from Aomori to Chiba confirmed

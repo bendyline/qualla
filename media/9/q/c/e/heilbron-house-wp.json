@@ -3,31 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/c/e/heilbron-house-wp/hero.jpg",
-        "filename": "HistoricPlacesNationalRegisterPlaque.JPG",
-        "caption": "Plaque declaring \"this property has been placed on the National Register of Historic Places by the United States Department of the Interior\"",
-        "alt": "Plaque declaring \"this property has been placed on the National Register of Historic Places by the United States Department of the Interior\"",
-        "width": 2498,
-        "height": 1969,
-        "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Jonathunder",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:HistoricPlacesNationalRegisterPlaque.JPG",
-        "sourceType": "core",
-        "sourceArticleId": "heilbron-house-wp",
-        "sourceGeohash4": "9qce",
-        "categories": [
-          "CC-PD-Mark",
-          "National Register of Historic Places plaques",
-          "PD-self",
-          "PD US Government",
-          "Self-published work",
-          "Taken with Canon EOS 350D"
-        ]
+        "path": "_m/9/q/c/e/2022-sacramento-shooting-wp/map-sacramento-califor.png",
+        "filename": "Location map Sacramento.png",
+        "caption": "This map of Sacramento, California was created from OpenStreetMap project data, collected by the community. This map may be incomplete, and may contain errors. Don't rely solely on it for navigation.",
+        "alt": "This map of Sacramento, California was created from OpenStreetMap project data, collected by the community. This map may be incomplete, and may contain errors. Don't rely solely on it for navigation.",
+        "width": 689,
+        "height": 655,
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "artist": "OpenStreetMap contributors",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Location_map_Sacramento.png",
+        "smallPath": "_m/9/q/c/e/2022-sacramento-shooting-wp/map-sacramento-califor-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/c/e/heilbron-house-wp/map-sacramento-califor.png",
+          "path": "_m/9/q/c/e/2022-sacramento-shooting-wp/map-sacramento-califor.png",
           "filename": "Location map Sacramento.png",
           "caption": "This map of Sacramento, California was created from OpenStreetMap project data, collected by the community. This map may be incomplete, and may contain errors. Don't rely solely on it for navigation.",
           "alt": "This map of Sacramento, California was created from OpenStreetMap project data, collected by the community. This map may be incomplete, and may contain errors. Don't rely solely on it for navigation.",
@@ -44,7 +34,8 @@
             "CC-BY-SA-2.0",
             "Maps of Sacramento, California",
             "OpenStreetMap maps of California"
-          ]
+          ],
+          "smallPath": "_m/9/q/c/e/2022-sacramento-shooting-wp/map-sacramento-califor-small.webp"
         }
       ],
       "narration": [
@@ -56,8 +47,9 @@
         "_m/9/q/c/e/heilbron-house-wp/9qce-the-cattlemans-victorian-restaurant-bank-gallery-office.mp3"
       ],
       "combinedNarration": "_m/9/q/c/e/heilbron-house-wp/9qce-heilbron-house-combined.mp3",
-      "combinedNarrationBytes": 3624163,
-      "combinedNarrationDuration": 302
+      "combinedNarrationBytes": 3749967,
+      "combinedNarrationDuration": 302,
+      "combinedCover": "_m/9/q/c/e/heilbron-house-wp/9qce-heilbron-house-combined-cover.jpg"
     }
   }
 }

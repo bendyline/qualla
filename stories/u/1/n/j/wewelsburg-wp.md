@@ -40,7 +40,7 @@ Wewelsburg sits at 51.607N, 8.651E in the Paderborn district of North Rhine-West
 
 ## Sources
 
-- [Wewelsburg - Wikipedia](https://en.wikipedia.org/wiki/Wewelsburg)
+- [Wewelsburg - Wikipedia](https://en.wikipedia.org/?curid=315040)
 - [Niederhagen concentration camp - Wikipedia](https://en.wikipedia.org/wiki/Niederhagen_concentration_camp)
   - operated as an independent concentration camp from September 1941 to 1943
   - approximately 3,900 prisoners in total; deaths of 1,285 recorded
@@ -50,7 +50,7 @@ Wewelsburg sits at 51.607N, 8.651E in the Paderborn district of North Rhine-West
   - about 40 Jehovah's Witnesses remained at Wewelsburg and were liberated by U.S. troops in early April 1945
 - [Arolsen Archives - Niederhagen (Wewelsburg) Concentration Camp](https://collections.arolsen-archives.org/en/archive/1-1-31)
   - prisoner groups included Jehovah's Witnesses, political prisoners, Roma, homosexual men, Jews, POWs and forced labourers
-- [Wewelsburg - Wikipedia (re-verification)](https://en.wikipedia.org/wiki/Wewelsburg)
+- [Wewelsburg - Wikipedia (re-verification)](https://en.wikipedia.org/?curid=315040)
   - Himmler visited 3 November 1933; 100-year lease at 1 Reichsmark/year signed 1934; possession ceremony 22 September 1934; SS-Schule Haus Wewelsburg from 1935; architect Hermann Bartels
   - 'Black Sun' name for the sun-wheel ornament confirmed as linked to neo-Nazi esotericism only after 1991, not wartime SS terminology
   - SS Major Heinz Macher's demolition attempt on 31 March 1945; U.S. 3rd Armored Division took the site 2 April 1945

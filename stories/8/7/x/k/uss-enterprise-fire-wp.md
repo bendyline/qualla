@@ -28,7 +28,7 @@ The investigation board praised Enterprise's firefighting response even as it ca
 
 ## Flight Context
 
-The fire occurred approximately 70 nautical miles south of Oahu at coordinates 20.45N, 158.45W, in open ocean southwest of Honolulu. The nearest major airport is Honolulu International (PHNL), about 70 nm to the northeast. From altitude, this area of the Pacific south of Oahu appears as open water between the Hawaiian islands. Joint Base Pearl Harbor-Hickam (PHJR) is the closest military facility.
+The fire occurred approximately 70 nautical miles south of Oahu at coordinates 20.45N, 158.45W, in open ocean southwest of Honolulu. The nearest major airport is Daniel K. Inouye International Airport (PHNL, formerly Honolulu International), about 70 nm to the northeast. From altitude, this area of the Pacific south of Oahu appears as open water between the Hawaiian islands. Joint Base Pearl Harbor-Hickam (PHJR) is the closest military facility.
 
 ## Sources
 

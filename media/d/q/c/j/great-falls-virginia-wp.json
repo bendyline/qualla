@@ -3,32 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/d/q/c/j/great-falls-virginia-wp/hero.jpg",
-        "filename": "Fullmoon at Great Falls (Virginia).jpg",
-        "caption": "View of an early evening full moon rising over the Great Falls on the Potomac River\n\nGreat Falls, Virginia",
-        "alt": "View of an early evening full moon rising over the Great Falls on the Potomac River\n\nGreat Falls, Virginia",
-        "width": 2585,
-        "height": 2868,
+        "path": "_m/d/q/c/j/great-falls-virginia-wp/falling-flickr-mike-j-maguire.jpg",
+        "filename": "Falling - Flickr - Mike J Maguire.jpg",
+        "caption": "A leaf falls over the Potomac River in Riverbend Park in Great Falls, Virginia.",
+        "alt": "A leaf falls over the Potomac River in Riverbend Park in Great Falls, Virginia.",
+        "width": 8368,
+        "height": 5584,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Rob Shenk from Great Falls, VA, USA",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fullmoon_at_Great_Falls_(Virginia).jpg",
-        "sourceType": "core",
+        "license": "CC BY 4.0",
+        "artist": "Mike Maguire",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falling_-_Flickr_-_Mike_J_Maguire.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "great-falls-virginia-wp",
         "sourceGeohash4": "dqcj",
-        "categories": [
-          "Autumn 2010 in Virginia",
-          "CC-BY-SA-2.0",
-          "Evening in the United States",
-          "Files with coordinates missing SDC location of creation",
-          "Flickr images reviewed by File Upload Bot (Magnus Manske)",
-          "Geography of Virginia",
-          "Great Falls Park",
-          "Great Falls of the Potomac River",
-          "Potomac River",
-          "Sky with the Moon",
-          "Taken with Canon EOS 7D"
-        ]
+        "mediumPath": "_m/d/q/c/j/great-falls-virginia-wp/falling-flickr-mike-j-maguire-medium.webp",
+        "smallPath": "_m/d/q/c/j/great-falls-virginia-wp/falling-flickr-mike-j-maguire-small.webp"
       },
       "images": [
         {
@@ -171,7 +160,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Georgetown_Pike_and_walking_path,_Great_Falls.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "great-falls-virginia-wp",
-          "sourceGeohash4": "dqcj"
+          "sourceGeohash4": "dqcj",
+          "mediumPath": "_m/d/q/c/j/great-falls-virginia-wp/georgetown-pike-and-walking-pa-medium.webp",
+          "smallPath": "_m/d/q/c/j/great-falls-virginia-wp/georgetown-pike-and-walking-pa-small.webp"
         },
         {
           "path": "_m/d/q/c/j/great-falls-virginia-wp/georgetown-pike-from-the-walki.jpg",
@@ -185,7 +176,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Georgetown_Pike_from_the_walking_path_by_the_Grange_Hall_and_Forestville_School.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "great-falls-virginia-wp",
-          "sourceGeohash4": "dqcj"
+          "sourceGeohash4": "dqcj",
+          "mediumPath": "_m/d/q/c/j/great-falls-virginia-wp/georgetown-pike-from-the-walki-medium.webp",
+          "smallPath": "_m/d/q/c/j/great-falls-virginia-wp/georgetown-pike-from-the-walki-small.webp"
         },
         {
           "path": "_m/d/q/c/j/great-falls-virginia-wp/2019-09-17-13-18-30-view-west-.jpg",
@@ -315,7 +308,9 @@
             "Media lacking a description",
             "Self-published work",
             "Uploaded with Mobile/Android"
-          ]
+          ],
+          "mediumPath": "_m/d/q/c/j/great-falls-virginia-wp/shops-and-gas-station-along-ge-medium.webp",
+          "smallPath": "_m/d/q/c/j/great-falls-virginia-wp/shops-and-gas-station-along-ge-small.webp"
         },
         {
           "path": "_m/d/q/c/j/great-falls-virginia-wp/shopping-center-early-afternoo.jpg",
@@ -366,7 +361,8 @@
             "United States photographs taken on 2005-10-27",
             "Washington, D.C. skylines",
             "Washington Monument in 2005"
-          ]
+          ],
+          "smallPath": "_m/d/q/b/v/northern-virginia-wp/dc-skyline-pentagon-small.webp"
         },
         {
           "path": "_m/d/q/b/v/northern-virginia-wp/marine-corp-museum-exterior-vi.jpg",
@@ -389,7 +385,8 @@
             "National Museum of the Marine Corps - exterior",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "smallPath": "_m/d/q/b/v/northern-virginia-wp/marine-corp-museum-exterior-vi-small.webp"
         },
         {
           "path": "_m/d/q/b/v/northern-virginia-wp/mountvernonrear.jpg",
@@ -413,7 +410,9 @@
             "Media missing infobox template",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "mediumPath": "_m/d/q/b/v/northern-virginia-wp/mountvernonrear-medium.webp",
+          "smallPath": "_m/d/q/b/v/northern-virginia-wp/mountvernonrear-small.webp"
         },
         {
           "path": "_m/d/n/x/v/virginia-wp/historicdowntownfredericksburg.jpg",
@@ -437,7 +436,8 @@
             "Photographs by Ken Lund",
             "Row houses in Virginia",
             "Taken with Canon PowerShot A540"
-          ]
+          ],
+          "smallPath": "_m/d/n/x/v/virginia-wp/historicdowntownfredericksburg-small.webp"
         },
         {
           "path": "_m/d/q/b/v/northern-virginia-wp/loudoun-county-courthouse-in-l.jpg",
@@ -467,7 +467,9 @@
             "Self-published work",
             "United States photographs taken on 2010-05-06",
             "War of 1812"
-          ]
+          ],
+          "mediumPath": "_m/d/q/b/v/northern-virginia-wp/loudoun-county-courthouse-in-l-medium.webp",
+          "smallPath": "_m/d/q/b/v/northern-virginia-wp/loudoun-county-courthouse-in-l-small.webp"
         },
         {
           "path": "_m/d/q/b/v/northern-virginia-wp/washington-dulles-internationa.jpg",
@@ -489,7 +491,9 @@
             "Automobile light trails in the United States",
             "Buildings during blue hour in the United States",
             "CC-BY-SA-3.0"
-          ]
+          ],
+          "mediumPath": "_m/d/q/b/v/northern-virginia-wp/washington-dulles-internationa-medium.webp",
+          "smallPath": "_m/d/q/b/v/northern-virginia-wp/washington-dulles-internationa-small.webp"
         },
         {
           "path": "_m/d/q/b/v/northern-virginia-wp/springfield-town-center-and-en.jpg",
@@ -503,7 +507,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Springfield_Town_Center_and_environs,_October_24,_2014_-_9.jpeg",
           "sourceType": "poi",
           "sourceArticleId": "northern-virginia-wp",
-          "sourceGeohash4": "dqbv"
+          "sourceGeohash4": "dqbv",
+          "mediumPath": "_m/d/q/b/v/northern-virginia-wp/springfield-town-center-and-en-medium.webp",
+          "smallPath": "_m/d/q/b/v/northern-virginia-wp/springfield-town-center-and-en-small.webp"
         },
         {
           "path": "_m/d/q/b/v/northern-virginia-wp/usmc-war-memorial-sunset-parad.jpg",
@@ -518,7 +524,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:USMC_War_Memorial_Sunset_Parade_2008-07-08-2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "northern-virginia-wp",
-          "sourceGeohash4": "dqbv"
+          "sourceGeohash4": "dqbv",
+          "smallPath": "_m/d/q/b/v/northern-virginia-wp/usmc-war-memorial-sunset-parad-small.webp"
         },
         {
           "path": "_m/d/q/b/v/northern-virginia-wp/northern-virginia-nova-map.png",
@@ -533,7 +540,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Northern_Virginia_Nova_map.png",
           "sourceType": "poi",
           "sourceArticleId": "northern-virginia-wp",
-          "sourceGeohash4": "dqbv"
+          "sourceGeohash4": "dqbv",
+          "smallPath": "_m/d/q/b/v/northern-virginia-wp/northern-virginia-nova-map-small.webp"
         }
       ],
       "narration": [

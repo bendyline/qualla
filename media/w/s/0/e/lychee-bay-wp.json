@@ -2,31 +2,6 @@
   "id": "lychee-bay-wp",
   "patch": {
     "media": {
-      "images": [
-        {
-          "path": "_m/w/s/0/e/lychee-bay-wp/gallery-1.jpg",
-          "filename": "Xi Guan House 2.jpg",
-          "caption": "​西关大屋的客厅",
-          "alt": "​西关大屋的客厅",
-          "width": 1600,
-          "height": 1200,
-          "mimeType": "image/jpeg",
-          "license": "CC BY-SA 2.5",
-          "artist": "w:zh:User:Dzb0715",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xi_Guan_House_2.jpg",
-          "sourceType": "core",
-          "sourceArticleId": "lychee-bay-wp",
-          "sourceGeohash4": "ws0e",
-          "categories": [
-            "CC-BY-SA-2.5",
-            "Changhua Subdistrict",
-            "Interiors of houses in China",
-            "Self-published work",
-            "Taken with Nokia N72"
-          ],
-          "smallPath": "_m/w/s/0/e/lychee-bay-wp/gallery-1-small.webp"
-        }
-      ],
       "narration": [
         "_m/w/s/0/e/lychee-bay-wp/ws0e-lychee-bay-flight-context.mp3",
         "_m/w/s/0/e/lychee-bay-wp/ws0e-lychee-bay-intro.mp3",
@@ -36,6 +11,28 @@
         "_m/w/s/0/e/lychee-bay-wp/ws0e-lychee-bay-what-remains-at-the-waters-edge.mp3",
         "_m/w/s/0/e/lychee-bay-wp/ws0e-lychee-bay-the-flavors-of-xiguan.mp3"
       ],
+      "hero": {
+        "path": "_m/w/s/0/e/lychee-bay-wp/hero.jpg",
+        "filename": "Xi Guan House 2.jpg",
+        "caption": "​西关大屋的客厅",
+        "alt": "​西关大屋的客厅",
+        "width": 1600,
+        "height": 1200,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 2.5",
+        "artist": "w:zh:User:Dzb0715",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xi_Guan_House_2.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "lychee-bay-wp",
+        "sourceGeohash4": "ws0e",
+        "categories": [
+          "CC-BY-SA-2.5",
+          "Changhua Subdistrict",
+          "Interiors of houses in China",
+          "Self-published work",
+          "Taken with Nokia N72"
+        ]
+      },
       "combinedNarration": "_m/w/s/0/e/lychee-bay-wp/ws0e-lychee-bay-combined.mp3",
       "combinedNarrationBytes": 4311542,
       "combinedNarrationDuration": 353,

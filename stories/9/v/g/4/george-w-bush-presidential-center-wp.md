@@ -65,7 +65,7 @@ Located at 32.841°N, 96.778°W on the Southern Methodist University campus in U
   - LEED Platinum green building certification - confirmed
   - Irrigation reduces potable water consumption by 75% - confirmed
   - Vegetative bioswale for stormwater management - confirmed
-- [The Guardian - SMU petition signatures](https://en.wikipedia.org/wiki/George_W._Bush_Presidential_Center)
+- [The Guardian - SMU petition signatures](https://en.wikipedia.org/?curid=8552825)
   - Guardian reported 12,500 petition signatures from Methodists opposing library - confirmed via Wikipedia sourcing
   - Dick Cheney shovel-ready quip at groundbreaking - confirmed
   - James K. Glassman founding executive director 2009-2013 - confirmed

@@ -3,30 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/p/1/f/soller-wk/hero.jpg",
-        "filename": "Sóller train station 05.jpg",
-        "caption": "Sculpture at the Sóller train station",
-        "alt": "Sculpture at the Sóller train station",
-        "width": 3648,
-        "height": 5472,
+        "path": "_m/s/p/1/f/soller-wk/14-01-23-soller-011.jpg",
+        "filename": "14-01-23-soller-011.jpg",
+        "caption": "Sóller",
+        "alt": "Sóller",
+        "width": 4896,
+        "height": 3672,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Kritzolina",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%B3ller_train_station_05.jpg",
-        "sourceType": "core",
+        "license": "FAL",
+        "artist": "© Ralf Roletschek - Fahrradtechnik und Fotografie",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:14-01-23-soller-011.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "soller-wk",
         "sourceGeohash4": "sp1f",
         "categories": [
-          "CC-BY-SA-4.0",
-          "February 2024 in Mallorca",
-          "Self-published work",
-          "Sóller in the 2020s",
-          "Sóller train station"
-        ]
+          "FAL",
+          "Files with coordinates missing SDC location of creation",
+          "GFDL-1.2",
+          "Manhole covers in the Balearic Islands",
+          "Sóller",
+          "Taken with Nikon Coolpix S9500"
+        ],
+        "mediumPath": "_m/s/p/1/f/soller-wk/14-01-23-soller-011-medium.webp",
+        "smallPath": "_m/s/p/1/f/soller-wk/14-01-23-soller-011-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/p/1/f/soller-wk/roter-blitz-soller.jpg",
+          "path": "_m/tpc/so/ll/er/__/soller/roter-blitz-soller.jpg",
           "filename": "Roter Blitz Soller.jpg",
           "caption": "\"Roter Blitz\", Soller, Mallorca, Spanien",
           "alt": "\"Roter Blitz\", Soller, Mallorca, Spanien",
@@ -49,11 +52,11 @@
             "Sóller train station",
             "Trains facing left"
           ],
-          "mediumPath": "_m/s/p/1/f/soller-wk/roter-blitz-soller-medium.webp",
-          "smallPath": "_m/s/p/1/f/soller-wk/roter-blitz-soller-small.webp"
+          "mediumPath": "_m/tpc/so/ll/er/__/soller/roter-blitz-soller-medium.webp",
+          "smallPath": "_m/tpc/so/ll/er/__/soller/roter-blitz-soller-small.webp"
         },
         {
-          "path": "_m/s/p/1/f/soller-wk/3-spain-balearic-islands-major.jpg",
+          "path": "_m/tpc/so/ll/er/__/soller/3-spain-balearic-islands-major.jpg",
           "filename": "3, Spain, Balearic Islands, Majorca, Soller - Mirador del Pujol d'en Banya stretch (Trainpix 171906).jpg",
           "caption": "(нет в списке)",
           "alt": "(нет в списке)",
@@ -80,7 +83,7 @@
             "Trains on bridges in Spain",
             "Trains on curves in Spain"
           ],
-          "smallPath": "_m/s/p/1/f/soller-wk/3-spain-balearic-islands-major-small.webp"
+          "smallPath": "_m/tpc/so/ll/er/__/soller/3-spain-balearic-islands-major-small.webp"
         },
         {
           "path": "_m/s/p/1/f/soller-wk/novembre-2007-sta-cecilia-038.jpg",
@@ -207,7 +210,7 @@
           "smallPath": "_m/s/p/1/f/soller-wk/plaza-scene-soller-mallorca-sp-small.webp"
         },
         {
-          "path": "_m/s/p/1/f/soller-wk/majorka-sanktuarium-lluc-ab-01.jpg",
+          "path": "_m/s/p/1/f/fornalutx-wp/majorka-sanktuarium-lluc-ab-01.jpg",
           "filename": "MAJORKA - Sanktuarium LLUC, AB-016.jpg",
           "caption": "Góry Tramuntana po drodze do Sanktuarium LLUC - Majorka - Hiszpania.",
           "alt": "Góry Tramuntana po drodze do Sanktuarium LLUC - Majorka - Hiszpania.",
@@ -219,7 +222,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:MAJORKA_-_Sanktuarium_LLUC,_AB-016.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "fornalutx-wp",
-          "sourceGeohash4": "sp1f"
+          "sourceGeohash4": "sp1f",
+          "mediumPath": "_m/s/p/1/f/fornalutx-wp/majorka-sanktuarium-lluc-ab-01-medium.webp",
+          "smallPath": "_m/s/p/1/f/fornalutx-wp/majorka-sanktuarium-lluc-ab-01-small.webp"
         },
         {
           "path": "_m/s/p/1/f/soller-wk/glora-mas-rhodes-2-1990-soller.jpg",
@@ -319,7 +324,9 @@
             "Taken with HP PhotoSmart R707",
             "Tram overhead line poles",
             "Trams in Port de Sóller"
-          ]
+          ],
+          "mediumPath": "_m/s/p/1/f/soller-wp/fs-tram-old-car-medium.webp",
+          "smallPath": "_m/s/p/1/f/soller-wp/fs-tram-old-car-small.webp"
         },
         {
           "path": "_m/s/p/1/f/soller-wp/portdesoller2.jpg",
@@ -343,7 +350,8 @@
             "Self-published work",
             "Taken with Sony DSC-P92",
             "Views of Port de Sóller from Carrer de Santa Caterina d'Alexandria"
-          ]
+          ],
+          "smallPath": "_m/s/p/1/f/soller-wp/portdesoller2-small.webp"
         },
         {
           "path": "_m/s/p/1/f/soller-wp/strassenbahnlinienplansoller19.png",
@@ -369,7 +377,8 @@
             "Sóller-Port trams in 1997",
             "Sóller-Port tramway maps",
             "User:Maximilian Dörrbecker"
-          ]
+          ],
+          "smallPath": "_m/s/p/1/f/soller-wp/strassenbahnlinienplansoller19-small.webp"
         },
         {
           "path": "_m/s/p/1/f/soller-wp/0069-turm-port-de-soller.jpg",
@@ -396,7 +405,9 @@
             "Sóller in the 2000s",
             "Taken with Sony DSC-F828",
             "Torre Picada"
-          ]
+          ],
+          "mediumPath": "_m/s/p/1/f/soller-wp/0069-turm-port-de-soller-medium.webp",
+          "smallPath": "_m/s/p/1/f/soller-wp/0069-turm-port-de-soller-small.webp"
         },
         {
           "path": "_m/s/p/1/f/soller-wp/mallorca-banco-de-soller.jpg",
@@ -420,7 +431,9 @@
             "Quality images",
             "Quality images missing SDC creator",
             "Quality images missing SDC depicts"
-          ]
+          ],
+          "mediumPath": "_m/s/p/1/f/soller-wp/mallorca-banco-de-soller-medium.webp",
+          "smallPath": "_m/s/p/1/f/soller-wp/mallorca-banco-de-soller-small.webp"
         },
         {
           "path": "_m/s/p/1/f/soller-wp/vall-de-soller.jpg",
@@ -435,7 +448,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vall_de_Soller.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "soller-wp",
-          "sourceGeohash4": "sp1f"
+          "sourceGeohash4": "sp1f",
+          "mediumPath": "_m/s/p/1/f/soller-wp/vall-de-soller-medium.webp",
+          "smallPath": "_m/s/p/1/f/soller-wp/vall-de-soller-small.webp"
         },
         {
           "path": "_m/s/p/1/f/soller-wp/soller-2016.jpg",
@@ -450,7 +465,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%B3ller_2016.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "soller-wp",
-          "sourceGeohash4": "sp1f"
+          "sourceGeohash4": "sp1f",
+          "mediumPath": "_m/s/p/1/f/soller-wp/soller-2016-medium.webp",
+          "smallPath": "_m/s/p/1/f/soller-wp/soller-2016-small.webp"
         },
         {
           "path": "_m/s/p/1/f/soller-wp/st-bartomeu-soller-2025-03-23.jpg",
@@ -465,7 +482,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Bartomeu_(S%C3%B3ller),_2025-03-23.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "soller-wp",
-          "sourceGeohash4": "sp1f"
+          "sourceGeohash4": "sp1f",
+          "mediumPath": "_m/s/p/1/f/soller-wp/st-bartomeu-soller-2025-03-23-medium.webp",
+          "smallPath": "_m/s/p/1/f/soller-wp/st-bartomeu-soller-2025-03-23-small.webp"
         },
         {
           "path": "_m/s/p/1/f/serra-de-tramuntana-wp/puigmajor5.jpg",
@@ -491,7 +510,9 @@
             "Puig de les Vinyes",
             "Remote views of Puig Major",
             "Taken with Sony DSC-P92"
-          ]
+          ],
+          "mediumPath": "_m/s/p/1/f/serra-de-tramuntana-wp/puigmajor5-medium.webp",
+          "smallPath": "_m/s/p/1/f/serra-de-tramuntana-wp/puigmajor5-small.webp"
         },
         {
           "path": "_m/s/p/4/1/mallorca-wp/calviapueblomallorca-rafax.jpg",
@@ -511,7 +532,8 @@
             "Calvià (vila)",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/s/p/4/1/mallorca-wp/calviapueblomallorca-rafax-small.webp"
         },
         {
           "path": "_m/s/p/1/f/serra-de-tramuntana-wp/puig-d-alaro-serra-de-tramunta.jpg",
@@ -542,7 +564,9 @@
             "Valued images of Spain",
             "Valued images promoted 2016-01",
             "Valued images sorted by promotion date"
-          ]
+          ],
+          "mediumPath": "_m/s/p/1/f/serra-de-tramuntana-wp/puig-d-alaro-serra-de-tramunta-medium.webp",
+          "smallPath": "_m/s/p/1/f/serra-de-tramuntana-wp/puig-d-alaro-serra-de-tramunta-small.webp"
         },
         {
           "path": "_m/s/p/1/f/serra-de-tramuntana-wp/cap-de-formentor-lighthouse.jpg",
@@ -564,7 +588,9 @@
             "Files with coordinates missing SDC location of creation",
             "On OSM",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/p/1/f/serra-de-tramuntana-wp/cap-de-formentor-lighthouse-medium.webp",
+          "smallPath": "_m/s/p/1/f/serra-de-tramuntana-wp/cap-de-formentor-lighthouse-small.webp"
         },
         {
           "path": "_m/s/p/1/f/serra-de-tramuntana-wp/soller-tranvia-de-soller-4338.jpg",
@@ -584,7 +610,9 @@
             "CC-BY-SA-4.0",
             "FS car №21 (retro body)",
             "FS trailer with unknown number 1-7"
-          ]
+          ],
+          "mediumPath": "_m/s/p/1/f/serra-de-tramuntana-wp/soller-tranvia-de-soller-4338-medium.webp",
+          "smallPath": "_m/s/p/1/f/serra-de-tramuntana-wp/soller-tranvia-de-soller-4338-small.webp"
         },
         {
           "path": "_m/s/p/4/1/mallorca-wp/pollensa-en-baleares-espana.jpg",
@@ -599,7 +627,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pollensa,_en_Baleares_(Espa%C3%B1a).jpg",
           "sourceType": "poi",
           "sourceArticleId": "mallorca-wp",
-          "sourceGeohash4": "sp1f"
+          "sourceGeohash4": "sp1f",
+          "mediumPath": "_m/s/p/4/1/mallorca-wp/pollensa-en-baleares-espana-medium.webp",
+          "smallPath": "_m/s/p/4/1/mallorca-wp/pollensa-en-baleares-espana-small.webp"
         },
         {
           "path": "_m/s/p/4/1/mallorca-wp/soller-en-mallorca-baleares-es.jpg",
@@ -614,7 +644,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%B3ller,_en_Mallorca_(Baleares,_Espa%C3%B1a).jpg",
           "sourceType": "poi",
           "sourceArticleId": "mallorca-wp",
-          "sourceGeohash4": "sp1f"
+          "sourceGeohash4": "sp1f",
+          "mediumPath": "_m/s/p/4/1/mallorca-wp/soller-en-mallorca-baleares-es-medium.webp",
+          "smallPath": "_m/s/p/4/1/mallorca-wp/soller-en-mallorca-baleares-es-small.webp"
         },
         {
           "path": "_m/s/p/1/f/serra-de-tramuntana-wp/valdemosa-en-baleares-espana.jpg",
@@ -629,7 +661,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valdemosa,_en_Baleares_(Espa%C3%B1a).jpg",
           "sourceType": "poi",
           "sourceArticleId": "serra-de-tramuntana-wp",
-          "sourceGeohash4": "sp1f"
+          "sourceGeohash4": "sp1f",
+          "mediumPath": "_m/s/p/1/f/serra-de-tramuntana-wp/valdemosa-en-baleares-espana-medium.webp",
+          "smallPath": "_m/s/p/1/f/serra-de-tramuntana-wp/valdemosa-en-baleares-espana-small.webp"
         },
         {
           "path": "_m/s/p/1/f/serra-de-tramuntana-wp/andrach-en-baleares-espana.jpg",
@@ -644,7 +678,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andrach,_en_Baleares_(Espa%C3%B1a).jpg",
           "sourceType": "poi",
           "sourceArticleId": "serra-de-tramuntana-wp",
-          "sourceGeohash4": "sp1f"
+          "sourceGeohash4": "sp1f",
+          "mediumPath": "_m/s/p/1/f/serra-de-tramuntana-wp/andrach-en-baleares-espana-medium.webp",
+          "smallPath": "_m/s/p/1/f/serra-de-tramuntana-wp/andrach-en-baleares-espana-small.webp"
         },
         {
           "path": "_m/s/p/1/f/serra-de-tramuntana-wp/deya-en-baleares-espana.jpg",
@@ -659,7 +695,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dey%C3%A1,_en_Baleares_(Espa%C3%B1a).jpg",
           "sourceType": "poi",
           "sourceArticleId": "serra-de-tramuntana-wp",
-          "sourceGeohash4": "sp1f"
+          "sourceGeohash4": "sp1f",
+          "mediumPath": "_m/s/p/1/f/serra-de-tramuntana-wp/deya-en-baleares-espana-medium.webp",
+          "smallPath": "_m/s/p/1/f/serra-de-tramuntana-wp/deya-en-baleares-espana-small.webp"
         },
         {
           "path": "_m/s/p/4/4/lluc-wk/basilica-of-santuari-de-lluc-f.jpg",
@@ -687,7 +725,9 @@
             "Valued images of the Balearic Islands",
             "Valued images promoted 2015-12",
             "Valued images sorted by promotion date"
-          ]
+          ],
+          "mediumPath": "_m/s/p/4/4/lluc-wk/basilica-of-santuari-de-lluc-f-medium.webp",
+          "smallPath": "_m/s/p/4/4/lluc-wk/basilica-of-santuari-de-lluc-f-small.webp"
         },
         {
           "path": "_m/s/p/4/4/lluc-wk/basilica-of-santuari-de-lluc-i.jpg",
@@ -717,7 +757,9 @@
             "Valued images of Spain",
             "Valued images promoted 2016-01",
             "Valued images sorted by promotion date"
-          ]
+          ],
+          "mediumPath": "_m/s/p/4/4/lluc-wk/basilica-of-santuari-de-lluc-i-medium.webp",
+          "smallPath": "_m/s/p/4/4/lluc-wk/basilica-of-santuari-de-lluc-i-small.webp"
         },
         {
           "path": "_m/s/p/4/4/lluc-wk/sundial-of-lluc-01.jpg",
@@ -737,7 +779,9 @@
             "CC-BY-SA-4.0",
             "Self-published work",
             "Sundial of Lluc"
-          ]
+          ],
+          "mediumPath": "_m/s/p/4/4/lluc-wk/sundial-of-lluc-01-medium.webp",
+          "smallPath": "_m/s/p/4/4/lluc-wk/sundial-of-lluc-01-small.webp"
         },
         {
           "path": "_m/s/p/1/c/palma-de-mallorca-wp/elpuebloespanol-mallorca-rafax.jpg",
@@ -764,7 +808,8 @@
             "Stone arch bridges in the Balearic Islands",
             "Taken with Canon Digital IXUS",
             "Towers in Palma de Mallorca"
-          ]
+          ],
+          "smallPath": "_m/s/p/1/c/palma-de-mallorca-wp/elpuebloespanol-mallorca-rafax-small.webp"
         },
         {
           "path": "_m/s/p/1/c/palma-de-mallorca-wp/miro-s-studio-sert-palma-de-ma.jpg",
@@ -779,7 +824,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miro%27s_Studio_Sert_-_Palma_de_Mallorca.jpg",
           "sourceType": "poi",
           "sourceArticleId": "palma-de-mallorca-wp",
-          "sourceGeohash4": "sp1c"
+          "sourceGeohash4": "sp1c",
+          "mediumPath": "_m/s/p/1/c/palma-de-mallorca-wp/miro-s-studio-sert-palma-de-ma-medium.webp",
+          "smallPath": "_m/s/p/1/c/palma-de-mallorca-wp/miro-s-studio-sert-palma-de-ma-small.webp"
         },
         {
           "path": "_m/s/p/1/c/palma-de-mallorca-wp/ferrocarril-soller-palma-mallo.jpg",
@@ -794,7 +841,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrocarril_Soller_Palma_Mallorca.jpg",
           "sourceType": "poi",
           "sourceArticleId": "palma-de-mallorca-wp",
-          "sourceGeohash4": "sp1c"
+          "sourceGeohash4": "sp1c",
+          "mediumPath": "_m/s/p/1/c/palma-de-mallorca-wp/ferrocarril-soller-palma-mallo-medium.webp",
+          "smallPath": "_m/s/p/1/c/palma-de-mallorca-wp/ferrocarril-soller-palma-mallo-small.webp"
         },
         {
           "path": "_m/s/p/1/c/palma-de-mallorca-wp/palma-cathedral-la-seu-by-nigh.jpg",
@@ -809,7 +858,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palma_Cathedral_(La_Seu)_by_night.jpg",
           "sourceType": "poi",
           "sourceArticleId": "palma-de-mallorca-wp",
-          "sourceGeohash4": "sp1c"
+          "sourceGeohash4": "sp1c",
+          "mediumPath": "_m/s/p/1/c/palma-de-mallorca-wp/palma-cathedral-la-seu-by-nigh-medium.webp",
+          "smallPath": "_m/s/p/1/c/palma-de-mallorca-wp/palma-cathedral-la-seu-by-nigh-small.webp"
         },
         {
           "path": "_m/s/p/1/c/palma-de-mallorca-wp/retaule-major-de-sant-miquel.jpg",
@@ -824,7 +875,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Retaule_major_de_Sant_Miquel.jpg",
           "sourceType": "poi",
           "sourceArticleId": "palma-de-mallorca-wp",
-          "sourceGeohash4": "sp1c"
+          "sourceGeohash4": "sp1c",
+          "mediumPath": "_m/s/p/1/c/palma-de-mallorca-wp/retaule-major-de-sant-miquel-medium.webp",
+          "smallPath": "_m/s/p/1/c/palma-de-mallorca-wp/retaule-major-de-sant-miquel-small.webp"
         },
         {
           "path": "_m/s/p/1/c/palma-de-mallorca-wp/palma-sant-nicolau-forn-del-sa.jpg",
@@ -839,7 +892,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palma._Sant_Nicolau._Forn_del_Sant_Cristo._Caperutxa.jpg",
           "sourceType": "poi",
           "sourceArticleId": "palma-de-mallorca-wp",
-          "sourceGeohash4": "sp1c"
+          "sourceGeohash4": "sp1c",
+          "smallPath": "_m/s/p/1/c/palma-de-mallorca-wp/palma-sant-nicolau-forn-del-sa-small.webp"
         },
         {
           "path": "_m/s/p/1/c/palma-de-mallorca-wp/colisseu-balear-coliseo-balear.jpg",
@@ -854,7 +908,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colisseu_balear_coliseo_balear.jpg",
           "sourceType": "poi",
           "sourceArticleId": "palma-de-mallorca-wp",
-          "sourceGeohash4": "sp1c"
+          "sourceGeohash4": "sp1c",
+          "smallPath": "_m/s/p/1/c/palma-de-mallorca-wp/colisseu-balear-coliseo-balear-small.webp"
         },
         {
           "path": "_m/s/p/1/c/palma-de-mallorca-wp/lonja-palma-de-mallorca-espana.jpg",
@@ -869,7 +924,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lonja,_Palma_de_Mallorca,_Espa%C3%B1a,_2022-10-06,_DD_22-24_HDR.jpg",
           "sourceType": "poi",
           "sourceArticleId": "palma-de-mallorca-wp",
-          "sourceGeohash4": "sp1c"
+          "sourceGeohash4": "sp1c",
+          "mediumPath": "_m/s/p/1/c/palma-de-mallorca-wp/lonja-palma-de-mallorca-espana-medium.webp",
+          "smallPath": "_m/s/p/1/c/palma-de-mallorca-wp/lonja-palma-de-mallorca-espana-small.webp"
         },
         {
           "path": "_m/s/p/1/c/palma-de-mallorca-wp/mallorca-palma-airport-asv2023.jpg",
@@ -884,7 +941,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mallorca_Palma_airport_asv2023-04_img1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "palma-de-mallorca-wp",
-          "sourceGeohash4": "sp1c"
+          "sourceGeohash4": "sp1c",
+          "mediumPath": "_m/s/p/1/c/palma-de-mallorca-wp/mallorca-palma-airport-asv2023-medium.webp",
+          "smallPath": "_m/s/p/1/c/palma-de-mallorca-wp/mallorca-palma-airport-asv2023-small.webp"
         },
         {
           "path": "_m/s/p/4/1/raiguer-wk/alcudia-6790.jpg",
@@ -909,7 +968,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/s/p/4/1/raiguer-wk/alcudia-6790-medium.webp",
+          "smallPath": "_m/s/p/4/1/raiguer-wk/alcudia-6790-small.webp"
         },
         {
           "path": "_m/tpc/al/cu/di/a_/alcudia/pollentia-34.jpg",
@@ -933,7 +994,9 @@
             "Pollentia",
             "Roman atriums",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/al/cu/di/a_/alcudia/pollentia-34-medium.webp",
+          "smallPath": "_m/tpc/al/cu/di/a_/alcudia/pollentia-34-small.webp"
         },
         {
           "path": "_m/tpc/al/cu/di/a_/alcudia/alcudia-porta-des-moll-r01.jpg",
@@ -956,7 +1019,9 @@
             "Porta del Moll (Alcúdia)",
             "Self-published work",
             "Taken with Canon EOS 6D"
-          ]
+          ],
+          "mediumPath": "_m/tpc/al/cu/di/a_/alcudia/alcudia-porta-des-moll-r01-medium.webp",
+          "smallPath": "_m/tpc/al/cu/di/a_/alcudia/alcudia-porta-des-moll-r01-small.webp"
         },
         {
           "path": "_m/tpc/al/cu/di/a_/alcudia/esglesia-de-sant-jaume-alcudia.jpg",
@@ -988,7 +1053,9 @@
             "Valued images of the Balearic Islands",
             "Valued images promoted 2015-11",
             "Valued images sorted by promotion date"
-          ]
+          ],
+          "mediumPath": "_m/tpc/al/cu/di/a_/alcudia/esglesia-de-sant-jaume-alcudia-medium.webp",
+          "smallPath": "_m/tpc/al/cu/di/a_/alcudia/esglesia-de-sant-jaume-alcudia-small.webp"
         },
         {
           "path": "_m/tpc/al/cu/di/a_/alcudia/casa-consistorial-alcudia-towe.jpg",
@@ -1014,7 +1081,9 @@
             "Quality images of Mallorca",
             "Self-published work",
             "Town hall of Alcúdia"
-          ]
+          ],
+          "mediumPath": "_m/tpc/al/cu/di/a_/alcudia/casa-consistorial-alcudia-towe-medium.webp",
+          "smallPath": "_m/tpc/al/cu/di/a_/alcudia/casa-consistorial-alcudia-towe-small.webp"
         },
         {
           "path": "_m/tpc/al/cu/di/a_/alcudia/stierkampfarena-alcudia.jpg",
@@ -1036,7 +1105,9 @@
             "July 2016 in Mallorca",
             "Photographs by Olaf Meister",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/al/cu/di/a_/alcudia/stierkampfarena-alcudia-medium.webp",
+          "smallPath": "_m/tpc/al/cu/di/a_/alcudia/stierkampfarena-alcudia-small.webp"
         },
         {
           "path": "_m/tpc/al/cu/di/a_/alcudia/birds-parc-natural-de-s-albufe.jpg",
@@ -1051,7 +1122,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birds_-_Parc_Natural_de_s%27Albufera,_Spain_2022-04-16.jpg",
           "sourceType": "poi",
           "sourceArticleId": "alcudia",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/al/cu/di/a_/alcudia/birds-parc-natural-de-s-albufe-small.webp"
         },
         {
           "path": "_m/tpc/po/ll/en/ca/pollenca/the-365-calvari-steps.jpg",
@@ -1074,7 +1146,9 @@
             "Puig de Maria",
             "Self-published work",
             "Tourists in Mallorca"
-          ]
+          ],
+          "mediumPath": "_m/tpc/po/ll/en/ca/pollenca/the-365-calvari-steps-medium.webp",
+          "smallPath": "_m/tpc/po/ll/en/ca/pollenca/the-365-calvari-steps-small.webp"
         },
         {
           "path": "_m/tpc/po/ll/en/ca/pollenca/pollenca-placa-major-02.jpg",
@@ -1094,7 +1168,9 @@
             "Buildings in Pollença",
             "CC-BY-SA-4.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/po/ll/en/ca/pollenca/pollenca-placa-major-02-medium.webp",
+          "smallPath": "_m/tpc/po/ll/en/ca/pollenca/pollenca-placa-major-02-small.webp"
         },
         {
           "path": "_m/tpc/po/ll/en/ca/pollenca/pollencaview.jpg",
@@ -1115,7 +1191,9 @@
             "Files with coordinates missing SDC location of creation",
             "Pollença in the 2010s",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/po/ll/en/ca/pollenca/pollencaview-medium.webp",
+          "smallPath": "_m/tpc/po/ll/en/ca/pollenca/pollencaview-small.webp"
         },
         {
           "path": "_m/tpc/po/ll/en/ca/pollenca/santuario-del-puig-de-maria-ma.jpg",
@@ -1137,7 +1215,9 @@
             "Self-published work",
             "Uploaded with LrMediaWiki",
             "Uploads by User:Matthias Süßen"
-          ]
+          ],
+          "mediumPath": "_m/tpc/po/ll/en/ca/pollenca/santuario-del-puig-de-maria-ma-medium.webp",
+          "smallPath": "_m/tpc/po/ll/en/ca/pollenca/santuario-del-puig-de-maria-ma-small.webp"
         }
       ],
       "narration": [

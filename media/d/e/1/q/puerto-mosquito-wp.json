@@ -10,8 +10,55 @@
         "_m/d/e/1/q/puerto-mosquito-wp/de1q-puerto-mosquito-the-darkness-the-light-requires.mp3",
         "_m/d/e/1/q/puerto-mosquito-wp/de1q-puerto-mosquito-paddling-through-stars.mp3"
       ],
+      "hero": {
+        "path": "_m/d/e/1/q/puerto-mosquito-wp/hero.jpg",
+        "filename": "Vieques Bio Bay NR.jpg",
+        "caption": "Vieques Bio Bay NR",
+        "alt": "Vieques Bio Bay NR",
+        "width": 1024,
+        "height": 768,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 4.0",
+        "artist": "USDA, DRNA PR",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vieques_Bio_Bay_NR.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "puerto-mosquito-wp",
+        "sourceGeohash4": "de1q",
+        "categories": [
+          "Aerial photographs of Vieques, Puerto Rico",
+          "Aerial photographs of the Virgin Islands",
+          "CC-BY-SA-4.0"
+        ]
+      },
+      "videos": [
+        {
+          "path": "_m/d/e/1/r/vieques-puerto-rico-wp/kayaking-in-the-bioluminescent-bay-viequ.mp4",
+          "posterPath": "_m/d/e/1/r/vieques-puerto-rico-wp/kayaking-in-the-bioluminescent-bay-viequ-poster.jpg",
+          "audioPath": "_m/d/e/1/r/vieques-puerto-rico-wp/kayaking-in-the-bioluminescent-bay-viequ-audio.mp3",
+          "filename": "Kayaking in the Bioluminescent Bay Vieques.webm",
+          "caption": "Kayaking in the Bioluminescent Bay, Vieques, Puerto Rico (shots taken at ISO 409,600 with post-processing to reduce noises)",
+          "width": 1280,
+          "height": 720,
+          "duration": 77.677,
+          "mimeType": "video/mp4",
+          "originalMimeType": "video/webm",
+          "license": "CC BY-SA 3.0",
+          "artist": "Z22",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kayaking_in_the_Bioluminescent_Bay_Vieques.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "accessedAt": "2026-10-17T14:37:43.270Z",
+          "sourceType": "core",
+          "sourceArticleId": "puerto-mosquito-wp",
+          "relevanceScore": 20,
+          "scoringFactors": {
+            "titleRelevance": 10,
+            "descriptionRelevance": 10,
+            "historicalBonus": 0,
+            "aerialBonus": 0
+          }
+        }
+      ],
       "combinedNarration": "_m/d/e/1/q/puerto-mosquito-wp/de1q-puerto-mosquito-combined.mp3",
-      "combinedNarrationBytes": 4026401,
+      "combinedNarrationBytes": 4026473,
       "combinedNarrationDuration": 335
     }
   }

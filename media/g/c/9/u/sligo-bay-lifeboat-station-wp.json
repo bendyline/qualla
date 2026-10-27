@@ -3,26 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/9/u/sligo-bay-lifeboat-station-wp/hero.png",
-        "filename": "Ireland relief location map.png",
-        "caption": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
-        "alt": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
-        "width": 1450,
-        "height": 1807,
-        "mimeType": "image/png",
-        "license": "CC BY-SA 3.0",
-        "artist": "Nilfanion",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ireland_relief_location_map.png",
-        "sourceType": "core",
+        "path": "_m/g/c/9/u/sligo-bay-lifeboat-station-wp/lifeboat-station-rosses-point-.jpg",
+        "filename": "Lifeboat Station, Rosses Point - geograph.org.uk - 1622663.jpg",
+        "caption": "Lifeboat Station, Rosses Point Looking down on the lifeboat station. Oyster island is on the left and Coney island on the right.",
+        "alt": "Lifeboat Station, Rosses Point Looking down on the lifeboat station. Oyster island is on the left and Coney island on the right.",
+        "width": 640,
+        "height": 480,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 2.0",
+        "artist": "Willie Duffin",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lifeboat_Station,_Rosses_Point_-_geograph.org.uk_-_1622663.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "sligo-bay-lifeboat-station-wp",
         "sourceGeohash4": "gc9u",
         "categories": [
-          "Blank maps of the Republic of Ireland",
-          "CC-BY-SA-3.0",
-          "Images with extracted images",
-          "Maps by Nilfanion",
-          "Relief location maps of Ireland"
-        ]
+          "CC-BY-SA-2.0",
+          "Coney Island, County Sligo",
+          "Images by Willie Duffin",
+          "Images from Geograph Britain and Ireland",
+          "Information field template with formatting",
+          "Lighthouses in County Sligo",
+          "October 2009 Ireland photographs",
+          "Republic of Ireland photographs taken on 2009-10-22",
+          "Sligo Bay Lifeboat Station"
+        ],
+        "smallPath": "_m/g/c/9/u/sligo-bay-lifeboat-station-wp/lifeboat-station-rosses-point--small.webp"
       },
       "images": [
         {
@@ -75,7 +80,9 @@
             "Self-published work",
             "Taken with Canon EOS 30D",
             "Tory Bhrennell, Inishmurray"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/rosses-point-wk/inishmurray-county-sli-medium.webp",
+          "smallPath": "_m/g/c/9/u/rosses-point-wk/inishmurray-county-sli-small.webp"
         },
         {
           "path": "_m/g/c/9/u/rosses-point-wk/hero.jpg",
@@ -95,7 +102,9 @@
             "CC-BY-SA-4.0",
             "Rosses Point",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/rosses-point-wk/hero-medium.webp",
+          "smallPath": "_m/g/c/9/u/rosses-point-wk/hero-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/rockwood-parade-sligo.jpg",
@@ -119,7 +128,9 @@
             "Self-published work",
             "Sligo",
             "Taken with Fujifilm FinePix S5100"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/sligo-wp/rockwood-parade-sligo-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-wp/rockwood-parade-sligo-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/creevelea-friary-s-2007-08-16.jpg",
@@ -145,7 +156,9 @@
             "Photographs by Andreas F. Borchert",
             "Self-published work",
             "Taken with Canon EOS 30D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/sligo-wp/creevelea-friary-s-2007-08-16-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-wp/creevelea-friary-s-2007-08-16-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/parkes-castle-in-winter.jpg",
@@ -164,7 +177,9 @@
           "categories": [
             "PD-user",
             "Parke's Castle"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/sligo-wp/parkes-castle-in-winter-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-wp/parkes-castle-in-winter-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/lola-montez-caricature-departu.jpg",
@@ -186,7 +201,8 @@
             "PD-US missing SDC copyright status",
             "PD US",
             "Works by David Claypoole Johnston"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/u/sligo-wp/lola-montez-caricature-departu-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/glencar-waterfall.jpg",
@@ -208,7 +224,8 @@
             "Files from Wikivoyage wts",
             "Glencar Waterfall",
             "Taken with Fujifilm FinePix S5100"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/u/sligo-wp/glencar-waterfall-small.webp"
         },
         {
           "path": "_m/g/c/9/u/county-sligo-wp/yeats-statue.jpg",
@@ -229,7 +246,9 @@
             "CC-BY-SA-2.5",
             "Files from Wikivoyage wts",
             "Files with no machine-readable source"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/county-sligo-wp/yeats-statue-medium.webp",
+          "smallPath": "_m/g/c/9/u/county-sligo-wp/yeats-statue-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/sligo-town-nite.jpg",
@@ -244,7 +263,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sligo_town_nite.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sligo-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "smallPath": "_m/g/c/9/u/sligo-wp/sligo-town-nite-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/the-glass-house.jpg",
@@ -259,7 +279,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Glass_House.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sligo-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "smallPath": "_m/g/c/9/u/sligo-wp/the-glass-house-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-abbey-wp/sligo-abbey-friary.jpg",
@@ -274,7 +295,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sligo_Abbey_Friary_-_Cloisters.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sligo-abbey-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "smallPath": "_m/g/c/9/u/sligo-abbey-wp/sligo-abbey-friary-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-abbey-wp/south-east-view-choir.jpg",
@@ -289,7 +311,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sligo_Priory_of_the_Holy_Cross_Choir_SE_2015_09_08.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sligo-abbey-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "mediumPath": "_m/g/c/9/u/sligo-abbey-wp/south-east-view-choir-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-abbey-wp/south-east-view-choir-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/grave-of-w-b-yeats.jpg",
@@ -304,7 +328,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grave_of_W.B._Yeats.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "sligo-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "mediumPath": "_m/g/c/9/u/sligo-wp/grave-of-w-b-yeats-medium.webp",
+          "smallPath": "_m/g/c/9/u/sligo-wp/grave-of-w-b-yeats-small.webp"
         },
         {
           "path": "_m/g/c/9/u/sligo-wp/sean-mac-diarmada-42977572542.png",
@@ -319,7 +345,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sean_Mac_Diarmada_(42977572542).png",
           "sourceType": "sibling",
           "sourceArticleId": "sligo-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "smallPath": "_m/g/c/9/u/sligo-wp/sean-mac-diarmada-42977572542-small.webp"
         }
       ],
       "narration": [

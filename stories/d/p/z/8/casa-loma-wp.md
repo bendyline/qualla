@@ -37,7 +37,7 @@ Casa Loma sits at 43.6781N, 79.4095W on Davenport Hill in midtown Toronto, perch
 ## Sources
 
 - [Casa Loma - Wikipedia](https://en.wikipedia.org/?curid=21969495)
-- [Casa Loma - Wikipedia](https://en.wikipedia.org/wiki/Casa_Loma)
+- [Casa Loma - Wikipedia](https://en.wikipedia.org/?curid=21969495)
   - 98 rooms covering 64700 square feet
   - Construction cost $3.5 million
   - Built 1911-1914 by E.J. Lennox

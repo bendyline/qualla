@@ -3,29 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/7/4/d/thakhek-wk/hero.jpg",
-        "filename": "View of Thakhek and Mountains full.jpg",
-        "caption": "rotation of File:View of Thakhek and Mountains.jpg",
-        "alt": "rotation of File:View of Thakhek and Mountains.jpg",
-        "width": 1460,
-        "height": 920,
+        "path": "_m/w/7/4/d/thakhek-wk/4-10-102-grmauer2.jpg",
+        "filename": "4.10.102.GrMauer2.jpg",
+        "caption": "Rock formation \"Kampaeng Yak\" near Thakhek, Laos.",
+        "alt": "Rock formation \"Kampaeng Yak\" near Thakhek, Laos.",
+        "width": 3648,
+        "height": 2736,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "Penyulap",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Thakhek_and_Mountains_full.jpg",
-        "sourceType": "core",
+        "artist": "Torbenbrinker",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:4.10.102.GrMauer2.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "thakhek-wk",
         "sourceGeohash4": "w74d",
         "categories": [
           "CC-BY-SA-3.0",
           "Self-published work",
-          "Taken with Canon Digital IXUS 50",
+          "Taken with Canon PowerShot A2000 IS",
           "Thakhek"
-        ]
+        ],
+        "mediumPath": "_m/w/7/4/d/thakhek-wk/4-10-102-grmauer2-medium.webp",
+        "smallPath": "_m/w/7/4/d/thakhek-wk/4-10-102-grmauer2-small.webp"
       },
       "images": [
         {
-          "path": "_m/w/7/4/d/thakhek-wk/buddha-cave-laos.jpg",
+          "path": "_m/w/7/4/d/thakhek-wp/buddha-cave-laos.jpg",
           "filename": "Buddha cave, Laos.jpg",
           "caption": "near Tha Khaek, Laos",
           "alt": "near Tha Khaek, Laos",
@@ -44,10 +46,10 @@
             "Flickr images reviewed by FlickreviewR",
             "Taken with Nikon D100"
           ],
-          "smallPath": "_m/w/7/4/d/thakhek-wk/buddha-cave-laos-small.webp"
+          "smallPath": "_m/w/7/4/d/thakhek-wp/buddha-cave-laos-small.webp"
         },
         {
-          "path": "_m/w/7/4/d/thakhek-wk/bus-da-nang-vietnam-ad.jpg",
+          "path": "_m/w/6/u/g/da-nang-wk/bus-da-nang-vietnam-ad.jpg",
           "filename": "Da Nang Thakhek Bus.JPG",
           "caption": "A bus in Da Nang, Vietnam, advertising service to Thakhek, in Laos.",
           "alt": "A bus in Da Nang, Vietnam, advertising service to Thakhek, in Laos.",
@@ -70,7 +72,9 @@
             "Self-published work",
             "Streets in Da Nang",
             "Taken with iPhone 3GS"
-          ]
+          ],
+          "mediumPath": "_m/w/6/u/g/da-nang-wk/bus-da-nang-vietnam-ad-medium.webp",
+          "smallPath": "_m/w/6/u/g/da-nang-wk/bus-da-nang-vietnam-ad-small.webp"
         },
         {
           "path": "_m/w/7/4/d/thakhek-wk/buffaloskin.jpg",
@@ -412,7 +416,8 @@
             "License migration redundant",
             "Panoramics of Thakhek",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/tpc/la/os/__/__/laos/khammouane-thakhek2-tango7174-small.webp"
         },
         {
           "path": "_m/w/7/4/e/nakhon-phanom-wk/hero.jpg",
@@ -432,7 +437,9 @@
             "CC-BY-SA-4.0",
             "Self-published work",
             "Wikivoyage banners of Thailand"
-          ]
+          ],
+          "mediumPath": "_m/w/7/4/e/nakhon-phanom-wk/hero-medium.webp",
+          "smallPath": "_m/w/7/4/e/nakhon-phanom-wk/hero-small.webp"
         }
       ],
       "narration": [

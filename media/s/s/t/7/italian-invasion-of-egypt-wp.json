@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/s/t/7/italian-invasion-of-egypt-wp/hero.jpg",
-        "filename": "Bundesarchiv Bild 101I-783-0107-27, Nordafrika, italienischer Panzer L3-33.jpg",
-        "alt": "Bundesarchiv Bild 101I-783-0107-27, Nordafrika, italienischer Panzer L3-33.jpg",
+        "path": "_m/s/t/9/n/operation-crusader-wp/carri-armati-italiani.jpg",
+        "filename": "Bundesarchiv Bild 101I-783-0104-38, Nordafrika, italienische Panzer M13-40.jpg",
+        "caption": "carri armati italiani del Regio Esercito (modello M13/40) di guardia nel deserto africano",
+        "alt": "carri armati italiani del Regio Esercito (modello M13/40) di guardia nel deserto africano",
         "width": 800,
-        "height": 512,
-        "mimeType": "image/jpeg",
+        "height": 511,
         "license": "CC BY-SA 3.0 de",
-        "artist": "Dorsen",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-783-0107-27,_Nordafrika,_italienischer_Panzer_L3-33.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "italian-invasion-of-egypt-wp",
-        "sourceGeohash4": "sst7",
-        "categories": [
-          "CC-BY-SA-3.0-DE",
-          "CV35",
-          "Images from the German Federal Archive",
-          "Photographs by Dorsen, PK"
-        ]
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "artist": "Moosmüller",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-783-0104-38,_Nordafrika,_italienische_Panzer_M13-40.jpg",
+        "smallPath": "_m/s/t/9/n/operation-crusader-wp/carri-armati-italiani-small.webp"
       },
       "images": [
         {
-          "path": "_m/s/s/t/7/italian-invasion-of-egypt-wp/carri-armati-italiani.jpg",
+          "path": "_m/s/t/9/n/operation-crusader-wp/carri-armati-italiani.jpg",
           "filename": "Bundesarchiv Bild 101I-783-0104-38, Nordafrika, italienische Panzer M13-40.jpg",
           "caption": "carri armati italiani del Regio Esercito (modello M13/40) di guardia nel deserto africano",
           "alt": "carri armati italiani del Regio Esercito (modello M13/40) di guardia nel deserto africano",
@@ -47,7 +40,8 @@
             "Photographs by Moosmüller, PK",
             "World War II forces of Italy in North Africa",
             "World War II in May 1941"
-          ]
+          ],
+          "smallPath": "_m/s/t/9/n/operation-crusader-wp/carri-armati-italiani-small.webp"
         }
       ],
       "narration": [
@@ -59,8 +53,9 @@
         "_m/s/s/t/7/italian-invasion-of-egypt-wp/sst7-italian-invasion-of-egypt-the-trap-springs-shut.mp3"
       ],
       "combinedNarration": "_m/s/s/t/7/italian-invasion-of-egypt-wp/sst7-italian-invasion-of-egypt-combined.mp3",
-      "combinedNarrationBytes": 3467503,
-      "combinedNarrationDuration": 289
+      "combinedNarrationBytes": 3528948,
+      "combinedNarrationDuration": 289,
+      "combinedCover": "_m/s/s/t/7/italian-invasion-of-egypt-wp/sst7-italian-invasion-of-egypt-combined-cover.jpg"
     }
   }
 }

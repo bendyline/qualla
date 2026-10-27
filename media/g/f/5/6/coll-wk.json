@@ -3,28 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/5/6/coll-wk/hero.jpg",
-        "filename": "Isle of Coll, April, 2017-7.jpg",
-        "caption": "Isle of Coll, April, 2017",
-        "alt": "Isle of Coll, April, 2017",
-        "width": 4927,
-        "height": 3285,
+        "path": "_m/g/f/5/6/coll-wk/approaching-acha-geograph-org-.jpg",
+        "filename": "Approaching Acha - geograph.org.uk - 2417689.jpg",
+        "caption": "Approaching Acha",
+        "alt": "Approaching Acha",
+        "width": 4320,
+        "height": 3240,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Alexey Komarov",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isle_of_Coll,_April,_2017-7.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Euan Nelson",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Approaching_Acha_-_geograph.org.uk_-_2417689.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "coll-wk",
         "sourceGeohash4": "gf56",
         "categories": [
-          "April 2017 by user:Alexkom000",
-          "April 2017 in Argyll and Bute",
-          "Buildings on Coll"
-        ]
+          "CC-BY-SA-2.0",
+          "Coll",
+          "Images from Geograph Britain and Ireland"
+        ],
+        "mediumPath": "_m/g/f/5/6/coll-wk/approaching-acha-geograph-org--medium.webp",
+        "smallPath": "_m/g/f/5/6/coll-wk/approaching-acha-geograph-org--small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/5/6/coll-wk/coll.jpg",
+          "path": "_m/g/f/5/6/coll-wp/coll.jpg",
           "filename": "Coll.jpg",
           "caption": "Photo shot by By myself, Cannikin13, and I release it to the public domain.",
           "alt": "Photo shot by By myself, Cannikin13, and I release it to the public domain.",
@@ -47,7 +49,8 @@
             "Self-published work",
             "Taken with Canon EOS 20D",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/5/6/coll-wp/coll-small.webp"
         },
         {
           "path": "_m/g/f/5/6/coll-wk/bagh-an-trailleich-coll-geogra.jpg",
@@ -485,7 +488,8 @@
             "PNG that should use vector graphics",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/6/e/flannan-isles-wk/hebridesmap-small.webp"
         },
         {
           "path": "_m/g/f/5/6/coll-wp/dun-beic-photo-c-1900.jpg",
@@ -507,7 +511,8 @@
             "PD-old missing SDC copyright status",
             "PD Old",
             "Photographs by Erskine Beveridge"
-          ]
+          ],
+          "smallPath": "_m/g/f/5/6/coll-wp/dun-beic-photo-c-1900-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map.jpg",
@@ -531,7 +536,8 @@
             "Location maps of Scotland",
             "Relief location maps of the United Kingdom",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map-small.webp"
         },
         {
           "path": "_m/g/f/5/6/coll-wp/maclean-s-tomb-geograph-org-uk.jpg",
@@ -546,7 +552,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:MacLean%27s_Tomb_-_geograph.org.uk_-_918236.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "coll-wp",
-          "sourceGeohash4": "gf56"
+          "sourceGeohash4": "gf56",
+          "smallPath": "_m/g/f/5/6/coll-wp/maclean-s-tomb-geograph-org-uk-small.webp"
         },
         {
           "path": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute.jpg",
@@ -561,7 +568,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Argyll_and_Bute_UK_relief_location_map.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "isle-of-mull-wp",
-          "sourceGeohash4": "gf56"
+          "sourceGeohash4": "gf56",
+          "mediumPath": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute-medium.webp",
+          "smallPath": "_m/g/f/5/9/isle-of-mull-wp/relief-map-argyll-bute-small.webp"
         },
         {
           "path": "_m/g/f/5/6/coll-wp/top-of-ben-hogh-geograph-org-u.jpg",
@@ -576,7 +585,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Top_of_Ben_Hogh_-_geograph.org.uk_-_4960821.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "coll-wp",
-          "sourceGeohash4": "gf56"
+          "sourceGeohash4": "gf56",
+          "smallPath": "_m/g/f/5/6/coll-wp/top-of-ben-hogh-geograph-org-u-small.webp"
         },
         {
           "path": "_m/g/f/5/1/tiree-wp/topographic-relief-map-of-coll.png",
@@ -591,7 +601,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Topographic_relief_map_of_Coll_and_Tiree.png",
           "sourceType": "sibling",
           "sourceArticleId": "tiree-wp",
-          "sourceGeohash4": "gf56"
+          "sourceGeohash4": "gf56",
+          "mediumPath": "_m/g/f/5/1/tiree-wp/topographic-relief-map-of-coll-medium.webp",
+          "smallPath": "_m/g/f/5/1/tiree-wp/topographic-relief-map-of-coll-small.webp"
         },
         {
           "path": "_m/g/f/5/6/coll-wp/crop-dscn6646-both-breachacha-.jpg",
@@ -606,7 +618,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crop_DSCN6646_both_Breachacha_Castles_(cropped).jpg",
           "sourceType": "sibling",
           "sourceArticleId": "coll-wp",
-          "sourceGeohash4": "gf56"
+          "sourceGeohash4": "gf56",
+          "mediumPath": "_m/g/f/5/6/coll-wp/crop-dscn6646-both-breachacha--medium.webp",
+          "smallPath": "_m/g/f/5/6/coll-wp/crop-dscn6646-both-breachacha--small.webp"
         },
         {
           "path": "_m/g/f/5/1/tiree-wp/loganair-viking-air-dhc-6-400-.jpg",
@@ -628,7 +642,9 @@
             "De Havilland Canada DHC-6 Twin Otter at Tiree Airport",
             "Flickr images missing SDC published in",
             "Flickr images reviewed by FlickreviewR"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/1/tiree-wp/loganair-viking-air-dhc-6-400--medium.webp",
+          "smallPath": "_m/g/f/5/1/tiree-wp/loganair-viking-air-dhc-6-400--small.webp"
         },
         {
           "path": "_m/g/f/5/2/iona-wp/iona-abbey-july-2011.jpg",
@@ -649,7 +665,9 @@
             "Files with coordinates missing SDC location of creation",
             "Iona Abbey",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/2/iona-wp/iona-abbey-july-2011-medium.webp",
+          "smallPath": "_m/g/f/5/2/iona-wp/iona-abbey-july-2011-small.webp"
         },
         {
           "path": "_m/g/f/5/2/iona-wp/iona-banner.jpg",
@@ -669,7 +687,9 @@
             "CC-Zero",
             "Iona, Scotland",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/2/iona-wp/iona-banner-medium.webp",
+          "smallPath": "_m/g/f/5/2/iona-wp/iona-banner-small.webp"
         },
         {
           "path": "_m/g/f/5/9/inner-hebrides-wp/traigh-feall-isle-of-coll.jpg",
@@ -693,7 +713,9 @@
             "Fences in Argyll and Bute",
             "PD-user",
             "Taken with Pentax Optio 330RS"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/9/inner-hebrides-wp/traigh-feall-isle-of-coll-medium.webp",
+          "smallPath": "_m/g/f/5/9/inner-hebrides-wp/traigh-feall-isle-of-coll-small.webp"
         },
         {
           "path": "_m/g/f/5/9/inner-hebrides-wp/fingal-s-cave-staffa-island-01.jpg",
@@ -708,7 +730,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fingal%27s_Cave,_Staffa_Island_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "inner-hebrides-wp",
-          "sourceGeohash4": "gf59"
+          "sourceGeohash4": "gf59",
+          "mediumPath": "_m/g/f/5/9/inner-hebrides-wp/fingal-s-cave-staffa-island-01-medium.webp",
+          "smallPath": "_m/g/f/5/9/inner-hebrides-wp/fingal-s-cave-staffa-island-01-small.webp"
         },
         {
           "path": "_m/g/f/5/9/inner-hebrides-wp/00-2355-skye-bridge-scotland.jpg",
@@ -723,7 +747,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_2355_Skye_Bridge_-_(Scotland).jpg",
           "sourceType": "poi",
           "sourceArticleId": "inner-hebrides-wp",
-          "sourceGeohash4": "gf59"
+          "sourceGeohash4": "gf59",
+          "mediumPath": "_m/g/f/5/9/inner-hebrides-wp/00-2355-skye-bridge-scotland-medium.webp",
+          "smallPath": "_m/g/f/5/9/inner-hebrides-wp/00-2355-skye-bridge-scotland-small.webp"
         },
         {
           "path": "_m/g/f/5/9/inner-hebrides-wp/aus-dem-13-jahrhundert-stammen.jpg",
@@ -738,7 +764,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%2B_Aus_dem_13._Jahrhundert_stammen_die_ersten_Geb%C3%A4udeteile_der_Duart_Burg._3.jpg",
           "sourceType": "poi",
           "sourceArticleId": "inner-hebrides-wp",
-          "sourceGeohash4": "gf59"
+          "sourceGeohash4": "gf59",
+          "mediumPath": "_m/g/f/5/9/inner-hebrides-wp/aus-dem-13-jahrhundert-stammen-medium.webp",
+          "smallPath": "_m/g/f/5/9/inner-hebrides-wp/aus-dem-13-jahrhundert-stammen-small.webp"
         },
         {
           "path": "_m/g/f/5/9/mull-wk/staffa-ahead-14609.jpg",
@@ -761,7 +789,8 @@
             "License migration completed",
             "Media missing infobox template",
             "Taken with Canon Digital IXUS 300"
-          ]
+          ],
+          "smallPath": "_m/g/f/5/9/mull-wk/staffa-ahead-14609-small.webp"
         },
         {
           "path": "_m/g/f/5/9/mull-wk/tobermory-distillery-isle-of-m.jpg",
@@ -783,7 +812,9 @@
             "Self-published work",
             "Taken with Nikon D700",
             "Tobermory distillery"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/9/mull-wk/tobermory-distillery-isle-of-m-medium.webp",
+          "smallPath": "_m/g/f/5/9/mull-wk/tobermory-distillery-isle-of-m-small.webp"
         },
         {
           "path": "_m/g/f/5/9/mull-wk/mull-lochbuie-5.jpg",
@@ -807,7 +838,9 @@
             "Self-published work",
             "Telephone boxes in Argyll and Bute",
             "User:PaulT/gallery/S2019"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/9/mull-wk/mull-lochbuie-5-medium.webp",
+          "smallPath": "_m/g/f/5/9/mull-wk/mull-lochbuie-5-small.webp"
         },
         {
           "path": "_m/g/f/5/9/mull-wk/mull-glengorm-castle-standing-.jpg",
@@ -830,7 +863,9 @@
             "Self-published work",
             "Standing stones in Argyll and Bute",
             "User:PaulT/gallery/S2019"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/9/mull-wk/mull-glengorm-castle-standing--medium.webp",
+          "smallPath": "_m/g/f/5/9/mull-wk/mull-glengorm-castle-standing--small.webp"
         },
         {
           "path": "_m/g/f/5/9/mull-wk/tobermory-from-its-hinterland-.jpg",
@@ -851,7 +886,9 @@
             "Images from Geograph Britain and Ireland",
             "Kilninian and Kilmore",
             "Tobermory, Mull"
-          ]
+          ],
+          "mediumPath": "_m/g/f/5/9/mull-wk/tobermory-from-its-hinterland--medium.webp",
+          "smallPath": "_m/g/f/5/9/mull-wk/tobermory-from-its-hinterland--small.webp"
         }
       ],
       "narration": [

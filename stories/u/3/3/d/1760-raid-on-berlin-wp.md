@@ -46,7 +46,7 @@ The events centre on 52.5186 N, 13.4081 E — the old walled city on and around 
 
 ## Sources
 
-- [1760 raid on Berlin - Wikipedia](https://en.wikipedia.org/wiki/1760_raid_on_Berlin)
+- [1760 raid on Berlin - Wikipedia](https://en.wikipedia.org/?curid=26327755)
   - Austrian and Russian forces occupied Berlin for three days, 9-12 October 1760, during the Third Silesian War / Seven Years' War
   - Allied invasion of Silesia had stalled and they were defeated at the Battle of Liegnitz in August 1760; Berlin left vulnerable by Frederick the Great's concentration of forces in Silesia; France suggested the raid
   - A smaller Austrian raid had briefly occupied Berlin in October 1757; the plan used a feint towards Guben, with Tottleben detaching north and Lacy's Austrians following; Cossacks and light cavalry included for speed

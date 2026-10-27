@@ -41,7 +41,7 @@ Louhisaari stands at 60.5709 N, 21.8309 E, in the former parish of Askainen, now
   - Committee for an Equestrian Monument for Marshal of Finland purchased manor from Inkeri Hovinen and donated it, transferred to Finnish Heritage Agency on 1 July 1961 - confirmed
   - Restoration carried out 1962-1967 - confirmed
   - Main building opened to the public as a museum on 1 June 1967 - confirmed
-- [Louhisaari manor - Wikipedia](https://en.wikipedia.org/wiki/Louhisaari_manor)
+- [Louhisaari manor - Wikipedia](https://en.wikipedia.org/?curid=58031800)
   - Built 1655 by Herman Klasson Fleming, admiral and Governor-General of Finland, in Dutch Palladian style - confirmed
   - Fleming family held estate from mid-15th century; sold to Carl Erik Mannerheim in 1795; Mannerheim family owned until 1903 sale to Oskar Hannus - confirmed
   - Mannerheim born at Louhisaari in 1867 (4 June per additional sources) - confirmed

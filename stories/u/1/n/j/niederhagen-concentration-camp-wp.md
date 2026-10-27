@@ -36,7 +36,7 @@ The site lies at 51.608N, 8.662E on the edge of Wewelsburg village, part of Bure
 
 ## Sources
 
-- [Niederhagen concentration camp - Wikipedia](https://en.wikipedia.org/wiki/Niederhagen_concentration_camp)
+- [Niederhagen concentration camp - Wikipedia](https://en.wikipedia.org/?curid=15430106)
 - [KZ Niederhagen - Wikipedia (German)](https://de.wikipedia.org/wiki/KZ_Niederhagen)
   - approximately 3,900 prisoners; 1,285 recorded deaths; almost a third did not survive
   - 56 people killed in executions: 42 hanged and 14 Soviet prisoners of war shot
@@ -49,7 +49,7 @@ The site lies at 51.608N, 8.662E on the edge of Wewelsburg village, part of Bure
 - [Adolf Haas (KZ-Kommandant) - Wikipedia (German)](https://de.wikipedia.org/wiki/Adolf_Haas_(KZ-Kommandant))
   - Adolf Haas commanded Niederhagen from September 1941 to its dissolution, and went on to become the first commandant of Bergen-Belsen (replaced by Josef Kramer at the end of 1944)
   - prisoner testimony records Haas declaring on the roll-call square, 'I am the lord God of Wewelsburg' ('Ich bin der Herrgott von Wewelsburg')
-- [Niederhagen concentration camp - Wikipedia (re-verification)](https://en.wikipedia.org/wiki/Niederhagen_concentration_camp)
+- [Niederhagen concentration camp - Wikipedia (re-verification)](https://en.wikipedia.org/?curid=15430106)
   - approximately 3,900 prisoners and 1,285 recorded deaths re-confirmed (a death rate of just under a third)
   - camp began May 1939 with 100 prisoners from Sachsenhausen, became independent 1 September 1941 with 480 prisoners
   - crematorium built 1942; liberated 2 April 1945 by U.S. forces

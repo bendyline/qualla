@@ -33,7 +33,7 @@ Haneda Airport (RJTT) is located at 35.553N, 139.781E on the western shore of To
 ## Sources
 
 - [Haneda Airport - Wikipedia](https://en.wikipedia.org/?curid=24071884)
-- [Haneda Airport - Wikipedia](https://en.wikipedia.org/wiki/Haneda_Airport)
+- [Haneda Airport - Wikipedia](https://en.wikipedia.org/?curid=24071884)
   - Airport opened August 25, 1931
   - First flight carried insects to Dairen (Kwantung Leased Territory)
   - MacArthur took possession September 12-13, 1945

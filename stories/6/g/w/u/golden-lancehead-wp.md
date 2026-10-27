@@ -46,7 +46,7 @@ The golden lancehead's sole habitat, Ilha da Queimada Grande, sits at approximat
   - Critically endangered IUCN status
   - Island closed to public by Brazilian government
   - Facultative arboreal behavior, not truly arboreal
-- [Golden lancehead - A-Z Animals / BBC Science Focus](https://en.wikipedia.org/wiki/Golden_lancehead)
+- [Golden lancehead - A-Z Animals / BBC Science Focus](https://en.wikipedia.org/?curid=12506993)
   - Island area 43 hectares confirmed
   - Island 33 km off Sao Paulo coast confirmed
   - Venom potency claim (five times B. jararaca) confirmed across multiple sources

@@ -37,7 +37,7 @@ Spenceville Wildlife Area is located at 39.1444N, 121.317W in the Sierra Nevada 
 ## Sources
 
 - [Spenceville Wildlife Area - Wikipedia](https://en.wikipedia.org/?curid=9328838)
-- [Spenceville Wildlife Area - Wikipedia](https://en.wikipedia.org/wiki/Spenceville_Wildlife_Area)
+- [Spenceville Wildlife Area - Wikipedia](https://en.wikipedia.org/?curid=9328838)
   - 11,448-acre preserve managed by California Department of Fish and Wildlife — confirmed
   - Town had post office, three general stores, hotel, Methodist church, Templar lodge, ~400 residents — confirmed
   - Copper ore discovered on Purtyman's Ranch in early 1860s — confirmed

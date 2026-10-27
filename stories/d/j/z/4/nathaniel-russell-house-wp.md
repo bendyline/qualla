@@ -46,7 +46,7 @@ Located at 32.77°N, 79.93°W on Meeting Street in downtown Charleston's histori
 - [Nathaniel Russell House - SC Picture Project](https://www.scpictureproject.org/charleston-county/nathaniel-russell-house.html)
   - Federal style architecture
   - Unknown architect commissioned by Russell
-- [Nathaniel Russell House - Wikipedia](https://en.wikipedia.org/wiki/Nathaniel_Russell_House)
+- [Nathaniel Russell House - Wikipedia](https://en.wikipedia.org/?curid=8893733)
   - Construction began 1803, completed 1808
   - Russell born 1738 in Bristol, Rhode Island, arrived Charleston 1765
   - Robert Allston purchased house 1857, served as SC governor 1856-1858

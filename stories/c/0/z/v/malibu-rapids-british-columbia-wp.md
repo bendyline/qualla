@@ -33,7 +33,7 @@ Located at 50.16°N, 123.85°W at the narrow entrance connecting Jervis Inlet to
 ## Sources
 
 - [Malibu Rapids (British Columbia) - Wikipedia](https://en.wikipedia.org/?curid=18697823)
-- [Malibu Rapids - Wikipedia](https://en.wikipedia.org/wiki/Malibu_Rapids)
+- [Malibu Rapids - Wikipedia](https://en.wikipedia.org/?curid=18697823)
   - Tidal currents reach approximately 9 knots during peak flow
   - Slack water window of approximately 20-30 minutes
   - George Vancouver encountered the rapids in 1792 during survey of Jervis Inlet

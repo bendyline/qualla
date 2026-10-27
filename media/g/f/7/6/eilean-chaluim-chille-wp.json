@@ -3,26 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/7/6/eilean-chaluim-chille-wp/hero.jpg",
-        "filename": "Outer Hebrides UK relief location map.jpg",
-        "caption": "Relief map of the Outer Hebrides (excluding Sula Sgeir), UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 8.70W\nEast: 6.10W\nNorth: 58.60N\nSouth: 56.70N",
-        "alt": "Relief map of the Outer Hebrides (excluding Sula Sgeir), UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 8.70W\nEast: 6.10W\nNorth: 58.60N\nSouth: 56.70N",
-        "width": 2001,
-        "height": 2632,
+        "path": "_m/g/f/7/6/eilean-chaluim-chille-wp/chaluim-chille-causeway.jpg",
+        "filename": "Chaluim Chille Causeway.jpg",
+        "caption": "Causeway from Eilean Chaluim Chille to the Lewis mainland at Crobeag.",
+        "alt": "Causeway from Eilean Chaluim Chille to the Lewis mainland at Crobeag.",
+        "width": 640,
+        "height": 479,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Nilfanion, created using Ordnance Survey data",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outer_Hebrides_UK_relief_location_map.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Eileen Henderson",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chaluim_Chille_Causeway.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "eilean-chaluim-chille-wp",
         "sourceGeohash4": "gf76",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Maps by Nilfanion",
-          "Maps of the Outer Hebrides",
-          "Ordnance Survey Boundary Line maps",
-          "Topographic maps of Scotland"
-        ]
+          "CC-BY-SA-2.0",
+          "Eilean Chaluim Chille",
+          "Images from Geograph Britain and Ireland",
+          "Information field template with formatting",
+          "On OSM",
+          "Taken with Canon PowerShot A710 IS",
+          "United Kingdom photographs taken on 2007-07-01"
+        ],
+        "smallPath": "_m/g/f/7/6/eilean-chaluim-chille-wp/chaluim-chille-causeway-small.webp"
       },
       "images": [
         {
@@ -310,7 +313,8 @@
             "Media missing infobox template",
             "PD-author",
             "Taken with Sony DCR-TRV740"
-          ]
+          ],
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-carloway-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/ness-western-isles-world-wind.png",
@@ -332,7 +336,8 @@
             "Ness, Isle of Lewis",
             "Outer Hebrides",
             "PD World Wind"
-          ]
+          ],
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/ness-western-isles-world-wind-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/dun-eistean-late-medieval-fort.jpg",
@@ -358,7 +363,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon EOS 50D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-eistean-late-medieval-fort-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-eistean-late-medieval-fort-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/church-in-carloway-in-summer-2.jpg",
@@ -380,7 +387,9 @@
             "Carloway",
             "Churches of the Isle of Lewis",
             "Files by User:Chmee2"
-          ]
+          ],
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/church-in-carloway-in-summer-2-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/church-in-carloway-in-summer-2-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/lewis-chessmen-27.jpg",
@@ -395,7 +404,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lewis_chessmen_27.JPG",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/lewis-chessmen-27-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/inside-nr-42-blackhouse-museum.jpg",
@@ -410,7 +420,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inside_Nr_42_Blackhouse_Museum.JPG",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/inside-nr-42-blackhouse-museum-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/inside-nr-42-blackhouse-museum-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/dun-charlabhaigh-carloway-broc.jpg",
@@ -425,7 +437,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dun_Charlabhaigh_Carloway_Broch_(14310329697).jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-charlabhaigh-carloway-broc-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/dun-charlabhaigh-carloway-broc-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/outer-hebrides-steinacleit-201.jpg",
@@ -440,7 +454,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outer_Hebrides_-_Steinacleit_-_20180411114130.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/outer-hebrides-steinacleit-201-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/outer-hebrides-steinacleit-201-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/bungee-jumping-from-the-garry-.jpg",
@@ -455,7 +471,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bungee_jumping_from_the_Garry_Bridge_-_geograph.org.uk_-_2937884.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/bungee-jumping-from-the-garry--medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/bungee-jumping-from-the-garry--small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/callanish-stones-banner.jpg",
@@ -470,7 +488,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Callanish_Stones_banner.jpg",
           "sourceType": "poi",
           "sourceArticleId": "isle-of-lewis-wp",
-          "sourceGeohash4": "gf77"
+          "sourceGeohash4": "gf77",
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/callanish-stones-banner-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/callanish-stones-banner-small.webp"
         },
         {
           "path": "_m/g/f/7/0/outer-hebrides-wp/callanish-standing-stones-1.jpg",
@@ -494,7 +514,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/7/0/outer-hebrides-wp/callanish-standing-stones-1-small.webp"
         },
         {
           "path": "_m/g/f/7/0/outer-hebrides-wp/oitir-mhor.jpg",
@@ -518,7 +539,8 @@
             "Causeways in Scotland",
             "North Uist",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/7/0/outer-hebrides-wp/oitir-mhor-small.webp"
         },
         {
           "path": "_m/g/f/7/0/outer-hebrides-wp/outer-hebrides-lews-castle-201.jpg",
@@ -533,7 +555,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outer_Hebrides_-_Lews_Castle_-_20190728100816.jpg",
           "sourceType": "poi",
           "sourceArticleId": "outer-hebrides-wp",
-          "sourceGeohash4": "gf70"
+          "sourceGeohash4": "gf70",
+          "mediumPath": "_m/g/f/7/0/outer-hebrides-wp/outer-hebrides-lews-castle-201-medium.webp",
+          "smallPath": "_m/g/f/7/0/outer-hebrides-wp/outer-hebrides-lews-castle-201-small.webp"
         },
         {
           "path": "_m/g/f/7/0/outer-hebrides-wp/scolpaig-tower-geograph-org-uk.jpg",
@@ -548,7 +572,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scolpaig_Tower_-_geograph.org.uk_-_3966213.jpg",
           "sourceType": "poi",
           "sourceArticleId": "outer-hebrides-wp",
-          "sourceGeohash4": "gf70"
+          "sourceGeohash4": "gf70",
+          "smallPath": "_m/g/f/7/0/outer-hebrides-wp/scolpaig-tower-geograph-org-uk-small.webp"
         }
       ],
       "narration": [

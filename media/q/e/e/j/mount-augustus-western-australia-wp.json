@@ -3,30 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/e/e/j/mount-augustus-western-australia-wp/hero.jpg",
-        "filename": "Mount Augustus WA.jpg",
-        "caption": "Mount Augustus",
-        "alt": "Mount Augustus",
-        "width": 4288,
-        "height": 2848,
+        "path": "_m/q/e/e/j/mount-augustus-western-australia-wp/mt-augustus-seen-from-emu-hill.jpg",
+        "filename": "Mt Augustus seen from Emu Hill Lookout, July 2020.jpg",
+        "caption": "Mt Augustus seen from Emu Hill Lookout, Shire of Upper Gascoyne, Western Australia.",
+        "alt": "Mt Augustus seen from Emu Hill Lookout, Shire of Upper Gascoyne, Western Australia.",
+        "width": 4608,
+        "height": 3456,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "Graeme Churchard from Bristol, UK",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Augustus_WA.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Calistemon",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mt_Augustus_seen_from_Emu_Hill_Lookout,_July_2020.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "mount-augustus-western-australia-wp",
         "sourceGeohash4": "qeej",
         "categories": [
-          "CC-BY-2.0",
-          "Files uploaded by PDTillman",
+          "CC-BY-SA-4.0",
+          "Emu Hill Lookout",
           "Files with coordinates missing SDC location of creation",
-          "Flickr images missing SDC creator",
-          "Flickr images reviewed by File Upload Bot (Magnus Manske)",
-          "Geology of Western Australia",
-          "Images with extracted images",
+          "July 2020 in Western Australia",
           "Mount Augustus National Park",
-          "Photographs by Graeme Churchard"
-        ]
+          "Self-published work"
+        ],
+        "mediumPath": "_m/q/e/e/j/mount-augustus-western-australia-wp/mt-augustus-seen-from-emu-hill-medium.webp",
+        "smallPath": "_m/q/e/e/j/mount-augustus-western-australia-wp/mt-augustus-seen-from-emu-hill-small.webp"
       },
       "images": [
         {
@@ -190,7 +189,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Augustus_panorama,_July_2020.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "mount-augustus-western-australia-wp",
-          "sourceGeohash4": "qeej"
+          "sourceGeohash4": "qeej",
+          "mediumPath": "_m/q/e/e/j/mount-augustus-western-australia-wp/mount-augustus-panorama-july-2-medium.webp",
+          "smallPath": "_m/q/e/e/j/mount-augustus-western-australia-wp/mount-augustus-panorama-july-2-small.webp"
         },
         {
           "path": "_m/q/e/e/j/mount-augustus-western-australia-wp/mount-augustus-panorama-july-2-1.jpg",
@@ -205,10 +206,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Augustus_panorama,_July_2020_01.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "mount-augustus-western-australia-wp",
-          "sourceGeohash4": "qeej"
+          "sourceGeohash4": "qeej",
+          "mediumPath": "_m/q/e/e/j/mount-augustus-western-australia-wp/mount-augustus-panorama-july-2-1-medium.webp",
+          "smallPath": "_m/q/e/e/j/mount-augustus-western-australia-wp/mount-augustus-panorama-july-2-1-small.webp"
         },
         {
-          "path": "_m/q/e/e/j/mount-augustus-western-australia-wp/mount-augustus-wa-cropped.jpg",
+          "path": "_m/q/e/e/j/mount-augustus-national-park-wp/mount-augustus-wa-cropped.jpg",
           "filename": "Mount Augustus WA (cropped).jpg",
           "caption": "Mount Augustus",
           "alt": "Mount Augustus",
@@ -220,7 +223,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Augustus_WA_(cropped).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "mount-augustus-national-park-wp",
-          "sourceGeohash4": "qeej"
+          "sourceGeohash4": "qeej",
+          "mediumPath": "_m/q/e/e/j/mount-augustus-national-park-wp/mount-augustus-wa-cropped-medium.webp",
+          "smallPath": "_m/q/e/e/j/mount-augustus-national-park-wp/mount-augustus-wa-cropped-small.webp"
         }
       ],
       "narration": [

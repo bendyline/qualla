@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/5/w/hallaig-wp/hero.jpg",
-        "filename": "Scotland, Raasay, Hallaig (1).jpg",
-        "caption": "Remains of the abandoned village of Hallaig on the Isle of Raasay (Scotland), looking north along the east coast of the island.",
-        "alt": "Remains of the abandoned village of Hallaig on the Isle of Raasay (Scotland), looking north along the east coast of the island.",
-        "width": 4288,
-        "height": 2848,
+        "path": "_m/g/f/5/w/hallaig-wp/hallaig-memorial-cairn-geograp.jpg",
+        "filename": "Hallaig memorial cairn - geograph.org.uk - 2459601.jpg",
+        "caption": "Hallaig memorial cairn",
+        "alt": "Hallaig memorial cairn",
+        "width": 4320,
+        "height": 3240,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Vincent van Zeijst",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scotland,_Raasay,_Hallaig_(1).jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Euan Nelson",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hallaig_memorial_cairn_-_geograph.org.uk_-_2459601.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "hallaig-wp",
         "sourceGeohash4": "gf5w",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Files with coordinates missing SDC location of creation",
-          "GFDL",
-          "Hallaig",
-          "License migration redundant",
-          "Self-published work",
-          "Summer in Scotland"
-        ]
+        "mediumPath": "_m/g/f/5/w/hallaig-wp/hallaig-memorial-cairn-geograp-medium.webp",
+        "smallPath": "_m/g/f/5/w/hallaig-wp/hallaig-memorial-cairn-geograp-small.webp"
       },
       "images": [
         {
@@ -465,7 +458,8 @@
             "GFDL-en",
             "License migration completed",
             "Lochs of the Isle of Raasay"
-          ]
+          ],
+          "smallPath": "_m/g/f/5/w/raasay-wp/dun-caan-loch-na-mna-r-small.webp"
         },
         {
           "path": "_m/tpc/ra/as/ay/__/raasay/brochelcastle2008.jpg",
@@ -489,7 +483,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Kodak EasyShare V570"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ra/as/ay/__/raasay/brochelcastle2008-medium.webp",
+          "smallPath": "_m/tpc/ra/as/ay/__/raasay/brochelcastle2008-small.webp"
         },
         {
           "path": "_m/tpc/ra/as/ay/__/raasay/ruined-building-hallaig-geogra.jpg",
@@ -509,7 +505,8 @@
             "CC-BY-SA-2.0",
             "Hallaig",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/tpc/ra/as/ay/__/raasay/ruined-building-hallaig-geogra-small.webp"
         }
       ],
       "narration": [

@@ -46,7 +46,7 @@ Located at 52.395 N, 13.79 E at Grünheide (Mark), Oder-Spree, Brandenburg, abou
 
 ## Sources
 
-- [Gigafactory Berlin-Brandenburg - Wikipedia](https://en.wikipedia.org/wiki/Gigafactory_Berlin-Brandenburg)
+- [Gigafactory Berlin-Brandenburg - Wikipedia](https://en.wikipedia.org/?curid=52614568)
   - Tesla plant at Grünheide (Mark), Brandenburg, 35 km southeast of central Berlin and about 20 km east of Berlin Brandenburg Airport; Tesla's first manufacturing location in Europe
   - Announced by Elon Musk on 12 November 2019 at the Das Goldene Lenkrad award show; more than ten European countries campaigned for the plant
   - France proposed the closing Fessenheim Nuclear Power Plant; the Netherlands campaigned under minister Henk Kamp citing synergy with Tesla's existing European headquarters and finishing plant; the Czech Republic floated a site near Prague with a nearby 330,000-tonne lithium deposit; Portugal cited the largest lithium reserves in Europe; Estonia offered 140 MW of renewable energy with price control at PAKRI Smart Industrial City on the Pakri peninsula

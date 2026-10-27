@@ -3,28 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/c/0/p/f/cape-meares-wp/hero.jpg",
-        "filename": "Beautiful cape meares.jpg",
-        "caption": "A picture I took from the beach of en:Cape Meares, Oregon.",
-        "alt": "A picture I took from the beach of en:Cape Meares, Oregon.",
-        "width": 2816,
-        "height": 2112,
+        "path": "_m/c/0/p/f/cape-meares-wp/overlook-cape-meares-s.jpg",
+        "filename": "Cape Meares Oregon overlook deck Oct 2024.jpg",
+        "caption": "An overlook at the Cape Meares State Scenic Viewpoint",
+        "alt": "An overlook at the Cape Meares State Scenic Viewpoint",
+        "width": 4080,
+        "height": 2376,
         "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "Merzperson at English Wikipedia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_cape_meares.jpg",
+        "license": "CC0",
+        "artist": "Quirkipedia",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Meares_Oregon_overlook_deck_Oct_2024.jpg",
         "sourceType": "core",
         "sourceArticleId": "cape-meares-wp",
         "sourceGeohash4": "c0pf",
         "categories": [
-          "Cape Meares National Wildlife Refuge",
-          "PD-user",
-          "Taken with Sony DSC-S600"
-        ]
+          "CC-Zero",
+          "Cape Meares Lighthouse",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/c/0/p/f/cape-meares-wp/overlook-cape-meares-s-medium.webp",
+        "smallPath": "_m/c/0/p/f/cape-meares-wp/overlook-cape-meares-s-small.webp"
       },
       "images": [
         {
-          "path": "_m/c/0/p/f/cape-meares-wp/capemeares.jpg",
+          "path": "_m/c/0/p/f/cape-meares-national-wildlife-refuge-wp/capemeares.jpg",
           "filename": "Capemeares.jpg",
           "caption": "A picture of en:Cape Meares looking south.",
           "alt": "A picture of en:Cape Meares looking south.",
@@ -42,7 +44,9 @@
             "PD-user",
             "Snag (ecology)",
             "Taken with Sony DSC-S600"
-          ]
+          ],
+          "mediumPath": "_m/c/0/p/f/cape-meares-national-wildlife-refuge-wp/capemeares-medium.webp",
+          "smallPath": "_m/c/0/p/f/cape-meares-national-wildlife-refuge-wp/capemeares-small.webp"
         },
         {
           "path": "_m/c/0/p/f/cape-meares-wp/picture-en-cape-meares-1.jpg",
@@ -68,7 +72,7 @@
           "smallPath": "_m/c/0/p/f/cape-meares-wp/picture-en-cape-meares-1-small.webp"
         },
         {
-          "path": "_m/c/0/p/f/cape-meares-wp/aerial-view-of-cape-meares-lak.jpg",
+          "path": "_m/c/0/p/f/cape-meares-national-wildlife-refuge-wp/aerial-view-of-cape-meares-lak.jpg",
           "filename": "Aerial View of Cape Meares Lake.JPG",
           "caption": "Aerial View of Cape Meares Lake",
           "alt": "Aerial View of Cape Meares Lake",
@@ -87,7 +91,9 @@
             "CC-BY-SA-3.0",
             "Cape Meares National Wildlife Refuge",
             "Taken with Nikon D3200"
-          ]
+          ],
+          "mediumPath": "_m/c/0/p/f/cape-meares-national-wildlife-refuge-wp/aerial-view-of-cape-meares-lak-medium.webp",
+          "smallPath": "_m/c/0/p/f/cape-meares-national-wildlife-refuge-wp/aerial-view-of-cape-meares-lak-small.webp"
         },
         {
           "path": "_m/c/0/p/f/cape-meares-wp/cape-meares-light-ligh.jpg",

@@ -3,24 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/y/x/q/la-manga-wk/hero.jpg",
-        "filename": "El Pedrucho, La Manga.jpg",
-        "caption": "El Pedrucho, La Manga",
-        "alt": "El Pedrucho, La Manga",
-        "width": 2380,
-        "height": 1568,
+        "path": "_m/e/y/x/q/la-manga-wk/amanecer-entre-canas.jpg",
+        "filename": "Amanecer entre cañas.JPG",
+        "caption": "Amanecer con el sol saliendo por La Manga del Mar Menor, visto desde el cañar situado en Los Alcázares (Mar Menor).",
+        "alt": "Amanecer con el sol saliendo por La Manga del Mar Menor, visto desde el cañar situado en Los Alcázares (Mar Menor).",
+        "width": 5988,
+        "height": 3982,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Felipe Ortega",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Pedrucho,_La_Manga.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "José Miguel Grandal",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amanecer_entre_ca%C3%B1as.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "la-manga-wk",
         "sourceGeohash4": "eyxq",
-        "categories": [
-          "Beaches in La Manga del Mar Menor",
-          "CC-BY-SA-2.0",
-          "Flickr images uploaded by Flickr upload bot"
-        ]
+        "mediumPath": "_m/e/y/x/q/la-manga-wk/amanecer-entre-canas-medium.webp",
+        "smallPath": "_m/e/y/x/q/la-manga-wk/amanecer-entre-canas-small.webp"
       },
       "images": [
         {
@@ -105,7 +102,7 @@
           "smallPath": "_m/e/y/x/q/la-manga-wk/manga003-small.webp"
         },
         {
-          "path": "_m/e/y/x/q/la-manga-wk/la-manga-del-mar-menor.jpg",
+          "path": "_m/e/y/x/q/mar-menor-wp/la-manga-del-mar-menor.jpg",
           "filename": "La Manga del Mar Menor.jpg",
           "caption": "La Manga del Mar Menor",
           "alt": "La Manga del Mar Menor",
@@ -127,7 +124,7 @@
             "Satellite pictures of Mar Menor",
             "Uploaded with derivativeFX"
           ],
-          "smallPath": "_m/e/y/x/q/la-manga-wk/la-manga-del-mar-menor-small.webp"
+          "smallPath": "_m/e/y/x/q/mar-menor-wp/la-manga-del-mar-menor-small.webp"
         },
         {
           "path": "_m/e/y/x/q/la-manga-wk/la-manga-del-mar-menor-canal-d.jpg",
@@ -431,7 +428,8 @@
             "Pastels",
             "Pastries of Spain",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/e/y/x/q/la-manga-wp/pastel-de-cierva-small.webp"
         },
         {
           "path": "_m/e/y/w/y/castle-of-lorca-wp/lorca-castillo.jpg",
@@ -456,7 +454,9 @@
             "PD-self",
             "Self-published work",
             "Taken with 3MDSC"
-          ]
+          ],
+          "mediumPath": "_m/e/y/w/y/castle-of-lorca-wp/lorca-castillo-medium.webp",
+          "smallPath": "_m/e/y/w/y/castle-of-lorca-wp/lorca-castillo-small.webp"
         },
         {
           "path": "_m/e/y/x/q/mar-menor-wp/caravaca-de-la-cruz-murcia-esp.jpg",
@@ -478,7 +478,9 @@
             "Files with no machine-readable source",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/e/y/x/q/mar-menor-wp/caravaca-de-la-cruz-murcia-esp-medium.webp",
+          "smallPath": "_m/e/y/x/q/mar-menor-wp/caravaca-de-la-cruz-murcia-esp-small.webp"
         },
         {
           "path": "_m/e/y/x/q/mar-menor-wp/murcia.jpg",
@@ -506,7 +508,9 @@
             "Self-published work",
             "Taken with Sony DCR-DVD405",
             "Views of Murcia"
-          ]
+          ],
+          "mediumPath": "_m/e/y/x/q/mar-menor-wp/murcia-medium.webp",
+          "smallPath": "_m/e/y/x/q/mar-menor-wp/murcia-small.webp"
         },
         {
           "path": "_m/e/y/x/m/cartagena-spain-wp/panoramica-de-cartagena-desde-.jpg",
@@ -531,7 +535,9 @@
             "Panoramics of Cartagena, Spain",
             "Spain photographs taken on 2016-03-02",
             "Views from the Castle of San Julián"
-          ]
+          ],
+          "mediumPath": "_m/e/y/x/m/cartagena-spain-wp/panoramica-de-cartagena-desde--medium.webp",
+          "smallPath": "_m/e/y/x/m/cartagena-spain-wp/panoramica-de-cartagena-desde--small.webp"
         },
         {
           "path": "_m/e/y/x/q/mar-menor-wp/airm-corvera-exterior.jpg",
@@ -552,7 +558,8 @@
             "Aeropuerto Internacional Región de Murcia",
             "Buildings in the Region of Murcia photographed in 2019",
             "CC-BY-SA-4.0"
-          ]
+          ],
+          "smallPath": "_m/e/y/x/q/mar-menor-wp/airm-corvera-exterior-small.webp"
         }
       ],
       "narration": [

@@ -33,7 +33,7 @@ Located at 28.31N, 81.55W in Osceola County, Florida, immediately south of Walt 
 ## Sources
 
 - [Celebration, Florida - Wikipedia](https://en.wikipedia.org/?curid=37395)
-- [Wikipedia - Celebration, Florida](https://en.wikipedia.org/wiki/Celebration,_Florida)
+- [Wikipedia - Celebration, Florida](https://en.wikipedia.org/?curid=37395)
   - Population 11,178 per 2020 census confirmed
   - Master plan by Jacquelin T. Robertson and Robert A. M. Stern (both Driehaus Prize winners)
   - EDAW (San Francisco) designed parks, trails, and pathways

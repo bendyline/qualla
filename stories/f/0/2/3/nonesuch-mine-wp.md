@@ -33,7 +33,7 @@ Located at 46.755N, 89.620W in the southeast corner of the Porcupine Mountains W
 ## Sources
 
 - [Nonesuch Mine - Wikipedia](https://en.wikipedia.org/?curid=14452074)
-- [Nonesuch Mine - Wikipedia](https://en.wikipedia.org/wiki/Nonesuch_Mine)
+- [Nonesuch Mine - Wikipedia](https://en.wikipedia.org/?curid=14452074)
   - Mine first opened 1867 - confirmed
   - Mine opened and closed five times under five different owners - confirmed
   - Only profitable run was 1879-1881 - confirmed

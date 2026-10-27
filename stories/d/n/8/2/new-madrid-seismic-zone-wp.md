@@ -32,7 +32,7 @@ The zone presents a puzzle that divides scientists. In 2009, researchers from No
 
 ## Flight Context
 
-The New Madrid Seismic Zone is centered at approximately 36.58N, 89.59W, stretching from Cairo, Illinois southward through southeast Missouri and into northeastern Arkansas. From cruising altitude, look for the Mississippi River floodplain, Reelfoot Lake in western Tennessee (formed by the 1811-12 earthquakes), and the flat alluvial landscape of the Mississippi embayment. No dramatic surface features mark the fault zone. Nearest airports include Memphis International (KMEM) approximately 60 nm south, Cape Girardeau Regional (KCGI) 30 nm north, and Jonesboro Municipal (KJBR) 50 nm west. Best observed at 5,000-10,000 ft where the river meanders and Reelfoot Lake are visible.
+The New Madrid Seismic Zone is centered at approximately 36.58N, 89.59W, stretching from Cairo, Illinois southward through southeast Missouri and into northeastern Arkansas. From cruising altitude, look for the Mississippi River floodplain, Reelfoot Lake in western Tennessee (formed by the 1811-12 earthquakes), and the flat alluvial landscape of the Mississippi embayment. No dramatic surface features mark the fault zone. Nearest airports include Frederick W. Smith International Airport (KMEM, formerly Memphis International) approximately 60 nm south, Cape Girardeau Regional (KCGI) 30 nm north, and Jonesboro Municipal (KJBR) 50 nm west. Best observed at 5,000-10,000 ft where the river meanders and Reelfoot Lake are visible.
 
 ## Sources
 

@@ -42,7 +42,7 @@ Located at 37.14N, 78.05W in Nottoway County, Virginia. The site lies along U.S.
   - Francisco reportedly from the Azores abandoned at City Point Virginia as a boy confirmed
   - fought nine dragoons and seized horses per his own accounts
   - 1820 letter to Virginia Assembly and 1829 Congress petition documented
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Francisco%27s_Fight)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=762650)
   - Corrected Henry Howe 1852 quote to verbatim wording ('Come on, my brave boys; now's your time; we will soon dispatch these few, and then attack the main body!'); the phrase 'now's your time' had been omitted
 
 ## Review Notes

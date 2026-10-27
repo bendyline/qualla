@@ -36,13 +36,13 @@ Køpi stands at 137 Köpenicker Straße in Mitte, at roughly 52.5078°N, 13.4261
 
 ## Sources
 
-- [Køpi](https://en.wikipedia.org/wiki/K%C3%B8pi)
+- [Køpi](https://en.wikipedia.org/?curid=62659678)
 - [Köpi 137 (German Wikipedia)](https://de.wikipedia.org/wiki/K%C3%B6pi)
   - on 15 October 2021 the wagenplatz was cleared by police under a court order obtained by the owner - de.wikipedia
   - the house at Köpenicker Straße 137 itself was not cleared and continued as a housing and cultural project - de.wikipedia
   - an evening demonstration drew up to 8,000 people and there were violent disturbances around Köpenicker Straße - de.wikipedia
   - in 2023 the owner sought to evict residents of an adjoining building; the Berlin Regional Court rejected the claim in December 2024 - de.wikipedia
-- [Køpi - source article facts](https://en.wikipedia.org/wiki/K%C3%B8pi)
+- [Køpi - source article facts](https://en.wikipedia.org/?curid=62659678)
   - built 1905 by a Jewish businessman; front half destroyed by WWII bombing and never rebuilt; most stucco gone - source
   - used during WWII by the Allgemeine Elektricitäts-Gesellschaft to house French forced labourers - source
   - GDR use for sports with a bowling alley in the basement; vacant and scheduled for demolition by 1990 - source
@@ -56,7 +56,7 @@ Køpi stands at 137 Köpenicker Straße in Mitte, at roughly 52.5078°N, 13.4261
   - 50 residents in the house and 50 in the wagenplatz in 2016; Sunday plenary, no mobile phones; bar, vegan cafe, concert venue, cinema, infoshop, gym, print workshop, climbing wall - source
   - 2017 Senate Department of Internal Affairs and police report quotation and the Køpi spokesperson's reply - source
   - eviction order issued September 2021 with a 15 October deadline; 1,000 demonstrated on 3 October with 600 emergency personnel - source
-- [Køpi - Wikipedia (independent final-review re-check)](https://en.wikipedia.org/wiki/K%C3%B8pi)
+- [Køpi - Wikipedia (independent final-review re-check)](https://en.wikipedia.org/?curid=62659678)
   - 2007 auction buyer confirmed as Besnik Fichtner, an agent of the company Plutonium 114 - re-confirmed verbatim in EN Wikipedia article text
   - 1999 auction (5.4 million marks estimated value, one-mark counteroffer refused) and 2021 wagenplatz eviction/demonstration figures re-confirmed
 

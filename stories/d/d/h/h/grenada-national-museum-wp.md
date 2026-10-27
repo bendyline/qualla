@@ -33,7 +33,7 @@ Located at 12.05N, 61.75W in the heart of St. George's, the museum sits at the c
 ## Sources
 
 - [Grenada National Museum - Wikipedia](https://en.wikipedia.org/?curid=39936092)
-- [Grenada National Museum - Wikipedia](https://en.wikipedia.org/wiki/Grenada_National_Museum)
+- [Grenada National Museum - Wikipedia](https://en.wikipedia.org/?curid=39936092)
   - Museum established 1976 by private citizens/historical society confirmed
   - Building began as French military barracks in 1704 confirmed
   - Building later served as Home Hotel (island's first hotel) confirmed

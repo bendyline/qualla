@@ -3,29 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/f/m/6/helmsdale-wk/hero.jpg",
-        "filename": "Helmsdale Railway Station 20210921 074758.jpg",
-        "caption": "Helmsdale Railway Station 2021-09-21",
-        "alt": "Helmsdale Railway Station 2021-09-21",
-        "width": 4031,
-        "height": 2377,
+        "path": "_m/g/f/m/6/helmsdale-wk/anvil-house-helmsdale.jpg",
+        "filename": "Anvil House, Helmsdale.jpg",
+        "caption": "This is a photo of listed building number",
+        "alt": "This is a photo of listed building number",
+        "width": 4032,
+        "height": 3024,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "Railwayfan2005",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helmsdale_Railway_Station_20210921_074758.jpg",
-        "sourceType": "core",
+        "artist": "Francesbell",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anvil_House,_Helmsdale.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "helmsdale-wk",
         "sourceGeohash4": "gfm6",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Files with coordinates missing SDC location of creation",
-          "Helmsdale railway station",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/g/f/m/6/helmsdale-wk/anvil-house-helmsdale-medium.webp",
+        "smallPath": "_m/g/f/m/6/helmsdale-wk/anvil-house-helmsdale-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/f/m/6/helmsdale-wk/northern-constabulary-at-highl.jpg",
+          "path": "_m/g/f/m/6/helmsdale-wp/northern-constabulary-at-highl.jpg",
           "filename": "Northern Constabulary at Highland Games, Helmsdale Sutherland Scotland (6063996938).jpg",
           "caption": "Sergeant Peter Allan, Brora, supervises Northern Constabulary Pipe Band as they tune up for Massed Bands.\nThe Annual Highland Games in Helmsdale is a big day in the local calendar, and this year the weather was kind. \n\nNorthern Constabulary was, as always in attendance, especially for the parade from the village centre to the Games field at Couper Park - which entails regualting traffic on the main trunk road to allow the parade safe passage. Thereafter the local officers patrol the Games field and interact with the public in the best traditions of Scottish community policing.",
           "alt": "Sergeant Peter Allan, Brora, supervises Northern Constabulary Pipe Band as they tune up for Massed Bands.\nThe Annual Highland Games in Helmsdale is a big day in the local calendar, and this year the weather was kind. \n\nNorthern Constabulary was, as always in attendance, especially for the parade from the village centre to the Games field at Couper Park - which entails regualting traffic on the main trunk road to allow the parade safe passage. Thereafter the local officers patrol the Games field and interact with the public in the best traditions of Scottish community policing.",
@@ -49,11 +45,11 @@
             "Northern Constabulary Pipe Band",
             "Taken with Fujifilm FinePix S1800"
           ],
-          "mediumPath": "_m/g/f/m/6/helmsdale-wk/northern-constabulary-at-highl-medium.webp",
-          "smallPath": "_m/g/f/m/6/helmsdale-wk/northern-constabulary-at-highl-small.webp"
+          "mediumPath": "_m/g/f/m/6/helmsdale-wp/northern-constabulary-at-highl-medium.webp",
+          "smallPath": "_m/g/f/m/6/helmsdale-wp/northern-constabulary-at-highl-small.webp"
         },
         {
-          "path": "_m/g/f/m/6/helmsdale-wk/ousdale-exterior.jpg",
+          "path": "_m/g/f/m/6/helmsdale-wp/ousdale-exterior.jpg",
           "filename": "Ousdale exterior.JPG",
           "caption": "Exterior of Ousdale broch.",
           "alt": "Exterior of Ousdale broch.",
@@ -73,11 +69,11 @@
             "Ousdale Broch",
             "Self-published work"
           ],
-          "mediumPath": "_m/g/f/m/6/helmsdale-wk/ousdale-exterior-medium.webp",
-          "smallPath": "_m/g/f/m/6/helmsdale-wk/ousdale-exterior-small.webp"
+          "mediumPath": "_m/g/f/m/6/helmsdale-wp/ousdale-exterior-medium.webp",
+          "smallPath": "_m/g/f/m/6/helmsdale-wp/ousdale-exterior-small.webp"
         },
         {
-          "path": "_m/g/f/m/6/helmsdale-wk/badbea-deserted-cottage-geogra.jpg",
+          "path": "_m/g/f/m/6/helmsdale-wp/badbea-deserted-cottage-geogra.jpg",
           "filename": "Badbea deserted cottage - geograph.org.uk - 6713930.jpg",
           "caption": "Badbea deserted cottage",
           "alt": "Badbea deserted cottage",
@@ -90,7 +86,7 @@
           "sourceType": "core",
           "sourceArticleId": "helmsdale-wk",
           "sourceGeohash4": "gfm6",
-          "smallPath": "_m/g/f/m/6/helmsdale-wk/badbea-deserted-cottage-geogra-small.webp"
+          "smallPath": "_m/g/f/m/6/helmsdale-wp/badbea-deserted-cottage-geogra-small.webp"
         },
         {
           "path": "_m/g/f/m/6/helmsdale-wk/cemetery-at-navidale-geograph-.jpg",
@@ -502,7 +498,9 @@
             "Self-published work",
             "Taken with Canon EOS 450D",
             "User-created GFDL images"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/6/helmsdale-wp/helmsdale-01-medium.webp",
+          "smallPath": "_m/g/f/m/6/helmsdale-wp/helmsdale-01-small.webp"
         },
         {
           "path": "_m/g/f/m/0/tain-wp/hiltonofcadboll01.jpg",
@@ -522,7 +520,8 @@
             "CC-BY-SA-2.5",
             "Celtic art",
             "Hilton of Cadboll Stone"
-          ]
+          ],
+          "smallPath": "_m/g/f/m/0/tain-wp/hiltonofcadboll01-small.webp"
         },
         {
           "path": "_m/g/c/4/p/whiskey-wk/glenmorangie-distillery.jpg",
@@ -543,7 +542,9 @@
             "Flickr images reviewed by trusted users",
             "Glenmorangie distillery",
             "Taken with Panasonic Lumix DMC-FZ50"
-          ]
+          ],
+          "mediumPath": "_m/g/c/4/p/whiskey-wk/glenmorangie-distillery-medium.webp",
+          "smallPath": "_m/g/c/4/p/whiskey-wk/glenmorangie-distillery-small.webp"
         },
         {
           "path": "_m/g/f/m/0/tain-wp/2011-schotland-glenmorangie-di.png",
@@ -567,7 +568,9 @@
             "Glenmorangie distillery",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/0/tain-wp/2011-schotland-glenmorangie-di-medium.webp",
+          "smallPath": "_m/g/f/m/0/tain-wp/2011-schotland-glenmorangie-di-small.webp"
         },
         {
           "path": "_m/g/f/m/0/tain-wp/tain-banner-glenmorangie-barre.png",
@@ -592,7 +595,9 @@
             "License migration redundant",
             "Self-published work",
             "Wikivoyage banners of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/0/tain-wp/tain-banner-glenmorangie-barre-medium.webp",
+          "smallPath": "_m/g/f/m/0/tain-wp/tain-banner-glenmorangie-barre-small.webp"
         },
         {
           "path": "_m/g/f/k/f/caithness-and-sutherland-wp/dunrobin-castle1.jpg",
@@ -616,7 +621,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Nikon D200"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/f/caithness-and-sutherland-wp/dunrobin-castle1-medium.webp",
+          "smallPath": "_m/g/f/k/f/caithness-and-sutherland-wp/dunrobin-castle1-small.webp"
         },
         {
           "path": "_m/tpc/no/rt/h-/we/north-west-highlands-geopark/kylesku-bridge-surroundings.jpg",
@@ -638,7 +645,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon PowerShot A710 IS"
-          ]
+          ],
+          "mediumPath": "_m/tpc/no/rt/h-/we/north-west-highlands-geopark/kylesku-bridge-surroundings-medium.webp",
+          "smallPath": "_m/tpc/no/rt/h-/we/north-west-highlands-geopark/kylesku-bridge-surroundings-small.webp"
         },
         {
           "path": "_m/g/f/k/f/caithness-and-sutherland-wp/caithness-and-sutherland-banne.jpg",
@@ -653,7 +662,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caithness_and_Sutherland_banner_Suilven.JPG",
           "sourceType": "poi",
           "sourceArticleId": "caithness-and-sutherland-wp",
-          "sourceGeohash4": "gfkf"
+          "sourceGeohash4": "gfkf",
+          "mediumPath": "_m/g/f/k/f/caithness-and-sutherland-wp/caithness-and-sutherland-banne-medium.webp",
+          "smallPath": "_m/g/f/k/f/caithness-and-sutherland-wp/caithness-and-sutherland-banne-small.webp"
         },
         {
           "path": "_m/g/f/k/f/caithness-and-sutherland-wp/castle-of-mey-3.jpg",
@@ -668,7 +679,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle_of_Mey_3.jpg",
           "sourceType": "poi",
           "sourceArticleId": "caithness-and-sutherland-wp",
-          "sourceGeohash4": "gfkf"
+          "sourceGeohash4": "gfkf",
+          "mediumPath": "_m/g/f/k/f/caithness-and-sutherland-wp/castle-of-mey-3-medium.webp",
+          "smallPath": "_m/g/f/k/f/caithness-and-sutherland-wp/castle-of-mey-3-small.webp"
         },
         {
           "path": "_m/g/f/k/f/caithness-and-sutherland-wp/the-john-o-groats-signpost-geo.jpg",
@@ -683,7 +696,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_John_O%27Groats_Signpost_-_geograph.org.uk_-_6979188_(cropped_etc).jpg",
           "sourceType": "poi",
           "sourceArticleId": "caithness-and-sutherland-wp",
-          "sourceGeohash4": "gfkf"
+          "sourceGeohash4": "gfkf",
+          "smallPath": "_m/g/f/k/f/caithness-and-sutherland-wp/the-john-o-groats-signpost-geo-small.webp"
         },
         {
           "path": "_m/g/f/m/u/wick-scotland-wk/oldcastlewick.jpg",
@@ -707,7 +721,9 @@
             "License migration completed",
             "Retouched pictures",
             "Taken with Fujifilm FinePix M603"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/u/wick-scotland-wk/oldcastlewick-medium.webp",
+          "smallPath": "_m/g/f/m/u/wick-scotland-wk/oldcastlewick-small.webp"
         },
         {
           "path": "_m/g/f/m/u/wick-scotland-wk/ebenezer-place.jpg",
@@ -730,7 +746,9 @@
             "Scotland photographs taken on 2009-06-02",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/u/wick-scotland-wk/ebenezer-place-medium.webp",
+          "smallPath": "_m/g/f/m/u/wick-scotland-wk/ebenezer-place-small.webp"
         },
         {
           "path": "_m/g/f/m/u/wick-scotland-wk/whaligoe-05.jpg",
@@ -755,7 +773,9 @@
             "Taken with Canon EOS 450D",
             "User-created GFDL images",
             "Whaligoe"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/u/wick-scotland-wk/whaligoe-05-medium.webp",
+          "smallPath": "_m/g/f/m/u/wick-scotland-wk/whaligoe-05-small.webp"
         },
         {
           "path": "_m/g/f/m/u/wick-scotland-wk/pulteney-distillery.jpg",
@@ -774,7 +794,8 @@
           "categories": [
             "CC-BY-SA-3.0-DE",
             "Pulteney distillery"
-          ]
+          ],
+          "smallPath": "_m/g/f/m/u/wick-scotland-wk/pulteney-distillery-small.webp"
         },
         {
           "path": "_m/g/f/m/u/wick-scotland-wk/grey-cairns-of-camster-camster.jpg",
@@ -795,7 +816,9 @@
             "Files with coordinates missing SDC location of creation",
             "Grey Cairns of Camster",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/u/wick-scotland-wk/grey-cairns-of-camster-camster-medium.webp",
+          "smallPath": "_m/g/f/m/u/wick-scotland-wk/grey-cairns-of-camster-camster-small.webp"
         },
         {
           "path": "_m/g/f/m/m/scrabster-wp/holburnhead.jpg",
@@ -817,7 +840,9 @@
             "Quality images",
             "Quality images of lighthouses in the United Kingdom",
             "Taken with Panasonic Lumix DMC-FS6"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/m/scrabster-wp/holburnhead-medium.webp",
+          "smallPath": "_m/g/f/m/m/scrabster-wp/holburnhead-small.webp"
         },
         {
           "path": "_m/g/f/m/m/scrabster-wp/dounreay-caithness-scotland-30.jpg",
@@ -839,7 +864,9 @@
             "Flickr images uploaded by Flickr upload bot",
             "Horton Sphere",
             "Taken with Pentax K10D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/m/scrabster-wp/dounreay-caithness-scotland-30-medium.webp",
+          "smallPath": "_m/g/f/m/m/scrabster-wp/dounreay-caithness-scotland-30-small.webp"
         },
         {
           "path": "_m/tpc/sc/ot/ti/sh/scottish-highlands/thurso-from-the-hill-at-mountp.jpg",
@@ -862,7 +889,8 @@
             "Information field template with formatting",
             "Scotland photographs taken on 2005-05-11",
             "Thurso"
-          ]
+          ],
+          "smallPath": "_m/tpc/sc/ot/ti/sh/scottish-highlands/thurso-from-the-hill-at-mountp-small.webp"
         },
         {
           "path": "_m/g/f/m/m/scrabster-wp/thurso-castle-20090614-02.jpg",
@@ -887,7 +915,8 @@
             "Taken with Panasonic Lumix DMC-TZ7",
             "Thurso Castle",
             "United Kingdom photographs taken on 2009-06-14"
-          ]
+          ],
+          "smallPath": "_m/g/f/m/m/scrabster-wp/thurso-castle-20090614-02-small.webp"
         },
         {
           "path": "_m/g/f/m/m/scrabster-wp/thurso-old-st-peters-kirk-3297.jpg",
@@ -910,7 +939,8 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Old St Peter's Church, Thurso",
             "Photographs by Roger Wollstadt"
-          ]
+          ],
+          "smallPath": "_m/g/f/m/m/scrabster-wp/thurso-old-st-peters-kirk-3297-small.webp"
         },
         {
           "path": "_m/g/f/m/m/scrabster-wp/cnoc-freiceadain-long-cairns-5.jpg",
@@ -930,7 +960,9 @@
             "CC-BY-SA-4.0",
             "Cnoc Freiceadain Long Cairns",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/m/scrabster-wp/cnoc-freiceadain-long-cairns-5-medium.webp",
+          "smallPath": "_m/g/f/m/m/scrabster-wp/cnoc-freiceadain-long-cairns-5-small.webp"
         },
         {
           "path": "_m/g/f/m/m/scrabster-wp/thurso-station-22nd-july-2022-.jpg",
@@ -950,7 +982,9 @@
             "CC-BY-SA-4.0",
             "Self-published work",
             "Thurso railway station"
-          ]
+          ],
+          "mediumPath": "_m/g/f/m/m/scrabster-wp/thurso-station-22nd-july-2022--medium.webp",
+          "smallPath": "_m/g/f/m/m/scrabster-wp/thurso-station-22nd-july-2022--small.webp"
         },
         {
           "path": "_m/g/f/h/p/torridon-wp/torridon-village-seen.jpg",
@@ -975,7 +1009,8 @@
             "Self-published work",
             "Torridon",
             "User:Wojsyl/Scotland"
-          ]
+          ],
+          "smallPath": "_m/g/f/h/p/torridon-wp/torridon-village-seen-small.webp"
         },
         {
           "path": "_m/g/f/k/9/north-coast-500-wp/tain-01.jpg",
@@ -1000,7 +1035,9 @@
             "Streets in Tain",
             "Taken with Canon EOS 450D",
             "User-created GFDL images"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/9/north-coast-500-wp/tain-01-medium.webp",
+          "smallPath": "_m/g/f/k/9/north-coast-500-wp/tain-01-small.webp"
         },
         {
           "path": "_m/g/f/k/9/north-coast-500-wp/2011-schotland-glenmorangie-sh.png",
@@ -1024,7 +1061,9 @@
             "Images with extracted images",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/f/k/9/north-coast-500-wp/2011-schotland-glenmorangie-sh-medium.webp",
+          "smallPath": "_m/g/f/k/9/north-coast-500-wp/2011-schotland-glenmorangie-sh-small.webp"
         },
         {
           "path": "_m/g/f/k/9/north-coast-500-wp/massed-pipe-bands-parade-highl.jpg",
@@ -1039,7 +1078,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Massed_Pipe_Bands_Parade_-_Highland_Games_at_Helmsdale_Sutherland_Scotland_(6070812993).jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-coast-500-wp",
-          "sourceGeohash4": "gfk9"
+          "sourceGeohash4": "gfk9",
+          "mediumPath": "_m/g/f/k/9/north-coast-500-wp/massed-pipe-bands-parade-highl-medium.webp",
+          "smallPath": "_m/g/f/k/9/north-coast-500-wp/massed-pipe-bands-parade-highl-small.webp"
         },
         {
           "path": "_m/g/f/k/9/north-coast-500-wp/dornoch-cathedral-geograph-org.jpg",
@@ -1054,7 +1095,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dornoch_Cathedral_-_geograph.org.uk_-_2302398.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-coast-500-wp",
-          "sourceGeohash4": "gfk9"
+          "sourceGeohash4": "gfk9",
+          "mediumPath": "_m/g/f/k/9/north-coast-500-wp/dornoch-cathedral-geograph-org-medium.webp",
+          "smallPath": "_m/g/f/k/9/north-coast-500-wp/dornoch-cathedral-geograph-org-small.webp"
         },
         {
           "path": "_m/g/f/k/9/north-coast-500-wp/serpentine-like-the-road-for-a.jpg",
@@ -1069,7 +1112,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serpentine-like,_the_road_for_Applecross_-_geograph.org.uk_-_2568086.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-coast-500-wp",
-          "sourceGeohash4": "gfk9"
+          "sourceGeohash4": "gfk9",
+          "smallPath": "_m/g/f/k/9/north-coast-500-wp/serpentine-like-the-road-for-a-small.webp"
         },
         {
           "path": "_m/g/f/k/9/north-coast-500-wp/the-corrieshalloch-gorge-geogr.jpg",
@@ -1084,7 +1128,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Corrieshalloch_gorge_-_geograph.org.uk_-_2953197.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-coast-500-wp",
-          "sourceGeohash4": "gfk9"
+          "sourceGeohash4": "gfk9",
+          "smallPath": "_m/g/f/k/9/north-coast-500-wp/the-corrieshalloch-gorge-geogr-small.webp"
         },
         {
           "path": "_m/g/f/k/9/north-coast-500-wp/inverness-castle-geograph-org-.jpg",
@@ -1099,7 +1144,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inverness_Castle_-_geograph.org.uk_-_3012489.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-coast-500-wp",
-          "sourceGeohash4": "gfk9"
+          "sourceGeohash4": "gfk9",
+          "smallPath": "_m/g/f/k/9/north-coast-500-wp/inverness-castle-geograph-org--small.webp"
         }
       ],
       "narration": [

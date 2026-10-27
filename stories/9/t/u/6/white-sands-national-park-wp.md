@@ -47,7 +47,7 @@ White Sands National Park lies in the Tularosa Basin at 32.78N, 106.17W, approxi
 ## Sources
 
 - [White Sands National Park - Wikipedia](https://en.wikipedia.org/?curid=330027)
-- [White Sands National Park - Wikipedia](https://en.wikipedia.org/wiki/White_Sands_National_Park)
+- [White Sands National Park - Wikipedia](https://en.wikipedia.org/?curid=330027)
   - 275 square miles gypsum dunefield confirmed - world's largest
   - National monument designated January 18, 1933 by President Hoover; article says 1934 which is grand opening date, not designation date
   - Upgraded to national park December 20, 2019 confirmed
@@ -64,7 +64,7 @@ White Sands National Park lies in the Tularosa Basin at 32.78N, 106.17W, approxi
   - Apache pocket mouse endemic confirmed
   - White Sands woodrat confirmed
   - 40 endemic moth species confirmed
-- [Albert B. Fall and Teapot Dome connection](https://en.wikipedia.org/wiki/White_Sands_National_Park)
+- [Albert B. Fall and Teapot Dome connection](https://en.wikipedia.org/?curid=330027)
   - Albert B. Fall promoted four bills 1912-1922 for national park confirmed
   - Fall resigned 1923 in Teapot Dome scandal confirmed
   - Dunes became national monument in 1934 - technically designated Jan 1933, grand opening April 1934

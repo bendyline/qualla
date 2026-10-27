@@ -36,7 +36,7 @@ The Adlon stands at 52.516°N, 13.380°E, on the south side of Pariser Platz whe
 
 ## Sources
 
-- [Hotel Adlon - Wikipedia](https://en.wikipedia.org/wiki/Hotel_Adlon)
+- [Hotel Adlon - Wikipedia](https://en.wikipedia.org/?curid=3038981)
 - [Persecuted, "Aryanized," Compensated? Study on the history of the Hertie department stores' group under National Socialism](https://www.ghst.de/en/hertie-history)
 - [Hotel Adlon - Wikipedia](https://en.wikipedia.org/?curid=3038981)
   - Lorenz Adlon bought Unter den Linden properties 1905, demolished Schinkel's Palais Redern; opened 23 October 1907

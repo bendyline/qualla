@@ -28,7 +28,7 @@ The Nuuanu Pali Lookout sits above the highway tunnels at roughly 1,200 feet ele
 
 ## Flight Context
 
-Located at 21.370N, 157.797W on the Koolau ridge of Oahu. The Pali gap is a prominent notch in the mountain range visible from both the windward and leeward sides. Expect turbulence and strong updrafts near the pass due to trade wind compression. The Nuuanu Pali Tunnels are visible below the lookout. Honolulu International Airport (PHNL) is 7 miles to the southwest. Marine Corps Base Hawaii (PHNG) at Kaneohe Bay is 5 miles to the northeast on the windward side.
+Located at 21.370N, 157.797W on the Koolau ridge of Oahu. The Pali gap is a prominent notch in the mountain range visible from both the windward and leeward sides. Expect turbulence and strong updrafts near the pass due to trade wind compression. The Nuuanu Pali Tunnels are visible below the lookout. Daniel K. Inouye International Airport (PHNL, formerly Honolulu International) is 7 miles to the southwest. Marine Corps Base Hawaii (PHNG) at Kaneohe Bay is 5 miles to the northeast on the windward side.
 
 ## Sources
 

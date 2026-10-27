@@ -30,7 +30,7 @@ The Wildlands Conservancy runs occasional educational and volunteer programs her
 
 ## Flight Context
 
-Located at 34.17°N, 116.55°W in the Little San Bernardino Mountains north of Morongo Valley. The Sawtooth Mountains are the most prominent ridgeline feature. Nearest airports: Twentynine Palms Airport (TNP) ~25 miles east, Desert Resorts Regional (PSP) ~30 miles south. Recommend 7,000–9,000 ft for corridor overview; granite domes and mesa-top volcanic caps are visible in clear desert air.
+Located at 34.17°N, 116.55°W in the Little San Bernardino Mountains north of Morongo Valley. The Sawtooth Mountains are the most prominent ridgeline feature. Nearest airports: Twentynine Palms Airport (TNP) ~25 miles east, Palm Springs International (PSP) ~30 miles south. Recommend 7,000–9,000 ft for corridor overview; granite domes and mesa-top volcanic caps are visible in clear desert air.
 
 ## Sources
 

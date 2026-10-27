@@ -3,27 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/d/z/0/republican-palace-museum-wp/hero.jpg",
-        "filename": "Republican Palace Museum (8625532655).jpg",
-        "caption": "The Republican Palace Museum in Khartoum is housed in the former Anglican Cathedral (1912), confiscated by the Sudan Government in 1971. The old British Governor's Palace (1884)",
-        "alt": "The Republican Palace Museum in Khartoum is housed in the former Anglican Cathedral (1912), confiscated by the Sudan Government in 1971. The old British Governor's Palace (1884)",
-        "width": 1024,
-        "height": 768,
+        "path": "_m/s/d/z/0/republican-palace-museum-wp/republican-palace-museum-khart-1.jpg",
+        "filename": "Republican Palace Museum (Khartoum) 002.jpg",
+        "caption": "Republican Palace Museum, Khartoum, Sudan.",
+        "alt": "Republican Palace Museum, Khartoum, Sudan.",
+        "width": 1600,
+        "height": 1200,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "David Stanley from Nanaimo, Canada",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Republican_Palace_Museum_(8625532655).jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0 cz",
+        "artist": "Petr Adam Dohnálek",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Republican_Palace_Museum_(Khartoum)_002.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "republican-palace-museum-wp",
         "sourceGeohash4": "sdz0",
         "categories": [
-          "CC-BY-2.0",
+          "CC-BY-SA-3.0-CZ",
           "Files with coordinates missing SDC location of creation",
-          "Flickr images reviewed by File Upload Bot (Magnus Manske)",
-          "Photographs by David Stanley",
           "Republican Palace Museum, Khartoum",
-          "Sudan photographs taken on 2013-02-10"
-        ]
+          "Self-published work",
+          "Taken with Nikon Coolpix 2100"
+        ],
+        "smallPath": "_m/s/d/z/0/republican-palace-museum-wp/republican-palace-museum-khart-1-small.webp"
       },
       "images": [
         {
@@ -198,7 +198,8 @@
             "Sculptures in the National Museum of Sudan",
             "Steve Evans photos of Sudan",
             "Tabo (Nubia)"
-          ]
+          ],
+          "smallPath": "_m/s/d/z/0/khartoum-wp/statue-claimed-to-depict-natak-small.webp"
         },
         {
           "path": "_m/s/d/z/0/khartoum-wp/bluenile-tuti-bahri.jpg",
@@ -222,7 +223,8 @@
             "PD-self",
             "Self-published work",
             "Tuti Island"
-          ]
+          ],
+          "smallPath": "_m/s/d/z/0/khartoum-wp/bluenile-tuti-bahri-small.webp"
         },
         {
           "path": "_m/s/d/z/0/khartoum-wp/st-matthew-s-catholic-cathedra.jpg",
@@ -244,7 +246,8 @@
             "Self-published work",
             "St. Matthew's Catholic Cathedral, Khartoum",
             "Taken with Nikon Coolpix 2100"
-          ]
+          ],
+          "smallPath": "_m/s/d/z/0/khartoum-wp/st-matthew-s-catholic-cathedra-small.webp"
         },
         {
           "path": "_m/s/d/z/0/khartoum-wp/national-botanical-garden-khar.jpg",
@@ -267,7 +270,8 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work",
             "Taken with Nikon Coolpix 2100"
-          ]
+          ],
+          "smallPath": "_m/s/d/z/0/khartoum-wp/national-botanical-garden-khar-small.webp"
         },
         {
           "path": "_m/s/d/z/0/khartoum-wp/bazaro-en-hartumo-003.jpg",
@@ -289,7 +293,8 @@
             "Markets in Khartoum",
             "Self-published work",
             "Taken with Nikon Coolpix 2100"
-          ]
+          ],
+          "smallPath": "_m/s/d/z/0/khartoum-wp/bazaro-en-hartumo-003-small.webp"
         },
         {
           "path": "_m/s/d/z/0/khartoum-wp/bazaro-en-hartumo-005.jpg",
@@ -311,7 +316,8 @@
             "Markets in Khartoum",
             "Self-published work",
             "Taken with Nikon Coolpix 2100"
-          ]
+          ],
+          "smallPath": "_m/s/d/z/0/khartoum-wp/bazaro-en-hartumo-005-small.webp"
         },
         {
           "path": "_m/s/d/z/0/khartoum-wp/mahdi-s-tomb-in-omdurman-001.jpg",
@@ -333,7 +339,8 @@
             "Self-published work",
             "Taken with Nikon Coolpix 2100",
             "Tomb of the Mahdi"
-          ]
+          ],
+          "smallPath": "_m/s/d/z/0/khartoum-wp/mahdi-s-tomb-in-omdurman-001-small.webp"
         },
         {
           "path": "_m/s/d/z/0/khartoum-wp/khartoum-and-the-nile.jpg",
@@ -348,7 +355,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khartoum_and_the_Nile.jpg",
           "sourceType": "poi",
           "sourceArticleId": "khartoum-wp",
-          "sourceGeohash4": "sdz0"
+          "sourceGeohash4": "sdz0",
+          "smallPath": "_m/s/d/z/0/khartoum-wp/khartoum-and-the-nile-small.webp"
         },
         {
           "path": "_m/e/d/e/e/dakar-wk/located-airport-road.jpg",
@@ -363,7 +371,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_City_Gate_of_Abuja.jpg",
           "sourceType": "poi",
           "sourceArticleId": "dakar-wk",
-          "sourceGeohash4": "sdz0"
+          "sourceGeohash4": "sdz0",
+          "mediumPath": "_m/e/d/e/e/dakar-wk/located-airport-road-medium.webp",
+          "smallPath": "_m/e/d/e/e/dakar-wk/located-airport-road-small.webp"
         }
       ],
       "narration": [

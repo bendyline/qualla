@@ -31,7 +31,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/q/8/battle-of-evesham-wp/england-relief-location-map.jpg",
+          "path": "_m/g/c/p/v/london-wp/england-relief-location-map.jpg",
           "filename": "England relief location map.jpg",
           "caption": "Relief map of England, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 6.75W\nEast: 2.0E\nNorth: 56.0N\nSouth: 49.75N",
           "alt": "Relief map of England, UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 6.75W\nEast: 2.0E\nNorth: 56.0N\nSouth: 49.75N",
@@ -53,7 +53,9 @@
             "Ordnance Survey Boundary Line maps",
             "Self-published work",
             "Topographic maps of England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/london-wp/england-relief-location-map-medium.webp",
+          "smallPath": "_m/g/c/p/v/london-wp/england-relief-location-map-small.webp"
         },
         {
           "path": "_m/g/c/q/8/battle-of-evesham-wp/montfort-evesham.jpg",
@@ -156,7 +158,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/8/evesham-wp/evesham-abbey-bell-tower-small.webp"
         },
         {
           "path": "_m/g/c/q/8/evesham-wp/fgw-train-at-evesham-station.jpg",
@@ -187,7 +190,9 @@
             "May 2008 in Worcestershire",
             "Self-published work",
             "Taken with Sony Ericsson K800i"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/8/evesham-wp/fgw-train-at-evesham-station-medium.webp",
+          "smallPath": "_m/g/c/q/8/evesham-wp/fgw-train-at-evesham-station-small.webp"
         },
         {
           "path": "_m/g/c/q/8/evesham-wp/the-almonry-evesham.jpg",
@@ -202,7 +207,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Almonry,_Evesham.jpg",
           "sourceType": "poi",
           "sourceArticleId": "evesham-wp",
-          "sourceGeohash4": "gcq8"
+          "sourceGeohash4": "gcq8",
+          "mediumPath": "_m/g/c/q/8/evesham-wp/the-almonry-evesham-medium.webp",
+          "smallPath": "_m/g/c/q/8/evesham-wp/the-almonry-evesham-small.webp"
         }
       ],
       "narration": [

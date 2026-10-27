@@ -36,7 +36,7 @@ The crash site lies just outside the former Johannisthal airfield at roughly 52.
 
 ## Sources
 
-- [Johannisthal air disaster](https://en.wikipedia.org/wiki/Johannisthal_air_disaster)
+- [Johannisthal air disaster](https://en.wikipedia.org/?curid=3372699)
 - [LZ 18 (L 2)](https://en.wikipedia.org/wiki/LZ_18_(L_2))
   - L 2 = LZ 18, Imperial German Navy, built by Luftschiffbau Zeppelin; length 157.94 m, volume 27,000 m3 - source
   - engine repairs delayed departure about two hours; heated hydrogen caused rapid ascent - source
@@ -52,7 +52,7 @@ The crash site lies just outside the former Johannisthal airfield at roughly 52.
   - 14 of the 20 people aboard died - source
 - Chicago Daily News Almanac and Year Book for 1914
   - contemporary account attributing the explosion to a gasoline tank and giving 27 military men aboard - quoted in source article
-- [Johannisthal air disaster - Wikipedia (independent final-review re-check)](https://en.wikipedia.org/wiki/Johannisthal_air_disaster)
+- [Johannisthal air disaster - Wikipedia (independent final-review re-check)](https://en.wikipedia.org/?curid=3372699)
   - CORRECTED: current article infobox lists fatalities=28, survivors=0; only Lieutenant Baron von Bieul, a guest aboard, was found alive at the wreck and was fatally injured, contradicting the story's original claim of three survivors - fixed in story body
   - 610 m / 2,000 ft ascent altitude before ignition re-confirmed against LZ 18 (L 2) Wikipedia article
 

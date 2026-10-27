@@ -33,6 +33,31 @@ Copenhagen sits at 55.667°N, 12.567°E on the eastern coast of Zealand, opposit
 ## Sources
 
 - [Battle of Copenhagen (1807) - Wikipedia](https://en.wikipedia.org/?curid=460565)
+- [Battle of Copenhagen (1807) - Wikipedia](https://en.wikipedia.org/?curid=460565)
+  - Bombardment dates 2-5 September 1807; capitulation signed 7 September 1807
+  - British commanders Admiral James Gambier (naval) and Lord Cathcart (land), army strength 25,000 (infobox), with 18,000 men actively besieging the city
+  - 300 Congreve rockets fired (per Congreve's own account)
+  - Civilian casualties: article's own text states 'roughly 195' killed, 768 wounded (cross-checked; multiple independent third-party sources - Britannica, National Army Museum, History Today - were unreachable during this review (403/404 errors), so the figure rests on Wikipedia's own hedged wording plus general historical consensus; treat 195 as an approximate widely-cited figure, not an exact count)
+  - Over 1,000 buildings burned
+  - Danish surrender terms: 18 ships of the line, 11 frigates, 2 smaller ships, 2 ship-sloops, 7 brig-sloops, 2 brigs, 1 schooner, and 26 gunboats handed over
+  - Arthur Wellesley detached 26 August, defeated Danish relief force at Køge 29 August 1807
+  - Thorkelin's Beowulf work destroyed in the fire except two manuscripts; poem published 1815
+  - Horse Copenhagen foaled 1808, later ridden by Wellington at Waterloo
+  - Treaty of Kiel 1814 ended the Anglo-Danish war
+  - 'Copenhagenize' verb origin and OED definition confirmed; Canning's March 1808 censure debate defeated 224-64
+
+## Review Notes
+
+**Reviewed:** 2026-09-06 · 11 facts verified · 0 corrections
+
+SPECIAL CARE article. Fact-checked against Wikipedia Battle of Copenhagen (1807): dates (2-5 Sept bombardment, 7 Sept capitulation), Cathcart's army (25,000 total/18,000 besieging - both figures reconciled, story's 25,000 matches infobox strength), Gambier command, 300 Congreve rockets, casualties (195 killed/768 wounded matches article text), ships surrendered (18 ships of line, 11 frigates matches detailed surrender list), Wellesley at Koge 29 Aug, Thorkelin/Beowulf, horse Copenhagen, Treaty of Kiel 1814, Copenhagenize etymology, Canning 224-64 vote - all confirmed accurate, no corrections needed. Attempted independent cross-check of casualty figures via Britannica/National Army Museum/History Today but all were unreachable (403/404); noted this limitation in sources.claimsVerified. Body text already treats civilian deaths with appropriate gravity (moral framing, no celebratory/clinical language) - no empathy edits needed. sourceId 460565 confirmed matches Battle of Copenhagen (1807).
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Frames the bombardment as a moral wrong rather than a neutral tactical episode: 'Even at the time, it was understood as a moral compromise. Britain did it anyway.'
+- Closing line editorializes on the human cost: 'Nearly two hundred ordinary citizens of a neutral capital were killed in their own homes, as a precaution against a war their government had no intention of joining.'
 
 ---
 

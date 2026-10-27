@@ -44,7 +44,7 @@ The Yenibosna neighborhood lies at approximately 40.9956°N, 28.8315°E in the B
 - [2016 Atatürk Airport attack - Wikipedia](https://en.wikipedia.org/wiki/2016_Atat%C3%BCrk_Airport_attack)
   - June 28 2016 attack killed 42 people (not 45 as originally written)
   - Approximately 238-239 wounded
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/October_2016_Istanbul_bombing)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=51924650)
   - Removed the naming of three living individuals detained as suspects who were not recorded as convicted (BLP caution); the detention/false-ID facts and the attribution to Turkish authorities are unchanged.
 
 ## Review Notes

@@ -2,42 +2,46 @@
   "articleId": "cong-wk",
   "gallery": [
     {
-      "filename": "Cong banner Ashford Castle.JPG",
-      "title": "File:Cong banner Ashford Castle.JPG",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Cong_banner_Ashford_Castle.JPG",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Cong_banner_Ashford_Castle.JPG",
-      "width": 7551,
-      "height": 1081,
+      "filename": "CongCloisters.JPG",
+      "title": "File:CongCloisters.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/CongCloisters.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:CongCloisters.JPG",
+      "width": 1000,
+      "height": 750,
       "mime": "image/jpeg",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Zertrin",
-      "description": "Ashford Castle, founded in 1228 near Cong (County Mayo, Ireland), is one of the most beautiful and luxury hotel of the world.",
-      "dateCreated": "2007-04-24",
+      "artist": "ClintMalpaso",
+      "credit": "Own work",
+      "source": "CongCloisters",
+      "description": "Picture of the cloisters in Cong Abbey",
+      "dateCreated": "2009-03-01",
       "categories": [
-        "April 2007 in Ireland",
-        "Ashford Castle, County Mayo",
         "CC-BY-SA-3.0",
-        "Extracted images",
+        "Cong Abbey",
+        "GFDL",
+        "License migration redundant",
+        "March 2009 Ireland photographs",
         "Self-published work",
-        "Wikivoyage banners of Ireland"
+        "Taken with Olympus X-450 / D-535Z / C-370Z"
       ],
-      "sourceType": "sibling",
+      "sourceType": "core",
       "sourceArticleId": "cong-wk",
       "sourceGeohash4": "gc92",
-      "mediumPath": "_m/g/c/9/2/cong-wk/cong-banner-ashford-castle-medium.webp",
-      "smallPath": "_m/g/c/9/2/cong-wk/cong-banner-ashford-castle-small.webp"
+      "smallPath": "_m/g/c/9/2/cong-abbey-wp/picture-cloisters-cong-small.webp"
     },
     {
       "filename": "Charles Cunningham Boycott (Vanity Fair) crop.jpg",
       "title": "File:Charles Cunningham Boycott (Vanity Fair) crop.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Charles_Cunningham_Boycott_%28Vanity_Fair%29_crop.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Charles_Cunningham_Boycott_%28Vanity_Fair%29_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Charles_Cunningham_Boycott_(Vanity_Fair)_crop.jpg",
       "width": 681,
       "height": 1255,
       "mime": "image/jpeg",
       "license": "Public domain",
       "artist": "Leslie Ward",
+      "credit": "Vanity Fair magazine, January 29, 1881.\nDigital version from",
+      "source": "Charles Cunningham Boycott (Vanity Fair) crop",
       "description": "Caricature of Charles Cunningham Boycott (1832-1897). Caption read \"Boycott\".",
       "dateCreated": "Published January 29, 1881.",
       "categories": [
@@ -49,17 +53,45 @@
         "PD-old-100",
         "PD-old missing SDC copyright status"
       ],
-      "sourceType": "sibling",
+      "sourceType": "core",
       "sourceArticleId": "cong-wk",
       "sourceGeohash4": "gc92",
       "smallPath": "_m/g/c/9/2/cong-wk/charles-cunningham-boycott-van-small.webp"
+    },
+    {
+      "filename": "Jade cong with sacred human-animal motif.jpg",
+      "title": "File:Jade cong with sacred human-animal motif.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Jade_cong_with_sacred_human-animal_motif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Jade_cong_with_sacred_human-animal_motif.jpg",
+      "width": 5618,
+      "height": 3588,
+      "mime": "image/jpeg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Yuzhouren",
+      "description": "Jade cong with sacred human-animal motif. Neolithic age, Liangzhu culture (3400-2250 BC). Liangzhu Museum",
+      "dateCreated": "2024-04-10 05:45:47",
+      "categories": [
+        "CC-Zero",
+        "Cong",
+        "Jade objects",
+        "Liangzhu culture",
+        "Self-published work",
+        "Sites of Liangzhu culture"
+      ],
+      "sourceType": "commons-category",
+      "sourceArticleId": "cong-wk",
+      "sourceGeohash4": "gc92",
+      "mediumPath": "_m/g/c/9/2/cong-wk/jade-cong-with-sacred-human-an-medium.webp",
+      "smallPath": "_m/g/c/9/2/cong-wk/jade-cong-with-sacred-human-an-small.webp"
     }
   ],
   "galleryPaths": [
-    "_m/g/c/9/2/cong-wk/cong-banner-ashford-castle.jpg",
-    "_m/g/c/9/2/cong-wk/charles-cunningham-boycott-van.jpg"
+    "_m/g/c/9/2/cong-abbey-wp/picture-cloisters-cong.jpg",
+    "_m/g/c/9/2/cong-wk/charles-cunningham-boycott-van.jpg",
+    "_m/g/c/9/2/cong-wk/jade-cong-with-sacred-human-an.jpg"
   ],
-  "updatedAt": "2026-06-20T10:22:23.149Z",
+  "updatedAt": "2026-10-18T15:30:52.569Z",
   "narration": {
     "files": [
       "gc92-cong-flight-context.mp3",
@@ -80,5 +112,59 @@
       "gc92-cong-moytura-house-and-lough-mask-house.mp3": 67.3737916
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Cong banner Ashford Castle.JPG",
+    "title": "File:Cong banner Ashford Castle.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Cong_banner_Ashford_Castle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Cong_banner_Ashford_Castle.JPG",
+    "width": 7551,
+    "height": 1081,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Zertrin",
+    "credit": "Self-photographed",
+    "source": "Cong banner Ashford Castle",
+    "description": "Ashford Castle, founded in 1228 near Cong (County Mayo, Ireland), is one of the most beautiful and luxury hotel of the world.",
+    "dateCreated": "2007-04-24",
+    "categories": [
+      "April 2007 in Ireland",
+      "Ashford Castle, County Mayo",
+      "CC-BY-SA-3.0",
+      "Extracted images",
+      "Self-published work",
+      "Wikivoyage banners of Ireland"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "cong-wk",
+    "sourceGeohash4": "gc92"
+  },
+  "thumbnail": {
+    "filename": "Cong banner Ashford Castle.JPG",
+    "title": "File:Cong banner Ashford Castle.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Cong_banner_Ashford_Castle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Cong_banner_Ashford_Castle.JPG",
+    "width": 7551,
+    "height": 1081,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Zertrin",
+    "credit": "Self-photographed",
+    "source": "Cong banner Ashford Castle",
+    "description": "Ashford Castle, founded in 1228 near Cong (County Mayo, Ireland), is one of the most beautiful and luxury hotel of the world.",
+    "dateCreated": "2007-04-24",
+    "categories": [
+      "April 2007 in Ireland",
+      "Ashford Castle, County Mayo",
+      "CC-BY-SA-3.0",
+      "Extracted images",
+      "Self-published work",
+      "Wikivoyage banners of Ireland"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "cong-wk",
+    "sourceGeohash4": "gc92"
   }
 }

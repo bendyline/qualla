@@ -33,7 +33,7 @@ Located at 30.45°N, 84.28°W in central Tallahassee, within the government dist
 ## Sources
 
 - [Florida Governor's Mansion - Wikipedia](https://en.wikipedia.org/?curid=8912966)
-- [Florida Governor's Mansion - National Register of Historic Places](https://en.wikipedia.org/wiki/Florida_Governor%27s_Mansion)
+- [Florida Governor's Mansion - National Register of Historic Places](https://en.wikipedia.org/?curid=8912966)
   - Current mansion completed 1957
   - Designed by Marion Sims Wyeth
   - Modeled after Andrew Jackson's Hermitage

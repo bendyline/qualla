@@ -33,7 +33,7 @@ Located at 28.496N, 81.433W in western Orlando, Florida, adjacent to Conroy Road
 ## Sources
 
 - [Holy Land Experience - Wikipedia](https://en.wikipedia.org/?curid=8594692)
-- [Wikipedia - Holy Land Experience](https://en.wikipedia.org/wiki/Holy_Land_Experience)
+- [Wikipedia - Holy Land Experience](https://en.wikipedia.org/?curid=8594692)
   - Opened February 2001
   - TBN purchased June 2007 for estimated 7 million
   - Park was  million in debt at time of sale

@@ -46,7 +46,7 @@ Anton-Wilhelm-Amo-Straße runs roughly 900 m west to east at 52.5122 N, 13.3907 
 
 ## Sources
 
-- [Anton-Wilhelm-Amo-Straße - Wikipedia](https://en.wikipedia.org/wiki/Anton-Wilhelm-Amo-Stra%C3%9Fe)
+- [Anton-Wilhelm-Amo-Straße - Wikipedia](https://en.wikipedia.org/?curid=65027856)
   - The street runs west to east from Wilhelmstraße and partially forms the southern edge of Gendarmenmarkt
   - The word Mohr was used in Europe from the 16th to early 18th century for Africans and Muslims, derived from Latin Maurus, first denoting North African Berbers, later Muslims generally and eventually Black Africans
   - Duden has described the word as often seen as discriminatory since 2012 and as 'obsolete, today discriminatory' since 2019

@@ -46,7 +46,7 @@ Cachuela Esperanza lies at 10.54S, 65.60W, on the right bank of the Beni River a
   - Eugen Gomringer born January 20, 1925 in Cachuela Esperanza confirmed
   - Son of a Swiss father and a Bolivian mother confirmed
   - Recognized as the father of Concrete Poetry confirmed
-- [Cachuela Esperanza - Wikipedia](https://en.wikipedia.org/wiki/Cachuela_Esperanza)
+- [Cachuela Esperanza - Wikipedia](https://en.wikipedia.org/?curid=7175799)
   - Village sits on right bank of Beni River approximately 30 km upstream from Beni-Mamore confluence confirmed
   - The India Rubber World reporter dubbed Suarez 'the Rockefeller of the Rubber Trade' by 1905 consistent with sources
   - Bolivian Revolution of 1952 agrarian reform dismantled Casa Suarez holdings consistent with sources

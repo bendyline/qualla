@@ -33,7 +33,7 @@ Kawah Putih crater lake sits at approximately 7.17S, 107.40E on the flanks of Mo
 ## Sources
 
 - [Kawah Putih - Wikipedia](https://en.wikipedia.org/?curid=32293560)
-- [Kawah Putih - Wikipedia](https://en.wikipedia.org/wiki/Kawah_Putih)
+- [Kawah Putih - Wikipedia](https://en.wikipedia.org/?curid=32293560)
   - pH between 0.5 and 1.3 confirmed
   - Lake elevation 2,430 meters confirmed
   - Franz Wilhelm Junghuhn discovered/documented in 1837 confirmed

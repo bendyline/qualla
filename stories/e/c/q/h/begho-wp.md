@@ -42,7 +42,7 @@ Located at 7.85N, 2.48W, just south of the modern town of Hani in the Tain Distr
   - Major trading center linking Akan goldfields to trans-Saharan trade
   - Distinct quarters for different populations
   - Excavations by University of Ghana 1970-1979
-- [Begho - Wikipedia](https://en.wikipedia.org/wiki/Begho)
+- [Begho - Wikipedia](https://en.wikipedia.org/?curid=1864346)
   - 1,000-1,500 house mounds in six-square-mile zone confirmed
   - Peak population estimated 7,000-10,000 confirmed
   - City destroyed by Ashanti mid-18th century confirmed

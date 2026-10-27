@@ -3,37 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/u/e/alloway-wp/hero.jpg",
-        "filename": "Burns Cottage - Alloway.jpg",
-        "caption": "This is a photo of listed building number",
-        "alt": "This is a photo of listed building number",
-        "width": 3933,
-        "height": 2088,
+        "path": "_m/g/c/u/e/alloway-wp/alloway-view-from-the-west-sou.jpg",
+        "filename": "Alloway, view from the west, South Ayrshire, Scotland.jpg",
+        "caption": "Alloway, view from the west, South Ayrshire, Scotland. Burns Monument to the right.",
+        "alt": "Alloway, view from the west, South Ayrshire, Scotland. Burns Monument to the right.",
+        "width": 4608,
+        "height": 2551,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
-        "artist": "DeFacto",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burns_Cottage_-_Alloway.jpg",
-        "sourceType": "core",
+        "artist": "Rosser1954",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alloway,_view_from_the_west,_South_Ayrshire,_Scotland.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "alloway-wp",
         "sourceGeohash4": "gcue",
         "categories": [
-          "Burns Cottage",
+          "Alloway",
           "CC-BY-SA-4.0",
-          "Files with coordinates missing SDC location of creation (55° N, 5° W)",
-          "Historic Scotland listings with known IDs",
-          "Images by DeFacto",
-          "Images with extracted images",
-          "Listed buildings in Scotland with known IDs",
+          "Images by Roger Griffith",
+          "June 2017 in Scotland",
           "Self-published work",
-          "United Kingdom photographs taken on 2014-06-09",
-          "Valued images by DeFacto",
-          "Valued images missing SDC depicts",
-          "Valued images of Scotland",
-          "Valued images of architecture",
-          "Valued images of buildings in the United Kingdom",
-          "Valued images promoted 2015-11",
-          "Valued images sorted by promotion date"
-        ]
+          "United Kingdom photographs taken on 2017-06-10"
+        ],
+        "mediumPath": "_m/g/c/u/e/alloway-wp/alloway-view-from-the-west-sou-medium.webp",
+        "smallPath": "_m/g/c/u/e/alloway-wp/alloway-view-from-the-west-sou-small.webp"
       },
       "images": [
         {
@@ -466,7 +458,9 @@
             "Scotland photographs taken on 2006-07-28",
             "Self-published work",
             "Taken with Vivitar ViviCam 3760"
-          ]
+          ],
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/dean-castle-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/dean-castle-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/dpp-00226.jpg",
@@ -488,7 +482,8 @@
             "Scotland photographs taken on 2011-01-07",
             "Self-published work",
             "Taken with Canon EOS 500D"
-          ]
+          ],
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/dpp-00226-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/kirktonhall-house.jpg",
@@ -503,7 +498,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kirktonhall_House.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-ayrshire",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/kirktonhall-house-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/kirktonhall-house-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/eglinton-street-irvine.jpg",
@@ -518,7 +515,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eglinton_Street,_Irvine.JPG",
           "sourceType": "poi",
           "sourceArticleId": "south-ayrshire",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/eglinton-street-irvine-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/eglinton-street-irvine-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/culzean-castle-house-and-garde.jpg",
@@ -533,7 +532,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Culzean_Castle_house_and_gardens_02.JPG",
           "sourceType": "poi",
           "sourceArticleId": "south-ayrshire",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/culzean-castle-house-and-garde-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/culzean-castle-house-and-garde-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/ayrshire-banner-culzean-castle.jpg",
@@ -548,7 +549,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ayrshire_banner_Culzean_Castle.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-ayrshire",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/ayrshire-banner-culzean-castle-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/ayrshire-banner-culzean-castle-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/garrison-house-millport-cumbra.jpg",
@@ -563,7 +566,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garrison_House,_Millport,_Cumbrae,_Scotland_05.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-ayrshire",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/garrison-house-millport-cumbra-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/garrison-house-millport-cumbra-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/ailsa-craig-scotland-2022.jpg",
@@ -578,7 +583,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ailsa_Craig_Scotland_2022.jpg",
           "sourceType": "poi",
           "sourceArticleId": "south-ayrshire",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/ailsa-craig-scotland-2022-medium.webp",
+          "smallPath": "_m/tpc/so/ut/h-/ay/south-ayrshire/ailsa-craig-scotland-2022-small.webp"
         }
       ],
       "narration": [

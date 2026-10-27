@@ -3,30 +3,22 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/f/t/3/dogon-country-wk/hero.jpg",
-        "filename": "Traditional dogon masque.jpg",
-        "caption": "Traditional dogon masques in Tirelli, Pays Dogon, Mali.",
-        "alt": "Traditional dogon masques in Tirelli, Pays Dogon, Mali.",
-        "width": 2037,
-        "height": 3050,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Ferdinand Reus from Arnhem, Holland",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Traditional_dogon_masque.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "dogon-country-wk",
-        "sourceGeohash4": "eft3",
-        "categories": [
-          "CC-BY-SA-2.0",
-          "Dogon masks",
-          "Flickr images reviewed by trusted users",
-          "Photographs by Ferdinand Reus",
-          "Taken with Canon EOS 300D"
-        ]
+        "path": "_m/e/f/t/3/dogon-country-wp/cola-nut.jpg",
+        "filename": "Cola nut.jpg",
+        "caption": "This is an image of food from",
+        "alt": "This is an image of food from",
+        "width": 2560,
+        "height": 1920,
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Kwameghana",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cola_nut.jpg",
+        "mediumPath": "_m/e/f/t/3/dogon-country-wp/cola-nut-medium.webp",
+        "smallPath": "_m/e/f/t/3/dogon-country-wp/cola-nut-small.webp"
       },
       "images": [
         {
-          "path": "_m/e/f/t/3/dogon-country-wk/cola-nut.jpg",
+          "path": "_m/e/f/t/3/dogon-country-wp/cola-nut.jpg",
           "filename": "Cola nut.jpg",
           "caption": "This is an image of food from",
           "alt": "This is an image of food from",
@@ -49,8 +41,8 @@
             "Unidentified Cola",
             "Uploaded via Campaign:wlafrica"
           ],
-          "mediumPath": "_m/e/f/t/3/dogon-country-wk/cola-nut-medium.webp",
-          "smallPath": "_m/e/f/t/3/dogon-country-wk/cola-nut-small.webp"
+          "mediumPath": "_m/e/f/t/3/dogon-country-wp/cola-nut-medium.webp",
+          "smallPath": "_m/e/f/t/3/dogon-country-wp/cola-nut-small.webp"
         },
         {
           "path": "_m/s/1/7/h/osun-osogbo-wp/tellem-thought-have-oc.jpg",
@@ -79,7 +71,8 @@
             "Template Unknown (author)",
             "WikiAfrica Brooklyn Museum",
             "Wood carving of Mali"
-          ]
+          ],
+          "smallPath": "_m/s/1/7/h/osun-osogbo-wp/tellem-thought-have-oc-small.webp"
         },
         {
           "path": "_m/e/f/t/3/dogon-country-wp/portemali.jpg",
@@ -103,7 +96,8 @@
             "Sangha",
             "Self-published work",
             "Taken with Olympus SP-510UZ"
-          ]
+          ],
+          "smallPath": "_m/e/f/t/3/dogon-country-wp/portemali-small.webp"
         },
         {
           "path": "_m/e/f/t/3/dogon-country-wp/pays-dogon-15.jpg",
@@ -123,7 +117,9 @@
             "Battening (weaving)",
             "Bogolan",
             "CC-BY-SA-4.0"
-          ]
+          ],
+          "mediumPath": "_m/e/f/t/3/dogon-country-wp/pays-dogon-15-medium.webp",
+          "smallPath": "_m/e/f/t/3/dogon-country-wp/pays-dogon-15-small.webp"
         },
         {
           "path": "_m/e/f/t/3/dogon-country-wp/pays-dogon-73.jpg",
@@ -138,7 +134,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pays_Dogon_(73).JPG",
           "sourceType": "sibling",
           "sourceArticleId": "dogon-country-wp",
-          "sourceGeohash4": "eft3"
+          "sourceGeohash4": "eft3",
+          "mediumPath": "_m/e/f/t/3/dogon-country-wp/pays-dogon-73-medium.webp",
+          "smallPath": "_m/e/f/t/3/dogon-country-wp/pays-dogon-73-small.webp"
         },
         {
           "path": "_m/e/f/t/3/dogon-country-wp/pays-dogon-82.jpg",
@@ -153,7 +151,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pays_Dogon_(82).JPG",
           "sourceType": "sibling",
           "sourceArticleId": "dogon-country-wp",
-          "sourceGeohash4": "eft3"
+          "sourceGeohash4": "eft3",
+          "mediumPath": "_m/e/f/t/3/dogon-country-wp/pays-dogon-82-medium.webp",
+          "smallPath": "_m/e/f/t/3/dogon-country-wp/pays-dogon-82-small.webp"
         },
         {
           "path": "_m/e/f/t/3/bandiagara-wk/hero.jpg",
@@ -182,7 +182,9 @@
             "Self-published work",
             "Taken with Pentax K200D",
             "Teli (Mali)"
-          ]
+          ],
+          "mediumPath": "_m/e/f/t/3/bandiagara-wk/hero-medium.webp",
+          "smallPath": "_m/e/f/t/3/bandiagara-wk/hero-small.webp"
         }
       ],
       "narration": [

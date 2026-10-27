@@ -40,7 +40,7 @@ Located at 52.6399 N, 13.4077 E, on Berlin's far northern edge between Blankenfe
 
 ## Sources
 
-- [Arkenberge - Wikipedia (EN)](https://en.wikipedia.org/wiki/Arkenberge)
+- [Arkenberge - Wikipedia (EN)](https://en.wikipedia.org/?curid=52259013)
   - Hill in the Berlin locality of Blankenfelde, borough of Pankow; name originally belonged to a natural hill ridge, after which the nearby settlement was named
   - January 2015 survey determined the tip had reached 120.7 m above sea level (NHN), making it the highest point in the state of Berlin, superseding the Teufelsberg
   - Berlin's highest natural point is the Großer Müggelberg at 114.7 m

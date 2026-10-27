@@ -3,23 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/d/0/f/p/cocos-island-wp/hero.jpg",
-        "filename": "Islote Manuelita en Isla del Coco.JPG",
-        "caption": "El Islote Manuelita es un sitio preferido para el buceo por la inmensa variedad de especies marinas que le circundan",
-        "alt": "El Islote Manuelita es un sitio preferido para el buceo por la inmensa variedad de especies marinas que le circundan",
-        "width": 1024,
-        "height": 577,
+        "path": "_m/d/0/f/p/cocos-island-wp/hammerhead-shark-cocos-island-.jpg",
+        "filename": "Hammerhead shark, Cocos Island, Costa Rica.jpg",
+        "caption": "Hammerhead shark, Cocos Island, Costa Rica",
+        "alt": "Hammerhead shark, Cocos Island, Costa Rica",
+        "width": 5940,
+        "height": 4711,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Axxis10",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Islote_Manuelita_en_Isla_del_Coco.JPG",
-        "sourceType": "core",
+        "license": "CC BY 2.0",
+        "artist": "Barry Peters",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hammerhead_shark,_Cocos_Island,_Costa_Rica.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "cocos-island-wp",
-        "sourceGeohash4": "d0fp"
+        "sourceGeohash4": "d0fp",
+        "mediumPath": "_m/d/0/f/p/cocos-island-wp/hammerhead-shark-cocos-island--medium.webp",
+        "smallPath": "_m/d/0/f/p/cocos-island-wp/hammerhead-shark-cocos-island--small.webp"
       },
       "images": [
         {
-          "path": "_m/d/0/f/p/cocos-island-wp/relief-map-central-ame.jpg",
+          "path": "_m/d/1/s/d/stone-spheres-of-costa-rica-wp/relief-map-central-ame.jpg",
           "filename": "Relief map of Central America.jpg",
           "caption": "Relief map of Central America, conformal cylindrical projection, standard parallel 12°30'N",
           "alt": "Relief map of Central America, conformal cylindrical projection, standard parallel 12°30'N",
@@ -38,10 +40,11 @@
             "Location maps of North America",
             "Topographic maps of Central America",
             "Topographic maps of the Caribbean"
-          ]
+          ],
+          "smallPath": "_m/d/1/s/d/stone-spheres-of-costa-rica-wp/relief-map-central-ame-small.webp"
         },
         {
-          "path": "_m/d/0/f/p/cocos-island-wp/map-cocos-island-isla.jpg",
+          "path": "_m/d/0/f/p/cocos-island-national-park-wk/map-cocos-island-isla.jpg",
           "filename": "Map of Cocos from Pacific Islands, vol. 2 (Geographical Handbook Series, 1943).jpg",
           "caption": "A map of Cocos Island (Isla del Coco), Costa Rica. The caption of the map is: \"Fig. 5. Cocos / Based on official sources.\"",
           "alt": "A map of Cocos Island (Isla del Coco), Costa Rica. The caption of the map is: \"Fig. 5. Cocos / Based on official sources.\"",
@@ -58,10 +61,11 @@
             "Isla del Coco",
             "Maps of islands of Costa Rica",
             "UK Government artistic works"
-          ]
+          ],
+          "smallPath": "_m/d/0/f/p/cocos-island-national-park-wk/map-cocos-island-isla-small.webp"
         },
         {
-          "path": "_m/d/0/f/p/cocos-island-wp/atardecer-en-bahia-wafer-isla-.jpg",
+          "path": "_m/tpc/co/co/s-/is/cocos-island-national-park/atardecer-en-bahia-wafer-isla-.jpg",
           "filename": "Atardecer en Bahía Wafer Isla del Coco.JPG",
           "caption": "Atardecer en Bahía Wafer, Isla del Coco, 2010",
           "alt": "Atardecer en Bahía Wafer, Isla del Coco, 2010",
@@ -82,7 +86,7 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FS3"
           ],
-          "smallPath": "_m/d/0/f/p/cocos-island-wp/atardecer-en-bahia-wafer-isla--small.webp"
+          "smallPath": "_m/tpc/co/co/s-/is/cocos-island-national-park/atardecer-en-bahia-wafer-isla--small.webp"
         },
         {
           "path": "_m/d/0/f/p/cocos-island-wp/coco-island-cousteau.jpg",
@@ -355,7 +359,7 @@
           "smallPath": "_m/d/0/f/p/cocos-island-wp/proteccion-ambiental-en-isla-d-small.webp"
         },
         {
-          "path": "_m/d/0/f/p/cocos-island-wp/cocosislandcostarica.jpg",
+          "path": "_m/tpc/co/st/a-/ri/costa-rica/cocosislandcostarica.jpg",
           "filename": "CocosIslandCostaRica.jpg",
           "caption": "Cocos Island National Park, Costa Rica. Photo taken by Shannon Rankin, NOAA, October 2000 [1].",
           "alt": "Cocos Island National Park, Costa Rica. Photo taken by Shannon Rankin, NOAA, October 2000 [1].",
@@ -367,7 +371,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CocosIslandCostaRica.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "costa-rica",
-          "sourceGeohash4": "d0fp"
+          "sourceGeohash4": "d0fp",
+          "smallPath": "_m/tpc/co/st/a-/ri/costa-rica/cocosislandcostarica-small.webp"
         },
         {
           "path": "_m/d/0/f/p/cocos-island-wp/bahia-waffer-isla-del-coco-cos.jpg",
@@ -473,7 +478,8 @@
             "PD NASA",
             "Roca Redonda",
             "Satellite pictures of the Galápagos Islands (annotated)"
-          ]
+          ],
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/true-color-image-galap-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/magnificent-frigatebir.jpg",
@@ -499,7 +505,9 @@
             "License migration redundant",
             "Photographs by Alex Giltjes",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/magnificent-frigatebir-medium.webp",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/magnificent-frigatebir-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/puerto-ayora-harbor.jpg",
@@ -521,7 +529,9 @@
             "Flickr images reviewed by FlickreviewR",
             "Puerto Ayora",
             "Taken with Sony DSC-W100"
-          ]
+          ],
+          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/puerto-ayora-harbor-medium.webp",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/puerto-ayora-harbor-small.webp"
         },
         {
           "path": "_m/3/z/z/t/galapagos-wk/hero.jpg",
@@ -544,7 +554,9 @@
             "Puerto Villamil",
             "Sunrises at beaches of Ecuador",
             "Taken with Canon Digital IXUS 90 IS"
-          ]
+          ],
+          "mediumPath": "_m/3/z/z/t/galapagos-wk/hero-medium.webp",
+          "smallPath": "_m/3/z/z/t/galapagos-wk/hero-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/hero.jpg",
@@ -571,7 +583,9 @@
             "PD US NOAA",
             "Pictures of the day (2011)",
             "Unknown date"
-          ]
+          ],
+          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/hero-medium.webp",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/hero-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/night-photo-taken-puer.jpg",
@@ -595,7 +609,8 @@
             "Night in Ecuador",
             "Photography by David Adam Kess",
             "Puerto Ayora"
-          ]
+          ],
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/night-photo-taken-puer-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/male-lava-lizard-micro.jpg",
@@ -610,7 +625,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Male_Gal%C3%A1pagos_Santiago_lava_lizard.jpg",
           "sourceType": "poi",
           "sourceArticleId": "galapagos-islands-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/male-lava-lizard-micro-medium.webp",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/male-lava-lizard-micro-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/professional-photograp.jpg",
@@ -625,7 +642,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_beach_at_North_Seymour_Island_in_the_Galapagos.jpeg",
           "sourceType": "poi",
           "sourceArticleId": "galapagos-islands-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/professional-photograp-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/santa-cruz-island-one.jpg",
@@ -640,7 +658,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fresh_Water_Swimming_in_the_Galapagos_on_the_Island_of_Santa_Cruz.JPG",
           "sourceType": "poi",
           "sourceArticleId": "galapagos-islands-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/santa-cruz-island-one-small.webp"
         },
         {
           "path": "_m/6/p/b/7/san-cristobal-galapagos-wk/collage-puerto-baqueri.png",
@@ -655,7 +674,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collage_Puerto_Baquerizo_Moreno.png",
           "sourceType": "poi",
           "sourceArticleId": "san-cristobal-galapagos-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/6/p/b/7/san-cristobal-galapagos-wk/collage-puerto-baqueri-medium.webp",
+          "smallPath": "_m/6/p/b/7/san-cristobal-galapagos-wk/collage-puerto-baqueri-small.webp"
         }
       ],
       "narration": [

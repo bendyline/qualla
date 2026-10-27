@@ -28,7 +28,7 @@ Even as the demolition proceeded, people tried to climb. Police issued citations
 
 ## Flight Context
 
-Located at 21.40N, 157.82W on the Ko'olau Range, Oahu. The stairs (now largely removed) ascended the western ridge of Haiku Valley, visible as a narrow green amphitheater. Best viewed at 1,500-2,500 feet AGL from over Kaneohe Bay looking west. Nearest airports: PHNG (Kaneohe Bay MCAS, 2 nm E), PHNL (Honolulu International, 8 nm SW). Note: active military airspace nearby.
+Located at 21.40N, 157.82W on the Ko'olau Range, Oahu. The stairs (now largely removed) ascended the western ridge of Haiku Valley, visible as a narrow green amphitheater. Best viewed at 1,500-2,500 feet AGL from over Kaneohe Bay looking west. Nearest airports: PHNG (Kaneohe Bay MCAS, 2 nm E), PHNL (Daniel K. Inouye International, formerly Honolulu International, 8 nm SW). Note: active military airspace nearby.
 
 ## Sources
 

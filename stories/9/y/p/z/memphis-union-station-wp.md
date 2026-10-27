@@ -28,7 +28,7 @@ The closure was not the end. The City of Memphis argued that Union Station had b
 
 ## Flight Context
 
-Memphis Union Station stood at approximately 35.132N, 90.056W, on Calhoun Street between South Second and South Third Streets in south Memphis. The site is now occupied by a postal facility. Nearby airports include Memphis International (KMEM) about 8 miles to the south. The former station location is roughly two blocks east of where Central Station (now a hotel and transit hub) still stands. Best viewed at 2,000-3,000 feet AGL to appreciate the South Main Street district context.
+Memphis Union Station stood at approximately 35.132N, 90.056W, on Calhoun Street between South Second and South Third Streets in south Memphis. The site is now occupied by a postal facility. Nearby airports include Frederick W. Smith International Airport (KMEM, formerly Memphis International) about 8 miles to the south. The former station location is roughly two blocks east of where Central Station (now a hotel and transit hub) still stands. Best viewed at 2,000-3,000 feet AGL to appreciate the South Main Street district context.
 
 ## Sources
 

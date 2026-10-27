@@ -36,13 +36,13 @@ Located at 35.317N, 139.536E in the coastal city of Kamakura, approximately 50 k
 
 ## Sources
 
-- [Wikipedia - Kotoku-in](https://en.wikipedia.org/wiki/K%C5%8Dtoku-in)
+- [Wikipedia - Kotoku-in](https://en.wikipedia.org/?curid=730217)
 - [Japan National Tourism Organization - Kamakura Daibutsu](https://www.japan.travel/en/spot/1588/)
   - Height of 13.35 meters including base confirmed
   - Weight of approximately 93 tonnes confirmed
   - Dates from around 1252 confirmed
   - Designated National Treasure confirmed
-- [Kotoku-in Great Buddha - Wikipedia](https://en.wikipedia.org/wiki/K%C5%8Dtoku-in)
+- [Kotoku-in Great Buddha - Wikipedia](https://en.wikipedia.org/?curid=730217)
   - Wooden Buddha begun 1233, destroyed by storm confirmed
   - Bronze statue cast around 1252 confirmed
   - Hall destroyed by 1498 Meio earthquake tsunami confirmed

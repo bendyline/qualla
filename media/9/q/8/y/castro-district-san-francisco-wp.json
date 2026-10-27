@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/8/y/castro-district-san-francisco-wp/hero.jpg",
-        "filename": "SF From Marin Highlands3.jpg",
-        "caption": "San Francisco from en:Marin Headlands",
-        "alt": "San Francisco from en:Marin Headlands",
-        "width": 2672,
-        "height": 1885,
-        "mimeType": "image/jpeg",
-        "license": "Public domain",
-        "artist": "en:User:Paul.h",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SF_From_Marin_Highlands3.jpg",
+        "path": "_m/9/q/8/y/castro-district-san-francisco-wp/map-same-sex-couples-s.png",
+        "filename": "Same Sex Couples in San Francisco.png",
+        "caption": "Map of same-sex couples in San Francisco.  Data from 2020 US Census.",
+        "alt": "Map of same-sex couples in San Francisco.  Data from 2020 US Census.",
+        "width": 7200,
+        "height": 4800,
+        "mimeType": "image/png",
+        "license": "CC BY-SA 4.0",
+        "artist": "Lightandtruth",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Same_Sex_Couples_in_San_Francisco.png",
         "sourceType": "core",
         "sourceArticleId": "castro-district-san-francisco-wp",
         "sourceGeohash4": "9q8y",
-        "categories": [
-          "Bridges in the United States photographed in 2006",
-          "Golden Gate Bridge from the Marin Headlands",
-          "Golden Gate Bridge in the 2000s",
-          "November 2006 in San Francisco",
-          "PD-user",
-          "San Francisco skylines",
-          "Taken with Canon Digital IXUS 800 IS",
-          "United States photographs taken on 2006-11-05"
-        ]
+        "mediumPath": "_m/9/q/8/y/castro-district-san-francisco-wp/map-same-sex-couples-s-medium.webp",
+        "smallPath": "_m/9/q/8/y/castro-district-san-francisco-wp/map-same-sex-couples-s-small.webp"
       },
       "images": [
         {
@@ -439,7 +431,7 @@
           "smallPath": "_m/9/q/8/y/castro-district-san-francisco-wp/allegro-organic-guatemala-asuv-small.webp"
         },
         {
-          "path": "_m/9/q/8/y/castro-district-san-francisco-wp/giant-lgbt-pride-flag-at-the-c.jpg",
+          "path": "_m/9/q/8/y/castro-theatre-wp/giant-lgbt-pride-flag-at-the-c.jpg",
           "filename": "Giant LGBT pride flag at The Castro in San Francisco.JPG",
           "caption": "Giant LGBT pride flag at The Castro in San Francisco",
           "alt": "Giant LGBT pride flag at The Castro in San Francisco",
@@ -451,7 +443,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant_LGBT_pride_flag_at_The_Castro_in_San_Francisco.JPG",
           "sourceType": "commons-category",
           "sourceArticleId": "castro-theatre-wp",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/castro-theatre-wp/giant-lgbt-pride-flag-at-the-c-medium.webp",
+          "smallPath": "_m/9/q/8/y/castro-theatre-wp/giant-lgbt-pride-flag-at-the-c-small.webp"
         },
         {
           "path": "_m/9/q/8/y/castro-district-san-francisco-wp/4040-17th-st-mccormick-house.jpg",
@@ -540,7 +534,8 @@
             "PD reviewed files",
             "PDphotos.org",
             "Palace of Fine Arts, San Francisco"
-          ]
+          ],
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/palace-of-fine-arts-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/oak-control-tower-07832.jpg",
@@ -566,7 +561,9 @@
             "Oakland San Francisco Bay Airport",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ5"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/san-francisco-wk/oak-control-tower-07832-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/oak-control-tower-07832-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/lombardstreet.jpg",
@@ -586,7 +583,9 @@
             "Crooked section of Lombard Street (San Francisco)",
             "PD-user",
             "Taken with Canon PowerShot A520"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/san-francisco-wk/lombardstreet-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/lombardstreet-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/legion-of-honor-san-francisco.jpg",
@@ -607,7 +606,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Sony DSC-T100"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/san-francisco-wk/legion-of-honor-san-francisco-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/legion-of-honor-san-francisco-small.webp"
         },
         {
           "path": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-aerial-view-of-san-francisco-i.jpg",
@@ -635,7 +636,9 @@
             "Self-published work",
             "Taken with Canon PowerShot A1000 IS",
             "United States photographs taken on 2010-02-07"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-aerial-view-of-san-francisco-i-medium.webp",
+          "smallPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-aerial-view-of-san-francisco-i-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/nortonplaque3-01.png",
@@ -659,7 +662,8 @@
             "PD US no notice",
             "PD US not renewed",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/nortonplaque3-01-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/cable-cars-sf.jpg",
@@ -682,7 +686,9 @@
             "San Francisco cable car no. 19",
             "Self-published work",
             "Taken with Pentax K-5"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/y/san-francisco-wk/cable-cars-sf-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/cable-cars-sf-small.webp"
         },
         {
           "path": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-1948-cincinnati-street-railway.jpg",
@@ -701,7 +707,9 @@
           "categories": [
             "CC-BY-2.0",
             "F Market & Wharves streetcars"
-          ]
+          ],
+          "mediumPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-1948-cincinnati-street-railway-medium.webp",
+          "smallPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-1948-cincinnati-street-railway-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/clipper-card-tagging-use.jpg",
@@ -716,7 +724,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clipper_card_tagging_use.jpg",
           "sourceType": "poi",
           "sourceArticleId": "san-francisco-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-wk/clipper-card-tagging-use-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/clipper-card-tagging-use-small.webp"
         },
         {
           "path": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-bart-train-at-lafayette-statio.jpg",
@@ -731,7 +741,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BART_train_at_Lafayette_station,_January_2014.jpg",
           "sourceType": "poi",
           "sourceArticleId": "farallones-islands-wildlife-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-bart-train-at-lafayette-statio-medium.webp",
+          "smallPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-bart-train-at-lafayette-statio-small.webp"
         },
         {
           "path": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-at-t-park-overlooking-san-fran.jpg",
@@ -746,7 +758,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:AT%26T_Park_Overlooking_San_Francisco_Bay.jpg",
           "sourceType": "poi",
           "sourceArticleId": "farallones-islands-wildlife-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-at-t-park-overlooking-san-fran-medium.webp",
+          "smallPath": "_m/9/q/8/w/farallones-islands-wildlife-wk/related-poi-at-t-park-overlooking-san-fran-small.webp"
         },
         {
           "path": "_m/9/q/8/y/san-francisco-wk/noleftturns.jpg",
@@ -761,7 +775,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noleftturns.jpg",
           "sourceType": "poi",
           "sourceArticleId": "san-francisco-wk",
-          "sourceGeohash4": "9q8y"
+          "sourceGeohash4": "9q8y",
+          "mediumPath": "_m/9/q/8/y/san-francisco-wk/noleftturns-medium.webp",
+          "smallPath": "_m/9/q/8/y/san-francisco-wk/noleftturns-small.webp"
         }
       ],
       "narration": [

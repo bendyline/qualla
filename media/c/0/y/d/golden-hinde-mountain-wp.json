@@ -3,32 +3,22 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/c/0/y/d/golden-hinde-mountain-wp/hero.jpg",
-        "filename": "Ghinde2.jpg",
-        "caption": "The Golden Hinde. Vancouver Island.\nKeith Freeman photo\n\nAugust, 2006",
-        "alt": "The Golden Hinde. Vancouver Island.\nKeith Freeman photo\n\nAugust, 2006",
-        "width": 1600,
-        "height": 1200,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.5",
-        "artist": "No machine-readable author provided. Keefer4~commonswiki assumed (based on copyright claims).",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ghinde2.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "golden-hinde-mountain-wp",
-        "sourceGeohash4": "c0yd",
-        "categories": [
-          "Assumed own work",
-          "CC-BY-SA-2.5",
-          "Files with no machine-readable source",
-          "Golden Hinde",
-          "Photographs taken on 2006-08-03",
-          "Self-published work",
-          "Taken with Sony DSC-S60"
-        ]
+        "path": "_m/c/2/8/j/gulf-islands-national-park-reserve-wp/canada-vancouver-island-relief.jpg",
+        "filename": "Canada Vancouver Island relief map.jpg",
+        "caption": "Relief map of Vancouver Island, Canada.\nEquirectangular projection, N/S stretching 170 %. Geographic limits of the map:\n\nN: 51.2° N\nS: 48.0° N\nW: 128.6° W\nE: 122.9° W",
+        "alt": "Relief map of Vancouver Island, Canada.\nEquirectangular projection, N/S stretching 170 %. Geographic limits of the map:\n\nN: 51.2° N\nS: 48.0° N\nW: 128.6° W\nE: 122.9° W",
+        "width": 3017,
+        "height": 2851,
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Isochrone",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canada_Vancouver_Island_relief_map.jpg",
+        "mediumPath": "_m/c/2/8/j/gulf-islands-national-park-reserve-wp/canada-vancouver-island-relief-medium.webp",
+        "smallPath": "_m/c/2/8/j/gulf-islands-national-park-reserve-wp/canada-vancouver-island-relief-small.webp"
       },
       "images": [
         {
-          "path": "_m/c/0/y/d/golden-hinde-mountain-wp/canada-british-columbia-relief.jpg",
+          "path": "_m/c/2/8/j/gulf-islands-national-park-reserve-wp/canada-british-columbia-relief.jpg",
           "filename": "Canada British Columbia relief location map.jpg",
           "caption": "Physical location map of British Columbia, Canada",
           "alt": "Physical location map of British Columbia, Canada",
@@ -44,10 +34,12 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Location maps of British Columbia"
-          ]
+          ],
+          "mediumPath": "_m/c/2/8/j/gulf-islands-national-park-reserve-wp/canada-british-columbia-relief-medium.webp",
+          "smallPath": "_m/c/2/8/j/gulf-islands-national-park-reserve-wp/canada-british-columbia-relief-small.webp"
         },
         {
-          "path": "_m/c/0/y/d/golden-hinde-mountain-wp/canada-vancouver-island-relief.jpg",
+          "path": "_m/c/2/8/j/gulf-islands-national-park-reserve-wp/canada-vancouver-island-relief.jpg",
           "filename": "Canada Vancouver Island relief map.jpg",
           "caption": "Relief map of Vancouver Island, Canada.\nEquirectangular projection, N/S stretching 170 %. Geographic limits of the map:\n\nN: 51.2° N\nS: 48.0° N\nW: 128.6° W\nE: 122.9° W",
           "alt": "Relief map of Vancouver Island, Canada.\nEquirectangular projection, N/S stretching 170 %. Geographic limits of the map:\n\nN: 51.2° N\nS: 48.0° N\nW: 128.6° W\nE: 122.9° W",
@@ -66,7 +58,9 @@
             "Maps by Isochrone",
             "Maps of Vancouver Island",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/c/2/8/j/gulf-islands-national-park-reserve-wp/canada-vancouver-island-relief-medium.webp",
+          "smallPath": "_m/c/2/8/j/gulf-islands-national-park-reserve-wp/canada-vancouver-island-relief-small.webp"
         }
       ],
       "narration": [
@@ -77,8 +71,9 @@
         "_m/c/0/y/d/golden-hinde-mountain-wp/c0yd-golden-hinde-the-climb.mp3"
       ],
       "combinedNarration": "_m/c/0/y/d/golden-hinde-mountain-wp/c0yd-golden-hinde-mountain-combined.mp3",
-      "combinedNarrationBytes": 2607263,
-      "combinedNarrationDuration": 217
+      "combinedNarrationBytes": 2709495,
+      "combinedNarrationDuration": 217,
+      "combinedCover": "_m/c/0/y/d/golden-hinde-mountain-wp/c0yd-golden-hinde-mountain-combined-cover.jpg"
     }
   }
 }

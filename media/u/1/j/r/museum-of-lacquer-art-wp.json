@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/j/r/museum-of-lacquer-art-wp/hero.jpg",
-        "filename": "Münster (Westfalen) Museum für Lackkunst.jpg",
-        "caption": "Titel: Museum für Lackkunst\n\nOrt: Münster (Westfalen)\nAufnahmedatum: 6. November 2005\nFotograf: Andreas Wieland",
-        "alt": "Titel: Museum für Lackkunst\n\nOrt: Münster (Westfalen)\nAufnahmedatum: 6. November 2005\nFotograf: Andreas Wieland",
-        "width": 1024,
-        "height": 683,
+        "path": "_m/u/1/j/r/museum-of-lacquer-art-wp/museum-fur-lackkunst.jpg",
+        "filename": "Museum für Lackkunst.JPG",
+        "caption": "A special museum in Münster dedicated to lacquer.",
+        "alt": "A special museum in Münster dedicated to lacquer.",
+        "width": 4288,
+        "height": 3216,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.5",
-        "artist": "No machine-readable author provided. Abbi assumed (based on copyright claims).",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster_(Westfalen)_Museum_f%C3%BCr_Lackkunst.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "NordhornerII",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_f%C3%BCr_Lackkunst.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "museum-of-lacquer-art-wp",
         "sourceGeohash4": "u1jr",
-        "categories": [
-          "2005 in Münster (Westfalen)",
-          "Assumed own work",
-          "CC-BY-SA-2.5",
-          "Files with no machine-readable source",
-          "Museum für Lackkunst",
-          "November 2005 in North Rhine-Westphalia",
-          "Self-published work",
-          "Taken with Canon EOS 300D"
-        ]
+        "mediumPath": "_m/u/1/j/r/museum-of-lacquer-art-wp/museum-fur-lackkunst-medium.webp",
+        "smallPath": "_m/u/1/j/r/museum-of-lacquer-art-wp/museum-fur-lackkunst-small.webp"
       },
       "images": [
         {
@@ -314,7 +306,9 @@
             "RWSG Speicher",
             "Schwanentorbrücke",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/duisburg-schwanentorbrucke-1-medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/duisburg-schwanentorbrucke-1-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/essen-sudviertel-luft.jpg",
@@ -344,7 +338,8 @@
             "Self-published work",
             "Stadtmitte Essen",
             "Taken with Panasonic Lumix DMC-LS60"
-          ]
+          ],
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/essen-sudviertel-luft-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/dusseldorf-ansichten2.jpg",
@@ -365,7 +360,8 @@
             "Files with broken file links",
             "Montages of cities in Germany",
             "Views of Düsseldorf"
-          ]
+          ],
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/dusseldorf-ansichten2-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/post-tower-bonn-sunset.jpg",
@@ -390,7 +386,9 @@
             "Featured pictures on Wikimedia Commons",
             "Files with coordinates missing SDC location of creation (50° N, 7° E)",
             "FoP-Germany"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/post-tower-bonn-sunset-medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/post-tower-bonn-sunset-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/blick-ac-dom-von-st-jakob.jpg",
@@ -405,7 +403,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blick_AC_Dom_von_St_Jakob.JPG",
           "sourceType": "poi",
           "sourceArticleId": "north-rhine-westphalia-wp",
-          "sourceGeohash4": "u1jx"
+          "sourceGeohash4": "u1jx",
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/blick-ac-dom-von-st-jakob-medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/blick-ac-dom-von-st-jakob-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/northrhinewestphalia-regions.png",
@@ -420,7 +420,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Northrhinewestphalia-regions.png",
           "sourceType": "poi",
           "sourceArticleId": "north-rhine-westphalia-wp",
-          "sourceGeohash4": "u1jx"
+          "sourceGeohash4": "u1jx",
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/northrhinewestphalia-regions-medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/northrhinewestphalia-regions-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/dortmund-industrieruine-279-h.jpg",
@@ -435,7 +437,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dortmund_Industrieruine_279-h.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-rhine-westphalia-wp",
-          "sourceGeohash4": "u1jx"
+          "sourceGeohash4": "u1jx",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/dortmund-industrieruine-279-h-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/rathaus-bonn-136-1-vzkh.jpg",
@@ -450,7 +453,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rathaus_Bonn_136_1-vzkh.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-rhine-westphalia-wp",
-          "sourceGeohash4": "u1jx"
+          "sourceGeohash4": "u1jx",
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/rathaus-bonn-136-1-vzkh-medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/rathaus-bonn-136-1-vzkh-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/duisburger-innenhafen-five-boa.jpg",
@@ -465,7 +470,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duisburger_Innenhafen_Five_Boats_Abend_2014.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-rhine-westphalia-wp",
-          "sourceGeohash4": "u1jx"
+          "sourceGeohash4": "u1jx",
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/duisburger-innenhafen-five-boa-medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/duisburger-innenhafen-five-boa-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/cologne-germany-exterior-view-.jpg",
@@ -480,7 +487,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cologne_Germany_Exterior-view-of-Cologne-Cathedral-06.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-rhine-westphalia-wp",
-          "sourceGeohash4": "u1jx"
+          "sourceGeohash4": "u1jx",
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/cologne-germany-exterior-view--medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/cologne-germany-exterior-view--small.webp"
         },
         {
           "path": "_m/s/r/2/y/roman-catholic-church-wk/aachen-germany-imperial-cathed.jpg",
@@ -495,7 +504,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aachen_Germany_Imperial-Cathedral-01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "roman-catholic-church-wk",
-          "sourceGeohash4": "u1jx"
+          "sourceGeohash4": "u1jx",
+          "mediumPath": "_m/s/r/2/y/roman-catholic-church-wk/aachen-germany-imperial-cathed-medium.webp",
+          "smallPath": "_m/s/r/2/y/roman-catholic-church-wk/aachen-germany-imperial-cathed-small.webp"
         },
         {
           "path": "_m/u/1/j/k/north-rhine-westphalia-wp/bergbaumuseum-bochum-blaue-stu.jpg",
@@ -510,7 +521,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bergbaumuseum_Bochum_Blaue_Stunde_2014.jpg",
           "sourceType": "poi",
           "sourceArticleId": "north-rhine-westphalia-wp",
-          "sourceGeohash4": "u1jx"
+          "sourceGeohash4": "u1jx",
+          "mediumPath": "_m/u/1/j/k/north-rhine-westphalia-wp/bergbaumuseum-bochum-blaue-stu-medium.webp",
+          "smallPath": "_m/u/1/j/k/north-rhine-westphalia-wp/bergbaumuseum-bochum-blaue-stu-small.webp"
         },
         {
           "path": "_m/u/1/j/r/munster-wp/muensterprinzipalmarkt09.jpg",
@@ -533,7 +546,9 @@
             "Corrected by Jacek Halicki",
             "Prinzipalmarkt",
             "Taken with Canon EOS 300D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/r/munster-wp/muensterprinzipalmarkt09-medium.webp",
+          "smallPath": "_m/u/1/j/r/munster-wp/muensterprinzipalmarkt09-small.webp"
         },
         {
           "path": "_m/u/1/j/r/munster-wk/flughafen-munster-osnabruck874.jpg",
@@ -556,7 +571,9 @@
             "Images with extracted images",
             "Pictures by Rüdiger Wölk",
             "Taken with Canon EOS 300D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/r/munster-wk/flughafen-munster-osnabruck874-medium.webp",
+          "smallPath": "_m/u/1/j/r/munster-wk/flughafen-munster-osnabruck874-small.webp"
         },
         {
           "path": "_m/u/1/j/r/munster-wk/muenster-prinzipalmarkt0137.jpg",
@@ -580,7 +597,8 @@
             "Pictures by Rüdiger Wölk",
             "September 2005 in Germany",
             "Taken with Canon EOS 300D"
-          ]
+          ],
+          "smallPath": "_m/u/1/j/r/munster-wk/muenster-prinzipalmarkt0137-small.webp"
         },
         {
           "path": "_m/u/1/j/r/munster-wk/muensterrathaus2422.jpg",
@@ -603,7 +621,9 @@
             "Illuminated buildings in Münster (Westfalen)",
             "Pictures by Rüdiger Wölk",
             "Taken with Canon EOS 300D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/r/munster-wk/muensterrathaus2422-medium.webp",
+          "smallPath": "_m/u/1/j/r/munster-wk/muensterrathaus2422-small.webp"
         },
         {
           "path": "_m/u/1/j/r/munster-wk/allwetterzoo-muenster-hippomax.jpg",
@@ -626,7 +646,9 @@
             "Pictures by Rüdiger Wölk",
             "Self-published work",
             "Taken with Canon EOS 300D"
-          ]
+          ],
+          "mediumPath": "_m/u/1/j/r/munster-wk/allwetterzoo-muenster-hippomax-medium.webp",
+          "smallPath": "_m/u/1/j/r/munster-wk/allwetterzoo-muenster-hippomax-small.webp"
         },
         {
           "path": "_m/u/1/j/r/munster-wk/ms111013-5343.jpg",
@@ -647,7 +669,8 @@
             "CC-BY-SA-3.0",
             "Exterior of St. Lamberti (Münster)",
             "Prinzipalmarkt"
-          ]
+          ],
+          "smallPath": "_m/u/1/j/r/munster-wk/ms111013-5343-small.webp"
         },
         {
           "path": "_m/u/1/j/r/munster-wk/muenster-banner-schlossplatz.jpg",
@@ -662,7 +685,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muenster_banner_Schlossplatz.jpg",
           "sourceType": "poi",
           "sourceArticleId": "munster-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/u/1/j/r/munster-wk/muenster-banner-schlossplatz-medium.webp",
+          "smallPath": "_m/u/1/j/r/munster-wk/muenster-banner-schlossplatz-small.webp"
         },
         {
           "path": "_m/u/1/j/r/munster-wk/aegidiimarkt-munster-02.jpg",
@@ -677,7 +702,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aegidiimarkt_M%C3%BCnster_02.JPG",
           "sourceType": "poi",
           "sourceArticleId": "munster-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/u/1/j/r/munster-wk/aegidiimarkt-munster-02-medium.webp",
+          "smallPath": "_m/u/1/j/r/munster-wk/aegidiimarkt-munster-02-small.webp"
         },
         {
           "path": "_m/u/1/j/r/munster-wk/burg-hulshoff-havixbeck-munste.jpg",
@@ -692,7 +719,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burg_H%C3%BClshoff_-_Havixbeck_-_M%C3%BCnsterland_-_201307.JPG",
           "sourceType": "poi",
           "sourceArticleId": "munster-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/u/1/j/r/munster-wk/burg-hulshoff-havixbeck-munste-medium.webp",
+          "smallPath": "_m/u/1/j/r/munster-wk/burg-hulshoff-havixbeck-munste-small.webp"
         },
         {
           "path": "_m/u/1/j/r/munster-wk/muenster-lwl-museum-fuer-kunst.jpg",
@@ -707,7 +736,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muenster_LWL_Museum_fuer_Kunst_und_Kultur_36.jpg",
           "sourceType": "poi",
           "sourceArticleId": "munster-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/u/1/j/r/munster-wk/muenster-lwl-museum-fuer-kunst-medium.webp",
+          "smallPath": "_m/u/1/j/r/munster-wk/muenster-lwl-museum-fuer-kunst-small.webp"
         },
         {
           "path": "_m/u/1/j/r/munster-wk/bahnhof-munster-westf-hbf-1910.jpg",
@@ -722,7 +753,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bahnhof_M%C3%BCnster_(Westf)_Hbf_1910030911.jpg",
           "sourceType": "poi",
           "sourceArticleId": "munster-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/u/1/j/r/munster-wk/bahnhof-munster-westf-hbf-1910-medium.webp",
+          "smallPath": "_m/u/1/j/r/munster-wk/bahnhof-munster-westf-hbf-1910-small.webp"
         },
         {
           "path": "_m/u/1/j/r/munster-wk/20230521-xl-125307873-jugendhe.jpg",
@@ -737,7 +770,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:20230521_xl_125307873_Jugendherberge_M%C3%BCnster.jpg",
           "sourceType": "poi",
           "sourceArticleId": "munster-wk",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/u/1/j/r/munster-wk/20230521-xl-125307873-jugendhe-medium.webp",
+          "smallPath": "_m/u/1/j/r/munster-wk/20230521-xl-125307873-jugendhe-small.webp"
         }
       ],
       "narration": [

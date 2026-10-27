@@ -3,31 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/t/x/alauna-maryport-wp/hero.png",
-        "filename": "Britain 1.png",
-        "alt": "Britain 1.png",
-        "width": 2010,
-        "height": 1362,
-        "mimeType": "image/png",
-        "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Britain_1.png",
-        "sourceType": "core",
+        "path": "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo.jpg",
+        "filename": "Maryport (Alavna) Roman fort - geograph.org.uk - 7879035.jpg",
+        "caption": "Maryport (Alavna) Roman fort",
+        "alt": "Maryport (Alavna) Roman fort",
+        "width": 4000,
+        "height": 2252,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 2.0",
+        "artist": "Chris Morgan",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maryport_(Alavna)_Roman_fort_-_geograph.org.uk_-_7879035.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "alauna-maryport-wp",
         "sourceGeohash4": "gctx",
         "categories": [
-          "Files with no machine-readable author",
-          "Files with no machine-readable source",
-          "Housesteads Roman Fort",
-          "Images from Encyclopædia Britannica",
-          "Images from the 1911 Encyclopædia Britannica",
-          "Media missing infobox template",
-          "PD Britannica",
-          "PD Gutenberg"
-        ]
+          "Alauna (Maryport)",
+          "CC-BY-SA-2.0",
+          "Images from Geograph Britain and Ireland"
+        ],
+        "mediumPath": "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo-medium.webp",
+        "smallPath": "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/t/x/alauna-maryport-wp/roman-baths-wroxeter.jpg",
+          "path": "_m/g/c/p/1/portchester-castle-wp/roman-baths-wroxeter.jpg",
           "filename": "Wroxeter baths, 2010.jpg",
           "caption": "The Roman baths at Wroxeter",
           "alt": "The Roman baths at Wroxeter",
@@ -45,7 +44,8 @@
             "CC-BY-2.0",
             "Flickr images reviewed by FlickreviewR",
             "Viroconium Cornoviorum"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/1/portchester-castle-wp/roman-baths-wroxeter-small.webp"
         },
         {
           "path": "_m/g/c/t/x/alauna-maryport-wp/bs-alauna-carvetiorum.png",

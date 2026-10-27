@@ -29,7 +29,7 @@
       },
       "images": [
         {
-          "path": "_m/g/f/7/3/scalpay-outer-hebrides-wp/hebridesmap.png",
+          "path": "_m/g/f/6/e/flannan-isles-wk/hebridesmap.png",
           "filename": "Hebridesmap.png",
           "alt": "Hebridesmap.png",
           "width": 935,
@@ -53,10 +53,11 @@
             "PNG that should use vector graphics",
             "Self-published work",
             "User-created GFDL images"
-          ]
+          ],
+          "smallPath": "_m/g/f/6/e/flannan-isles-wk/hebridesmap-small.webp"
         },
         {
-          "path": "_m/g/f/7/3/scalpay-outer-hebrides-wp/relief-map-outer-hebri.jpg",
+          "path": "_m/g/f/6/e/flannan-isles-wk/relief-map-outer-hebri.jpg",
           "filename": "Outer Hebrides UK relief location map.jpg",
           "caption": "Relief map of the Outer Hebrides (excluding Sula Sgeir), UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 8.70W\nEast: 6.10W\nNorth: 58.60N\nSouth: 56.70N",
           "alt": "Relief map of the Outer Hebrides (excluding Sula Sgeir), UK.\nEquirectangular map projection on WGS 84 datum, with N/S stretched 180%\nGeographic limits:\n\nWest: 8.70W\nEast: 6.10W\nNorth: 58.60N\nSouth: 56.70N",
@@ -75,7 +76,9 @@
             "Maps of the Outer Hebrides",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/f/6/e/flannan-isles-wk/relief-map-outer-hebri-medium.webp",
+          "smallPath": "_m/g/f/6/e/flannan-isles-wk/relief-map-outer-hebri-small.webp"
         },
         {
           "path": "_m/g/f/7/3/scalpay-outer-hebrides-wp/topographic-map-isle-h.png",
@@ -495,7 +498,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/7/0/outer-hebrides-wp/callanish-standing-stones-1-small.webp"
         },
         {
           "path": "_m/g/f/7/0/outer-hebrides-wp/oitir-mhor.jpg",
@@ -519,7 +523,8 @@
             "Causeways in Scotland",
             "North Uist",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/f/7/0/outer-hebrides-wp/oitir-mhor-small.webp"
         },
         {
           "path": "_m/g/f/7/7/isle-of-lewis-wp/inside-nr-42-blackhouse-museum.jpg",
@@ -541,7 +546,9 @@
             "Chimneyless cabins",
             "Self-published work",
             "Taken with Canon EOS 500D"
-          ]
+          ],
+          "mediumPath": "_m/g/f/7/7/isle-of-lewis-wp/inside-nr-42-blackhouse-museum-medium.webp",
+          "smallPath": "_m/g/f/7/7/isle-of-lewis-wp/inside-nr-42-blackhouse-museum-small.webp"
         },
         {
           "path": "_m/g/f/7/0/outer-hebrides-wp/outer-hebrides-lews-castle-201.jpg",
@@ -556,7 +563,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outer_Hebrides_-_Lews_Castle_-_20190728100816.jpg",
           "sourceType": "poi",
           "sourceArticleId": "outer-hebrides-wp",
-          "sourceGeohash4": "gf70"
+          "sourceGeohash4": "gf70",
+          "mediumPath": "_m/g/f/7/0/outer-hebrides-wp/outer-hebrides-lews-castle-201-medium.webp",
+          "smallPath": "_m/g/f/7/0/outer-hebrides-wp/outer-hebrides-lews-castle-201-small.webp"
         },
         {
           "path": "_m/g/f/7/0/outer-hebrides-wp/scolpaig-tower-geograph-org-uk.jpg",
@@ -571,7 +580,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scolpaig_Tower_-_geograph.org.uk_-_3966213.jpg",
           "sourceType": "poi",
           "sourceArticleId": "outer-hebrides-wp",
-          "sourceGeohash4": "gf70"
+          "sourceGeohash4": "gf70",
+          "smallPath": "_m/g/f/7/0/outer-hebrides-wp/scolpaig-tower-geograph-org-uk-small.webp"
         }
       ],
       "narration": [

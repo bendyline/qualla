@@ -33,7 +33,7 @@ Located at 16.70°N, 62.20°W in the Leeward Islands. Montserrat is a small volc
 ## Sources
 
 - [Montserrat slave rebellion of 1768 - Wikipedia](https://en.wikipedia.org/?curid=70380837)
-- [Montserrat slave rebellion of 1768 - Wikipedia](https://en.wikipedia.org/wiki/Montserrat_slave_rebellion_of_1768)
+- [Montserrat slave rebellion of 1768 - Wikipedia](https://en.wikipedia.org/?curid=70380837)
   - Rebellion occurred on 17 March 1768 (St. Patrick's Day) confirmed
   - Rebels chose St. Patrick's Day when planters would be celebrating confirmed
   - Nine rebels hanged including Cudjoe confirmed

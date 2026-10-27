@@ -29,7 +29,7 @@ The Basilica of Santa Capilla is located at 10.506N, 66.914W in the historic cen
 ## Sources
 
 - [Basilica of Santa Capilla - Wikipedia](https://en.wikipedia.org/?curid=50364843)
-- [Basilica of Santa Capilla - Wikipedia (fact check)](https://en.wikipedia.org/wiki/Basilica_of_Santa_Capilla)
+- [Basilica of Santa Capilla - Wikipedia (fact check)](https://en.wikipedia.org/?curid=50364843)
   - First hermitage dedicated to San Sebastian erected 1568 confirmed
   - Rededicated to Saint Maurice 1640 confirmed
   - Destroyed by earthquake 1667 confirmed

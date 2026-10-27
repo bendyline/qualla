@@ -3,28 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/9/x/s/dumaguete-cathedral-wp/hero.jpg",
-        "filename": "Saint Catherine Of Alexandria Cathedral (Perdices Street, Dumaguete, Negros Oriental; 01-19-2023).jpg",
-        "caption": "Saint Catherine Of Alexandria Cathedral, Perdices Street, Dumaguete City, Negros Oriental",
-        "alt": "Saint Catherine Of Alexandria Cathedral, Perdices Street, Dumaguete City, Negros Oriental",
+        "path": "_m/w/9/x/s/dumaguete-cathedral-wp/inside-saint-catherine.jpg",
+        "filename": "Saint Catherine Of Alexandria Cathedral inside top view (Perdices Street, Dumaguete, Negros Oriental; 01-19-2023).jpg",
+        "caption": "Inside Saint Catherine Of Alexandria Cathedral, Perdices Street, Dumaguete City, Negros Oriental",
+        "alt": "Inside Saint Catherine Of Alexandria Cathedral, Perdices Street, Dumaguete City, Negros Oriental",
         "width": 3552,
         "height": 2664,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
         "artist": "Patrickroque01",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saint_Catherine_Of_Alexandria_Cathedral_(Perdices_Street,_Dumaguete,_Negros_Oriental;_01-19-2023).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saint_Catherine_Of_Alexandria_Cathedral_inside_top_view_(Perdices_Street,_Dumaguete,_Negros_Oriental;_01-19-2023).jpg",
         "sourceType": "core",
         "sourceArticleId": "dumaguete-cathedral-wp",
         "sourceGeohash4": "w9xs",
         "categories": [
           "CC-BY-SA-4.0",
-          "Facade of Dumaguete Cathedral",
           "GFDL",
           "License migration not eligible",
-          "PD-Philippines FoP work",
+          "Nave of Dumaguete Cathedral",
           "Photographs by Patrick Roque",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/w/9/x/s/dumaguete-cathedral-wp/inside-saint-catherine-medium.webp",
+        "smallPath": "_m/w/9/x/s/dumaguete-cathedral-wp/inside-saint-catherine-small.webp"
       },
       "images": [
         {
@@ -53,7 +54,7 @@
           "smallPath": "_m/w/9/x/s/dumaguete-cathedral-wp/dumaguete-cathedral-sa-small.webp"
         },
         {
-          "path": "_m/w/9/x/s/dumaguete-cathedral-wp/hero.jpg",
+          "path": "_m/9/y/7/t/woolaroc-museum-wk/hero.jpg",
           "filename": "046CupolaSPietro.jpg",
           "caption": "Città del Vaticano - Cupola della Basilica di S. Pietro",
           "alt": "Città del Vaticano - Cupola della Basilica di S. Pietro",
@@ -70,7 +71,8 @@
             "CC-BY-SA-3.0",
             "Dome of Saint Peter's Basilica from the roof",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/9/y/7/t/woolaroc-museum-wk/hero-small.webp"
         },
         {
           "path": "_m/w/9/x/s/dumaguete-cathedral-wp/photo-cultural-heritag.jpg",
@@ -176,7 +178,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/9/x/s/dumaguete-wp/dumaguete-belfry-small.webp"
         },
         {
           "path": "_m/w/9/x/s/dumaguete-wp/dumaguete-boulevard.jpg",
@@ -200,7 +203,9 @@
             "Promenades in the Philippines",
             "Self-published work",
             "Taken with Canon PowerShot G9"
-          ]
+          ],
+          "mediumPath": "_m/w/9/x/s/dumaguete-wp/dumaguete-boulevard-medium.webp",
+          "smallPath": "_m/w/9/x/s/dumaguete-wp/dumaguete-boulevard-small.webp"
         },
         {
           "path": "_m/w/9/x/s/dumaguete-wp/puhagan-geothermal-plant.jpg",
@@ -225,7 +230,9 @@
             "Palinpinon Power Plant",
             "Self-published work",
             "Taken with Canon PowerShot A470"
-          ]
+          ],
+          "mediumPath": "_m/w/9/x/s/dumaguete-wp/puhagan-geothermal-plant-medium.webp",
+          "smallPath": "_m/w/9/x/s/dumaguete-wp/puhagan-geothermal-plant-small.webp"
         },
         {
           "path": "_m/w/9/x/s/dumaguete-wp/oriental-negros-capitol.jpg",
@@ -250,7 +257,8 @@
             "Negros Oriental Provincial Capitol",
             "PD-Philippines FoP work",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/9/x/s/dumaguete-wp/oriental-negros-capitol-small.webp"
         },
         {
           "path": "_m/w/9/x/s/dumaguete-wp/casaroro-falls.jpg",
@@ -273,7 +281,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot A470"
-          ]
+          ],
+          "mediumPath": "_m/w/9/x/s/dumaguete-wp/casaroro-falls-medium.webp",
+          "smallPath": "_m/w/9/x/s/dumaguete-wp/casaroro-falls-small.webp"
         },
         {
           "path": "_m/w/9/x/s/dumaguete-wk/tricycle-philippines-dumaguete.jpg",
@@ -288,7 +298,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tricycle-Philippines-Dumaguete.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "dumaguete-wk",
-          "sourceGeohash4": "w9xs"
+          "sourceGeohash4": "w9xs",
+          "smallPath": "_m/w/9/x/s/dumaguete-wk/tricycle-philippines-dumaguete-small.webp"
         },
         {
           "path": "_m/w/9/x/s/dumaguete-wp/lake-balinsasayao.jpg",
@@ -303,7 +314,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Balinsasayao.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "dumaguete-wp",
-          "sourceGeohash4": "w9xs"
+          "sourceGeohash4": "w9xs",
+          "mediumPath": "_m/w/9/x/s/dumaguete-wp/lake-balinsasayao-medium.webp",
+          "smallPath": "_m/w/9/x/s/dumaguete-wp/lake-balinsasayao-small.webp"
         },
         {
           "path": "_m/w/9/x/s/dumaguete-wp/file-dumaguete-airport-2.jpg",
@@ -318,7 +331,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:File_Dumaguete_airport_-_2.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "dumaguete-wp",
-          "sourceGeohash4": "w9xs"
+          "sourceGeohash4": "w9xs",
+          "mediumPath": "_m/w/9/x/s/dumaguete-wp/file-dumaguete-airport-2-medium.webp",
+          "smallPath": "_m/w/9/x/s/dumaguete-wp/file-dumaguete-airport-2-small.webp"
         },
         {
           "path": "_m/w/9/x/s/dumaguete-wk/st-catherine-of-alexandria-chu.jpg",
@@ -333,7 +348,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:St.Catherine_of_Alexandria_Church,_Dumaguete_City.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "dumaguete-wk",
-          "sourceGeohash4": "w9xs"
+          "sourceGeohash4": "w9xs",
+          "mediumPath": "_m/w/9/x/s/dumaguete-wk/st-catherine-of-alexandria-chu-medium.webp",
+          "smallPath": "_m/w/9/x/s/dumaguete-wk/st-catherine-of-alexandria-chu-small.webp"
         },
         {
           "path": "_m/w/9/x/s/dumaguete-wp/brahminy-kite.jpg",
@@ -348,7 +365,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brahminy-kite.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "dumaguete-wp",
-          "sourceGeohash4": "w9xs"
+          "sourceGeohash4": "w9xs",
+          "smallPath": "_m/w/9/x/s/dumaguete-wp/brahminy-kite-small.webp"
         },
         {
           "path": "_m/w/9/x/s/dumaguete-wp/siliman-university.jpg",
@@ -363,7 +381,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siliman_University.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "dumaguete-wp",
-          "sourceGeohash4": "w9xs"
+          "sourceGeohash4": "w9xs",
+          "mediumPath": "_m/w/9/x/s/dumaguete-wp/siliman-university-medium.webp",
+          "smallPath": "_m/w/9/x/s/dumaguete-wp/siliman-university-small.webp"
         },
         {
           "path": "_m/w/9/x/s/dumaguete-wp/mount-talinis-cuernos-de-negro.jpg",
@@ -378,7 +398,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Talinis_(Cuernos_de_Negros),_Negros_Oriental,_Philippines_02.JPG",
           "sourceType": "sibling",
           "sourceArticleId": "dumaguete-wp",
-          "sourceGeohash4": "w9xs"
+          "sourceGeohash4": "w9xs",
+          "mediumPath": "_m/w/9/x/s/dumaguete-wp/mount-talinis-cuernos-de-negro-medium.webp",
+          "smallPath": "_m/w/9/x/s/dumaguete-wp/mount-talinis-cuernos-de-negro-small.webp"
         },
         {
           "path": "_m/w/9/x/s/dumaguete-wp/dumaguete-1-banner.jpg",
@@ -393,7 +415,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dumaguete_1_banner.jpg",
           "sourceType": "sibling",
           "sourceArticleId": "dumaguete-wp",
-          "sourceGeohash4": "w9xs"
+          "sourceGeohash4": "w9xs",
+          "mediumPath": "_m/w/9/x/s/dumaguete-wp/dumaguete-1-banner-medium.webp",
+          "smallPath": "_m/w/9/x/s/dumaguete-wp/dumaguete-1-banner-small.webp"
         },
         {
           "path": "_m/w/9/x/u/siquijor-wp/lazi-convent-color.jpg",
@@ -422,7 +446,9 @@
             "Lazi Church convent",
             "Self-published work",
             "Taken with Canon EOS 60D"
-          ]
+          ],
+          "mediumPath": "_m/w/9/x/u/siquijor-wp/lazi-convent-color-medium.webp",
+          "smallPath": "_m/w/9/x/u/siquijor-wp/lazi-convent-color-small.webp"
         },
         {
           "path": "_m/w/9/x/u/siquijor-wp/siquijor-sunset.jpg",
@@ -443,7 +469,8 @@
             "Flickr images reviewed by FlickreviewR",
             "Sandugan Beach",
             "Sunsets of Siquijor"
-          ]
+          ],
+          "smallPath": "_m/w/9/x/u/siquijor-wp/siquijor-sunset-small.webp"
         },
         {
           "path": "_m/w/9/x/u/siquijor-wp/siquijor-cambugahay-falls.jpg",
@@ -463,7 +490,8 @@
             "CC-BY-2.0",
             "Cambugahay Falls",
             "Flickr images reviewed by FlickreviewR"
-          ]
+          ],
+          "smallPath": "_m/w/9/x/u/siquijor-wp/siquijor-cambugahay-falls-small.webp"
         },
         {
           "path": "_m/w/9/x/u/siquijor-wp/best-way-to-explore-the-island.jpg",
@@ -483,7 +511,8 @@
             "CC-BY-2.0",
             "Flickr images reviewed by FlickreviewR",
             "Siquijor"
-          ]
+          ],
+          "smallPath": "_m/w/9/x/u/siquijor-wp/best-way-to-explore-the-island-small.webp"
         },
         {
           "path": "_m/w/9/x/u/siquijor-wp/enchanted-balete-tree-in-lazi.jpg",
@@ -504,7 +533,9 @@
             "Enchanted balete tree of Lazi, Siquijor",
             "Self-published work",
             "Taken with Nikon Coolpix S6500"
-          ]
+          ],
+          "mediumPath": "_m/w/9/x/u/siquijor-wp/enchanted-balete-tree-in-lazi-medium.webp",
+          "smallPath": "_m/w/9/x/u/siquijor-wp/enchanted-balete-tree-in-lazi-small.webp"
         },
         {
           "path": "_m/w/9/x/u/siquijor-wp/allan-jay-quesada-lazi-church-.jpg",
@@ -534,7 +565,9 @@
             "Philippines photographs taken on 2016-04-30",
             "Self-published work",
             "Uploaded via Campaign:wlm-ph"
-          ]
+          ],
+          "mediumPath": "_m/w/9/x/u/siquijor-wp/allan-jay-quesada-lazi-church--medium.webp",
+          "smallPath": "_m/w/9/x/u/siquijor-wp/allan-jay-quesada-lazi-church--small.webp"
         }
       ],
       "narration": [

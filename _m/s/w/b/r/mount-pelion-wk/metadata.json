@@ -2,36 +2,9 @@
   "articleId": "mount-pelion-wk",
   "gallery": [
     {
-      "filename": "Potistika3.jpg",
-      "title": "File:Potistika3.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Potistika3.jpg",
-      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Potistika3.jpg",
-      "width": 3080,
-      "height": 1000,
-      "mime": "image/jpeg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "Handrian",
-      "description": "Potistika beach, Xinovrysi, Pelion, Greece",
-      "dateCreated": "circa 2007<div style=\"display: none;\">date QS:P,+2007-00-00T00:00:00Z/9,P1480,Q5727902</div>",
-      "categories": [
-        "CC-BY-SA-2.5,2.0,1.0",
-        "CC-BY-SA-3.0-migrated",
-        "GFDL",
-        "License migration redundant",
-        "Potistika",
-        "Self-published work"
-      ],
-      "sourceType": "poi",
-      "sourceArticleId": "mount-pelion-wk",
-      "sourceGeohash4": "swbr",
-      "mediumPath": "_m/s/w/b/r/mount-pelion-wk/potistika3-medium.webp",
-      "smallPath": "_m/s/w/b/r/mount-pelion-wk/potistika3-small.webp"
-    },
-    {
       "filename": "Spetsofai.jpg",
       "title": "File:Spetsofai.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Spetsofai.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Spetsofai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Spetsofai.jpg",
       "width": 2784,
       "height": 2344,
@@ -39,6 +12,8 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Photo and cooking: Badseed",
+      "credit": "Own cooking",
+      "source": "Spetsofai",
       "description": "Spetsofai, a traditional greek dish with country sausage,and white rice, onion, peppers and tomato, originating from the region of Pelion.",
       "dateCreated": "2008-09-21",
       "categories": [
@@ -51,16 +26,16 @@
         "Self-published work",
         "Taken with Kodak EasyShare C875"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "mount-pelion-wk",
       "sourceGeohash4": "swbr",
-      "mediumPath": "_m/s/w/b/r/mount-pelion-wk/spetsofai-medium.webp",
-      "smallPath": "_m/s/w/b/r/mount-pelion-wk/spetsofai-small.webp"
+      "smallPath": "_m/s/w/b/r/mount-pelion-wk/spetsofai-small.webp",
+      "mediumPath": "_m/s/w/b/r/mount-pelion-wk/spetsofai-medium.webp"
     },
     {
       "filename": "20081101-Pelion-Railway.jpg",
       "title": "File:20081101-Pelion-Railway.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/20081101-Pelion-Railway.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/20081101-Pelion-Railway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:20081101-Pelion-Railway.jpg",
       "width": 1536,
       "height": 1152,
@@ -68,6 +43,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "©2008 K. Krallis, SV1XV",
+      "credit": "Own work",
+      "source": "20081101-Pelion-Railway",
       "description": "Greece: A Tubize narrow gauge (600 mm) locomotive hauls a charter train from Ano Lechonia to Miles on the Pelion Railway.",
       "dateCreated": "2008-11-01",
       "categories": [
@@ -82,7 +59,7 @@
         "Self-published work",
         "Trains on bridges in Greece"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "mount-pelion-wk",
       "sourceGeohash4": "swbr",
       "smallPath": "_m/s/w/b/r/mount-pelion-wk/20081101-pelion-railway-small.webp"
@@ -90,7 +67,7 @@
     {
       "filename": "Volos view from Pelion.JPG",
       "title": "File:Volos view from Pelion.JPG",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Volos_view_from_Pelion.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Volos_view_from_Pelion.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Volos_view_from_Pelion.JPG",
       "width": 2272,
       "height": 1704,
@@ -98,6 +75,8 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Tsints",
+      "credit": "IS club",
+      "source": "Volos view from Pelion",
       "description": "Volos view from mount Pelion",
       "dateCreated": "2005-05-06",
       "categories": [
@@ -112,15 +91,14 @@
         "Taken with Canon Digital IXUS 40",
         "Views of Volos (town)"
       ],
-      "sourceType": "poi",
+      "sourceType": "core",
       "sourceArticleId": "mount-pelion-wk",
       "sourceGeohash4": "swbr",
-      "mediumPath": "_m/s/w/b/r/mount-pelion-wk/volos-view-from-pelion-medium.webp",
-      "smallPath": "_m/s/w/b/r/mount-pelion-wk/volos-view-from-pelion-small.webp"
+      "smallPath": "_m/s/w/b/r/mount-pelion-wk/volos-view-from-pelion-small.webp",
+      "mediumPath": "_m/s/w/b/r/mount-pelion-wk/volos-view-from-pelion-medium.webp"
     }
   ],
   "galleryPaths": [
-    "_m/s/w/b/r/mount-pelion-wk/potistika3.jpg",
     "_m/s/w/b/r/mount-pelion-wk/spetsofai.jpg",
     "_m/s/w/b/r/mount-pelion-wk/20081101-pelion-railway.jpg",
     "_m/s/w/b/r/mount-pelion-wk/volos-view-from-pelion.jpg"
@@ -144,5 +122,59 @@
       "swbr-mount-pelion-roads-weather-and-spetsofai.mp3": 48.0035
     },
     "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "hero": {
+    "filename": "Potistika3.jpg",
+    "title": "File:Potistika3.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Potistika3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Potistika3.jpg",
+    "width": 3080,
+    "height": 1000,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "Handrian",
+    "credit": "Own work",
+    "source": "Potistika3",
+    "description": "Potistika beach, Xinovrysi, Pelion, Greece",
+    "dateCreated": "circa 2007<div style=\"display: none;\">date QS:P,+2007-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+    "categories": [
+      "CC-BY-SA-2.5,2.0,1.0",
+      "CC-BY-SA-3.0-migrated",
+      "GFDL",
+      "License migration redundant",
+      "Potistika",
+      "Self-published work"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "mount-pelion-wk",
+    "sourceGeohash4": "swbr"
+  },
+  "thumbnail": {
+    "filename": "Potistika3.jpg",
+    "title": "File:Potistika3.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Potistika3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Potistika3.jpg",
+    "width": 3080,
+    "height": 1000,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "Handrian",
+    "credit": "Own work",
+    "source": "Potistika3",
+    "description": "Potistika beach, Xinovrysi, Pelion, Greece",
+    "dateCreated": "circa 2007<div style=\"display: none;\">date QS:P,+2007-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+    "categories": [
+      "CC-BY-SA-2.5,2.0,1.0",
+      "CC-BY-SA-3.0-migrated",
+      "GFDL",
+      "License migration redundant",
+      "Potistika",
+      "Self-published work"
+    ],
+    "sourceType": "core",
+    "sourceArticleId": "mount-pelion-wk",
+    "sourceGeohash4": "swbr"
   }
 }

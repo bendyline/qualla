@@ -36,7 +36,7 @@ Raseborg's administrative centre sits at 59.975 N, 23.436 E on Finland's south c
 
 ## Sources
 
-- [Raseborg - Wikivoyage](https://en.wikivoyage.org/wiki/Raseborg)
+- [Raseborg - Wikivoyage](https://en.wikivoyage.org/?curid=125781)
 - [Raseborg - Wikipedia](https://en.wikipedia.org/wiki/Raseborg)
   - population c. 26,856 (2025), 39th most populous Finnish municipality, density 23.37/km²
   - formed 1 January 2009 from Ekenäs, Karis and Pojo

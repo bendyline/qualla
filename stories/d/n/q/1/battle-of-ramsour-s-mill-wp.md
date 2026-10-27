@@ -47,7 +47,7 @@ Located at 35.48°N, 81.26°W near Lincolnton, North Carolina. The battlefield s
   - neither side wore uniforms
   - casualty estimates 50-70 dead per side
   - Loyalist morale shattered across Carolina backcountry
-- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Battle_of_Ramsour%27s_Mill)
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=12020586)
   - Corrected a compressed Rutherford quote to the source wording.
 
 ## Review Notes

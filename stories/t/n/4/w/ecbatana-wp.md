@@ -37,7 +37,7 @@ Ecbatana is located at approximately 34.81N, 48.52E, identified with the modern 
 ## Sources
 
 - [Ecbatana - Wikipedia](https://en.wikipedia.org/?curid=140760)
-- [Ecbatana - Wikipedia](https://en.wikipedia.org/wiki/Ecbatana)
+- [Ecbatana - Wikipedia](https://en.wikipedia.org/?curid=140760)
   - Herodotus described seven concentric walls each painted a different color
   - Deioces founded Ecbatana as Median capital around 678 BCE
   - Cyrus the Great defeated Median king Astyages in 550 BCE and kept Ecbatana as summer capital

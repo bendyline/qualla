@@ -32,7 +32,7 @@ Airplane and helicopter tours depart from Tusayan at the Grand Canyon Airport an
 
 ## Flight Context
 
-Located at 36.05N, 112.14W in northern Arizona. The Grand Canyon is visible from cruising altitude in clear weather as a massive branching chasm cutting through the Colorado Plateau. The South Rim village area and Grand Canyon Airport (KGCN) at Tusayan are on the south side. Flagstaff Pulliam Airport (KFLG) is the nearest commercial airport, roughly 75 miles southeast. Las Vegas McCarran (KLAS) and Phoenix Sky Harbor (KPHX) are the nearest major airports. Scenic overflight restrictions apply within the national park -- check NOTAMs. Summer monsoon season (July-August) brings rapidly building thunderstorms with severe turbulence. The North Rim is approximately 1,000 feet higher than the South Rim.
+Located at 36.05N, 112.14W in northern Arizona. The Grand Canyon is visible from cruising altitude in clear weather as a massive branching chasm cutting through the Colorado Plateau. The South Rim village area and Grand Canyon Airport (KGCN) at Tusayan are on the south side. Flagstaff Pulliam Airport (KFLG) is the nearest commercial airport, roughly 75 miles southeast. Harry Reid International Airport (KLAS, formerly McCarran) and Phoenix Sky Harbor (KPHX) are the nearest major airports. Scenic overflight restrictions apply within the national park -- check NOTAMs. Summer monsoon season (July-August) brings rapidly building thunderstorms with severe turbulence. The North Rim is approximately 1,000 feet higher than the South Rim.
 
 ## Sources
 

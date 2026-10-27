@@ -37,8 +37,8 @@ Located at 35.02N, 135.72E in the Hanazono district of northwest Kyoto. The comp
 ## Sources
 
 - [Shin Hye-sun - Wikipedia](https://en.wikipedia.org/?curid=49693129)
-- [Myoshin-ji - Wikipedia](https://en.wikipedia.org/wiki/My%C5%8Dshin-ji)
-- [Myoshin-ji - Wikipedia](https://en.wikipedia.org/wiki/My%C5%8Dshin-ji)
+- [Myoshin-ji - Wikipedia](https://en.wikipedia.org/?curid=4063095)
+- [Myoshin-ji - Wikipedia](https://en.wikipedia.org/?curid=4063095)
   - Okikicho bell cast in 698, oldest Buddhist temple bell in Japan and oldest bell in the world still in use
   - Emperor Hanazono abdicated 1318, took tonsure 1335, donated palace to found temple 1342
   - Myoshin-ji school encompasses approximately 3400 temples - as many as all other 13 Rinzai branches combined

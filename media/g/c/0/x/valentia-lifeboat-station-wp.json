@@ -28,7 +28,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/0/x/valentia-lifeboat-station-wp/ireland-relief-location-map.png",
+          "path": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map.png",
           "filename": "Ireland relief location map.png",
           "caption": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
           "alt": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
@@ -47,7 +47,8 @@
             "Images with extracted images",
             "Maps by Nilfanion",
             "Relief location maps of Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map-small.webp"
         },
         {
           "path": "_m/g/c/0/x/valentia-lifeboat-station-wp/valentia-lifeboat-stat.jpg",
@@ -71,7 +72,7 @@
           "smallPath": "_m/g/c/0/x/valentia-lifeboat-station-wp/valentia-lifeboat-stat-small.webp"
         },
         {
-          "path": "_m/g/c/0/x/valentia-lifeboat-station-wp/knights-town-valentia-harbour-.jpg",
+          "path": "_m/g/c/0/x/knightstown-county-kerry-wp/knights-town-valentia-harbour-.jpg",
           "filename": "Knights Town, Valentia Harbour - geograph.org.uk - 250430.jpg",
           "caption": "Knights Town, Valentia Harbour Note: in most places the island seems to be spelt 'Valentia', but on my OS map, it spells it as 'Valencia'. As far as I'm aware, there is no connection with the city of Valencia in Spain.",
           "alt": "Knights Town, Valentia Harbour Note: in most places the island seems to be spelt 'Valentia', but on my OS map, it spells it as 'Valencia'. As far as I'm aware, there is no connection with the city of Valencia in Spain.",
@@ -95,7 +96,8 @@
             "Republic of Ireland photographs taken on 2006-09-22",
             "Taken with Canon PowerShot A70",
             "Valentia Lifeboat Station"
-          ]
+          ],
+          "smallPath": "_m/g/c/0/x/knightstown-county-kerry-wp/knights-town-valentia-harbour--small.webp"
         },
         {
           "path": "_m/g/c/0/x/valentia-lifeboat-station-wp/lifeboat-station-and-launch-ra.jpg",
@@ -196,7 +198,8 @@
             "Self-published work",
             "Statue of King Puck",
             "Taken with Canon PowerShot A80"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/0/killorglin-wp/king-puck-small.webp"
         },
         {
           "path": "_m/g/c/3/0/killorglin-wp/kerry-bog-village-museum-02.jpg",
@@ -218,7 +221,9 @@
             "Kerry Bog Village Museum",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/0/killorglin-wp/kerry-bog-village-museum-02-medium.webp",
+          "smallPath": "_m/g/c/3/0/killorglin-wp/kerry-bog-village-museum-02-small.webp"
         },
         {
           "path": "_m/g/c/3/0/killorglin-wp/rossbeigh.jpg",
@@ -238,7 +243,8 @@
             "Beaches of County Kerry",
             "CC-BY-SA-3.0",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/0/killorglin-wp/rossbeigh-small.webp"
         },
         {
           "path": "_m/g/c/3/0/killorglin-wp/cromane-aerial-shot.jpg",
@@ -261,7 +267,9 @@
             "Files with coordinates missing SDC location of creation",
             "Populated places in County Kerry",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/0/killorglin-wp/cromane-aerial-shot-medium.webp",
+          "smallPath": "_m/g/c/3/0/killorglin-wp/cromane-aerial-shot-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut.jpg",
@@ -284,7 +292,9 @@
             "License migration completed",
             "Listowel",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/listowel-ballypan-cut-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe.jpg",
@@ -299,7 +309,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_slugs_-_forest_and_bog_phenotypes.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-slugs-forest-and-bog-phe-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir.jpg",
@@ -314,7 +326,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_Airport_(KIR).jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/kerry-airport-kir-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory.jpg",
@@ -329,7 +343,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballinskelligs_Priory.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/ballinskelligs-priory-small.webp"
         },
         {
           "path": "_m/g/c/3/0/county-kerry-wp/portmagee.jpg",
@@ -344,7 +360,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portmagee.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-kerry-wp",
-          "sourceGeohash4": "gc30"
+          "sourceGeohash4": "gc30",
+          "mediumPath": "_m/g/c/3/0/county-kerry-wp/portmagee-medium.webp",
+          "smallPath": "_m/g/c/3/0/county-kerry-wp/portmagee-small.webp"
         },
         {
           "path": "_m/g/c/3/1/tralee-wp/tralee.jpg",
@@ -369,7 +387,9 @@
             "Streets in Tralee",
             "Taken with Canon PowerShot A560",
             "The Pikeman, Tralee"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/1/tralee-wp/tralee-medium.webp",
+          "smallPath": "_m/g/c/3/1/tralee-wp/tralee-small.webp"
         },
         {
           "path": "_m/g/c/3/1/tralee-wp/rose-of-tralee.jpg",
@@ -391,7 +411,9 @@
             "Rose of Tralee (festival)",
             "Self-published work",
             "Taken with Canon PowerShot SX510 HS"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/1/tralee-wp/rose-of-tralee-medium.webp",
+          "smallPath": "_m/g/c/3/1/tralee-wp/rose-of-tralee-small.webp"
         },
         {
           "path": "_m/g/c/3/1/tralee-wp/blennerville-windmill-southwes.jpg",
@@ -418,7 +440,9 @@
             "Uploads by User:DXR",
             "Uploads by User:DXR in 2015",
             "Uploads by User:DXR in Ireland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/1/tralee-wp/blennerville-windmill-southwes-medium.webp",
+          "smallPath": "_m/g/c/3/1/tralee-wp/blennerville-windmill-southwes-small.webp"
         },
         {
           "path": "_m/g/c/3/1/tralee-wp/ardfert-cathedral-county-kerry.jpg",
@@ -438,7 +462,9 @@
             "Ardfert Cathedral",
             "CC-BY-SA-4.0",
             "Images from Wiki Loves Monuments 2015"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/1/tralee-wp/ardfert-cathedral-county-kerry-medium.webp",
+          "smallPath": "_m/g/c/3/1/tralee-wp/ardfert-cathedral-county-kerry-small.webp"
         },
         {
           "path": "_m/g/c/3/1/tralee-wp/tralee-banner-bay-windmill-sun.jpg",
@@ -453,7 +479,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tralee_banner_Bay_Windmill_Sunset.jpg",
           "sourceType": "poi",
           "sourceArticleId": "tralee-wp",
-          "sourceGeohash4": "gc31"
+          "sourceGeohash4": "gc31",
+          "mediumPath": "_m/g/c/3/1/tralee-wp/tralee-banner-bay-windmill-sun-medium.webp",
+          "smallPath": "_m/g/c/3/1/tralee-wp/tralee-banner-bay-windmill-sun-small.webp"
         }
       ],
       "narration": [

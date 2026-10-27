@@ -3,30 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/q/g/v/glodok-wp/hero.jpg",
-        "filename": "Klenteng Jin De Yuan, Glodok, Jakarta.jpg",
-        "caption": "Jin De Yuan Chinese temple (Vihara Dharma Bhakti) in Glodok, Jakarta Chinatown, Indonesia.",
-        "alt": "Jin De Yuan Chinese temple (Vihara Dharma Bhakti) in Glodok, Jakarta Chinatown, Indonesia.",
-        "width": 2268,
-        "height": 1367,
+        "path": "_m/q/q/g/v/glodok-wp/alleyway-glodok-jakart.jpg",
+        "filename": "Glodok.jpg",
+        "caption": "Alleyway in Glodok, Jakarta",
+        "alt": "Alleyway in Glodok, Jakarta",
+        "width": 5152,
+        "height": 3864,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Gunawan Kartapranata",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Klenteng_Jin_De_Yuan,_Glodok,_Jakarta.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Cun Cun",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glodok.jpg",
         "sourceType": "core",
         "sourceArticleId": "glodok-wp",
         "sourceGeohash4": "qqgv",
-        "categories": [
-          "2008 in Jakarta",
-          "CC-BY-SA-3.0",
-          "Images with extracted images",
-          "Indonesia photographs taken on 2008-01-28",
-          "Jin De Yuan",
-          "Photographs by Gunawan Kartapranata",
-          "Religious buildings in Indonesia photographed in 2008",
-          "Self-published work",
-          "Taken with Canon EOS 400D"
-        ]
+        "mediumPath": "_m/q/q/g/v/glodok-wp/alleyway-glodok-jakart-medium.webp",
+        "smallPath": "_m/q/q/g/v/glodok-wp/alleyway-glodok-jakart-small.webp"
       },
       "images": [
         {
@@ -223,7 +214,7 @@
           "smallPath": "_m/q/q/g/v/glodok-wp/collectie-tropenmuseum-batavia-small.webp"
         },
         {
-          "path": "_m/q/q/g/v/glodok-wp/collectie-tropenmuseum-chinese.jpg",
+          "path": "_m/q/q/u/1/ciliwung-wp/collectie-tropenmuseum-chinese.jpg",
           "filename": "COLLECTIE TROPENMUSEUM Chinese wijk de Tjiliwong in Batavia TMnr 60022032.jpg",
           "caption": "Foto. Album beslaat souvenir foto's van Java. Chinese wijk de Tjiliwong in Batavia",
           "alt": "Foto. Album beslaat souvenir foto's van Java. Chinese wijk de Tjiliwong in Batavia",
@@ -247,7 +238,7 @@
             "Rivers of Jakarta",
             "Template Unknown (author)"
           ],
-          "smallPath": "_m/q/q/g/v/glodok-wp/collectie-tropenmuseum-chinese-small.webp"
+          "smallPath": "_m/q/q/u/1/ciliwung-wp/collectie-tropenmuseum-chinese-small.webp"
         },
         {
           "path": "_m/q/q/g/v/glodok-wp/collectie-tropenmuseum-de-kali.jpg",
@@ -596,7 +587,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Fujifilm FinePix F11"
-          ]
+          ],
+          "smallPath": "_m/q/q/g/u/jakarta-wk/hero-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/jakarta-indonesia-jaka.jpg",
@@ -627,7 +619,9 @@
             "Quality images of Indonesia by User:Cccefalon",
             "Quality images of buildings in Indonesia",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/jakarta-indonesia-jaka-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/jakarta-indonesia-jaka-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/photo-taked-monas-area.jpg",
@@ -653,7 +647,9 @@
             "Three-wheeled motor vehicles",
             "Toronto Blue Jays logos",
             "Uploaded via Campaign:wmid-wikikaleidoskop-2021"
-          ]
+          ],
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/photo-taked-monas-area-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/photo-taked-monas-area-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/transjakarta-method-pu.jpg",
@@ -673,7 +669,9 @@
             "CC-BY-SA-4.0",
             "Car-Free Days in Jakarta",
             "De minimis"
-          ]
+          ],
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/transjakarta-method-pu-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/transjakarta-method-pu-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/display-inside-grand-i.jpg",
@@ -688,7 +686,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inside_of_Grand_Indonesia.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jakarta-wk",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/display-inside-grand-i-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/display-inside-grand-i-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/transjakarta-scania-ar.jpg",
@@ -703,7 +703,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harmoni_Central_Busway_Transjakarta_4_(cropped)_1.JPG",
           "sourceType": "poi",
           "sourceArticleId": "jakarta-wk",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/transjakarta-scania-ar-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/transjakarta-scania-ar-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/cc-206-13-02-pwt-rangk.jpg",
@@ -718,7 +720,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gajayana_JAY_(16-9).jpg",
           "sourceType": "poi",
           "sourceArticleId": "jakarta-wk",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/cc-206-13-02-pwt-rangk-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/cc-206-13-02-pwt-rangk-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/varian-kopi-yang-sanga.jpg",
@@ -733,7 +737,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Es_Kopi_Susu_Gula_Aren.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jakarta-wk",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/varian-kopi-yang-sanga-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/varian-kopi-yang-sanga-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/first-day-cli125-servi.jpg",
@@ -748,7 +754,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CLI125-3000_duty_in_Cikarang_loop_line_(cropped).jpg",
           "sourceType": "poi",
           "sourceArticleId": "jakarta-wk",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/first-day-cli125-servi-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/first-day-cli125-servi-small.webp"
         },
         {
           "path": "_m/q/q/g/u/jakarta-wk/embassy-netherlands-ja.jpg",
@@ -763,7 +771,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dutch_Embassy_in_Jakarta_2025.jpg",
           "sourceType": "poi",
           "sourceArticleId": "jakarta-wk",
-          "sourceGeohash4": "qqgu"
+          "sourceGeohash4": "qqgu",
+          "mediumPath": "_m/q/q/g/u/jakarta-wk/embassy-netherlands-ja-medium.webp",
+          "smallPath": "_m/q/q/g/u/jakarta-wk/embassy-netherlands-ja-small.webp"
         },
         {
           "path": "_m/tpc/we/st/-j/ak/west-jakarta/jembatan-kota-intan-jkt.jpg",
@@ -783,7 +793,8 @@
             "CC-BY-SA-3.0-NL",
             "Kota Intan Bridge",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "smallPath": "_m/tpc/we/st/-j/ak/west-jakarta/jembatan-kota-intan-jkt-small.webp"
         },
         {
           "path": "_m/tpc/we/st/-j/ak/west-jakarta/ciputra-shopping-mall-jakarta-.jpg",
@@ -805,7 +816,9 @@
             "Interiors of shopping malls in Indonesia",
             "Mall Ciputra",
             "Taken with Canon Digital IXUS 850 IS"
-          ]
+          ],
+          "mediumPath": "_m/tpc/we/st/-j/ak/west-jakarta/ciputra-shopping-mall-jakarta--medium.webp",
+          "smallPath": "_m/tpc/we/st/-j/ak/west-jakarta/ciputra-shopping-mall-jakarta--small.webp"
         },
         {
           "path": "_m/tpc/we/st/-j/ak/west-jakarta/ice-skating-mall-taman-anggrek.jpg",
@@ -829,7 +842,8 @@
             "June 2006 in Indonesia",
             "Mal Taman Anggrek",
             "Taken with Kodak EasyShare DX6490"
-          ]
+          ],
+          "smallPath": "_m/tpc/we/st/-j/ak/west-jakarta/ice-skating-mall-taman-anggrek-small.webp"
         },
         {
           "path": "_m/tpc/we/st/-j/ak/west-jakarta/centralparkgnd.jpg",
@@ -850,7 +864,8 @@
             "Central Park Jakarta",
             "Self-published work",
             "Taken with iPhone 3GS"
-          ]
+          ],
+          "smallPath": "_m/tpc/we/st/-j/ak/west-jakarta/centralparkgnd-small.webp"
         },
         {
           "path": "_m/tpc/we/st/-j/ak/west-jakarta/jakarta-indonesia-jakarta-hist.jpg",
@@ -883,7 +898,9 @@
             "Quality images of fountains",
             "Quality images of fountains by User:Cccefalon",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/we/st/-j/ak/west-jakarta/jakarta-indonesia-jakarta-hist-medium.webp",
+          "smallPath": "_m/tpc/we/st/-j/ak/west-jakarta/jakarta-indonesia-jakarta-hist-small.webp"
         },
         {
           "path": "_m/q/q/g/v/fatahillah-square-wp/banner-west-jakarta.jpg",
@@ -902,7 +919,9 @@
           "categories": [
             "CC-BY-3.0",
             "Extracted images"
-          ]
+          ],
+          "mediumPath": "_m/q/q/g/v/fatahillah-square-wp/banner-west-jakarta-medium.webp",
+          "smallPath": "_m/q/q/g/v/fatahillah-square-wp/banner-west-jakarta-small.webp"
         },
         {
           "path": "_m/tpc/we/st/-j/ak/west-jakarta/jakarta-ayam-kampung-style-mie.jpg",
@@ -917,7 +936,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jakarta_Ayam_Kampung-style_Mie_Ayam.jpg",
           "sourceType": "poi",
           "sourceArticleId": "west-jakarta",
-          "sourceGeohash4": "tpc/we/st/-j/ak"
+          "sourceGeohash4": "tpc/we/st/-j/ak",
+          "mediumPath": "_m/tpc/we/st/-j/ak/west-jakarta/jakarta-ayam-kampung-style-mie-medium.webp",
+          "smallPath": "_m/tpc/we/st/-j/ak/west-jakarta/jakarta-ayam-kampung-style-mie-small.webp"
         },
         {
           "path": "_m/tpc/we/st/-j/ak/west-jakarta/batavia-kota-tua-museum-of-fin.jpg",
@@ -932,7 +953,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batavia_Kota_Tua_-_Museum_of_Fine_Arts_04.jpg",
           "sourceType": "poi",
           "sourceArticleId": "west-jakarta",
-          "sourceGeohash4": "tpc/we/st/-j/ak"
+          "sourceGeohash4": "tpc/we/st/-j/ak",
+          "mediumPath": "_m/tpc/we/st/-j/ak/west-jakarta/batavia-kota-tua-museum-of-fin-medium.webp",
+          "smallPath": "_m/tpc/we/st/-j/ak/west-jakarta/batavia-kota-tua-museum-of-fin-small.webp"
         },
         {
           "path": "_m/tpc/we/st/-j/ak/west-jakarta/gedung-arsip-nasional-2-202501.jpg",
@@ -947,7 +970,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gedung_Arsip_Nasional_2_20250105_082127.jpg",
           "sourceType": "poi",
           "sourceArticleId": "west-jakarta",
-          "sourceGeohash4": "tpc/we/st/-j/ak"
+          "sourceGeohash4": "tpc/we/st/-j/ak",
+          "mediumPath": "_m/tpc/we/st/-j/ak/west-jakarta/gedung-arsip-nasional-2-202501-medium.webp",
+          "smallPath": "_m/tpc/we/st/-j/ak/west-jakarta/gedung-arsip-nasional-2-202501-small.webp"
         },
         {
           "path": "_m/q/q/g/v/bank-indonesia-museum-wp/bank-indonesia-museum.jpg",
@@ -962,7 +987,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bank_Indonesia_Museum_-_Jakarta_(2025)_-_img_02.jpg",
           "sourceType": "poi",
           "sourceArticleId": "bank-indonesia-museum-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/q/q/g/v/bank-indonesia-museum-wp/bank-indonesia-museum-medium.webp",
+          "smallPath": "_m/q/q/g/v/bank-indonesia-museum-wp/bank-indonesia-museum-small.webp"
         },
         {
           "path": "_m/q/q/g/v/cafe-batavia-wp/cafe-batavia-kota-tua.jpg",
@@ -977,7 +1004,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cafe_Batavia,_Kota_Tua_Jakarta_(2025)_-_img_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cafe-batavia-wp",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/q/q/g/v/cafe-batavia-wp/cafe-batavia-kota-tua-medium.webp",
+          "smallPath": "_m/q/q/g/v/cafe-batavia-wp/cafe-batavia-kota-tua-small.webp"
         }
       ],
       "narration": [

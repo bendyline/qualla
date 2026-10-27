@@ -36,7 +36,7 @@ The station stands at 52.648°N, 12.910°E on open farmland roughly 5 km north-n
 
 ## Sources
 
-- [Nauen Transmitter Station - Wikipedia](https://en.wikipedia.org/wiki/Nauen_Transmitter_Station)
+- [Nauen Transmitter Station - Wikipedia](https://en.wikipedia.org/?curid=11366213)
 - [Großfunkstelle Nauen - Wikipedia (German)](https://de.wikipedia.org/wiki/Gro%C3%9Ffunkstelle_Nauen)
 - [Die Funkstadt Nauen im Havelland](http://www.funkstadt-nauen.de/fun00061.html)
 - [Nauen Transmitter Station - Wikipedia](https://en.wikipedia.org/?curid=11366213)

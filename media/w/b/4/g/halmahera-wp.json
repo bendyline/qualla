@@ -3,29 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/b/4/g/halmahera-wp/hero.jpg",
-        "filename": "Halmahera Island.jpg",
-        "caption": "Halmahera, Indonesia",
-        "alt": "Halmahera, Indonesia",
-        "width": 2048,
-        "height": 1536,
+        "path": "_m/w/b/4/g/halmahera-wp/morotai-halmehera-isla.jpg",
+        "filename": "Morotai and Halmehera Islands.jpg",
+        "caption": "Morotai and Halmehera Islands",
+        "alt": "Morotai and Halmehera Islands",
+        "width": 1737,
+        "height": 1151,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "Eustaquio",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Halmahera_Island.jpg",
+        "license": "Public domain",
+        "artist": "United States Bureau of Yards and Docks",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morotai_and_Halmehera_Islands.jpg",
         "sourceType": "core",
         "sourceArticleId": "halmahera-wp",
         "sourceGeohash4": "wb4g",
         "categories": [
-          "CC-BY-2.0",
-          "Flickr images missing SDC Flickr photo ID",
-          "Flickr images missing SDC creator",
-          "Flickr images missing SDC published in",
-          "Flickr images missing SDC source of file",
-          "Flickr images reviewed by FlickreviewR",
-          "Halmahera Rainforests Ecoregion",
-          "Taken with Sony DSC-V1"
-        ]
+          "1940s maps of Indonesia",
+          "CC-PD-Mark",
+          "Maps of Halmahera",
+          "Morotai",
+          "PD US Government"
+        ],
+        "smallPath": "_m/w/b/4/g/halmahera-wp/morotai-halmehera-isla-small.webp"
       },
       "images": [
         {
@@ -76,7 +74,7 @@
           "smallPath": "_m/w/b/4/g/halmahera-wp/topography-halmahera-i-small.webp"
         },
         {
-          "path": "_m/w/b/4/g/halmahera-wp/edge-of-aketajawe-lolobata-nat.jpg",
+          "path": "_m/q/z/7/4/maluku-province-wp/edge-of-aketajawe-lolobata-nat.jpg",
           "filename": "Edge of Aketajawe-Lolobata National Park.jpg",
           "caption": "Edge of Aketajawe-Lolobata National Park, Halmahera Island, Indonesia",
           "alt": "Edge of Aketajawe-Lolobata National Park, Halmahera Island, Indonesia",
@@ -95,10 +93,12 @@
             "Files with coordinates missing SDC location of creation",
             "Flickr images reviewed by FlickreviewR",
             "Taken with Sony DSC-HX5V"
-          ]
+          ],
+          "mediumPath": "_m/q/z/7/4/maluku-province-wp/edge-of-aketajawe-lolobata-nat-medium.webp",
+          "smallPath": "_m/q/z/7/4/maluku-province-wp/edge-of-aketajawe-lolobata-nat-small.webp"
         },
         {
-          "path": "_m/w/b/4/g/halmahera-wp/corner-of-halmahera-island.jpg",
+          "path": "_m/w/b/4/g/halmahera-rain-forests-wp/corner-of-halmahera-island.jpg",
           "filename": "Corner of Halmahera Island.jpg",
           "caption": "Another part of Halmahera Island, Indonesia",
           "alt": "Another part of Halmahera Island, Indonesia",
@@ -117,7 +117,9 @@
             "Halmahera",
             "Halmahera Rainforests Ecoregion",
             "Taken with Pentax Optio S5n"
-          ]
+          ],
+          "mediumPath": "_m/w/b/4/g/halmahera-rain-forests-wp/corner-of-halmahera-island-medium.webp",
+          "smallPath": "_m/w/b/4/g/halmahera-rain-forests-wp/corner-of-halmahera-island-small.webp"
         },
         {
           "path": "_m/w/b/4/g/halmahera-wp/morotai-halmehera-isla.jpg",
@@ -530,7 +532,9 @@
             "Fort Tahula",
             "Indonesia photographs taken on 2016-12-28",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/w/b/4/e/tidore-wp/benteng-tahula-medium.webp",
+          "smallPath": "_m/w/b/4/e/tidore-wp/benteng-tahula-small.webp"
         },
         {
           "path": "_m/w/b/4/e/tidore-wp/pulau-maitara-and-pulau-tidore.jpg",
@@ -554,7 +558,9 @@
             "Maitara",
             "Ternate, Indonesia in the 2010s",
             "Tidore"
-          ]
+          ],
+          "mediumPath": "_m/w/b/4/e/tidore-wp/pulau-maitara-and-pulau-tidore-medium.webp",
+          "smallPath": "_m/w/b/4/e/tidore-wp/pulau-maitara-and-pulau-tidore-small.webp"
         },
         {
           "path": "_m/q/z/7/4/maluku-province-wp/bandabesarislandseenfromfortbe.jpg",
@@ -577,7 +583,8 @@
             "GFDL",
             "License migration completed",
             "Taken with Kodak DC4800"
-          ]
+          ],
+          "smallPath": "_m/q/z/7/4/maluku-province-wp/bandabesarislandseenfromfortbe-small.webp"
         },
         {
           "path": "_m/q/z/7/4/maluku-province-wp/ternate.jpg",
@@ -612,7 +619,8 @@
             "Volcanic eruptions in Indonesia in art",
             "Volcanic eruptions in Indonesia in the 18th century",
             "Water transport in Indonesia in the 1720s"
-          ]
+          ],
+          "smallPath": "_m/q/z/7/4/maluku-province-wp/ternate-small.webp"
         },
         {
           "path": "_m/q/z/7/4/maluku-province-wp/morotai-topography.png",
@@ -636,7 +644,8 @@
             "Morotai",
             "Self-published work",
             "Topographic maps of Indonesia"
-          ]
+          ],
+          "smallPath": "_m/q/z/7/4/maluku-province-wp/morotai-topography-small.webp"
         },
         {
           "path": "_m/q/z/7/4/maluku-province-wp/tidore-island-indonesia-daytim.jpg",
@@ -659,7 +668,8 @@
             "Flickr images uploaded by Flickr upload bot",
             "Information field template with formatting",
             "Tidore"
-          ]
+          ],
+          "smallPath": "_m/q/z/7/4/maluku-province-wp/tidore-island-indonesia-daytim-small.webp"
         },
         {
           "path": "_m/q/z/7/4/maluku-province-wp/ternate-island.jpg",
@@ -674,7 +684,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ternate_Island.jpg",
           "sourceType": "poi",
           "sourceArticleId": "maluku-province-wp",
-          "sourceGeohash4": "wb4s"
+          "sourceGeohash4": "wb4s",
+          "smallPath": "_m/q/z/7/4/maluku-province-wp/ternate-island-small.webp"
         },
         {
           "path": "_m/q/z/7/4/maluku-province-wp/usns-mercy-off-the-coast-of-am.jpg",
@@ -689,7 +700,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:USNS_Mercy_off_the_coast_of_Ambon,_Indonesia.jpg",
           "sourceType": "poi",
           "sourceArticleId": "maluku-province-wp",
-          "sourceGeohash4": "wb4s"
+          "sourceGeohash4": "wb4s",
+          "mediumPath": "_m/q/z/7/4/maluku-province-wp/usns-mercy-off-the-coast-of-am-medium.webp",
+          "smallPath": "_m/q/z/7/4/maluku-province-wp/usns-mercy-off-the-coast-of-am-small.webp"
         },
         {
           "path": "_m/q/z/7/4/maluku-province-wp/papeda-kuah-kuning-ikan-tude-b.jpg",
@@ -704,7 +717,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Papeda,_Kuah_Kuning,_Ikan_Tude_Bakar_1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "maluku-province-wp",
-          "sourceGeohash4": "wb4s"
+          "sourceGeohash4": "wb4s",
+          "smallPath": "_m/q/z/7/4/maluku-province-wp/papeda-kuah-kuning-ikan-tude-b-small.webp"
         },
         {
           "path": "_m/q/z/7/4/maluku-province-wp/the-jungle-of-manusela-nationa.jpg",
@@ -719,7 +733,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_jungle_of_Manusela_Nationalpark.jpg",
           "sourceType": "poi",
           "sourceArticleId": "maluku-province-wp",
-          "sourceGeohash4": "wb4s"
+          "sourceGeohash4": "wb4s",
+          "mediumPath": "_m/q/z/7/4/maluku-province-wp/the-jungle-of-manusela-nationa-medium.webp",
+          "smallPath": "_m/q/z/7/4/maluku-province-wp/the-jungle-of-manusela-nationa-small.webp"
         },
         {
           "path": "_m/w/b/4/s/ternate-wp/ternate-volcano-view-from-dodo.jpg",
@@ -744,7 +760,8 @@
             "Gamalama",
             "Indonesia photographs taken on 2010-09-12",
             "Taken with Nikon D700"
-          ]
+          ],
+          "smallPath": "_m/w/b/4/s/ternate-wp/ternate-volcano-view-from-dodo-small.webp"
         },
         {
           "path": "_m/w/b/4/s/ternate-wp/ternate07.jpg",
@@ -769,7 +786,8 @@
             "Taken with Olympus X-100 / D-540Z / C-310Z",
             "Tidore",
             "Uploaded by AVBirder"
-          ]
+          ],
+          "smallPath": "_m/w/b/4/s/ternate-wp/ternate07-small.webp"
         },
         {
           "path": "_m/w/b/4/s/ternate-wp/bandara-sultan-babullah.jpg",
@@ -790,7 +808,8 @@
             "CC-BY-SA-4.0",
             "Jet bridges in Indonesia",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/w/b/4/s/ternate-wp/bandara-sultan-babullah-small.webp"
         },
         {
           "path": "_m/w/b/4/s/ternate-wp/maryam-1.jpg",
@@ -811,7 +830,9 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work",
             "Ternate, Indonesia"
-          ]
+          ],
+          "mediumPath": "_m/w/b/4/s/ternate-wp/maryam-1-medium.webp",
+          "smallPath": "_m/w/b/4/s/ternate-wp/maryam-1-small.webp"
         },
         {
           "path": "_m/w/b/4/s/ternate-wp/fish-market-higienis-ternate.jpg",
@@ -826,7 +847,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fish_market_Higienis_Ternate.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ternate-wp",
-          "sourceGeohash4": "wb4s"
+          "sourceGeohash4": "wb4s",
+          "mediumPath": "_m/w/b/4/s/ternate-wp/fish-market-higienis-ternate-medium.webp",
+          "smallPath": "_m/w/b/4/s/ternate-wp/fish-market-higienis-ternate-small.webp"
         },
         {
           "path": "_m/w/b/4/s/ternate-wp/sulamadaha-bay-ternate-island-.jpg",
@@ -841,7 +864,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sulamadaha_Bay,_Ternate_Island,_The_Moluccas_(15011868760).jpg",
           "sourceType": "poi",
           "sourceArticleId": "ternate-wp",
-          "sourceGeohash4": "wb4s"
+          "sourceGeohash4": "wb4s",
+          "mediumPath": "_m/w/b/4/s/ternate-wp/sulamadaha-bay-ternate-island--medium.webp",
+          "smallPath": "_m/w/b/4/s/ternate-wp/sulamadaha-bay-ternate-island--small.webp"
         }
       ],
       "narration": [

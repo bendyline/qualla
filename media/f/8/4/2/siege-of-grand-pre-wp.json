@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/f/8/4/2/siege-of-grand-pre-wp/hero.jpg",
-        "filename": "Grand Pré.JPG",
-        "caption": "Grand Pré memorial church and the statue of Évangeline",
-        "alt": "Grand Pré memorial church and the statue of Évangeline",
-        "width": 1620,
-        "height": 1080,
+        "path": "_m/f/8/4/2/siege-of-grand-pre-wp/grand-pre-national-historic-si.jpg",
+        "filename": "Grand-Pré National Historic Site.jpg",
+        "caption": "The French-Acadian settlement of Grand-Pré, a UNESCO World Heritage site located in Kings County, Nova Scotia.",
+        "alt": "The French-Acadian settlement of Grand-Pré, a UNESCO World Heritage site located in Kings County, Nova Scotia.",
+        "width": 4928,
+        "height": 3264,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.5",
-        "artist": "Dr Wilson.  User Semhur on the french wikipedia, modified the original picture.",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_Pr%C3%A9.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Eric Van Lochem",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand-Pr%C3%A9_National_Historic_Site.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "siege-of-grand-pre-wp",
         "sourceGeohash4": "f842",
-        "categories": [
-          "CC-BY-2.5",
-          "CC-BY-SA-3.0-migrated",
-          "Evangeline Monument",
-          "GFDL",
-          "Grand-Pré Memorial Chapel",
-          "Heritage properties in Canada with known IDs",
-          "License migration redundant",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/f/8/4/2/siege-of-grand-pre-wp/grand-pre-national-historic-si-medium.webp",
+        "smallPath": "_m/f/8/4/2/siege-of-grand-pre-wp/grand-pre-national-historic-si-small.webp"
       },
       "images": [
         {
@@ -54,7 +46,7 @@
           "smallPath": "_m/f/8/4/2/siege-of-grand-pre-wp/deportation-cross-hort-small.webp"
         },
         {
-          "path": "_m/f/8/4/2/siege-of-grand-pre-wp/acadie-1750.jpg",
+          "path": "_m/f/8/3/p/acadia-wp/acadie-1750.jpg",
           "filename": "Acadie 1750.JPG",
           "caption": "La population acadienne en 1750",
           "alt": "La population acadienne en 1750",
@@ -73,7 +65,8 @@
             "JPG images that should use vector graphics",
             "Maps of Nova Scotia",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/f/8/3/p/acadia-wp/acadie-1750-small.webp"
         },
         {
           "path": "_m/f/8/4/2/siege-of-grand-pre-wp/grand-pre-1.jpg",
@@ -482,7 +475,8 @@
             "PD-self",
             "Self-published work",
             "University Hall, Acadia University"
-          ]
+          ],
+          "smallPath": "_m/f/8/4/0/wolfville-wp/uhall1-small.webp"
         },
         {
           "path": "_m/f/8/4/0/wolfville-wp/wolfvillestreetscape.jpg",
@@ -508,7 +502,8 @@
             "Self-published work",
             "Sidewalk cafés in Canada",
             "Taken with Canon PowerShot A510"
-          ]
+          ],
+          "smallPath": "_m/f/8/4/0/wolfville-wp/wolfvillestreetscape-small.webp"
         },
         {
           "path": "_m/f/8/4/0/wolfville-wp/library-pub.jpg",
@@ -529,7 +524,8 @@
             "CC-BY-SA-2.0",
             "Flickr images uploaded by Flickr upload bot",
             "Pubs in Canada"
-          ]
+          ],
+          "smallPath": "_m/f/8/4/0/wolfville-wp/library-pub-small.webp"
         },
         {
           "path": "_m/f/8/4/0/wolfville-wp/acadia-university-21500423743.jpg",
@@ -553,7 +549,9 @@
             "Flickr images reviewed by FlickreviewR 2",
             "October 2015 in Nova Scotia",
             "Photographs by Christine Rondeau"
-          ]
+          ],
+          "mediumPath": "_m/f/8/4/0/wolfville-wp/acadia-university-21500423743-medium.webp",
+          "smallPath": "_m/f/8/4/0/wolfville-wp/acadia-university-21500423743-small.webp"
         },
         {
           "path": "_m/f/8/4/0/wolfville-wp/victoria-inn-4645754281.jpg",
@@ -574,7 +572,9 @@
             "Flickr images reviewed by FlickreviewR 2",
             "May 2010 in Nova Scotia",
             "Victoria Inn"
-          ]
+          ],
+          "mediumPath": "_m/f/8/4/0/wolfville-wp/victoria-inn-4645754281-medium.webp",
+          "smallPath": "_m/f/8/4/0/wolfville-wp/victoria-inn-4645754281-small.webp"
         },
         {
           "path": "_m/f/8/4/3/minas-basin-wp/springhill-ns.jpg",
@@ -599,7 +599,8 @@
             "Self-published work",
             "Springhill, Nova Scotia",
             "Taken with Olympus u10D / S-300D / u300D"
-          ]
+          ],
+          "smallPath": "_m/f/8/4/3/minas-basin-wp/springhill-ns-small.webp"
         },
         {
           "path": "_m/f/8/4/3/minas-basin-wp/joggins-nova-scotia-as-viewed-.jpg",
@@ -623,7 +624,9 @@
             "Roads in Nova Scotia",
             "Self-published work",
             "Taken with Canon PowerShot S80"
-          ]
+          ],
+          "mediumPath": "_m/f/8/4/3/minas-basin-wp/joggins-nova-scotia-as-viewed--medium.webp",
+          "smallPath": "_m/f/8/4/3/minas-basin-wp/joggins-nova-scotia-as-viewed--small.webp"
         },
         {
           "path": "_m/f/8/4/3/minas-basin-wp/amherst-ns-city-hall.jpg",
@@ -648,7 +651,8 @@
             "Snow in Nova Scotia",
             "Taken with Olympus SP-550UZ",
             "Town halls in Nova Scotia"
-          ]
+          ],
+          "smallPath": "_m/f/8/4/3/minas-basin-wp/amherst-ns-city-hall-small.webp"
         },
         {
           "path": "_m/f/8/4/3/minas-basin-wp/parrsboro-mainstreet-ns-canada.jpg",
@@ -676,7 +680,9 @@
             "Self-published work",
             "St. George's Anglican Church (Parrsboro)",
             "Taken with Olympus u10D / S-300D / u300D"
-          ]
+          ],
+          "mediumPath": "_m/f/8/4/3/minas-basin-wp/parrsboro-mainstreet-ns-canada-medium.webp",
+          "smallPath": "_m/f/8/4/3/minas-basin-wp/parrsboro-mainstreet-ns-canada-small.webp"
         },
         {
           "path": "_m/f/8/1/c/cape-d-or-wp/cape-d-bay-fundy-nova.jpg",
@@ -701,7 +707,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/f/8/1/c/cape-d-or-wp/cape-d-bay-fundy-nova-small.webp"
         },
         {
           "path": "_m/f/8/4/3/minas-basin-wp/burntcoat-head-lighthouse.jpg",
@@ -725,7 +732,9 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Photographs of Canada by Dennis G. Jarvis",
             "Taken with Nikon D300"
-          ]
+          ],
+          "mediumPath": "_m/f/8/4/3/minas-basin-wp/burntcoat-head-lighthouse-medium.webp",
+          "smallPath": "_m/f/8/4/3/minas-basin-wp/burntcoat-head-lighthouse-small.webp"
         },
         {
           "path": "_m/f/8/4/3/minas-basin-wp/cobequidhills-acadiaminesriver.jpg",
@@ -743,7 +752,9 @@
           "sourceGeohash4": "f843",
           "categories": [
             "CC-BY-SA-3.0"
-          ]
+          ],
+          "mediumPath": "_m/f/8/4/3/minas-basin-wp/cobequidhills-acadiaminesriver-medium.webp",
+          "smallPath": "_m/f/8/4/3/minas-basin-wp/cobequidhills-acadiaminesriver-small.webp"
         },
         {
           "path": "_m/f/8/1/c/cape-chignecto-provincial-park-wp/cliffs-cape-chignecto.jpg",
@@ -758,7 +769,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capechignectoprovpark.jpg",
           "sourceType": "poi",
           "sourceArticleId": "cape-chignecto-provincial-park-wp",
-          "sourceGeohash4": "f843"
+          "sourceGeohash4": "f843",
+          "smallPath": "_m/f/8/1/c/cape-chignecto-provincial-park-wp/cliffs-cape-chignecto-small.webp"
         },
         {
           "path": "_m/f/8/4/3/minas-basin-wp/joggins-fossil-cliffs-joggins-.jpg",
@@ -773,7 +785,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joggins_Fossil_Cliffs,_Joggins,_Nova_Scotia_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "minas-basin-wp",
-          "sourceGeohash4": "f843"
+          "sourceGeohash4": "f843",
+          "mediumPath": "_m/f/8/4/3/minas-basin-wp/joggins-fossil-cliffs-joggins--medium.webp",
+          "smallPath": "_m/f/8/4/3/minas-basin-wp/joggins-fossil-cliffs-joggins--small.webp"
         },
         {
           "path": "_m/f/8/1/c/cape-chignecto-provincial-park-wp/three-sisters-cape-chi.jpg",
@@ -788,7 +802,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:ThreeSistersNS.JPG",
           "sourceType": "poi",
           "sourceArticleId": "cape-chignecto-provincial-park-wp",
-          "sourceGeohash4": "f843"
+          "sourceGeohash4": "f843",
+          "smallPath": "_m/f/8/1/c/cape-chignecto-provincial-park-wp/three-sisters-cape-chi-small.webp"
         },
         {
           "path": "_m/f/8/4/3/minas-basin-wp/oxford-ns-welcome-sign.jpg",
@@ -803,7 +818,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oxford,_NS_Welcome_Sign.jpg",
           "sourceType": "poi",
           "sourceArticleId": "minas-basin-wp",
-          "sourceGeohash4": "f843"
+          "sourceGeohash4": "f843",
+          "mediumPath": "_m/f/8/4/3/minas-basin-wp/oxford-ns-welcome-sign-medium.webp",
+          "smallPath": "_m/f/8/4/3/minas-basin-wp/oxford-ns-welcome-sign-small.webp"
         },
         {
           "path": "_m/f/8/4/3/minas-basin-wp/shubenacadie-downtown.jpg",
@@ -818,7 +835,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shubenacadie_downtown.jpg",
           "sourceType": "poi",
           "sourceArticleId": "minas-basin-wp",
-          "sourceGeohash4": "f843"
+          "sourceGeohash4": "f843",
+          "mediumPath": "_m/f/8/4/3/minas-basin-wp/shubenacadie-downtown-medium.webp",
+          "smallPath": "_m/f/8/4/3/minas-basin-wp/shubenacadie-downtown-small.webp"
         },
         {
           "path": "_m/d/x/c/z/annapolis-valley-wp/kejimkujik-np-nova-scotia-3.jpg",
@@ -850,7 +869,8 @@
             "Water reflections in Nova Scotia",
             "Water reflections of clouds in Canada",
             "Water reflections of trees in Canada"
-          ]
+          ],
+          "smallPath": "_m/d/x/c/z/annapolis-valley-wp/kejimkujik-np-nova-scotia-3-small.webp"
         },
         {
           "path": "_m/d/x/c/z/annapolis-valley-wp/kentville-hotel.jpg",
@@ -877,7 +897,8 @@
             "Lawtons Drugs",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/d/x/c/z/annapolis-valley-wp/kentville-hotel-small.webp"
         },
         {
           "path": "_m/d/x/c/z/annapolis-valley-wp/annapolisroyalnsskyline.jpg",
@@ -908,7 +929,8 @@
             "Self-published work",
             "Skylines in Nova Scotia",
             "Taken with Canon PowerShot S100"
-          ]
+          ],
+          "smallPath": "_m/d/x/c/z/annapolis-valley-wp/annapolisroyalnsskyline-small.webp"
         },
         {
           "path": "_m/d/x/c/z/annapolis-valley-wp/windsorpo-ns-2019.jpg",
@@ -923,7 +945,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:WindsorPO_NS_2019.jpg",
           "sourceType": "poi",
           "sourceArticleId": "annapolis-valley-wp",
-          "sourceGeohash4": "dxcz"
+          "sourceGeohash4": "dxcz",
+          "smallPath": "_m/d/x/c/z/annapolis-valley-wp/windsorpo-ns-2019-small.webp"
         },
         {
           "path": "_m/d/x/c/z/annapolis-valley-wp/landscape-of-grand-pre-2.jpg",
@@ -938,7 +961,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Landscape_of_Grand_Pr%C3%A9_2.jpg",
           "sourceType": "poi",
           "sourceArticleId": "annapolis-valley-wp",
-          "sourceGeohash4": "dxcz"
+          "sourceGeohash4": "dxcz",
+          "mediumPath": "_m/d/x/c/z/annapolis-valley-wp/landscape-of-grand-pre-2-medium.webp",
+          "smallPath": "_m/d/x/c/z/annapolis-valley-wp/landscape-of-grand-pre-2-small.webp"
         },
         {
           "path": "_m/tpc/gr/an/d-/pr/grand-pre-national-historic-site/grand-pre-banner.jpg",
@@ -961,7 +986,9 @@
             "Self-published work",
             "Wikivoyage banners by SHB2000",
             "Wikivoyage banners of Nova Scotia"
-          ]
+          ],
+          "mediumPath": "_m/tpc/gr/an/d-/pr/grand-pre-national-historic-site/grand-pre-banner-medium.webp",
+          "smallPath": "_m/tpc/gr/an/d-/pr/grand-pre-national-historic-site/grand-pre-banner-small.webp"
         }
       ],
       "narration": [

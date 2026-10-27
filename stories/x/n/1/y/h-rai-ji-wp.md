@@ -37,7 +37,7 @@ Horai-ji sits at 34.979N, 137.586E on Mount Horai near Shinshiro, Aichi Prefectu
 ## Sources
 
 - [Guru Har Rai - Wikipedia](https://en.wikipedia.org/?curid=545777)
-- [Horaiji Temple - Wikipedia](https://en.wikipedia.org/wiki/H%C5%8Drai-ji)
+- [Horaiji Temple - Wikipedia](https://en.wikipedia.org/?curid=62993645)
   - 1,425 stone steps confirmed — among the largest mountain staircases in Japan
   - Founding date 702 AD by ascetic Ryushu Sennin confirmed
   - Minamoto no Yoritomo credited with rebuilding temple and stone steps during Kamakura period

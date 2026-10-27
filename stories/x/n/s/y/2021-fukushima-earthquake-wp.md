@@ -37,7 +37,7 @@ Epicenter located at 37.72N, 141.76E, in the Pacific Ocean east of Fukushima Pre
 ## Sources
 
 - [2021 Fukushima earthquake - Wikipedia](https://en.wikipedia.org/?curid=66743684)
-- [2021 Fukushima earthquake - Wikipedia](https://en.wikipedia.org/wiki/2021_Fukushima_earthquake)
+- [2021 Fukushima earthquake - Wikipedia](https://en.wikipedia.org/?curid=66743684)
   - magnitude 7.3 confirmed
   - 23:07 on February 13 2021 confirmed
   - 1432 gal peak ground acceleration at Yamamoto Miyagi confirmed

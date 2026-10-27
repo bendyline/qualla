@@ -37,7 +37,7 @@ The wreck of U-513 lies at approximately 27.28°S, 47.53°W, about 85 km east of
 ## Sources
 
 - [German submarine U-513 - Wikipedia](https://en.wikipedia.org/?curid=32425019)
-- [German submarine U-513 - Wikipedia](https://en.wikipedia.org/wiki/German_submarine_U-513)
+- [German submarine U-513 - Wikipedia](https://en.wikipedia.org/?curid=32425019)
   - Corrected: crew of 48 → 53 (46 died + 7 survived = 53 total crew, not 48)
   - Type IXC submarine confirmed
   - Commissioned January 10, 1942 at Deutsche Werft Hamburg

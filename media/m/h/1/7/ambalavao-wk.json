@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/m/h/1/7/ambalavao-wk/hero.jpg",
-        "filename": "Al mercato di Ambalavao . I materassi (4990209559).jpg",
-        "caption": "Al mercato di Ambalavao. I materassi",
-        "alt": "Al mercato di Ambalavao. I materassi",
-        "width": 1024,
-        "height": 768,
+        "path": "_m/m/h/1/7/ambalavao-wk/ambalavao-road-02.jpg",
+        "filename": "Ambalavao road 02.JPG",
+        "caption": "Busstation in Ambalavao",
+        "alt": "Busstation in Ambalavao",
+        "width": 4288,
+        "height": 3216,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Paolo Crosetto from Roma - Torino, Italia",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al_mercato_di_Ambalavao_._I_materassi_(4990209559).jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 3.0",
+        "artist": "Smiley.toerist",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ambalavao_road_02.JPG",
+        "sourceType": "commons-category",
         "sourceArticleId": "ambalavao-wk",
         "sourceGeohash4": "mh17",
-        "categories": [
-          "Ambalavao",
-          "CC-BY-SA-2.0",
-          "Files with coordinates missing SDC location of creation",
-          "Flickr images reviewed by FlickreviewR",
-          "Photographs taken on 2010-09-14",
-          "September 2010 in Madagascar",
-          "Textiles of Madagascar"
-        ]
+        "mediumPath": "_m/m/h/1/7/ambalavao-wk/ambalavao-road-02-medium.webp",
+        "smallPath": "_m/m/h/1/7/ambalavao-wk/ambalavao-road-02-small.webp"
       },
       "images": [
         {
@@ -444,7 +437,8 @@
             "License migration redundant",
             "Maps of Haute Matsiatra",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/m/h/1/7/ambalavao-wp/madagascar-haute-matsiatra-reg-small.webp"
         },
         {
           "path": "_m/m/h/1/7/ambalavao-wp/rn7-in-madagaskar-2013-14.jpg",
@@ -471,7 +465,9 @@
             "Unidentified plants in Madagascar",
             "White flowers in Madagascar",
             "Yucca"
-          ]
+          ],
+          "mediumPath": "_m/m/h/1/7/ambalavao-wp/rn7-in-madagaskar-2013-14-medium.webp",
+          "smallPath": "_m/m/h/1/7/ambalavao-wp/rn7-in-madagaskar-2013-14-small.webp"
         },
         {
           "path": "_m/m/h/1/7/ambalavao-wp/ambalavaoseidenweberei1.jpg",
@@ -492,7 +488,9 @@
             "CC-BY-SA-4.0",
             "Self-published work",
             "Silk in Madagascar"
-          ]
+          ],
+          "mediumPath": "_m/m/h/1/7/ambalavao-wp/ambalavaoseidenweberei1-medium.webp",
+          "smallPath": "_m/m/h/1/7/ambalavao-wp/ambalavaoseidenweberei1-small.webp"
         },
         {
           "path": "_m/m/h/1/7/ambalavao-wp/ambalavaomarkt1.jpg",
@@ -510,7 +508,9 @@
           "sourceGeohash4": "mh17",
           "categories": [
             "Ambalavao"
-          ]
+          ],
+          "mediumPath": "_m/m/h/1/7/ambalavao-wp/ambalavaomarkt1-medium.webp",
+          "smallPath": "_m/m/h/1/7/ambalavao-wp/ambalavaomarkt1-small.webp"
         },
         {
           "path": "_m/tpc/ma/da/ga/sc/madagascar/ambositra.jpg",
@@ -536,7 +536,9 @@
             "People of Madagascar",
             "Self-published work",
             "Taken with Samsung S1070"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ma/da/ga/sc/madagascar/ambositra-medium.webp",
+          "smallPath": "_m/tpc/ma/da/ga/sc/madagascar/ambositra-small.webp"
         },
         {
           "path": "_m/tpc/ma/da/ga/sc/madagascar/andringitra-madagascar-by-effe.jpg",
@@ -563,7 +565,9 @@
             "Reflections in still water",
             "Taken with Panasonic Lumix DMC-FX35",
             "Water reflections of mountains in Madagascar"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ma/da/ga/sc/madagascar/andringitra-madagascar-by-effe-medium.webp",
+          "smallPath": "_m/tpc/ma/da/ga/sc/madagascar/andringitra-madagascar-by-effe-small.webp"
         },
         {
           "path": "_m/tpc/ma/da/ga/sc/madagascar/vue-globale-de-la-ville-fianar.jpg",
@@ -585,7 +589,9 @@
             "Files by User:HoneyGaLe/Madagascar",
             "Self-published work",
             "Taken with Nikon D5100"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ma/da/ga/sc/madagascar/vue-globale-de-la-ville-fianar-medium.webp",
+          "smallPath": "_m/tpc/ma/da/ga/sc/madagascar/vue-globale-de-la-ville-fianar-small.webp"
         },
         {
           "path": "_m/tpc/ma/da/ga/sc/madagascar/ranomafana-burial-site.jpg",
@@ -607,7 +613,9 @@
             "Ranomafana National Park",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-TZ10"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ma/da/ga/sc/madagascar/ranomafana-burial-site-medium.webp",
+          "smallPath": "_m/tpc/ma/da/ga/sc/madagascar/ranomafana-burial-site-small.webp"
         },
         {
           "path": "_m/m/h/1/m/fianarantsoa-province-wp/fianarantsoaeglisefahazavana.jpg",
@@ -622,7 +630,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:FianarantsoaEgliseFahazavana.jpg",
           "sourceType": "poi",
           "sourceArticleId": "fianarantsoa-province-wp",
-          "sourceGeohash4": "mh1m"
+          "sourceGeohash4": "mh1m",
+          "mediumPath": "_m/m/h/1/m/fianarantsoa-province-wp/fianarantsoaeglisefahazavana-medium.webp",
+          "smallPath": "_m/m/h/1/m/fianarantsoa-province-wp/fianarantsoaeglisefahazavana-small.webp"
         },
         {
           "path": "_m/m/h/1/q/fianarantsoa-wp/fianarantsoa-8.jpg",
@@ -642,7 +652,9 @@
             "CC-BY-SA-4.0",
             "Fianarantsoa",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/m/h/1/q/fianarantsoa-wp/fianarantsoa-8-medium.webp",
+          "smallPath": "_m/m/h/1/q/fianarantsoa-wp/fianarantsoa-8-small.webp"
         },
         {
           "path": "_m/m/h/1/q/fianarantsoa-wp/fianarantsoabanner.jpg",
@@ -662,7 +674,9 @@
             "CC-BY-SA-3.0",
             "Fianarantsoa",
             "Wikivoyage banners of Madagascar"
-          ]
+          ],
+          "mediumPath": "_m/m/h/1/q/fianarantsoa-wp/fianarantsoabanner-medium.webp",
+          "smallPath": "_m/m/h/1/q/fianarantsoa-wp/fianarantsoabanner-small.webp"
         }
       ],
       "narration": [

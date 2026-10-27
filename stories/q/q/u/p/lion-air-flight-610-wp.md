@@ -37,7 +37,7 @@ The crash site lies at approximately 5.77S, 107.12E in the Java Sea, northeast o
 ## Sources
 
 - [Lion Air Flight 610 - Wikipedia](https://en.wikipedia.org/?curid=58905476)
-- [Lion Air Flight 610 - Wikipedia](https://en.wikipedia.org/wiki/Lion_Air_Flight_610)
+- [Lion Air Flight 610 - Wikipedia](https://en.wikipedia.org/?curid=58905476)
   - 189 people aboard confirmed
   - Boeing 737 MAX 8 PK-LQP delivered 13 August 2018 confirmed
   - Departed 6:20 a.m., crashed 13 minutes later confirmed

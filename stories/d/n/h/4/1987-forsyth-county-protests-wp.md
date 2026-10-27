@@ -48,7 +48,7 @@ Located at 34.21N, 84.14W in Forsyth County, Georgia, roughly 40 miles northeast
   - Coretta Scott King marched confirmed
   - Jesse Jackson and Ralph Abernathy marched confirmed
   - biracial human relations committee established confirmed
-- [Forsyth County v. Nationalist Movement - Supreme Court case](https://en.wikipedia.org/wiki/1987_Forsyth_County_protests)
+- [Forsyth County v. Nationalist Movement - Supreme Court case](https://en.wikipedia.org/?curid=72625354)
   - SPLC suit against 11 Klansmen and two Klan organizations confirmed
   - October 1988 federal jury verdict nearly $1 million confirmed
   - Invisible Empire defunct by 1993 confirmed

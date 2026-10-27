@@ -41,7 +41,7 @@ Located at 13.64S, 76.40W, approximately 13 nm off Peru's southwest coast near t
   - war lasted until 1866 verified
   - guano deposits exhausted by 1874 verified
   - Spain recognized Peru independence 1879 verified
-- [Chincha Islands guano labor conditions - Chincha Islands Wikipedia / academic sources](https://en.wikipedia.org/wiki/Chincha_Islands)
+- [Chincha Islands guano labor conditions - Chincha Islands Wikipedia / academic sources](https://en.wikipedia.org/?curid=1496684)
   - Chinese coolie labor under conditions amounting to enslavement verified
   - 1860 calculation that of 4,000 Chinese laborers brought, not one had survived verified
 

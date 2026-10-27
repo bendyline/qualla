@@ -33,7 +33,7 @@ The ditching site of ALM Flight 980 is approximately at 18.000N, 64.000W, roughl
 ## Sources
 
 - [ALM Flight 980 - Wikipedia](https://en.wikipedia.org/?curid=9223202)
-- [Wikipedia - ALM Flight 980](https://en.wikipedia.org/wiki/ALM_Flight_980)
+- [Wikipedia - ALM Flight 980](https://en.wikipedia.org/?curid=9223202)
   - May 2, 1970 date confirmed
   - DC-9 aircraft type confirmed
   - 57 passengers and 6 crew confirmed

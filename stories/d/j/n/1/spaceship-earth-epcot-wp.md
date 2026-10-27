@@ -33,7 +33,7 @@ Located at 28.375N, 81.549W within EPCOT at Walt Disney World Resort, Bay Lake, 
 ## Sources
 
 - [Spaceship Earth (Epcot) - Wikipedia](https://en.wikipedia.org/?curid=1426032)
-- [Wikipedia - Spaceship Earth (Epcot)](https://en.wikipedia.org/wiki/Spaceship_Earth_(Epcot))
+- [Wikipedia - Spaceship Earth (Epcot)](https://en.wikipedia.org/?curid=1426032)
   - 180-foot geodesic sphere confirmed
   - 11,324 silvered Alucobond panels confirmed
   - EPCOT Center opened October 1 1982 confirmed

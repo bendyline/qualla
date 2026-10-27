@@ -3,29 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/6/e/c/e/uquia-wp/hero.jpg",
-        "filename": "Uquía visto desde el Mirador la Cruz (cropped).jpg",
-        "caption": "Pueblo de Uquía visto desde el Mirador la Cruz.",
-        "alt": "Pueblo de Uquía visto desde el Mirador la Cruz.",
-        "width": 2708,
-        "height": 1224,
+        "path": "_m/6/e/c/e/uquia-wp/inf-de-uquia.jpg",
+        "filename": "Inf de uquia.jpg",
+        "caption": "Según ilustración de Gabriel Popolizio",
+        "alt": "Según ilustración de Gabriel Popolizio",
+        "width": 7855,
+        "height": 11812,
         "mimeType": "image/jpeg",
-        "license": "CC0",
-        "artist": "Mx._Granger",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uqu%C3%ADa_visto_desde_el_Mirador_la_Cruz_(cropped).jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Popoito",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inf_de_uquia.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "uquia-wp",
         "sourceGeohash4": "6ece",
-        "categories": [
-          "CC-Zero",
-          "Extracted images",
-          "Files with coordinates missing SDC location of creation",
-          "November 2017 in Argentina",
-          "Self-published work",
-          "Uploaded with Mobile/Android",
-          "Uploaded with Mobile/Android (Nov 2017-Aug 2019)",
-          "Uquía"
-        ]
+        "mediumPath": "_m/6/e/c/e/uquia-wp/inf-de-uquia-medium.webp",
+        "smallPath": "_m/6/e/c/e/uquia-wp/inf-de-uquia-small.webp"
       },
       "images": [
         {
@@ -443,7 +435,9 @@
             "Self-published work",
             "Uploaded with Mobile/Android",
             "Uploaded with Mobile/Android (Nov 2017-Aug 2019)"
-          ]
+          ],
+          "mediumPath": "_m/6/e/c/e/uquia-wk/iglesia-de-uquia-medium.webp",
+          "smallPath": "_m/6/e/c/e/uquia-wk/iglesia-de-uquia-small.webp"
         }
       ],
       "narration": [

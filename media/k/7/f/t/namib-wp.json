@@ -3,19 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/k/7/f/t/namib-wp/hero.jpg",
-        "filename": "Namib Sand Sea buiobuione.tif",
-        "caption": "The Namib Sand-sea (NSS) lies along the arid African coast of the South Atlantic lying wholly within Namibia’s Namib-Naukluft Park and it covers an area of 3,077,700 hectares",
-        "alt": "The Namib Sand-sea (NSS) lies along the arid African coast of the South Atlantic lying wholly within Namibia’s Namib-Naukluft Park and it covers an area of 3,077,700 hectares",
-        "width": 5048,
-        "height": 3365,
-        "mimeType": "image/tiff",
-        "license": "CC BY-SA 4.0",
-        "artist": "Buiobuione",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namib_Sand_Sea_buiobuione.tif",
-        "sourceType": "core",
+        "path": "_m/k/7/f/t/namib-wp/dunes-at-sandwich-bay-23910060.jpg",
+        "filename": "Dunes at Sandwich Bay (23910060618).jpg",
+        "caption": "Aerial photography, Namibia",
+        "alt": "Aerial photography, Namibia",
+        "width": 5472,
+        "height": 3648,
+        "mimeType": "image/jpeg",
+        "license": "CC BY 2.0",
+        "artist": "Sonse",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dunes_at_Sandwich_Bay_(23910060618).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "namib-wp",
-        "sourceGeohash4": "k7ft"
+        "sourceGeohash4": "k7ft",
+        "mediumPath": "_m/k/7/f/t/namib-wp/dunes-at-sandwich-bay-23910060-medium.webp",
+        "smallPath": "_m/k/7/f/t/namib-wp/dunes-at-sandwich-bay-23910060-small.webp"
       },
       "images": [
         {
@@ -378,7 +380,7 @@
           "smallPath": "_m/k/7/f/t/namib-wp/namibia-rivers-map-rel-small.webp"
         },
         {
-          "path": "_m/k/7/f/t/namib-wp/buiobuione-namibiia-namib-dese.jpg",
+          "path": "_m/k/7/d/u/namib-naukluft-national-park-wk/buiobuione-namibiia-namib-dese.jpg",
           "filename": "Buiobuione-Namibiia-Namib-Desert-1.jpg",
           "caption": "Namib Desert, Namibia",
           "alt": "Namib Desert, Namibia",
@@ -390,10 +392,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buiobuione-Namibiia-Namib-Desert-1.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "namib-naukluft-national-park-wk",
-          "sourceGeohash4": "k7ft"
+          "sourceGeohash4": "k7ft",
+          "mediumPath": "_m/k/7/d/u/namib-naukluft-national-park-wk/buiobuione-namibiia-namib-dese-medium.webp",
+          "smallPath": "_m/k/7/d/u/namib-naukluft-national-park-wk/buiobuione-namibiia-namib-dese-small.webp"
         },
         {
-          "path": "_m/k/7/f/t/namib-wp/buiobuione-namibiia-namib-dese-1.jpg",
+          "path": "_m/k/7/d/u/namib-naukluft-national-park-wk/buiobuione-namibiia-namib-dese-1.jpg",
           "filename": "Buiobuione-Namibiia-Namib-Desert-1.tif",
           "caption": "Namib Desert, Namibia",
           "alt": "Namib Desert, Namibia",
@@ -405,7 +409,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buiobuione-Namibiia-Namib-Desert-1.tif",
           "sourceType": "commons-category",
           "sourceArticleId": "namib-naukluft-national-park-wk",
-          "sourceGeohash4": "k7ft"
+          "sourceGeohash4": "k7ft",
+          "mediumPath": "_m/k/7/d/u/namib-naukluft-national-park-wk/buiobuione-namibiia-namib-dese-1-medium.webp",
+          "smallPath": "_m/k/7/d/u/namib-naukluft-national-park-wk/buiobuione-namibiia-namib-dese-1-small.webp"
         },
         {
           "path": "_m/k/7/f/t/namib-wp/cloudscape-namib-144259197.jpg",
@@ -493,7 +499,7 @@
           "smallPath": "_m/k/7/f/t/namib-wp/dune-of-namib-naukluft-nationa-small.webp"
         },
         {
-          "path": "_m/k/7/f/t/namib-wp/trees-dead-vlei-nel-na.jpg",
+          "path": "_m/k/7/d/g/deadvlei-wp/trees-dead-vlei-nel-na.jpg",
           "filename": "Alberi nel deserto.tif",
           "caption": "Trees in Dead Vlei nel Namib-Naukluft National Park, Namibia, Africa",
           "alt": "Trees in Dead Vlei nel Namib-Naukluft National Park, Namibia, Africa",
@@ -505,7 +511,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alberi_nel_deserto.tif",
           "sourceType": "commons-category",
           "sourceArticleId": "deadvlei-wp",
-          "sourceGeohash4": "k7ft"
+          "sourceGeohash4": "k7ft",
+          "mediumPath": "_m/k/7/d/g/deadvlei-wp/trees-dead-vlei-nel-na-medium.webp",
+          "smallPath": "_m/k/7/d/g/deadvlei-wp/trees-dead-vlei-nel-na-small.webp"
         },
         {
           "path": "_m/k/7/f/t/namib-wp/deserto-del-namib-temperature.jpg",
@@ -547,7 +555,8 @@
             "Flickr images uploaded by Flickr upload bot",
             "Taken with Fujifilm FinePix S5000",
             "Walvis Bay Airport"
-          ]
+          ],
+          "smallPath": "_m/k/7/f/m/walvis-bay-wp/walvis-bay-airport-small.webp"
         },
         {
           "path": "_m/k/7/f/m/walvis-bay-wp/na-walvisbat-wikivoyage-banner.jpg",
@@ -570,7 +579,9 @@
             "Taken with Olympus E-620",
             "Walvis Bay",
             "Wikivoyage banners of Namibia"
-          ]
+          ],
+          "mediumPath": "_m/k/7/f/m/walvis-bay-wp/na-walvisbat-wikivoyage-banner-medium.webp",
+          "smallPath": "_m/k/7/f/m/walvis-bay-wp/na-walvisbat-wikivoyage-banner-small.webp"
         },
         {
           "path": "_m/k/7/f/m/walvis-bay-wp/vista-panoramica-delle-saline-.jpg",
@@ -591,7 +602,9 @@
             "Salt flats",
             "Self-published work",
             "Walvis Bay"
-          ]
+          ],
+          "mediumPath": "_m/k/7/f/m/walvis-bay-wp/vista-panoramica-delle-saline--medium.webp",
+          "smallPath": "_m/k/7/f/m/walvis-bay-wp/vista-panoramica-delle-saline--small.webp"
         },
         {
           "path": "_m/k/7/f/m/walvis-bay-wp/greater-flamingo-phoenicopteru.jpg",
@@ -617,7 +630,9 @@
             "Phoenicopteriformes of Namibia",
             "Phoenicopterus roseus in water",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/k/7/f/m/walvis-bay-wp/greater-flamingo-phoenicopteru-medium.webp",
+          "smallPath": "_m/k/7/f/m/walvis-bay-wp/greater-flamingo-phoenicopteru-small.webp"
         },
         {
           "path": "_m/tpc/ko/lm/an/sk/kolmanskop/kapps-ballsaal-felsenkirche-go.jpg",
@@ -640,7 +655,8 @@
             "Hotels in Namibia",
             "Pictures of user:Hsuepfle",
             "Taken with Canon PowerShot A80"
-          ]
+          ],
+          "smallPath": "_m/tpc/ko/lm/an/sk/kolmanskop/kapps-ballsaal-felsenkirche-go-small.webp"
         },
         {
           "path": "_m/tpc/ko/lm/an/sk/kolmanskop/namibie-luderitz-05.jpg",
@@ -667,7 +683,9 @@
             "License migration redundant",
             "Photographs by Calips",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ko/lm/an/sk/kolmanskop/namibie-luderitz-05-medium.webp",
+          "smallPath": "_m/tpc/ko/lm/an/sk/kolmanskop/namibie-luderitz-05-small.webp"
         },
         {
           "path": "_m/tpc/ko/lm/an/sk/kolmanskop/halifax-island-namibia.jpg",
@@ -690,7 +708,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot SX10 IS"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ko/lm/an/sk/kolmanskop/halifax-island-namibia-medium.webp",
+          "smallPath": "_m/tpc/ko/lm/an/sk/kolmanskop/halifax-island-namibia-small.webp"
         },
         {
           "path": "_m/tpc/ko/lm/an/sk/kolmanskop/kolmanskop1-flip666.jpg",
@@ -716,7 +736,8 @@
             "November 2006 in Namibia",
             "Self-published work",
             "Taken with Casio Exilim EX-Z50"
-          ]
+          ],
+          "smallPath": "_m/tpc/ko/lm/an/sk/kolmanskop/kolmanskop1-flip666-small.webp"
         },
         {
           "path": "_m/tpc/ko/lm/an/sk/kolmanskop/luderitz-airport.jpg",
@@ -731,7 +752,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:L%C3%BCderitz_Airport.jpg",
           "sourceType": "poi",
           "sourceArticleId": "kolmanskop",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "mediumPath": "_m/tpc/ko/lm/an/sk/kolmanskop/luderitz-airport-medium.webp",
+          "smallPath": "_m/tpc/ko/lm/an/sk/kolmanskop/luderitz-airport-small.webp"
         },
         {
           "path": "_m/tpc/ko/lm/an/sk/kolmanskop/berg-street-18636357723.jpg",
@@ -746,7 +769,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berg_Street_(18636357723).jpg",
           "sourceType": "poi",
           "sourceArticleId": "kolmanskop",
-          "sourceGeohash4": ""
+          "sourceGeohash4": "",
+          "smallPath": "_m/tpc/ko/lm/an/sk/kolmanskop/berg-street-18636357723-small.webp"
         }
       ],
       "narration": [

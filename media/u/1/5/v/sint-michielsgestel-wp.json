@@ -3,27 +3,29 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/u/1/5/v/sint-michielsgestel-wp/hero.jpg",
-        "filename": "Sint Michielsgestel, de Dommel 2010-04-10 17.07.JPG",
-        "caption": "Sint Michielsgestel, river: de Dommel",
-        "alt": "Sint Michielsgestel, river: de Dommel",
-        "width": 3456,
-        "height": 2592,
+        "path": "_m/u/1/5/v/sint-michielsgestel-wp/rooms-katholieke-kerk.jpg",
+        "filename": "Exterieur OVERZICHT TOREN - Sint-Michielsgestel - 20264415 - RCE.jpg",
+        "caption": "Rooms-Katholieke Kerk: Exterieur OVERZICHT TOREN",
+        "alt": "Rooms-Katholieke Kerk: Exterieur OVERZICHT TOREN",
+        "width": 2175,
+        "height": 1409,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Michielverbeek",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sint_Michielsgestel,_de_Dommel_2010-04-10_17.07.JPG",
+        "license": "CC BY-SA 4.0",
+        "artist": "Loek Tangel",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exterieur_OVERZICHT_TOREN_-_Sint-Michielsgestel_-_20264415_-_RCE.jpg",
         "sourceType": "core",
         "sourceArticleId": "sint-michielsgestel-wp",
         "sourceGeohash4": "u15v",
         "categories": [
-          "CC-BY-SA-3.0,2.5,2.0,1.0",
-          "Dommel",
-          "GFDL",
-          "License migration redundant",
-          "Self-published work",
-          "Sint-Michielsgestel"
-        ]
+          "Buildings with addresses",
+          "CC-BY-SA-4.0",
+          "Images from the Rijksdienst voor het Cultureel Erfgoed",
+          "Oude Toren, Sint-Michielsgestel",
+          "Photographs by Loek Tangel in Sint-Michielsgestel (1975)",
+          "Rijksmonumenten with known IDs"
+        ],
+        "mediumPath": "_m/u/1/5/v/sint-michielsgestel-wp/rooms-katholieke-kerk-medium.webp",
+        "smallPath": "_m/u/1/5/v/sint-michielsgestel-wp/rooms-katholieke-kerk-small.webp"
       },
       "images": [
         {
@@ -75,7 +77,7 @@
           "smallPath": "_m/u/1/5/v/sint-michielsgestel-wp/nederland-noord-braban-small.webp"
         },
         {
-          "path": "_m/u/1/5/v/sint-michielsgestel-wp/opdracht-financieel-da.jpg",
+          "path": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/opdracht-financieel-da.jpg",
           "filename": "Opdracht Financieel Dagblad , minister Braks , close - NL-HaNA Anefo 933-1690 WM540 (cropped).jpg",
           "caption": "Opdracht Financieel Dagblad , minister Braks , close",
           "alt": "Opdracht Financieel Dagblad , minister Braks , close",
@@ -94,10 +96,11 @@
             "Images from Anefo",
             "Images from Nationaal Archief",
             "Photographs by Rob Croes"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/opdracht-financieel-da-small.webp"
         },
         {
-          "path": "_m/u/1/5/v/sint-michielsgestel-wp/dommel-clubhuis.jpg",
+          "path": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/dommel-clubhuis.jpg",
           "filename": "Dommel clubhuis.jpg",
           "caption": "Golfclub de Dommel, clubhuis",
           "alt": "Golfclub de Dommel, clubhuis",
@@ -118,10 +121,11 @@
             "License migration completed",
             "Photographs by Pauline van Till",
             "Sint-Michielsgestel"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/dommel-clubhuis-small.webp"
         },
         {
-          "path": "_m/u/1/5/v/sint-michielsgestel-wp/de-dommel-tussen-gemon.jpg",
+          "path": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/de-dommel-tussen-gemon.jpg",
           "filename": "Dommel-bij-Gemonde.JPG",
           "caption": "De Dommel tussen Gemonde en Michielsgestel",
           "alt": "De Dommel tussen Gemonde en Michielsgestel",
@@ -141,10 +145,12 @@
             "Self-published work",
             "Sint-Michielsgestel",
             "Taken with Canon PowerShot G5"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/de-dommel-tussen-gemon-medium.webp",
+          "smallPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/de-dommel-tussen-gemon-small.webp"
         },
         {
-          "path": "_m/u/1/5/v/sint-michielsgestel-wp/nl-noord-brabant-sint-michiels.jpg",
+          "path": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/nl-noord-brabant-sint-michiels.jpg",
           "filename": "NL, Noord-Brabant, Sint Michielsgestel, Patersberg 8, Saxifraga-Jan van der Straaten.jpg",
           "alt": "NL, Noord-Brabant, Sint Michielsgestel, Patersberg 8, Saxifraga-Jan van der Straaten.jpg",
           "width": 1600,
@@ -155,10 +161,11 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:NL,_Noord-Brabant,_Sint_Michielsgestel,_Patersberg_8,_Saxifraga-Jan_van_der_Straaten.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "kamp-sint-michielsgestel-wp",
-          "sourceGeohash4": "u15v"
+          "sourceGeohash4": "u15v",
+          "smallPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/nl-noord-brabant-sint-michiels-small.webp"
         },
         {
-          "path": "_m/u/1/5/v/sint-michielsgestel-wp/sterrenbos-sint-michielsgestel.jpg",
+          "path": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/sterrenbos-sint-michielsgestel.jpg",
           "filename": "Sterrenbos Sint-Michielsgestel.jpg",
           "caption": "Sterrenbos op een mooie zomerse dag in juni 2017",
           "alt": "Sterrenbos op een mooie zomerse dag in juni 2017",
@@ -170,10 +177,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sterrenbos_Sint-Michielsgestel.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "kamp-sint-michielsgestel-wp",
-          "sourceGeohash4": "u15v"
+          "sourceGeohash4": "u15v",
+          "mediumPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/sterrenbos-sint-michielsgestel-medium.webp",
+          "smallPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/sterrenbos-sint-michielsgestel-small.webp"
         },
         {
-          "path": "_m/u/1/5/v/sint-michielsgestel-wp/dommel-bij-gemonde-01.jpg",
+          "path": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/dommel-bij-gemonde-01.jpg",
           "filename": "Dommel bij Gemonde 01.jpg",
           "caption": "Uitzicht op de Dommel bij landgoed Zegenwerp bij Gemonde in Noord-Brabant.",
           "alt": "Uitzicht op de Dommel bij landgoed Zegenwerp bij Gemonde in Noord-Brabant.",
@@ -185,10 +194,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dommel_bij_Gemonde_01.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "kamp-sint-michielsgestel-wp",
-          "sourceGeohash4": "u15v"
+          "sourceGeohash4": "u15v",
+          "mediumPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/dommel-bij-gemonde-01-medium.webp",
+          "smallPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/dommel-bij-gemonde-01-small.webp"
         },
         {
-          "path": "_m/u/1/5/v/sint-michielsgestel-wp/dommel-bij-gemonde-02.jpg",
+          "path": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/dommel-bij-gemonde-02.jpg",
           "filename": "Dommel bij Gemonde 02.jpg",
           "caption": "Uitzicht op de Dommel bij landgoed Zegenwerp bij Gemonde in Noord-Brabant.",
           "alt": "Uitzicht op de Dommel bij landgoed Zegenwerp bij Gemonde in Noord-Brabant.",
@@ -200,10 +211,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dommel_bij_Gemonde_02.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "kamp-sint-michielsgestel-wp",
-          "sourceGeohash4": "u15v"
+          "sourceGeohash4": "u15v",
+          "mediumPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/dommel-bij-gemonde-02-medium.webp",
+          "smallPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/dommel-bij-gemonde-02-small.webp"
         },
         {
-          "path": "_m/u/1/5/v/sint-michielsgestel-wp/wolfsdreef-sint-michielsgestel.jpg",
+          "path": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/wolfsdreef-sint-michielsgestel.jpg",
           "filename": "Wolfsdreef, Sint Michielsgestel.jpg",
           "caption": "Wolfsdreef, Sint Michielsgestel is een smal pad in bos",
           "alt": "Wolfsdreef, Sint Michielsgestel is een smal pad in bos",
@@ -215,10 +228,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wolfsdreef,_Sint_Michielsgestel.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "kamp-sint-michielsgestel-wp",
-          "sourceGeohash4": "u15v"
+          "sourceGeohash4": "u15v",
+          "mediumPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/wolfsdreef-sint-michielsgestel-medium.webp",
+          "smallPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/wolfsdreef-sint-michielsgestel-small.webp"
         },
         {
-          "path": "_m/u/1/5/v/sint-michielsgestel-wp/sierrand-op-mariaklok-in-de-si.jpg",
+          "path": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/sierrand-op-mariaklok-in-de-si.jpg",
           "filename": "Sierrand op Mariaklok in de Sint-Lambertuskerk te Gemonde.tif",
           "caption": "Sierrand op de Mariaklok uit 1390 in de Sint-Lambertuskerk te Gemonde",
           "alt": "Sierrand op de Mariaklok uit 1390 in de Sint-Lambertuskerk te Gemonde",
@@ -230,7 +245,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sierrand_op_Mariaklok_in_de_Sint-Lambertuskerk_te_Gemonde.tif",
           "sourceType": "commons-category",
           "sourceArticleId": "kamp-sint-michielsgestel-wp",
-          "sourceGeohash4": "u15v"
+          "sourceGeohash4": "u15v",
+          "mediumPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/sierrand-op-mariaklok-in-de-si-medium.webp",
+          "smallPath": "_m/u/1/5/v/kamp-sint-michielsgestel-wp/sierrand-op-mariaklok-in-de-si-small.webp"
         },
         {
           "path": "_m/u/1/5/y/s-hertogenbosch-wp/demoriaandenboschnl.jpg",
@@ -256,7 +273,9 @@
             "Self-published work",
             "Taken with HP PhotoSmart M417",
             "User-created GFDL images"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/y/s-hertogenbosch-wp/demoriaandenboschnl-medium.webp",
+          "smallPath": "_m/u/1/5/y/s-hertogenbosch-wp/demoriaandenboschnl-small.webp"
         },
         {
           "path": "_m/u/0/g/r/southern-netherlands-wp/binnendieze-s-hertogenbosch.jpg",
@@ -278,7 +297,9 @@
             "Photographs by User:Tukka",
             "Self-published work",
             "Vughterstroom"
-          ]
+          ],
+          "mediumPath": "_m/u/0/g/r/southern-netherlands-wp/binnendieze-s-hertogenbosch-medium.webp",
+          "smallPath": "_m/u/0/g/r/southern-netherlands-wp/binnendieze-s-hertogenbosch-small.webp"
         },
         {
           "path": "_m/u/1/5/y/s-hertogenbosch-wp/den-bosch-paleiskwartier-armad.jpg",
@@ -307,7 +328,9 @@
             "Taken with Canon EOS 400D",
             "Water reflections of buildings in the Netherlands",
             "Water reflections of structures"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/y/s-hertogenbosch-wp/den-bosch-paleiskwartier-armad-medium.webp",
+          "smallPath": "_m/u/1/5/y/s-hertogenbosch-wp/den-bosch-paleiskwartier-armad-small.webp"
         },
         {
           "path": "_m/u/1/5/y/s-hertogenbosch-wp/s-hertogenbosch-rijksmonument-.jpg",
@@ -332,7 +355,9 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Sony DSC-HX5V"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/y/s-hertogenbosch-wp/s-hertogenbosch-rijksmonument--medium.webp",
+          "smallPath": "_m/u/1/5/y/s-hertogenbosch-wp/s-hertogenbosch-rijksmonument--small.webp"
         },
         {
           "path": "_m/u/1/5/y/s-hertogenbosch-wp/s-hertogenbosch-rijksmonument-.jpg",
@@ -358,7 +383,9 @@
             "Rijksmonumenten with known IDs",
             "Self-published work",
             "Taken with Sony DSC-HX5V"
-          ]
+          ],
+          "mediumPath": "_m/u/1/5/y/s-hertogenbosch-wp/s-hertogenbosch-rijksmonument--medium.webp",
+          "smallPath": "_m/u/1/5/y/s-hertogenbosch-wp/s-hertogenbosch-rijksmonument--small.webp"
         },
         {
           "path": "_m/u/1/5/y/s-hertogenbosch-wp/citadel-02.jpg",
@@ -382,7 +409,8 @@
             "Images from Wiki Loves Monuments 2011 in the Netherlands",
             "Netherlands photographs taken on 2008-10-07",
             "Rijksmonumenten with known IDs"
-          ]
+          ],
+          "smallPath": "_m/u/1/5/y/s-hertogenbosch-wp/citadel-02-small.webp"
         },
         {
           "path": "_m/u/1/5/y/s-hertogenbosch-wp/hoofdkantoor-essent.jpg",
@@ -397,7 +425,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hoofdkantoor_Essent.jpg",
           "sourceType": "poi",
           "sourceArticleId": "s-hertogenbosch-wp",
-          "sourceGeohash4": "u15y"
+          "sourceGeohash4": "u15y",
+          "mediumPath": "_m/u/1/5/y/s-hertogenbosch-wp/hoofdkantoor-essent-medium.webp",
+          "smallPath": "_m/u/1/5/y/s-hertogenbosch-wp/hoofdkantoor-essent-small.webp"
         },
         {
           "path": "_m/u/1/5/y/s-hertogenbosch-wp/brabanthallen-hoofdgebouw.jpg",
@@ -412,7 +442,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brabanthallen_hoofdgebouw.jpg",
           "sourceType": "poi",
           "sourceArticleId": "s-hertogenbosch-wp",
-          "sourceGeohash4": "u15y"
+          "sourceGeohash4": "u15y",
+          "mediumPath": "_m/u/1/5/y/s-hertogenbosch-wp/brabanthallen-hoofdgebouw-medium.webp",
+          "smallPath": "_m/u/1/5/y/s-hertogenbosch-wp/brabanthallen-hoofdgebouw-small.webp"
         },
         {
           "path": "_m/u/1/5/y/s-hertogenbosch-wp/juli-2012-den-bosch-049.jpg",
@@ -427,7 +459,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Juli_2012_Den_Bosch_049.JPG",
           "sourceType": "poi",
           "sourceArticleId": "s-hertogenbosch-wp",
-          "sourceGeohash4": "u15y"
+          "sourceGeohash4": "u15y",
+          "mediumPath": "_m/u/1/5/y/s-hertogenbosch-wp/juli-2012-den-bosch-049-medium.webp",
+          "smallPath": "_m/u/1/5/y/s-hertogenbosch-wp/juli-2012-den-bosch-049-small.webp"
         },
         {
           "path": "_m/u/1/5/y/s-hertogenbosch-wp/juli-2012-den-bosch-086.jpg",
@@ -442,7 +476,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Juli_2012_Den_Bosch_086.JPG",
           "sourceType": "poi",
           "sourceArticleId": "s-hertogenbosch-wp",
-          "sourceGeohash4": "u15y"
+          "sourceGeohash4": "u15y",
+          "mediumPath": "_m/u/1/5/y/s-hertogenbosch-wp/juli-2012-den-bosch-086-medium.webp",
+          "smallPath": "_m/u/1/5/y/s-hertogenbosch-wp/juli-2012-den-bosch-086-small.webp"
         },
         {
           "path": "_m/u/1/5/y/s-hertogenbosch-wp/interieur-overzicht-vanaf-orge.jpg",
@@ -457,7 +493,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interieur,_overzicht_vanaf_orgelgalerij_-_%27s-Hertogenbosch_-_20534553_-_RCE.jpg",
           "sourceType": "poi",
           "sourceArticleId": "s-hertogenbosch-wp",
-          "sourceGeohash4": "u15y"
+          "sourceGeohash4": "u15y",
+          "mediumPath": "_m/u/1/5/y/s-hertogenbosch-wp/interieur-overzicht-vanaf-orge-medium.webp",
+          "smallPath": "_m/u/1/5/y/s-hertogenbosch-wp/interieur-overzicht-vanaf-orge-small.webp"
         },
         {
           "path": "_m/u/1/5/y/s-hertogenbosch-wp/bossche-bol-in-the-netherlands.jpg",
@@ -472,7 +510,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bossche_bol_in_the_Netherlands.jpg",
           "sourceType": "poi",
           "sourceArticleId": "s-hertogenbosch-wp",
-          "sourceGeohash4": "u15y"
+          "sourceGeohash4": "u15y",
+          "mediumPath": "_m/u/1/5/y/s-hertogenbosch-wp/bossche-bol-in-the-netherlands-medium.webp",
+          "smallPath": "_m/u/1/5/y/s-hertogenbosch-wp/bossche-bol-in-the-netherlands-small.webp"
         },
         {
           "path": "_m/u/1/5/y/s-hertogenbosch-wp/a2-en-pettelaarpark-gezien-van.jpg",
@@ -487,7 +527,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A2_en_Pettelaarpark_gezien_vanaf_de_bovenste_verdieping_van_het_Provinciehuis_Noord-Brabant.jpg",
           "sourceType": "poi",
           "sourceArticleId": "s-hertogenbosch-wp",
-          "sourceGeohash4": "u15y"
+          "sourceGeohash4": "u15y",
+          "mediumPath": "_m/u/1/5/y/s-hertogenbosch-wp/a2-en-pettelaarpark-gezien-van-medium.webp",
+          "smallPath": "_m/u/1/5/y/s-hertogenbosch-wp/a2-en-pettelaarpark-gezien-van-small.webp"
         },
         {
           "path": "_m/u/1/5/y/s-hertogenbosch-wp/exterieur-noordbrabants-museum.jpg",
@@ -502,7 +544,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exterieur_Noordbrabants_Museum_DSCF6321.JPG",
           "sourceType": "poi",
           "sourceArticleId": "s-hertogenbosch-wp",
-          "sourceGeohash4": "u15y"
+          "sourceGeohash4": "u15y",
+          "mediumPath": "_m/u/1/5/y/s-hertogenbosch-wp/exterieur-noordbrabants-museum-medium.webp",
+          "smallPath": "_m/u/1/5/y/s-hertogenbosch-wp/exterieur-noordbrabants-museum-small.webp"
         }
       ],
       "narration": [

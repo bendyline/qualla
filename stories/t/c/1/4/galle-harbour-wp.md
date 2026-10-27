@@ -33,7 +33,7 @@ Galle Harbour is located at 6.036N, 80.215E, a natural bay on the southwest coas
 ## Sources
 
 - [Galle Harbour - Wikipedia](https://en.wikipedia.org/?curid=44207434)
-- [Galle Harbour - Wikipedia verification](https://en.wikipedia.org/wiki/Galle_Harbour)
+- [Galle Harbour - Wikipedia verification](https://en.wikipedia.org/?curid=44207434)
   - Colombo breakwaters built 1873, shifting international maritime traffic north
   - More than 21 documented shipwreck sites in Galle Bay
   - Avondster sank 1659, Hercules 1661, Dolfijn 1663, Barbesteijn 1735, Geinwens 1776 confirmed

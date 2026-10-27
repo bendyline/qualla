@@ -32,7 +32,7 @@ Pleasonton claimed 400 prisoners and reported finding 40 Confederate dead on the
 
 ## Flight Context
 
-Located at 39.086°N, 94.441°W in Independence, Missouri. The battlefield has been entirely built over by urban development and is not distinguishable from the air. The fighting ranged from the Little Blue River crossing in the east through the streets of downtown Independence to positions southwest of town toward the Big Blue River. Kansas City International (KMCI) is approximately 30 miles northwest. Lee's Summit Municipal Airport (KLXT) is roughly 10 miles south. Charles B. Wheeler Downtown Airport (KMKC) is about 12 miles west. The Temple Lot in downtown Independence and the historic courthouse square are the most identifiable landmarks from lower altitudes. The Big Blue River corridor to the west and the Little Blue River to the east provide natural reference points from 3,000-5,000 feet.
+Located at 39.086°N, 94.441°W in Independence, Missouri. The battlefield has been entirely built over by urban development and is not distinguishable from the air. The fighting ranged from the Little Blue River crossing in the east through the streets of downtown Independence to positions southwest of town toward the Big Blue River. Kansas City International (KMCI) is approximately 30 miles northwest. Kansas City - Lee's Summit Regional Airport (KLXT, formerly Lee's Summit Municipal) is roughly 10 miles south. Charles B. Wheeler Downtown Airport (KMKC) is about 12 miles west. The Temple Lot in downtown Independence and the historic courthouse square are the most identifiable landmarks from lower altitudes. The Big Blue River corridor to the west and the Little Blue River to the east provide natural reference points from 3,000-5,000 feet.
 
 ## Sources
 

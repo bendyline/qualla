@@ -3,25 +3,27 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/d/b/edward-pakenham-wp/hero.jpg",
-        "filename": "Pakenham & Gibbs memorial.jpg",
-        "caption": "Marble memorial statues of Major General Edward Pakenham, 1778-1815, &amp; Major General Samuel Gibbs, d. 1815, St Paul's Cathedral, London by Richard Westmacott",
-        "alt": "Marble memorial statues of Major General Edward Pakenham, 1778-1815, &amp; Major General Samuel Gibbs, d. 1815, St Paul's Cathedral, London by Richard Westmacott",
-        "width": 2961,
-        "height": 4668,
+        "path": "_m/g/c/d/b/edward-pakenham-wp/correct-view-battle-ne.jpg",
+        "filename": "Correct View of the Battle Near the City of New Orleans.jpg",
+        "caption": "A Correct view of the battle near the city of New Orleans ... / Francisco Scachi.\nEarly published engraving of the battle at Chalmette, Louisiana, 1815.\n\nPrint shows a battlefield scene. In the foreground, critically wounded British General Edward Pakenham is held by his officers. A cameo portrait of Andrew Jackson is below the image along with text describing the battle.",
+        "alt": "A Correct view of the battle near the city of New Orleans ... / Francisco Scachi.\nEarly published engraving of the battle at Chalmette, Louisiana, 1815.\n\nPrint shows a battlefield scene. In the foreground, critically wounded British General Edward Pakenham is held by his officers. A cameo portrait of Andrew Jackson is below the image along with text describing the battle.",
+        "width": 1514,
+        "height": 1092,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "14GTR",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pakenham_%26_Gibbs_memorial.jpg",
+        "license": "Public domain",
+        "artist": "Francisco Scachi",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Correct_View_of_the_Battle_Near_the_City_of_New_Orleans.jpg",
         "sourceType": "core",
         "sourceArticleId": "edward-pakenham-wp",
         "sourceGeohash4": "gcdb",
         "categories": [
-          "CC-BY-SA-4.0",
-          "Pakenham and Gibbs memorial, St Paul's Cathedral",
-          "Self-published work",
-          "St. Paul's Cathedral photographs by 14GTR"
-        ]
+          "1810s engravings",
+          "CC-PD-Mark",
+          "Edward Pakenham at the Battle of New Orleans",
+          "PD-old missing SDC copyright status",
+          "PD Old"
+        ],
+        "smallPath": "_m/g/c/d/b/edward-pakenham-wp/correct-view-battle-ne-small.webp"
       },
       "images": [
         {
@@ -94,7 +96,9 @@
             "River Shannon in Athlone",
             "Self-published work",
             "Taken with Sony DSC-S60"
-          ]
+          ],
+          "mediumPath": "_m/g/c/d/1/county-roscommon-wp/athlone-ireland-and-river-shan-medium.webp",
+          "smallPath": "_m/g/c/d/1/county-roscommon-wp/athlone-ireland-and-river-shan-small.webp"
         },
         {
           "path": "_m/g/c/d/8/county-westmeath-wp/christ-le-roi-mullingar.jpg",
@@ -118,7 +122,9 @@
             "May 2007 Ireland photographs",
             "Mullingar Cathedral",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/d/8/county-westmeath-wp/christ-le-roi-mullingar-medium.webp",
+          "smallPath": "_m/g/c/d/8/county-westmeath-wp/christ-le-roi-mullingar-small.webp"
         },
         {
           "path": "_m/g/c/d/8/county-westmeath-wp/multyfarnhamabbey4394c.jpg",
@@ -143,7 +149,9 @@
             "Pictures by Sarah777",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/d/8/county-westmeath-wp/multyfarnhamabbey4394c-medium.webp",
+          "smallPath": "_m/g/c/d/8/county-westmeath-wp/multyfarnhamabbey4394c-small.webp"
         },
         {
           "path": "_m/g/c/d/8/county-westmeath-wp/ireland-location-westmeath.jpg",
@@ -163,7 +171,8 @@
             "Locator maps of counties of Ireland",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/d/8/county-westmeath-wp/ireland-location-westmeath-small.webp"
         }
       ],
       "narration": [

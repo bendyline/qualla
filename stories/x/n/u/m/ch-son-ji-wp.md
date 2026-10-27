@@ -32,10 +32,10 @@ Located at 39.00N, 141.10E in the town of Hiraizumi, southern Iwate Prefecture. 
 
 ## Sources
 
-- [Chūson-ji](https://en.wikipedia.org/wiki/Ch%C5%ABson-ji)
+- [Chūson-ji](https://en.wikipedia.org/?curid=11537952)
 - A History of Japan to 1334
 - 中尊寺境内
-- [Chūson-ji - Wikipedia](https://en.wikipedia.org/wiki/Ch%C5%ABson-ji)
+- [Chūson-ji - Wikipedia](https://en.wikipedia.org/?curid=11537952)
   - Konjiki-do completed in 1124 confirmed
   - Konjiki-do first structure designated National Treasure of Japan confirmed
   - Hall dimensions: five-and-a-half meters on each side confirmed

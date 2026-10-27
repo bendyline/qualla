@@ -44,7 +44,7 @@ Located at 42.38°N, 83.10°W on Detroit's Near West Side. The riot's epicenter 
   - Property damage $40-45 million
   - 173,000 white residents left 1967-1969
   - Detroit Free Press won 1968 Pulitzer Prize
-- [1967 Detroit riot - Wikipedia](https://en.wikipedia.org/wiki/1967_Detroit_riot)
+- [1967 Detroit riot - Wikipedia](https://en.wikipedia.org/?curid=319973)
   - Raid time 3:45am July 23 1967 confirmed
   - 85 people found at blind pig celebrating return of two Vietnam soldiers confirmed
   - 43 dead confirmed

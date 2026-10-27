@@ -32,7 +32,7 @@ Since 1977, the Orpheum has served as the Mid-South home of touring Broadway pro
 
 ## Flight Context
 
-The Orpheum Theatre is located at 35.140N, 90.055W at the corner of South Main and Beale streets in downtown Memphis. The vertical Orpheum sign and theater marquee are distinctive landmarks visible from low altitude. Nearby airports include Memphis International (KMEM) about 8 miles south. The theater sits at the heart of the Beale Street entertainment district. Best viewed at 2,000-3,000 feet AGL.
+The Orpheum Theatre is located at 35.140N, 90.055W at the corner of South Main and Beale streets in downtown Memphis. The vertical Orpheum sign and theater marquee are distinctive landmarks visible from low altitude. Nearby airports include Frederick W. Smith International Airport (KMEM, formerly Memphis International) about 8 miles south. The theater sits at the heart of the Beale Street entertainment district. Best viewed at 2,000-3,000 feet AGL.
 
 ## Sources
 

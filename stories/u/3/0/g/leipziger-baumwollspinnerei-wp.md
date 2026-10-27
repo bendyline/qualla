@@ -36,7 +36,7 @@ The site sits at 51.327 N, 12.319 E in Lindenau, western Leipzig, Saxony, at rou
 
 ## Sources
 
-- [Leipziger Baumwollspinnerei - Wikipedia](https://en.wikipedia.org/wiki/Leipziger_Baumwollspinnerei)
+- [Leipziger Baumwollspinnerei - Wikipedia](https://en.wikipedia.org/?curid=28277883)
 - [Leipziger Baumwollspinnerei - Wikipedia (DE)](https://de.wikipedia.org/wiki/Leipziger_Baumwollspinnerei)
   - Founded 1884; largest cotton spinning mill in continental Europe within a quarter century (confirmed)
   - Peak 1907: about 240,000 spindles across roughly 100,000 sq m (confirmed)

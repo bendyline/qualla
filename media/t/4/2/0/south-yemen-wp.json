@@ -3,30 +3,25 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/t/4/2/0/south-yemen-wp/hero.jpg",
-        "filename": "Jemen1988-022 hg.jpg",
-        "caption": "Yemen",
-        "alt": "Yemen",
-        "width": 3833,
-        "height": 1835,
+        "path": "_m/t/4/2/0/south-yemen-wp/left-banner-long-live.jpg",
+        "filename": "PDRY-DPRK.jpg",
+        "caption": "Left banner: \"Long live Comrade Kim Il-Sung, Great leader of the Korean People!\"\nRight banner: \"Long live Comrade Salim Rubaya Ali, leader of the Great &amp; Eternal October 14 Revolution!\"",
+        "alt": "Left banner: \"Long live Comrade Kim Il-Sung, Great leader of the Korean People!\"\nRight banner: \"Long live Comrade Salim Rubaya Ali, leader of the Great &amp; Eternal October 14 Revolution!\"",
+        "width": 4096,
+        "height": 3072,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "H. Grobe",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jemen1988-022_hg.jpg",
+        "license": "Public domain",
+        "artist": "Unknown author",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PDRY-DPRK.jpg",
         "sourceType": "core",
         "sourceArticleId": "south-yemen-wp",
         "sourceGeohash4": "t420",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Historical Dam of Ma'rib",
-          "Landmarks of the Kingdom of Saba (Marib)",
-          "Old Ma'rib in 1988",
-          "Sabaeans"
-        ]
+        "mediumPath": "_m/t/4/2/0/south-yemen-wp/left-banner-long-live-medium.webp",
+        "smallPath": "_m/t/4/2/0/south-yemen-wp/left-banner-long-live-small.webp"
       },
       "images": [
         {
-          "path": "_m/t/4/2/0/south-yemen-wp/sultan-al-kathiri-palace-seiyu.jpg",
+          "path": "_m/tpc/_ho/ye/me/n_/history-of-yemen/sultan-al-kathiri-palace-seiyu.jpg",
           "filename": "Sultan Al Kathiri Palace, Seiyun (2286710698).jpg",
           "caption": "Sultan Al Kathiri Palace, Seiyun",
           "alt": "Sultan Al Kathiri Palace, Seiyun",
@@ -44,7 +39,9 @@
             "Files with coordinates missing SDC location of creation",
             "Flickr images reviewed by FlickreviewR 2",
             "Kathiri Palace"
-          ]
+          ],
+          "mediumPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/sultan-al-kathiri-palace-seiyu-medium.webp",
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/sultan-al-kathiri-palace-seiyu-small.webp"
         },
         {
           "path": "_m/t/4/2/0/south-yemen-wp/left-banner-long-live.jpg",
@@ -200,7 +197,8 @@
             "People of Yemen on stamps",
             "Towers on stamps",
             "UK Government artistic works"
-          ]
+          ],
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/stamp-aden-kathiri-seiyun-1942-small.webp"
         },
         {
           "path": "_m/t/4/f/0/yemen-wk/slaves-zadib-yemen-13t.jpg",
@@ -230,7 +228,8 @@
             "Sharia",
             "Slavery in Islam",
             "Slavery in Yemen"
-          ]
+          ],
+          "smallPath": "_m/t/4/f/0/yemen-wk/slaves-zadib-yemen-13t-small.webp"
         },
         {
           "path": "_m/t/4/f/0/yemen-wk/view-mocha-yemen-part.jpg",
@@ -253,7 +252,8 @@
             "Gaspar Bouttats",
             "Mocha",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "smallPath": "_m/t/4/f/0/yemen-wk/view-mocha-yemen-part-small.webp"
         },
         {
           "path": "_m/t/4/f/0/yemen-wk/yem5.jpg",
@@ -277,7 +277,8 @@
             "Saint Joseph churches",
             "Self-published work",
             "Taken with Fujifilm FinePix F401"
-          ]
+          ],
+          "smallPath": "_m/t/4/f/0/yemen-wk/yem5-small.webp"
         },
         {
           "path": "_m/g/c/p/v/british-museum-wp/stela-said-come-tamma.jpg",
@@ -301,7 +302,8 @@
             "License migration redundant",
             "Room 53, British Museum",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/british-museum-wp/stela-said-come-tamma-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ye/me/n_/history-of-yemen/panel-almaqah-louvre-dao18.jpg",
@@ -320,7 +322,9 @@
           "categories": [
             "Artworks with known accession number",
             "Artworks without Wikidata item"
-          ]
+          ],
+          "mediumPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/panel-almaqah-louvre-dao18-medium.webp",
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/panel-almaqah-louvre-dao18-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ye/me/n_/history-of-yemen/abdullah-sallal.jpg",
@@ -335,7 +339,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abdullah_Sallal.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-yemen",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/abdullah-sallal-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ye/me/n_/history-of-yemen/cairo-castle-gardentaiz-yemen.jpg",
@@ -350,7 +355,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo_Castle_GardenTaiz,Yemen.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-yemen",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/cairo-castle-gardentaiz-yemen-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ye/me/n_/history-of-yemen/jibla-img-5662.jpg",
@@ -365,7 +371,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jibla_IMG_5662.JPG",
           "sourceType": "history",
           "sourceArticleId": "history-of-yemen",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/jibla-img-5662-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ye/me/n_/history-of-yemen/aden-1953-35c.jpg",
@@ -380,7 +387,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aden_1953-35c.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-yemen",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/aden-1953-35c-small.webp"
         },
         {
           "path": "_m/t/4/f/0/yemen-wk/dar-al-hajar-mansion-b.jpg",
@@ -395,7 +403,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dar_al_hajar.jpg",
           "sourceType": "history",
           "sourceArticleId": "yemen-wk",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "smallPath": "_m/t/4/f/0/yemen-wk/dar-al-hajar-mansion-b-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ye/me/n_/history-of-yemen/yemen-protest.jpg",
@@ -410,7 +419,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yemen_protest.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-yemen",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/yemen-protest-small.webp"
         },
         {
           "path": "_m/t/4/f/0/yemen-wk/yemen-1.jpg",
@@ -425,7 +435,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jemen1988-153_hg.jpg",
           "sourceType": "history",
           "sourceArticleId": "yemen-wk",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "mediumPath": "_m/t/4/f/0/yemen-wk/yemen-1-medium.webp",
+          "smallPath": "_m/t/4/f/0/yemen-wk/yemen-1-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ye/me/n_/history-of-yemen/british-museum-yemen-05.jpg",
@@ -440,7 +452,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Museum_Yemen_05.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-yemen",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/british-museum-yemen-05-small.webp"
         },
         {
           "path": "_m/t/4/f/0/yemen-wk/bronze-statue-dhamar-a.jpg",
@@ -455,7 +468,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dhamar_Ali_Yahbur_(bust).jpg",
           "sourceType": "history",
           "sourceArticleId": "yemen-wk",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "smallPath": "_m/t/4/f/0/yemen-wk/bronze-statue-dhamar-a-small.webp"
         },
         {
           "path": "_m/t/4/f/0/yemen-wk/another-view-interior.jpg",
@@ -470,7 +484,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Sana%27a1.jpg",
           "sourceType": "history",
           "sourceArticleId": "yemen-wk",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "mediumPath": "_m/t/4/f/0/yemen-wk/another-view-interior-medium.webp",
+          "smallPath": "_m/t/4/f/0/yemen-wk/another-view-interior-small.webp"
         },
         {
           "path": "_m/t/4/f/0/yemen-wk/another-side-view-thul.jpg",
@@ -485,7 +501,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thula_fortification2.jpg",
           "sourceType": "history",
           "sourceArticleId": "yemen-wk",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "smallPath": "_m/t/4/f/0/yemen-wk/another-side-view-thul-small.webp"
         },
         {
           "path": "_m/t/4/f/0/yemen-wk/queen-arwa-al-sulaihi.jpg",
@@ -500,7 +517,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Arwa_al-_Sulaihi_Palace_1.jpg",
           "sourceType": "history",
           "sourceArticleId": "yemen-wk",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "mediumPath": "_m/t/4/f/0/yemen-wk/queen-arwa-al-sulaihi-medium.webp",
+          "smallPath": "_m/t/4/f/0/yemen-wk/queen-arwa-al-sulaihi-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ye/me/n_/history-of-yemen/tahiride-dynasty-yemen.jpg",
@@ -515,7 +534,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tahiride_Dynasty_yemen.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-yemen",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/tahiride-dynasty-yemen-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ye/me/n_/history-of-yemen/rasulid-1264.jpg",
@@ -530,7 +550,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rasulid_1264.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-yemen",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/rasulid-1264-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ye/me/n_/history-of-yemen/zaydi-state-1675.jpg",
@@ -545,7 +566,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zaydi_State_1675.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-yemen",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/zaydi-state-1675-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ye/me/n_/history-of-yemen/yemen-1160-ad.jpg",
@@ -560,7 +582,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yemen_1160_AD.jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-yemen",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/yemen-1160-ad-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ye/me/n_/history-of-yemen/himyarite-kingdom.png",
@@ -575,7 +598,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Himyarite_Kingdom.png",
           "sourceType": "history",
           "sourceArticleId": "history-of-yemen",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "mediumPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/himyarite-kingdom-medium.webp",
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/himyarite-kingdom-small.webp"
         },
         {
           "path": "_m/s/n/x/1/ottoman-tunisia-wp/projection-orthogonale.png",
@@ -590,7 +615,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ottoman_1566_(orthographic_projection).png",
           "sourceType": "history",
           "sourceArticleId": "ottoman-tunisia-wp",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "mediumPath": "_m/s/n/x/1/ottoman-tunisia-wp/projection-orthogonale-medium.webp",
+          "smallPath": "_m/s/n/x/1/ottoman-tunisia-wp/projection-orthogonale-small.webp"
         },
         {
           "path": "_m/tpc/_ho/ye/me/n_/history-of-yemen/maqama-37-abu-zaif-before-the-.jpg",
@@ -605,7 +632,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maqama_37_Abu_Zaif_before_the_Qadi_of_Saa%27da,_Yemen_(Qadi_detail).jpg",
           "sourceType": "history",
           "sourceArticleId": "history-of-yemen",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "smallPath": "_m/tpc/_ho/ye/me/n_/history-of-yemen/maqama-37-abu-zaif-before-the--small.webp"
         },
         {
           "path": "_m/s/n/x/1/ottoman-tunisia-wp/les-frontieres-de-l-em.png",
@@ -620,7 +648,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ottoman_1900_(orthographic_projection).png",
           "sourceType": "history",
           "sourceArticleId": "ottoman-tunisia-wp",
-          "sourceGeohash4": "t420"
+          "sourceGeohash4": "t420",
+          "mediumPath": "_m/s/n/x/1/ottoman-tunisia-wp/les-frontieres-de-l-em-medium.webp",
+          "smallPath": "_m/s/n/x/1/ottoman-tunisia-wp/les-frontieres-de-l-em-small.webp"
         },
         {
           "path": "_m/t/4/2/0/aden-wk/hero.jpg",
@@ -643,7 +673,9 @@
             "Self-published work",
             "Streets in Aden",
             "Uploaded with en.wp upload wizard"
-          ]
+          ],
+          "mediumPath": "_m/t/4/2/0/aden-wk/hero-medium.webp",
+          "smallPath": "_m/t/4/2/0/aden-wk/hero-small.webp"
         },
         {
           "path": "_m/t/4/2/0/aden-wk/gallery-1.jpg",
@@ -663,7 +695,8 @@
             "PD-Yemen",
             "PD-old missing SDC copyright status",
             "St. Francis of Assisi Church, Aden"
-          ]
+          ],
+          "smallPath": "_m/t/4/2/0/aden-wk/gallery-1-small.webp"
         },
         {
           "path": "_m/t/4/2/0/aden-wk/aidarous-mosque-aden.jpg",
@@ -684,14 +717,16 @@
             "CC-BY-SA-4.0",
             "Deutsch-Jemenitische Gesellschaft",
             "Mosques in Aden"
-          ]
+          ],
+          "mediumPath": "_m/t/4/2/0/aden-wk/aidarous-mosque-aden-medium.webp",
+          "smallPath": "_m/t/4/2/0/aden-wk/aidarous-mosque-aden-small.webp"
         }
       ],
       "videos": [
         {
-          "path": "_m/t/4/2/0/south-yemen-wp/.mp4",
-          "posterPath": "_m/t/4/2/0/south-yemen-wp/-poster.jpg",
-          "audioPath": "_m/t/4/2/0/south-yemen-wp/-audio.mp3",
+          "path": "_m/t/4/2/0/south-yemen-wp/video-c994bd6e.mp4",
+          "posterPath": "_m/t/4/2/0/south-yemen-wp/video-c994bd6e-poster.jpg",
+          "audioPath": "_m/t/4/2/0/south-yemen-wp/video-c994bd6e-audio.mp3",
           "filename": "برع يا استعمار.webm",
           "caption": "Scenes of celebrations in Aden folloing the independence of South Yemen",
           "width": 960,

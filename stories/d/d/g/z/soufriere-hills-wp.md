@@ -33,7 +33,7 @@ Located at 16.72°N, 62.18°W in the southern half of Montserrat, Leeward Island
 ## Sources
 
 - [Soufrière Hills - Wikipedia](https://en.wikipedia.org/?curid=986670)
-- [Soufrière Hills - Wikipedia](https://en.wikipedia.org/wiki/Soufri%C3%A8re_Hills)
+- [Soufrière Hills - Wikipedia](https://en.wikipedia.org/?curid=986670)
   - First phreatic explosions 18 July 1995 confirmed
   - 19 people killed 25 June 1997 confirmed
   - W.H. Bramble Airport destroyed confirmed

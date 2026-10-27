@@ -47,7 +47,7 @@ Located at 32.461°N, 86.472°W in Prattville, Alabama, about 12 miles northwest
   - Met Samuel Griswold in Georgia
   - Purchased 1822 acres in Autauga County
   - Diversified into sawmills, foundry, railroad
-- [Daniel Pratt Historic District - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Pratt_Historic_District)
+- [Daniel Pratt Historic District - Wikipedia](https://en.wikipedia.org/?curid=25950301)
   - National Register listing August 30 1984 confirmed
   - 15-block district with over 200 structures confirmed
   - District includes structures from 1836-1930

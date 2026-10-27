@@ -3,28 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/d/q/b/x/bolivar-heights-battlefield-wp/hero.jpg",
-        "filename": "Cannon at Bolivar Heights Battlefield, WV IMG 4689.JPG",
-        "caption": "I took photo with Canon camera at Bolivar Heights Battlefield in Harpers Ferry, WV.",
-        "alt": "I took photo with Canon camera at Bolivar Heights Battlefield in Harpers Ferry, WV.",
-        "width": 4320,
-        "height": 3240,
+        "path": "_m/d/q/b/x/bolivar-heights-battlefield-wp/bolivar-heights-wv1.jpg",
+        "filename": "Bolivar Heights WV1.jpg",
+        "caption": "Batteries on Bolivar Heights, Harpers Ferry National Historical Park, Bolivar, West Virginia, USA",
+        "alt": "Batteries on Bolivar Heights, Harpers Ferry National Historical Park, Bolivar, West Virginia, USA",
+        "width": 5472,
+        "height": 3264,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Billy Hathorn",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cannon_at_Bolivar_Heights_Battlefield,_WV_IMG_4689.JPG",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Acroterion",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bolivar_Heights_WV1.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "bolivar-heights-battlefield-wp",
         "sourceGeohash4": "dqbx",
         "categories": [
-          "Battle of Harpers Ferry",
           "Bolivar Heights Battlefield",
-          "CC-BY-SA-3.0",
+          "CC-BY-SA-4.0",
+          "Files with coordinates missing SDC location of creation",
           "GFDL",
+          "Images from Wiki Loves Monuments 2020",
+          "Images from Wiki Loves Monuments 2020 in West Virginia",
+          "Images from Wiki Loves Monuments 2020 in the United States",
+          "Images from Wiki Loves Monuments missing SDC location of creation",
           "License migration redundant",
-          "Self-published work",
-          "Taken with Canon Digital IXUS 130"
-        ]
+          "October 2020 in West Virginia"
+        ],
+        "mediumPath": "_m/d/q/b/x/bolivar-heights-battlefield-wp/bolivar-heights-wv1-medium.webp",
+        "smallPath": "_m/d/q/b/x/bolivar-heights-battlefield-wp/bolivar-heights-wv1-small.webp"
       },
       "images": [
         {
@@ -106,7 +111,7 @@
           "smallPath": "_m/d/q/b/x/bolivar-heights-battlefield-wp/bolivar-heights-sign-small.webp"
         },
         {
-          "path": "_m/d/q/b/x/bolivar-heights-battlefield-wp/cannons-21117124212.jpg",
+          "path": "_m/d/q/b/x/battle-of-harpers-ferry-wp/cannons-21117124212.jpg",
           "filename": "Cannons (21117124212).jpg",
           "caption": "3-inch Ordnance rifles near Harper's Ferry, West Virginia.",
           "alt": "3-inch Ordnance rifles near Harper's Ferry, West Virginia.",
@@ -128,7 +133,8 @@
             "Cannons in the United States",
             "Files with coordinates missing SDC location of creation",
             "Flickr images reviewed by FlickreviewR"
-          ]
+          ],
+          "smallPath": "_m/d/q/b/x/battle-of-harpers-ferry-wp/cannons-21117124212-small.webp"
         },
         {
           "path": "_m/d/q/b/x/bolivar-heights-battlefield-wp/boom-check-out-this-color-on-b.jpg",
@@ -154,7 +160,7 @@
           "smallPath": "_m/d/q/b/x/bolivar-heights-battlefield-wp/boom-check-out-this-color-on-b-small.webp"
         },
         {
-          "path": "_m/d/q/b/x/bolivar-heights-battlefield-wp/map-battlefield-core-s.jpg",
+          "path": "_m/d/q/b/x/battle-of-harpers-ferry-wp/map-battlefield-core-s.jpg",
           "filename": "Harpers Ferry Battlefield West Virginia.jpg",
           "caption": "Map of battlefield core and study areas.\nThe Core Area was expanded to include more of Maryland Heights (to take in the first line of Federal defense and engagement with Brig. Gen. Samuel Kershaw’s South Carolina brigade), the western slopes of Schoolhouse Ridge, and the area around Millville. \n\nThe Study Area was enlarged to include all national park lands related to the battle (excising only Short Hill) and to include the expanded portions of the Core Area.",
           "alt": "Map of battlefield core and study areas.\nThe Core Area was expanded to include more of Maryland Heights (to take in the first line of Federal defense and engagement with Brig. Gen. Samuel Kershaw’s South Carolina brigade), the western slopes of Schoolhouse Ridge, and the area around Millville. \n\nThe Study Area was enlarged to include all national park lands related to the battle (excising only Short Hill) and to include the expanded portions of the Core Area.",
@@ -174,7 +180,8 @@
             "Maps of Jefferson County, West Virginia",
             "Maps of the American Battlefield Protection Program West Virginia",
             "PD US Government"
-          ]
+          ],
+          "smallPath": "_m/d/q/b/x/battle-of-harpers-ferry-wp/map-battlefield-core-s-small.webp"
         },
         {
           "path": "_m/d/q/b/x/bolivar-heights-battlefield-wp/bolivar-heights-wv1.jpg",
@@ -243,7 +250,9 @@
             "Islands in the Potomac River",
             "Self-published work",
             "Taken with Nikon D40x"
-          ]
+          ],
+          "mediumPath": "_m/d/q/b/x/harpers-ferry-wk/hero-medium.webp",
+          "smallPath": "_m/d/q/b/x/harpers-ferry-wk/hero-small.webp"
         },
         {
           "path": "_m/d/q/b/x/harpers-ferry-flood-wk/hero.jpg",
@@ -268,7 +277,9 @@
             "Photographs by John Mueller",
             "Taken with Kodak EasyShare DX6490",
             "Train stations in the United States photographed in 2008"
-          ]
+          ],
+          "mediumPath": "_m/d/q/b/x/harpers-ferry-flood-wk/hero-medium.webp",
+          "smallPath": "_m/d/q/b/x/harpers-ferry-flood-wk/hero-small.webp"
         },
         {
           "path": "_m/d/r/0/8/american-civil-war-wk/kennesaw-mountain-cannon01.jpg",
@@ -294,7 +305,8 @@
             "National Register of Historic Places with known IDs",
             "Parks in Cobb County, Georgia",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/d/r/0/8/american-civil-war-wk/kennesaw-mountain-cannon01-small.webp"
         },
         {
           "path": "_m/d/r/0/8/american-civil-war-wk/antietam-bloody-lane.jpg",
@@ -317,7 +329,9 @@
             "Self-published work",
             "Taken with Sony DSC-S600",
             "Timber fences in Maryland"
-          ]
+          ],
+          "mediumPath": "_m/d/r/0/8/american-civil-war-wk/antietam-bloody-lane-medium.webp",
+          "smallPath": "_m/d/r/0/8/american-civil-war-wk/antietam-bloody-lane-small.webp"
         },
         {
           "path": "_m/d/r/0/8/american-civil-war-wk/elkhorn-tavern-confederate-app.jpg",
@@ -343,7 +357,9 @@
             "Self-published work",
             "Timber fences in Arkansas",
             "Wooden fences in Arkansas"
-          ]
+          ],
+          "mediumPath": "_m/d/r/0/8/american-civil-war-wk/elkhorn-tavern-confederate-app-medium.webp",
+          "smallPath": "_m/d/r/0/8/american-civil-war-wk/elkhorn-tavern-confederate-app-small.webp"
         },
         {
           "path": "_m/d/r/0/8/american-civil-war-wk/house-at-john-brown-s-farm.jpg",
@@ -367,7 +383,8 @@
             "John Brown Farm State Historic Site",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/d/r/0/8/american-civil-war-wk/house-at-john-brown-s-farm-small.webp"
         },
         {
           "path": "_m/d/r/0/8/american-civil-war-wk/fort-donelson-river-battery-1.jpg",
@@ -387,7 +404,8 @@
             "National Register of Historic Places with known IDs",
             "PD-user",
             "River Batteries of Fort Donelson"
-          ]
+          ],
+          "smallPath": "_m/d/r/0/8/american-civil-war-wk/fort-donelson-river-battery-1-small.webp"
         },
         {
           "path": "_m/d/j/q/4/from-st-augustine-to-hampton-roads-wk/fortsumter2009.jpg",
@@ -410,7 +428,9 @@
             "License migration redundant",
             "Remote views of Fort Sumter",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/d/j/q/4/from-st-augustine-to-hampton-roads-wk/fortsumter2009-medium.webp",
+          "smallPath": "_m/d/j/q/4/from-st-augustine-to-hampton-roads-wk/fortsumter2009-small.webp"
         },
         {
           "path": "_m/tpc/co/nf/ed/er/confederate-states-of-america/malvern-hill-civil-war-battlef.jpg",
@@ -431,7 +451,8 @@
             "Battle of Malvern Hill",
             "CC-BY-SA-2.0",
             "Cannons in Virginia"
-          ]
+          ],
+          "smallPath": "_m/tpc/co/nf/ed/er/confederate-states-of-america/malvern-hill-civil-war-battlef-small.webp"
         },
         {
           "path": "_m/d/r/0/8/american-civil-war-wk/cannon-at-manassas-va-battlefi.jpg",
@@ -446,7 +467,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cannon_at_Manassas,_VA,_Battlefield_IMG_4322.JPG",
           "sourceType": "poi",
           "sourceArticleId": "american-civil-war-wk",
-          "sourceGeohash4": "dr08"
+          "sourceGeohash4": "dr08",
+          "mediumPath": "_m/d/r/0/8/american-civil-war-wk/cannon-at-manassas-va-battlefi-medium.webp",
+          "smallPath": "_m/d/r/0/8/american-civil-war-wk/cannon-at-manassas-va-battlefi-small.webp"
         },
         {
           "path": "_m/d/r/0/8/american-civil-war-wk/best-farm-small-house-md1.jpg",
@@ -461,7 +484,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Best_Farm_small_house_MD1.jpg",
           "sourceType": "poi",
           "sourceArticleId": "american-civil-war-wk",
-          "sourceGeohash4": "dr08"
+          "sourceGeohash4": "dr08",
+          "mediumPath": "_m/d/r/0/8/american-civil-war-wk/best-farm-small-house-md1-medium.webp",
+          "smallPath": "_m/d/r/0/8/american-civil-war-wk/best-farm-small-house-md1-small.webp"
         },
         {
           "path": "_m/d/r/0/8/american-civil-war-wk/confederate-monument-at-jenkin.jpg",
@@ -476,7 +501,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CONFEDERATE_MONUMENT_AT_JENKINS_FERRY.jpg",
           "sourceType": "poi",
           "sourceArticleId": "american-civil-war-wk",
-          "sourceGeohash4": "dr08"
+          "sourceGeohash4": "dr08",
+          "mediumPath": "_m/d/r/0/8/american-civil-war-wk/confederate-monument-at-jenkin-medium.webp",
+          "smallPath": "_m/d/r/0/8/american-civil-war-wk/confederate-monument-at-jenkin-small.webp"
         },
         {
           "path": "_m/d/r/0/8/american-civil-war-wk/civil-war-gun-emplacements.jpg",
@@ -491,7 +518,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Civil_War_Gun_Emplacements.jpg",
           "sourceType": "poi",
           "sourceArticleId": "american-civil-war-wk",
-          "sourceGeohash4": "dr08"
+          "sourceGeohash4": "dr08",
+          "mediumPath": "_m/d/r/0/8/american-civil-war-wk/civil-war-gun-emplacements-medium.webp",
+          "smallPath": "_m/d/r/0/8/american-civil-war-wk/civil-war-gun-emplacements-small.webp"
         },
         {
           "path": "_m/d/r/0/9/washington-county-maryland-wp/hancock-main-street.jpg",
@@ -513,7 +542,9 @@
             "Hancock, Maryland",
             "Self-published work",
             "Taken with Canon PowerShot A80"
-          ]
+          ],
+          "mediumPath": "_m/d/r/0/9/washington-county-maryland-wp/hancock-main-street-medium.webp",
+          "smallPath": "_m/d/r/0/9/washington-county-maryland-wp/hancock-main-street-small.webp"
         },
         {
           "path": "_m/d/r/0/9/washington-county-maryland-wp/sharpsburg-clock.jpg",
@@ -543,7 +574,9 @@
             "Street clocks in Maryland",
             "Taken with Nikon Coolpix L5",
             "Time 05:23"
-          ]
+          ],
+          "mediumPath": "_m/d/r/0/9/washington-county-maryland-wp/sharpsburg-clock-medium.webp",
+          "smallPath": "_m/d/r/0/9/washington-county-maryland-wp/sharpsburg-clock-small.webp"
         },
         {
           "path": "_m/d/q/c/m/maryland-wp/hagerstown-downtown-potomac-st.jpg",
@@ -567,7 +600,9 @@
             "Roads in Hagerstown, Maryland",
             "Self-published work",
             "Traffic signals in Maryland"
-          ]
+          ],
+          "mediumPath": "_m/d/q/c/m/maryland-wp/hagerstown-downtown-potomac-st-medium.webp",
+          "smallPath": "_m/d/q/c/m/maryland-wp/hagerstown-downtown-potomac-st-small.webp"
         },
         {
           "path": "_m/d/r/0/9/washington-county-maryland-wp/downtown-boonsboro-maryland.jpg",
@@ -593,7 +628,9 @@
             "Taken with Canon EOS 400D",
             "U.S. Route 40 Alternate in Washington County, Maryland",
             "United States photographs taken on 2009-01-03"
-          ]
+          ],
+          "mediumPath": "_m/d/r/0/9/washington-county-maryland-wp/downtown-boonsboro-maryland-medium.webp",
+          "smallPath": "_m/d/r/0/9/washington-county-maryland-wp/downtown-boonsboro-maryland-small.webp"
         },
         {
           "path": "_m/d/q/c/m/maryland-wp/cumberland-basin-looking-north.jpg",
@@ -613,7 +650,9 @@
             "CC-Zero",
             "Cumberland Basin, C&O Canal",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/d/q/c/m/maryland-wp/cumberland-basin-looking-north-medium.webp",
+          "smallPath": "_m/d/q/c/m/maryland-wp/cumberland-basin-looking-north-small.webp"
         }
       ],
       "narration": [

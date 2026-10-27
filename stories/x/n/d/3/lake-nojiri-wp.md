@@ -36,7 +36,7 @@ Lake Nojiri is located at 36.826N, 138.222E on a highland plateau at 654 meters 
 - On the origin of Lake Nojiri
 - Palaeoloxodon naumanni and its environment at the paleolithic site of Lake Nojiri
 - [Lake Nojiri Naumann Elephant Museum (Nojiriko Museum)](http://nojiriko-museum.com/?page_id=2348)
-- [Lake Nojiri - Wikipedia](https://en.wikipedia.org/wiki/Lake_Nojiri)
+- [Lake Nojiri - Wikipedia](https://en.wikipedia.org/?curid=5577411)
   - Tusk discovered in 1946 confirmed (some sources say 1948 for additional molar find)
   - Formal excavations began 1962 confirmed
   - Tategahana promontory on western shore is Paleolithic kill site confirmed

@@ -3,31 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/s/p/y/k/republic-of-genoa-wp/hero.png",
-        "filename": "Repubblica di Genova.png",
-        "caption": "Expansion of Genoa around the Mediterranean and the Black Sea.",
-        "alt": "Expansion of Genoa around the Mediterranean and the Black Sea.",
-        "width": 1575,
-        "height": 962,
+        "path": "_m/s/p/y/k/republic-of-genoa-wp/map-details-polities-i.png",
+        "filename": "Italy in 1499.png",
+        "caption": "A map that details the polities of the Italian Peninsula before the turn of the century",
+        "alt": "A map that details the polities of the Italian Peninsula before the turn of the century",
+        "width": 6600,
+        "height": 5700,
         "mimeType": "image/png",
-        "license": "CC BY-SA 3.0",
-        "artist": "Kayac1971",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Repubblica_di_Genova.png",
+        "license": "CC BY-SA 4.0",
+        "artist": "TheWiseBeluga",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Italy_in_1499.png",
         "sourceType": "core",
         "sourceArticleId": "republic-of-genoa-wp",
         "sourceGeohash4": "spyk",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Files with derivative versions",
-          "GFDL",
-          "Genoese colonies",
-          "Historical map images that should use vector graphics",
-          "Judicate of Logudoro",
-          "License migration redundant",
-          "Maps of the Republic of Genoa",
-          "PNG that should use vector graphics",
-          "Self-published work"
-        ]
+        "mediumPath": "_m/s/p/y/k/republic-of-genoa-wp/map-details-polities-i-medium.webp",
+        "smallPath": "_m/s/p/y/k/republic-of-genoa-wp/map-details-polities-i-small.webp"
       },
       "images": [
         {
@@ -242,7 +232,8 @@
             "Self-published work",
             "Taken with Fujifilm FinePix S3500",
             "User:Twice25"
-          ]
+          ],
+          "smallPath": "_m/s/p/y/h/liguria-wp/genova-dscf7470-small.webp"
         },
         {
           "path": "_m/s/p/y/h/liguria-wp/la-spezia-ft-fabiano.jpg",
@@ -266,7 +257,9 @@
             "License migration redundant",
             "Panoramas of La Spezia",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/s/p/y/h/liguria-wp/la-spezia-ft-fabiano-medium.webp",
+          "smallPath": "_m/s/p/y/h/liguria-wp/la-spezia-ft-fabiano-small.webp"
         },
         {
           "path": "_m/s/p/y/h/liguria-wp/albenga-img-0345.jpg",
@@ -295,7 +288,9 @@
             "Self-published work",
             "Torre Civica (Albenga)",
             "User:Dapa19"
-          ]
+          ],
+          "mediumPath": "_m/s/p/y/h/liguria-wp/albenga-img-0345-medium.webp",
+          "smallPath": "_m/s/p/y/h/liguria-wp/albenga-img-0345-small.webp"
         },
         {
           "path": "_m/s/p/y/h/liguria-wp/golfo-di-la-spezia-italy-aeria.jpg",
@@ -323,7 +318,8 @@
             "Images with annotations",
             "Italy photographs taken on 2006-12-26",
             "License migration redundant"
-          ]
+          ],
+          "smallPath": "_m/s/p/y/h/liguria-wp/golfo-di-la-spezia-italy-aeria-small.webp"
         },
         {
           "path": "_m/s/p/y/h/liguria-wp/moneglia-panorama.jpg",
@@ -338,7 +334,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moneglia-panorama.JPG",
           "sourceType": "poi",
           "sourceArticleId": "liguria-wp",
-          "sourceGeohash4": "spyh"
+          "sourceGeohash4": "spyh",
+          "mediumPath": "_m/s/p/y/h/liguria-wp/moneglia-panorama-medium.webp",
+          "smallPath": "_m/s/p/y/h/liguria-wp/moneglia-panorama-small.webp"
         },
         {
           "path": "_m/s/p/y/h/liguria-wp/liguria-5terre1-tango7174.jpg",
@@ -353,7 +351,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liguria_5Terre1_tango7174.jpg",
           "sourceType": "poi",
           "sourceArticleId": "liguria-wp",
-          "sourceGeohash4": "spyh"
+          "sourceGeohash4": "spyh",
+          "smallPath": "_m/s/p/y/h/liguria-wp/liguria-5terre1-tango7174-small.webp"
         },
         {
           "path": "_m/s/p/y/h/liguria-wp/porto-turistico-di-savona.jpg",
@@ -368,7 +367,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porto_turistico_di_Savona.jpg",
           "sourceType": "poi",
           "sourceArticleId": "liguria-wp",
-          "sourceGeohash4": "spyh"
+          "sourceGeohash4": "spyh",
+          "mediumPath": "_m/s/p/y/h/liguria-wp/porto-turistico-di-savona-medium.webp",
+          "smallPath": "_m/s/p/y/h/liguria-wp/porto-turistico-di-savona-small.webp"
         },
         {
           "path": "_m/s/p/y/h/liguria-wp/aeroporto-genova-goa.jpg",
@@ -383,7 +384,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto-Genova-GOA.jpg",
           "sourceType": "poi",
           "sourceArticleId": "liguria-wp",
-          "sourceGeohash4": "spyh"
+          "sourceGeohash4": "spyh",
+          "smallPath": "_m/s/p/y/h/liguria-wp/aeroporto-genova-goa-small.webp"
         },
         {
           "path": "_m/s/p/y/h/liguria-wp/finaleligure-veduta.jpg",
@@ -398,7 +400,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:FinaleLigure_veduta.jpg",
           "sourceType": "poi",
           "sourceArticleId": "liguria-wp",
-          "sourceGeohash4": "spyh"
+          "sourceGeohash4": "spyh",
+          "smallPath": "_m/s/p/y/h/liguria-wp/finaleligure-veduta-small.webp"
         },
         {
           "path": "_m/s/p/y/h/liguria-wp/apricale-panorama.jpg",
@@ -413,7 +416,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apricale_panorama.jpg",
           "sourceType": "poi",
           "sourceArticleId": "liguria-wp",
-          "sourceGeohash4": "spyh"
+          "sourceGeohash4": "spyh",
+          "smallPath": "_m/s/p/y/h/liguria-wp/apricale-panorama-small.webp"
         },
         {
           "path": "_m/s/p/y/h/liguria-wp/framura-panorama-da-provincial.jpg",
@@ -428,7 +432,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Framura-panorama_da_provinciale.jpg",
           "sourceType": "poi",
           "sourceArticleId": "liguria-wp",
-          "sourceGeohash4": "spyh"
+          "sourceGeohash4": "spyh",
+          "mediumPath": "_m/s/p/y/h/liguria-wp/framura-panorama-da-provincial-medium.webp",
+          "smallPath": "_m/s/p/y/h/liguria-wp/framura-panorama-da-provincial-small.webp"
         },
         {
           "path": "_m/s/p/y/h/liguria-wp/aeroporto-di-albenga-da-monte-.jpg",
@@ -443,7 +449,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_di_albenga_da_monte_tirasso.jpg",
           "sourceType": "poi",
           "sourceArticleId": "liguria-wp",
-          "sourceGeohash4": "spyh"
+          "sourceGeohash4": "spyh",
+          "mediumPath": "_m/s/p/y/h/liguria-wp/aeroporto-di-albenga-da-monte--medium.webp",
+          "smallPath": "_m/s/p/y/h/liguria-wp/aeroporto-di-albenga-da-monte--small.webp"
         }
       ],
       "narration": [

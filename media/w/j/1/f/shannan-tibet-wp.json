@@ -3,28 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/j/1/f/shannan-tibet-wp/hero.jpg",
-        "filename": "Yamdrok-tso.jpg",
-        "caption": "Yamdrok Lake (also called Yamdrok-Tso, Yamdrok Yumtso, and Yamzho Yumco) photographed from the Gamta La pass (at approx. 29°11′N 90°37′E﻿ / ﻿29.183°N 90.617°E﻿ / 29.183; 90.617) in Tibet.",
-        "alt": "Yamdrok Lake (also called Yamdrok-Tso, Yamdrok Yumtso, and Yamzho Yumco) photographed from the Gamta La pass (at approx. 29°11′N 90°37′E﻿ / ﻿29.183°N 90.617°E﻿ / 29.183; 90.617) in Tibet.",
-        "width": 4849,
-        "height": 1421,
+        "path": "_m/w/j/1/f/shannan-tibet-wp/yarlung-zangbo-river-bridge.jpg",
+        "filename": "Yarlung Zangbo River Bridge.jpg",
+        "caption": "Yarlung Zangbo River Bridge",
+        "alt": "Yarlung Zangbo River Bridge",
+        "width": 4999,
+        "height": 3750,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.5",
-        "artist": "Peter Vigier",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yamdrok-tso.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 4.0",
+        "artist": "Chlich",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yarlung_Zangbo_River_Bridge.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "shannan-tibet-wp",
         "sourceGeohash4": "wj1f",
-        "categories": [
-          "CC-BY-2.5",
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "License migration redundant",
-          "Panoramics in Tibet",
-          "Self-published work",
-          "Yamdrok Lake"
-        ]
+        "mediumPath": "_m/w/j/1/f/shannan-tibet-wp/yarlung-zangbo-river-bridge-medium.webp",
+        "smallPath": "_m/w/j/1/f/shannan-tibet-wp/yarlung-zangbo-river-bridge-small.webp"
       },
       "images": [
         {
@@ -58,7 +51,7 @@
           "smallPath": "_m/w/j/1/f/shannan-tibet-wp/grand-view-samye-small.webp"
         },
         {
-          "path": "_m/w/j/1/f/shannan-tibet-wp/lage-des-regierungsbez.png",
+          "path": "_m/w/j/0/s/yamdrok-lake-wp/lage-des-regierungsbez.png",
           "filename": "Map of Shannan, 2005.png",
           "caption": "Lage des Regierungsbezirks Shannan im Autonomen Gebiet Tibet",
           "alt": "Lage des Regierungsbezirks Shannan im Autonomen Gebiet Tibet",
@@ -78,7 +71,8 @@
             "GFDL",
             "License migration completed",
             "Maps of Lhokha"
-          ]
+          ],
+          "smallPath": "_m/w/j/0/s/yamdrok-lake-wp/lage-des-regierungsbez-small.webp"
         },
         {
           "path": "_m/w/j/1/f/shannan-tibet-wp/location-shannan-prefe.png",
@@ -241,7 +235,7 @@
           "smallPath": "_m/w/j/1/f/shannan-tibet-wp/lhasa-gonggar-airport-small.webp"
         },
         {
-          "path": "_m/w/j/1/f/shannan-tibet-wp/lake-yamzho-yumco-lake.jpg",
+          "path": "_m/w/j/0/s/yamdrok-lake-wp/lake-yamzho-yumco-lake.jpg",
           "filename": "Puma yamzho.jpg",
           "caption": "Lake Yamzho Yumco and Lake Puma, Tibet.",
           "alt": "Lake Yamzho Yumco and Lake Puma, Tibet.",
@@ -253,7 +247,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puma_yamzho.jpg",
           "sourceType": "core",
           "sourceArticleId": "shannan-tibet-wp",
-          "sourceGeohash4": "wj1f"
+          "sourceGeohash4": "wj1f",
+          "smallPath": "_m/w/j/0/s/yamdrok-lake-wp/lake-yamzho-yumco-lake-small.webp"
         },
         {
           "path": "_m/w/j/1/f/shannan-tibet-wp/yumbulagang.jpg",

@@ -3,30 +3,33 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/e/f/z/u/tomb-of-askia-wp/hero.jpg",
-        "filename": "Tombeau dAskia in Gao by David Sessoms.jpg",
-        "caption": "Tomb of Askia, Gao",
-        "alt": "Tomb of Askia, Gao",
-        "width": 2592,
-        "height": 1944,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "David Sessoms from Fribourg, Switzerland",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tombeau_dAskia_in_Gao_by_David_Sessoms.jpg",
-        "sourceType": "core",
+        "path": "_m/e/f/z/u/tomb-of-askia-wp/eth-bib-grabmal-von-askia-gao-.jpg",
+        "filename": "ETH-BIB-Grabmal von Askia, Gao-Tschadseeflug 1930-31-LBS MH02-08-0549.tif",
+        "alt": "ETH-BIB-Grabmal von Askia, Gao-Tschadseeflug 1930-31-LBS MH02-08-0549.tif",
+        "width": 4958,
+        "height": 3606,
+        "mimeType": "image/tiff",
+        "license": "Public domain",
+        "artist": "Walter Mittelholzer",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Grabmal_von_Askia,_Gao-Tschadseeflug_1930-31-LBS_MH02-08-0549.tif",
+        "sourceType": "commons-category",
         "sourceArticleId": "tomb-of-askia-wp",
         "sourceGeohash4": "efzu",
         "categories": [
-          "2006 in Mali",
-          "CC-BY-SA-2.0",
-          "Files with coordinates missing SDC location of creation",
-          "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+          "All media supported by Wikimedia CH",
+          "CC-PD-Mark",
+          "ETH-BIB Mittelholzer-Lake Chad flight 1930-1931",
+          "GWToolset Batch Upload",
+          "Media contributed by the ETH-Bibliothek",
+          "PD-old-80",
           "Tomb of Askia"
-        ]
+        ],
+        "mediumPath": "_m/e/f/z/u/tomb-of-askia-wp/eth-bib-grabmal-von-askia-gao--medium.webp",
+        "smallPath": "_m/e/f/z/u/tomb-of-askia-wp/eth-bib-grabmal-von-askia-gao--small.webp"
       },
       "images": [
         {
-          "path": "_m/e/f/z/u/tomb-of-askia-wp/hero.jpg",
+          "path": "_m/e/f/2/e/manantali-dam-wp/hero.jpg",
           "filename": "Mali relief location map.jpg",
           "caption": "Physical location map of Mali",
           "alt": "Physical location map of Mali",
@@ -42,7 +45,8 @@
           "categories": [
             "CC-BY-SA-3.0",
             "Relief location maps of Mali"
-          ]
+          ],
+          "smallPath": "_m/e/f/2/e/manantali-dam-wp/hero-small.webp"
         },
         {
           "path": "_m/e/f/z/u/tomb-of-askia-wp/tomb-kajif-1400.jpg",

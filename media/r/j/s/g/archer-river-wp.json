@@ -3,32 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/j/s/g/archer-river-wp/hero.jpg",
-        "filename": "Aegopodium podagraria1 ies.jpg",
-        "caption": "Aegopodium podagraria",
-        "alt": "Aegopodium podagraria",
-        "width": 800,
-        "height": 700,
-        "mimeType": "image/jpeg",
+        "path": "_m/r/n/j/5/green-hill-fort-wp/hero.jpg",
+        "filename": "Australia Queensland relief location map.jpg",
+        "caption": "Location map of Queensland, Australia\nEquirectangular projection, N/S stretching 106 %. Geographic limits of the map:\n\nN: 9.0° S\nS: 29.5° S\nW: 137.5° E\nE: 154.0° E\nBorders and Reefs from the other map by NNW.",
+        "alt": "Location map of Queensland, Australia\nEquirectangular projection, N/S stretching 106 %. Geographic limits of the map:\n\nN: 9.0° S\nS: 29.5° S\nW: 137.5° E\nE: 154.0° E\nBorders and Reefs from the other map by NNW.",
+        "width": 973,
+        "height": 1285,
         "license": "CC BY-SA 3.0",
-        "artist": "Frank Vincentz",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aegopodium_podagraria1_ies.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "archer-river-wp",
-        "sourceGeohash4": "rjsg",
-        "categories": [
-          "Aegopodium podagraria leaves",
-          "CC-BY-SA-3.0-migrated",
-          "GFDL",
-          "Leaves on black background",
-          "License migration redundant",
-          "Self-published work",
-          "Taken with Ricoh Caplio G4"
-        ]
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Uwe Dedering",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Australia_Queensland_relief_location_map.jpg",
+        "smallPath": "_m/r/n/j/5/green-hill-fort-wp/hero-small.webp"
       },
       "images": [
         {
-          "path": "_m/r/j/s/g/archer-river-wp/hero.jpg",
+          "path": "_m/r/n/j/5/green-hill-fort-wp/hero.jpg",
           "filename": "Australia Queensland relief location map.jpg",
           "caption": "Location map of Queensland, Australia\nEquirectangular projection, N/S stretching 106 %. Geographic limits of the map:\n\nN: 9.0° S\nS: 29.5° S\nW: 137.5° E\nE: 154.0° E\nBorders and Reefs from the other map by NNW.",
           "alt": "Location map of Queensland, Australia\nEquirectangular projection, N/S stretching 106 %. Geographic limits of the map:\n\nN: 9.0° S\nS: 29.5° S\nW: 137.5° E\nE: 154.0° E\nBorders and Reefs from the other map by NNW.",
@@ -49,7 +38,8 @@
             "Location maps of Queensland",
             "Relief location maps of Australia",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/r/n/j/5/green-hill-fort-wp/hero-small.webp"
         }
       ],
       "narration": [
@@ -61,8 +51,9 @@
         "_m/r/j/s/g/archer-river-wp/rjsg-archer-river-whose-river-it-is.mp3"
       ],
       "combinedNarration": "_m/r/j/s/g/archer-river-wp/rjsg-archer-river-combined.mp3",
-      "combinedNarrationBytes": 3100267,
-      "combinedNarrationDuration": 258
+      "combinedNarrationBytes": 3188929,
+      "combinedNarrationDuration": 258,
+      "combinedCover": "_m/r/j/s/g/archer-river-wp/rjsg-archer-river-combined-cover.jpg"
     }
   }
 }

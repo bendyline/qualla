@@ -33,7 +33,7 @@ Located at 35.886°N, 140.529°E in the lowlands of Chiba Prefecture near the To
 ## Sources
 
 - [Katori Shrine - Wikipedia](https://en.wikipedia.org/?curid=13305284)
-- [Katori Shrine - Wikipedia (fact-check)](https://en.wikipedia.org/wiki/Katori_Shrine)
+- [Katori Shrine - Wikipedia (fact-check)](https://en.wikipedia.org/?curid=13305284)
   - Engishiki (927) listed only three shrines as Jingu: Ise, Kashima, Katori confirmed
   - Dedicated to Futsunushi kami of swords confirmed
   - Main hall (honden) and romon gate both designated Important Cultural Properties confirmed

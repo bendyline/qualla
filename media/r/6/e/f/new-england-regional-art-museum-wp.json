@@ -3,24 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/r/6/e/f/new-england-regional-art-museum-wp/hero.jpg",
-        "filename": "I. New England Regional Art Museum (NERAM).jpg",
-        "caption": "New England Regional Art Museum (NERAM), Armidale, NSW, Australia",
-        "alt": "New England Regional Art Museum (NERAM), Armidale, NSW, Australia",
+        "path": "_m/r/6/e/f/new-england-regional-art-museum-wp/a-museum-of-printing-new-engla.jpg",
+        "filename": "A. Museum of Printing, New England Regional Art Museum.jpg",
+        "caption": "Museum of Printing, New England Regional Art Museum (NERAM), Armidale, NSW, Australia",
+        "alt": "Museum of Printing, New England Regional Art Museum (NERAM), Armidale, NSW, Australia",
         "width": 1500,
         "height": 1125,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 4.0",
         "artist": "Terrence Robert Cooke",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:I._New_England_Regional_Art_Museum_(NERAM).jpg",
-        "sourceType": "core",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A._Museum_of_Printing,_New_England_Regional_Art_Museum.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "new-england-regional-art-museum-wp",
         "sourceGeohash4": "r6ef",
         "categories": [
           "CC-BY-SA-4.0",
           "New England Regional Art Museum",
-          "Self-published work"
-        ]
+          "Printing museums in Australia",
+          "Printing presses in the United States",
+          "Self-published work",
+          "Taken with Sony DSC-F828"
+        ],
+        "smallPath": "_m/r/6/e/f/new-england-regional-art-museum-wp/a-museum-of-printing-new-engla-small.webp"
       },
       "images": [
         {
@@ -274,7 +278,9 @@
             "Self-published work",
             "Waterfalls in the Northern Tablelands",
             "Wollomombi River"
-          ]
+          ],
+          "mediumPath": "_m/r/6/e/f/armidale-wp/wollomombi-falls-2-medium.webp",
+          "smallPath": "_m/r/6/e/f/armidale-wp/wollomombi-falls-2-small.webp"
         },
         {
           "path": "_m/r/6/e/f/armidale-wp/saumarez-homestead.png",
@@ -298,7 +304,8 @@
             "October 2014 in New South Wales",
             "Saumarez Homestead",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/r/6/e/f/armidale-wp/saumarez-homestead-small.webp"
         }
       ],
       "narration": [

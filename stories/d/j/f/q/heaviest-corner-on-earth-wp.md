@@ -42,7 +42,7 @@ Located at 33.514N, 86.806W in downtown Birmingham, Alabama. The four buildings 
   - Empire financed by Metropolitan Life Insurance
   - Elyton Hotel in Empire Building
   - Ascent Hospitality acquired Brown Marx
-- [Heaviest Corner on Earth - Wikipedia](https://en.wikipedia.org/wiki/Heaviest_Corner_on_Earth)
+- [Heaviest Corner on Earth - Wikipedia](https://en.wikipedia.org/?curid=5149301)
   - Jemison Magazine January 1911 article confirmed
   - Woodward Building 1902 10 stories 132 feet confirmed
   - Brown Marx Building 1906 16 stories confirmed

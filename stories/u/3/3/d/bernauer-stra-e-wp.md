@@ -36,7 +36,7 @@ Bernauer Straße runs at 52.5375°N, 13.3933°E, about 2.5 km north of the Reich
 
 ## Sources
 
-- [Bernauer Straße](https://en.wikipedia.org/wiki/Bernauer_Stra%C3%9Fe)
+- [Bernauer Straße](https://en.wikipedia.org/?curid=2697626)
 - [Bernauer Straße - Wikipedia](https://en.wikipedia.org/?curid=2697626)
   - named Bernauer Straße 29 May 1862, previously Straße 50 then Straße 80 - source
   - 1920 Greater Berlin division: nos. 1-50 in Mitte, 51-121 in Wedding; roadway entirely Wedding - source

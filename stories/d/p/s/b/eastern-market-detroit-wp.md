@@ -35,7 +35,7 @@ Eastern Market is at 42.346N, 83.043W, approximately one mile northeast of downt
 - [Eastern Market, Detroit - Wikipedia](https://en.wikipedia.org/?curid=16862247)
 - [The Way It Was -- Eastern Market](https://www.hourdetroit.com/the-way-it-was-articles/the-way-it-was-eastern-market/)
 - [Eastern Market: The Country's Largest Market District](https://www.moderncities.com/article/2016-jul-eastern-market-the-countrys-largest-market-district)
-- [Eastern Market, Detroit - Wikipedia](https://en.wikipedia.org/wiki/Eastern_Market,_Detroit)
+- [Eastern Market, Detroit - Wikipedia](https://en.wikipedia.org/?curid=16862247)
   - 43 acres confirmed as largest historic public market district in US
   - NRHP listing 1978 confirmed
   - Market operating on this site since 1891 confirmed

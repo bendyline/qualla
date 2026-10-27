@@ -41,7 +41,7 @@ Located at 37.02°N, 119.66°W on the south bank of the San Joaquin River in wha
 - [Fort Miller Blockhouse - Library of Congress](https://www.loc.gov/item/ca0165/)
   - Oldest remaining structure in Fresno County
   - California Historical Landmark #584
-- [Fort Miller, California - Wikipedia](https://en.wikipedia.org/wiki/Fort_Miller,_California)
+- [Fort Miller, California - Wikipedia](https://en.wikipedia.org/?curid=23085130)
   - Camp Barbour treaty April 29, 1851 confirmed
   - Friant Dam completed 1944 flooding site confirmed
   - Blockhouse transferred to Table Mountain Rancheria confirmed

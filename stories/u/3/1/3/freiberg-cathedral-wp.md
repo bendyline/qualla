@@ -37,7 +37,7 @@ Freiberg Cathedral stands at 50.920°N, 13.343°E on the Untermarkt in Freiberg,
 ## Sources
 
 - [Freiberg Cathedral - Wikipedia](https://en.wikipedia.org/?curid=4304779)
-- [Freiberg Cathedral - Wikipedia (EN)](https://en.wikipedia.org/wiki/Freiberg_Cathedral)
+- [Freiberg Cathedral - Wikipedia (EN)](https://en.wikipedia.org/?curid=4304779)
   - basilica of Our Lady built around 1180 after silver was found in the Ore Mountains confirmed
   - Triumphal Cross group c.1225 confirmed; Golden Gate late Romanesque, protective extension 1902/03 confirmed
   - collegiate status 1480, college dissolved after 57 years by the Reformation, confirmed

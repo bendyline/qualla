@@ -35,7 +35,7 @@ The 5th Avenue Theatre is located at 47.609N, 122.334W in downtown Seattle, hous
 - [5th Avenue Theatre - Wikipedia](https://en.wikipedia.org/?curid=4458016)
 - [Fifth (5th) Avenue Theatre](https://www.historylink.org/File/3750)
 - [Fifth (5th) Avenue Theatre opens in Seattle amid gala celebration on September 24, 1926](https://www.historylink.org/file/3753)
-- [5th Avenue Theatre - Wikipedia](https://en.wikipedia.org/wiki/5th_Avenue_Theatre)
+- [5th Avenue Theatre - Wikipedia](https://en.wikipedia.org/?curid=4458016)
   - Opening date September 24 1926 confirmed
   - Architect Robert C. Reamer confirmed
   - Interior designed by Gustav Liljestrom confirmed

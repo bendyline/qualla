@@ -41,7 +41,7 @@ Located at 30.29S, 25.11E, straddling the Free State and Northern Cape provinces
 ## Sources
 
 - [Laohu Valley Reserve - Wikipedia](https://en.wikipedia.org/?curid=47591373)
-- [Laohu Valley Reserve - Wikipedia](https://en.wikipedia.org/wiki/Laohu_Valley_Reserve)
+- [Laohu Valley Reserve - Wikipedia](https://en.wikipedia.org/?curid=47591373)
   - Reserve created 2002 from 17 defunct sheep farms near Philippolis confirmed
   - Li Quan as founder confirmed; Varty brothers partnership and acrimony confirmed
   - 20 South China tigers at end of 2015 confirmed

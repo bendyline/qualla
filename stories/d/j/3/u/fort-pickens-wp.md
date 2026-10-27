@@ -37,7 +37,7 @@ Fort Pickens sits at 30.327N, 87.291W on the western tip of Santa Rosa Island, a
 ## Sources
 
 - [Fort Pickens - Wikipedia](https://en.wikipedia.org/?curid=705068)
-- [Fort Pickens - Wikipedia / Pensapedia / NPS](https://en.wikipedia.org/wiki/Fort_Pickens)
+- [Fort Pickens - Wikipedia / Pensapedia / NPS](https://en.wikipedia.org/?curid=705068)
   - Simon Bernard designed Fort Pickens - confirmed
   - Construction 1829-1834, 21.5 million bricks - confirmed
   - Enslaved labor used in construction - confirmed

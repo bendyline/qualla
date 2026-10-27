@@ -36,7 +36,7 @@ Weimar sits at 50.98 degrees N, 11.33 degrees E in the Thuringian basin of centr
 
 ## Sources
 
-- [Weimar - Wikivoyage](https://en.wikivoyage.org/wiki/Weimar)
+- [Weimar - Wikivoyage](https://en.wikivoyage.org/?curid=38768)
 - [Weimar - Wikipedia](https://en.wikipedia.org/wiki/Weimar)
   - Population 65,954 as of 31 December 2024 (confirmed)
   - Anna Amalia regent 1758-1775 (confirmed)

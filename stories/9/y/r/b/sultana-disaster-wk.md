@@ -42,7 +42,7 @@ No one was ever convicted for the Sultana disaster. Captain Mason died in the ex
 
 ## Flight Context
 
-The Sultana explosion site (35.27N, 90.03W) is in the Mississippi River north of Memphis, near present-day Marion, Arkansas. Memphis International Airport (KMEM) is 20km south. The river channel has shifted since 1865 - the exact site is uncertain. The terrain is flat Mississippi Delta agricultural land. A memorial marks the approximate location. The Sultana Museum is in Marion.
+The Sultana explosion site (35.27N, 90.03W) is in the Mississippi River north of Memphis, near present-day Marion, Arkansas. Frederick W. Smith International Airport (KMEM, formerly Memphis International) is 20km south. The river channel has shifted since 1865 - the exact site is uncertain. The terrain is flat Mississippi Delta agricultural land. A memorial marks the approximate location. The Sultana Museum is in Marion.
 
 ## Sources
 

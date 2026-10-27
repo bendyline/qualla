@@ -3,28 +3,31 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/9/7/roman-catholic-diocese-of-killala-wp/hero.png",
-        "filename": "Catholic dioceses of Ireland with names.png",
-        "caption": "Catholic dioceses of Ireland with names",
-        "alt": "Catholic dioceses of Ireland with names",
-        "width": 520,
-        "height": 675,
-        "mimeType": "image/png",
-        "license": "CC BY-SA 4.0",
-        "artist": "Sheila1988",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catholic_dioceses_of_Ireland_with_names.png",
+        "path": "_m/g/c/9/7/roman-catholic-diocese-of-killala-wp/photograph-ballina-cat.jpg",
+        "filename": "BallinaCathedral.jpg",
+        "caption": "Photograph of Ballina Cathedral, Co. Mayo, Ireland",
+        "alt": "Photograph of Ballina Cathedral, Co. Mayo, Ireland",
+        "width": 3168,
+        "height": 4224,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 3.0",
+        "artist": "JohnArmagh",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BallinaCathedral.jpg",
         "sourceType": "core",
         "sourceArticleId": "roman-catholic-diocese-of-killala-wp",
         "sourceGeohash4": "gc97",
         "categories": [
-          "CC-BY-SA-4.0",
-          "Maps of Catholic dioceses of Ireland",
-          "Self-published work"
-        ]
+          "CC-BY-SA-3.0",
+          "Saint Muredach's Cathedral, Ballina",
+          "Self-published work",
+          "Taken with Sony DSC-W300"
+        ],
+        "mediumPath": "_m/g/c/9/7/roman-catholic-diocese-of-killala-wp/photograph-ballina-cat-medium.webp",
+        "smallPath": "_m/g/c/9/7/roman-catholic-diocese-of-killala-wp/photograph-ballina-cat-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/9/7/roman-catholic-diocese-of-killala-wp/hero.jpg",
+          "path": "_m/9/y/7/t/woolaroc-museum-wk/hero.jpg",
           "filename": "046CupolaSPietro.jpg",
           "caption": "Città del Vaticano - Cupola della Basilica di S. Pietro",
           "alt": "Città del Vaticano - Cupola della Basilica di S. Pietro",
@@ -41,7 +44,8 @@
             "CC-BY-SA-3.0",
             "Dome of Saint Peter's Basilica from the roof",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/9/y/7/t/woolaroc-museum-wk/hero-small.webp"
         },
         {
           "path": "_m/g/c/9/7/roman-catholic-diocese-of-killala-wp/photograph-ballina-cat.jpg",
@@ -109,7 +113,8 @@
             "License migration completed",
             "Self-published work",
             "Strandhill"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/u/county-sligo-wp/strandhill2-small.webp"
         },
         {
           "path": "_m/g/c/9/u/county-sligo-wp/queen-maev-by-j-c-leyendecker-.jpg",
@@ -137,7 +142,9 @@
             "PD-old missing SDC copyright status",
             "Women with weapons",
             "Works by J. C. Leyendecker"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/county-sligo-wp/queen-maev-by-j-c-leyendecker--medium.webp",
+          "smallPath": "_m/g/c/9/u/county-sligo-wp/queen-maev-by-j-c-leyendecker--small.webp"
         },
         {
           "path": "_m/g/c/9/u/county-sligo-wp/yeats-statue.jpg",
@@ -162,7 +169,9 @@
             "June 2006 Ireland photographs",
             "Taken with Fujifilm FinePix S5100",
             "Yeats sculpture by Rowan Gillespie"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/u/county-sligo-wp/yeats-statue-medium.webp",
+          "smallPath": "_m/g/c/9/u/county-sligo-wp/yeats-statue-small.webp"
         },
         {
           "path": "_m/g/c/9/u/county-sligo-wp/sligo-03-garavogue-river-glass.jpg",
@@ -177,7 +186,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sligo-03-Garavogue_River-Glasshouse-2017-gje.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-sligo-wp",
-          "sourceGeohash4": "gc9u"
+          "sourceGeohash4": "gc9u",
+          "mediumPath": "_m/g/c/9/u/county-sligo-wp/sligo-03-garavogue-river-glass-medium.webp",
+          "smallPath": "_m/g/c/9/u/county-sligo-wp/sligo-03-garavogue-river-glass-small.webp"
         }
       ],
       "narration": [

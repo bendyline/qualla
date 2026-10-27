@@ -46,7 +46,7 @@ Located at 52.7065 N, 13.544 E, in woodland on the eastern edge of Bernau bei Be
 
 ## Sources
 
-- [ADGB Trade Union School - Wikipedia](https://en.wikipedia.org/wiki/ADGB_Trade_Union_School)
+- [ADGB Trade Union School - Wikipedia](https://en.wikipedia.org/?curid=39411444)
   - Built 1928-1930 in Bernau bei Berlin for the General German Trade Union Federation; second-largest Bauhaus project after the Bauhaus Dessau building
   - Designed by Bauhaus director Hannes Meyer with Hans Wittwer, who taught the building theory course; both Swiss and previously colleagues in Basel; Bauhaus students worked on design, construction and interior fitting
   - Trained union administrators and leaders in labour law, industrial hygiene, management and economics; on-site accommodation and catering, sports facilities and outdoor swimming pool

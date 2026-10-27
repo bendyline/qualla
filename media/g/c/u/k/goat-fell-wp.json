@@ -30,7 +30,7 @@
       },
       "images": [
         {
-          "path": "_m/g/c/u/k/goat-fell-wp/landsat-image-isle-arr.jpg",
+          "path": "_m/g/c/u/k/brodick-castle-wp/landsat-image-isle-arr.jpg",
           "filename": "Arran satellite.jpg",
           "caption": "Landsat image of the Isle of Arran in Scotland.",
           "alt": "Landsat image of the Isle of Arran in Scotland.",
@@ -48,10 +48,11 @@
             "NASA World Wind",
             "PD World Wind",
             "Satellite pictures of Scotland"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/k/brodick-castle-wp/landsat-image-isle-arr-small.webp"
         },
         {
-          "path": "_m/g/c/u/k/goat-fell-wp/schiehallion-viewed-ac.jpg",
+          "path": "_m/g/c/m/j/snowdon-wp/schiehallion-viewed-ac.jpg",
           "filename": "Schiehallion 01.jpg",
           "caption": "Schiehallion viewed across the River Tay, with its characteristic symmetry.",
           "alt": "Schiehallion viewed across the River Tay, with its characteristic symmetry.",
@@ -68,10 +69,12 @@
             "CC-BY-3.0",
             "Schiehallion",
             "Taken with Canon EOS 300D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/j/snowdon-wp/schiehallion-viewed-ac-medium.webp",
+          "smallPath": "_m/g/c/m/j/snowdon-wp/schiehallion-viewed-ac-small.webp"
         },
         {
-          "path": "_m/g/c/u/k/goat-fell-wp/personal-photograph-ta.jpg",
+          "path": "_m/g/c/m/j/snowdon-wp/personal-photograph-ta.jpg",
           "filename": "Slioch from Loch Maree.jpg",
           "caption": "Personal photograph taken by Mick Knapton in May 1992",
           "alt": "Personal photograph taken by Mick Knapton in May 1992",
@@ -91,7 +94,8 @@
             "Loch Maree",
             "Self-published work",
             "Slioch"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/j/snowdon-wp/personal-photograph-ta-small.webp"
         },
         {
           "path": "_m/g/c/u/k/goat-fell-wp/topographic-map-isle-a.png",
@@ -526,7 +530,8 @@
             "Kildonan Castle",
             "Self-published work",
             "Taken with Nikon D5000"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/k/isle-of-arran-wp/kildonan-4-remains-of-the-cast-small.webp"
         },
         {
           "path": "_m/g/c/u/k/brodick-castle-wp/hero.jpg",
@@ -541,7 +546,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brodick_Castle_Main_Building_East_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "brodick-castle-wp",
-          "sourceGeohash4": "gcuk"
+          "sourceGeohash4": "gcuk",
+          "mediumPath": "_m/g/c/u/k/brodick-castle-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/u/k/brodick-castle-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/br/od/ic/k_/brodick/isle-of-arran-distillery-98603.jpg",
@@ -556,7 +563,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isle_of_Arran_Distillery_(9860378523).jpg",
           "sourceType": "poi",
           "sourceArticleId": "brodick",
-          "sourceGeohash4": "gcuk"
+          "sourceGeohash4": "gcuk",
+          "mediumPath": "_m/tpc/br/od/ic/k_/brodick/isle-of-arran-distillery-98603-medium.webp",
+          "smallPath": "_m/tpc/br/od/ic/k_/brodick/isle-of-arran-distillery-98603-small.webp"
         },
         {
           "path": "_m/tpc/br/od/ic/k_/brodick/lochranza-deer.jpg",
@@ -571,7 +580,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lochranza_deer.jpg",
           "sourceType": "poi",
           "sourceArticleId": "brodick",
-          "sourceGeohash4": "gcuk"
+          "sourceGeohash4": "gcuk",
+          "smallPath": "_m/tpc/br/od/ic/k_/brodick/lochranza-deer-small.webp"
         },
         {
           "path": "_m/tpc/br/od/ic/k_/brodick/machrie-moor-stone-circle-2-ge.jpg",
@@ -586,7 +596,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Machrie_Moor_Stone_Circle_2_(geograph_5757760).jpg",
           "sourceType": "poi",
           "sourceArticleId": "brodick",
-          "sourceGeohash4": "gcuk"
+          "sourceGeohash4": "gcuk",
+          "mediumPath": "_m/tpc/br/od/ic/k_/brodick/machrie-moor-stone-circle-2-ge-medium.webp",
+          "smallPath": "_m/tpc/br/od/ic/k_/brodick/machrie-moor-stone-circle-2-ge-small.webp"
         }
       ],
       "narration": [

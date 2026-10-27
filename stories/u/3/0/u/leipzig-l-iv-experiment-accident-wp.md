@@ -46,7 +46,7 @@ The Physical Institute stood at 51.340 N, 12.375 E, just east of Leipzig's old c
 
 ## Sources
 
-- [Leipzig L-IV experiment accident - Wikipedia](https://en.wikipedia.org/wiki/Leipzig_L-IV_experiment_accident)
+- [Leipzig L-IV experiment accident - Wikipedia](https://en.wikipedia.org/?curid=53154894)
   - First nuclear accident in history, 23 June 1942, at the Physical Institute of Leipzig University: steam explosion and reactor fire in the 'uranium machine'
   - L-IV worked on by Werner Heisenberg and Robert Döpel; demonstrated Germany's first signs of neutron propagation
   - Device checked for a possible heavy water leak; air leaked in and ignited the uranium powder; burning uranium boiled the water jacket and steam pressure blew the reactor apart
@@ -64,7 +64,7 @@ The Physical Institute stood at 51.340 N, 12.375 E, just east of Leipzig's old c
   - Klara Döpel (1900-1945) worked as a lawyer until 1933 and then as a research partner to her husband Robert Döpel at Leipzig University
   - Robert Döpel's December 1943 letter described air raids destroying 75 percent of Leipzig including his institute; the 4 December 1943 RAF raid killed more than 1,800 people
   - Klara Döpel was killed in an air raid on 6 April 1945 while working in the physics building
-- [Leipzig L-IV experiment accident - Wikipedia](https://en.wikipedia.org/wiki/Leipzig_L-IV_experiment_accident)
+- [Leipzig L-IV experiment accident - Wikipedia](https://en.wikipedia.org/?curid=53154894)
   - Independently re-confirmed: 20 days of operation before the accident, ~1000 degree apparatus temperature, L-IV's aluminium sphere held ~750 kg uranium powder / 140 kg heavy water (distinct from a separate figure in the same article describing what a full-scale 5-tonne heavy water / 10-tonne uranium pile could theoretically sustain, based on L-IV's results - not L-IV's own composition)
   - CORRECTED: the Wikipedia article states Leipzig's neutron gain was 'the first net neutron production of the German program, three years after the first such pile in history by Hans von Halban and colleagues in Paris' - so it was NOT the first neutron increase ever measured 'anywhere' as originally written, only the first within the German programme. Text corrected to attribute the earlier Paris milestone to Halban's team.
 

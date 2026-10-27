@@ -3,32 +3,41 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/k/8/cardigan-ceredigion-wp/hero.jpg",
-        "filename": "Cardigan River.jpg",
-        "caption": "View of Cardigan from across the River Teifi, looking north. To the right is Cardigan Castle, to the left is the beginning of the high street.",
-        "alt": "View of Cardigan from across the River Teifi, looking north. To the right is Cardigan Castle, to the left is the beginning of the high street.",
-        "width": 3264,
-        "height": 2448,
+        "path": "_m/g/c/k/8/cardigan-ceredigion-wp/admiralty-chart-no-1410-st-gow.jpg",
+        "filename": "Admiralty Chart No 1410 St Gowan's Head to New Quay, Published 1881.jpg",
+        "caption": "Nautical chart covering the coast of South West Wales from St Gowan's Head to New Quay at a scale of 1/4,000. From the various Admiralty surveys by Commander W.L. Sheringham and G.M. Alldridge, 1838-57; and Staff Commanders J.H. Kerr and G. Stanley 1875-8. With Corrections to 1949. Not current - not to be used for navigation!",
+        "alt": "Nautical chart covering the coast of South West Wales from St Gowan's Head to New Quay at a scale of 1/4,000. From the various Admiralty surveys by Commander W.L. Sheringham and G.M. Alldridge, 1838-57; and Staff Commanders J.H. Kerr and G. Stanley 1875-8. With Corrections to 1949. Not current - not to be used for navigation!",
+        "width": 16195,
+        "height": 11098,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Jprw",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cardigan_River.jpg",
-        "sourceType": "core",
+        "license": "Public domain",
+        "artist": "Captain FJ Evans",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_1410_St_Gowan%27s_Head_to_New_Quay,_Published_1881.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "cardigan-ceredigion-wp",
         "sourceGeohash4": "gck8",
         "categories": [
-          "CC-BY-SA-3.0",
+          "1880s maps of Wales",
+          "1881 maps of Europe",
+          "Admiralty Charts 1401-1600",
+          "Admiralty Charts Region B: England Wales Ireland English Channel southern North Sea",
           "Cardigan, Ceredigion",
-          "GFDL",
-          "License migration redundant",
-          "Location possible",
-          "Self-published work",
-          "Taken with Olympus FE-310 / X-840 / C-530"
-        ]
+          "Georeferenced maps in Wikimaps Warper",
+          "George Manley Alldridge",
+          "Large images",
+          "Maps of Pembrokeshire",
+          "Pembrokeshire in the 1880s",
+          "St David's Head",
+          "The Smalls, Pembrokeshire",
+          "UK Government artistic works",
+          "William Louis Sheringham"
+        ],
+        "mediumPath": "_m/g/c/k/8/cardigan-ceredigion-wp/admiralty-chart-no-1410-st-gow-medium.webp",
+        "smallPath": "_m/g/c/k/8/cardigan-ceredigion-wp/admiralty-chart-no-1410-st-gow-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/k/8/cardigan-ceredigion-wp/hero.png",
+          "path": "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero.png",
           "filename": "Terra.png",
           "alt": "Terra.png",
           "width": 600,
@@ -45,7 +54,8 @@
             "Media missing infobox template",
             "PD NASA",
             "The Blue Marble"
-          ]
+          ],
+          "smallPath": "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero-small.webp"
         },
         {
           "path": "_m/g/c/k/8/cardigan-ceredigion-wp/photograph-parish-chur.jpg",
@@ -543,7 +553,8 @@
             "CC-BY-SA-3.0-migrated",
             "Cilgerran Castle",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/k/8/cardigan-wk/01-cilgerran-castle-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret.jpg",
@@ -565,7 +576,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Fujifilm FinePix A330"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret-medium.webp",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/manorbier-castle-with-turret-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/abercastle.jpg",
@@ -587,7 +600,9 @@
             "Images with extracted images",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-TZ3"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/w/pembrokeshire-wk/abercastle-medium.webp",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/abercastle-small.webp"
         },
         {
           "path": "_m/g/c/h/w/pembrokeshire-wk/green-bridge-of-wales-1-pembro.jpg",
@@ -602,7 +617,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Bridge_of_Wales_1_-_Pembrokeshire_(2010).jpg",
           "sourceType": "poi",
           "sourceArticleId": "pembrokeshire-wk",
-          "sourceGeohash4": "gchw"
+          "sourceGeohash4": "gchw",
+          "smallPath": "_m/g/c/h/w/pembrokeshire-wk/green-bridge-of-wales-1-pembro-small.webp"
         },
         {
           "path": "_m/g/c/k/c/aberaeron-wp/llanacheron.jpg",
@@ -622,7 +638,8 @@
             "Files with coordinates missing SDC location of creation (52° N, 5° W)",
             "Llanerchaeron",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/g/c/k/c/aberaeron-wp/llanacheron-small.webp"
         },
         {
           "path": "_m/g/c/k/c/aberaeron-wp/aber6358brlg.jpg",
@@ -642,7 +659,9 @@
             "Aberaeron harbour",
             "CC-BY-SA-3.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/k/c/aberaeron-wp/aber6358brlg-medium.webp",
+          "smallPath": "_m/g/c/k/c/aberaeron-wp/aber6358brlg-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/llangrannog-from-south-cliffs.jpg",
@@ -664,7 +683,8 @@
             "License migration completed",
             "Llangrannog",
             "Taken with Nikon Coolpix 5700"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/llangrannog-from-south-cliffs-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/borth-2008-03-01.jpg",
@@ -691,7 +711,9 @@
             "Self-published work",
             "Taken with Sony DSC-P12",
             "United Kingdom photographs taken on 2008-03-01"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/borth-2008-03-01-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/borth-2008-03-01-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/lampeter-high-street.jpg",
@@ -710,7 +732,9 @@
           "categories": [
             "High Street, Lampeter",
             "PD-user"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/lampeter-high-street-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/lampeter-high-street-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/llandysul.jpg",
@@ -732,7 +756,8 @@
             "Self-published work",
             "Streets in Llandysul (town)",
             "Taken with Sony DSC-P100"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/llandysul-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/ceredigion-banner-01.jpg",
@@ -747,7 +772,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceredigion-banner-01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gcm1"
+          "sourceGeohash4": "gcm1",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/ceredigion-banner-01-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/ceredigion-banner-01-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/ceinewydd-ceredigion-cymru-wal.jpg",
@@ -762,7 +789,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceinewydd,_Ceredigion,_Cymru_(Wales)_-_Mehefin_2024_-_15.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gcm1"
+          "sourceGeohash4": "gcm1",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/ceinewydd-ceredigion-cymru-wal-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/ceinewydd-ceredigion-cymru-wal-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/aberaeron-ceredigion-cymru-wal.jpg",
@@ -777,7 +806,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aberaeron,_Ceredigion,_Cymru_(Wales)_-_Gorllewin_Cymru_Forol_-_SAC_Special_Areas_of_Conservation_82.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gcm1"
+          "sourceGeohash4": "gcm1",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/aberaeron-ceredigion-cymru-wal-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/aberaeron-ceredigion-cymru-wal-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/arfordir-aberystwyth-ceredigio.jpg",
@@ -792,7 +823,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arfordir_Aberystwyth,_Ceredigion_-_Aberystwyth_SAC_Special_Areas_of_Conservation,_West_Wales_Marine_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gcm1"
+          "sourceGeohash4": "gcm1",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/arfordir-aberystwyth-ceredigio-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/arfordir-aberystwyth-ceredigio-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/afon-teifi-ger-aberteifi-o-r-a.jpg",
@@ -807,7 +840,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Afon_Teifi_ger_Aberteifi_o%27r_awyr_-_the_river_teifi_near_Cardigan,_Ceredigion,_Wales_from_the_air_05.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gcm1"
+          "sourceGeohash4": "gcm1",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/afon-teifi-ger-aberteifi-o-r-a-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/afon-teifi-ger-aberteifi-o-r-a-small.webp"
         },
         {
           "path": "_m/g/c/m/1/ceredigion-wp/castellnewydd-emlyn.jpg",
@@ -822,7 +857,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castellnewydd_Emlyn.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ceredigion-wp",
-          "sourceGeohash4": "gcm1"
+          "sourceGeohash4": "gcm1",
+          "mediumPath": "_m/g/c/m/1/ceredigion-wp/castellnewydd-emlyn-medium.webp",
+          "smallPath": "_m/g/c/m/1/ceredigion-wp/castellnewydd-emlyn-small.webp"
         },
         {
           "path": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/the-bridges-ceredigion.png",
@@ -837,7 +874,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_bridges_Ceredigion.png",
           "sourceType": "poi",
           "sourceArticleId": "pembrokeshire-coast-path",
-          "sourceGeohash4": "gcm1"
+          "sourceGeohash4": "gcm1",
+          "mediumPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/the-bridges-ceredigion-medium.webp",
+          "smallPath": "_m/tpc/pe/mb/ro/ke/pembrokeshire-coast-path/the-bridges-ceredigion-small.webp"
         },
         {
           "path": "_m/tpc/ab/er/ys/tw/aberystwyth/aberystwyth-shore.jpg",
@@ -865,7 +904,8 @@
             "Taken with Nikon Coolpix 775",
             "User-created GFDL images",
             "Views of Aberystwyth from Constitution Hill"
-          ]
+          ],
+          "smallPath": "_m/tpc/ab/er/ys/tw/aberystwyth/aberystwyth-shore-small.webp"
         },
         {
           "path": "_m/tpc/ab/er/ys/tw/aberystwyth/aberystwyth-wales-uk-1985.jpg",
@@ -890,7 +930,9 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/tpc/ab/er/ys/tw/aberystwyth/aberystwyth-wales-uk-1985-medium.webp",
+          "smallPath": "_m/tpc/ab/er/ys/tw/aberystwyth/aberystwyth-wales-uk-1985-small.webp"
         },
         {
           "path": "_m/tpc/ab/er/ys/tw/aberystwyth/aberystwythuniversitystudio.jpg",
@@ -910,7 +952,8 @@
             "Aberystwyth Arts Centre",
             "CC-BY-SA-2.0",
             "Flickr images uploaded by Flickr upload bot"
-          ]
+          ],
+          "smallPath": "_m/tpc/ab/er/ys/tw/aberystwyth/aberystwythuniversitystudio-small.webp"
         },
         {
           "path": "_m/tpc/ab/er/ys/tw/aberystwyth/aberystwyth-cliff-railway-by-a.jpg",
@@ -935,7 +978,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Kodak EasyShare DX6490"
-          ]
+          ],
+          "smallPath": "_m/tpc/ab/er/ys/tw/aberystwyth/aberystwyth-cliff-railway-by-a-small.webp"
         },
         {
           "path": "_m/g/c/m/4/aberystwyth-castle-wp/hero.jpg",
@@ -955,7 +999,9 @@
             "Aberystwyth Castle",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/4/aberystwyth-castle-wp/hero-medium.webp",
+          "smallPath": "_m/g/c/m/4/aberystwyth-castle-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/ab/er/ys/tw/aberystwyth/slaters-aberystwyth-01.jpg",
@@ -970,7 +1016,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slaters-Aberystwyth-01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "aberystwyth",
-          "sourceGeohash4": "gcm4"
+          "sourceGeohash4": "gcm4",
+          "mediumPath": "_m/tpc/ab/er/ys/tw/aberystwyth/slaters-aberystwyth-01-medium.webp",
+          "smallPath": "_m/tpc/ab/er/ys/tw/aberystwyth/slaters-aberystwyth-01-small.webp"
         },
         {
           "path": "_m/tpc/ab/er/ys/tw/aberystwyth/amgueddfa-ceredigion-2015.jpg",
@@ -985,7 +1033,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amgueddfa_Ceredigion_(2015).jpg",
           "sourceType": "poi",
           "sourceArticleId": "aberystwyth",
-          "sourceGeohash4": "gcm4"
+          "sourceGeohash4": "gcm4",
+          "mediumPath": "_m/tpc/ab/er/ys/tw/aberystwyth/amgueddfa-ceredigion-2015-medium.webp",
+          "smallPath": "_m/tpc/ab/er/ys/tw/aberystwyth/amgueddfa-ceredigion-2015-small.webp"
         }
       ],
       "videos": [

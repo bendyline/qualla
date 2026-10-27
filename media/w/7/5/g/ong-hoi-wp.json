@@ -3,30 +3,34 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/w/7/5/g/ong-hoi-wp/hero.jpg",
-        "filename": "Bao Ninh Beach.jpg",
-        "caption": "Bao Ninh Beach, Dong Hoi City, Vietnam. The beach is near the 4-star Sun Spa Resort.",
-        "alt": "Bao Ninh Beach, Dong Hoi City, Vietnam. The beach is near the 4-star Sun Spa Resort.",
-        "width": 2592,
-        "height": 1944,
+        "path": "_m/w/7/5/g/ong-hoi-wp/dong-hoi-vietnam-12060116363.jpg",
+        "filename": "Dong Hoi, Vietnam (12060116363).jpg",
+        "caption": "Dong Hoi, Vietnam",
+        "alt": "Dong Hoi, Vietnam",
+        "width": 4608,
+        "height": 2592,
         "mimeType": "image/jpeg",
-        "license": "CC0",
-        "artist": "Nguyên Lê",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bao_Ninh_Beach.jpg",
-        "sourceType": "core",
+        "license": "CC BY-SA 2.0",
+        "artist": "Clay Gilliland",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dong_Hoi,_Vietnam_(12060116363).jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "ong-hoi-wp",
         "sourceGeohash4": "w75g",
         "categories": [
-          "Beaches of Vietnam",
-          "CC-Zero",
+          "CC-BY-SA-2.0",
           "Dong Hoi",
-          "Self-published work",
-          "Taken with Canon PowerShot A3150 IS"
-        ]
+          "Files with coordinates missing SDC location of creation",
+          "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+          "Photographs by Clay Gilliland",
+          "Taken with Olympus E-M5",
+          "Vietnam photographs taken on 2013-10-16"
+        ],
+        "mediumPath": "_m/w/7/5/g/ong-hoi-wp/dong-hoi-vietnam-12060116363-medium.webp",
+        "smallPath": "_m/w/7/5/g/ong-hoi-wp/dong-hoi-vietnam-12060116363-small.webp"
       },
       "images": [
         {
-          "path": "_m/w/7/5/g/ong-hoi-wp/tamtoa.jpg",
+          "path": "_m/tpc/on/g-/ho/i_/ong-hoi/tamtoa.jpg",
           "filename": "TamToa.jpg",
           "caption": "Tam Toa Church in Dong Hoi, Quang Binh, Vietnam",
           "alt": "Tam Toa Church in Dong Hoi, Quang Binh, Vietnam",
@@ -44,7 +48,9 @@
             "Self-published work",
             "Taken with Canon Digital IXUS 860 IS",
             "Tam Tòa Church"
-          ]
+          ],
+          "mediumPath": "_m/tpc/on/g-/ho/i_/ong-hoi/tamtoa-medium.webp",
+          "smallPath": "_m/tpc/on/g-/ho/i_/ong-hoi/tamtoa-small.webp"
         },
         {
           "path": "_m/w/7/5/g/ong-hoi-wp/dong-hoi-quang-binh-vi.jpg",
@@ -481,7 +487,8 @@
             "Dong Hoi Station",
             "Files from Chris Yunker Flickr stream",
             "Flickr images uploaded by Flickr upload bot"
-          ]
+          ],
+          "smallPath": "_m/tpc/on/g-/ho/i_/ong-hoi/ga-dong-hoi-small.webp"
         }
       ],
       "narration": [

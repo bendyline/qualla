@@ -20,7 +20,7 @@ Belterra's site sat 165 meters above sea level at the edge of the Planalto escar
 
 ## The American Town in the Amazon
 
-At its peak in the late 1930s, roughly 50 square kilometers of Belterra were cultivated with Hevea brasiliensis. The plantation employed 8,000 to 10,000 people at its fullest extent, most of them Brazilian workers living in a landscape engineered to resemble Michigan. Ford built identical wooden bungalows with screened porches, installed a water tower that would have looked at home in any Midwestern suburb, planted lawns, opened a school, built a hospital, and enforced rules against alcohol, tobacco, and dancing. The agronomists here applied new breeding methods using local varieties in an effort to defeat the leaf blight that had wrecked Fordlandia's monoculture. The effort succeeded biologically, up to a point, but it was enormously labor-intensive and therefore expensive.
+At its peak in the late 1930s, roughly 50 square kilometers of Belterra were cultivated with Hevea brasiliensis. At its fullest the town held 8,000 to 10,000 people, most of them Brazilian workers and their families living in a landscape engineered to resemble Michigan. Ford built identical wooden bungalows with screened porches, installed a water tower that would have looked at home in any Midwestern suburb, planted lawns, opened a school and built a hospital. Ford's rules came with the housing: no alcohol, no tobacco, and weekend square dances that few of the workers had asked for. The agronomists here applied new breeding methods using local varieties in an effort to defeat the leaf blight that had wrecked Fordlandia's monoculture. The effort succeeded biologically, up to a point, but it was enormously labor-intensive and therefore expensive.
 
 ## What Ford Left Behind
 
@@ -28,7 +28,7 @@ By 1945 the whole experiment had become untenable. Synthetic rubber, developed d
 
 ## The Forest Around
 
-Belterra's municipality includes part of the Tapajos National Forest, a 549,067-hectare sustainable-use conservation unit created in 1974. The forest is a working preserve, home to traditional communities, rubber tappers still harvesting wild latex, and research stations studying Amazonian ecology. The contrast between Ford's imported plantation and the native forest that surrounds it tells a longer story about how Amazon latex was actually produced for most of its history: not by monoculture plantations but by tappers working wild trees scattered through the forest, each one cut on its own schedule and bled by hand. That older system collapsed the year the rubber boom ended in 1912. Ford tried to replace it with industrial monoculture. The forest won. The plateau of Belterra is now one of the stranger places in the Amazon, a retired American company town slowly dissolving back into the green.
+Belterra's municipality includes part of the Tapajos National Forest, a 549,067-hectare sustainable-use conservation unit created in 1974. The forest is a working preserve, home to traditional communities, rubber tappers still harvesting wild latex, and research stations studying Amazonian ecology. The contrast between Ford's imported plantation and the native forest that surrounds it tells a longer story about how Amazon latex was actually produced for most of its history: not by monoculture plantations but by tappers working wild trees scattered through the forest, each one cut on its own schedule and bled by hand. That older system unravelled after 1912, when Asian plantations grown from smuggled Brazilian seed broke the Amazon's monopoly. Ford tried to replace it with industrial monoculture. The forest won. The plateau of Belterra is now one of the stranger places in the Amazon, a retired American company town slowly dissolving back into the green.
 
 ## Flight Context
 
@@ -37,8 +37,31 @@ Coordinates 2.64S, 54.94W. Located on the escarpment above the Tapajos River, ap
 ## Sources
 
 - [Belterra, Pará - Wikipedia](https://en.wikipedia.org/?curid=9225209)
+- [Belterra, Pará - Wikipedia](https://en.wikipedia.org/?curid=9225209)
+  - Belterra ~40 km south of Santarem
+  - Peak cultivation ~50 km2 in late 1930s
+  - Peak population 8,000-10,000
+  - 2010 census 16,324 across full district
+  - Now operated by EMBRAPA after Ford sold it to Brazilian government
+  - Current plantation area 10-20 km2
+  - Terra preta ceramic radiocarbon dating shows occupation since at least 500 BC
+  - Tapajos National Forest 549,067 hectares, created 1974
+
+## Review Notes
+
+**Reviewed:** 2026-09-05 · 8 facts verified · 0 corrections
+
+Verified Ford ownership, Fordlandia/Belterra history, terra preta radiocarbon dating (500 BC), Tapajos NF hectares, population figures, EMBRAPA operation via Wikipedia. All facts accurate, no corrections needed. No empathy/dignity issues found.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- weekend square dances that few of the workers had asked for
+- The forest won.
+- one of the stranger places in the Amazon, a retired American company town slowly dissolving back into the green
 
 ---
 
-*Word count: 770*
+*Word count: 779*
 *Read time: 4 minutes*

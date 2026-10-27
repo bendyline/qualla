@@ -3,26 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/c/b/gweebarra-bay-wp/hero.png",
-        "filename": "Ireland relief location map.png",
-        "caption": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
-        "alt": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
-        "width": 1450,
-        "height": 1807,
-        "mimeType": "image/png",
+        "path": "_m/g/c/c/b/gweebarra-bay-wp/baie-gweebarra-portnoo.jpg",
+        "filename": "Baie Gweebarra - Portnoo.jpg",
+        "caption": "Gweebarra bay from the south, near Portnoo, in Donegal, Ireland.",
+        "alt": "Gweebarra bay from the south, near Portnoo, in Donegal, Ireland.",
+        "width": 12381,
+        "height": 2096,
+        "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
-        "artist": "Nilfanion",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ireland_relief_location_map.png",
-        "sourceType": "core",
+        "artist": "Cqui",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baie_Gweebarra_-_Portnoo.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "gweebarra-bay-wp",
         "sourceGeohash4": "gccb",
         "categories": [
-          "Blank maps of the Republic of Ireland",
+          "August 2011 in Ireland",
           "CC-BY-SA-3.0",
-          "Images with extracted images",
-          "Maps by Nilfanion",
-          "Relief location maps of Ireland"
-        ]
+          "Files with coordinates missing SDC location of creation",
+          "Gweebarra Bay",
+          "Self-published work"
+        ],
+        "mediumPath": "_m/g/c/c/b/gweebarra-bay-wp/baie-gweebarra-portnoo-medium.webp",
+        "smallPath": "_m/g/c/c/b/gweebarra-bay-wp/baie-gweebarra-portnoo-small.webp"
       },
       "images": [
         {
@@ -221,7 +223,8 @@
             "PD reviewed files",
             "PDphotos.org",
             "Streets in Donegal"
-          ]
+          ],
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/donegaltown-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/carndonagh-sw-view-1996-08-29.jpg",
@@ -247,7 +250,9 @@
             "License migration redundant",
             "Photographs by Andreas F. Borchert",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/f/2/county-donegal-wp/carndonagh-sw-view-1996-08-29-medium.webp",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/carndonagh-sw-view-1996-08-29-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/gleann-cholm-cille.jpg",
@@ -270,7 +275,8 @@
             "June 1995 in Ireland",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/gleann-cholm-cille-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/glentiesireland.jpg",
@@ -294,7 +300,9 @@
             "Postal vehicles of Ireland",
             "Self-published work",
             "Taken with Olympus C-765UZ"
-          ]
+          ],
+          "mediumPath": "_m/g/c/f/2/county-donegal-wp/glentiesireland-medium.webp",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/glentiesireland-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/anclochanliath.jpg",
@@ -317,7 +325,9 @@
             "License migration redundant",
             "May 2008 Ireland photographs",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/f/2/county-donegal-wp/anclochanliath-medium.webp",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/anclochanliath-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/falcarraghcrossroads.jpg",
@@ -344,7 +354,9 @@
             "Road signs in County Donegal",
             "Self-published work",
             "Streets in County Donegal"
-          ]
+          ],
+          "mediumPath": "_m/g/c/f/2/county-donegal-wp/falcarraghcrossroads-medium.webp",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/falcarraghcrossroads-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/city-of-derry-airport.jpg",
@@ -359,7 +371,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:City_of_Derry_Airport.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-donegal-wp",
-          "sourceGeohash4": "gcf2"
+          "sourceGeohash4": "gcf2",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/city-of-derry-airport-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/ballyshannon-in-the-morning-su.jpg",
@@ -374,7 +387,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballyshannon_in_the_Morning_Sun_2012_09_17.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-donegal-wp",
-          "sourceGeohash4": "gcf2"
+          "sourceGeohash4": "gcf2",
+          "mediumPath": "_m/g/c/f/2/county-donegal-wp/ballyshannon-in-the-morning-su-medium.webp",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/ballyshannon-in-the-morning-su-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/donegal-banner.jpg",
@@ -389,7 +404,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Donegal_banner.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-donegal-wp",
-          "sourceGeohash4": "gcf2"
+          "sourceGeohash4": "gcf2",
+          "mediumPath": "_m/g/c/f/2/county-donegal-wp/donegal-banner-medium.webp",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/donegal-banner-small.webp"
         },
         {
           "path": "_m/g/c/f/2/county-donegal-wp/ballyshannon-38-dorrian-s-impe.jpg",
@@ -404,7 +421,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballyshannon-38-Dorrian%27s_Imperial_Hotel-Meerblick-2017-gje.jpg",
           "sourceType": "poi",
           "sourceArticleId": "county-donegal-wp",
-          "sourceGeohash4": "gcf2"
+          "sourceGeohash4": "gcf2",
+          "mediumPath": "_m/g/c/f/2/county-donegal-wp/ballyshannon-38-dorrian-s-impe-medium.webp",
+          "smallPath": "_m/g/c/f/2/county-donegal-wp/ballyshannon-38-dorrian-s-impe-small.webp"
         }
       ],
       "narration": [

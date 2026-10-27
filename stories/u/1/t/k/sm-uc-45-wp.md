@@ -32,7 +32,7 @@ Located at 54.15 N, 7.58 E - reference position in the Heligoland Bight where sh
 
 ## Sources
 
-- [SM UC-45 - Wikipedia](https://en.wikipedia.org/wiki/SM_UC-45)
+- [SM UC-45 - Wikipedia](https://en.wikipedia.org/?curid=21671237)
   - Ordered 20 November 1915 confirmed
   - Launched 20 October 1916 confirmed
   - Commissioned 18 November 1916 confirmed

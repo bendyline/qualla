@@ -44,7 +44,7 @@ The ruins of Humaitá lie on the east bank of the River Paraguay in Ñeembucú D
 - [Delfim Carlos de Carvalho, Baron of Passagem - Wikipedia](https://en.wikipedia.org/wiki/Delfim_Carlos_de_Carvalho,_Baron_of_Passagem)
   - Delfim Carlos de Carvalho was son-in-law of Admiral Inácio confirmed
   - Volunteered to lead the passage confirmed
-- [The Times London comparison to Trafalgar - historical record](https://en.wikipedia.org/wiki/Passage_of_Humait%C3%A1)
+- [The Times London comparison to Trafalgar - historical record](https://en.wikipedia.org/?curid=47063317)
   - Times of London compared passage to Aboukir or Trafalgar confirmed
 
 ## Review Notes

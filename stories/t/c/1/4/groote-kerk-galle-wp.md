@@ -33,7 +33,7 @@ The Groote Kerk is located at 6.028N, 80.217E, inside Galle Fort on Sri Lanka's 
 ## Sources
 
 - [Groote Kerk, Galle - Wikipedia](https://en.wikipedia.org/?curid=43688124)
-- [Groote Kerk, Galle - Wikipedia verification](https://en.wikipedia.org/wiki/Groote_Kerk,_Galle)
+- [Groote Kerk, Galle - Wikipedia verification](https://en.wikipedia.org/?curid=43688124)
   - Casparus de Jong Commandeur of Galle, wife Geertruyda Adriana Le Grand funded church
   - Baptismal Register date 24 August 1755 confirmed
   - Abraham Anthonisz (superintendent of ship-building and architects) oversaw construction

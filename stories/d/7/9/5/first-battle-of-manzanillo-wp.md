@@ -37,7 +37,7 @@ Located at 20.34N, 77.12W on the Gulf of Guacanayabo, southeastern Cuba. Manzani
 ## Sources
 
 - [First Battle of Manzanillo - Wikipedia](https://en.wikipedia.org/?curid=18454689)
-- [First Battle of Manzanillo - Wikipedia](https://en.wikipedia.org/wiki/First_Battle_of_Manzanillo)
+- [First Battle of Manzanillo - Wikipedia](https://en.wikipedia.org/?curid=18454689)
   - Date June 30, 1898 confirmed
   - Three American ships (Hornet, Hist, Wompatuck) confirmed
   - Spanish squadron: Guantanamo, Estrella, Delgado Parejo each crewed by 19 confirmed

@@ -28,7 +28,7 @@ What makes Tolomato extraordinary is not any single grave but the sheer compress
 
 ## Flight Context
 
-Tolomato Cemetery is located at approximately 29.897N, 81.315W on Cordova Street in the historic district of St. Augustine, Florida. From the air, it is a small, walled green space within the dense urban fabric of the old city, roughly two blocks west of the Castillo de San Marcos and the Matanzas River waterfront. The cemetery is bounded by streets on all sides and distinguished by mature trees and the mortuary chapel at the rear of the grounds. Nearest airport: St. Augustine Airport (KSGJ) approximately 4nm northwest. Jacksonville International (KJAX) is about 35nm north. The site is best identified in context with surrounding landmarks -- the Castillo's star-shaped fort and the Bridge of Lions are both within a few blocks.
+Tolomato Cemetery is located at approximately 29.897N, 81.315W on Cordova Street in the historic district of St. Augustine, Florida. From the air, it is a small, walled green space within the dense urban fabric of the old city, roughly two blocks west of the Castillo de San Marcos and the Matanzas River waterfront. The cemetery is bounded by streets on all sides and distinguished by mature trees and the mortuary chapel at the rear of the grounds. Nearest airport: Northeast Florida Regional Airport (KSGJ, formerly St. Augustine Airport) approximately 4nm northwest. Jacksonville International (KJAX) is about 35nm north. The site is best identified in context with surrounding landmarks -- the Castillo's star-shaped fort and the Bridge of Lions are both within a few blocks.
 
 ## Sources
 

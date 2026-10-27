@@ -33,7 +33,7 @@ Located at 34.546N, 135.840E at the foot of Mount Miwa in Sakurai, Nara Prefectu
 ## Sources
 
 - [Makimuku ruins - Wikipedia](https://en.wikipedia.org/?curid=69613211)
-- [Makimuku ruins - Wikipedia](https://en.wikipedia.org/wiki/Makimuku_ruins)
+- [Makimuku ruins - Wikipedia](https://en.wikipedia.org/?curid=69613211)
   - Settlement site from early 3rd century at foot of Mount Miwa in Sakurai, Nara
   - Approximately 10 times larger than Karako-Kagi site -- the next largest settlement of the era
   - Hashihaka Kofun is approximately 280 meters long, confirmed as first large keyhole kofun

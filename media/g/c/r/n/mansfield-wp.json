@@ -3,31 +3,28 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/r/n/mansfield-wp/hero.jpg",
-        "filename": "Mansfield Market Place.jpg",
-        "caption": "A bright morning for Mansfield's Tuesday market, showing the Bentinck Memorial in the centre of the picture.",
-        "alt": "A bright morning for Mansfield's Tuesday market, showing the Bentinck Memorial in the centre of the picture.",
-        "width": 4457,
-        "height": 2929,
+        "path": "_m/g/c/r/n/mansfield-wp/carr-bank-park-windmil.jpg",
+        "filename": "Carr Bank Park, Windmill Lane, Mansfield - Bandstand (7).jpg",
+        "caption": "Carr Bank Park, Windmill Lane, Mansfield - Bandstand",
+        "alt": "Carr Bank Park, Windmill Lane, Mansfield - Bandstand",
+        "width": 4048,
+        "height": 3036,
         "mimeType": "image/jpeg",
-        "license": "CC BY 2.0",
-        "artist": "Duncan",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mansfield_Market_Place.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Enchufla Con Clave",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carr_Bank_Park,_Windmill_Lane,_Mansfield_-_Bandstand_(7).jpg",
         "sourceType": "core",
         "sourceArticleId": "mansfield-wp",
         "sourceGeohash4": "gcrn",
         "categories": [
-          "CC-BY-2.0",
-          "Cavendish Monument, Market Place, Mansfield",
+          "Bandstands in Nottinghamshire",
+          "CC-BY-SA-4.0",
+          "Carr Bank Park",
           "Files with coordinates missing SDC location of creation (53° N, 2° W)",
-          "Flickr images missing SDC Flickr photo ID",
-          "Flickr images missing SDC creator",
-          "Flickr images missing SDC published in",
-          "Flickr images missing SDC source of file",
-          "Flickr images reviewed by FlickreviewR",
-          "Images with extracted images",
-          "Market Place, Mansfield"
-        ]
+          "Self-published work"
+        ],
+        "mediumPath": "_m/g/c/r/n/mansfield-wp/carr-bank-park-windmil-medium.webp",
+        "smallPath": "_m/g/c/r/n/mansfield-wp/carr-bank-park-windmil-small.webp"
       },
       "images": [
         {
@@ -292,7 +289,7 @@
           "smallPath": "_m/g/c/r/n/mansfield-wp/new-image-4-small.webp"
         },
         {
-          "path": "_m/g/c/r/n/mansfield-wp/revised-image-added-or.jpg",
+          "path": "_m/g/c/r/n/mansfield-railway-station-nottinghamshire-wp/revised-image-added-or.jpg",
           "filename": "Mansfield Railway Station, Notts.jpg",
           "caption": "A revised image added from the original image",
           "alt": "A revised image added from the original image",
@@ -304,10 +301,12 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mansfield_Railway_Station,_Notts.jpg",
           "sourceType": "core",
           "sourceArticleId": "mansfield-wp",
-          "sourceGeohash4": "gcrn"
+          "sourceGeohash4": "gcrn",
+          "mediumPath": "_m/g/c/r/n/mansfield-railway-station-nottinghamshire-wp/revised-image-added-or-medium.webp",
+          "smallPath": "_m/g/c/r/n/mansfield-railway-station-nottinghamshire-wp/revised-image-added-or-small.webp"
         },
         {
-          "path": "_m/g/c/r/n/mansfield-wp/image-has-slightly-lig.jpg",
+          "path": "_m/g/c/r/n/mansfield-railway-station-nottinghamshire-wp/image-has-slightly-lig.jpg",
           "filename": "Mansfield Bus Station - geograph.org.uk - 7853795.Amended.jpg",
           "caption": "The image has been slightly lightened and cropped.",
           "alt": "The image has been slightly lightened and cropped.",
@@ -319,7 +318,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mansfield_Bus_Station_-_geograph.org.uk_-_7853795.Amended.jpg",
           "sourceType": "core",
           "sourceArticleId": "mansfield-wp",
-          "sourceGeohash4": "gcrn"
+          "sourceGeohash4": "gcrn",
+          "smallPath": "_m/g/c/r/n/mansfield-railway-station-nottinghamshire-wp/image-has-slightly-lig-small.webp"
         },
         {
           "path": "_m/g/c/r/n/mansfield-wp/new-image-added.jpg",
@@ -828,7 +828,9 @@
             "Stagecoach East Midlands",
             "Taken with Olympus E-P1",
             "Wright Solar on Scania L94UB buses in the United Kingdom"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/n/mansfield-england-wk/mansfield-notts-geograph-36554-medium.webp",
+          "smallPath": "_m/g/c/r/n/mansfield-england-wk/mansfield-notts-geograph-36554-small.webp"
         },
         {
           "path": "_m/g/c/r/n/mansfield-england-wk/mansfieldmuseum.jpg",
@@ -850,7 +852,9 @@
             "Files with coordinates missing SDC location of creation (53° N, 2° W)",
             "Mansfield Museum",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/n/mansfield-england-wk/mansfieldmuseum-medium.webp",
+          "smallPath": "_m/g/c/r/n/mansfield-england-wk/mansfieldmuseum-small.webp"
         },
         {
           "path": "_m/g/c/r/n/mansfield-england-wk/robin-hood-line.png",
@@ -873,7 +877,8 @@
             "Rail transport maps of Nottinghamshire",
             "Robin Hood Line",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/n/mansfield-england-wk/robin-hood-line-small.webp"
         },
         {
           "path": "_m/g/c/r/n/mansfield-england-wk/mansfield-banner-market-place.jpg",
@@ -895,7 +900,9 @@
             "Extracted images",
             "Market Place, Mansfield",
             "Wikivoyage banners of England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/n/mansfield-england-wk/mansfield-banner-market-place-medium.webp",
+          "smallPath": "_m/g/c/r/n/mansfield-england-wk/mansfield-banner-market-place-small.webp"
         },
         {
           "path": "_m/g/c/r/q/nottinghamshire-wp/newark-on-trent-uk-market-squa.jpg",
@@ -925,7 +932,8 @@
             "Self-published work",
             "St Mary Magdalene's church, Newark",
             "Taken with Canon EOS 300D"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/q/nottinghamshire-wp/newark-on-trent-uk-market-squa-small.webp"
         },
         {
           "path": "_m/g/c/r/q/nottinghamshire-wp/beestontownhall.jpg",
@@ -945,7 +953,9 @@
             "Beeston Town Hall",
             "PD-user",
             "Taken with Pentax Optio S4"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/q/nottinghamshire-wp/beestontownhall-medium.webp",
+          "smallPath": "_m/g/c/r/q/nottinghamshire-wp/beestontownhall-small.webp"
         },
         {
           "path": "_m/g/c/r/q/nottinghamshire-wp/nottingham-skyline.jpg",
@@ -965,7 +975,8 @@
             "CC-BY-3.0",
             "Self-published work",
             "Views of Nottingham"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/q/nottinghamshire-wp/nottingham-skyline-small.webp"
         },
         {
           "path": "_m/g/c/r/q/nottinghamshire-wp/worksop-priory2.jpg",
@@ -983,7 +994,8 @@
           "sourceGeohash4": "gcrq",
           "categories": [
             "CC-BY-SA-3.0"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/q/nottinghamshire-wp/worksop-priory2-small.webp"
         },
         {
           "path": "_m/g/c/r/n/major-oak-wp/oldest-tree-in-sherwood-forest.jpg",
@@ -1010,7 +1022,9 @@
             "Photographs taken on 2005-08-15",
             "Self-published work",
             "Taken with Canon PowerShot A75"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/n/major-oak-wp/oldest-tree-in-sherwood-forest-medium.webp",
+          "smallPath": "_m/g/c/r/n/major-oak-wp/oldest-tree-in-sherwood-forest-small.webp"
         },
         {
           "path": "_m/g/c/r/n/major-oak-wp/major-oak-1.jpg",
@@ -1033,7 +1047,9 @@
             "Nottingham Forest F.C.",
             "Robin Hood",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/n/major-oak-wp/major-oak-1-medium.webp",
+          "smallPath": "_m/g/c/r/n/major-oak-wp/major-oak-1-small.webp"
         },
         {
           "path": "_m/g/c/r/n/edwinstowe-wp/rufford-abbey-geograph-3674622.jpg",
@@ -1055,7 +1071,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Rufford Abbey"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/n/edwinstowe-wp/rufford-abbey-geograph-3674622-small.webp"
         }
       ],
       "narration": [

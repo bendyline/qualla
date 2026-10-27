@@ -28,7 +28,7 @@ In 1989, a $50 million restoration stripped away decades of modifications and re
 
 ## Flight Context
 
-Located at 21.28N, 157.83W on the beachfront of Waikiki, Oahu. The Moana Surfrider complex is identifiable along Kalakaua Avenue between the Royal Hawaiian Hotel (pink) and the beach. The banyan canopy is visible as a large green circle in the hotel courtyard. Best viewed at 1,500-2,500 feet AGL approaching along Waikiki Beach from Diamond Head. Nearest airport: PHNL (Honolulu International, 6 nm NW).
+Located at 21.28N, 157.83W on the beachfront of Waikiki, Oahu. The Moana Surfrider complex is identifiable along Kalakaua Avenue between the Royal Hawaiian Hotel (pink) and the beach. The banyan canopy is visible as a large green circle in the hotel courtyard. Best viewed at 1,500-2,500 feet AGL approaching along Waikiki Beach from Diamond Head. Nearest airport: PHNL (Daniel K. Inouye International, formerly Honolulu International, 6 nm NW).
 
 ## Sources
 

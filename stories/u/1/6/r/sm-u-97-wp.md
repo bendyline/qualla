@@ -36,7 +36,7 @@ U-97 was lost near 53.42 N, 3.17 E, in the southern North Sea about 40 nautical 
 
 ## Sources
 
-- [SM U-97 - Wikipedia](https://en.wikipedia.org/wiki/SM_U-97)
+- [SM U-97 - Wikipedia](https://en.wikipedia.org/?curid=25193236)
   - displacement 838 tonnes surfaced, ~1000 tonnes submerged
   - length 71.55 m overall, pressure hull 56.05 m
   - beam 6.30 m, draught 3.94 m

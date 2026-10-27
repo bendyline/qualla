@@ -3,29 +3,17 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/9/q/8/y/brisbane-baylands-development-wp/hero.jpg",
-        "filename": "Bos-sfo-sba268.JPG (279019479).jpg",
-        "caption": "The decommissioned Southern Pacific Rail yard is now a no-mans land between Candlestick Point and Brisbane, on the slope of San Bruno Mountain, just south of San Francisco.",
-        "alt": "The decommissioned Southern Pacific Rail yard is now a no-mans land between Candlestick Point and Brisbane, on the slope of San Bruno Mountain, just south of San Francisco.",
-        "width": 3496,
-        "height": 1598,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Doc Searls from Santa Barbara, USA",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bos-sfo-sba268.JPG_(279019479).jpg",
-        "sourceType": "core",
-        "sourceArticleId": "brisbane-baylands-development-wp",
-        "sourceGeohash4": "9q8y",
-        "categories": [
-          "Bayshore Cutoff",
-          "Brisbane Baylands",
-          "CC-BY-SA-2.0",
-          "Flickr images reviewed by FlickreviewR 2"
-        ]
+        "path": "_m/9/q/8/y/grateful-dead-san-francisco-wk/bayareausgs.jpg",
+        "filename": "BayareaUSGS.jpg",
+        "width": 769,
+        "height": 798,
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BayareaUSGS.jpg",
+        "smallPath": "_m/9/q/8/y/grateful-dead-san-francisco-wk/bayareausgs-small.webp"
       },
       "images": [
         {
-          "path": "_m/9/q/8/y/brisbane-baylands-development-wp/bayareausgs.jpg",
+          "path": "_m/9/q/8/y/grateful-dead-san-francisco-wk/bayareausgs.jpg",
           "filename": "BayareaUSGS.jpg",
           "alt": "BayareaUSGS.jpg",
           "width": 769,
@@ -49,10 +37,11 @@
             "Satellite pictures of peninsulas",
             "Satellite pictures of the San Francisco Bay Area",
             "Suisun Bay"
-          ]
+          ],
+          "smallPath": "_m/9/q/8/y/grateful-dead-san-francisco-wk/bayareausgs-small.webp"
         },
         {
-          "path": "_m/9/q/8/y/brisbane-baylands-development-wp/map-san-francisco-vici.png",
+          "path": "_m/9/q/8/z/fort-point-national-historic-site-wp/map-san-francisco-vici.png",
           "filename": "Location map San Francisco.png",
           "caption": "This map of San Francisco and vicinity was created from OpenStreetMap project data, collected by the community. This map may be incomplete, and may contain errors. Don't rely solely on it for navigation.",
           "alt": "This map of San Francisco and vicinity was created from OpenStreetMap project data, collected by the community. This map may be incomplete, and may contain errors. Don't rely solely on it for navigation.",
@@ -69,7 +58,8 @@
             "CC-BY-SA-2.0",
             "Location maps of California",
             "OpenStreetMap maps of San Francisco"
-          ]
+          ],
+          "smallPath": "_m/9/q/8/z/fort-point-national-historic-site-wp/map-san-francisco-vici-small.webp"
         }
       ],
       "narration": [
@@ -81,8 +71,9 @@
         "_m/9/q/8/y/brisbane-baylands-development-wp/9q8y-brisbane-baylands-development-measure-jj-and-what-comes-next.mp3"
       ],
       "combinedNarration": "_m/9/q/8/y/brisbane-baylands-development-wp/9q8y-brisbane-baylands-development-combined.mp3",
-      "combinedNarrationBytes": 2977073,
-      "combinedNarrationDuration": 248
+      "combinedNarrationBytes": 3092768,
+      "combinedNarrationDuration": 248,
+      "combinedCover": "_m/9/q/8/y/brisbane-baylands-development-wp/9q8y-brisbane-baylands-development-combined-cover.jpg"
     }
   }
 }

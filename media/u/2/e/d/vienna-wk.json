@@ -12,20 +12,31 @@
         "_m/u/2/e/d/vienna-wk/u2ed-vienna-the-cake-war.mp3"
       ],
       "hero": {
-        "path": "_m/u/2/e/d/vienna-wp/ernst-happel-stadion-vienna.jpg",
-        "filename": "Ernst-happel-stadion vienna.jpg",
-        "caption": "Aerial view of Ernst-Happel-Stadion, Vienna, Austria",
-        "alt": "Aerial view of Ernst-Happel-Stadion, Vienna, Austria",
-        "width": 3918,
-        "height": 2612,
+        "path": "_m/u/2/e/d/vienna-wk/hero.jpg",
+        "filename": "Sachertorte DSC03027.JPG",
+        "caption": "Sachertorte from the Hotel Sacher, Vienna.",
+        "alt": "Sachertorte from the Hotel Sacher, Vienna.",
+        "width": 2592,
+        "height": 1944,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0 de",
-        "artist": "Arne Müseler",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ernst-happel-stadion_vienna.jpg",
-        "sourceType": "sibling",
-        "sourceArticleId": "vienna-wp",
+        "license": "CC BY-SA 3.0",
+        "artist": "David Monniaux",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sachertorte_DSC03027.JPG",
+        "sourceType": "core",
+        "sourceArticleId": "vienna-wk",
         "sourceGeohash4": "u2ed",
         "accessedAt": "2026-02-22T14:13:53.328Z",
+        "categories": [
+          "CC-BY-SA-2.0",
+          "CC-BY-SA-2.0-FR",
+          "CC-BY-SA-3.0-migrated",
+          "Cake triangles",
+          "GFDL",
+          "License migration completed",
+          "Paper napkins with food",
+          "Sachertorte at Hotel Sacher",
+          "Whipped cream"
+        ],
         "mediumPath": "_m/u/2/e/d/vienna-wk/hero-medium.webp",
         "smallPath": "_m/u/2/e/d/vienna-wk/hero-small.webp"
       },
@@ -1893,8 +1904,8 @@
             "Sachertorte at Hotel Sacher",
             "Whipped cream"
           ],
-          "mediumPath": "_m/u/2/e/d/vienna-wk/hero-medium.jpg",
-          "smallPath": "_m/u/2/e/d/vienna-wk/hero-small.jpg"
+          "mediumPath": "_m/u/2/e/d/vienna-wk/hero-medium.webp",
+          "smallPath": "_m/u/2/e/d/vienna-wk/hero-small.webp"
         },
         {
           "path": "_m/u/2/e/d/vienna-wp/palacio-belvedere-viena-austri.jpg",
@@ -2456,7 +2467,9 @@
             "Artworks with digital representation of different depicts",
             "Artworks with known accession number",
             "CC-PD-Mark"
-          ]
+          ],
+          "mediumPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/bernardo-bellotto-il-canaletto-medium.webp",
+          "smallPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/bernardo-bellotto-il-canaletto-small.webp"
         },
         {
           "path": "_m/tpc/_ho/vi/en/na/history-of-vienna/donau-wien-unocity.jpg",
@@ -2472,7 +2485,9 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-vienna",
           "sourceGeohash4": "tpc/_ho/vi/en/na",
-          "accessedAt": "2026-02-22T14:13:53.328Z"
+          "accessedAt": "2026-02-22T14:13:53.328Z",
+          "mediumPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/donau-wien-unocity-medium.webp",
+          "smallPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/donau-wien-unocity-small.webp"
         },
         {
           "path": "_m/tpc/_ho/vi/en/na/history-of-vienna/wilhelm-gause-ball-der-stadt-w.jpg",
@@ -2488,7 +2503,9 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-vienna",
           "sourceGeohash4": "tpc/_ho/vi/en/na",
-          "accessedAt": "2026-02-22T14:13:53.328Z"
+          "accessedAt": "2026-02-22T14:13:53.328Z",
+          "mediumPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/wilhelm-gause-ball-der-stadt-w-medium.webp",
+          "smallPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/wilhelm-gause-ball-der-stadt-w-small.webp"
         },
         {
           "path": "_m/tpc/_ho/vi/en/na/history-of-vienna/alsergrund-um1900.jpg",
@@ -2504,7 +2521,8 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-vienna",
           "sourceGeohash4": "tpc/_ho/vi/en/na",
-          "accessedAt": "2026-02-22T14:13:53.328Z"
+          "accessedAt": "2026-02-22T14:13:53.328Z",
+          "smallPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/alsergrund-um1900-small.webp"
         },
         {
           "path": "_m/tpc/_ho/vi/en/na/history-of-vienna/wien-am-himmel-pan-z00.jpg",
@@ -2520,7 +2538,9 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-vienna",
           "sourceGeohash4": "tpc/_ho/vi/en/na",
-          "accessedAt": "2026-02-22T14:13:53.328Z"
+          "accessedAt": "2026-02-22T14:13:53.328Z",
+          "mediumPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/wien-am-himmel-pan-z00-medium.webp",
+          "smallPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/wien-am-himmel-pan-z00-small.webp"
         },
         {
           "path": "_m/tpc/_ho/vi/en/na/history-of-vienna/portrait-of-franz-joseph-i-by-.jpg",
@@ -2535,7 +2555,9 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-vienna",
           "sourceGeohash4": "tpc/_ho/vi/en/na",
-          "accessedAt": "2026-02-22T14:13:53.328Z"
+          "accessedAt": "2026-02-22T14:13:53.328Z",
+          "mediumPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/portrait-of-franz-joseph-i-by--medium.webp",
+          "smallPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/portrait-of-franz-joseph-i-by--small.webp"
         },
         {
           "path": "_m/tpc/_ho/vi/en/na/history-of-vienna/vienna-austriae-detail.jpg",
@@ -2551,7 +2573,9 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-vienna",
           "sourceGeohash4": "tpc/_ho/vi/en/na",
-          "accessedAt": "2026-02-22T14:13:53.328Z"
+          "accessedAt": "2026-02-22T14:13:53.328Z",
+          "mediumPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/vienna-austriae-detail-medium.webp",
+          "smallPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/vienna-austriae-detail-small.webp"
         },
         {
           "path": "_m/tpc/_ho/vi/en/na/history-of-vienna/michaelerplatz-vienna-romain-r.jpg",
@@ -2567,7 +2591,8 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-vienna",
           "sourceGeohash4": "tpc/_ho/vi/en/na",
-          "accessedAt": "2026-02-22T14:13:53.328Z"
+          "accessedAt": "2026-02-22T14:13:53.328Z",
+          "smallPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/michaelerplatz-vienna-romain-r-small.webp"
         },
         {
           "path": "_m/tpc/_ho/vi/en/na/history-of-vienna/justizpalast-vienna-2007-68.jpg",
@@ -2583,7 +2608,8 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-vienna",
           "sourceGeohash4": "tpc/_ho/vi/en/na",
-          "accessedAt": "2026-02-22T14:13:53.328Z"
+          "accessedAt": "2026-02-22T14:13:53.328Z",
+          "smallPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/justizpalast-vienna-2007-68-small.webp"
         },
         {
           "path": "_m/tpc/_ho/vi/en/na/history-of-vienna/jasomirgott-2.jpg",
@@ -2599,7 +2625,8 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-vienna",
           "sourceGeohash4": "tpc/_ho/vi/en/na",
-          "accessedAt": "2026-02-22T14:13:53.328Z"
+          "accessedAt": "2026-02-22T14:13:53.328Z",
+          "smallPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/jasomirgott-2-small.webp"
         },
         {
           "path": "_m/tpc/_ho/vi/en/na/history-of-vienna/aspern-wien-lowe-kriegerdenkma.jpg",
@@ -2615,7 +2642,9 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-vienna",
           "sourceGeohash4": "tpc/_ho/vi/en/na",
-          "accessedAt": "2026-02-22T14:13:53.328Z"
+          "accessedAt": "2026-02-22T14:13:53.328Z",
+          "mediumPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/aspern-wien-lowe-kriegerdenkma-medium.webp",
+          "smallPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/aspern-wien-lowe-kriegerdenkma-small.webp"
         },
         {
           "path": "_m/tpc/_ho/vi/en/na/history-of-vienna/dobling-wien-karl-marx-hof.jpg",
@@ -2631,7 +2660,9 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-vienna",
           "sourceGeohash4": "tpc/_ho/vi/en/na",
-          "accessedAt": "2026-02-22T14:13:53.328Z"
+          "accessedAt": "2026-02-22T14:13:53.328Z",
+          "mediumPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/dobling-wien-karl-marx-hof-medium.webp",
+          "smallPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/dobling-wien-karl-marx-hof-small.webp"
         },
         {
           "path": "_m/tpc/_ho/vi/en/na/history-of-vienna/vienna-allied-sectors-1945-195.png",
@@ -2647,7 +2678,8 @@
           "sourceType": "history",
           "sourceArticleId": "history-of-vienna",
           "sourceGeohash4": "tpc/_ho/vi/en/na",
-          "accessedAt": "2026-02-22T14:13:53.328Z"
+          "accessedAt": "2026-02-22T14:13:53.328Z",
+          "smallPath": "_m/tpc/_ho/vi/en/na/history-of-vienna/vienna-allied-sectors-1945-195-small.webp"
         },
         {
           "path": "_m/u/2/e/d/vienna-basin-wp/chvojnica-hills-near-unin.jpg",

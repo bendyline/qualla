@@ -3,36 +3,21 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/q/q/w/e/kalasan-wp/hero.jpg",
-        "filename": "Kalasan Temple from the north-east, 23 November 2013.jpg",
-        "caption": "Kalasan Temple, as seen from the north-east, 23 November 2013",
-        "alt": "Kalasan Temple, as seen from the north-east, 23 November 2013",
-        "width": 4933,
-        "height": 3120,
+        "path": "_m/q/q/w/e/kalasan-wp/kalasan-temple-from-the-south-.jpg",
+        "filename": "Kalasan Temple from the south-south-east, 23 November 2013.jpg",
+        "caption": "Kalasan Temple from the south-south-east, 23 November 2013",
+        "alt": "Kalasan Temple from the south-south-east, 23 November 2013",
+        "width": 3431,
+        "height": 3883,
         "mimeType": "image/jpeg",
         "license": "CC BY-SA 3.0",
         "artist": "Crisco 1492",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalasan_Temple_from_the_north-east,_23_November_2013.jpg",
-        "sourceType": "core",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalasan_Temple_from_the_south-south-east,_23_November_2013.jpg",
+        "sourceType": "commons-category",
         "sourceArticleId": "kalasan-wp",
         "sourceGeohash4": "qqwe",
-        "categories": [
-          "CC-BY-SA-3.0",
-          "Candi Kalasan",
-          "Candi Kalasan in 2013",
-          "Featured pictures on Wikipedia, English",
-          "Featured pictures on Wikipedia, Persian",
-          "Featured pictures on the English Wikipedia by Chris Woodrich",
-          "Files with coordinates missing SDC location of creation",
-          "Indonesia photographs taken on 2013-11-23",
-          "Photographs of temples by Chris Woodrich",
-          "Self-published work",
-          "Taken with Canon EOS 60D",
-          "Unassessed QI candidates",
-          "Valued images of Indonesia by Chris Woodrich",
-          "Valued images promoted 2014-07",
-          "Valued images sorted by promotion date"
-        ]
+        "mediumPath": "_m/q/q/w/e/kalasan-wp/kalasan-temple-from-the-south--medium.webp",
+        "smallPath": "_m/q/q/w/e/kalasan-wp/kalasan-temple-from-the-south--small.webp"
       },
       "images": [
         {
@@ -478,7 +463,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon Digital IXUS 65"
-          ]
+          ],
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/candi-kedulan-small.webp"
         },
         {
           "path": "_m/t/c/9/b/koneswaram-temple-wp/main-shrine-shiva-pram.jpg",
@@ -503,7 +489,8 @@
             "Self-published work",
             "Shiva temple Prambanan",
             "Taken with Canon Digital IXUS 65"
-          ]
+          ],
+          "smallPath": "_m/t/c/9/b/koneswaram-temple-wp/main-shrine-shiva-pram-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/garuda-indonesia-boein.jpg",
@@ -532,7 +519,8 @@
             "Photographs by Gunawan Kartapranata",
             "Self-published work",
             "Taken with Canon Digital IXUS 860 IS"
-          ]
+          ],
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/garuda-indonesia-boein-small.webp"
         },
         {
           "path": "_m/q/q/w/e/prambanan-wp/9th-century-hindu-trim.jpg",
@@ -557,7 +545,9 @@
             "Prambanan in 2010",
             "Self-published work",
             "Taken with Canon Digital IXUS 860 IS"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/e/prambanan-wp/9th-century-hindu-trim-medium.webp",
+          "smallPath": "_m/q/q/w/e/prambanan-wp/9th-century-hindu-trim-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/brambanan-train-station-120827.jpg",
@@ -582,7 +572,8 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Nikon D5000"
-          ]
+          ],
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/brambanan-train-station-120827-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/prambanan-larajonggrang.jpg",
@@ -597,7 +588,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prambanan_LaraJonggrang.JPG",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/prambanan-larajonggrang-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/candi-sewu-viewed-from-the-sou.jpg",
@@ -612,7 +604,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Candi_Sewu_viewed_from_the_south,_23_November_2013.jpg",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/tpc/pr/am/ba/na/prambanan/candi-sewu-viewed-from-the-sou-medium.webp",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/candi-sewu-viewed-from-the-sou-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/gebang-temple-29-december-2013.jpg",
@@ -627,7 +621,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gebang_Temple,_29_December_2013_02.jpg",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/tpc/pr/am/ba/na/prambanan/gebang-temple-29-december-2013-medium.webp",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/gebang-temple-29-december-2013-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/banyunibo-temple-2014-05-31-01.jpg",
@@ -642,7 +638,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banyunibo_Temple,_2014-05-31_01.jpg",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/tpc/pr/am/ba/na/prambanan/banyunibo-temple-2014-05-31-01-medium.webp",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/banyunibo-temple-2014-05-31-01-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/barong-temple-gate-and-two-bui.jpg",
@@ -657,7 +655,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barong_Temple_(gate_and_two_buildings)_2014-05-31.jpg",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/tpc/pr/am/ba/na/prambanan/barong-temple-gate-and-two-bui-medium.webp",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/barong-temple-gate-and-two-bui-small.webp"
         },
         {
           "path": "_m/q/q/w/e/ijo-temple-wp/hero.jpg",
@@ -672,7 +672,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_temple_at_Candi_Ijo,_Sleman,_Yogyakarta,_2014-05-31.jpg",
           "sourceType": "poi",
           "sourceArticleId": "ijo-temple-wp",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/q/q/w/e/ijo-temple-wp/hero-medium.webp",
+          "smallPath": "_m/q/q/w/e/ijo-temple-wp/hero-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/candi-prambanan-dan-sojiwan-da.jpg",
@@ -687,7 +689,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Candi_Prambanan_dan_Sojiwan_dari_Ketinggian.jpg",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/tpc/pr/am/ba/na/prambanan/candi-prambanan-dan-sojiwan-da-medium.webp",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/candi-prambanan-dan-sojiwan-da-small.webp"
         },
         {
           "path": "_m/tpc/pr/am/ba/na/prambanan/plaosan-temple.jpg",
@@ -702,7 +706,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaosan_temple.jpg",
           "sourceType": "poi",
           "sourceArticleId": "prambanan",
-          "sourceGeohash4": "qqwe"
+          "sourceGeohash4": "qqwe",
+          "mediumPath": "_m/tpc/pr/am/ba/na/prambanan/plaosan-temple-medium.webp",
+          "smallPath": "_m/tpc/pr/am/ba/na/prambanan/plaosan-temple-small.webp"
         },
         {
           "path": "_m/q/q/w/u/surakarta-wp/kecamatan-ampel-boyolali.jpg",
@@ -730,7 +736,9 @@
             "License migration redundant",
             "Photographs taken on 2007-02-27",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/u/surakarta-wp/kecamatan-ampel-boyolali-medium.webp",
+          "smallPath": "_m/q/q/w/u/surakarta-wp/kecamatan-ampel-boyolali-small.webp"
         },
         {
           "path": "_m/q/q/w/u/surakarta-wp/sukoharjo-regency-central-java.jpg",
@@ -754,7 +762,9 @@
             "McDonald's restaurants in Indonesia",
             "Self-published work",
             "Sukoharjo Regency"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/u/surakarta-wp/sukoharjo-regency-central-java-medium.webp",
+          "smallPath": "_m/q/q/w/u/surakarta-wp/sukoharjo-regency-central-java-small.webp"
         },
         {
           "path": "_m/q/q/w/u/surakarta-wp/wonogiri-style-noodle-soup-mie.jpg",
@@ -775,7 +785,8 @@
             "Noodle soups",
             "Noodles from Indonesia",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/q/q/w/u/surakarta-wp/wonogiri-style-noodle-soup-mie-small.webp"
         },
         {
           "path": "_m/q/q/w/u/surakarta-wp/chinese-new-year-2574-kongzili.jpg",
@@ -801,7 +812,9 @@
             "Pictures by Sam Hidayat",
             "Self-published work",
             "Surakarta"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/u/surakarta-wp/chinese-new-year-2574-kongzili-medium.webp",
+          "smallPath": "_m/q/q/w/u/surakarta-wp/chinese-new-year-2574-kongzili-small.webp"
         },
         {
           "path": "_m/q/q/w/j/java-wp/becak-tugu-muda-semarang-centr.jpg",
@@ -829,7 +842,9 @@
             "Self-published work",
             "Streets in Semarang",
             "Taken with Fujifilm FinePix F11"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/j/java-wp/becak-tugu-muda-semarang-centr-medium.webp",
+          "smallPath": "_m/q/q/w/j/java-wp/becak-tugu-muda-semarang-centr-small.webp"
         },
         {
           "path": "_m/q/q/w/k/borobudur-wk/hero.jpg",
@@ -858,7 +873,9 @@
             "Photographs by Gunawan Kartapranata",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/k/borobudur-wk/hero-medium.webp",
+          "smallPath": "_m/q/q/w/k/borobudur-wk/hero-small.webp"
         },
         {
           "path": "_m/q/q/w/7/yogyakarta-wk/malioboro-street-main.jpg",
@@ -881,7 +898,9 @@
             "Javanese script in Yogyakarta",
             "Javanese script in public usage",
             "License migration redundant"
-          ]
+          ],
+          "mediumPath": "_m/q/q/w/7/yogyakarta-wk/malioboro-street-main-medium.webp",
+          "smallPath": "_m/q/q/w/7/yogyakarta-wk/malioboro-street-main-small.webp"
         },
         {
           "path": "_m/q/q/w/j/java-wp/ketapang-ferry.jpg",
@@ -896,7 +915,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ketapang_ferry.jpg",
           "sourceType": "poi",
           "sourceArticleId": "java-wp",
-          "sourceGeohash4": "qqwj"
+          "sourceGeohash4": "qqwj",
+          "mediumPath": "_m/q/q/w/j/java-wp/ketapang-ferry-medium.webp",
+          "smallPath": "_m/q/q/w/j/java-wp/ketapang-ferry-small.webp"
         },
         {
           "path": "_m/q/q/w/j/java-wp/java-regions-map-en.png",
@@ -911,7 +932,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Java_regions_map_(en).png",
           "sourceType": "poi",
           "sourceArticleId": "java-wp",
-          "sourceGeohash4": "qqwj"
+          "sourceGeohash4": "qqwj",
+          "mediumPath": "_m/q/q/w/j/java-wp/java-regions-map-en-medium.webp",
+          "smallPath": "_m/q/q/w/j/java-wp/java-regions-map-en-small.webp"
         },
         {
           "path": "_m/q/q/w/j/java-wp/merbabumerapi.jpg",
@@ -926,7 +949,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:MerbabuMerapi.jpg",
           "sourceType": "poi",
           "sourceArticleId": "java-wp",
-          "sourceGeohash4": "qqwj"
+          "sourceGeohash4": "qqwj",
+          "mediumPath": "_m/q/q/w/j/java-wp/merbabumerapi-medium.webp",
+          "smallPath": "_m/q/q/w/j/java-wp/merbabumerapi-small.webp"
         },
         {
           "path": "_m/q/q/w/j/java-wp/montage-of-bandung.jpg",
@@ -941,7 +966,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Montage_of_Bandung.jpg",
           "sourceType": "poi",
           "sourceArticleId": "java-wp",
-          "sourceGeohash4": "qqwj"
+          "sourceGeohash4": "qqwj",
+          "smallPath": "_m/q/q/w/j/java-wp/montage-of-bandung-small.webp"
         },
         {
           "path": "_m/q/q/w/j/java-wp/montage-of-bogor.jpg",
@@ -956,7 +982,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Montage_of_Bogor.jpg",
           "sourceType": "poi",
           "sourceArticleId": "java-wp",
-          "sourceGeohash4": "qqwj"
+          "sourceGeohash4": "qqwj",
+          "smallPath": "_m/q/q/w/j/java-wp/montage-of-bogor-small.webp"
         },
         {
           "path": "_m/q/q/w/j/java-wp/andhika-bayu-nugraha-taman-nas.jpg",
@@ -971,7 +998,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg",
           "sourceType": "poi",
           "sourceArticleId": "java-wp",
-          "sourceGeohash4": "qqwj"
+          "sourceGeohash4": "qqwj",
+          "mediumPath": "_m/q/q/w/j/java-wp/andhika-bayu-nugraha-taman-nas-medium.webp",
+          "smallPath": "_m/q/q/w/j/java-wp/andhika-bayu-nugraha-taman-nas-small.webp"
         }
       ],
       "narration": [

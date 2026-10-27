@@ -1,6 +1,7 @@
 {
   "id": "santiago-wk",
   "patch": {
+    "locationWikipediaPath": "6/6/j/9/alameda-santiago-wp",
     "media": {
       "hero": {
         "path": "_m/6/6/j/c/santiago-wp/santiago-de-chile-desde-cerro-.jpg",
@@ -17,8 +18,8 @@
         "sourceArticleId": "santiago-wp",
         "sourceGeohash4": "66jc",
         "accessedAt": "2026-02-21T20:08:23.188Z",
-        "mediumPath": "_m/6/6/j/c/santiago-wk/hero-medium.webp",
-        "smallPath": "_m/6/6/j/c/santiago-wk/hero-small.webp"
+        "mediumPath": "_m/6/6/j/c/santiago-wp/santiago-de-chile-desde-cerro--medium.webp",
+        "smallPath": "_m/6/6/j/c/santiago-wp/santiago-de-chile-desde-cerro--small.webp"
       },
       "images": [
         {
@@ -748,7 +749,8 @@
             "Media missing infobox template",
             "Palacio de La Moneda",
             "Plaza de la Constitución, Santiago de Chile"
-          ]
+          ],
+          "smallPath": "_m/6/6/j/c/santiago-wp/palacio-de-la-moneda-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/fundacion-de-santiago.jpg",
@@ -776,7 +778,8 @@
             "Pedro Lira",
             "Pedro de Valdivia",
             "People wearing morion"
-          ]
+          ],
+          "smallPath": "_m/6/6/j/c/santiago-wp/fundacion-de-santiago-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/1965-3ra-etapa.jpg",
@@ -799,7 +802,8 @@
             "License migration completed",
             "Media missing infobox template",
             "Old maps of the Santiago Metro"
-          ]
+          ],
+          "smallPath": "_m/6/6/j/c/santiago-wp/1965-3ra-etapa-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/battle-of-maipu.jpg",
@@ -823,7 +827,8 @@
             "PD-Art (PD-old-auto-expired)",
             "PD-old-100-expired",
             "Paintings with signatures (lower right)"
-          ]
+          ],
+          "smallPath": "_m/6/6/j/c/santiago-wp/battle-of-maipu-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/plaza-de-armas-de-santiago-de-.jpg",
@@ -855,7 +860,8 @@
             "Paintings in the Museo Nacional de Bellas Artes (Chile)",
             "Plaza de Armas de Santiago",
             "Santiago de Chile in art"
-          ]
+          ],
+          "smallPath": "_m/6/6/j/c/santiago-wp/plaza-de-armas-de-santiago-de--small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/plano-de-santiago-por-nicol-s-.jpg",
@@ -871,7 +877,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/plano-de-santiago-por-nicol-s--medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/plano-de-santiago-por-nicol-s--small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/ollas-comunes-en-1932.jpg",
@@ -887,7 +895,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "smallPath": "_m/6/6/j/c/santiago-wp/ollas-comunes-en-1932-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/metrolinea4.jpg",
@@ -903,7 +912,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "smallPath": "_m/6/6/j/c/santiago-wp/metrolinea4-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/chile-costanera-norte-crossing.jpg",
@@ -919,7 +929,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "smallPath": "_m/6/6/j/c/santiago-wp/chile-costanera-norte-crossing-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/bibliotecanacionaldechile.jpg",
@@ -935,7 +946,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/bibliotecanacionaldechile-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/bibliotecanacionaldechile-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/museo-de-arte-contempor-neo-sa.jpg",
@@ -951,7 +964,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/museo-de-arte-contempor-neo-sa-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/museo-de-arte-contempor-neo-sa-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/centro-gabriela-mistral-002.jpg",
@@ -967,7 +982,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/centro-gabriela-mistral-002-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/centro-gabriela-mistral-002-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/museo-nacional-de-bellas-artes.jpg",
@@ -983,7 +1000,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/museo-nacional-de-bellas-artes-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/museo-nacional-de-bellas-artes-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/catedral-metropolitana-de-sant.jpg",
@@ -999,7 +1018,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "smallPath": "_m/6/6/j/c/santiago-wp/catedral-metropolitana-de-sant-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/mercadocentral.jpg",
@@ -1015,7 +1035,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "smallPath": "_m/6/6/j/c/santiago-wp/mercadocentral-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/biblioteca-nacional-de-chile-2.jpg",
@@ -1031,7 +1052,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "smallPath": "_m/6/6/j/c/santiago-wp/biblioteca-nacional-de-chile-2-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/chile-santiago-24-virgin-mary-.jpg",
@@ -1047,7 +1069,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "smallPath": "_m/6/6/j/c/santiago-wp/chile-santiago-24-virgin-mary--small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/casa-matriz-banco-de-chile-201.jpg",
@@ -1063,7 +1086,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/casa-matriz-banco-de-chile-201-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/casa-matriz-banco-de-chile-201-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/cerro-santa-luc-a-santiago.jpg",
@@ -1079,7 +1104,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/cerro-santa-luc-a-santiago-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/cerro-santa-luc-a-santiago-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/la-plancha.jpg",
@@ -1095,7 +1122,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/la-plancha-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/la-plancha-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/palacio-de-la-real-audiencia-y.jpg",
@@ -1111,7 +1140,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "smallPath": "_m/6/6/j/c/santiago-wp/palacio-de-la-real-audiencia-y-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/invernadero-del-parque-quinta-.jpg",
@@ -1127,7 +1157,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/invernadero-del-parque-quinta--medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/invernadero-del-parque-quinta--small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/palacio-de-la-moneda-miguelref.jpg",
@@ -1143,7 +1175,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/palacio-de-la-moneda-miguelref-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/palacio-de-la-moneda-miguelref-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/frontis-museo-nacional-de-hist.jpg",
@@ -1159,7 +1193,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "smallPath": "_m/6/6/j/c/santiago-wp/frontis-museo-nacional-de-hist-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/casa-central-pontificia-univer.jpg",
@@ -1175,7 +1210,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/casa-central-pontificia-univer-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/casa-central-pontificia-univer-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/j27-863-bf-santiago-hbf-xm-15.jpg",
@@ -1191,7 +1228,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/j27-863-bf-santiago-hbf-xm-15-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/j27-863-bf-santiago-hbf-xm-15-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/museo-colonial-santiago.jpg",
@@ -1207,7 +1246,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/museo-colonial-santiago-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/museo-colonial-santiago-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/iglesia-de-santo-domingo-santi.jpg",
@@ -1223,7 +1264,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/iglesia-de-santo-domingo-santi-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/iglesia-de-santo-domingo-santi-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/l6-los-leones-puertas-de-and-n.jpg",
@@ -1239,7 +1282,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/l6-los-leones-puertas-de-and-n-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/l6-los-leones-puertas-de-and-n-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/gran-torre-santiago-costanera-.jpg",
@@ -1255,7 +1300,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/gran-torre-santiago-costanera--medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/gran-torre-santiago-costanera--small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/idh-comunal-de-santiago-de-chi.png",
@@ -1271,7 +1318,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "smallPath": "_m/6/6/j/c/santiago-wp/idh-comunal-de-santiago-de-chi-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/2019-04-06-12h10m43.jpg",
@@ -1287,7 +1335,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/2019-04-06-12h10m43-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/2019-04-06-12h10m43-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/edificio-de-la-cepal-en-chile-.jpg",
@@ -1303,7 +1353,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/edificio-de-la-cepal-en-chile--medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/edificio-de-la-cepal-en-chile--small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/metropolitan-cathedral-of-sant.jpg",
@@ -1319,7 +1371,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/metropolitan-cathedral-of-sant-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/metropolitan-cathedral-of-sant-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/chile-03808-chapel-of-the-cerr.jpg",
@@ -1335,7 +1389,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/chile-03808-chapel-of-the-cerr-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/chile-03808-chapel-of-the-cerr-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/chile-02568-post-office-490325.jpg",
@@ -1351,7 +1407,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/chile-02568-post-office-490325-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/chile-02568-post-office-490325-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/la-parva-centro-de-esqu-2011d2.jpg",
@@ -1367,7 +1425,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "smallPath": "_m/6/6/j/c/santiago-wp/la-parva-centro-de-esqu-2011d2-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/edificio-de-la-municipalidad-d.jpg",
@@ -1383,7 +1442,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/edificio-de-la-municipalidad-d-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/edificio-de-la-municipalidad-d-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/fuente-neptuno-en-la-terraza-d.jpg",
@@ -1399,7 +1460,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/fuente-neptuno-en-la-terraza-d-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/fuente-neptuno-en-la-terraza-d-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/bus-510-en-avenida-matta-santi.jpg",
@@ -1415,7 +1478,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/bus-510-en-avenida-matta-santi-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/bus-510-en-avenida-matta-santi-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/chilean-national-museum-of-fin.jpg",
@@ -1431,7 +1496,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/chilean-national-museum-of-fin-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/chilean-national-museum-of-fin-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/palacio-edwards-santiago-20230.jpg",
@@ -1447,7 +1514,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/palacio-edwards-santiago-20230-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/palacio-edwards-santiago-20230-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/1-locomotora-de-vapor-kitson-m.jpg",
@@ -1463,7 +1532,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/1-locomotora-de-vapor-kitson-m-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/1-locomotora-de-vapor-kitson-m-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/santiago-de-chile-at-1929.jpg",
@@ -1487,7 +1558,8 @@
             "PD-Chile",
             "Paseo Ahumada",
             "Photographs taken on 1929-08-16"
-          ]
+          ],
+          "smallPath": "_m/6/6/j/c/santiago-wp/santiago-de-chile-at-1929-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/santiago-en-invierno.jpg",
@@ -1511,7 +1583,8 @@
             "Information field template with formatting",
             "Skylines of Santiago de Chile",
             "Winter in Chile"
-          ]
+          ],
+          "smallPath": "_m/6/6/j/c/santiago-wp/santiago-en-invierno-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/santiago-de-chile.jpg",
@@ -1532,7 +1605,8 @@
             "PD-user",
             "Santiago de Chile",
             "Taken with Sony DSC-P92"
-          ]
+          ],
+          "smallPath": "_m/6/6/j/c/santiago-wp/santiago-de-chile-small.webp"
         },
         {
           "path": "_m/4/q/m/b/alberto-de-agostini-national-park-wp/relief-map-of-chile.jpg",
@@ -1548,7 +1622,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "alberto-de-agostini-national-park-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "smallPath": "_m/4/q/m/b/alberto-de-agostini-national-park-wp/relief-map-of-chile-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/santiago-de-chile-desde-cerro-.jpg",
@@ -1564,7 +1639,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/santiago-de-chile-desde-cerro--medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/santiago-de-chile-desde-cerro--small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/schmidtmeyer-paroissien-james-.jpg",
@@ -1580,7 +1657,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/schmidtmeyer-paroissien-james--medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/schmidtmeyer-paroissien-james--small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/presentacion-buses-transporte-.jpg",
@@ -1596,7 +1675,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "smallPath": "_m/6/6/j/c/santiago-wp/presentacion-buses-transporte--small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/santiago-from-sky-costanera-20.jpg",
@@ -1612,7 +1692,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/santiago-from-sky-costanera-20-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/santiago-from-sky-costanera-20-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/titanium-la-portada-3888873939.jpg",
@@ -1628,7 +1710,8 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "smallPath": "_m/6/6/j/c/santiago-wp/titanium-la-portada-3888873939-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/torre-entel-santiago-20230312.jpg",
@@ -1644,7 +1727,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/torre-entel-santiago-20230312-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/torre-entel-santiago-20230312-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wk/hero.jpg",
@@ -1676,8 +1761,8 @@
             "Volvo buses in Chile",
             "Volvo chassis buses (Brazil)"
           ],
-          "mediumPath": "_m/6/6/j/c/santiago-wk/hero-medium.jpg",
-          "smallPath": "_m/6/6/j/c/santiago-wk/hero-small.jpg"
+          "mediumPath": "_m/6/6/j/c/santiago-wk/hero-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wk/hero-small.webp"
         },
         {
           "path": "_m/6/6/j/c/santiago-wp/teatro-municipal-santiago-2023.jpg",
@@ -1693,7 +1778,9 @@
           "sourceType": "sibling",
           "sourceArticleId": "santiago-wp",
           "sourceGeohash4": "66jc",
-          "accessedAt": "2026-02-21T20:08:23.188Z"
+          "accessedAt": "2026-02-21T20:08:23.188Z",
+          "mediumPath": "_m/6/6/j/c/santiago-wp/teatro-municipal-santiago-2023-medium.webp",
+          "smallPath": "_m/6/6/j/c/santiago-wp/teatro-municipal-santiago-2023-small.webp"
         },
         {
           "path": "_m/6/6/j/9/santiago-west-and-south-wk/navidad-en-plaza-de-maipu-2023.jpg",
@@ -1719,7 +1806,8 @@
             "Pages with maps",
             "Plaza de Armas de Maipú",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/6/6/j/9/santiago-west-and-south-wk/navidad-en-plaza-de-maipu-2023-small.webp"
         }
       ],
       "videos": [

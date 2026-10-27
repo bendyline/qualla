@@ -3,28 +3,30 @@
   "patch": {
     "media": {
       "hero": {
-        "path": "_m/g/c/4/r/youghal-lifeboat-station-wp/hero.jpg",
-        "filename": "Youghal town harbour.jpg",
-        "caption": "Youghal Harbour",
-        "alt": "Youghal Harbour",
-        "width": 4288,
-        "height": 2848,
+        "path": "_m/g/c/4/r/youghal-lifeboat-station-wp/rnlb-grace-daring-chat.jpg",
+        "filename": "RNLB Grace Daring - Chatham Historic Dockyard - September 2017 - geograph.org.uk - 5534926.jpg",
+        "caption": "RNLB Grace Daring - Chatham Historic Dockyard - September 2017",
+        "alt": "RNLB Grace Daring - Chatham Historic Dockyard - September 2017",
+        "width": 1250,
+        "height": 881,
         "mimeType": "image/jpeg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Will McGoldrick",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Youghal_town_harbour.jpg",
+        "license": "CC BY-SA 2.0",
+        "artist": "The Carlisle Kid",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:RNLB_Grace_Daring_-_Chatham_Historic_Dockyard_-_September_2017_-_geograph.org.uk_-_5534926.jpg",
         "sourceType": "core",
         "sourceArticleId": "youghal-lifeboat-station-wp",
         "sourceGeohash4": "gc4r",
         "categories": [
-          "CC-BY-SA-3.0",
-          "Taken with Nikon D90",
-          "Youghal"
-        ]
+          "CC-BY-SA-2.0",
+          "Images from Geograph Britain and Ireland",
+          "Images from the Borough of Medway",
+          "RNLI Historic Lifeboat Collection, Chatham"
+        ],
+        "smallPath": "_m/g/c/4/r/youghal-lifeboat-station-wp/rnlb-grace-daring-chat-small.webp"
       },
       "images": [
         {
-          "path": "_m/g/c/4/r/youghal-lifeboat-station-wp/ireland-relief-location-map.png",
+          "path": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map.png",
           "filename": "Ireland relief location map.png",
           "caption": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
           "alt": "Relief location map of Ireland\nEquirectangular map projection on WGS 84 datum, with N/S stretched 170%\nGeographic limits:\n\nWest: 11.0° W\nEast: 5.0° W\nNorth: 55.6° N\nSouth: 51.2° N",
@@ -43,7 +45,8 @@
             "Images with extracted images",
             "Maps by Nilfanion",
             "Relief location maps of Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/dublin-wp/ireland-relief-location-map-small.webp"
         },
         {
           "path": "_m/g/c/4/r/youghal-lifeboat-station-wp/rnlb-grace-daring-chat.jpg",
@@ -105,7 +108,8 @@
             "Sir Walter Raleigh",
             "Tudor portrait miniatures",
             "Yorck Project paintings missing described by source"
-          ]
+          ],
+          "smallPath": "_m/d/q/6/h/roanoke-colony-wp/sir-walter-raleigh-ova-small.webp"
         },
         {
           "path": "_m/g/c/4/r/youghal-wp/clockgatefront.jpg",
@@ -127,7 +131,9 @@
             "Clock Gate, Youghal",
             "Clocks in County Cork",
             "Taken with Nikon D200"
-          ]
+          ],
+          "mediumPath": "_m/g/c/4/r/youghal-wp/clockgatefront-medium.webp",
+          "smallPath": "_m/g/c/4/r/youghal-wp/clockgatefront-small.webp"
         },
         {
           "path": "_m/g/c/4/r/youghal-wp/youghal-lighthouse-geograph-or.jpg",
@@ -147,7 +153,9 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Youghal Lighthouse"
-          ]
+          ],
+          "mediumPath": "_m/g/c/4/r/youghal-wp/youghal-lighthouse-geograph-or-medium.webp",
+          "smallPath": "_m/g/c/4/r/youghal-wp/youghal-lighthouse-geograph-or-small.webp"
         }
       ],
       "narration": [

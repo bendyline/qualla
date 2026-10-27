@@ -36,7 +36,7 @@ This tile anchors the E11 in the Havelland at 52.48 N, 12.96 E, northwest of Pot
 
 ## Sources
 
-- [E11 hiking trail - Wikivoyage](https://en.wikivoyage.org/wiki/E11_hiking_trail)
+- [E11 hiking trail - Wikivoyage](https://en.wikivoyage.org/?curid=10252)
 - [Europäischer Fernwanderweg E11 - Wikipedia (German)](https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Fernwanderweg_E11)
   - the E11 as currently defined runs from Scheveningen to Tallinn, about 4,610 km through the Netherlands, Germany, Poland, Lithuania, Latvia and Estonia
   - German section 996 km: Töddenweg 111 km Bad Bentheim-Osnabrück; Wittekindsweg 95 km Osnabrück-Porta Westfalica; Hameln, Alfeld, Bad Gandersheim, Seesen; Harz via Goslar, Bad Harzburg, Wernigerode, Blankenburg, Thale; Lutherstadt Eisleben
