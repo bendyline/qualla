@@ -1,38 +1,45 @@
 # Cahokia Mounds
 
-The Mississippian capital that outgrew London - a planned Indigenous city of twenty thousand people, with its own astronomical observatory and an earthen pyramid taller than any other built in the Americas.
+America's forgotten city - where 20,000 people lived in 1100 AD, built a pyramid larger than any in Egypt's base, and created North America's largest pre-Columbian settlement before abandoning it for reasons still debated.
 
-**Location:** 38.6600, -90.0600
+**Location:** 38.6600, -90.0611
 
-**Categories:** illinois, indigenous, archaeology, mounds, unesco
+**Categories:** illinois, pre-columbian, mounds, unesco, archaeology
 
 ## Introduction
 
-Around the year 1100, a person standing in the central plaza of Cahokia would have seen something no European city of the era could match: a planned grid of neighborhoods stretching for miles across the floodplain, a hundred and twenty earthen pyramids ringing a public space larger than five football fields, and a wooden circle of red cedar posts that tracked the equinoxes with the precision of a clock. The population here exceeded twenty thousand. London at the same moment held perhaps fifteen. Cahokia was the largest city north of Mexico, and the people who built it were the ancestors of nations still alive today - Osage, Quapaw, Ponca, Omaha, and others whose oral traditions reach back toward the Mississippi. The mounds remain. Eight miles east of St. Louis, they rise out of the cornfields exactly where their builders left them.
+Cahokia was the largest city in North America until Philadelphia surpassed it in the 1780s. At its peak around 1100 AD, approximately 20,000 people lived in a planned urban center across the Mississippi River from present-day St. Louis. They built 120 earthen mounds, including Monks Mound - a 100-foot pyramid covering 14 acres, larger at its base than the Great Pyramid of Giza. They created a sophisticated society with social hierarchy, long-distance trade, astronomical observations, and organized agriculture. They had no writing system, so their history remains largely archaeological. By 1400, Cahokia was abandoned, its population dispersed for reasons that remain debated: environmental degradation, political upheaval, climate change, or some combination. The mounds remained, farmed over, quarried for fill, and largely ignored until archaeologists recognized what they represented. Now it's a UNESCO World Heritage Site - the forgotten city that challenges assumptions about pre-Columbian North America.
 
-## A City, Not a Mystery
+## The City
 
-For a long time, American textbooks treated Cahokia as a riddle - some vague civilization whose builders had vanished. The framing was wrong from the start. Cahokia was a Mississippian city, planned and constructed by Indigenous people who understood civil engineering, astronomy, hydrology, and political organization at a sophisticated scale. They laid out the central precinct on a deliberate grid aligned to the cardinal directions. They drained marshes, dug borrow pits, and routed footpaths between neighborhoods. They specialized: some households produced stone tools, others made shell beads, others farmed maize on the outlying bottoms. By 1050 CE the population was rising fast, drawn by what archaeologists describe as a deliberate founding event - a coordinated remaking of the landscape, the moment a village became a capital.
+Cahokia was planned and built rapidly around 1050 AD, suggesting a single organizing authority. The city center featured Monks Mound (a four-terraced pyramid with buildings atop it), surrounded by a 2-mile-long wooden palisade. Within the palisade were plazas, additional mounds (platform mounds for temples and conical mounds for burials), and elite residences. Beyond were neighborhoods of ordinary houses, workshops, and agricultural fields. A series of wooden posts called Woodhenge served as a solar calendar. The city drew population from surrounding areas, creating suburbs that extended for miles.
 
-## The Largest Earthwork in the Americas
+## The Society
 
-Monks Mound dominates the site, a flat-topped earthen pyramid rising in four terraces to a height of about one hundred feet. Its base covers roughly fourteen acres - a footprint slightly larger than the Great Pyramid of Giza. Workers built it basket by basket, hauling clay and loam in coiled containers, without metal tools, wheels, or draft animals. The labor stretched across multiple generations. The summit once held a long timber building, probably the residence of Cahokia's paramount chief, looking down on the Grand Plaza. The mound was not unique - it sat at the head of a system of more than one hundred and twenty mounds, some platforms for elite households, others conical burial mounds, others ridge-shaped markers that organized the city's quarters.
+Cahokia's society was stratified. The elite lived on or near mounds; commoners lived in outlying neighborhoods. Evidence suggests a paramount chief controlled the city, supported by a class of nobles. Human sacrifice occurred - one burial mound contained 53 young women, apparently killed together. Long-distance trade brought copper from Lake Superior, shells from the Gulf Coast, and mica from the Appalachians. The Cahokians were part of what archaeologists call the Mississippian culture, which spread across the eastern United States and shared characteristics including mound building, maize agriculture, and certain artistic motifs.
 
-## Reading the Sky
+## The Decline
 
-On the western edge of the central precinct, Cahokia's astronomers raised circles of red cedar posts now called Woodhenge. The wood is long gone, but the post-pits remain, and modern reconstructions stand on the original alignments. At the spring and fall equinoxes, an observer at the center post watches the sun rise directly out of the front of Monks Mound, as if the mound itself were generating the dawn. The summer and winter solstice positions are marked by other posts. This was a calendar built into the landscape, a working observatory that organized planting, harvest, and ritual cycles. Whoever stood at the Woodhenge center post on equinox morning was not guessing about the seasons. They were watching the city's clock strike.
+Cahokia's population peaked around 1100 and declined steadily thereafter. By 1300, most people had left; by 1400, the site was abandoned. The reasons remain debated. Environmental degradation is one theory - 20,000 people using wood for construction and fuel could have stripped the forest. The Little Ice Age brought climate stress. Political instability may have caused collapse. Flood damage appears in the archaeological record. Disease (possibly introduced through trade) is possible. The people didn't disappear - they dispersed to other settlements - but the city that had organized them was gone.
 
-## What Happened
+## The Rediscovery
 
-Cahokia's decline began around 1200 CE and unfolded across more than a century. The population thinned, the outlying neighborhoods emptied, and by roughly 1350 the city was effectively abandoned. The reasons are still being argued. Climate shifts during the early Little Ice Age stressed maize agriculture. Repeated flooding may have damaged farmland in the bottoms. Deforestation of the surrounding hills could have triggered erosion and runoff. Political and religious authority may have lost legitimacy as conditions worsened. The disappearance was not catastrophic; it was gradual, people leaving in family groups over generations and rejoining or founding the communities that became the historic tribes of the central Mississippi and Plains. The city ended. The people did not.
+Europeans found the mounds in the 1600s but didn't connect them to indigenous peoples. Wild theories attributed them to Vikings, Phoenicians, or lost civilizations. Some mounds were quarried for road fill or flattened for farming. Monks Mound got its name from Trappist monks who gardened there briefly. Serious archaeology began in the 20th century. The site became a state historic site in 1979 and a UNESCO World Heritage Site in 1982. Modern research continues to reveal Cahokia's complexity - and the tragedy of how much has been lost.
 
-## Walking the Site Today
+## Visiting Cahokia Mounds
 
-Cahokia Mounds State Historic Site in Collinsville, Illinois, preserves about seventy of the surviving mounds across roughly twenty-two hundred acres. UNESCO inscribed it as a World Heritage Site in 1982 - one of only a couple dozen such sites in the United States. A stair climbs the south face of Monks Mound, one hundred fifty-six steps to the summit, and from the top the geometry of the city resolves: the Grand Plaza directly ahead, the smaller mounds in their patterned arrangement, the St. Louis skyline glinting on the horizon ten miles west. The interpretive center frames the site through the words of present-day Indigenous nations who claim Cahokian ancestry. Interstate 55 cuts the property in half. Subdivisions press the boundary. What remains still holds the original alignment, still catches the equinox sun.
+Cahokia Mounds State Historic Site is located in Collinsville, Illinois, about 8 miles east of downtown St. Louis. The Interpretive Center provides excellent background on the Mississippian culture and Cahokia's history. A trail system connects major mounds; climbing the 154 steps to Monks Mound's summit offers views of the site and St. Louis skyline. Woodhenge is reconstructed. The Grand Plaza, once the city's center, is now grassy open space. The site is free and open daily. Allow at least 2-3 hours; serious exploration requires longer. St. Louis Lambert International Airport (STL) is 10 miles west. The site is most evocative on quiet weekday mornings.
 
 ## Flight Context
 
-Located at 38.66 degrees N, 90.06 degrees W on the Mississippi floodplain in southwestern Illinois, eight miles east of downtown St. Louis. From altitude, the site reads as a cluster of low geometric earthworks set in flat farmland - Monks Mound the obvious anchor, with smaller mounds in a north-south alignment around it. The Mississippi River and the Gateway Arch are visible to the west. Interstate 55/70 crosses the property. Nearest airports: KCPS (St. Louis Downtown, 6 nm WSW), KSTL (St. Louis Lambert, 14 nm NW), KBLV (Scott AFB / MidAmerica, 12 nm ESE). Best viewing altitude 3,000-5,000 ft AGL on an approach from the east; the four terraces of Monks Mound are visible in low sun.
+Located at 38.66°N, 90.06°W in the Mississippi River floodplain in southwestern Illinois, 8 miles east of downtown St. Louis. From altitude, Monks Mound is visible as a large rectangular earthwork, the largest pre-Columbian structure north of Mexico. Additional mounds dot the surrounding fields. The Gateway Arch and St. Louis skyline are visible to the west across the Mississippi River. Much of the original site has been developed; the preserved area appears as green space amid industrial and suburban development.
+
+## Sources
+
+- [Cahokia - Wikipedia](https://en.wikipedia.org/?curid=348454)
+  - 20,000 population at peak
+  - Monks Mound 100 feet tall
+  - Abandoned by 1400
 
 ## Review Notes
 
@@ -40,7 +47,14 @@ Located at 38.66 degrees N, 90.06 degrees W on the Mississippi floodplain in sou
 
 All facts verified: peak ~1100 AD, 20000 population, 120 mounds, Monks Mound 100ft tall covers 14 acres (slightly larger than Great Pyramid of Giza at 13 acres - claim is supported), abandoned by 1400. UNESCO World Heritage Site 1982 (not 1979 as a state historic site). Dignity: uses 'Indigenous peoples' appropriately. Woodhenge solar calendar confirmed. Sources already present. Spiciness 2.
 
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- America's forgotten city
+- A civilization America forgot
+
 ---
 
-*Word count: 770*
-*Read time: 4 minutes*
+*Word count: 895*
+*Read time: 5 minutes*

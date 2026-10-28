@@ -1,45 +1,45 @@
-# Green Bank: America's Quietest Town
+# The National Radio Quiet Zone
 
-The West Virginia valley where Wi-Fi is illegal, cell phones don't work, and microwave ovens require shielding - home to the world's largest steerable radio telescope, listening for whispers from the cosmos in a 13,000-square-mile zone of enforced electromagnetic silence.
+The 13,000-square-mile zone in West Virginia where WiFi is illegal, cell phones don't work, and microwave ovens are banned - all to protect a radio telescope listening for signals from the edge of the universe.
 
-**Location:** 38.4330, -79.8400
+**Location:** 38.4330, -79.8398
 
-**Categories:** west-virginia, radio-telescope, quiet-zone, science, seti
+**Categories:** west-virginia, astronomy, radio-telescope, technology, unique
 
 ## Introduction
 
-In Green Bank, West Virginia, your cell phone is useless. Not because of poor coverage - because using it is functionally illegal. The National Radio Astronomy Observatory operates the Green Bank Telescope here, a 485-foot dish so sensitive it could detect a cell phone signal on Saturn. To protect the telescope from interference, 13,000 square miles of Appalachia live under the National Radio Quiet Zone, where broadcast power is restricted, Wi-Fi networks are monitored, and microwave ovens must be shielded. The result is America's strangest community: scientists listening for signals from the beginning of time, refugees from electromagnetic sensitivity seeking relief, and locals living in what might be the last analog place in digital America.
+In the mountains of West Virginia, there's a place where the modern world is illegal. The National Radio Quiet Zone covers 13,000 square miles of the Allegheny Mountains, and within it, wireless signals are heavily restricted or banned. No cell towers. No WiFi in many areas. Microwave ovens must be shielded. All to protect the Green Bank Observatory, home to the world's largest fully steerable radio telescope, listening for signals so faint that a cell phone on Mars would drown them out. The telescope searches for pulsars, studies the formation of galaxies, and participates in SETI - the search for extraterrestrial intelligence. To hear the universe, the universe must be quiet. The Quiet Zone has attracted an unexpected population: 'electrosensitives' who believe wireless signals cause them physical harm. In Green Bank, they've found refuge. The town has become equal parts astronomical research station and sanctuary from the electromagnetic world.
 
 ## The Telescope
 
-The Green Bank Telescope is the world's largest fully steerable radio telescope - 485 feet in diameter, 17 million pounds of dish moving with precision measured in millimeters. It replaced the original 300-foot telescope, which collapsed in 1988 due to metal fatigue. The current instrument, operational since 2000, studies phenomena invisible to optical telescopes: pulsars, molecular clouds, the cosmic microwave background. It participates in the search for extraterrestrial intelligence, listening for signals that might indicate technological civilization elsewhere. The telescope's sensitivity requires absolute quiet - a single spark plug can drown out signals that traveled billions of light-years to reach Earth.
+The Green Bank Telescope (GBT) is the largest fully steerable radio telescope in the world. Its dish is 100 meters across - larger than a football field - and can point anywhere in the sky above the horizon. The telescope detects radio waves emitted by celestial objects: pulsars, galaxies, gas clouds, and potentially extraterrestrial civilizations. Radio waves are incredibly faint; the total energy received by all radio telescopes in history is less than a single snowflake falling. Any local interference - a cell phone, a microwave oven, a spark plug - would overwhelm the cosmic signals. The GBT needs silence.
 
 ## The Quiet Zone
 
-The National Radio Quiet Zone, established in 1958, covers 13,000 square miles of West Virginia, Virginia, and Maryland. Within this zone, the FCC restricts radio transmissions to protect Green Bank and the Sugar Grove intelligence facility. The inner core - a 10-mile radius around Green Bank - is strictest: no cell towers, restricted Wi-Fi, diesel vehicles preferred because gasoline ignition creates interference. The observatory employs a radio frequency interference patrol, driving modified trucks to locate and silence illegal transmitters. Residents have adapted to life without wireless convenience. The quiet that annoys some attracts others.
+The National Radio Quiet Zone was established in 1958 to protect the Green Bank facility and a nearby Navy communications base. The zone covers 13,000 square miles across West Virginia and Virginia. Within the core area around Green Bank, wireless transmissions are essentially banned. The FCC coordinates all radio emissions; cell towers don't exist; WiFi is prohibited in many buildings. Residents use wired internet or nothing. Cars with malfunctioning spark plugs are asked to leave. The observatory operates a fleet of radio-frequency detection vehicles that hunt down interference sources. A technician might knock on your door because your heating pad is disrupting observations of a galaxy 50 million light-years away.
 
-## The Refugees
+## The Electrosensitives
 
-Green Bank attracts people who believe they suffer from electromagnetic hypersensitivity - a condition mainstream medicine doesn't recognize but sufferers insist is real. They report headaches, fatigue, and neurological symptoms near wireless devices. Whether the cause is physical or psychological, the relief is consistent: moving to Green Bank, with its legally enforced low-EMF environment, reduces symptoms. A small but growing community of 'Wi-Fi refugees' has settled here, finding peace in the quiet zone. The observatory tolerates them; the science that requires electromagnetic silence inadvertently created America's only sanctuary from the wireless world.
+People with 'electromagnetic hypersensitivity' claim that wireless signals cause headaches, fatigue, and other symptoms. The condition is not recognized by mainstream medicine - studies have consistently failed to demonstrate that sufferers can detect electromagnetic fields. But the symptoms feel real to those who experience them. Green Bank has become a refuge: a town where WiFi doesn't exist, cell phones don't work, and wireless signals are illegal. Several dozen electrosensitives have moved to the area, finding relief in the Quiet Zone. The scientific community at the observatory doesn't necessarily accept their claims, but everyone coexists peacefully in electromagnetic silence.
 
-## The Culture
+## The Science
 
-Green Bank is a time capsule. With roughly 150 permanent residents, the town offers limited services and zero digital convenience. People use landlines. They visit the library for internet access. They drive to the zone boundary to check messages. The isolation that frustrates teenagers delights astronomers and refugees alike. The town hosts an annual star party - amateur astronomers gathering under some of the darkest, quietest skies in eastern America. The radio telescope is visible from the town, its dish tilting across the sky as it tracks the universe. Science and silence coexist, each requiring the other.
+The Green Bank Observatory does groundbreaking astronomy. The telescope discovered the first pulsar in a globular cluster, studies the cosmic microwave background, maps hydrogen gas in distant galaxies, and searches for extraterrestrial intelligence. The Breakthrough Listen project uses the GBT to scan nearby stars for artificial signals. If aliens are transmitting radio waves, Green Bank might hear them first. The telescope also trains the next generation of radio astronomers - students from around the world come to learn on equipment that exists nowhere else. The Quiet Zone makes all of this possible. Astronomy requires darkness for optical telescopes; it requires silence for radio telescopes.
 
 ## Visiting Green Bank
 
-Green Bank Observatory is located in Pocahontas County, West Virginia, roughly 50 miles north of Lewisburg via US-219. Tours of the telescope and facilities operate seasonally; reservations are recommended. The science center offers exhibits and a cafe. Before visiting, disable cellular devices - they cause detectable interference and may trigger observatory attention. The surrounding area offers Seneca Rocks climbing, Cass Scenic Railroad, and Monongahela National Forest recreation. Lodging is limited; Elkins and Lewisburg offer more options. The drive through the Allegheny Mountains is scenic year-round. Come prepared for analog existence - the quiet zone demands it.
+The Green Bank Observatory is located off Route 28 in Pocahontas County, West Virginia, about 150 miles west of Richmond, Virginia. The Science Center offers exhibits, tours, and gift shop. Bus tours of the telescope are available; advance reservations recommended. Cell phones and cameras must be turned off or surrendered near the telescope. The nearest commercial airports are in Charleston, WV (130 miles), or Richmond, VA (180 miles). The area is rural and mountainous; services are limited. Accommodations are available in nearby towns. The Quiet Zone experience is genuine - your phone will stop working as you approach. Consider it a feature.
 
 ## Flight Context
 
-Located at 38.43°N, 79.84°W in a mountain valley of eastern West Virginia. From altitude, the Green Bank Telescope is visible as a massive white dish in a narrow valley between Allegheny ridges - one of the most distinctive man-made structures in the Appalachians. The surrounding terrain is forested ridges and agricultural valleys, sparsely populated. The absence of urban development reflects both the rural economy and the quiet zone restrictions. No cell towers are visible within miles. The telescope looks like what it is: an ear turned toward the cosmos, requiring silence from the land around it to hear the universe speak.
+Located at 38.43°N, 79.84°W in the Allegheny Mountains of West Virginia. From altitude, the Green Bank Telescope is visible as a massive white dish in a mountain valley - the largest steerable dish in the world. The surrounding terrain is forested mountains, small farms, and scattered rural communities. No cell towers are visible. The National Radio Astronomy Observatory campus is clustered around the telescope. The Allegheny ridges run northeast-southwest. Charleston is 130 miles west. The isolation is intentional and apparent from the air.
 
 ## Sources
 
-- [Green Bank Telescope - Wikipedia](https://en.wikipedia.org/wiki/Green_Bank_Telescope)
-  - 485 feet diameter
-  - Operational since 2000
-  - National Radio Quiet Zone
+- [National Radio Quiet Zone - Wikipedia](https://en.wikipedia.org/wiki/United_States_National_Radio_Quiet_Zone)
+  - 13000 square miles
+  - established 1958
+  - Green Bank Telescope 100m dish
 
 ## Review Notes
 
@@ -51,10 +51,10 @@ Story overlay verified
 
 **Strong opinions:**
 
-- America's Quietest Town
-- The last analog place in digital America
+- A place where the modern world is illegal
+- To hear the universe, the universe must be quiet
 
 ---
 
-*Word count: 855*
+*Word count: 880*
 *Read time: 5 minutes*

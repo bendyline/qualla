@@ -1,59 +1,54 @@
-# Medicine Wheel
+# The Bighorn Medicine Wheel
 
-On a Wyoming mountaintop above timberline, a circle of limestone stones still serves as a place of prayer - eighty feet across, twenty-eight spokes, prayer cloths fluttering on the perimeter fence, and tribes who never stopped coming.
+The mysterious stone circle on a Wyoming mountaintop - 80 feet across, built by unknown people 500 to 800 years ago, aligned with sunrise on summer solstice and still used for ceremonies by tribes who consider it sacred ground.
 
 **Location:** 44.8278, -107.9217
 
-**Categories:** wyoming, sacred-site, native-american, national-historic-landmark, pilgrimage
+**Categories:** wyoming, native-american, archaeological, sacred-site, mystery
 
 ## Introduction
 
-Walk the last mile and a half to the Bighorn Medicine Wheel and the first thing you notice is the colored cloth. Tied to the perimeter fence in small bundles - red, yellow, white, black for the four directions - they twist in the wind that never stops at 9,642 feet. Inside each bundle is tobacco or sage, an offering left by someone who climbed this mountain to pray. The stones themselves, low and pale and arranged in a ring eighty feet across, are old. The cloth is new. Some of it was tied here last week. This is not a ruin. The Bighorn Medicine Wheel is a working sanctuary, one of North America's oldest pilgrimage destinations still in continuous use, and the wind-snapped bundles on the fence are the easiest evidence that the people who built places like this are still here, still arriving.
+At 9,642 feet in the Bighorn Mountains of Wyoming, a circle of limestone boulders forms one of North America's most mysterious prehistoric sites. The Bighorn Medicine Wheel is 80 feet across, with 28 spokes radiating from a central cairn to a rim of stones. It's old - perhaps 500 to 800 years - but no one knows exactly who built it or why. The wheel aligns with the summer solstice sunrise and with the rising points of several stars. Native American tribes consider it sacred, a place for vision quests and ceremonies that continues to be used today. Offerings of cloth and tobacco hang from the fence that now surrounds the site. The Medicine Wheel is both archaeological site and living sacred space - a place where the ancient and contemporary meet on a windswept mountaintop.
 
-## The Mountain First
+## The Structure
 
-Medicine Mountain is a long, treeless ridge in the Bighorn Range of north-central Wyoming, and the wheel sits near its summit on a windswept saddle of broken limestone. The mountain itself is sacred to the Crow, Cheyenne, Arapaho, Lakota, Shoshone, Blackfeet, and other Plains nations - the wheel is its most visible feature, but the entire ridge is the holy place. Snow buries the site nine months of the year, which is part of the point. The window for ceremony is short, the journey is difficult, and the altitude takes the breath of anyone who arrives without first acclimating. People walked up here to pray precisely because it cost something to get here. The road climbs through forest, then through stunted spruce, then into open alpine tundra where the wind can knock an unprepared visitor sideways. The wheel reveals itself only on the final approach.
+The Bighorn Medicine Wheel consists of a central cairn (stone pile) about 12 feet in diameter, surrounded by a ring of stones 80 feet across. Twenty-eight spokes of stones connect the center to the rim. Six smaller cairns sit on or near the rim. The stones are local limestone, gathered and placed by hand centuries ago. The construction required substantial effort - the site is remote, high, and only accessible during summer months. Similar medicine wheels exist across the northern Great Plains, from Wyoming to Alberta, but the Bighorn wheel is the largest and best preserved. Its precision suggests careful planning, though the planners left no written record.
 
-## The Shape of Prayer
+## The Astronomy
 
-The wheel is twenty-eight spokes radiating from a central cairn to an outer rim, with six smaller cairns spaced around the perimeter. The stones are local limestone, gathered from the slopes nearby and placed by hand. Dating has proven difficult - wood from one of the cairns gave a radiocarbon result suggesting construction within roughly the last 220 years, but archaeologists treat that as a minimum age; the original stones cannot be dated, and oral traditions place the site far earlier. The Crow say the wheel was already here when their ancestors arrived in the area. Some traditions tell of the Little People, mountain dwellers who taught the design to a Crow elder. The Arapaho name for the site is Hiieeinoonotii. Each tribe holds its own understanding of what the wheel is for, and those understandings are not the visitor's to collect.
+Astronomer John Eddy studied the Medicine Wheel in the 1970s and found significant alignments. The line from the central cairn to a cairn on the rim points to the summer solstice sunrise. Other cairn pairs align with the rising points of the stars Aldebaran, Rigel, and Sirius at the time of solstice. These stars were visible briefly at dawn during summer solstice when the wheel was built. Whether the alignments are intentional or coincidental remains debated - with enough points, some alignments are inevitable. But the solstice alignment appears deliberate: the wheel marks the longest day of the year on a mountain where winter would make observation impossible.
 
-## What the Stones Track
+## The Mystery
 
-In 1974 the astronomer John Eddy published a study in Science arguing that the wheel was a calendar. The line from the central cairn through one of the outer cairns points to the summer solstice sunrise; another points to its sunset. Three other pairs align with the heliacal risings of bright stars - Aldebaran, Rigel, and Sirius - at the time of solstice. With twenty-eight spokes and seven cairns, the wheel offers a great many possible alignments, and some scholars have argued that the solstice fits are partly coincidence. The tribes' own response to this debate has generally been patient: of course the wheel marks the solstice; that is one of the things sacred places do. The astronomical lens is real, but it is one lens. It is not the only one, and it was not the first.
+No one knows who built the Bighorn Medicine Wheel. Oral traditions among the Crow, Cheyenne, Arapaho, and other tribes associate medicine wheels with various purposes: astronomical observation, ceremonial space, memorial markers, teaching tools. Some traditions attribute the wheels to ancient people who predated current tribes. Archaeological evidence is limited - the stones don't preserve organic material for radiocarbon dating. The wheel is old enough that its builders' specific identity has been lost. It's a reminder that the Great Plains have been inhabited for thousands of years by peoples whose histories are mostly unwritten.
 
-## Joint Stewardship
+## The Sacred
 
-The wheel sits on land managed by the U.S. Forest Service, which complicates the simple-looking question of who is in charge. After years of negotiation, the Forest Service signed a Historic Preservation Plan in 1996 with the Medicine Wheel Coalition and the Medicine Wheel Alliance - groups representing the tribes that consider the site sacred - to share management decisions. The site was designated a National Historic Landmark in 1970, and renamed to recognize the entire Medicine Mountain landscape in 2011. Tribal members can close the site for ceremonies; visitors must walk in on foot from a parking area below; the perimeter fence keeps tourists at a respectful distance from the stones themselves. None of this satisfies everyone. Many tribal members would prefer the site closed to outsiders altogether. But the compromise has held, and the wheel itself has been protected from the casual desecration that ruined too many sacred places before it.
+For many Native American tribes, the Bighorn Medicine Wheel is sacred ground. Vision quests continue to occur here. Ceremonies mark the solstice. Prayer cloths and tobacco offerings accumulate on the fence surrounding the site. The Forest Service, which manages the land, restricts access during certain times for Native ceremonial use. This dual nature - archaeological site and living sacred space - creates management challenges. Tourists want access; tribes want privacy. The current compromise allows both, imperfectly. Visitors are asked to respect the sacred nature of the site, to leave offerings undisturbed, and to understand that they're visiting someone's church.
 
-## Visiting With Care
+## Visiting the Medicine Wheel
 
-Forest Road 12 climbs to the site from U.S. Highway 14A between Lovell and Burgess Junction, generally opening in late June and closing again in September depending on snow. The last 1.5 miles must be walked - no vehicles, no exceptions - on a service road that gains a few hundred feet of elevation at altitude already over nine thousand feet. Walk slowly; this is not the place to push your heart rate. Do not enter the fenced perimeter. Do not touch the stones. Do not photograph the offerings; for many tribes, the prayer cloths and bundles are private communications, not exhibits. If a ceremony is in progress, the site is closed - go quietly back down the road. Volunteer site stewards are usually present in summer and will answer questions; they are also there because this is somebody's church, and churches need watchers. Treat the visit the way you would treat any service in any tradition that is not your own.
+The Bighorn Medicine Wheel is located in the Bighorn National Forest, about 70 miles east of Lovell, Wyoming. The access road (Forest Road 12) is open approximately late June through September, depending on snow. The last 1.5 miles to the site is a walking trail; no vehicles. Interpretive signs explain the site's history and significance. Visitors should respect the sacred nature of the site: don't touch the stones, leave offerings undisturbed, and maintain quiet. The Forest Service may close the site for Native ceremonies. Billings, Montana, is 100 miles north; the nearest commercial airport is there. The drive and hike are worth it - the wheel itself is modest, but the setting and significance are profound.
 
 ## Flight Context
 
-Located at 44.83 degrees north, 107.92 degrees west on Medicine Mountain near the western edge of the Bighorn Range in north-central Wyoming, elevation at the wheel 9,642 feet. From altitude the site is essentially invisible - a small ring of pale stones on alpine tundra - but Medicine Mountain itself is a prominent long bald ridge running roughly north-south, distinctive in being above timberline while neighboring peaks are forested. The Bighorn Basin opens to the west toward Lovell and the Pryor Mountains. The high country to the south and east is wilderness. Cody (KCOD) is 75 miles southwest; Worland (KWRL) is 70 miles south; Sheridan County (KSHR) is 60 miles east. Mountain wave turbulence is common when westerly winds aloft exceed 25 knots over the range. Use caution in summer with afternoon thunderstorms that build quickly over the high terrain.
+Located at 44.83°N, 107.92°W atop Medicine Mountain in the Bighorn Range of Wyoming. From altitude, the Medicine Wheel is barely visible - a ring of pale stones on a high alpine meadow. The Bighorn Mountains run north-south; the wheel sits near the western edge of the range. Lovell, Wyoming, is to the west in the Bighorn Basin. The terrain is dramatic - the Bighorns rise abruptly from the basin floor. The site is above treeline, surrounded by alpine meadow. Billings, Montana, is 100 miles north. The isolation is apparent from altitude - no roads, no structures, just mountains.
 
 ## Sources
 
+- [Medicine wheel - Wikipedia](https://en.wikipedia.org/?curid=1150161)
 - [Medicine Wheel/Medicine Mountain National Historic Landmark - Wikipedia](https://en.wikipedia.org/wiki/Medicine_Wheel/Medicine_Mountain_National_Historic_Landmark)
+  - 80-82 feet diameter
+  - 28 spokes radiating from central cairn
   - Elevation 9,642 feet
-  - 80-foot diameter, 28 spokes, central cairn plus 6 perimeter cairns (7 total)
-  - Radiocarbon date suggests minimum age of roughly 220 years
-  - Sacred to Crow, Cheyenne, Arapaho, Lakota, Shoshone, Blackfeet
-  - National Historic Landmark designated 1970, renamed 2011
-  - Arapaho name Hiieeinoonotii
 - [John A. Eddy - Astronomical Alignment of the Big Horn Medicine Wheel (Science, 1974)](https://www.science.org/doi/10.1126/science.184.4141.1035)
-  - Summer solstice sunrise and sunset alignments
-  - Heliacal rising alignments with Aldebaran, Rigel, Sirius
-- [Bighorn National Forest - Medicine Wheel/Medicine Mountain (US Forest Service)](https://www.fs.usda.gov/r02/bighorn/natural-resources/arch-cultural/medicine-wheel-medicine-mountain-national-historic)
-  - Joint management with Medicine Wheel Coalition and Medicine Wheel Alliance
-  - 1996 Historic Preservation Plan
-  - Access on foot only for last 1.5 miles
-  - Seasonal access via Forest Road 12 from US 14A
-- [Bighorn Medicine Wheel pilgrimage and prayer offerings](https://cowboystatedaily.com/2024/02/18/sacred-bighorn-medicine-wheel-a-conduit-to-wyomings-prehistoric-past/)
-  - Prayer cloth bundles on perimeter fence in colors of the four directions
-  - Ongoing ceremonial use by Crow, Arapaho and other tribes
+  - Summer solstice sunrise alignment
+  - Star alignments with Aldebaran, Rigel, Sirius
+  - John Eddy 1970s research
+- [U.S. Forest Service - Medicine Wheel](https://www.fs.usda.gov/r02/bighorn/natural-resources/arch-cultural/medicine-wheel-medicine-mountain-national-historic)
+  - 300-800 years old estimate
+  - Site visited by Native Americans for 7,000 years
+  - National Historic Landmark status
 
 ## Review Notes
 
@@ -65,11 +60,9 @@ All facts verified accurate: dimensions (80ft, 28 spokes), elevation (9642ft), a
 
 **Strong opinions:**
 
-- This is not a ruin - the Bighorn Medicine Wheel is a working sanctuary
-- Each tribe holds its own understanding of what the wheel is for, and those understandings are not the visitor's to collect
-- Treat the visit the way you would treat any service in any tradition that is not your own
+- Visitors should respect the sacred nature of the site, to leave offerings undisturbed, and to understand that they're visiting someone's church
 
 ---
 
-*Word count: 895*
+*Word count: 880*
 *Read time: 5 minutes*

@@ -1,64 +1,51 @@
-# Bonanza Creek
+# Bonanza Creek Discovery
 
-The Yukon creek where three men - two of them Indigenous, only one of them later credited - found the gold that emptied half of North America northward in the last great rush of the nineteenth century.
+The Yukon creek where three men found gold in 1896 and sparked the last great gold rush - where you can still pan for gold on the actual Discovery Claim that sent 100,000 people racing to the frozen North.
 
-**Location:** 63.9168, -139.3170
+**Location:** 63.9400, -139.1000
 
-**Categories:** yukon, klondike, gold-rush, indigenous-history, mining, history, parks-canada
+**Categories:** canada, yukon, gold-rush, historic-site, mining
 
 ## Introduction
 
-It was called Rabbit Creek until August 16, 1896. Three men were salmon fishing along its lower reaches that afternoon - Skookum Jim Mason, his nephew Dawson Charlie, and Skookum Jim's American brother-in-law George Carmack - when one of them looked down at the gravel in the streambed and saw what no one who saw it could mistake. They renamed the creek that night. Within a year, the news had reached Seattle and San Francisco and started a stampede that would draw roughly one hundred thousand people toward this thin ribbon of water in the Yukon. About thirty thousand would actually make it. Most arrived too late to stake anything that mattered. The creek they came for was twenty miles long, in the homeland of the Han Hwech'in people, and by the time the rush was over it had been turned upside down for its gold.
+On August 16, 1896, on a tributary of the Klondike River in Canada's Yukon Territory, three men found gold. George Carmack, Skookum Jim, and Tagish Charlie were prospecting on Rabbit Creek when they spotted gold nuggets in the gravel - 'lying thick between the flaky slabs like cheese in a sandwich,' Carmack later wrote. They staked claims on what they renamed Bonanza Creek. Within days, every inch of the creek was claimed. Within a year, ships arriving in San Francisco and Seattle carrying gold sparked the Klondike Gold Rush - the last great gold rush in North American history. An estimated 100,000 people set out for the Klondike; perhaps 30,000 arrived. Today, the Discovery Claim on Bonanza Creek is a National Historic Site where visitors can pan for gold on the exact spot where it all began.
 
-## Who Saw It First
+## The Discovery
 
-Skookum Jim - whose Tagish name was Keish - was a packer who had hauled freight over the Chilkoot Pass for years. His sister Shaaw Tlaa, known to outsiders as Kate, had married a wandering American named George Carmack. The four of them, with Dawson Charlie (Kaa Goox), were camped along Rabbit Creek when the gold was found. The historical record is honest that no one is certain who first spotted it - Skookum Jim, Kate, or George - but the group made a quick and pragmatic decision. The mining authorities at Forty Mile would almost certainly refuse to register a Discovery Claim filed by an Indigenous man. So George Carmack was named the official discoverer, and the others took the adjacent claims. For most of the next century, school textbooks credited Carmack alone. The Tagish and Tlingit communities never forgot the truth, and modern historians and Parks Canada now name all four. Skookum Jim and Dawson Charlie became wealthy men. Kate Carmack did not - her husband eventually abandoned her and the marriage went unrecognized by American courts.
+George Carmack was an American prospector who had 'gone native,' living among the Tagish people and marrying into the family. Skookum Jim and Tagish Charlie were his brothers-in-law - experienced hunters and woodsmen who had spent their lives in the Yukon wilderness. In August 1896, the three were fishing for salmon near the mouth of the Klondike River when they met Robert Henderson, a prospector who mentioned finding gold on a nearby creek. The group went to investigate Rabbit Creek. On August 16, they found gold - thick deposits in the streambed that would prove to be among the richest in history. Carmack staked the Discovery Claim; Jim and Charlie staked claims upstream and downstream. They registered the claims in Fortymile, and the rush began.
 
-## The Stampede That Came Late
+## The Rush
 
-News of the strike took almost a year to escape the Yukon. The first outside word reached Seattle on July 17, 1897, when the steamer *Portland* docked carrying what the newspapers breathlessly called a ton of gold. The next two summers emptied small towns from California to Quebec as roughly a hundred thousand stampeders set out for the Klondike. The routes were cruel: the Chilkoot stairs cut into the snow, the White Pass that earned the nickname Dead Horse Trail, the long sail up the Inside Passage. Roughly thirty thousand actually reached Dawson City. The vast majority discovered, on arrival, that every creek worth working had been staked by the men already in the country when news broke - the so-called Yukon old-timers, who had been quietly prospecting for years. Most of the stampeders went home with nothing but a story. The merchants of Seattle and San Francisco made the steadiest fortunes the rush produced.
+News traveled slowly from the Yukon. It wasn't until July 1897, when ships arrived on the Pacific Coast carrying successful prospectors and gold, that the rush exploded. Within days, thousands of people were booking passage north. The routes were brutal: over the Chilkoot Pass from Skagway, down the Yukon River from Whitehorse, or around by sea to St. Michael and up the river. Canadian authorities required each prospector to bring a year's worth of supplies - roughly a ton of goods per person. Many turned back. Those who arrived found every claim staked. Most went home empty-handed. But the Klondike produced over $29 million in gold (1900 dollars) - billions in today's money.
 
-## A Creek Turned Inside Out
+## The Discovery Claim
 
-Pick and pan gave way quickly to industrial dredging. By the early 1900s, large corporate operations had bought up most of the original claims along Bonanza Creek and brought in giant floating dredges that chewed through the valley bottom one bucket at a time. Dredge No. 4, built in 1912 for the Canadian Klondike Mining Company, was the largest wooden-hulled bucket-line dredge in North America - eight storeys tall, two-thirds the length of a football field, displacing more than 2,700 tonnes. Its seventy-two iron buckets each held about half a cubic metre and rotated at twenty-two buckets a minute, so the machine could process eighteen thousand cubic yards of gravel a day. It worked Bonanza Creek from 1940 until 1959, leaving behind the long ridged tailings piles that still snake through the valley. Parks Canada bought the dredge in 1970 for a single dollar. You can walk through it now - cold, dim, the rusted teeth motionless, the wooden hull sagging into the very gravel it used to grind.
+The Discovery Claim - Claim No. 1 Below Discovery on Bonanza Creek - is where Carmack first staked. It was fabulously rich, producing hundreds of thousands of dollars in gold. The claim passed through various owners as the rush faded. In 1998, it was designated a National Historic Site. Today, visitors can tour the site, see the placer mining equipment, and pan for gold in the actual creek - there's still gold in Bonanza Creek, though not enough to get rich. The Discovery Claim is a touchstone: the exact spot where the Klondike Gold Rush began, preserved as both historical site and working gold operation.
 
-## What the Salmon Knew
+## The Aftermath
 
-Before the gold there were the fish, and behind the fish the people who lived from them. The Han Hwech'in - today the Tr'ondek Hwech'in First Nation - had fished the Klondike, the Yukon, and tributaries like Bonanza Creek for centuries. Their summer camp at the mouth of the Klondike was called Tr'ochek; it stood on what became, almost overnight, the south bank of Dawson City. The stampede displaced them. Their fishing eddies were claimed by miners, the river was clogged with sluice tailings, the salmon runs that returned every year began to collapse under the combined weight of dredging, sediment, and a hundred thousand strangers. The First Nation negotiated a self-government agreement with the Canadian Crown in 1998 and now operates Tr'ochek and the Dawson cultural centre as a heritage site of their own. The salmon are slower to return. Some years now, in the upper Yukon system, they barely come at all.
+Carmack became wealthy; Skookum Jim and Tagish Charlie did too, though their wealth brought complications in a society that didn't treat Indigenous people equally. Carmack eventually left his Tagish wife and remarried. The Klondike's gold was largely exhausted by 1899; most prospectors moved on to Nome, Fairbanks, or home. Dawson City, which had swelled to 30,000, crashed to a few hundred. The gold rush left Yukon with roads, infrastructure, and a mythology that persists today. The Discovery Claim itself continued to produce gold; modern mining operations still work Bonanza Creek. The gold is still there, buried in the permafrost and gravel.
 
-## Discovery Claim
+## Visiting Bonanza Creek
 
-About eleven miles southeast of Dawson City, a small Parks Canada interpretive site marks the original Discovery Claim - Claim 37903, five hundred feet by two thousand. There is a wooden boardwalk over the streambed, a few storyboards, the same gravel underfoot. Visitors are allowed to pan for gold downstream of the claim itself. Most days, you can hear the breeze through the spruce more clearly than you can hear another human voice. It is a quiet place for a creek that once started one of the largest peacetime migrations in North American history.
+The Discovery Claim National Historic Site is located on Bonanza Creek, approximately 15 kilometers southeast of Dawson City, Yukon. The site is open in summer; guided tours explain the history and demonstrate gold panning. Visitors can pan for gold and keep what they find. The Dredge No. 4 National Historic Site, featuring a massive gold dredge, is nearby. Dawson City offers extensive Gold Rush tourism: restored buildings, the Dawson City Museum, and Diamond Tooth Gertie's gambling hall. Dawson City has scheduled air service from Whitehorse; driving from Whitehorse takes 6-7 hours on the Klondike Highway. The best time to visit is June through August.
 
 ## Flight Context
 
-Coordinates 63.9168N, 139.317W (Discovery Claim, approximately 11 miles southeast of Dawson City). Bonanza Creek flows northwest into the Klondike River, which meets the Yukon River at Dawson City. From the air the dredge tailings are unmistakable - long parallel ridges of gravel, white in low sun, snaking down the creek valley for miles. Dredge No. 4 itself is a visible landmark on the lower creek. Recommended viewing altitude 1,500-3,000 ft AGL to see both the historic creek and Dawson's grid in the same frame. Dawson City Airport (CYDA) lies on the river flats at 1,215 ft elevation. The terrain rises to King Solomon's Dome at the head of the creek, so VFR approaches typically follow the river valleys. Expect smoke from boreal fires in mid-to-late summer, dramatic low light through August and September, and severe cold and short days in winter.
+Located at 63.94°N, 139.10°W on Bonanza Creek, southeast of Dawson City, Yukon. From altitude, Bonanza Creek is visible as a valley extending into the hills, with gravel tailings from over a century of mining visible along its length - white gravel piles marking worked claims. Dawson City is visible where the Klondike meets the Yukon River. The terrain is subarctic - boreal forest, permafrost, and mining scars. The Yukon River winds through the landscape. Dawson City Airport is nearby. Whitehorse is 535 kilometers south.
 
 ## Sources
 
 - [Bonanza Creek - Wikipedia](https://en.wikipedia.org/?curid=22785012)
-- [Discovery Claim - Wikipedia](https://en.wikipedia.org/wiki/Discovery_Claim)
-  - Gold first found August 16, 1896
-  - Original name Rabbit Creek
-  - Discoverers George Carmack, Kate Carmack, Skookum Jim (Keish), Dawson Charlie (Kaa Goox)
-  - Uncertainty over who actually spotted gold first
-  - George Carmack named official discoverer due to concerns about Indigenous claim recognition
-  - Discovery Claim 37903, 152.4m by 609.6m
-  - Site designated National Historic Site of Canada July 13, 1998
-  - Located approximately 11 miles southeast of Dawson City
-- [Dredge No. 4 - Wikipedia and Parks Canada](https://en.wikipedia.org/wiki/Dredge_No._4)
-  - Built 1912 for Canadian Klondike Mining Company
-  - Largest wooden-hulled bucket-line dredge in North America
-  - Eight storeys high, two-thirds the size of a football field
-  - Displacement over 2,700 tonnes
-  - 72 buckets, 22 buckets per minute, 14,000-18,000 cubic yards per day
-  - Worked Bonanza Creek 1940-1959
-  - Purchased by Parks Canada in 1970 for one dollar
-- [Keish (Skookum Jim Mason) - National Park Service](https://www.nps.gov/people/keish-skookum-jim.htm)
-  - Skookum Jim Tagish name Keish
-  - Dawson Charlie Tagish name Kaa Goox
-  - Tagish/Tlingit heritage of discoverers
-  - Kate Carmack (Shaaw Tlaa) was Skookum Jim's sister
+- [Klondike Gold Rush - Wikipedia](https://en.wikipedia.org/wiki/Klondike_Gold_Rush)
+  - August 16, 1896 discovery date
+  - George Carmack, Skookum Jim, Tagish Charlie
+  - 100,000 set out, 30,000 arrived
+- [Parks Canada - Discovery Claim National Historic Site](https://parks.canada.ca/culture/designation/lieu-site/concession-decouverte-discovery-claim)
+  - National Historic Site designated 1998
+  - Location on Bonanza Creek
+- [History.com - Gold Discovered in the Yukon](https://www.history.com/this-day-in-history/gold-discovered-in-the-yukon)
+  - Discovery sparked rush of 100,000+ prospectors
 
 ## Review Notes
 
@@ -67,12 +54,6 @@ Coordinates 63.9168N, 139.317W (Discovery Claim, approximately 11 miles southeas
 Corrected NHS designation date from 1972 to 1998. Discovery date, participants, and gold rush statistics verified. Spiciness 2.
 
 **Spiciness:** 2/5
-
-**Strong opinions:**
-
-- For most of the next century, school textbooks credited Carmack alone - the Tagish and Tlingit communities never forgot the truth
-- The merchants of Seattle and San Francisco made the steadiest fortunes the rush produced
-- The salmon are slower to return - some years now, in the upper Yukon system, they barely come at all
 
 ---
 

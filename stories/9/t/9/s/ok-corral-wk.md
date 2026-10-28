@@ -1,38 +1,62 @@
-# OK Corral / Tombstone, Arizona
+# O.K. Corral
 
-The thirty-second gunfight everyone remembers was just the opening act of a five-month killing spree that turned the Earp brothers into American myth.
+Thirty seconds in Tombstone - where Wyatt Earp and Doc Holliday faced the Clanton and McLaury gang on October 26, 1881, in the most famous gunfight in Western history.
 
-**Location:** 31.7137, -110.0676
+**Location:** 31.7129, -110.0676
 
-**Categories:** history, wild-west, arizona, frontier, boomtown
+**Categories:** arizona, wild-west, gunfight, 1881, wyatt-earp
 
 ## Introduction
 
-Thirty seconds. About thirty shots. Three men dead in a narrow lot on Fremont Street, six doors west of the corral that would give the fight its name. On October 26, 1881, a feud between Tombstone's town marshals and a loose confederation of cattle rustlers known as the Cowboys finally exploded into open gunfire - and most retellings stop there, freeze-framed on Wyatt Earp standing over Billy Clanton in the dust. But the gunfight was the easy part. What happened next is what actually made the Earps legendary, and it was much worse.
+The gunfight at the O.K. Corral lasted approximately thirty seconds. When it ended on October 26, 1881, three men lay dead or dying in a vacant lot near Tombstone, Arizona's commercial corral. Wyatt Earp, his brothers Virgil and Morgan, and their friend Doc Holliday had faced five members of the Clanton-McLaury gang in what became the most mythologized moment in the history of the American West. The fight was actually the climax of a longstanding feud between the Earps - lawmen with uncertain ethics - and the 'Cowboys,' a loose gang of ranchers, rustlers, and outlaws. In reality, it wasn't fought at the O.K. Corral but in a narrow lot on Fremont Street nearby. The aftermath included murder, vendetta, and flight. The legend, built by dime novels, Hollywood, and Tombstone's tourism industry, turned thirty seconds of violence into the defining image of frontier justice.
 
-## A Silver Boomtown With a Body Count
+## The Feud
 
-Tombstone shouldn't have existed. When the prospector Ed Schieffelin started poking around the San Pedro Valley in 1877, a scout warned him the only rock he'd find would be his own tombstone. Schieffelin found silver instead, named his first claim after the joke, and within four years the town that sprang up around his strike had ballooned from a hundred dusty optimists to roughly seven thousand. The Cochise County silver district produced tens of millions of dollars in bullion. The miners worked six thousand strong. The Bird Cage Theatre ran twenty-four hours a day. And out in the surrounding valleys, the Cowboys - cattle rustlers, stage robbers, smugglers operating across the Mexican border - kept getting bolder. Tombstone in 1881 was a town with too much money, too many guns, and a city ordinance against carrying firearms inside the limits that nobody seemed willing to enforce. Until the Earps tried.
+Tombstone in 1881 was a boomtown of perhaps 7,000 people, built on silver mining and sustained by cowboys who drove cattle through from Mexico - many of them stolen. The Earp brothers arrived seeking fortune: Wyatt dealt faro and served as deputy sheriff; Virgil became town marshal; Morgan was a shotgun messenger and special policeman. Doc Holliday, a tubercular dentist turned gambler, was Wyatt's closest friend. The 'Cowboys' - the Clantons, McLaurys, and their associates - represented the rural ranching faction that clashed with town authority. Insults, accusations of stage robbery, and personal grudges escalated. By October, both sides were looking for a fight.
 
-## Six Doors From the Corral
+## The Fight
 
-Virgil Earp was the actual lawman - Deputy U.S. Marshal and town marshal both. Wyatt and Morgan were deputized that morning. Doc Holliday, tubercular and lethal, came along because Doc went where Wyatt went. They walked west down Fremont Street to disarm Ike and Billy Clanton, Tom and Frank McLaury, and Billy Claiborne, who were standing in a vacant lot waiting for them. Who fired first has been argued for 145 years. The Earps said the Cowboys drew. The surviving Cowboys said they were trying to surrender. What's certain is that when the shooting stopped, Billy Clanton and both McLaury brothers were dying. Virgil, Morgan, and Doc were wounded. Wyatt stood untouched. Ike Clanton, who had spent the previous night drunkenly threatening to kill the Earps, had run for cover and survived. He filed murder charges the next morning.
+On October 26, 1881, word reached Virgil Earp that armed Cowboys were gathering in a vacant lot near the O.K. Corral. He deputized Wyatt and Morgan and asked Holliday to help. The four men walked down Fremont Street and confronted five Cowboys: Ike and Billy Clanton, Tom and Frank McLaury, and Billy Claiborne. Virgil reportedly called for them to throw up their hands. What happened next is disputed - both sides claimed the other fired first. In approximately thirty seconds, some thirty shots were fired. Billy Clanton and both McLaurys were killed. Virgil, Morgan, and Holliday were wounded. Only Wyatt emerged untouched.
 
-## The Long Winter
+## The Vendetta
 
-The Spicer hearing dragged on for thirty days and cleared the Earps. The Cowboys answered with darkness. On December 28, 1881, ambushers fired buckshot through the second-story windows of the Oriental Saloon and shattered Virgil's left arm so badly he never used it again. Wyatt wired Washington and got himself appointed Deputy U.S. Marshal. The town held its breath through the winter. Then on March 18, 1882, Morgan Earp was playing billiards at Campbell and Hatch's saloon when a shot came through the glass door of the rear alley. The bullet broke his spine. He died on the pool table at twenty-nine, telling his brothers he could not feel his legs. Wyatt had warned him. The next morning he put Virgil and the family on a train for California.
+The Earps were charged with murder but exonerated at a preliminary hearing. The Cowboys didn't accept the verdict. On December 28, 1881, Virgil was ambushed and permanently maimed. On March 18, 1882, Morgan was shot through a window while playing billiards - he died within an hour. Wyatt embarked on what became known as the 'Vendetta Ride,' hunting down those he blamed for his brothers' fates. He killed at least three men, possibly more, before fleeing Arizona with warrants for his arrest. He would never return. The 'good guys' and 'bad guys' of the O.K. Corral story were considerably more ambiguous than legend suggests.
 
-## The Vendetta Ride
+## The Legend
 
-Wyatt boarded that train as far as Tucson, where he had reason to believe Frank Stilwell was waiting to finish the job. On the rail yard the night of March 20, Wyatt found him. Stilwell was discovered the next morning beside the tracks, his body riddled with buckshot. From there Wyatt, Doc, Sherman McMaster, Texas Jack Vermillion, Turkey Creek Jack Johnson, and a small federal posse simply rode. They killed Florentino Cruz at a wood camp on March 22. They killed Curly Bill Brocius at Iron Springs on March 24 - or so Wyatt always insisted, though the body was never produced and the Cowboys denied it for the rest of their lives. By April the posse had crossed into Colorado. Arizona had warrants out for them. Wyatt never went back.
+The gunfight became famous almost immediately, covered by newspapers across the country. Dime novels embellished it. Wyatt Earp lived until 1929, long enough to consult on early Hollywood Westerns and influence how he would be remembered. Stuart Lake's 1931 biography 'Wyatt Earp: Frontier Marshal' invented much of the legend. The 1957 film 'Gunfight at the O.K. Corral' and later movies solidified the myth. In reality, the Earps were not always lawful, the Cowboys were not always criminal, and the fight itself was a messy, ambiguous few seconds of violence. But the legend - the iconic showdown between lawmen and outlaws - defines how Americans imagine the Old West.
 
-## Becoming a Myth
+## Visiting Tombstone
 
-Wyatt Earp drifted through fifty more years - Alaska gold rushes, California oilfields, Hollywood, where he hung around movie sets befriending cowboy actors who would one day play him. He died in Los Angeles in 1929, broke and largely forgotten, no bullets in him. Two years later a journalist named Stuart Lake published Wyatt Earp: Frontier Marshal, a biography so embellished that historians have spent the better part of a century untangling it from the record. The film industry took it from there. The thirty-second fight became the central parable of the American West - law against lawlessness, brothers against the dark - and the long, ugly, mostly extralegal vendetta that followed got quietly edited out. Tombstone today is a town of about thirteen hundred people that gets four hundred fifty thousand visitors a year, and most of them still don't know how the story really ended.
+Tombstone, Arizona, 'The Town Too Tough to Die,' preserves its Wild West heritage with enthusiasm. The O.K. Corral Historic Complex, actually located on the site of the original Tombstone Livery, recreates the gunfight through exhibits and daily reenactments. The actual gunfight site is in a vacant lot on Fremont Street, marked by life-size figures of the participants. Boothill Graveyard contains the graves of the McLaurys and Billy Clanton. Allen Street, the main drag, features saloons, shops, and staged shootouts. The Bird Cage Theatre, Rose Tree Inn, and other historic buildings can be toured. Tombstone is 70 miles southeast of Tucson; Tucson International Airport (TUS) is the nearest major airport. October brings the anniversary celebration and 'Helldorado Days.' The town is unabashedly touristy, but the desert setting and genuine history make it compelling.
 
 ## Flight Context
 
-The historic district sits at 31.7137 N, 110.0676 W on a mesa at 4,539 feet between the Dragoon and Mule Mountains in southeastern Arizona. The vacant lot where the fight occurred is on Fremont Street between Third and Fourth, just north of the modern reenactment grounds at the O.K. Corral. The nearest controlled field is Bisbee Douglas International (KDUG), 28 nautical miles southeast; Tucson International (KTUS) lies 60 nautical miles northwest. Boot Hill is visible on the rise at the north edge of town. Clear desert visibility is the norm; afternoon convective buildups are common in summer monsoon season (July-September).
+Located at 31.71°N, 110.07°W in Cochise County, Arizona, about 70 miles southeast of Tucson. From altitude, Tombstone appears as a small town in the high desert grasslands of southeastern Arizona. The Dragoon Mountains rise to the east; the Huachuca Mountains to the west. The landscape of mesquite and desert scrub has changed little since 1881.
+
+## Sources
+
+- [Gunfight at the O.K. Corral - Wikipedia](https://en.wikipedia.org/?curid=64211)
+  - October 26, 1881
+  - 30 seconds
+  - ~30 shots
+  - 3 killed
+  - fight was on Fremont Street
+- [Morgan Earp - Wikipedia](https://en.wikipedia.org/wiki/Morgan_Earp)
+  - killed March 18, 1882
+  - shot through window playing billiards
+- [Virgil Earp - Wikipedia](https://en.wikipedia.org/wiki/Virgil_Earp)
+  - ambushed December 28, 1881
+  - permanently maimed
+- [Wyatt Earp - Wikipedia](https://en.wikipedia.org/wiki/Wyatt_Earp)
+  - died January 13, 1929
+  - consulted on early Hollywood Westerns
+- [Wyatt Earp: Frontier Marshal - Wikipedia](https://en.wikipedia.org/wiki/Wyatt_Earp:_Frontier_Marshal)
+  - Stuart Lake 1931 biography
+  - highly fictionalized
+- [Tombstone, Arizona - Wikipedia](https://en.wikipedia.org/wiki/Tombstone,_Arizona)
+  - population ~7,000 in 1881
+  - silver mining boomtown
 
 ## Review Notes
 
@@ -40,7 +64,14 @@ The historic district sits at 31.7137 N, 110.0676 W on a mesa at 4,539 feet betw
 
 All facts verified: October 26 1881, 30 seconds, ~30 shots, 3 killed (Billy Clanton, Tom and Frank McLaury), Wyatt/Virgil/Morgan Earp + Holliday vs 5 Cowboys. Virgil ambushed Dec 28 1881. Morgan killed March 18 1882. Wyatt died 1929. Stuart Lake 1931 biography. Population ~7000. Sources already present. Spiciness 3.
 
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- lawmen with uncertain ethics
+- good guys and bad guys were considerably more ambiguous than legend suggests
+
 ---
 
-*Word count: 815*
-*Read time: 4 minutes*
+*Word count: 895*
+*Read time: 5 minutes*

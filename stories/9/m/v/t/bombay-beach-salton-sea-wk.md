@@ -1,60 +1,62 @@
-# Bombay Beach: The Apocalypse You Can Visit
+# Bombay Beach
 
-The California beach town that died twice - first when the Salton Sea's rising waters flooded it in the 1970s, then again when the falling waters exposed miles of dead fish and toxic dust, leaving art installations in the ruins and residents who refuse to leave.
+The post-apocalyptic California town where the Salton Sea retreated and left ruins - abandoned motels, dead fish, and art installations that make the most of the strangest landscape in America.
 
-**Location:** 33.3500, -115.7300
+**Location:** 33.3517, -115.7292
 
-**Categories:** california, salton-sea, decay, art, environmental
+**Categories:** california, environmental, art, decay, salton-sea
 
 ## Introduction
 
-Welcome to Bombay Beach, California, where the end of the world happened gradually, then all at once, and now makes for excellent Instagram backgrounds. This was supposed to be the next Palm Springs - a resort community on the shore of the Salton Sea, California's largest lake, born from an engineering accident in 1905. By the 1950s, speedboat racing, yacht clubs, and Hollywood celebrities made Bombay Beach desirable. Then the sea began to die. Rising salinity killed the fish. Falling water levels exposed beaches of bones and salt. The smell became unbearable. The population crashed from 400 to barely 200. What remains is a ghost town that isn't quite dead, decorated with art installations that comment on its own apocalypse, inhabited by artists, outcasts, and people who found the end of the world oddly comfortable.
+On the eastern shore of the Salton Sea, a town is dying in slow motion. Bombay Beach was once a resort destination, when the Salton Sea was California's most popular recreational lake in the 1950s. Then the sea began to shrink. Then it began to die. The water grew saltier than the Pacific, killing the fish that drew anglers. The shoreline retreated, leaving abandoned boats on dry land. The town's population crashed from thousands to a few hundred hardy souls and artists who found beauty in the decay. Today, Bombay Beach is a pilgrimage site for photographers and urban explorers - a ready-made set for post-apocalyptic films, where abandoned motels rust beside salt-crusted shores and art installations transform the ruins into something almost beautiful. The Salton Sea is California's largest lake and its biggest environmental disaster. Bombay Beach is where that disaster becomes visible.
 
-## The Mistake
+## The Accident
 
-The Salton Sea wasn't supposed to exist. In 1905, irrigation canals from the Colorado River breached during flooding; for two years, the entire river flowed into the Salton Sink, a desert basin 223 feet below sea level. By the time engineers stopped the breach, California had a new inland sea - 35 miles long, saltier than the Pacific, and completely unplanned. The sea had no outlet; water entered from agricultural runoff but left only through evaporation, concentrating salt and agricultural chemicals. For fifty years, no one cared. The fishing was good, the boating was better, and Bombay Beach was born as a modest resort on the eastern shore.
-
-## The Golden Age
-
-In the 1950s and 60s, Bombay Beach dreamed big. The Salton Sea was marketed as the 'California Riviera' - speed boat racing drew national attention, yacht clubs opened, and real estate developers platted thousands of lots along the shore. Frank Sinatra visited. The Beach Boys sang about it (probably). Motels and marinas served tourists escaping the winter. The town never became Palm Springs, but it wasn't trying to - it was an affordable desert getaway for working-class Angelenos, a place where you could own waterfront property without being rich. Then the sea began to turn.
+The Salton Sea exists by accident. In 1905, engineers diverting Colorado River water for irrigation lost control of the canal. For two years, the entire flow of the Colorado poured into the Salton Sink, a below-sea-level depression in the desert. By the time the breach was closed, a lake 45 miles long and 20 miles wide had formed - California's largest body of water, created by engineering failure. For decades, agricultural runoff kept the lake full. Fish were introduced; birds arrived; resort towns grew. Bombay Beach, on the eastern shore, became a vacation destination. By the 1970s, the Salton Sea was California's most popular recreational area.
 
 ## The Collapse
 
-By the 1970s, the Salton Sea's salinity was killing fish - massive die-offs left rotting tilapia on every beach. Agricultural runoff concentrated pesticides and selenium. Rising waters in the 1970s and 80s flooded parts of Bombay Beach; residents built berms and watched their town slowly drown. Then the water began to recede, exposing mudflats that baked into toxic dust. The smell of hydrogen sulfide - rotten eggs - drove away anyone who could leave. Property values collapsed. The yacht clubs closed. By 2000, Bombay Beach was the poorest community in California, its median household income under $20,000, its population a fraction of its peak.
+The Salton Sea has no outlet. Water enters from agricultural runoff and evaporates, leaving minerals behind. Over decades, the sea has grown saltier than the Pacific Ocean. Agricultural chemicals have concentrated. Periodic die-offs kill millions of fish, whose rotting bodies line the shore. The smell, at times, is overpowering. As the sea shrank, shoreline resorts found themselves stranded inland. Property values collapsed. Population fled. Bombay Beach went from vacation destination to census tract with the lowest per capita income in California. The few hundred remaining residents live amid the ruins of a former resort community.
 
 ## The Art
 
-Into the ruins came artists. Bombay Beach's apocalyptic landscape attracted creators who found beauty in decay - or at least good material. The Bombay Beach Biennale began in 2016, transforming abandoned structures into art installations: a drive-in movie theater screening static, a swing set over receding water, sculptures made from the bones of dead fish. The art doesn't fix anything; it comments on the unfixable. Bombay Beach has become a pilgrimage site for photographers, filmmakers, and tourists seeking the aesthetic of collapse. The residents who remain - artists, retirees, people with nowhere else to go - have made peace with living in an art project about their own destruction.
+Into this decay came artists. The Bombay Beach Biennale, started in 2016, brings installations, performances, and sculptures to the abandoned town. Artists work with the existing decay - rusted cars become sculpture, abandoned buildings become galleries. Drive-in movie screens play films to empty lots. A swing set faces the retreating sea. The art doesn't prettify Bombay Beach; it amplifies its strangeness. The result is a landscape that functions as both environmental warning and aesthetic experience. Photographers and filmmakers come constantly, drawn by the ready-made apocalypse. Bombay Beach has become famous for its ruin.
+
+## The Future
+
+The Salton Sea continues to shrink. As it does, exposed lakebed releases toxic dust - arsenic, selenium, pesticides accumulated over decades. The Imperial Valley's agricultural industry depends on the sea to absorb irrigation runoff; without it, the water table rises. California has proposed various restoration plans, all expensive and politically contentious. Meanwhile, Bombay Beach persists. A handful of new residents have arrived, drawn by cheap land and creative possibilities. Art installations accumulate. The town hovers between death and transformation - too strange to abandon, too damaged to save.
 
 ## Visiting Bombay Beach
 
-Bombay Beach is located on the Salton Sea's eastern shore, accessible via Highway 111 south of Palm Springs. The town is public; you can drive through, stop, and photograph. Be respectful - people live here. The art installations are scattered throughout; some endure, some decay, new ones appear. The beach itself is a surreal landscape of salt, mud, and fish bones. The smell varies with wind and temperature; summer is brutal. The Ski Inn, Bombay Beach's sole bar, offers cold beer and local conversation. Slab City, the anarchic squatter community, is nearby for those seeking more apocalypse. Palm Springs is 60 miles northwest, a different California entirely. Bring water, expect nothing, and prepare for something unforgettable.
+Bombay Beach is located on Highway 111 on the eastern shore of the Salton Sea, about 60 miles north of the Mexican border. The town is free to explore; drive slowly through the streets to see abandoned structures and art installations. The shoreline is accessible but unpleasant - dead fish, salt crust, and smell. Salvation Mountain is 30 miles south; the International Banana Museum is nearby. El Centro (40 miles south) and Palm Springs (70 miles north) have services. The nearest commercial airports are in Palm Springs or San Diego. Visit in cooler months (October-April); summer temperatures exceed 110°F. Bring water, sunscreen, and low expectations.
 
 ## Flight Context
 
-Located at 33.35°N, 115.73°W on the Salton Sea's eastern shore. From altitude, Bombay Beach appears as a small grid of streets - some occupied, some abandoned - at the edge of the shrinking sea. The Salton Sea itself is visible as a large blue-gray body of water, its former shoreline marked by white salt deposits. The sea is visibly lower than it once was; former beaches are now salt flats. The Sonoran Desert surrounds everything. Palm Springs and the Coachella Valley are visible to the northwest. The agricultural fields that drain into the sea - creating the very problem killing it - stretch to the south. From altitude, Bombay Beach looks like any small desert town. The apocalypse isn't visible until you land.
+Located at 33.35°N, 115.73°W on the eastern shore of the Salton Sea in California. From altitude, Bombay Beach appears as a small grid of streets at the sea's edge, with the irregular white shoreline of salt deposits visible. The Salton Sea spreads to the west and north - a large saline lake in the Imperial Valley. The sea's shrinking is visible as bathtub-ring marks on the surrounding terrain. El Centro is 40 miles south. Palm Springs is 70 miles northwest. The terrain is below sea level, part of the Salton Trough. The decay is visible from altitude - this is not a thriving community.
 
 ## Sources
 
 - [Salton Sea - Wikipedia](https://en.wikipedia.org/?curid=440359)
-  - 1905 irrigation breach
-  - two years to close
 - [Bombay Beach Biennale - Wikipedia](https://en.wikipedia.org/wiki/Bombay_Beach_Biennale)
-  - Biennale started 2016
-  - art installations transforming town
+  - founded 2016
+  - Tao Ruspoli Stefan Ashkenazy Lily Johnson White
+  - art of decay theme
+- [PBS SoCal - Bombay Beach](https://www.pbssocal.org/shows/artbound/bombay-beach-biennale-co-creating-a-cultural-revival-at-the-salton-sea)
+  - Salton Sea ecological crisis
+  - art installations
 
 ## Review Notes
 
 **Reviewed:** 2026-01-12 · 7 facts verified
 
-**Spiciness:** 4/5
+**Spiciness:** 3/5
 
 **Strong opinions:**
 
-- The Apocalypse You Can Visit
-- The end of the world happened gradually, then all at once
+- The post-apocalyptic California town where the Salton Sea retreated and left ruins
+- Bombay Beach has become famous for its ruin
 
 ---
 
-*Word count: 850*
+*Word count: 870*
 *Read time: 5 minutes*
